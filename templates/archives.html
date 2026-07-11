@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block title %}Archives — Spectre{% endblock %}
+{% block content %}
+<section class="page-head">
+  <p class="eyebrow">Mémoire hebdomadaire</p>
+  <h1>Archives</h1>
+  <p class="lede">Instantanés des événements, angles morts et répartitions de couverture.</p>
+</section>
+{% for snap in snapshots %}
+<article class="event-card archive-card">
+  <h2><a href="archives/{{ snap.week }}.html">Semaine {{ snap.week }}</a></h2>
+  <p class="meta">{{ snap.clusters | length }} événements ·
+     {{ snap.clusters | selectattr("blindspot_for") | list | length }} angles morts</p>
+</article>
+{% else %}
+<p class="empty-state">Aucun instantané pour le moment.</p>
+{% endfor %}
+{% endblock %}

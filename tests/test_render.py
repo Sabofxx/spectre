@@ -1,7 +1,9 @@
 """Rendering: the droits-voisins guard, as a pytest and not only a CI step."""
 
+import xml.etree.ElementTree as ET
+
 from spectre import db as dbmod
-from spectre.render import build_site, find_leaks
+from spectre.render import build_cards, build_site, find_leaks
 
 from conftest import make_article
 
@@ -46,7 +48,7 @@ def test_ollama_section_rendered_with_ai_label_and_autoescape(conn, tmp_path):
         "event_summary": "Résumé <script>alert('xss')</script> neutre.",
         "framing": {"gauche": "angle & <b>gras</b>", "centre": None, "droite": None},
         "omissions": None,
-        "model": "qwen2.5:7b-instruct",
+        "model": "qwen3:4b",
         "article_ids": [1, 2],
     }
     dbmod.save_analysis(conn, cluster_id, "ollama", json.dumps(hostile, ensure_ascii=False))
@@ -69,3 +71,95 @@ def test_find_leaks_catches_a_leak(conn, tmp_path):
     leaks = find_leaks(conn, tmp_path)
     assert len(leaks) > 0
     assert SECRET in leaks
+
+
+def test_blindspots_rss_escapes_xml_text_and_links(conn, tmp_path):
+    articles = []
+    for source_id in ("d1", "d2", "d3"):
+        art = make_article(
+            source_id=source_id,
+            title="A & B < C",
+            url=f"https://example.org/{source_id}?x=1&y=2",
+        )
+        dbmod.insert_article(conn, art)
+        articles.append(
+            conn.execute("SELECT id, title FROM articles WHERE url = ?", (art.url,)).fetchone()
+        )
+
+    cluster_id = dbmod.create_cluster(conn, b"\x00" * 8, articles[0]["title"], articles[0]["id"])
+    for row in articles[1:]:
+        dbmod.add_cluster_member(conn, cluster_id, row["id"], 0.9)
+    dbmod.update_cluster(conn, cluster_id, b"\x00" * 8, articles[0]["title"], 3)
+    dbmod.set_cluster_blindspot(conn, cluster_id, 1.0)
+    conn.commit()
+
+    build_site(conn, tmp_path)
+
+    rss_path = tmp_path / "blindspots.xml"
+    root = ET.parse(rss_path).getroot()
+    item = root.find("./channel/item")
+    assert item is not None
+    assert item.findtext("title") == "[angle mort de la gauche] A & B < C"
+    assert item.findtext("link") == "https://example.org/d1?x=1&y=2"
+
+
+def test_feed_cards_sort_by_distinct_sources_before_article_count(conn):
+    many_articles_one_source = []
+    for i in range(5):
+        art = make_article(source_id="g1", title=f"Un seul média {i}", hours_ago=1)
+        dbmod.insert_article(conn, art)
+        many_articles_one_source.append(
+            conn.execute("SELECT id FROM articles WHERE url = ?", (art.url,)).fetchone()[0]
+        )
+    broad_coverage = []
+    for source_id in ("g1", "d1"):
+        art = make_article(source_id=source_id, title=f"Deux médias {source_id}", hours_ago=1)
+        dbmod.insert_article(conn, art)
+        broad_coverage.append(
+            conn.execute("SELECT id FROM articles WHERE url = ?", (art.url,)).fetchone()[0]
+        )
+
+    c1 = dbmod.create_cluster(conn, b"\x00" * 8, "Un seul média", many_articles_one_source[0])
+    for aid in many_articles_one_source[1:]:
+        dbmod.add_cluster_member(conn, c1, aid, 0.9)
+    dbmod.update_cluster(conn, c1, b"\x00" * 8, "Un seul média", len(many_articles_one_source))
+    c2 = dbmod.create_cluster(conn, b"\x00" * 8, "Deux médias", broad_coverage[0])
+    dbmod.add_cluster_member(conn, c2, broad_coverage[1], 0.9)
+    dbmod.update_cluster(conn, c2, b"\x00" * 8, "Deux médias", len(broad_coverage))
+    conn.commit()
+
+    cards = build_cards(conn, "2000-01-01T00:00:00+00:00", min_members=2)
+
+    assert [c["title"] for c in cards[:2]] == ["Deux médias", "Un seul média"]
+
+
+def test_build_site_renders_archive_pages(conn, tmp_path, monkeypatch):
+    archive_dir = tmp_path / "data" / "archive"
+    archive_dir.mkdir(parents=True)
+    (archive_dir / "2026-W28.json").write_text(
+        """
+        {
+         "week": "2026-W28",
+         "generated_at": "2026-07-11T12:00:00+00:00",
+         "clusters": [{
+          "title": "Archive & test",
+          "url": "https://example.org/a?x=1&y=2",
+          "n_members": 3,
+          "n_sources": 2,
+          "counts": {"left": 1, "centre": 0, "right": 1},
+          "blindspot_score": null,
+          "blindspot_for": null,
+          "divergence": null,
+          "category": "politique"
+         }]
+        }
+        """,
+        encoding="utf-8",
+    )
+    monkeypatch.chdir(tmp_path)
+
+    build_site(conn, tmp_path / "site")
+
+    assert (tmp_path / "site" / "archives.html").is_file()
+    week_html = (tmp_path / "site" / "archives" / "2026-W28.html").read_text(encoding="utf-8")
+    assert "Archive &amp; test" in week_html

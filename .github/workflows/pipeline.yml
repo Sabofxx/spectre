@@ -71,8 +71,8 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           NEW=$(python -c "import json;print(json.load(open('/tmp/pipeline-stats.json'))['new_articles'])")
           echo "nouveaux articles: $NEW"
-          if [ "$NEW" -gt 0 ] && [ -n "$(git status --porcelain spectre.db)" ]; then
-            git add spectre.db
+          if [ "$NEW" -gt 0 ] && [ -n "$(git status --porcelain spectre.db data/archive)" ]; then
+            git add spectre.db data/archive
             git commit -m "chore: update database [skip ci]"
             git pull --rebase origin "${GITHUB_REF_NAME}"
             git push

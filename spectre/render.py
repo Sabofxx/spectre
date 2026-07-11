@@ -19,12 +19,13 @@ from zoneinfo import ZoneInfo
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from . import db
-from .models import LEFT_BLOC, ORIENTATIONS, RIGHT_BLOC
+from .models import EDITORIAL_STYLES, LEFT_BLOC, ORIENTATIONS, RIGHT_BLOC
 
 logger = logging.getLogger(__name__)
 
 TEMPLATES_DIR = Path(__file__).resolve().parent.parent / "templates"
 REPO_URL = "https://github.com/Sabofxx/spectre"
+SITE_BASE_URL = "https://sabofxx.github.io/spectre/"  # absolute links for RSS
 
 FEED_WINDOW_HOURS = 48
 FEED_MIN_MEMBERS = 2
@@ -44,7 +45,7 @@ def _fmt_dt(iso: str | None, fmt: str = "%d/%m %H:%M") -> str:
 def _env() -> Environment:
     env = Environment(
         loader=FileSystemLoader(TEMPLATES_DIR),
-        autoescape=select_autoescape(["html"]),
+        autoescape=select_autoescape(["html", "xml"]),
     )
     env.filters["fmt_dt"] = _fmt_dt
     return env
@@ -63,6 +64,14 @@ def _bloc_counts(source_rows: list[sqlite3.Row]) -> dict[str, int]:
     return {k: len(v) for k, v in blocs.items()}
 
 
+def _style_counts(source_rows: list[sqlite3.Row]) -> dict[str, int]:
+    """Distinct-source counts per editorial style for the style bar."""
+    styles = {style: set() for style in EDITORIAL_STYLES}
+    for r in source_rows:
+        styles[r["editorial_style"]].add(r["source_id"])
+    return {k: len(v) for k, v in styles.items()}
+
+
 def _blindspot_label(score: float | None) -> str | None:
     """Which side is blind, per the >= 80% share rule (|score| >= 0.6)."""
     if score is None:
@@ -74,9 +83,11 @@ def _blindspot_label(score: float | None) -> str | None:
     return None
 
 
-def _cards(conn: sqlite3.Connection, since: str, min_members: int) -> list[dict]:
-    """Cluster cards (feed / blindspot pages), sorted by coverage volume.
+def build_cards(conn: sqlite3.Connection, since: str, min_members: int) -> list[dict]:
+    """Cluster cards (feed / blindspot / archive pages).
 
+    Sorted by DISTINCT SOURCES first, then article count: a single prolific
+    outlet must not outrank an event that many newsrooms picked up.
     NEVER sorted by divergence_score: a high divergence can flag an imperfect
     cluster as much as a real framing disagreement.
     """
@@ -100,14 +111,18 @@ def _cards(conn: sqlite3.Connection, since: str, min_members: int) -> list[dict]
     for card in by_cluster.values():
         rows = card.pop("source_rows")
         card["counts"] = _bloc_counts(rows)
+        card["style_counts"] = _style_counts(rows)
         card["sources"] = sorted(
-            {(r["source_name"], r["orientation"]) for r in rows},
-            key=lambda t: (ORIENTATIONS.index(t[1]), t[0]),
+            {(r["source_name"], r["orientation"], r["editorial_style"]) for r in rows},
+            key=lambda t: (ORIENTATIONS.index(t[1]), EDITORIAL_STYLES.index(t[2]), t[0]),
         )
-        card["sources"] = [{"name": n, "orientation": o} for n, o in card["sources"]]
+        card["sources"] = [
+            {"name": n, "orientation": o, "editorial_style": style}
+            for n, o, style in card["sources"]
+        ]
         card["n_sources"] = len(card["sources"])
         cards.append(card)
-    cards.sort(key=lambda c: (-c["n_members"], -c["n_sources"]))
+    cards.sort(key=lambda c: (-c["n_sources"], -c["n_members"]))
     return cards
 
 
@@ -160,8 +175,8 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
 
     feed_since = (now - timedelta(hours=FEED_WINDOW_HOURS)).isoformat(timespec="seconds")
     week_since = (now - timedelta(days=BLINDSPOT_WINDOW_DAYS)).isoformat(timespec="seconds")
-    feed_cards = _cards(conn, feed_since, FEED_MIN_MEMBERS)
-    week_cards = _cards(conn, week_since, BLINDSPOT_MIN_MEMBERS)
+    feed_cards = build_cards(conn, feed_since, FEED_MIN_MEMBERS)
+    week_cards = build_cards(conn, week_since, BLINDSPOT_MIN_MEMBERS)
     blind_cards = [c for c in week_cards if c["blindspot_for"]]
     blind_cards.sort(key=lambda c: (-abs(c["blindspot_score"]), -c["n_members"]))
 
@@ -193,6 +208,47 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
             og_title="Blindspots — Spectre",
             og_description="Les sujets couverts massivement par un bord du spectre"
                            " médiatique et ignorés par l'autre.",
+        ),
+        encoding="utf-8",
+    )
+
+    # Outgoing RSS feed of editorial blindspots (an aggregator you can
+    # subscribe to). Items link to the representative ORIGINAL article.
+    rss_items = []
+    for c in blind_cards[:30]:
+        top = db.cluster_top_article(conn, c["id"])
+        rss_items.append({
+            **c,
+            "article_url": top["url"] if top else SITE_BASE_URL,
+            "published_at": top["published_at"] if top else None,
+        })
+    (out_dir / "blindspots.xml").write_text(
+        env.get_template("blindspots.xml").render(
+            items=rss_items, site_url=SITE_BASE_URL, generated_at=base_ctx["generated_at"],
+        ),
+        encoding="utf-8",
+    )
+
+    # Archive pages, rebuilt from the committed weekly JSON snapshots.
+    from .archive import load_snapshots
+
+    snapshots = load_snapshots()
+    (out_dir / "archives").mkdir(exist_ok=True)
+    for snap in snapshots:
+        (out_dir / "archives" / f"{snap['week']}.html").write_text(
+            env.get_template("archive_week.html").render(
+                **base_ctx, root="../", snap=snap,
+                og_title=f"Archives {snap['week']} — Spectre",
+                og_description="Instantané hebdomadaire : les événements et leurs"
+                               " couvertures par bord.",
+            ),
+            encoding="utf-8",
+        )
+    (out_dir / "archives.html").write_text(
+        env.get_template("archives.html").render(
+            **base_ctx, root="", snapshots=snapshots,
+            og_title="Archives — Spectre",
+            og_description="La mémoire du spectre médiatique, semaine par semaine.",
         ),
         encoding="utf-8",
     )

@@ -9,6 +9,7 @@ import logging
 import sqlite3
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from urllib.parse import quote
 
 from .models import Article, Source
 
@@ -54,7 +55,38 @@ def connect(db_path: str | Path) -> sqlite3.Connection:
     conn.execute("PRAGMA foreign_keys = ON")
     _migrate_analyses_kind(conn)
     _migrate_clusters_category(conn)
+    _migrate_sources_editorial_style(conn)
     return conn
+
+
+def connect_readonly(db_path: str | Path) -> sqlite3.Connection:
+    """Open an existing database for read commands.
+
+    When the schema is current this avoids PRAGMAs that dirty the committed
+    SQLite file after compaction. If an old checked-out DB needs a local
+    migration, fall back to connect() once.
+    """
+    path = Path(db_path).resolve()
+    uri = f"file:{quote(str(path), safe='/')}?mode=ro"
+    conn = sqlite3.connect(uri, uri=True)
+    conn.row_factory = sqlite3.Row
+    conn.execute("PRAGMA foreign_keys = ON")
+    if not _schema_current_for_reads(conn):
+        conn.close()
+        return connect(path)
+    return conn
+
+
+def _table_has_column(conn: sqlite3.Connection, table: str, column: str) -> bool:
+    return column in {r["name"] for r in conn.execute(f"PRAGMA table_info({table})")}
+
+
+def _schema_current_for_reads(conn: sqlite3.Connection) -> bool:
+    """Whether read-only render/inspect queries can run without migrations."""
+    return (
+        _table_has_column(conn, "sources", "editorial_style")
+        and _table_has_column(conn, "clusters", "category")
+    )
 
 
 def _migrate_clusters_category(conn: sqlite3.Connection) -> None:
@@ -63,6 +95,20 @@ def _migrate_clusters_category(conn: sqlite3.Connection) -> None:
     if "category" not in cols:
         logger.info("migrating clusters table: adding category column")
         conn.execute("ALTER TABLE clusters ADD COLUMN category TEXT")
+        conn.commit()
+
+
+def _migrate_sources_editorial_style(conn: sqlite3.Connection) -> None:
+    """One-shot migration: add sources.editorial_style to existing databases."""
+    cols = {r["name"] for r in conn.execute("PRAGMA table_info(sources)")}
+    if "editorial_style" not in cols:
+        logger.info("migrating sources table: adding editorial_style column")
+        conn.execute(
+            """
+            ALTER TABLE sources ADD COLUMN editorial_style TEXT NOT NULL DEFAULT 'mixte'
+            CHECK (editorial_style IN ('factuel', 'mixte', 'opinion'))
+            """
+        )
         conn.commit()
 
 
@@ -101,11 +147,12 @@ def sync_sources(conn: sqlite3.Connection, sources: list[Source]) -> None:
     """Mirror config/sources.yaml into the sources table."""
     conn.executemany(
         """
-        INSERT INTO sources (id, name, orientation, owner, active)
-        VALUES (:id, :name, :orientation, :owner, :active)
+        INSERT INTO sources (id, name, orientation, editorial_style, owner, active)
+        VALUES (:id, :name, :orientation, :editorial_style, :owner, :active)
         ON CONFLICT(id) DO UPDATE SET
             name = excluded.name,
             orientation = excluded.orientation,
+            editorial_style = excluded.editorial_style,
             owner = excluded.owner,
             active = excluded.active
         """,
@@ -114,6 +161,7 @@ def sync_sources(conn: sqlite3.Connection, sources: list[Source]) -> None:
                 "id": s.id,
                 "name": s.name,
                 "orientation": s.orientation,
+                "editorial_style": s.editorial_style,
                 "owner": s.owner,
                 "active": int(s.active),
             }
@@ -314,6 +362,50 @@ def update_cluster(
     )
 
 
+def cluster_sizes(conn: sqlite3.Connection, cluster_ids: list[int]) -> dict[int, int]:
+    """n_members for the given cluster ids."""
+    marks = ",".join("?" * len(cluster_ids))
+    rows = conn.execute(
+        f"SELECT id, n_members FROM clusters WHERE id IN ({marks})", cluster_ids
+    ).fetchall()
+    return {r["id"]: r["n_members"] for r in rows}
+
+
+def cluster_member_count(conn: sqlite3.Connection, cluster_id: int) -> int:
+    """Actual member count, including rows whose transient embedding was purged."""
+    return conn.execute(
+        "SELECT COUNT(*) FROM cluster_members WHERE cluster_id = ?", (cluster_id,)
+    ).fetchone()[0]
+
+
+def merge_cluster_into(conn: sqlite3.Connection, dead_id: int, survivor_id: int) -> None:
+    """Move members of dead_id into survivor_id and drop the dead cluster.
+
+    The dead cluster's analyses are stale by construction — dropped too; the
+    survivor's analyses are also stale after its membership changes.
+    """
+    conn.execute(
+        "UPDATE cluster_members SET cluster_id = ? WHERE cluster_id = ?",
+        (survivor_id, dead_id),
+    )
+    conn.execute(
+        "DELETE FROM analyses WHERE cluster_id IN (?, ?)", (dead_id, survivor_id)
+    )
+    conn.execute("DELETE FROM clusters WHERE id = ?", (dead_id,))
+
+
+def cluster_top_article(conn: sqlite3.Connection, cluster_id: int) -> sqlite3.Row | None:
+    """Most central member (highest attach similarity): representative link."""
+    return conn.execute(
+        """
+        SELECT a.url, a.title, a.published_at FROM cluster_members m
+        JOIN articles a ON a.id = m.article_id
+        WHERE m.cluster_id = ? ORDER BY m.similarity DESC LIMIT 1
+        """,
+        (cluster_id,),
+    ).fetchone()
+
+
 def cluster_member_embeddings(conn: sqlite3.Connection, cluster_id: int) -> list[sqlite3.Row]:
     """Embeddings + titles of a cluster's members."""
     return conn.execute(
@@ -350,7 +442,7 @@ def cluster_members_detail(conn: sqlite3.Connection, cluster_id: int) -> list[sq
     return conn.execute(
         """
         SELECT a.title, a.url, a.published_at, m.similarity,
-               s.name AS source_name, s.orientation
+               s.name AS source_name, s.orientation, s.editorial_style
         FROM cluster_members m
         JOIN articles a ON a.id = m.article_id
         JOIN sources s ON s.id = a.source_id
@@ -487,7 +579,8 @@ def cluster_source_rows(
         """
         SELECT DISTINCT c.id AS cluster_id, c.title, c.n_members,
                c.divergence_score, c.blindspot_score, c.category,
-               s.id AS source_id, s.name AS source_name, s.orientation
+               s.id AS source_id, s.name AS source_name, s.orientation,
+               s.editorial_style
         FROM clusters c
         JOIN cluster_members m ON m.cluster_id = c.id
         JOIN articles a ON a.id = m.article_id
