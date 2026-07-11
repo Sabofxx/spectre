@@ -19,10 +19,10 @@ VALID = {
     "omissions": "la droite ne mentionne pas les évacuations chaotiques",
 }
 
-TAGS_OK = {"models": [{"name": "qwen2.5:7b-instruct"}, {"name": "llama3.2:latest"}]}
+TAGS_OK = {"models": [{"name": "qwen3:4b"}, {"name": "llama3.2:latest"}]}
 
 
-def analyzer_with(handler, model: str = "qwen2.5:7b-instruct") -> OllamaAnalyzer:
+def analyzer_with(handler, model: str = "qwen3:4b") -> OllamaAnalyzer:
     client = httpx.Client(
         base_url="http://localhost:11434", transport=httpx.MockTransport(handler)
     )
@@ -77,7 +77,7 @@ class TestDetection:
         analyzer = analyzer_with(handler)
         with caplog.at_level("INFO"):
             assert analyzer.available() is False
-        assert "ollama pull qwen2.5:7b-instruct" in caplog.text
+        assert "ollama pull qwen3:4b" in caplog.text
 
     def test_untagged_model_name_matches_any_tag(self):
         def handler(request):
@@ -112,7 +112,7 @@ class TestAnalyze:
         assert payload["event_summary"] == VALID["event_summary"]
         assert payload["framing"]["centre"] is None
         assert payload["article_ids"] == sorted(ids)
-        assert payload["model"] == "qwen2.5:7b-instruct"
+        assert payload["model"] == "qwen3:4b"
 
     def test_invalid_json_twice_stores_nothing(self, conn):
         chat_calls = []

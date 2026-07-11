@@ -2,37 +2,28 @@
 {% import "_macros.html" as macros %}
 {% block title %}Blindspots — Spectre{% endblock %}
 {% block content %}
-<h1>Blindspots <span class="subtitle">— les sujets les plus déséquilibrés des 7 derniers jours</span></h1>
-<p class="meta">Un sujet est un angle mort quand au moins 80 % de sa couverture
-   (en sources distinctes, pondérées par bord) vient d'un seul côté du spectre.</p>
+<section class="page-head">
+  <p class="eyebrow">7 derniers jours</p>
+  <h1>Blindspots</h1>
+  <p class="lede">Sujets dont la couverture vient massivement d'un seul bord du spectre. Disponible en <a href="blindspots.xml">RSS</a>.</p>
+</section>
 <div class="two-cols">
   <section>
     <h2>Ignorés par la droite</h2>
     {% for c in left_covered %}
-    <article class="card">
-      <h3><a href="cluster/{{ c.id }}.html">{{ c.title }}</a></h3>
-      {{ macros.coverage_bar(c.counts) }}
-      <p class="meta">{{ c.n_members }} articles · score {{ "%+.2f" | format(c.blindspot_score) }}</p>
-    </article>
-    {% else %}<p class="meta">Rien cette semaine.</p>{% endfor %}
+    {{ macros.event_card(c, heading="h3") }}
+    {% else %}<p class="empty-state">Rien cette semaine.</p>{% endfor %}
   </section>
   <section>
     <h2>Ignorés par la gauche</h2>
     {% for c in right_covered %}
-    <article class="card">
-      <h3><a href="cluster/{{ c.id }}.html">{{ c.title }}</a></h3>
-      {{ macros.coverage_bar(c.counts) }}
-      <p class="meta">{{ c.n_members }} articles · score {{ "%+.2f" | format(c.blindspot_score) }}</p>
-    </article>
-    {% else %}<p class="meta">Rien cette semaine.</p>{% endfor %}
+    {{ macros.event_card(c, heading="h3") }}
+    {% else %}<p class="empty-state">Rien cette semaine.</p>{% endfor %}
   </section>
 </div>
 
 {% if structural %}
 <h2>Écarts structurels (sport, faits divers)</h2>
-<p class="meta">Ces sujets sont couverts très majoritairement par un seul bord,
-   mais c'est un effet de rubrique — certains médias publient peu de sport ou de
-   faits divers par nature éditoriale — pas un angle mort d'actualité générale.</p>
 <ul class="structural-list">
   {% for c in structural %}
   <li><span class="cat">{{ c.category }}</span>

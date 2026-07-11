@@ -10,6 +10,8 @@ CREATE TABLE IF NOT EXISTS sources (
     name        TEXT NOT NULL,
     orientation TEXT NOT NULL CHECK (orientation IN
                     ('gauche', 'centre-gauche', 'centre', 'centre-droit', 'droite')),
+    editorial_style TEXT NOT NULL DEFAULT 'mixte' CHECK (editorial_style IN
+                    ('factuel', 'mixte', 'opinion')),
     owner       TEXT,
     active      INTEGER NOT NULL DEFAULT 1
 );

@@ -96,7 +96,7 @@ def inspect(
     """Manual calibration report: random clusters + gray-zone pairs."""
     from spectre import cluster as cluster_mod
 
-    conn = dbmod.connect(db)
+    conn = dbmod.connect_readonly(db)
 
     typer.echo(f"=== {n_clusters} clusters aléatoires (>= 2 membres) ===")
     for item in cluster_mod.sample_clusters(conn, n_clusters):
@@ -169,7 +169,7 @@ def render(
     """Generate the static site (titles + links only, never RSS summaries)."""
     from spectre import render as render_mod
 
-    conn = dbmod.connect(db)
+    conn = dbmod.connect_readonly(db)
     stats = render_mod.build_site(conn, out)
     typer.echo(f"Site généré dans {out}/ : {stats}")
     conn.close()
@@ -194,14 +194,28 @@ def pipeline(
     conn = dbmod.connect(db)
     sources = ingest_mod.load_sources(config)
     dbmod.sync_sources(conn, sources)
+    from spectre import archive as archive_mod
+
     n_new = ingest_mod.ingest_all(conn, sources)
     dbmod.purge(conn)
     cluster_stats = cluster_mod.run(conn)
     analyze_mod.run(conn)
+    archive_mod.write_snapshot(conn)
     stats = render_mod.build_site(conn, SITE_DIR)
     typer.echo(f"Pipeline OK — site généré : {stats}")
     if stats_file:
         stats_file.write_text(json.dumps({"new_articles": n_new, **cluster_stats}))
+    conn.close()
+
+
+@app.command()
+def snapshot(db: Path = typer.Option(DEFAULT_DB)) -> None:
+    """(Re)write the current ISO week's archive snapshot (data/archive/)."""
+    from spectre import archive as archive_mod
+
+    conn = dbmod.connect_readonly(db)
+    path = archive_mod.write_snapshot(conn)
+    typer.echo(f"Snapshot : {path}")
     conn.close()
 
 
@@ -220,7 +234,7 @@ def check_leaks(
     """Fail (exit 1) if any RSS summary text leaked into the generated HTML."""
     from spectre import render as render_mod
 
-    conn = dbmod.connect(db)
+    conn = dbmod.connect_readonly(db)
     leaks = render_mod.find_leaks(conn, site)
     conn.close()
     if leaks:

@@ -1,5 +1,6 @@
 # Spectre — référentiel des sources
 # Orientations: gauche | centre-gauche | centre | centre-droit | droite
+# Editorial style: factuel | mixte | opinion
 # La classification est indicative et débattable (voir README).
 # Propriétaires d'après la carte "Médias français, qui possède quoi"
 # (Le Monde diplomatique / Acrimed, éd. 2024).
@@ -10,6 +11,7 @@ sources:
   - id: mediapart
     name: Mediapart
     orientation: gauche
+    editorial_style: mixte
     owner: "Indépendant (Fonds pour une presse libre, salariés)"
     rss:
       - https://www.mediapart.fr/articles/feed
@@ -18,6 +20,7 @@ sources:
   - id: humanite
     name: "L'Humanité"
     orientation: gauche
+    editorial_style: opinion
     owner: "Indépendant (actionnariat populaire, proche PCF)"
     rss:
       - https://www.humanite.fr/rss/actu.rss
@@ -26,6 +29,7 @@ sources:
   - id: politis
     name: Politis
     orientation: gauche
+    editorial_style: opinion
     owner: "Indépendant (lecteurs et salariés)"
     # RSS désactivé côté serveur : /feed/, ?feed=rss2, etc. renvoient du HTML
     # (vérifié 2026-07-11). Réactiver si le flux revient.
@@ -35,6 +39,7 @@ sources:
   - id: reporterre
     name: Reporterre
     orientation: gauche
+    editorial_style: mixte
     owner: "Association à but non lucratif (dons)"
     rss:
       - https://reporterre.net/spip.php?page=backend
@@ -43,6 +48,7 @@ sources:
   - id: blast
     name: Blast
     orientation: gauche
+    editorial_style: opinion
     owner: "Indépendant (financement participatif, Denis Robert)"
     rss:
       - https://api.blast-info.fr/rss.xml
@@ -52,6 +58,7 @@ sources:
   - id: lemonde
     name: Le Monde
     orientation: centre-gauche
+    editorial_style: mixte
     owner: "Groupe Le Monde (Niel ; Kretinsky minoritaire)"
     rss:
       - https://www.lemonde.fr/rss/une.xml
@@ -61,6 +68,7 @@ sources:
   - id: liberation
     name: Libération
     orientation: centre-gauche
+    editorial_style: mixte
     owner: "Fonds de dotation Presse indépendante (ex-Altice/Drahi)"
     rss:
       - https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml
@@ -69,6 +77,7 @@ sources:
   - id: franceinter
     name: France Inter
     orientation: centre-gauche
+    editorial_style: mixte
     owner: "Radio France (service public)"
     rss:
       - https://www.radiofrance.fr/franceinter/rss
@@ -77,6 +86,7 @@ sources:
   - id: lobs
     name: "L'Obs"
     orientation: centre-gauche
+    editorial_style: mixte
     owner: "Groupe Le Monde (Niel)"
     rss:
       - https://www.nouvelobs.com/rss.xml
@@ -86,6 +96,7 @@ sources:
   - id: franceinfo
     name: France Info
     orientation: centre
+    editorial_style: factuel
     owner: "France Télévisions / Radio France (service public)"
     rss:
       - https://www.francetvinfo.fr/titres.rss
@@ -94,6 +105,7 @@ sources:
   - id: ouestfrance
     name: Ouest-France
     orientation: centre
+    editorial_style: factuel
     owner: "Association SIPA (loi 1901)"
     rss:
       - https://www.ouest-france.fr/rss-en-continu.xml
@@ -102,6 +114,7 @@ sources:
   - id: leparisien
     name: Le Parisien
     orientation: centre
+    editorial_style: factuel
     owner: "LVMH (Bernard Arnault)"
     rss:
       - https://feeds.leparisien.fr/leparisien/rss
@@ -110,6 +123,7 @@ sources:
   - id: 20minutes
     name: 20 Minutes
     orientation: centre
+    editorial_style: factuel
     owner: "SIPA Ouest-France + Rossel"
     rss:
       - https://www.20minutes.fr/feeds/rss-une.xml
@@ -118,6 +132,7 @@ sources:
   - id: lacroix
     name: La Croix
     orientation: centre
+    editorial_style: mixte
     owner: "Bayard Presse (Augustins de l'Assomption)"
     rss:
       - https://www.la-croix.com/RSS/UNIVERS_WFRA
@@ -127,6 +142,7 @@ sources:
   - id: lefigaro
     name: Le Figaro
     orientation: centre-droit
+    editorial_style: mixte
     owner: "Groupe Dassault"
     rss:
       - https://www.lefigaro.fr/rss/figaro_actualites.xml
@@ -135,6 +151,7 @@ sources:
   - id: lesechos
     name: Les Échos
     orientation: centre-droit
+    editorial_style: mixte
     owner: "LVMH (Bernard Arnault)"
     # 403 Akamai sur tous les endpoints RSS connus (vérifié 2026-07-11).
     rss: []
@@ -143,6 +160,7 @@ sources:
   - id: lepoint
     name: Le Point
     orientation: centre-droit
+    editorial_style: mixte
     owner: "Artémis (François Pinault)"
     # 403 Datadome, même avec User-Agent navigateur (vérifié 2026-07-11).
     rss: []
@@ -151,6 +169,7 @@ sources:
   - id: lexpress
     name: "L'Express"
     orientation: centre-droit
+    editorial_style: mixte
     owner: "Alain Weill (majoritaire)"
     rss:
       - https://www.lexpress.fr/rss/alaune.xml
@@ -159,6 +178,7 @@ sources:
   - id: bfmtv
     name: BFM TV
     orientation: centre-droit
+    editorial_style: factuel
     owner: "CMA CGM (Rodolphe Saadé)"
     rss:
       - https://www.bfmtv.com/rss/news-24-7/
@@ -168,6 +188,7 @@ sources:
   - id: cnews
     name: CNews
     orientation: droite
+    editorial_style: opinion
     owner: "Canal+ / Vivendi (Bolloré)"
     rss:
       - https://www.cnews.fr/rss.xml
@@ -176,6 +197,7 @@ sources:
   - id: europe1
     name: Europe 1
     orientation: droite
+    editorial_style: mixte
     owner: "Lagardère (Vivendi / Bolloré)"
     rss:
       - https://www.europe1.fr/rss.xml
@@ -184,6 +206,7 @@ sources:
   - id: jdd
     name: Le JDD
     orientation: droite
+    editorial_style: opinion
     owner: "Lagardère (Vivendi / Bolloré)"
     rss:
       - https://www.lejdd.fr/rss.xml
@@ -192,6 +215,7 @@ sources:
   - id: valeursactuelles
     name: Valeurs Actuelles
     orientation: droite
+    editorial_style: opinion
     owner: "Famille Safa (Privinvest)"
     rss:
       - https://www.valeursactuelles.com/feed
@@ -200,6 +224,7 @@ sources:
   - id: causeur
     name: Causeur
     orientation: droite
+    editorial_style: opinion
     owner: "Indépendant (Élisabeth Lévy, actionnaires privés)"
     rss:
       - https://www.causeur.fr/feed

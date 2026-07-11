@@ -1,8 +1,7 @@
-{# Coverage bar: distinct sources per political bloc. Counts are repeated as
-   text right below (relief for the low-contrast neutral gray + screen readers). #}
+{# Coverage bar: distinct sources per political bloc. Counts are repeated as text. #}
 {% macro coverage_bar(counts) %}
-<div class="bar" role="img"
-     aria-label="Couverture : {{ counts.left }} source(s) à gauche, {{ counts.centre }} au centre, {{ counts.right }} à droite">
+<div class="bar bar-spectrum" role="img"
+     aria-label="Spectre : {{ counts.left }} source(s) à gauche, {{ counts.centre }} au centre, {{ counts.right }} à droite">
   {% if counts.left %}<span class="seg seg-left" style="flex-grow:{{ counts.left }}"></span>{% endif %}
   {% if counts.centre %}<span class="seg seg-centre" style="flex-grow:{{ counts.centre }}"></span>{% endif %}
   {% if counts.right %}<span class="seg seg-right" style="flex-grow:{{ counts.right }}"></span>{% endif %}
@@ -12,6 +11,54 @@
   <span class="dot dot-centre"></span>{{ counts.centre }} centre&nbsp;·
   <span class="dot dot-right"></span>{{ counts.right }} droite
 </p>
+{% endmacro %}
+
+{% macro style_bar(counts) %}
+<div class="bar bar-style" role="img"
+     aria-label="Style : {{ counts.factuel }} source(s) factuelles, {{ counts.mixte }} mixtes, {{ counts.opinion }} d'opinion">
+  {% if counts.factuel %}<span class="seg seg-factuel" style="flex-grow:{{ counts.factuel }}"></span>{% endif %}
+  {% if counts.mixte %}<span class="seg seg-mixte" style="flex-grow:{{ counts.mixte }}"></span>{% endif %}
+  {% if counts.opinion %}<span class="seg seg-opinion" style="flex-grow:{{ counts.opinion }}"></span>{% endif %}
+</div>
+<p class="bar-counts">
+  <span class="dot dot-factuel"></span>{{ counts.factuel }} factuel&nbsp;·
+  <span class="dot dot-mixte"></span>{{ counts.mixte }} mixte&nbsp;·
+  <span class="dot dot-opinion"></span>{{ counts.opinion }} opinion
+</p>
+{% endmacro %}
+
+{% macro source_pills(sources) %}
+<p class="source-list">
+  {% for s in sources %}
+  <span class="source-pill b-{{ s.orientation }}">
+    <span class="source-name">{{ s.name }}</span>
+    <span class="style-chip style-{{ s.editorial_style }}">{{ s.editorial_style }}</span>
+  </span>
+  {% endfor %}
+</p>
+{% endmacro %}
+
+{% macro event_card(c, root="", heading="h2") %}
+<article class="event-card">
+  <div class="event-topline">
+    {% if c.category %}<span class="cat">{{ c.category }}</span>{% endif %}
+    {% if c.blindspot_for %}<span class="flag flag-{{ c.blindspot_for }}">angle mort de la {{ c.blindspot_for }}</span>{% endif %}
+    {% if c.divergence is not none %}{{ divergence_badge(c.divergence) }}{% endif %}
+  </div>
+  <{{ heading }}><a href="{{ root }}cluster/{{ c.id }}.html">{{ c.title }}</a></{{ heading }}>
+  <div class="metrics-grid">
+    <div>
+      <p class="metric-label">Spectre politique</p>
+      {{ coverage_bar(c.counts) }}
+    </div>
+    <div>
+      <p class="metric-label">Style editorial</p>
+      {{ style_bar(c.style_counts) }}
+    </div>
+  </div>
+  <p class="meta strong-meta">{{ c.n_members }} articles · {{ c.n_sources }} sources distinctes</p>
+  {{ source_pills(c.sources) }}
+</article>
 {% endmacro %}
 
 {% macro divergence_badge(score) %}

@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% import "_macros.html" as macros %}
+{% block title %}Archives {{ snap.week }} — Spectre{% endblock %}
+{% block content %}
+<p class="crumbs"><a href="{{ root }}archives.html">← Archives</a></p>
+<section class="page-head">
+  <p class="eyebrow">Instantané du {{ snap.generated_at | fmt_dt("%d/%m/%Y") }}</p>
+  <h1>Semaine {{ snap.week }}</h1>
+</section>
+{% for c in snap.clusters %}
+<article class="event-card">
+  <h2>{% if c.url %}<a href="{{ c.url }}" rel="noopener external">{{ c.title }}</a>{% else %}{{ c.title }}{% endif %}</h2>
+  <div class="metrics-grid">
+    <div>
+      <p class="metric-label">Spectre politique</p>
+      {{ macros.coverage_bar(c.counts) }}
+    </div>
+    {% if c.style_counts %}
+    <div>
+      <p class="metric-label">Style editorial</p>
+      {{ macros.style_bar(c.style_counts) }}
+    </div>
+    {% endif %}
+  </div>
+  <p class="meta">
+    {{ c.n_members }} articles · {{ c.n_sources }} sources
+    {% if c.category %} · <span class="cat">{{ c.category }}</span>{% endif %}
+    {% if c.blindspot_for %} · <span class="flag flag-{{ c.blindspot_for }}">angle mort de la {{ c.blindspot_for }}</span>{% endif %}
+  </p>
+</article>
+{% endfor %}
+{% endblock %}

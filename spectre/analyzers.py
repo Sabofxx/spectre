@@ -30,9 +30,9 @@ logger = logging.getLogger(__name__)
 
 OLLAMA_BASE_URL = "http://localhost:11434"
 OLLAMA_MODEL_ENV = "SPECTRE_OLLAMA_MODEL"
-OLLAMA_DEFAULT_MODEL = "qwen2.5:7b-instruct"
+OLLAMA_DEFAULT_MODEL = "qwen3:4b"
 DETECT_TIMEOUT = 2.0
-CHAT_TIMEOUT = 120.0  # 7B model on CPU: be generous
+CHAT_TIMEOUT = 120.0  # local CPU inference: be generous
 MAX_SUMMARY_CHARS = 400  # defensive cap on prompt size per article
 
 MAX_EVENT_SUMMARY = 300

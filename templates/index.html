@@ -2,22 +2,14 @@
 {% import "_macros.html" as macros %}
 {% block title %}Spectre — le fil{% endblock %}
 {% block content %}
-<h1>Le fil <span class="subtitle">— événements des dernières 48 h, triés par volume de couverture</span></h1>
+<section class="page-head">
+  <p class="eyebrow">Dernières 48 h</p>
+  <h1>Le fil</h1>
+  <p class="lede">Événements triés par nombre de sources distinctes, avec lecture politique et degré d'éditorialisation.</p>
+</section>
 {% for c in clusters %}
-<article class="card">
-  <h2><a href="cluster/{{ c.id }}.html">{{ c.title }}</a></h2>
-  {{ macros.coverage_bar(c.counts) }}
-  <p class="meta">
-    {{ c.n_members }} articles · {{ c.n_sources }} sources
-    {% if c.category %} · <span class="cat">{{ c.category }}</span>{% endif %}
-    {% if c.divergence is not none %} · {{ macros.divergence_badge(c.divergence) }}{% endif %}
-    {% if c.blindspot_for %} · <span class="flag flag-{{ c.blindspot_for }}">angle mort de la {{ c.blindspot_for }}</span>{% endif %}
-  </p>
-  <p class="badges">
-    {% for s in c.sources %}<span class="badge b-{{ s.orientation }}">{{ s.name }}</span>{% endfor %}
-  </p>
-</article>
+{{ macros.event_card(c) }}
 {% else %}
-<p>Aucun cluster multi-articles sur les dernières 48 h. Le pipeline vient peut-être de démarrer.</p>
+<p class="empty-state">Aucun cluster multi-articles sur les dernières 48 h.</p>
 {% endfor %}
 {% endblock %}
