@@ -1,11 +1,18 @@
 {% extends "base.html" %}
 {% block title %}Archives — Spectre{% endblock %}
 {% block content %}
-<section class="page-head">
-  <p class="eyebrow">Mémoire hebdomadaire</p>
-  <h1>Archives</h1>
-  <p class="lede">Instantanés des événements, angles morts et répartitions de couverture.</p>
+<section class="page-head feature-head">
+  <div class="head-copy">
+    <p class="eyebrow">Mémoire hebdomadaire</p>
+    <h1>Archives</h1>
+    <p class="lede">La mémoire longue du projet : chaque semaine garde ses événements principaux, leurs angles morts et leurs répartitions de couverture.</p>
+  </div>
+  <div class="kpi-row" aria-label="Résumé des archives">
+    <div class="kpi"><strong>{{ snapshots | length }}</strong><span>semaines</span></div>
+    <div class="kpi"><strong>{{ snapshots | map(attribute='clusters') | map('length') | sum }}</strong><span>événements</span></div>
+  </div>
 </section>
+<section class="archive-list" aria-label="Semaines archivées">
 {% for snap in snapshots %}
 <article class="event-card archive-card">
   <h2><a href="archives/{{ snap.week }}.html">Semaine {{ snap.week }}</a></h2>
@@ -15,4 +22,5 @@
 {% else %}
 <p class="empty-state">Aucun instantané pour le moment.</p>
 {% endfor %}
+</section>
 {% endblock %}

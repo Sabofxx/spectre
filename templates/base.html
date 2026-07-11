@@ -19,10 +19,10 @@
   <div class="header-inner">
   <a class="logo" href="{{ root }}index.html"><span>Spectre</span><small>presse française</small></a>
   <nav aria-label="Navigation principale">
-    <a href="{{ root }}index.html">Fil</a>
-    <a href="{{ root }}blindspots.html">Blindspots</a>
-    <a href="{{ root }}archives.html">Archives</a>
-    <a href="{{ root }}a-propos.html">À propos</a>
+    <a class="{{ 'is-active' if active_page == 'index' }}" href="{{ root }}index.html">Fil</a>
+    <a class="{{ 'is-active' if active_page == 'blindspots' }}" href="{{ root }}blindspots.html">Blindspots</a>
+    <a class="{{ 'is-active' if active_page == 'archives' }}" href="{{ root }}archives.html">Archives</a>
+    <a class="{{ 'is-active' if active_page == 'about' }}" href="{{ root }}a-propos.html">À propos</a>
   </nav>
   </div>
 </header>
@@ -30,13 +30,13 @@
 {% block content %}{% endblock %}
 </main>
 <footer class="site-footer">
-  <p><strong>Spectre</strong> · généré le {{ generated_at }} · <a href="{{ repo_url }}">code source</a>
-  {% if health and health.total %} ·
-    <span class="{{ 'health-warn' if health.ok < health.total }}">flux RSS :
-    {{ health.ok }}/{{ health.total }} OK au dernier passage</span>
-  {% endif %}</p>
-  <p>Spectre est un index : aucun contenu d'article n'est reproduit — titres, liens
-     et analyses statistiques uniquement. Lisez les articles chez les médias.</p>
+  <div>
+    <p><strong>Spectre</strong> · généré le {{ generated_at }} · <a href="{{ repo_url }}">code source</a></p>
+    <p>Spectre est un index : titres, liens vers les originaux et analyses propres uniquement.</p>
+  </div>
+  {% if health and health.total %}
+  <p class="footer-health {{ 'health-warn' if health.ok < health.total }}">RSS {{ health.ok }}/{{ health.total }} OK</p>
+  {% endif %}
 </footer>
 </body>
 </html>

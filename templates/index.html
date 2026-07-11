@@ -2,14 +2,24 @@
 {% import "_macros.html" as macros %}
 {% block title %}Spectre — le fil{% endblock %}
 {% block content %}
-<section class="page-head">
-  <p class="eyebrow">Dernières 48 h</p>
-  <h1>Le fil</h1>
-  <p class="lede">Événements triés par nombre de sources distinctes, avec lecture politique et degré d'éditorialisation.</p>
+<section class="page-head feature-head">
+  <div class="head-copy">
+    <p class="eyebrow">Dernières 48 h</p>
+    <h1>Le fil</h1>
+    <p class="lede">Les événements qui circulent dans la presse française, classés par ampleur de couverture et lus selon deux axes : orientation politique et degré d'éditorialisation.</p>
+  </div>
+  <div class="kpi-row" aria-label="Résumé du fil">
+    <div class="kpi"><strong>{{ overview.events }}</strong><span>événements</span></div>
+    <div class="kpi"><strong>{{ overview.sources }}</strong><span>sources</span></div>
+    <div class="kpi"><strong>{{ overview.articles }}</strong><span>articles</span></div>
+    <div class="kpi"><strong>{{ overview.factuel }}/{{ overview.mixte }}/{{ overview.opinion }}</strong><span>styles</span></div>
+  </div>
 </section>
+<section class="feed-list" aria-label="Événements">
 {% for c in clusters %}
 {{ macros.event_card(c) }}
 {% else %}
 <p class="empty-state">Aucun cluster multi-articles sur les dernières 48 h.</p>
 {% endfor %}
+</section>
 {% endblock %}
