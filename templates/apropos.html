@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+{% block title %}À propos — Spectre{% endblock %}
+{% block content %}
+<h1>À propos</h1>
+
+<h2>Ce que fait Spectre</h2>
+<p>Spectre agrège les flux RSS d'une vingtaine de médias français, regroupe les
+articles par événement, puis mesure <em>qui couvre quoi</em> selon l'orientation
+politique des rédactions — dans l'esprit de Ground News, qui n'existe pas pour la
+presse francophone. Le projet est 100 % gratuit, open source, et tourne sans
+aucune API payante.</p>
+
+<h2>Le référentiel d'orientations</h2>
+<p><strong>La classification est indicative et débattable.</strong> Placer un
+média sur un axe gauche-droite à cinq positions est une simplification : une
+rédaction n'est pas un bloc, une ligne éditoriale bouge, et l'axe unique écrase
+d'autres dimensions (libéralisme économique, rapport aux institutions…). Les
+positions retenues s'appuient sur le positionnement éditorial publiquement
+documenté et les propriétaires sont référencés d'après la carte
+« Médias français, qui possède quoi » (Le Monde diplomatique / Acrimed).
+Les désaccords sur ce classement sont légitimes — le fichier
+<code>config/sources.yaml</code> est ouvert aux contributions.</p>
+
+<table class="sources-table">
+  <thead><tr><th>Média</th><th>Orientation</th><th>Propriétaire</th><th>Flux</th></tr></thead>
+  <tbody>
+  {% for s in sources %}
+  <tr>
+    <td>{{ s.name }}</td>
+    <td><span class="badge b-{{ s.orientation }}">{{ s.orientation }}</span></td>
+    <td>{{ s.owner }}</td>
+    <td>{{ "suivi" if s.active else "pas de RSS accessible" }}</td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+
+<h2>La méthode</h2>
+<ul>
+  <li><strong>Ingestion :</strong> flux RSS uniquement — titres et chapôs, jamais
+      le texte des articles. Déduplication par identifiant de flux puis par URL
+      canonique (paramètres de tracking retirés).</li>
+  <li><strong>Regroupement par événement :</strong> chaque article est encodé par
+      un modèle d'embeddings multilingue local
+      (paraphrase-multilingual-MiniLM-L12-v2) ; un article rejoint un cluster si
+      sa similarité dépasse 0,70 à la fois avec le centre du cluster et avec son
+      membre le plus proche (règle anti-chaînage), sur une fenêtre glissante de 72 h.</li>
+  <li><strong>Blindspots :</strong> couverture comptée en <em>sources distinctes</em>
+      par bord (un média qui publie 4 articles compte une fois), normalisée par le
+      nombre de sources actives de chaque bord. Score de −1 (couvert uniquement à
+      gauche) à +1 (uniquement à droite) ; angle mort à partir de 80 % d'un seul côté.</li>
+  <li><strong>Contraste de vocabulaire :</strong> log-odds ratio avec prior de
+      Dirichlet informatif (« Fightin' Words », Monroe et al. 2008) entre les textes
+      du bord gauche et du bord droit d'un même événement, estimé sur l'ensemble du
+      corpus. Purement statistique : aucun LLM, aucun jugement éditorial.</li>
+</ul>
+
+<h2>Les limites connues</h2>
+<ul>
+  <li><strong>Fusion thématique résiduelle :</strong> deux événements distincts du
+      même domaine (deux incendies différents, deux matchs différents) peuvent se
+      retrouver dans le même cluster malgré le seuil et la règle anti-chaînage. Un
+      score de divergence élevé peut d'ailleurs signaler ce défaut plutôt qu'un
+      vrai désaccord de cadrage.</li>
+  <li><strong>Micro-corpus :</strong> le contraste de vocabulaire n'est calculé que
+      si chaque bord dépasse 50 tokens utiles ; en dessous, la page l'indique
+      plutôt que d'afficher un faux contraste.</li>
+  <li><strong>Flux inégaux :</strong> Le Parisien ne publie que des titres (pas de
+      chapô), ce qui affaiblit son signal ; Les Échos, Le Point et Politis n'ont
+      pas de flux RSS accessible et ne sont pas suivis.</li>
+  <li><strong>Le volume n'est pas l'importance :</strong> le fil est trié par
+      volume de couverture, ce qui reflète l'agenda médiatique, pas la hiérarchie
+      de l'information.</li>
+</ul>
+
+<h2>Droits voisins</h2>
+<p>Les pages publiques n'affichent que les <strong>titres</strong> des articles,
+des <strong>liens vers les originaux</strong> et nos propres analyses (barres,
+scores, termes). Les descriptions RSS ne servent qu'en interne au calcul et
+<strong>ne sont conservées que le temps du traitement (72 heures)</strong> :
+passé la fenêtre de clustering, elles sont effacées de la base de données. Rien
+n'est republié ni redistribué — les analyses ne stockent que leurs résultats.
+Spectre renvoie le trafic aux médias.</p>
+{% endblock %}

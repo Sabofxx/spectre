@@ -1,0 +1,28 @@
+# Versions are pinned after a real install (pip freeze) — see README.
+[project]
+name = "spectre"
+version = "0.1.0"
+description = "Agrégateur de presse française façon Ground News — 100 % local et gratuit"
+requires-python = ">=3.11"
+dependencies = [
+    "feedparser==6.0.12",
+    "httpx==0.28.1",
+    "beautifulsoup4==4.15.0",
+    "pyyaml==6.0.3",
+    "typer==0.26.8",
+    "numpy==2.5.1",
+    "scikit-learn==1.9.0",
+    # Install torch CPU-only FIRST (see README) or this pulls the GPU wheel.
+    "sentence-transformers==5.6.0",
+    "jinja2==3.1.6",
+]
+
+[project.optional-dependencies]
+dev = ["pytest==9.1.1"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["spectre"]
