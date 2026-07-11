@@ -30,6 +30,38 @@ def test_build_site_never_emits_summaries(conn, tmp_path):
     assert find_leaks(conn, tmp_path) == []
 
 
+def test_ollama_section_absent_without_payload(conn, tmp_path):
+    seed(conn)
+    build_site(conn, tmp_path)
+    html = next((tmp_path / "cluster").glob("*.html")).read_text()
+    assert "Analyse qualitative" not in html
+
+
+def test_ollama_section_rendered_with_ai_label_and_autoescape(conn, tmp_path):
+    import json
+
+    seed(conn)
+    cluster_id = conn.execute("SELECT id FROM clusters").fetchone()[0]
+    hostile = {
+        "event_summary": "Résumé <script>alert('xss')</script> neutre.",
+        "framing": {"gauche": "angle & <b>gras</b>", "centre": None, "droite": None},
+        "omissions": None,
+        "model": "qwen2.5:7b-instruct",
+        "article_ids": [1, 2],
+    }
+    dbmod.save_analysis(conn, cluster_id, "ollama", json.dumps(hostile, ensure_ascii=False))
+    conn.commit()
+
+    build_site(conn, tmp_path)
+    html = (tmp_path / "cluster" / f"{cluster_id}.html").read_text()
+
+    assert "Analyse qualitative" in html
+    assert "générée par un modèle de langage local" in html  # mandatory AI label
+    assert "<script>alert" not in html  # autoescape active, no |safe
+    assert "&lt;script&gt;alert" in html
+    assert "&amp; &lt;b&gt;gras&lt;/b&gt;" in html
+
+
 def test_find_leaks_catches_a_leak(conn, tmp_path):
     seed(conn)
     build_site(conn, tmp_path)

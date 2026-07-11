@@ -34,6 +34,9 @@ VOCAB_MIN_ORIENTATIONS = 2
 # Floor per side, in unigram tokens after stopword removal: below this the
 # log-odds output is noise, so we store an 'insufficient_data' status instead.
 VOCAB_MIN_TOKENS = 50
+# Ceiling for the LLM analysis: megaclusters make small models quote titles
+# verbatim instead of analyzing (observed on a 19-article sports cluster).
+OLLAMA_MAX_ARTICLES = 15
 PRIOR_STRENGTH = 100.0  # total mass (a0) of the Dirichlet prior
 TOP_TERMS = 10
 MIN_TERM_COUNT = 2  # a term must appear at least twice on its side
@@ -178,19 +181,67 @@ def _top_terms(z: dict[str, float], counts: Counter, positive: bool) -> list[lis
     return [[term, round(score, 2)] for term, score in items[:TOP_TERMS]]
 
 
-def compute_vocab_contrasts(conn: sqlite3.Connection) -> dict[str, int]:
-    """Log-odds contrast + TF-IDF divergence for every eligible cluster."""
+def build_corpus_stats(conn: sqlite3.Connection) -> tuple[Counter, object]:
+    """Corpus-wide Dirichlet prior + fitted TF-IDF vectorizer (shared state)."""
     from sklearn.feature_extraction.text import TfidfVectorizer
-    from sklearn.metrics.pairwise import cosine_similarity
 
-    # Dirichlet prior estimated over the WHOLE corpus (every stored article).
     all_texts = [article_text(r["title"], r["summary"]) for r in db.all_article_texts(conn)]
     prior: Counter = Counter()
     for text in all_texts:
         prior.update(with_bigrams(tokenize(text)))
-
     vectorizer = TfidfVectorizer(analyzer=lambda t: with_bigrams(tokenize(t)))
     vectorizer.fit(all_texts)
+    return prior, vectorizer
+
+
+def contrast_payload(members: list, prior: Counter, vectorizer: object) -> dict:
+    """Vocabulary-contrast payload for one cluster (status ok/insufficient_data).
+
+    `members` are rows with orientation/title/summary. Pure function: no DB.
+    """
+    from sklearn.metrics.pairwise import cosine_similarity
+
+    left_texts = [article_text(m["title"], m["summary"]) for m in members
+                  if m["orientation"] in LEFT_BLOC]
+    right_texts = [article_text(m["title"], m["summary"]) for m in members
+                   if m["orientation"] in RIGHT_BLOC]
+    left_tokens = [tokenize(t) for t in left_texts]
+    right_tokens = [tokenize(t) for t in right_texts]
+    n_left = sum(len(t) for t in left_tokens)
+    n_right = sum(len(t) for t in right_tokens)
+
+    if n_left < VOCAB_MIN_TOKENS or n_right < VOCAB_MIN_TOKENS:
+        return {
+            "status": "insufficient_data",
+            "n_tokens_left": n_left,
+            "n_tokens_right": n_right,
+        }
+
+    counts_left: Counter = Counter()
+    counts_right: Counter = Counter()
+    for toks in left_tokens:
+        counts_left.update(with_bigrams(toks))
+    for toks in right_tokens:
+        counts_right.update(with_bigrams(toks))
+    z = log_odds_z(counts_left, counts_right, prior)
+
+    vec_left = np.asarray(vectorizer.transform(left_texts).mean(axis=0))
+    vec_right = np.asarray(vectorizer.transform(right_texts).mean(axis=0))
+    divergence = round(float(1.0 - cosine_similarity(vec_left, vec_right)[0, 0]), 3)
+
+    return {
+        "status": "ok",
+        "left_terms": _top_terms(z, counts_left, positive=True),
+        "right_terms": _top_terms(z, counts_right, positive=False),
+        "divergence": divergence,
+        "n_tokens_left": n_left,
+        "n_tokens_right": n_right,
+    }
+
+
+def compute_vocab_contrasts(conn: sqlite3.Connection) -> dict[str, int]:
+    """Log-odds contrast + TF-IDF divergence for every eligible cluster."""
+    prior, vectorizer = build_corpus_stats(conn)
 
     # Only clusters still in the 72h window: beyond it, summaries are purged
     # and analyses must consume their STORED results, never the raw text.
@@ -204,57 +255,65 @@ def compute_vocab_contrasts(conn: sqlite3.Connection) -> dict[str, int]:
         if len({m["orientation"] for m in members}) < VOCAB_MIN_ORIENTATIONS:
             stats["skipped"] += 1
             continue
-        left_texts = [article_text(m["title"], m["summary"]) for m in members
-                      if m["orientation"] in LEFT_BLOC]
-        right_texts = [article_text(m["title"], m["summary"]) for m in members
-                       if m["orientation"] in RIGHT_BLOC]
-        left_tokens = [tokenize(t) for t in left_texts]
-        right_tokens = [tokenize(t) for t in right_texts]
-        n_left = sum(len(t) for t in left_tokens)
-        n_right = sum(len(t) for t in right_tokens)
-
-        if n_left < VOCAB_MIN_TOKENS or n_right < VOCAB_MIN_TOKENS:
-            payload = {
-                "status": "insufficient_data",
-                "n_tokens_left": n_left,
-                "n_tokens_right": n_right,
-            }
-            db.save_analysis(
-                conn, cluster_id, "vocab_contrast", json.dumps(payload, ensure_ascii=False)
-            )
-            stats["insufficient_data"] += 1
-            continue
-
-        counts_left: Counter = Counter()
-        counts_right: Counter = Counter()
-        for toks in left_tokens:
-            counts_left.update(with_bigrams(toks))
-        for toks in right_tokens:
-            counts_right.update(with_bigrams(toks))
-        z = log_odds_z(counts_left, counts_right, prior)
-
-        # Divergence: cosine distance between the mean TF-IDF vectors of the
-        # two blocs (IDF fitted on the whole corpus).
-        vec_left = np.asarray(vectorizer.transform(left_texts).mean(axis=0))
-        vec_right = np.asarray(vectorizer.transform(right_texts).mean(axis=0))
-        divergence = round(float(1.0 - cosine_similarity(vec_left, vec_right)[0, 0]), 3)
-
-        payload = {
-            "status": "ok",
-            "left_terms": _top_terms(z, counts_left, positive=True),
-            "right_terms": _top_terms(z, counts_right, positive=False),
-            "divergence": divergence,
-            "n_tokens_left": n_left,
-            "n_tokens_right": n_right,
-        }
+        payload = contrast_payload(members, prior, vectorizer)
         db.save_analysis(
             conn, cluster_id, "vocab_contrast", json.dumps(payload, ensure_ascii=False)
         )
-        db.set_cluster_divergence(conn, cluster_id, divergence)
-        stats["ok"] += 1
+        if payload["status"] == "ok":
+            db.set_cluster_divergence(conn, cluster_id, payload["divergence"])
+            stats["ok"] += 1
+        else:
+            stats["insufficient_data"] += 1
 
     conn.commit()
     logger.info("vocab contrast: %s", stats)
+    return stats
+
+
+def compute_ollama(conn: sqlite3.Connection, analyzer=None) -> dict:
+    """Qualitative framing via a local LLM, for clusters still in the window.
+
+    Same eligibility as the vocab contrast (>= 4 articles, >= 2 orientations,
+    72h window: summaries are purged beyond it). Cache: a cluster is only
+    re-analyzed when its composition changed by >= 2 articles since the
+    stored payload (a 7B model on CPU is expensive).
+    """
+    from .analyzers import ClusterData, OllamaAnalyzer
+
+    analyzer = analyzer if analyzer is not None else OllamaAnalyzer()
+    stats = {"analyzed": 0, "skipped_cache": 0, "skipped_size": 0, "invalid": 0}
+    if not analyzer.available():
+        stats["unavailable"] = True
+        return stats
+
+    clusters: dict[int, list[sqlite3.Row]] = defaultdict(list)
+    for row in db.ollama_inputs(conn, VOCAB_MIN_ARTICLES, window_start()):
+        clusters[row["cluster_id"]].append(row)
+
+    for cluster_id, members in clusters.items():
+        if len({m["orientation"] for m in members}) < VOCAB_MIN_ORIENTATIONS:
+            continue
+        if len(members) > OLLAMA_MAX_ARTICLES:
+            stats["skipped_size"] += 1
+            continue
+        ids = sorted(m["article_id"] for m in members)
+        stored = db.get_analyses(conn, cluster_id).get("ollama")
+        if stored:
+            prev_ids = json.loads(stored).get("article_ids", [])
+            if len(set(ids) ^ set(prev_ids)) < 2:
+                stats["skipped_cache"] += 1
+                continue
+        payload = analyzer.analyze(ClusterData(cluster_id=cluster_id, members=members))
+        if payload is None:
+            stats["invalid"] += 1
+            continue
+        payload["article_ids"] = ids
+        payload["model"] = analyzer.model
+        db.save_analysis(conn, cluster_id, "ollama", json.dumps(payload, ensure_ascii=False))
+        conn.commit()  # commit per cluster: a 7B-on-CPU run can be interrupted
+        stats["analyzed"] += 1
+
+    logger.info("ollama analysis: %s", stats)
     return stats
 
 

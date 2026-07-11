@@ -213,7 +213,7 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
             **card,
             "by_orientation": [(o, ms) for o, ms in by_orientation if ms],
             "vocab": _vocab_view(analyses["vocab_contrast"]) if "vocab_contrast" in analyses else None,
-            "llm": analyses.get("llm_framing"),
+            "ollama": analyses.get("ollama"),
         }
         (out_dir / "cluster" / f"{card['id']}.html").write_text(
             tpl.render(
