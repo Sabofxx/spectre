@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+{% import "_macros.html" as macros %}
+{% block title %}{{ c.title }} — Spectre{% endblock %}
+{% block content %}
+<p class="crumbs"><a href="{{ root }}index.html">← Fil</a></p>
+<h1>{{ c.title }}</h1>
+{{ macros.coverage_bar(c.counts) }}
+<p class="meta">
+  {{ c.n_members }} articles · {{ c.n_sources }} sources
+  {% if c.divergence is not none %} · {{ macros.divergence_badge(c.divergence) }}{% endif %}
+</p>
+{% if c.blindspot_for %}
+<p class="flag flag-{{ c.blindspot_for }}">Angle mort de la {{ c.blindspot_for }} :
+   ce sujet est très majoritairement couvert par l'autre bord.</p>
+{% endif %}
+
+<h2>Qui en parle</h2>
+{% for orientation, articles in c.by_orientation %}
+<section class="orient-group">
+  <h3 class="b-{{ orientation }}">{{ orientation }}</h3>
+  <ul class="articles">
+    {% for a in articles %}
+    <li>
+      <span class="badge b-{{ orientation }}">{{ a.source_name }}</span>
+      <a href="{{ a.url }}" rel="noopener external">{{ a.title }}</a>
+      {% if a.published_at %}<time>{{ a.published_at | fmt_dt }}</time>{% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endfor %}
+
+<h2>Contraste de vocabulaire</h2>
+{% if c.vocab and c.vocab.status == 'ok' %}
+<p class="meta">Termes statistiquement sur-représentés dans les titres et chapôs de
+   chaque bord (log-odds ratio, z-score). Divergence : {{ "%.2f" | format(c.vocab.divergence) }}.</p>
+<div class="contrast">
+  <div class="contrast-col">
+    <h3>Bord gauche</h3>
+    {% for term, z in c.vocab.left_terms %}
+    <div class="term"><span class="term-bar tb-left" style="width:{{ c.vocab.scale(z) }}%"></span>
+      <span class="term-label">{{ term }} <small>z={{ z }}</small></span></div>
+    {% endfor %}
+  </div>
+  <div class="contrast-col">
+    <h3>Bord droit</h3>
+    {% for term, z in c.vocab.right_terms %}
+    <div class="term"><span class="term-bar tb-right" style="width:{{ c.vocab.scale(z) }}%"></span>
+      <span class="term-label">{{ term }} <small>z={{ z }}</small></span></div>
+    {% endfor %}
+  </div>
+</div>
+{% elif c.vocab %}
+<p class="meta">Corpus insuffisant pour un contraste fiable
+   ({{ c.vocab.n_tokens_left }} tokens à gauche, {{ c.vocab.n_tokens_right }} à droite ;
+   plancher : 50 par bord). Pas de faux contraste sur un micro-corpus.</p>
+{% else %}
+<p class="meta">Pas de contraste calculé pour ce cluster (moins de 4 articles ou un seul bord représenté).</p>
+{% endif %}
+
+{% if c.llm %}
+<h2>Analyse qualitative (modèle local)</h2>
+<p class="meta">Générée par un LLM local via Ollama — à lire avec recul.</p>
+<p>{{ c.llm.summary }}</p>
+{% endif %}
+{% endblock %}
