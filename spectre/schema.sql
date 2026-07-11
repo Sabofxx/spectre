@@ -38,6 +38,7 @@ CREATE TABLE IF NOT EXISTS clusters (
     n_members        INTEGER NOT NULL DEFAULT 0,
     blindspot_score  REAL,             -- -1 (left-only) .. +1 (right-only); NULL = not computed
     divergence_score REAL,             -- 0 (same vocabulary) .. 1 (disjoint framing)
+    category         TEXT,             -- URL-slug majority vote; NULL = uncategorized
     created_at       TEXT NOT NULL,
     updated_at       TEXT NOT NULL
 );

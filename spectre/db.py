@@ -53,7 +53,17 @@ def connect(db_path: str | Path) -> sqlite3.Connection:
     conn.executescript(SCHEMA_PATH.read_text(encoding="utf-8"))
     conn.execute("PRAGMA foreign_keys = ON")
     _migrate_analyses_kind(conn)
+    _migrate_clusters_category(conn)
     return conn
+
+
+def _migrate_clusters_category(conn: sqlite3.Connection) -> None:
+    """One-shot migration: add clusters.category to pre-existing databases."""
+    cols = {r["name"] for r in conn.execute("PRAGMA table_info(clusters)")}
+    if "category" not in cols:
+        logger.info("migrating clusters table: adding category column")
+        conn.execute("ALTER TABLE clusters ADD COLUMN category TEXT")
+        conn.commit()
 
 
 def _migrate_analyses_kind(conn: sqlite3.Connection) -> None:
@@ -476,7 +486,7 @@ def cluster_source_rows(
     return conn.execute(
         """
         SELECT DISTINCT c.id AS cluster_id, c.title, c.n_members,
-               c.divergence_score, c.blindspot_score,
+               c.divergence_score, c.blindspot_score, c.category,
                s.id AS source_id, s.name AS source_name, s.orientation
         FROM clusters c
         JOIN cluster_members m ON m.cluster_id = c.id
@@ -509,6 +519,23 @@ def all_sources(conn: sqlite3.Connection) -> list[sqlite3.Row]:
             name
         """
     ).fetchall()
+
+
+def feed_health(conn: sqlite3.Connection) -> dict:
+    """Latest fetch status per feed: {'ok': n, 'total': n, 'last': iso|None}."""
+    rows = conn.execute(
+        """
+        SELECT f.status FROM fetch_log f
+        JOIN (SELECT feed_url, MAX(id) AS mid FROM fetch_log GROUP BY feed_url) l
+          ON l.mid = f.id
+        """
+    ).fetchall()
+    last = conn.execute("SELECT MAX(fetched_at) AS m FROM fetch_log").fetchone()["m"]
+    return {
+        "ok": sum(1 for r in rows if r["status"] == "ok"),
+        "total": len(rows),
+        "last": last,
+    }
 
 
 def source_stats(conn: sqlite3.Connection) -> list[sqlite3.Row]:

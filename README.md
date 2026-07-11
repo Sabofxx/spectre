@@ -22,7 +22,7 @@ Python ≥ 3.11 requis.
 
 ```bash
 python run.py ingest      # fetch des flux RSS (titres + chapôs, rien d'autre)
-python run.py cluster     # regroupement par événement (seuil : --threshold, défaut 0.70)
+python run.py cluster     # regroupement par événement (seuil : --threshold, défaut 0.92)
 python run.py analyze     # blindspots + contraste de vocabulaire
 python run.py render      # génération du site statique dans site/
 python run.py pipeline    # les quatre dans l'ordre (+ purge > 30 jours)
@@ -105,9 +105,10 @@ jamais recalculée (ses chapôs ont été purgés).
   (72 h), jamais publiés** : passé la fenêtre de clustering, ils sont effacés de
   la base — le repo public ne redistribue donc pas les contenus de presse, il ne
   contient que titres, liens et résultats d'analyse.
-- **Clustering** : embeddings `paraphrase-multilingual-MiniLM-L12-v2` (local,
-  CPU), clustering incrémental glouton sur fenêtre 72 h, seuil 0.70 calibré sur
-  données réelles, règle anti-chaînage (similarité exigée au centroïde ET au
+- **Clustering** : embeddings `intfloat/multilingual-e5-small` (local,
+  CPU, préfixe `query:`), clustering incrémental glouton sur fenêtre 72 h,
+  seuil 0.92 calibré sur données réelles (les similarités E5 sont compressées
+  vers le haut : médiane du corpus 0.81), règle anti-chaînage (similarité exigée au centroïde ET au
   membre le plus proche).
 - **Blindspots** : couverture en sources distinctes par bord, normalisée par le
   nombre de sources actives du bord. Score −1 (gauche seule) à +1 (droite seule),
@@ -129,3 +130,17 @@ jamais recalculée (ses chapôs ont été purgés).
 - Le HTML public ne contient QUE titres, liens vers les originaux et nos
   analyses — jamais les chapôs RSS (vérifié par `check-leaks` en CI avant chaque
   déploiement).
+
+## Maintenance
+
+- **Taille du repo** : la base SQLite est committée à chaque run apportant du
+  contenu neuf (les runs sans nouvel article ne committent pas). SQLite étant
+  binaire, les deltas git sont médiocres : surveiller `du -sh .git` de temps en
+  temps. Si l'historique devient encombrant : squash périodique de la branche,
+  ou migrer le stockage de la base vers un artifact/release GitHub.
+- **Santé des flux** : le footer du site affiche « flux RSS : X/Y OK au dernier
+  passage » (rouge si un flux est tombé). Le détail par flux est dans la table
+  `fetch_log`.
+- **Blindspots** : les clusters `sport` et `faits-divers` (catégorisation par
+  slug d'URL) sont écartés des colonnes principales — leur couverture
+  déséquilibrée est structurelle, pas éditoriale.
