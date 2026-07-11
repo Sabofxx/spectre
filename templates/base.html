@@ -27,7 +27,11 @@
 {% block content %}{% endblock %}
 </main>
 <footer class="site-footer">
-  <p>Généré le {{ generated_at }} · <a href="{{ repo_url }}">code source</a></p>
+  <p>Généré le {{ generated_at }} · <a href="{{ repo_url }}">code source</a>
+  {% if health and health.total %} ·
+    <span class="{{ 'health-warn' if health.ok < health.total }}">flux RSS :
+    {{ health.ok }}/{{ health.total }} OK au dernier passage</span>
+  {% endif %}</p>
   <p>Spectre est un index : aucun contenu d'article n'est reproduit — titres, liens
      et analyses statistiques uniquement. Lisez les articles chez les médias.</p>
 </footer>

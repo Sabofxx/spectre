@@ -23,12 +23,15 @@ if TYPE_CHECKING:
 
 logger = logging.getLogger(__name__)
 
-MODEL_NAME = "paraphrase-multilingual-MiniLM-L12-v2"
-# Calibrated on real data (2026-07-11, 790 articles): 0.55 produced a 48-item
-# drift megacluster, 0.65 still glued distinct same-domain events (three
-# unrelated fires at sim 0.71-0.72). 0.70 trades a little recall (big events
-# may split in two) for the precision that framing analysis needs.
-DEFAULT_THRESHOLD = 0.70
+MODEL_NAME = "intfloat/multilingual-e5-small"
+# E5 models expect a task prefix; for symmetric similarity both sides get it.
+E5_PREFIX = "query: "
+# Calibrated on real data (2026-07-11, 894 articles). E5 similarities are
+# compressed upward (corpus median 0.811, p99 0.881): 0.88 produced 110-item
+# megaclusters, 0.90 still glued a 69-item canicule blob, 0.92 gave clean
+# single-event clusters at the cost of splitting a few true pairs sitting
+# at 0.90-0.92. Precision over recall, as always for framing analysis.
+DEFAULT_THRESHOLD = 0.92
 
 
 def load_model() -> "SentenceTransformer":
@@ -58,7 +61,7 @@ def embed_pending(conn: sqlite3.Connection, model: "SentenceTransformer") -> int
     rows = db.articles_to_embed(conn, window_start())
     if not rows:
         return 0
-    texts = [embedding_text(r["title"], r["summary"]) for r in rows]
+    texts = [E5_PREFIX + embedding_text(r["title"], r["summary"]) for r in rows]
     vecs = model.encode(
         texts, normalize_embeddings=True, batch_size=64, show_progress_bar=False
     )

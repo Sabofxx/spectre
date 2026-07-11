@@ -122,6 +122,14 @@ time { color: var(--muted); font-size: 0.82rem; margin-left: 0.4rem; }
 }
 .framing dd { margin: 0.25rem 0 0.5rem; }
 
+.cat {
+  font-size: 0.75rem; padding: 0.05rem 0.45rem; border-radius: 99px;
+  border: 1px solid var(--line); color: var(--muted);
+}
+.structural-list { list-style: none; padding: 0; }
+.structural-list li { padding: 0.25rem 0; border-bottom: 1px solid var(--line); }
+.health-warn { color: var(--left); font-weight: 600; }
+
 .crumbs { font-size: 0.85rem; }
 .crumbs a { color: var(--muted); text-decoration: none; }
 

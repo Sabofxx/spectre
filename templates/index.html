@@ -9,6 +9,7 @@
   {{ macros.coverage_bar(c.counts) }}
   <p class="meta">
     {{ c.n_members }} articles · {{ c.n_sources }} sources
+    {% if c.category %} · <span class="cat">{{ c.category }}</span>{% endif %}
     {% if c.divergence is not none %} · {{ macros.divergence_badge(c.divergence) }}{% endif %}
     {% if c.blindspot_for %} · <span class="flag flag-{{ c.blindspot_for }}">angle mort de la {{ c.blindspot_for }}</span>{% endif %}
   </p>

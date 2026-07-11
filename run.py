@@ -89,8 +89,8 @@ def inspect(
     db: Path = typer.Option(DEFAULT_DB),
     n_clusters: int = typer.Option(10, help="Clusters aléatoires à afficher"),
     n_pairs: int = typer.Option(15, help="Paires en zone grise à afficher"),
-    lo: float = typer.Option(0.45),
-    hi: float = typer.Option(0.65),
+    lo: float = typer.Option(0.88),
+    hi: float = typer.Option(0.92),
     seed: int = typer.Option(None, help="Graine aléatoire (reproductibilité)"),
 ) -> None:
     """Manual calibration report: random clusters + gray-zone pairs."""
@@ -179,8 +179,14 @@ def render(
 def pipeline(
     db: Path = typer.Option(DEFAULT_DB),
     config: Path = typer.Option(DEFAULT_CONFIG),
+    stats_file: Path = typer.Option(
+        None, help="Écrit un résumé JSON du run (utilisé par la CI pour "
+                   "ne committer la base que s'il y a du contenu neuf)"
+    ),
 ) -> None:
     """ingest -> purge -> cluster -> analyze -> render, in order."""
+    import json
+
     from spectre import analyze as analyze_mod
     from spectre import cluster as cluster_mod
     from spectre import render as render_mod
@@ -188,12 +194,14 @@ def pipeline(
     conn = dbmod.connect(db)
     sources = ingest_mod.load_sources(config)
     dbmod.sync_sources(conn, sources)
-    ingest_mod.ingest_all(conn, sources)
+    n_new = ingest_mod.ingest_all(conn, sources)
     dbmod.purge(conn)
-    cluster_mod.run(conn)
+    cluster_stats = cluster_mod.run(conn)
     analyze_mod.run(conn)
     stats = render_mod.build_site(conn, SITE_DIR)
     typer.echo(f"Pipeline OK — site généré : {stats}")
+    if stats_file:
+        stats_file.write_text(json.dumps({"new_articles": n_new, **cluster_stats}))
     conn.close()
 
 

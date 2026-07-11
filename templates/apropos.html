@@ -42,8 +42,8 @@ Les désaccords sur ce classement sont légitimes — le fichier
       canonique (paramètres de tracking retirés).</li>
   <li><strong>Regroupement par événement :</strong> chaque article est encodé par
       un modèle d'embeddings multilingue local
-      (paraphrase-multilingual-MiniLM-L12-v2) ; un article rejoint un cluster si
-      sa similarité dépasse 0,70 à la fois avec le centre du cluster et avec son
+      (multilingual-e5-small) ; un article rejoint un cluster si
+      sa similarité dépasse 0,92 à la fois avec le centre du cluster et avec son
       membre le plus proche (règle anti-chaînage), sur une fenêtre glissante de 72 h.</li>
   <li><strong>Blindspots :</strong> couverture comptée en <em>sources distinctes</em>
       par bord (un média qui publie 4 articles compte une fois), normalisée par le

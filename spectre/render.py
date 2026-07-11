@@ -91,6 +91,7 @@ def _cards(conn: sqlite3.Connection, since: str, min_members: int) -> list[dict]
                 "divergence": row["divergence_score"],
                 "blindspot_score": row["blindspot_score"],
                 "blindspot_for": _blindspot_label(row["blindspot_score"]),
+                "category": row["category"],
                 "source_rows": [],
             },
         )
@@ -154,6 +155,7 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
     base_ctx = {
         "generated_at": now.astimezone(_PARIS).strftime("%d/%m/%Y %H:%M (%Z)"),
         "repo_url": REPO_URL,
+        "health": db.feed_health(conn),
     }
 
     feed_since = (now - timedelta(hours=FEED_WINDOW_HOURS)).isoformat(timespec="seconds")
@@ -175,11 +177,19 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
         encoding="utf-8",
     )
 
+    # Sport and faits-divers one-sidedness is structural (left outlets barely
+    # cover them), not an editorial blindspot: keep them out of the columns.
+    from .categorize import STRUCTURAL_CATEGORIES
+
+    editorial = [c for c in blind_cards if c["category"] not in STRUCTURAL_CATEGORIES]
+    structural = [c for c in blind_cards if c["category"] in STRUCTURAL_CATEGORIES]
+
     (out_dir / "blindspots.html").write_text(
         env.get_template("blindspots.html").render(
             **base_ctx, root="",
-            left_covered=[c for c in blind_cards if c["blindspot_for"] == "droite"],
-            right_covered=[c for c in blind_cards if c["blindspot_for"] == "gauche"],
+            left_covered=[c for c in editorial if c["blindspot_for"] == "droite"],
+            right_covered=[c for c in editorial if c["blindspot_for"] == "gauche"],
+            structural=structural,
             og_title="Blindspots — Spectre",
             og_description="Les sujets couverts massivement par un bord du spectre"
                            " médiatique et ignorés par l'autre.",

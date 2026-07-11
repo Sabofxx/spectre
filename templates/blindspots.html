@@ -27,4 +27,18 @@
     {% else %}<p class="meta">Rien cette semaine.</p>{% endfor %}
   </section>
 </div>
+
+{% if structural %}
+<h2>Écarts structurels (sport, faits divers)</h2>
+<p class="meta">Ces sujets sont couverts très majoritairement par un seul bord,
+   mais c'est un effet de rubrique — certains médias publient peu de sport ou de
+   faits divers par nature éditoriale — pas un angle mort d'actualité générale.</p>
+<ul class="structural-list">
+  {% for c in structural %}
+  <li><span class="cat">{{ c.category }}</span>
+      <a href="cluster/{{ c.id }}.html">{{ c.title }}</a>
+      <span class="meta">({{ c.n_members }} art., score {{ "%+.2f" | format(c.blindspot_score) }})</span></li>
+  {% endfor %}
+</ul>
+{% endif %}
 {% endblock %}

@@ -34,14 +34,14 @@ jobs:
           cache: pip
           cache-dependency-path: pyproject.toml
 
-      # ~500 Mo de modèle d'embeddings : sans ce cache, retéléchargé à chaque run.
+      # ~470 Mo de modèle d'embeddings : sans ce cache, retéléchargé à chaque run.
       # Clé = nom du modèle + version de sentence-transformers (le format de
       # cache peut changer entre versions majeures de la lib).
       - name: Cache HuggingFace model
         uses: actions/cache@v4
         with:
           path: ~/.cache/huggingface
-          key: ${{ runner.os }}-hf-paraphrase-multilingual-MiniLM-L12-v2-st-5.6.0
+          key: ${{ runner.os }}-hf-multilingual-e5-small-st-5.6.0
 
       - name: Install dependencies (torch CPU-only)
         run: |
@@ -50,7 +50,7 @@ jobs:
           pip install .
 
       - name: Run pipeline
-        run: python run.py pipeline
+        run: python run.py pipeline --stats-file /tmp/pipeline-stats.json
 
       # Un seul fichier compact à committer, pas de -wal/-shm.
       - name: Compact database
@@ -61,11 +61,17 @@ jobs:
       - name: Check no RSS summary leaked into HTML
         run: python run.py check-leaks
 
-      - name: Commit database if changed
+      # La base change à CHAQUE run (fetch_log) ; committer ce bruit ferait
+      # gonfler l'historique pour rien. On ne committe que si le run a apporté
+      # du contenu (nouveaux articles) — les à-côtés voyageront avec le
+      # prochain commit utile.
+      - name: Commit database if new content
         run: |
           git config user.name "spectre-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if [ -n "$(git status --porcelain spectre.db)" ]; then
+          NEW=$(python -c "import json;print(json.load(open('/tmp/pipeline-stats.json'))['new_articles'])")
+          echo "nouveaux articles: $NEW"
+          if [ "$NEW" -gt 0 ] && [ -n "$(git status --porcelain spectre.db)" ]; then
             git add spectre.db
             git commit -m "chore: update database [skip ci]"
             git pull --rebase origin "${GITHUB_REF_NAME}"
