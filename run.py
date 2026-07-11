@@ -117,7 +117,13 @@ def inspect(
 
 
 @app.command()
-def analyze(db: Path = typer.Option(DEFAULT_DB)) -> None:
+def analyze(
+    db: Path = typer.Option(DEFAULT_DB),
+    ollama: bool = typer.Option(
+        False, "--ollama",
+        help="Ajoute l'analyse qualitative via un LLM local (Ollama requis)",
+    ),
+) -> None:
     """Compute blindspots and vocabulary contrast for eligible clusters."""
     import json
 
@@ -126,6 +132,16 @@ def analyze(db: Path = typer.Option(DEFAULT_DB)) -> None:
     conn = dbmod.connect(db)
     stats = analyze_mod.run(conn)
     typer.echo(f"Analyses : {stats}")
+    if ollama:
+        ostats = analyze_mod.compute_ollama(conn)
+        if ostats.get("unavailable"):
+            typer.echo("Ollama indisponible — analyse qualitative sautée.")
+        else:
+            typer.echo(
+                f"Ollama : {ostats['analyzed']} analysés, "
+                f"{ostats['skipped_cache']} skippés (cache), "
+                f"{ostats['invalid']} invalides."
+            )
 
     typer.echo("\n=== Blindspots (|score| >= 0.6) ===")
     for row in dbmod.top_blindspots(conn, 0.6, 8):

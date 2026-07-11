@@ -54,13 +54,13 @@ CREATE UNIQUE INDEX IF NOT EXISTS idx_cluster_members_article
     ON cluster_members(article_id);
 
 -- Analysis results, one JSON payload per (cluster, kind).
--- kind = 'blindspot'      -> {"score": .., "left": n, "center": n, "right": n, "weighted": {..}}
--- kind = 'vocab_contrast' -> {"left_terms": [[term, z], ..], "right_terms": [..], "divergence": ..}
--- kind = 'llm_framing'    -> {"summary": .., "framing": {..}, "omissions": [..], "model": ..}
+-- kind = 'blindspot'      -> {"score": .., "blindspot_for": .., "sources_*": [..], "coverage_*": ..}
+-- kind = 'vocab_contrast' -> {"status": .., "left_terms": [[term, z], ..], "right_terms": [..], "divergence": ..}
+-- kind = 'ollama'         -> {"event_summary": .., "framing": {..}, "omissions": .., "model": .., "article_ids": [..]}
 CREATE TABLE IF NOT EXISTS analyses (
     id         INTEGER PRIMARY KEY,
     cluster_id INTEGER NOT NULL REFERENCES clusters(id),
-    kind       TEXT NOT NULL CHECK (kind IN ('blindspot', 'vocab_contrast', 'llm_framing')),
+    kind       TEXT NOT NULL CHECK (kind IN ('blindspot', 'vocab_contrast', 'ollama')),
     payload    TEXT NOT NULL,         -- JSON
     created_at TEXT NOT NULL,
     UNIQUE (cluster_id, kind)         -- re-analysis overwrites (INSERT OR REPLACE)

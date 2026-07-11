@@ -61,6 +61,42 @@ minutes** selon la charge de la plateforme — normal, pas un bug. Le
 `concurrency group` avec `cancel-in-progress: false` garantit qu'un run qui
 committe la base n'est jamais annulé par le suivant.
 
+## Analyse qualitative locale (Ollama, optionnelle)
+
+En plus des statistiques, `python run.py analyze --ollama` génère une analyse
+qualitative du cadrage (résumé neutre, angle par bord, omissions) via un LLM
+**local** — [Ollama](https://ollama.com), aucun service payant. Modèle par
+défaut : `qwen2.5:7b-instruct`, configurable :
+
+```bash
+ollama pull llama3.2:3b
+export SPECTRE_OLLAMA_MODEL=llama3.2:3b   # pour les machines à 8 Go de RAM
+```
+
+Garde-fous : clusters de 4 à 15 articles avec ≥ 2 orientations seulement,
+sortie JSON validée strictement (schéma, longueurs max), rejet de toute
+réponse qui recopie ≥ 8 mots consécutifs d'un titre, cache (re-analyse
+uniquement si la composition du cluster a changé de ≥ 2 articles). Les
+sections publiées sont étiquetées comme générées par IA.
+
+### Boucle locale → site
+
+Les runners GitHub n'ont pas Ollama : les analyses qualitatives se font **sur
+ta machine** et voyagent via la base committée.
+
+```bash
+git pull --rebase                          # la base bouge toutes les 30 min (cron)
+python run.py analyze --ollama             # analyse les clusters actifs
+git add spectre.db && git commit -m "chore: analyses qualitatives" && git push
+# si un cron est passé entre-temps : git pull --rebase puis git push à nouveau
+```
+
+Le prochain déploiement (cron ou `workflow_dispatch`) rendra les sections.
+Normal et attendu : le payload d'un cluster encore actif peut être écrasé
+plus tard si le cluster évolue (≥ 2 nouveaux articles) ; et un cluster sorti
+de la fenêtre de 72 h garde son analyse stockée telle quelle, elle n'est
+jamais recalculée (ses chapôs ont été purgés).
+
 ## Méthode (résumé)
 
 - **Ingestion** : flux RSS uniquement, titres + chapôs. Pas de scraping du texte
