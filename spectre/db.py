@@ -52,7 +52,39 @@ def connect(db_path: str | Path) -> sqlite3.Connection:
     conn.row_factory = sqlite3.Row
     conn.executescript(SCHEMA_PATH.read_text(encoding="utf-8"))
     conn.execute("PRAGMA foreign_keys = ON")
+    _migrate_analyses_kind(conn)
     return conn
+
+
+def _migrate_analyses_kind(conn: sqlite3.Connection) -> None:
+    """One-shot migration: allow kind='ollama' in pre-existing databases.
+
+    SQLite cannot ALTER a CHECK constraint, so the table is rebuilt once.
+    Fresh databases already carry the new constraint from schema.sql.
+    """
+    row = conn.execute(
+        "SELECT sql FROM sqlite_master WHERE type = 'table' AND name = 'analyses'"
+    ).fetchone()
+    if row is None or "'ollama'" in row["sql"]:
+        return
+    logger.info("migrating analyses table: allowing kind='ollama'")
+    conn.executescript(
+        """
+        BEGIN;
+        ALTER TABLE analyses RENAME TO analyses_old;
+        CREATE TABLE analyses (
+            id         INTEGER PRIMARY KEY,
+            cluster_id INTEGER NOT NULL REFERENCES clusters(id),
+            kind       TEXT NOT NULL CHECK (kind IN ('blindspot', 'vocab_contrast', 'ollama')),
+            payload    TEXT NOT NULL,
+            created_at TEXT NOT NULL,
+            UNIQUE (cluster_id, kind)
+        );
+        INSERT INTO analyses SELECT * FROM analyses_old WHERE kind != 'llm_framing';
+        DROP TABLE analyses_old;
+        COMMIT;
+        """
+    )
 
 
 def sync_sources(conn: sqlite3.Connection, sources: list[Source]) -> None:
@@ -354,6 +386,27 @@ def vocab_inputs(
     return conn.execute(
         """
         SELECT m.cluster_id, s.orientation, a.title, a.summary
+        FROM cluster_members m
+        JOIN clusters c ON c.id = m.cluster_id
+        JOIN articles a ON a.id = m.article_id
+        JOIN sources s ON s.id = a.source_id
+        WHERE c.n_members >= ? AND c.updated_at >= ?
+        """,
+        (min_articles, since),
+    ).fetchall()
+
+
+def ollama_inputs(
+    conn: sqlite3.Connection, min_articles: int, since: str
+) -> list[sqlite3.Row]:
+    """Members with ids and source names, for the qualitative LLM analysis.
+
+    Same window restriction as vocab_inputs: summaries only exist inside it.
+    """
+    return conn.execute(
+        """
+        SELECT m.cluster_id, a.id AS article_id, a.title, a.summary,
+               s.name AS source_name, s.orientation
         FROM cluster_members m
         JOIN clusters c ON c.id = m.cluster_id
         JOIN articles a ON a.id = m.article_id

@@ -58,9 +58,21 @@
 <p class="meta">Pas de contraste calculé pour ce cluster (moins de 4 articles ou un seul bord représenté).</p>
 {% endif %}
 
-{% if c.llm %}
-<h2>Analyse qualitative (modèle local)</h2>
-<p class="meta">Générée par un LLM local via Ollama — à lire avec recul.</p>
-<p>{{ c.llm.summary }}</p>
+{% if c.ollama %}
+<h2>Analyse qualitative</h2>
+<p class="ai-note">Analyse générée par un modèle de langage local — à lire avec
+   recul critique.</p>
+<p>{{ c.ollama.event_summary }}</p>
+<dl class="framing">
+  {% for bord in ['gauche', 'centre', 'droite'] %}
+  {% if c.ollama.framing[bord] %}
+  <dt class="b-{{ bord }}">{{ bord }}</dt>
+  <dd>{{ c.ollama.framing[bord] }}</dd>
+  {% endif %}
+  {% endfor %}
+</dl>
+{% if c.ollama.omissions %}
+<p><strong>Omissions :</strong> {{ c.ollama.omissions }}</p>
+{% endif %}
 {% endif %}
 {% endblock %}
