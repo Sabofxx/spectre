@@ -1,0 +1,85 @@
+# Spectre — pipeline + déploiement GitHub Pages, 100 % dans les quotas gratuits.
+# Cron GitHub = UTC, et souvent décalé de quelques minutes (voir README).
+name: pipeline
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+# Un seul run à la fois. cancel-in-progress: false — on n'annule JAMAIS un run
+# qui est peut-être en train de committer la base.
+concurrency:
+  group: spectre-pipeline
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # commit de spectre.db
+  pages: write      # déploiement Pages
+  id-token: write   # OIDC pour deploy-pages
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: pyproject.toml
+
+      # ~500 Mo de modèle d'embeddings : sans ce cache, retéléchargé à chaque run.
+      # Clé = nom du modèle + version de sentence-transformers (le format de
+      # cache peut changer entre versions majeures de la lib).
+      - name: Cache HuggingFace model
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: ${{ runner.os }}-hf-paraphrase-multilingual-MiniLM-L12-v2-st-5.6.0
+
+      - name: Install dependencies (torch CPU-only)
+        run: |
+          python -m pip install --upgrade pip
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install .
+
+      - name: Run pipeline
+        run: python run.py pipeline
+
+      # Un seul fichier compact à committer, pas de -wal/-shm.
+      - name: Compact database
+        run: python run.py compact
+
+      # Contrainte droits voisins : si un chapô RSS fuit dans le HTML public,
+      # on échoue AVANT le déploiement.
+      - name: Check no RSS summary leaked into HTML
+        run: python run.py check-leaks
+
+      - name: Commit database if changed
+        run: |
+          git config user.name "spectre-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain spectre.db)" ]; then
+            git add spectre.db
+            git commit -m "chore: update database [skip ci]"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push
+          else
+            echo "Base inchangée, pas de commit."
+          fi
+
+      # Le HTML ne passe jamais par git : artifact Pages direct.
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/
+
+      - uses: actions/deploy-pages@v4
+        id: deployment

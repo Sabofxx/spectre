@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% import "_macros.html" as macros %}
+{% block title %}Spectre — le fil{% endblock %}
+{% block content %}
+<h1>Le fil <span class="subtitle">— événements des dernières 48 h, triés par volume de couverture</span></h1>
+{% for c in clusters %}
+<article class="card">
+  <h2><a href="cluster/{{ c.id }}.html">{{ c.title }}</a></h2>
+  {{ macros.coverage_bar(c.counts) }}
+  <p class="meta">
+    {{ c.n_members }} articles · {{ c.n_sources }} sources
+    {% if c.divergence is not none %} · {{ macros.divergence_badge(c.divergence) }}{% endif %}
+    {% if c.blindspot_for %} · <span class="flag flag-{{ c.blindspot_for }}">angle mort de la {{ c.blindspot_for }}</span>{% endif %}
+  </p>
+  <p class="badges">
+    {% for s in c.sources %}<span class="badge b-{{ s.orientation }}">{{ s.name }}</span>{% endfor %}
+  </p>
+</article>
+{% else %}
+<p>Aucun cluster multi-articles sur les dernières 48 h. Le pipeline vient peut-être de démarrer.</p>
+{% endfor %}
+{% endblock %}

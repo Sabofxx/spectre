@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}Spectre{% endblock %}</title>
+<meta property="og:site_name" content="Spectre">
+<meta property="og:type" content="{{ og_type | default('website') }}">
+<meta property="og:title" content="{{ og_title }}">
+<meta property="og:description" content="{{ og_description }}">
+<meta property="og:locale" content="fr_FR">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ og_title }}">
+<meta name="twitter:description" content="{{ og_description }}">
+<link rel="stylesheet" href="{{ root }}style.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="logo" href="{{ root }}index.html">Spectre</a>
+  <nav>
+    <a href="{{ root }}index.html">Fil</a>
+    <a href="{{ root }}blindspots.html">Blindspots</a>
+    <a href="{{ root }}a-propos.html">À propos</a>
+  </nav>
+</header>
+<main>
+{% block content %}{% endblock %}
+</main>
+<footer class="site-footer">
+  <p>Généré le {{ generated_at }} · <a href="{{ repo_url }}">code source</a></p>
+  <p>Spectre est un index : aucun contenu d'article n'est reproduit — titres, liens
+     et analyses statistiques uniquement. Lisez les articles chez les médias.</p>
+</footer>
+</body>
+</html>

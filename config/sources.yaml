@@ -1,0 +1,206 @@
+# Spectre — référentiel des sources
+# Orientations: gauche | centre-gauche | centre | centre-droit | droite
+# La classification est indicative et débattable (voir README).
+# Propriétaires d'après la carte "Médias français, qui possède quoi"
+# (Le Monde diplomatique / Acrimed, éd. 2024).
+# Tous les flux ont été vérifiés par fetch réel le 2026-07-11.
+
+sources:
+  # ---------------- gauche ----------------
+  - id: mediapart
+    name: Mediapart
+    orientation: gauche
+    owner: "Indépendant (Fonds pour une presse libre, salariés)"
+    rss:
+      - https://www.mediapart.fr/articles/feed
+    active: true
+
+  - id: humanite
+    name: "L'Humanité"
+    orientation: gauche
+    owner: "Indépendant (actionnariat populaire, proche PCF)"
+    rss:
+      - https://www.humanite.fr/rss/actu.rss
+    active: true
+
+  - id: politis
+    name: Politis
+    orientation: gauche
+    owner: "Indépendant (lecteurs et salariés)"
+    # RSS désactivé côté serveur : /feed/, ?feed=rss2, etc. renvoient du HTML
+    # (vérifié 2026-07-11). Réactiver si le flux revient.
+    rss: []
+    active: false
+
+  - id: reporterre
+    name: Reporterre
+    orientation: gauche
+    owner: "Association à but non lucratif (dons)"
+    rss:
+      - https://reporterre.net/spip.php?page=backend
+    active: true
+
+  - id: blast
+    name: Blast
+    orientation: gauche
+    owner: "Indépendant (financement participatif, Denis Robert)"
+    rss:
+      - https://api.blast-info.fr/rss.xml
+    active: true
+
+  # ---------------- centre-gauche ----------------
+  - id: lemonde
+    name: Le Monde
+    orientation: centre-gauche
+    owner: "Groupe Le Monde (Niel ; Kretinsky minoritaire)"
+    rss:
+      - https://www.lemonde.fr/rss/une.xml
+      - https://www.lemonde.fr/politique/rss_full.xml
+    active: true
+
+  - id: liberation
+    name: Libération
+    orientation: centre-gauche
+    owner: "Fonds de dotation Presse indépendante (ex-Altice/Drahi)"
+    rss:
+      - https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml
+    active: true
+
+  - id: franceinter
+    name: France Inter
+    orientation: centre-gauche
+    owner: "Radio France (service public)"
+    rss:
+      - https://www.radiofrance.fr/franceinter/rss
+    active: true
+
+  - id: lobs
+    name: "L'Obs"
+    orientation: centre-gauche
+    owner: "Groupe Le Monde (Niel)"
+    rss:
+      - https://www.nouvelobs.com/rss.xml
+    active: true
+
+  # ---------------- centre ----------------
+  - id: franceinfo
+    name: France Info
+    orientation: centre
+    owner: "France Télévisions / Radio France (service public)"
+    rss:
+      - https://www.francetvinfo.fr/titres.rss
+    active: true
+
+  - id: ouestfrance
+    name: Ouest-France
+    orientation: centre
+    owner: "Association SIPA (loi 1901)"
+    rss:
+      - https://www.ouest-france.fr/rss-en-continu.xml
+    active: true
+
+  - id: leparisien
+    name: Le Parisien
+    orientation: centre
+    owner: "LVMH (Bernard Arnault)"
+    rss:
+      - https://feeds.leparisien.fr/leparisien/rss
+    active: true
+
+  - id: 20minutes
+    name: 20 Minutes
+    orientation: centre
+    owner: "SIPA Ouest-France + Rossel"
+    rss:
+      - https://www.20minutes.fr/feeds/rss-une.xml
+    active: true
+
+  - id: lacroix
+    name: La Croix
+    orientation: centre
+    owner: "Bayard Presse (Augustins de l'Assomption)"
+    rss:
+      - https://www.la-croix.com/RSS/UNIVERS_WFRA
+    active: true
+
+  # ---------------- centre-droit ----------------
+  - id: lefigaro
+    name: Le Figaro
+    orientation: centre-droit
+    owner: "Groupe Dassault"
+    rss:
+      - https://www.lefigaro.fr/rss/figaro_actualites.xml
+    active: true
+
+  - id: lesechos
+    name: Les Échos
+    orientation: centre-droit
+    owner: "LVMH (Bernard Arnault)"
+    # 403 Akamai sur tous les endpoints RSS connus (vérifié 2026-07-11).
+    rss: []
+    active: false
+
+  - id: lepoint
+    name: Le Point
+    orientation: centre-droit
+    owner: "Artémis (François Pinault)"
+    # 403 Datadome, même avec User-Agent navigateur (vérifié 2026-07-11).
+    rss: []
+    active: false
+
+  - id: lexpress
+    name: "L'Express"
+    orientation: centre-droit
+    owner: "Alain Weill (majoritaire)"
+    rss:
+      - https://www.lexpress.fr/rss/alaune.xml
+    active: true
+
+  - id: bfmtv
+    name: BFM TV
+    orientation: centre-droit
+    owner: "CMA CGM (Rodolphe Saadé)"
+    rss:
+      - https://www.bfmtv.com/rss/news-24-7/
+    active: true
+
+  # ---------------- droite ----------------
+  - id: cnews
+    name: CNews
+    orientation: droite
+    owner: "Canal+ / Vivendi (Bolloré)"
+    rss:
+      - https://www.cnews.fr/rss.xml
+    active: true
+
+  - id: europe1
+    name: Europe 1
+    orientation: droite
+    owner: "Lagardère (Vivendi / Bolloré)"
+    rss:
+      - https://www.europe1.fr/rss.xml
+    active: true
+
+  - id: jdd
+    name: Le JDD
+    orientation: droite
+    owner: "Lagardère (Vivendi / Bolloré)"
+    rss:
+      - https://www.lejdd.fr/rss.xml
+    active: true
+
+  - id: valeursactuelles
+    name: Valeurs Actuelles
+    orientation: droite
+    owner: "Famille Safa (Privinvest)"
+    rss:
+      - https://www.valeursactuelles.com/feed
+    active: true
+
+  - id: causeur
+    name: Causeur
+    orientation: droite
+    owner: "Indépendant (Élisabeth Lévy, actionnaires privés)"
+    rss:
+      - https://www.causeur.fr/feed
+    active: true

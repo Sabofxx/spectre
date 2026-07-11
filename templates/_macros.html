@@ -1,0 +1,21 @@
+{# Coverage bar: distinct sources per political bloc. Counts are repeated as
+   text right below (relief for the low-contrast neutral gray + screen readers). #}
+{% macro coverage_bar(counts) %}
+<div class="bar" role="img"
+     aria-label="Couverture : {{ counts.left }} source(s) à gauche, {{ counts.centre }} au centre, {{ counts.right }} à droite">
+  {% if counts.left %}<span class="seg seg-left" style="flex-grow:{{ counts.left }}"></span>{% endif %}
+  {% if counts.centre %}<span class="seg seg-centre" style="flex-grow:{{ counts.centre }}"></span>{% endif %}
+  {% if counts.right %}<span class="seg seg-right" style="flex-grow:{{ counts.right }}"></span>{% endif %}
+</div>
+<p class="bar-counts">
+  <span class="dot dot-left"></span>{{ counts.left }} gauche&nbsp;·
+  <span class="dot dot-centre"></span>{{ counts.centre }} centre&nbsp;·
+  <span class="dot dot-right"></span>{{ counts.right }} droite
+</p>
+{% endmacro %}
+
+{% macro divergence_badge(score) %}
+<span class="tip" tabindex="0"
+      data-tip="Écart de vocabulaire entre bord gauche et bord droit (0 à 1). Un score élevé peut refléter un vrai désaccord de cadrage… ou un cluster imparfait mélangeant des sujets voisins.">
+  divergence {{ "%.2f" | format(score) }}</span>
+{% endmacro %}

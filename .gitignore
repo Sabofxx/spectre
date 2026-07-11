@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+build/
+
+# Generated site: deployed as a Pages artifact, never committed.
+site/
+
+# SQLite sidecars (the compacted spectre.db itself IS committed).
+spectre.db-wal
+spectre.db-shm
