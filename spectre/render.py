@@ -143,6 +143,19 @@ def _og_coverage(counts: dict[str, int], n_members: int) -> str:
     )
 
 
+def _cards_overview(cards: list[dict]) -> dict[str, int]:
+    """Small aggregate counters for page headers."""
+    sources = {(s["name"], s["orientation"], s["editorial_style"]) for c in cards for s in c["sources"]}
+    return {
+        "events": len(cards),
+        "articles": sum(c["n_members"] for c in cards),
+        "sources": len(sources),
+        "factuel": len({s for s in sources if s[2] == "factuel"}),
+        "mixte": len({s for s in sources if s[2] == "mixte"}),
+        "opinion": len({s for s in sources if s[2] == "opinion"}),
+    }
+
+
 def find_leaks(conn: sqlite3.Connection, site_dir: Path) -> list[str]:
     """Return RSS summaries whose text appears in the generated HTML.
 
@@ -183,6 +196,7 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
     (out_dir / "index.html").write_text(
         env.get_template("index.html").render(
             **base_ctx, root="", clusters=feed_cards,
+            active_page="index", overview=_cards_overview(feed_cards),
             og_title="Spectre — qui couvre quoi dans la presse française",
             og_description=(
                 "Agrégateur d'actualité française : couverture par orientation"
@@ -205,6 +219,13 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
             left_covered=[c for c in editorial if c["blindspot_for"] == "droite"],
             right_covered=[c for c in editorial if c["blindspot_for"] == "gauche"],
             structural=structural,
+            active_page="blindspots",
+            overview={
+                "editorial": len(editorial),
+                "structural": len(structural),
+                "left_covered": sum(1 for c in editorial if c["blindspot_for"] == "droite"),
+                "right_covered": sum(1 for c in editorial if c["blindspot_for"] == "gauche"),
+            },
             og_title="Blindspots — Spectre",
             og_description="Les sujets couverts massivement par un bord du spectre"
                            " médiatique et ignorés par l'autre.",
@@ -238,6 +259,7 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
         (out_dir / "archives" / f"{snap['week']}.html").write_text(
             env.get_template("archive_week.html").render(
                 **base_ctx, root="../", snap=snap,
+                active_page="archives",
                 og_title=f"Archives {snap['week']} — Spectre",
                 og_description="Instantané hebdomadaire : les événements et leurs"
                                " couvertures par bord.",
@@ -247,6 +269,7 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
     (out_dir / "archives.html").write_text(
         env.get_template("archives.html").render(
             **base_ctx, root="", snapshots=snapshots,
+            active_page="archives",
             og_title="Archives — Spectre",
             og_description="La mémoire du spectre médiatique, semaine par semaine.",
         ),
@@ -256,6 +279,7 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
     (out_dir / "a-propos.html").write_text(
         env.get_template("apropos.html").render(
             **base_ctx, root="", sources=db.all_sources(conn),
+            active_page="about",
             og_title="À propos — Spectre",
             og_description="Méthodologie, référentiel d'orientations (indicatif et"
                            " débattable) et limites connues du projet.",
@@ -283,7 +307,7 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
         }
         (out_dir / "cluster" / f"{card['id']}.html").write_text(
             tpl.render(
-                **base_ctx, root="../", c=ctx, og_type="article",
+                **base_ctx, root="../", c=ctx, og_type="article", active_page="index",
                 og_title=card["title"],
                 og_description=_og_coverage(card["counts"], card["n_members"]),
             ),

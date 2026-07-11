@@ -3,12 +3,16 @@
 {% block content %}
 <h1>À propos</h1>
 
-<h2>Ce que fait Spectre</h2>
-<p>Spectre agrège les flux RSS d'une vingtaine de médias français, regroupe les
-articles par événement, puis mesure <em>qui couvre quoi</em> selon l'orientation
-politique des rédactions — dans l'esprit de Ground News, qui n'existe pas pour la
-presse francophone. Le projet est 100 % gratuit, open source, et tourne sans
-aucune API payante.</p>
+<section class="method-grid">
+  <article class="method-card">
+    <h2>Ce que fait Spectre</h2>
+    <p>Spectre agrège les flux RSS d'une vingtaine de médias français, regroupe les articles par événement, puis mesure qui couvre quoi selon l'orientation politique et le style éditorial des rédactions.</p>
+  </article>
+  <article class="method-card">
+    <h2>Ce qu'il ne fait pas</h2>
+    <p>Le site ne scrape pas les articles, ne republie pas les chapôs RSS et ne prétend pas mesurer l'opinion des journalistes. Il indexe des couvertures et affiche ses limites.</p>
+  </article>
+</section>
 
 <h2>Le référentiel d'orientations</h2>
 <p><strong>La classification est indicative et débattable.</strong> Placer un
@@ -26,6 +30,7 @@ principal plutôt factuel, mélange d'information et d'analyse, ou média dont l
 traitement est plus explicitement éditorialisé. Elle pondère la lecture des
 clusters sans remplacer l'axe politique.</p>
 
+<div class="table-wrap">
 <table class="sources-table">
   <thead><tr><th>Média</th><th>Orientation</th><th>Style</th><th>Propriétaire</th><th>Flux</th></tr></thead>
   <tbody>
@@ -40,34 +45,49 @@ clusters sans remplacer l'axe politique.</p>
   {% endfor %}
   </tbody>
 </table>
+</div>
 
 <h2>La méthode</h2>
-<ul>
-  <li><strong>Ingestion :</strong> flux RSS uniquement — titres et chapôs, jamais
+<div class="method-list">
+  <section>
+  <h3>Ingestion</h3>
+  <p>Flux RSS uniquement — titres et chapôs, jamais
       le texte des articles. Déduplication par identifiant de flux puis par URL
-      canonique (paramètres de tracking retirés).</li>
-  <li><strong>Regroupement par événement :</strong> chaque article est encodé par
+      canonique (paramètres de tracking retirés).</p>
+  </section>
+  <section>
+  <h3>Regroupement</h3>
+  <p>Chaque article est encodé par
       un modèle d'embeddings multilingue local
       (multilingual-e5-small) ; un article rejoint un cluster si
       sa similarité dépasse 0,92 à la fois avec le centre du cluster et avec son
-      membre le plus proche (règle anti-chaînage), sur une fenêtre glissante de 72 h.</li>
-  <li><strong>Blindspots :</strong> couverture comptée en <em>sources distinctes</em>
+      membre le plus proche, sur une fenêtre glissante de 72 h.</p>
+  </section>
+  <section>
+  <h3>Blindspots</h3>
+  <p>Couverture comptée en <em>sources distinctes</em>
       par bord (un média qui publie 4 articles compte une fois), normalisée par le
-      nombre de sources actives de chaque bord. Score de −1 (couvert uniquement à
-      gauche) à +1 (uniquement à droite) ; angle mort à partir de 80 % d'un seul côté.</li>
-  <li><strong>Contraste de vocabulaire :</strong> log-odds ratio avec prior de
+      nombre de sources actives de chaque bord. Angle mort à partir de 80 % d'un seul côté.</p>
+  </section>
+  <section>
+  <h3>Vocabulaire</h3>
+  <p>Log-odds ratio avec prior de
       Dirichlet informatif (« Fightin' Words », Monroe et al. 2008) entre les textes
       du bord gauche et du bord droit d'un même événement, estimé sur l'ensemble du
-      corpus. Purement statistique : aucun LLM, aucun jugement éditorial.</li>
-  <li><strong>Analyse qualitative (optionnelle) :</strong> certaines pages
+      corpus.</p>
+  </section>
+  <section>
+  <h3>Analyse qualitative</h3>
+  <p>Certaines pages
       d'événement portent une section « Analyse qualitative » générée par un
       modèle de langage exécuté localement (Ollama, modèle
       <code>qwen3:4b</code> par défaut), hors de tout service payant.
       Un petit modèle local peut résumer imparfaitement, lisser des nuances ou se
       tromper : ces textes sont étiquetés comme générés par IA et doivent se lire
       avec recul critique — les barres et scores statistiques restent la matière
-      première fiable du site.</li>
-</ul>
+      première fiable du site.</p>
+  </section>
+</div>
 
 <h2>Les limites connues</h2>
 <ul>

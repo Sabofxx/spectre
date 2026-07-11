@@ -2,11 +2,20 @@
 {% import "_macros.html" as macros %}
 {% block title %}Blindspots — Spectre{% endblock %}
 {% block content %}
-<section class="page-head">
-  <p class="eyebrow">7 derniers jours</p>
-  <h1>Blindspots</h1>
-  <p class="lede">Sujets dont la couverture vient massivement d'un seul bord du spectre. Disponible en <a href="blindspots.xml">RSS</a>.</p>
+<section class="page-head feature-head">
+  <div class="head-copy">
+    <p class="eyebrow">7 derniers jours</p>
+    <h1>Blindspots</h1>
+    <p class="lede">Les sujets couverts par un bord et presque absents chez l'autre. Le score repose sur les sources distinctes, pas sur le volume brut d'articles.</p>
+  </div>
+  <div class="kpi-row" aria-label="Résumé des blindspots">
+    <div class="kpi"><strong>{{ overview.editorial }}</strong><span>éditoriaux</span></div>
+    <div class="kpi"><strong>{{ overview.left_covered }}</strong><span>ignorés droite</span></div>
+    <div class="kpi"><strong>{{ overview.right_covered }}</strong><span>ignorés gauche</span></div>
+    <div class="kpi"><strong>{{ overview.structural }}</strong><span>structurels</span></div>
+  </div>
 </section>
+<p class="rss-note"><a href="blindspots.xml">Flux RSS des blindspots</a></p>
 <div class="two-cols">
   <section>
     <h2>Ignorés par la droite</h2>
@@ -23,7 +32,9 @@
 </div>
 
 {% if structural %}
-<h2>Écarts structurels (sport, faits divers)</h2>
+<section class="page-section">
+<h2>Écarts structurels</h2>
+<p class="meta">Sport et faits divers sont isolés ici : leur déséquilibre vient souvent de la politique de rubriques des médias plutôt que d'un silence éditorial.</p>
 <ul class="structural-list">
   {% for c in structural %}
   <li><span class="cat">{{ c.category }}</span>
@@ -31,5 +42,6 @@
       <span class="meta">({{ c.n_members }} art., score {{ "%+.2f" | format(c.blindspot_score) }})</span></li>
   {% endfor %}
 </ul>
+</section>
 {% endif %}
 {% endblock %}

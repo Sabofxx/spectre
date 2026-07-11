@@ -3,29 +3,36 @@
 {% block title %}{{ c.title }} — Spectre{% endblock %}
 {% block content %}
 <p class="crumbs"><a href="{{ root }}index.html">← Fil</a></p>
-<section class="page-head detail-head">
-  <p class="eyebrow">{% if c.category %}{{ c.category }}{% else %}événement{% endif %}</p>
-  <h1>{{ c.title }}</h1>
-  <p class="lede">{{ c.n_members }} articles · {{ c.n_sources }} sources distinctes
-    {% if c.divergence is not none %} · {{ macros.divergence_badge(c.divergence) }}{% endif %}
-  </p>
+<section class="page-head detail-head feature-head">
+  <div class="head-copy">
+    <p class="eyebrow">{% if c.category %}{{ c.category }}{% else %}événement{% endif %}</p>
+    <h1>{{ c.title }}</h1>
+    <p class="lede">Vue détaillée de la couverture : sources, orientation, style éditorial et contraste de vocabulaire.</p>
+  </div>
+  <div class="kpi-row" aria-label="Résumé de l'événement">
+    <div class="kpi"><strong>{{ c.n_members }}</strong><span>articles</span></div>
+    <div class="kpi"><strong>{{ c.n_sources }}</strong><span>sources</span></div>
+    <div class="kpi"><strong>{{ c.counts.left }}/{{ c.counts.centre }}/{{ c.counts.right }}</strong><span>spectre</span></div>
+    <div class="kpi"><strong>{{ c.style_counts.factuel }}/{{ c.style_counts.mixte }}/{{ c.style_counts.opinion }}</strong><span>styles</span></div>
+  </div>
 </section>
 {% if c.blindspot_for %}
 <p class="flag flag-{{ c.blindspot_for }}">Angle mort de la {{ c.blindspot_for }} :
    ce sujet est très majoritairement couvert par l'autre bord.</p>
 {% endif %}
 
-<section class="analysis-band">
+<section class="analysis-band" aria-label="Répartition de couverture">
   <div>
     <h2>Spectre politique</h2>
     {{ macros.coverage_bar(c.counts) }}
   </div>
   <div>
-    <h2>Style editorial</h2>
+    <h2>Style éditorial</h2>
     {{ macros.style_bar(c.style_counts) }}
   </div>
 </section>
 
+<section class="page-section">
 <h2>Qui en parle</h2>
 {% for orientation, articles in c.by_orientation %}
 <section class="orient-group">
@@ -44,7 +51,9 @@
   </ul>
 </section>
 {% endfor %}
+</section>
 
+<section class="page-section">
 <h2>Contraste de vocabulaire</h2>
 {% if c.vocab and c.vocab.status == 'ok' %}
 <p class="meta">Termes statistiquement sur-représentés dans les titres et chapôs de
@@ -72,8 +81,10 @@
 {% else %}
 <p class="meta">Pas de contraste calculé pour ce cluster (moins de 4 articles ou un seul bord représenté).</p>
 {% endif %}
+</section>
 
 {% if c.ollama %}
+<section class="page-section">
 <h2>Analyse qualitative</h2>
 <p class="ai-note">Analyse générée par un modèle de langage local — à lire avec
    recul critique.</p>
@@ -89,5 +100,6 @@
 {% if c.ollama.omissions %}
 <p><strong>Omissions :</strong> {{ c.ollama.omissions }}</p>
 {% endif %}
+</section>
 {% endif %}
 {% endblock %}

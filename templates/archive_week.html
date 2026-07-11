@@ -3,10 +3,17 @@
 {% block title %}Archives {{ snap.week }} — Spectre{% endblock %}
 {% block content %}
 <p class="crumbs"><a href="{{ root }}archives.html">← Archives</a></p>
-<section class="page-head">
-  <p class="eyebrow">Instantané du {{ snap.generated_at | fmt_dt("%d/%m/%Y") }}</p>
-  <h1>Semaine {{ snap.week }}</h1>
+<section class="page-head feature-head">
+  <div class="head-copy">
+    <p class="eyebrow">Instantané du {{ snap.generated_at | fmt_dt("%d/%m/%Y") }}</p>
+    <h1>Semaine {{ snap.week }}</h1>
+  </div>
+  <div class="kpi-row" aria-label="Résumé de la semaine">
+    <div class="kpi"><strong>{{ snap.clusters | length }}</strong><span>événements</span></div>
+    <div class="kpi"><strong>{{ snap.clusters | selectattr("blindspot_for") | list | length }}</strong><span>angles morts</span></div>
+  </div>
 </section>
+<section class="archive-list" aria-label="Événements archivés">
 {% for c in snap.clusters %}
 <article class="event-card">
   <h2>{% if c.url %}<a href="{{ c.url }}" rel="noopener external">{{ c.title }}</a>{% else %}{{ c.title }}{% endif %}</h2>
@@ -17,7 +24,7 @@
     </div>
     {% if c.style_counts %}
     <div>
-      <p class="metric-label">Style editorial</p>
+      <p class="metric-label">Style éditorial</p>
       {{ macros.style_bar(c.style_counts) }}
     </div>
     {% endif %}
@@ -29,4 +36,5 @@
   </p>
 </article>
 {% endfor %}
+</section>
 {% endblock %}
