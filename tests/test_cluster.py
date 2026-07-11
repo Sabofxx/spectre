@@ -3,7 +3,7 @@
 import numpy as np
 
 from spectre import db as dbmod
-from spectre.cluster import cluster_pending
+from spectre.cluster import consolidate, cluster_pending
 
 from conftest import make_article
 
@@ -25,6 +25,25 @@ def cluster_of(conn, article_id: int) -> int:
     return conn.execute(
         "SELECT cluster_id FROM cluster_members WHERE article_id = ?", (article_id,)
     ).fetchone()[0]
+
+
+def embedding_blob(conn, article_id: int) -> bytes:
+    return conn.execute(
+        "SELECT embedding FROM articles WHERE id = ?", (article_id,)
+    ).fetchone()[0]
+
+
+def manual_cluster(conn, article_ids: list[int], title: str) -> int:
+    """Create a multi-member cluster directly, bypassing greedy assignment."""
+    vecs = [np.frombuffer(embedding_blob(conn, aid), dtype=np.float32) for aid in article_ids]
+    centroid = np.stack(vecs).mean(axis=0)
+    centroid /= np.linalg.norm(centroid)
+    cluster_id = dbmod.create_cluster(conn, centroid.astype(np.float32).tobytes(), title, article_ids[0])
+    for aid in article_ids[1:]:
+        dbmod.add_cluster_member(conn, cluster_id, aid, 0.99)
+    dbmod.update_cluster(conn, cluster_id, centroid.astype(np.float32).tobytes(), title, len(article_ids))
+    conn.commit()
+    return cluster_id
 
 
 def test_similar_articles_group_distant_starts_new(conn):
@@ -84,3 +103,27 @@ def test_rerun_is_idempotent(conn):
     second = cluster_pending(conn, threshold=0.7)
     assert first["created"] == 1
     assert second == {"attached": 0, "created": 0}
+
+
+def test_consolidate_merges_converged_clusters_and_preserves_full_member_count(conn):
+    a1 = put_article(conn, [1.0, 0.0, 0.0], hours_ago=4, title="a1")
+    a2 = put_article(conn, [1.0, 0.01, 0.0], hours_ago=3, title="a2")
+    b1 = put_article(conn, [1.0, 0.02, 0.0], hours_ago=2, title="b1")
+    b2 = put_article(conn, [1.0, 0.03, 0.0], hours_ago=1, title="b2")
+
+    c1 = manual_cluster(conn, [a1, a2], "cluster a")
+    c2 = manual_cluster(conn, [b1, b2], "cluster b")
+    # Simulate lifecycle purge: old member rows stay public, but transient
+    # embeddings may be NULL. Consolidation must not shrink n_members.
+    conn.execute("UPDATE articles SET embedding = NULL WHERE id = ?", (a2,))
+    dbmod.save_analysis(conn, c1, "blindspot", "{}")
+    dbmod.save_analysis(conn, c2, "blindspot", "{}")
+    conn.commit()
+
+    merged = consolidate(conn, threshold=0.99)
+
+    assert merged == 1
+    survivor = conn.execute("SELECT id, n_members FROM clusters").fetchone()
+    assert survivor["n_members"] == 4
+    assert conn.execute("SELECT COUNT(*) FROM cluster_members").fetchone()[0] == 4
+    assert conn.execute("SELECT COUNT(*) FROM analyses").fetchone()[0] == 0

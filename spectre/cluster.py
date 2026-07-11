@@ -83,7 +83,13 @@ def _refresh_cluster(conn: sqlite3.Connection, cluster_id: int) -> np.ndarray:
     centroid /= np.linalg.norm(centroid)
     # Cluster title = title of the most central member.
     title = members[int(np.argmax(vecs @ centroid))]["title"]
-    db.update_cluster(conn, cluster_id, centroid.astype(np.float32).tobytes(), title, len(members))
+    db.update_cluster(
+        conn,
+        cluster_id,
+        centroid.astype(np.float32).tobytes(),
+        title,
+        db.cluster_member_count(conn, cluster_id),
+    )
     return centroid
 
 
@@ -145,12 +151,66 @@ def cluster_pending(
     return stats
 
 
+def consolidate(conn: sqlite3.Connection, threshold: float = DEFAULT_THRESHOLD) -> int:
+    """Merge active clusters whose centroids converged above the threshold.
+
+    The greedy pass splits an event when its early articles arrive under two
+    angles (observed: same event sitting at sim 0.90-0.92). Once centroids
+    have absorbed more members, true duplicates converge; merging them here
+    recovers that recall without lowering the attach threshold. Union-find
+    over the centroid similarity graph; the largest cluster of each group
+    survives. Returns the number of clusters absorbed.
+    """
+    active = db.active_clusters(conn, window_start())
+    if len(active) < 2:
+        return 0
+    ids = [c["id"] for c in active]
+    mat = np.stack([_to_vec(c["centroid"]) for c in active])
+    sims = mat @ mat.T
+
+    parent = list(range(len(ids)))
+
+    def find(i: int) -> int:
+        while parent[i] != i:
+            parent[i] = parent[parent[i]]
+            i = parent[i]
+        return i
+
+    pairs_i, pairs_j = np.where(np.triu(sims, k=1) >= threshold)
+    for i, j in zip(pairs_i.tolist(), pairs_j.tolist()):
+        parent[find(i)] = find(j)
+
+    groups: dict[int, list[int]] = {}
+    for i in range(len(ids)):
+        groups.setdefault(find(i), []).append(i)
+
+    merged = 0
+    sizes = db.cluster_sizes(conn, ids)
+    for members in groups.values():
+        if len(members) < 2:
+            continue
+        ordered = sorted(members, key=lambda i: -sizes[ids[i]])
+        survivor = ids[ordered[0]]
+        for i in ordered[1:]:
+            db.merge_cluster_into(conn, ids[i], survivor)
+            merged += 1
+        _refresh_cluster(conn, survivor)
+    conn.commit()
+    if merged:
+        logger.info("consolidate: %d clusters absorbed", merged)
+    return merged
+
+
 def run(conn: sqlite3.Connection, threshold: float = DEFAULT_THRESHOLD) -> dict[str, int]:
-    """Embed then cluster everything pending in the window."""
+    """Embed, cluster, consolidate, then categorize (model is loaded here)."""
+    from .categorize import categorize_clusters
+
     model = load_model()
     n_embedded = embed_pending(conn, model)
     stats = cluster_pending(conn, threshold)
-    return {"embedded": n_embedded, **stats}
+    merged = consolidate(conn, threshold)
+    categorize_clusters(conn, model=model)
+    return {"embedded": n_embedded, **stats, "merged": merged}
 
 
 # ---------------------------------------------------------------------------

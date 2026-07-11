@@ -3,16 +3,28 @@
 {% block title %}{{ c.title }} — Spectre{% endblock %}
 {% block content %}
 <p class="crumbs"><a href="{{ root }}index.html">← Fil</a></p>
-<h1>{{ c.title }}</h1>
-{{ macros.coverage_bar(c.counts) }}
-<p class="meta">
-  {{ c.n_members }} articles · {{ c.n_sources }} sources
-  {% if c.divergence is not none %} · {{ macros.divergence_badge(c.divergence) }}{% endif %}
-</p>
+<section class="page-head detail-head">
+  <p class="eyebrow">{% if c.category %}{{ c.category }}{% else %}événement{% endif %}</p>
+  <h1>{{ c.title }}</h1>
+  <p class="lede">{{ c.n_members }} articles · {{ c.n_sources }} sources distinctes
+    {% if c.divergence is not none %} · {{ macros.divergence_badge(c.divergence) }}{% endif %}
+  </p>
+</section>
 {% if c.blindspot_for %}
 <p class="flag flag-{{ c.blindspot_for }}">Angle mort de la {{ c.blindspot_for }} :
    ce sujet est très majoritairement couvert par l'autre bord.</p>
 {% endif %}
+
+<section class="analysis-band">
+  <div>
+    <h2>Spectre politique</h2>
+    {{ macros.coverage_bar(c.counts) }}
+  </div>
+  <div>
+    <h2>Style editorial</h2>
+    {{ macros.style_bar(c.style_counts) }}
+  </div>
+</section>
 
 <h2>Qui en parle</h2>
 {% for orientation, articles in c.by_orientation %}
@@ -21,7 +33,10 @@
   <ul class="articles">
     {% for a in articles %}
     <li>
-      <span class="badge b-{{ orientation }}">{{ a.source_name }}</span>
+      <span class="source-pill source-pill-small b-{{ orientation }}">
+        <span class="source-name">{{ a.source_name }}</span>
+        <span class="style-chip style-{{ a.editorial_style }}">{{ a.editorial_style }}</span>
+      </span>
       <a href="{{ a.url }}" rel="noopener external">{{ a.title }}</a>
       {% if a.published_at %}<time>{{ a.published_at | fmt_dt }}</time>{% endif %}
     </li>

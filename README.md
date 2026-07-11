@@ -66,11 +66,11 @@ committe la base n'est jamais annulé par le suivant.
 En plus des statistiques, `python run.py analyze --ollama` génère une analyse
 qualitative du cadrage (résumé neutre, angle par bord, omissions) via un LLM
 **local** — [Ollama](https://ollama.com), aucun service payant. Modèle par
-défaut : `qwen2.5:7b-instruct`, configurable :
+défaut : `qwen3:4b`, configurable :
 
 ```bash
-ollama pull llama3.2:3b
-export SPECTRE_OLLAMA_MODEL=llama3.2:3b   # pour les machines à 8 Go de RAM
+ollama pull qwen3:4b
+export SPECTRE_OLLAMA_MODEL=llama3.2:3b   # option plus légère si besoin
 ```
 
 Garde-fous : clusters de 4 à 15 articles avec ≥ 2 orientations seulement,
@@ -113,6 +113,9 @@ jamais recalculée (ses chapôs ont été purgés).
 - **Blindspots** : couverture en sources distinctes par bord, normalisée par le
   nombre de sources actives du bord. Score −1 (gauche seule) à +1 (droite seule),
   angle mort à ≥ 80 % d'un seul côté.
+- **Style éditorial** : chaque source porte une dominante `factuel`, `mixte` ou
+  `opinion` pour distinguer les fils d'actualité bruts des médias plus
+  éditorialisés. Cette dimension complète l'axe politique sans le remplacer.
 - **Contraste de vocabulaire** : log-odds ratio avec prior de Dirichlet
   informatif (Monroe et al. 2008, "Fightin' Words"), prior estimé sur tout le
   corpus, plancher de 50 tokens par bord sous lequel on affiche

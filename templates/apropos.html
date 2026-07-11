@@ -21,13 +21,19 @@ documenté et les propriétaires sont référencés d'après la carte
 Les désaccords sur ce classement sont légitimes — le fichier
 <code>config/sources.yaml</code> est ouvert aux contributions.</p>
 
+<p>La colonne « style » qualifie la dominante du flux suivi : dépêche ou fil
+principal plutôt factuel, mélange d'information et d'analyse, ou média dont le
+traitement est plus explicitement éditorialisé. Elle pondère la lecture des
+clusters sans remplacer l'axe politique.</p>
+
 <table class="sources-table">
-  <thead><tr><th>Média</th><th>Orientation</th><th>Propriétaire</th><th>Flux</th></tr></thead>
+  <thead><tr><th>Média</th><th>Orientation</th><th>Style</th><th>Propriétaire</th><th>Flux</th></tr></thead>
   <tbody>
   {% for s in sources %}
   <tr>
     <td>{{ s.name }}</td>
-    <td><span class="badge b-{{ s.orientation }}">{{ s.orientation }}</span></td>
+    <td><span class="source-pill source-pill-small b-{{ s.orientation }}">{{ s.orientation }}</span></td>
+    <td><span class="style-chip style-{{ s.editorial_style }}">{{ s.editorial_style }}</span></td>
     <td>{{ s.owner }}</td>
     <td>{{ "suivi" if s.active else "pas de RSS accessible" }}</td>
   </tr>
@@ -56,7 +62,7 @@ Les désaccords sur ce classement sont légitimes — le fichier
   <li><strong>Analyse qualitative (optionnelle) :</strong> certaines pages
       d'événement portent une section « Analyse qualitative » générée par un
       modèle de langage exécuté localement (Ollama, modèle
-      <code>qwen2.5:7b-instruct</code> par défaut), hors de tout service payant.
+      <code>qwen3:4b</code> par défaut), hors de tout service payant.
       Un petit modèle local peut résumer imparfaitement, lisser des nuances ou se
       tromper : ces textes sont étiquetés comme générés par IA et doivent se lire
       avec recul critique — les barres et scores statistiques restent la matière

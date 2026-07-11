@@ -1,6 +1,11 @@
 """URL-slug categorization heuristics."""
 
-from spectre.categorize import article_category, cluster_category
+import numpy as np
+
+from spectre import db as dbmod
+from spectre.categorize import CATEGORY_PROTOTYPES, article_category, categorize_clusters, cluster_category
+
+from conftest import make_article
 
 
 class TestArticleCategory:
@@ -46,3 +51,25 @@ class TestClusterCategory:
 
     def test_no_signal_is_none(self):
         assert cluster_category([("https://a.fr/x", "Un titre"), ("https://b.fr/y", "")]) is None
+
+
+class TestPrototypeFallback:
+    def test_embedding_prototype_tags_cluster_without_url_signal(self, conn):
+        class FakeModel:
+            def encode(self, texts, normalize_embeddings=True, show_progress_bar=False):
+                return np.eye(len(texts), dtype=np.float32)
+
+        proto_names = list(CATEGORY_PROTOTYPES)
+        idx = proto_names.index("politique")
+        centroid = np.eye(len(proto_names), dtype=np.float32)[idx]
+        art = make_article(url="https://example.org/article/sans-rubrique", title="Un titre")
+        dbmod.insert_article(conn, art)
+        article_id = conn.execute("SELECT id FROM articles WHERE url = ?", (art.url,)).fetchone()[0]
+        dbmod.store_embeddings(conn, [(article_id, centroid.tobytes())])
+        dbmod.create_cluster(conn, centroid.tobytes(), art.title, article_id)
+        conn.commit()
+
+        tagged = categorize_clusters(conn, model=FakeModel())
+
+        assert tagged == 1
+        assert conn.execute("SELECT category FROM clusters").fetchone()[0] == "politique"

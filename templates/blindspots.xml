@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Spectre — Blindspots</title>
+  <link>{{ site_url }}blindspots.html</link>
+  <atom:link href="{{ site_url }}blindspots.xml" rel="self" type="application/rss+xml"/>
+  <description>Les sujets couverts massivement par un bord du spectre médiatique français et ignorés par l'autre. Généré le {{ generated_at }}.</description>
+  <language>fr</language>
+  {% for c in items %}
+  <item>
+    <title>[angle mort de la {{ c.blindspot_for }}] {{ c.title }}</title>
+    <link>{{ c.article_url }}</link>
+    <guid isPermaLink="false">spectre-blindspot-{{ c.id }}</guid>
+    <description>Couvert par {{ c.counts.left }} source(s) à gauche, {{ c.counts.centre }} au centre, {{ c.counts.right }} à droite — {{ c.n_members }} articles, score {{ "%+.2f" | format(c.blindspot_score) }}.{% if c.category %} Rubrique : {{ c.category }}.{% endif %}</description>
+  </item>
+  {% endfor %}
+</channel>
+</rss>
