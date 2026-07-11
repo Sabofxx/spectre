@@ -318,7 +318,10 @@ def compute_ollama(conn: sqlite3.Connection, analyzer=None) -> dict:
 
 
 def run(conn: sqlite3.Connection) -> dict:
-    """Run both analyses; returns summary stats."""
+    """Run categorization + both analyses; returns summary stats."""
+    from .categorize import categorize_clusters
+
+    n_categorized = categorize_clusters(conn)
     n_blindspots = compute_blindspots(conn)
     vocab_stats = compute_vocab_contrasts(conn)
-    return {"blindspots": n_blindspots, "vocab": vocab_stats}
+    return {"categorized": n_categorized, "blindspots": n_blindspots, "vocab": vocab_stats}
