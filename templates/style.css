@@ -226,8 +226,48 @@ a.cat:hover { color: var(--fg); text-decoration: underline; }
 
 .crumbs { font-size: 0.8rem; margin: 1rem 0 0; }
 .crumbs a { color: var(--muted); text-decoration: none; }
+.crumbs a:hover { color: var(--fg); }
 .detail-head { padding-bottom: 0.9rem; border-bottom: 1px solid var(--line); }
-.detail-head h1 { font-size: 1.55rem; line-height: 1.25; }
+.detail-head h1 { font-size: 1.7rem; line-height: 1.22; margin: 0.3rem 0 0; }
+
+/* Detail header: copy on the left, a compact KPI strip on the right. */
+.feature-head {
+  display: grid; grid-template-columns: minmax(0, 1fr) auto;
+  gap: 1.1rem 2rem; align-items: end;
+}
+.head-copy { min-width: 0; }
+.head-copy .lede { margin-top: 0.45rem; }
+
+.kpi-row {
+  display: grid; grid-template-columns: repeat(4, minmax(58px, auto));
+  gap: 1px; background: var(--line); border: 1px solid var(--line);
+  border-radius: 8px; overflow: hidden;
+}
+.kpi {
+  display: flex; flex-direction: column; align-items: center; gap: 0.15rem;
+  padding: 0.6rem 0.8rem; background: var(--surface); text-align: center;
+}
+.kpi strong {
+  font-family: var(--serif); font-size: 1.5rem; line-height: 1;
+  font-weight: 700; font-variant-numeric: tabular-nums;
+}
+.kpi span {
+  font-size: 0.62rem; text-transform: uppercase; letter-spacing: 0.1em;
+  color: var(--muted);
+}
+
+/* Section rhythm on the detail page. */
+.page-section { margin-top: 0.4rem; }
+
+/* The coverage / style band shows two mini-charts side by side. */
+.analysis-band > div { min-width: 0; }
+section.analysis-band {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 1.3rem 2rem;
+  align-items: start;
+}
+section.analysis-band h2 {
+  border-top: 0; padding-top: 0; margin: 0 0 0.5rem; font-size: 0.95rem;
+}
 .metrics-grid {
   display: grid; grid-template-columns: 1fr 1fr; gap: 1.4rem; margin: 0.8rem 0 0.3rem;
 }
@@ -348,7 +388,10 @@ h2 {
 /* Responsive                                                          */
 /* ------------------------------------------------------------------ */
 @media (max-width: 640px) {
-  .two-cols, .contrast, .metrics-grid, .method-grid { grid-template-columns: 1fr; }
+  .two-cols, .contrast, .metrics-grid, .method-grid,
+  .feature-head, section.analysis-band { grid-template-columns: 1fr; }
+  .feature-head { align-items: stretch; }
+  .kpi-row { grid-template-columns: repeat(4, 1fr); }
   .event-card:first-child .event-title { font-size: 1.3rem; }
   .logo span { font-size: 1.5rem; }
   .site-header nav { gap: 0.8rem; }
