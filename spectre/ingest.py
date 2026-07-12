@@ -34,10 +34,20 @@ _TRACKING_PARAMS = {"xtor", "fbclid", "gclid", "igshid", "yclid", "mc_cid", "mc_
 
 
 def load_sources(config_path: str | Path) -> list[Source]:
-    """Parse config/sources.yaml into Source objects."""
+    """Parse config/sources.yaml into Source objects.
+
+    Documentation-only YAML fields (classification_note, …) are ignored: the
+    dataclass only receives the fields it declares.
+    """
+    import dataclasses
+
+    known = {f.name for f in dataclasses.fields(Source)}
     with open(config_path, encoding="utf-8") as fh:
         raw = yaml.safe_load(fh)
-    return [Source(**{**entry, "id": str(entry["id"])}) for entry in raw["sources"]]
+    return [
+        Source(**{k: v for k, v in {**entry, "id": str(entry["id"])}.items() if k in known})
+        for entry in raw["sources"]
+    ]
 
 
 def canonicalize_url(url: str) -> str:
