@@ -39,6 +39,11 @@ VOCAB_MIN_TOKENS = 50
 OLLAMA_MAX_ARTICLES = 15
 PRIOR_STRENGTH = 100.0  # total mass (a0) of the Dirichlet prior
 TOP_TERMS = 10
+# Thematic-merge detector: a REAL framing disagreement still shares the event
+# vocabulary; near-zero lexical overlap + extreme divergence means the
+# cluster probably glued distinct stories. Flagged, never hidden.
+SUSPECT_DIVERGENCE = 0.90
+SUSPECT_MAX_OVERLAP = 0.05
 MIN_TERM_COUNT = 2  # a term must appear at least twice on its side
 
 # Static French stopword list — no spaCy needed. Includes weekdays/months
@@ -229,11 +234,22 @@ def contrast_payload(members: list, prior: Counter, vectorizer: object) -> dict:
     vec_right = np.asarray(vectorizer.transform(right_texts).mean(axis=0))
     divergence = round(float(1.0 - cosine_similarity(vec_left, vec_right)[0, 0]), 3)
 
+    # Jaccard overlap of each side's top unigrams (bigrams excluded).
+    top_left = {t for t, _ in counts_left.most_common(40) if " " not in t}
+    top_right = {t for t, _ in counts_right.most_common(40) if " " not in t}
+    top_left = set(list(top_left)[:15])
+    top_right = set(list(top_right)[:15])
+    union = top_left | top_right
+    overlap = len(top_left & top_right) / len(union) if union else 0.0
+    suspect = divergence > SUSPECT_DIVERGENCE and overlap < SUSPECT_MAX_OVERLAP
+
     return {
         "status": "ok",
         "left_terms": _top_terms(z, counts_left, positive=True),
         "right_terms": _top_terms(z, counts_right, positive=False),
         "divergence": divergence,
+        "lexical_overlap": round(overlap, 3),
+        "suspect_merge": suspect,
         "n_tokens_left": n_left,
         "n_tokens_right": n_right,
     }
@@ -261,6 +277,9 @@ def compute_vocab_contrasts(conn: sqlite3.Connection) -> dict[str, int]:
         )
         if payload["status"] == "ok":
             db.set_cluster_divergence(conn, cluster_id, payload["divergence"])
+            db.set_cluster_suspect(conn, cluster_id, payload["suspect_merge"])
+            if payload["suspect_merge"]:
+                stats["suspect"] = stats.get("suspect", 0) + 1
             stats["ok"] += 1
         else:
             stats["insufficient_data"] += 1
@@ -296,6 +315,8 @@ def compute_ollama(conn: sqlite3.Connection, analyzer=None) -> dict:
         if len(members) > OLLAMA_MAX_ARTICLES:
             stats["skipped_size"] += 1
             continue
+        if db.cluster_is_suspect(conn, cluster_id):
+            continue  # no qualitative analysis on a probably-glued cluster
         ids = sorted(m["article_id"] for m in members)
         stored = db.get_analyses(conn, cluster_id).get("ollama")
         if stored:

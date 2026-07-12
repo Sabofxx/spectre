@@ -14,6 +14,10 @@
   <li>Flux OK au dernier passage : <strong>{{ health.ok }}/{{ health.total }}</strong></li>
   <li>Événements en base : <strong>{{ stats.n_clusters }}</strong>
       (dont {{ stats.multi_article }} multi-articles)</li>
+  <li>Regroupements marqués « possiblement imparfaits » :
+      <strong>{{ stats.n_suspect }}</strong> (affichés avec bandeau, exclus des
+      flux RSS et de l'analyse qualitative — la transparence sur les erreurs
+      vaut mieux que leur masquage)</li>
   <li>Divergence moyenne des contrastes calculés :
       <strong>{{ "%.2f" | format(stats.avg_divergence) if stats.avg_divergence else "—" }}</strong></li>
 </ul>

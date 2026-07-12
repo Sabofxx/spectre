@@ -148,6 +148,7 @@ def build_cards(conn: sqlite3.Connection, since: str, min_members: int) -> list[
                 "category_slug": slugify(row["category"]) if row["category"] else None,
                 "updated_at": row["updated_at"],
                 "created_at": row["created_at"],
+                "suspect_merge": bool(row["suspect_merge"]),
                 "source_rows": [],
             },
         )
@@ -350,7 +351,7 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
     # Main RSS feed: 30 most recent events with >= 3 articles. Descriptions
     # are OUR generated stats (+ divergent terms) — never press content.
     feed_items = sorted(
-        (c for c in feed_cards if c["n_members"] >= 3),
+        (c for c in feed_cards if c["n_members"] >= 3 and not c["suspect_merge"]),
         key=lambda c: c["updated_at"] or "", reverse=True,
     )[:30]
     for item in feed_items:
@@ -380,7 +381,7 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
     # Outgoing RSS feed of editorial blindspots (an aggregator you can
     # subscribe to). Items link to the representative ORIGINAL article.
     rss_items = []
-    for c in blind_cards[:30]:
+    for c in [b for b in blind_cards if not b["suspect_merge"]][:30]:
         top = db.cluster_top_article(conn, c["id"])
         rss_items.append({
             **c,
