@@ -161,6 +161,19 @@ def test_og_images_generated(conn, tmp_path):
     assert 'summary_large_image' in detail
 
 
+def test_search_index_and_page(conn, tmp_path):
+    import json as jsonlib
+
+    seed(conn)
+    build_site(conn, tmp_path)
+
+    rows = jsonlib.loads((tmp_path / "data" / "index.json").read_text())
+    assert rows and rows[0]["t"].startswith("Titre")
+    page = (tmp_path / "recherche.html").read_text()
+    assert "data/index.json" in page
+    assert "src=" not in page.split("<script>")[1]  # inline JS only
+
+
 def test_seo_artifacts(conn, tmp_path):
     seed(conn)
     build_site(conn, tmp_path)
