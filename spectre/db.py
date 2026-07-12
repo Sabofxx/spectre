@@ -654,6 +654,7 @@ def cluster_source_rows(
         """
         SELECT DISTINCT c.id AS cluster_id, c.title, c.n_members, c.updated_at, c.created_at, c.suspect_merge,
                c.divergence_score, c.blindspot_score, c.category,
+               MAX(COALESCE(a.published_at, a.fetched_at)) OVER (PARTITION BY c.id) AS latest_published,
                s.id AS source_id, s.name AS source_name, s.orientation,
                s.editorial_style, s.paywall
         FROM clusters c
