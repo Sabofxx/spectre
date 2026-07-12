@@ -456,11 +456,18 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
              if len(names) >= 2),
             key=lambda t: -len(t[1]),
         )
+        # Headline face-off: titles are the one piece of press text an
+        # aggregator may quote (courte citation d'information); 5 per side,
+        # chronological (members list is already publication-ordered).
+        face_left = [m for m in members if m["orientation"] in LEFT_BLOC][:5]
+        face_right = [m for m in members if m["orientation"] in RIGHT_BLOC][:5]
         ctx = {
             **card,
             "by_orientation": [(o, ms) for o, ms in by_orientation if ms],
             "first_publisher": first_publisher,
             "shared_owners": shared_owners,
+            "face_left": face_left,
+            "face_right": face_right,
             "vocab": _vocab_view(analyses["vocab_contrast"]) if "vocab_contrast" in analyses else None,
             "ollama": analyses.get("ollama"),
         }
