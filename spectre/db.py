@@ -668,6 +668,32 @@ def feed_health(conn: sqlite3.Connection) -> dict:
     }
 
 
+def source_profiles(conn: sqlite3.Connection) -> list[sqlite3.Row]:
+    """Per-source aggregates for the static source pages (30-day scope)."""
+    return conn.execute(
+        """
+        SELECT s.id, s.name, s.orientation, s.editorial_style, s.paywall, s.owner,
+               COUNT(DISTINCT a.id) AS n_articles,
+               COUNT(DISTINCT m.cluster_id) AS n_clusters,
+               COUNT(DISTINCT CASE WHEN multi.orientations >= 2 THEN m.cluster_id END)
+                   AS n_multi_clusters
+        FROM sources s
+        LEFT JOIN articles a ON a.source_id = s.id
+        LEFT JOIN cluster_members m ON m.article_id = a.id
+        LEFT JOIN (
+            SELECT m2.cluster_id, COUNT(DISTINCT s2.orientation) AS orientations
+            FROM cluster_members m2
+            JOIN articles a2 ON a2.id = m2.article_id
+            JOIN sources s2 ON s2.id = a2.source_id
+            GROUP BY m2.cluster_id
+        ) multi ON multi.cluster_id = m.cluster_id
+        WHERE s.active = 1
+        GROUP BY s.id
+        ORDER BY s.name
+        """
+    ).fetchall()
+
+
 def public_stats(conn: sqlite3.Connection) -> dict:
     """Aggregates for the public stats page — transparency is credibility."""
     last_fetch = conn.execute("SELECT MAX(fetched_at) AS m FROM fetch_log").fetchone()["m"]
