@@ -56,22 +56,28 @@
 {% set card_date = c.latest_published or c.updated_at %}
 <article class="event-card" data-date="{{ card_date }}"
          data-sources="{{ c.n_sources }}" data-members="{{ c.n_members }}">
+  <a class="ec-hit" href="{{ root }}cluster/{{ c.id }}.html" aria-label="{{ c.title }}"></a>
   <p class="kicker">
-    {% if c.is_fresh %}<span class="fresh-tag">nouveau</span>{% endif %}
+    {% if c.is_fresh %}<span class="fresh-tag"><span class="fresh-dot"></span>nouveau</span>{% endif %}
     {% if c.category %}<a class="cat" href="{{ root }}categorie/{{ c.category_slug }}.html">{{ c.category }}</a>{% endif %}
     {% if c.blindspot_for %}<span class="flag flag-{{ c.blindspot_for }}">angle mort de la {{ c.blindspot_for }}</span>{% endif %}
     {% if c.divergence is not none %}{{ divergence_badge(c.divergence) }}{% endif %}
   </p>
   <{{ heading }} class="event-title"><a href="{{ root }}cluster/{{ c.id }}.html">{{ c.title }}</a></{{ heading }}>
-  <div class="event-facts">
+  <div class="ec-spectrum">
     {{ coverage_bar(c.counts) }}
-    {{ spectrum_counts(c.counts) }}
+    <span class="ec-spectrum-legend">
+      <b class="ec-c-left">{{ c.counts.left }}</b> gauche ·
+      <b class="ec-c-centre">{{ c.counts.centre }}</b> centre ·
+      <b class="ec-c-right">{{ c.counts.right }}</b> droite
+    </span>
+  </div>
+  <div class="event-facts">
+    <span class="facts-text">{{ c.n_members }} art. · {{ c.n_sources }} sources</span>
     <span class="facts-sep"></span>
     <span class="facts-text">{{ c.style_counts.factuel }} factuel · {{ c.style_counts.mixte }} mixte · {{ c.style_counts.opinion }} opinion</span>
-    <span class="facts-sep"></span>
-    <span class="facts-text">{{ c.n_members }} art. · {{ c.n_sources }} sources</span>
     {% if card_date %}<span class="facts-sep"></span>
-    <time class="facts-text" datetime="{{ card_date }}">{{ card_date | fmt_dt("%a %d/%m, %H:%M") }}</time>{% endif %}
+    <time class="facts-text" datetime="{{ card_date }}">{{ card_date | fmt_dt("%d/%m, %H:%M") }}</time>{% endif %}
   </div>
   {{ source_line(c, root) }}
 </article>
