@@ -159,3 +159,10 @@ data-journalistes) avec attribution.
 - **Blindspots** : les clusters `sport` et `faits-divers` (catégorisation par
   slug d'URL) sont écartés des colonnes principales — leur couverture
   déséquilibrée est structurelle, pas éditoriale.
+
+## Feuille de route gelée
+
+- **Sujets récurrents** (« réforme des retraites » suivie sur des mois) :
+  gelé volontairement tant qu'il n'y a pas ≥ 4 semaines d'archives — la
+  détection par bigrammes dominants inter-semaines ne peut pas se calibrer
+  sans données. Revoir en août 2026.
