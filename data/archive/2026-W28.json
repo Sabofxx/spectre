@@ -1,6 +1,6 @@
 {
  "week": "2026-W28",
- "generated_at": "2026-07-12T21:13:09+00:00",
+ "generated_at": "2026-07-12T21:39:42+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.503,
+   "divergence": 0.504,
    "category": "sport",
    "terms_left": [
     "parcours",
@@ -157,7 +157,7 @@
   {
    "title": "Incendie en Espagne: les images des dégâts causés par les flammes en Andalousie",
    "url": "https://www.franceinfo.fr/monde/espagne/un-feu-de-foret-fait-douze-morts-en-andalousie-alors-que-l-espagne-affronte-une-vague-de-chaleur_8102162.html",
-   "n_members": 90,
+   "n_members": 91,
    "n_sources": 21,
    "counts": {
     "left": 4,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.591,
+   "divergence": 0.592,
    "category": "international",
    "terms_left": [
     "mortes",
@@ -245,9 +245,9 @@
    ]
   },
   {
-   "title": "Canicule : trois réacteurs nucléaires à l'arrêt et huit à puissance réduite en France",
+   "title": "Canicule : pourquoi des réacteurs nucléaires sont-ils régulièrement mis à l’arrêt en cas de fortes chaleurs ?",
    "url": "https://www.mediapart.fr/journal/ecologie/110726/pourquoi-le-vivant-ne-supporte-pas-la-chaleur",
-   "n_members": 35,
+   "n_members": 36,
    "n_sources": 21,
    "counts": {
     "left": 6,
@@ -305,6 +305,36 @@
    ]
   },
   {
+   "title": "Présidentielle 2027 : éligible et candidate, Marine Le Pen veut imposer un débat de fond",
+   "url": "https://reporterre.net/Clim-fossiles-et-agro-industrie-l-ecologie-selon-Marine-Le-Pen",
+   "n_members": 37,
+   "n_sources": 20,
+   "counts": {
+    "left": 5,
+    "centre": 8,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 6,
+    "opinion": 5
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.453,
+   "category": "politique",
+   "terms_left": [
+    "détournement",
+    "détournement fonds",
+    "justice"
+   ],
+   "terms_right": [
+    "campagne",
+    "rn",
+    "qu"
+   ]
+  },
+  {
    "title": "Emmanuel Macron appelle à la vigilance «de tous les instants» face au «retour de l'odieux antisémitisme»",
    "url": "https://www.franceinfo.fr/culture/patrimoine/histoire/une-premiere-ceremonie-d-hommage-national-a-alfred-dreyfus-organisee-dimanche-en-presence-d-emmanuel-macron_8104097.html",
    "n_members": 33,
@@ -337,7 +367,7 @@
   {
    "title": "Guerre au Moyen-Orient : Donald Trump dit accepter de parler avec l'Iran mais que le cessez-le-feu est «terminé»",
    "url": "https://www.mediapart.fr/journal/international/100726/ni-guerre-ni-paix-pourquoi-les-etats-unis-et-l-iran-sont-pieges-dans-l-impasse-d-ormuz",
-   "n_members": 43,
+   "n_members": 44,
    "n_sources": 19,
    "counts": {
     "left": 5,
@@ -351,7 +381,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.755,
+   "divergence": 0.756,
    "category": "international",
    "terms_left": [
     "force",
@@ -392,36 +422,6 @@
     "candidature",
     "français",
     "nouvelle"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : éligible et candidate, Marine Le Pen veut imposer un débat de fond",
-   "url": "https://reporterre.net/Clim-fossiles-et-agro-industrie-l-ecologie-selon-Marine-Le-Pen",
-   "n_members": 36,
-   "n_sources": 19,
-   "counts": {
-    "left": 4,
-    "centre": 8,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 5,
-    "opinion": 5
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.457,
-   "category": "politique",
-   "terms_left": [
-    "justice",
-    "fonds",
-    "détournement"
-   ],
-   "terms_right": [
-    "campagne",
-    "qu",
-    "cassation"
    ]
   },
   {
@@ -617,6 +617,28 @@
    "terms_right": []
   },
   {
+   "title": "Un incendie \"très virulent\" fait rage près de l'autoroute A6 en Seine-et-Marne, deux avions bombardiers envoyés en renfort",
+   "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/jusqua-4h20-de-retard-le-trafic-sncf-fortement-perturbe-sur-la-ligne-sud-est-entre-paris-et-marseille-a-cause-dun-incendie-12-07-2026-7E3R5IBOQNAXRDOH35X3TPSWTI.php",
+   "n_members": 28,
+   "n_sources": 11,
+   "counts": {
+    "left": 0,
+    "centre": 7,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 1,
+    "opinion": 1
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "environnement",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "« C’est leur baroud d’honneur » : jusqu’au bout, la droite tente de faire barrage à la loi sur la fin de vie",
    "url": "https://www.lemonde.fr/politique/article/2026/07/10/retraites-les-experts-du-comite-de-suivi-preconisent-de-brider-les-pensions-pour-sortir-d-une-situation-alarmante_6722403_823448.html",
    "n_members": 17,
@@ -647,24 +669,24 @@
    ]
   },
   {
-   "title": "Un incendie \"très virulent\" fait rage près de l'autoroute A6 en Seine-et-Marne, deux avions bombardiers envoyés en renfort",
-   "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/jusqua-4h20-de-retard-le-trafic-sncf-fortement-perturbe-sur-la-ligne-sud-est-entre-paris-et-marseille-a-cause-dun-incendie-12-07-2026-7E3R5IBOQNAXRDOH35X3TPSWTI.php",
-   "n_members": 24,
+   "title": "Wimbledon : Jannik Sinner remporte son cinquième titre en Grand Chelem en battant Alexander Zverev en finale",
+   "url": "https://www.leparisien.fr/sports/il-est-plus-detendu-libere-sacre-a-roland-garros-le-nouveau-zverev-defie-sinner-en-finale-de-wimbledon-12-07-2026-3BHJ4JXIYJGPZPRI6ZF6QBJINA.php",
+   "n_members": 13,
    "n_sources": 10,
    "counts": {
-    "left": 0,
-    "centre": 6,
+    "left": 1,
+    "centre": 5,
     "right": 4
    },
    "style_counts": {
-    "factuel": 8,
-    "mixte": 1,
+    "factuel": 5,
+    "mixte": 4,
     "opinion": 1
    },
-   "blindspot_score": 1.0,
+   "blindspot_score": 0.6,
    "blindspot_for": "gauche",
    "divergence": null,
-   "category": "environnement",
+   "category": "sport",
    "terms_left": [],
    "terms_right": []
   },
@@ -739,28 +761,6 @@
    "blindspot_for": "gauche",
    "divergence": null,
    "category": "politique",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Wimbledon : Jannik Sinner remporte son cinquième titre en Grand Chelem en battant Alexander Zverev en finale",
-   "url": "https://www.leparisien.fr/sports/il-est-plus-detendu-libere-sacre-a-roland-garros-le-nouveau-zverev-defie-sinner-en-finale-de-wimbledon-12-07-2026-3BHJ4JXIYJGPZPRI6ZF6QBJINA.php",
-   "n_members": 12,
-   "n_sources": 9,
-   "counts": {
-    "left": 1,
-    "centre": 5,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 5,
-    "mixte": 4,
-    "opinion": 0
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "sport",
    "terms_left": [],
    "terms_right": []
   },
@@ -853,9 +853,9 @@
    "terms_right": []
   },
   {
-   "title": "EXCLUSIF. Aveux de Cédric Jubillar : \"Il n’a qu’une hâte, aider les enquêteurs à retrouver son corps\" Ses avocats racontent sa réaction et ses intentions après les révélations",
+   "title": "Cédric Jubillar : des aveux et cinq ans de mensonges",
    "url": "https://www.nouvelobs.com/justice/20260711.OBS116580/affaire-jubillar-les-coulisses-des-aveux-qui-posent-plus-de-questions-qu-ils-n-apportent-de-reponses.html",
-   "n_members": 11,
+   "n_members": 12,
    "n_sources": 7,
    "counts": {
     "left": 2,
@@ -869,7 +869,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.632,
+   "divergence": 0.645,
    "category": "société",
    "terms_left": [
     "qu",
@@ -899,6 +899,50 @@
    },
    "blindspot_score": 1.0,
    "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "faits-divers",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Tour de France 2026 : une voiture percute des barrières à l’arrivée de l’étape à Ussel, un blessé grave",
+   "url": "https://www.sudouest.fr/faits-divers/tour-de-france-une-voiture-percute-des-barrieres-a-l-arrivee-en-correze-un-spectateur-en-urgence-absolue-29911749.php",
+   "n_members": 7,
+   "n_sources": 7,
+   "counts": {
+    "left": 1,
+    "centre": 3,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 4,
+    "mixte": 2,
+    "opinion": 1
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "sport",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Thaïlande. Au moins 27 morts dans l'incendie d'un bar à Bangkok",
+   "url": "https://www.europe1.fr/international/thailande-au-moins-27-morts-dans-lincendie-dun-bar-a-bangkok-971088",
+   "n_members": 7,
+   "n_sources": 7,
+   "counts": {
+    "left": 0,
+    "centre": 5,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 5,
+    "mixte": 2,
+    "opinion": 0
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": null,
    "divergence": null,
    "category": "faits-divers",
    "terms_left": [],
@@ -977,50 +1021,6 @@
     "spurs",
     "annoncé"
    ]
-  },
-  {
-   "title": "Tour de France 2026 : une voiture percute des barrières à l’arrivée de l’étape à Ussel, un blessé grave",
-   "url": "https://www.sudouest.fr/faits-divers/tour-de-france-une-voiture-percute-des-barrieres-a-l-arrivee-en-correze-un-spectateur-en-urgence-absolue-29911749.php",
-   "n_members": 6,
-   "n_sources": 6,
-   "counts": {
-    "left": 1,
-    "centre": 3,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 4,
-    "mixte": 2,
-    "opinion": 0
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Thaïlande. Au moins 27 morts dans l'incendie d'un bar à Bangkok",
-   "url": "https://www.europe1.fr/international/thailande-au-moins-27-morts-dans-lincendie-dun-bar-a-bangkok-971088",
-   "n_members": 6,
-   "n_sources": 6,
-   "counts": {
-    "left": 0,
-    "centre": 4,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 4,
-    "mixte": 2,
-    "opinion": 0
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
   },
   {
    "title": "Explosion à Monaco: le portrait d'Anastasiia Berezovska retrouvée tuée par balle en Ukraine",
