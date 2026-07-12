@@ -161,6 +161,14 @@ def test_og_images_generated(conn, tmp_path):
     assert 'summary_large_image' in detail
 
 
+def test_headline_faceoff_two_columns(conn, tmp_path):
+    seed(conn)  # d1 + g1: one per side
+    build_site(conn, tmp_path)
+    cid = conn.execute("SELECT id FROM clusters").fetchone()[0]
+    html = (tmp_path / "cluster" / f"{cid}.html").read_text()
+    assert "Titres face à face" in html
+
+
 def test_mon_spectre_page_and_data(conn, tmp_path):
     import json as jsonlib
 
