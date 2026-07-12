@@ -145,7 +145,24 @@ main { max-width: 830px; margin: 0 auto; padding: 0 1.1rem 2rem; }
 h1 { font-size: 1.7rem; margin: 0.4rem 0; }
 .empty-state { color: var(--muted); padding: 2rem 0; }
 
-.cat-nav { display: flex; gap: 0.35rem 0.5rem; flex-wrap: wrap; margin-top: 0.6rem; }
+.cat-nav { display: flex; gap: 0.35rem 0.5rem; flex-wrap: wrap; }
+
+/* Sticky rubric bar: pinned right under the masthead (height published as
+   --header-h by JS; falls back to a sane value without JS). */
+.cat-nav-bar {
+  position: sticky; top: var(--header-h, 88px); z-index: 15;
+  margin: 0 -1.1rem 0.2rem; padding: 0.55rem 1.1rem;
+  background: color-mix(in srgb, var(--bg) 90%, transparent);
+  -webkit-backdrop-filter: saturate(1.4) blur(12px);
+  backdrop-filter: saturate(1.4) blur(12px);
+  border-bottom: 1px solid var(--line);
+}
+.cat-nav-bar .cat-nav {
+  max-width: 830px; margin: 0 auto; overflow-x: auto;
+  flex-wrap: nowrap; scrollbar-width: none;
+}
+.cat-nav-bar .cat-nav::-webkit-scrollbar { display: none; }
+.cat-nav-bar .cat-link { flex: 0 0 auto; }
 .cat-link {
   font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em;
   text-decoration: none; color: var(--muted); padding: 0.15rem 0.55rem;

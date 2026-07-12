@@ -19,18 +19,50 @@
   var list = document.getElementById("results");
   var hint = document.getElementById("hint");
   function norm(s) {
-    return s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+    return (s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
   }
   fetch("data/index.json").then(function (r) { return r.json(); }).then(function (data) {
-    rows = data.map(function (r) { r.n = norm(r.t); return r; });
+    rows = data.map(function (r) {
+      r.nt = norm(r.t);              // normalised title
+      r.nc = norm(r.cat);            // normalised category
+      return r;
+    });
   });
+
+  /* Score one row against all query terms (AND). Each term must appear in the
+     title or category, or the row is out. Earlier / word-start matches rank
+     higher, and broader coverage breaks ties. */
+  function score(r, terms) {
+    var total = 0;
+    for (var i = 0; i < terms.length; i++) {
+      var t = terms[i];
+      var pos = r.nt.indexOf(t);
+      var s;
+      if (pos === 0) s = 100;                                   // title prefix
+      else if (pos > 0 && r.nt[pos - 1] === " ") s = 70;        // word start
+      else if (pos > 0) s = 40;                                 // anywhere
+      else if (r.nc.indexOf(t) !== -1) s = 25;                  // category only
+      else return -1;                                           // term missing
+      total += s;
+    }
+    return total + Math.min(r.s, 20);   // coverage nudge, capped
+  }
+
   input.addEventListener("input", function () {
-    var q = norm(input.value.trim());
+    var raw = norm(input.value.trim());
     list.textContent = "";
-    if (q.length < 2) { hint.textContent = "Tapez au moins deux caractères."; return; }
-    var hits = rows.filter(function (r) { return r.n.indexOf(q) !== -1; }).slice(0, 50);
+    if (raw.length < 2) { hint.textContent = "Tapez au moins deux caractères."; return; }
+    var terms = raw.split(/\s+/).filter(Boolean);
+    var hits = [];
+    for (var i = 0; i < rows.length; i++) {
+      var sc = score(rows[i], terms);
+      if (sc >= 0) hits.push([sc, rows[i]]);
+    }
+    hits.sort(function (a, b) { return b[0] - a[0]; });
+    hits = hits.slice(0, 50);
     hint.textContent = hits.length ? "" : "Aucun événement en ligne ne correspond.";
-    hits.forEach(function (r) {
+    hits.forEach(function (pair) {
+      var r = pair[1];
       var li = document.createElement("li");
       var a = document.createElement("a");
       a.href = "cluster/" + r.id + ".html";
