@@ -3,7 +3,7 @@
 {% block title %}{{ category | capitalize }} — Spectre{% endblock %}
 {% block content %}
 <section class="page-head">
-  <p class="dateline">Dernières 48 heures · rubrique</p>
+  <p class="dateline">Dernières 72 heures · rubrique</p>
   <h1>{{ category | capitalize }}</h1>
   {% include "_catnav.html" %}
 </section>
@@ -11,7 +11,7 @@
 {% for c in clusters %}
 {{ macros.event_card(c, root="../") }}
 {% else %}
-<p class="empty-state">Rien dans cette rubrique sur les dernières 48 h.</p>
+<p class="empty-state">Rien dans cette rubrique sur les dernières 72 h.</p>
 {% endfor %}
 </section>
 {% endblock %}

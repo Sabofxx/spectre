@@ -36,7 +36,7 @@ import os
 REPO_URL = os.environ.get("SPECTRE_REPO_URL", "https://github.com/Sabofxx/spectre")
 SITE_BASE_URL = os.environ.get("SPECTRE_SITE_URL", "https://sabofxx.github.io/spectre/")
 
-FEED_WINDOW_HOURS = 48
+FEED_WINDOW_HOURS = 72
 FEED_MIN_MEMBERS = 2
 # A single-outlet "event" is not coverage; it pollutes the feed tail.
 FEED_MIN_SOURCES = 2
@@ -263,16 +263,24 @@ def find_leaks(conn: sqlite3.Connection, site_dir: Path) -> list[str]:
     Guard for the droits-voisins constraint; the CI deploy fails on any hit.
     Probes a mid-sentence slice of each summary so a title that merely repeats
     the summary's opening words does not false-positive.
+
+    A slice that also appears in the article's OWN title is not a leak: some
+    live-blog feeds publish a title nearly identical to the description, and
+    the title is legitimately public. We only flag a slice that shows up in
+    the HTML without being explained by that article's title.
     """
-    summaries = [
-        r["summary"]
-        for r in conn.execute(
-            "SELECT summary FROM articles WHERE summary IS NOT NULL AND length(summary) > 60"
-        )
-    ]
+    rows = conn.execute(
+        "SELECT title, summary FROM articles "
+        "WHERE summary IS NOT NULL AND length(summary) > 60"
+    ).fetchall()
     pages = list(site_dir.rglob("*.html")) + list(site_dir.rglob("*.xml"))
     html = " ".join(p.read_text(encoding="utf-8") for p in pages)
-    return [s for s in summaries if s[15:60] in html]
+    leaks = []
+    for r in rows:
+        probe = r["summary"][15:60]
+        if probe in html and probe not in (r["title"] or ""):
+            leaks.append(r["summary"])
+    return leaks
 
 
 def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
