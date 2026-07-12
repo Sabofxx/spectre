@@ -77,24 +77,26 @@ class TestDeduplication:
 
 
 class TestPipelineHealthCheck:
-    def test_zero_articles_during_day_alerts(self):
+    def test_no_feeds_attempted_alerts(self):
         from spectre.ingest import pipeline_health_check
 
-        assert pipeline_health_check(0, [], paris_hour=14) is not None
+        assert pipeline_health_check([]) is not None
 
-    def test_zero_articles_at_night_is_fine(self):
+    def test_zero_new_articles_is_not_a_failure(self):
+        """The committed-DB workflow makes 0-new routine, never an alert."""
         from spectre.ingest import pipeline_health_check
 
-        assert pipeline_health_check(0, [], paris_hour=3) is None
+        rows = [{"status": "ok"}] * 10  # all fetched fine, just all duplicates
+        assert pipeline_health_check(rows) is None
 
     def test_quarter_of_feeds_down_alerts(self):
         from spectre.ingest import pipeline_health_check
 
         rows = [{"status": "ok"}] * 6 + [{"status": "http_error"}] * 4
-        assert pipeline_health_check(50, rows, paris_hour=14) is not None
+        assert pipeline_health_check(rows) is not None
 
-    def test_healthy_run_passes(self):
+    def test_one_dead_feed_is_tolerated(self):
         from spectre.ingest import pipeline_health_check
 
-        rows = [{"status": "ok"}] * 10
-        assert pipeline_health_check(50, rows, paris_hour=14) is None
+        rows = [{"status": "ok"}] * 20 + [{"status": "parse_error"}]
+        assert pipeline_health_check(rows) is None

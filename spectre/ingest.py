@@ -157,25 +157,22 @@ def ingest_all(conn: sqlite3.Connection, sources: list[Source]) -> int:
     return total_new
 
 
-def pipeline_health_check(
-    n_new: int, fetch_rows: list, paris_hour: int
-) -> str | None:
+def pipeline_health_check(fetch_rows: list) -> str | None:
     """Free-tier alerting: return an error message when the run looks broken.
 
-    The CI step fails on it, and GitHub e-mails the failure. Two signals:
-    zero new articles across ALL feeds during French waking hours (a 30-min
-    window over 30+ feeds always yields something), or > 25% of feeds down.
+    The CI step fails on it, and GitHub e-mails the failure. Signal: more than
+    25% of feeds failing to fetch/parse — a reliable sign of real breakage.
+
+    We deliberately do NOT alert on "0 new articles": the DB is committed after
+    every run, so a fresh runner routinely re-ingests only duplicates and sees
+    zero new — that is normal, not a failure.
     """
-    if n_new == 0 and 6 <= paris_hour <= 23:
+    if not fetch_rows:
+        return "ALERTE : aucun flux tenté — pipeline cassé."
+    ko = sum(1 for r in fetch_rows if r["status"] != "ok")
+    if ko / len(fetch_rows) > 0.25:
         return (
-            "ALERTE : 0 nouvel article sur tous les flux entre 6h et 23h Paris — "
-            "panne probable de l'ingestion."
+            f"ALERTE : {ko}/{len(fetch_rows)} flux en échec (> 25 %) — "
+            "vérifier fetch_log."
         )
-    if fetch_rows:
-        ko = sum(1 for r in fetch_rows if r["status"] != "ok")
-        if ko / len(fetch_rows) > 0.25:
-            return (
-                f"ALERTE : {ko}/{len(fetch_rows)} flux en échec (> 25 %) — "
-                "vérifier fetch_log."
-            )
     return None
