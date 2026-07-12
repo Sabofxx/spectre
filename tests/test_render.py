@@ -73,6 +73,30 @@ def test_find_leaks_catches_a_leak(conn, tmp_path):
     assert SECRET in leaks
 
 
+def test_slugify():
+    from spectre.render import slugify
+
+    assert slugify("économie") == "economie"
+    assert slugify("société") == "societe"
+    assert slugify("faits-divers") == "faits-divers"
+    assert slugify("sciences-tech") == "sciences-tech"
+
+
+def test_category_pages_and_nav(conn, tmp_path):
+    seed(conn)
+    cluster_id = conn.execute("SELECT id FROM clusters").fetchone()[0]
+    conn.execute("UPDATE clusters SET category = 'économie' WHERE id = ?", (cluster_id,))
+    conn.commit()
+
+    build_site(conn, tmp_path)
+
+    cat_page = tmp_path / "categorie" / "economie.html"
+    assert cat_page.exists()
+    assert "Titre g1" in cat_page.read_text()
+    index = (tmp_path / "index.html").read_text()
+    assert 'href="categorie/economie.html"' in index  # filter row + badge link
+
+
 def test_blindspot_label_gated_on_small_clusters(conn, tmp_path):
     """3 friendly outlets picking up a wire story is not an angle mort."""
     from spectre.render import build_cards
