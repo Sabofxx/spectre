@@ -147,6 +147,7 @@ def build_cards(conn: sqlite3.Connection, since: str, min_members: int) -> list[
                 "category": row["category"],
                 "category_slug": slugify(row["category"]) if row["category"] else None,
                 "updated_at": row["updated_at"],
+                "created_at": row["created_at"],
                 "source_rows": [],
             },
         )
@@ -321,6 +322,11 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
     # cover them), not an editorial blindspot: keep them out of the columns.
     from .categorize import STRUCTURAL_CATEGORIES
 
+    # A blindspot seen on a cluster younger than 48h is provisional: the
+    # other side may simply be hours late. It firms up over the 7-day window.
+    fresh_cutoff = (now - timedelta(hours=48)).isoformat(timespec="seconds")
+    for c in blind_cards:
+        c["provisional"] = bool(c["created_at"] and c["created_at"] >= fresh_cutoff)
     editorial = [c for c in blind_cards if c["category"] not in STRUCTURAL_CATEGORIES]
     structural = [c for c in blind_cards if c["category"] in STRUCTURAL_CATEGORIES]
 
@@ -352,8 +358,22 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
         vocab = json.loads(payloads["vocab_contrast"]) if "vocab_contrast" in payloads else {}
         item["terms_left"] = [t for t, _ in vocab.get("left_terms", [])[:3]]
         item["terms_right"] = [t for t, _ in vocab.get("right_terms", [])[:3]]
+    # Last COMPLETED week's archive gets its own feed item when it exists.
+    from .archive import current_week_id, load_snapshots
+
+    past_weeks = [s for s in load_snapshots() if s["week"] < current_week_id()]
+    archive_item = None
+    if past_weeks:
+        snap = past_weeks[0]
+        archive_item = {
+            "week": snap["week"],
+            "generated_at": snap["generated_at"],
+            "n_clusters": len(snap["clusters"]),
+        }
     (out_dir / "feed.xml").write_text(
-        env.get_template("feed.xml").render(items=feed_items, site_url=SITE_BASE_URL),
+        env.get_template("feed.xml").render(
+            items=feed_items, site_url=SITE_BASE_URL, archive_item=archive_item,
+        ),
         encoding="utf-8",
     )
 
@@ -375,8 +395,6 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
     )
 
     # Archive pages, rebuilt from the committed weekly JSON snapshots.
-    from .archive import load_snapshots
-
     snapshots = load_snapshots()
     (out_dir / "archives").mkdir(exist_ok=True)
     for snap in snapshots:

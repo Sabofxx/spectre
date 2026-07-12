@@ -20,12 +20,14 @@
   <section>
     <h2>Ignorés par la droite</h2>
     {% for c in left_covered %}
+    {% if c.provisional %}<p class="provisional-tag">provisoire (&lt; 48 h)</p>{% endif %}
     {{ macros.event_card(c, heading="h3") }}
     {% else %}<p class="empty-state">Rien cette semaine.</p>{% endfor %}
   </section>
   <section>
     <h2>Ignorés par la gauche</h2>
     {% for c in right_covered %}
+    {% if c.provisional %}<p class="provisional-tag">provisoire (&lt; 48 h)</p>{% endif %}
     {{ macros.event_card(c, heading="h3") }}
     {% else %}<p class="empty-state">Rien cette semaine.</p>{% endfor %}
   </section>
