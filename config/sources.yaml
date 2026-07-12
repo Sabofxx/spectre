@@ -540,3 +540,90 @@ sources:
     rss:
       - https://www.sudradio.fr/feed/
     active: true
+
+  # ---------------- extension thématique 2026-07-12 (fetch réel vérifié) ----------------
+  - id: numerama
+    name: Numerama
+    orientation: centre
+    editorial_style: factuel
+    paywall: none
+    owner: "Humanoid (indépendant)"
+    rss:
+      - https://www.numerama.com/feed/
+    active: true
+
+  - id: sciencesetavenir
+    name: Sciences et Avenir
+    orientation: centre
+    editorial_style: factuel
+    paywall: partial
+    owner: "Groupe Perdriel (Claude Perdriel)"
+    rss:
+      - https://www.sciencesetavenir.fr/rss.xml
+    active: true
+
+  - id: futura
+    name: Futura
+    orientation: centre
+    editorial_style: factuel
+    paywall: none
+    owner: "Futura-Sciences (indépendant)"
+    rss:
+      - https://www.futura-sciences.com/rss/actualites.xml
+    active: true
+
+  - id: next
+    name: Next
+    orientation: centre
+    editorial_style: mixte
+    classification_note: >-
+      Média spécialisé numérique et libertés ; centre/mixte au sens
+      thématique, sans ligne partisane sur l'axe gauche-droite.
+    paywall: partial
+    owner: "Indépendant (Next, ex-Next INpact)"
+    rss:
+      - https://next.ink/feed/
+    active: true
+
+  - id: usbeketrica
+    name: Usbek & Rica
+    orientation: centre
+    editorial_style: mixte
+    paywall: none
+    owner: "Usbek & Rica (indépendant)"
+    rss:
+      - https://usbeketrica.com/fr/rss
+    active: true
+
+  - id: bfmbusiness
+    name: BFM Business
+    orientation: centre-droit
+    editorial_style: factuel
+    paywall: none
+    owner: "CMA CGM (Rodolphe Saadé)"
+    rss:
+      - https://www.bfmtv.com/rss/economie/
+    active: true
+
+  - id: lesinrocks
+    name: "Les Inrockuptibles"
+    orientation: centre-gauche
+    editorial_style: mixte
+    paywall: partial
+    owner: "Indépendant (Matthieu Pigasse)"
+    rss:
+      - https://www.lesinrocks.com/feed/
+    active: true
+
+  - id: lincorrect
+    name: "L'Incorrect"
+    orientation: droite
+    editorial_style: opinion
+    classification_note: >-
+      Magazine d'opinion classé à droite conservatrice ; droite/opinion sur
+      l'axe unique du référentiel.
+    paywall: partial
+    owner: "Indépendant (L'Incorrect)"
+    rss:
+      - https://lincorrect.org/feed/
+    active: true
