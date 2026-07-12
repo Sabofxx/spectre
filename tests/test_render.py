@@ -145,6 +145,22 @@ def test_shared_owner_note(conn, tmp_path):
     assert html.count("appartiennent") == 1
 
 
+def test_og_images_generated(conn, tmp_path):
+    seed(conn)
+    build_site(conn, tmp_path)
+
+    cid = conn.execute("SELECT id FROM clusters").fetchone()[0]
+    img_path = tmp_path / "og" / f"{cid}.png"
+    assert img_path.exists()
+    from PIL import Image
+
+    with Image.open(img_path) as img:
+        assert img.size == (1200, 630)
+    detail = (tmp_path / "cluster" / f"{cid}.html").read_text()
+    assert f'property="og:image" content="https://sabofxx.github.io/spectre/og/{cid}.png"' in detail
+    assert 'summary_large_image' in detail
+
+
 def test_seo_artifacts(conn, tmp_path):
     seed(conn)
     build_site(conn, tmp_path)

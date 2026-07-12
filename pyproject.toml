@@ -15,6 +15,7 @@ dependencies = [
     # Install torch CPU-only FIRST (see README) or this pulls the GPU wheel.
     "sentence-transformers==5.6.0",
     "jinja2==3.1.6",
+    "pillow==12.3.0",
 ]
 
 [project.optional-dependencies]
