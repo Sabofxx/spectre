@@ -342,6 +342,11 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
     # publication date (not the cluster's updated_at, which only reflects the
     # last re-clustering pass and buckets every event into a handful of runs).
     feed_cards.sort(key=lambda c: c["latest_published"] or "", reverse=True)
+    # Flag events whose most recent article is under 2 h old, for a "nouveau"
+    # marker on the feed.
+    fresh_2h = (now - timedelta(hours=2)).isoformat(timespec="seconds")
+    for c in feed_cards:
+        c["is_fresh"] = bool(c["latest_published"] and c["latest_published"] >= fresh_2h)
     week_cards = build_cards(conn, week_since, BLINDSPOT_MIN_MEMBERS)
     blind_cards = [c for c in week_cards if c["blindspot_for"]]
     blind_cards.sort(key=lambda c: (-abs(c["blindspot_score"]), -c["n_members"]))
