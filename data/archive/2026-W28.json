@@ -1,13 +1,13 @@
 {
  "week": "2026-W28",
- "generated_at": "2026-07-12T16:47:11+00:00",
+ "generated_at": "2026-07-12T17:52:47+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Tour de France 2026 : la 9e étape en Corrèze raccourcie en raison de la canicule",
    "url": "https://www.cnews.fr/sport/2026-07-09/tour-de-france-2026-tadej-pogacar-pulverise-son-propre-record-de-lascension-du",
-   "n_members": 71,
+   "n_members": 75,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -21,23 +21,23 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.551,
+   "divergence": 0.514,
    "category": "sport",
    "terms_left": [
     "parcours",
     "victoire",
-    "deuxième"
+    "france étape"
    ],
    "terms_right": [
-    "raison",
     "étape tour",
-    "chaleur"
+    "chaleur",
+    "fois"
    ]
   },
   {
-   "title": "DIRECT. Guerre au Moyen-Orient: l'Iran attaque deux navires dans le détroit d'Ormuz, les États-Unis lancent de nouvelles frappes",
+   "title": "Reprise des hostilités entre l'Iran et les Etats-Unis : le détroit d'Ormuz est refermé",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 55,
+   "n_members": 60,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -51,17 +51,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.41,
+   "divergence": 0.419,
    "category": "international",
    "terms_left": [
+    "nuit",
     "etats-unis",
-    "téhéran",
-    "nuit"
+    "téhéran"
    ],
    "terms_right": [
     "états-unis",
     "frappes",
-    "navire"
+    "nouvelles frappes"
    ]
   },
   {
@@ -97,7 +97,7 @@
   {
    "title": "DIRECT. Canicule: 37 départements placés en vigilance rouge demain par Météo-France et 46 en vigilance orange",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 85,
+   "n_members": 86,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -127,7 +127,7 @@
   {
    "title": "Guerre en Ukraine : six morts et douze blessés, dont un enfant, après une attaque de missiles russes",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 64,
+   "n_members": 65,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.885,
+   "divergence": 0.888,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -150,14 +150,14 @@
    ],
    "terms_right": [
     "morts",
-    "ukraine",
-    "personnes"
+    "gouvernement",
+    "ukraine"
    ]
   },
   {
    "title": "Incendie en Espagne: les images des dégâts causés par les flammes en Andalousie",
    "url": "https://www.franceinfo.fr/monde/espagne/un-feu-de-foret-fait-douze-morts-en-andalousie-alors-que-l-espagne-affronte-une-vague-de-chaleur_8102162.html",
-   "n_members": 82,
+   "n_members": 83,
    "n_sources": 21,
    "counts": {
     "left": 4,
@@ -185,6 +185,36 @@
    ]
   },
   {
+   "title": "Des Bleus \"sans Français\"… L’ex-Premier ministre espagnol Mariano Rajoy crée une polémique avec des propos racistes",
+   "url": "https://www.lemonde.fr/sport/article/2026/07/11/france-australie-fabien-galthie-fait-le-pari-d-un-duo-ntamack-jalibert-pour-affronter-les-wallabies-au-championnat-des-nations-de-rugby_6722621_3242.html",
+   "n_members": 61,
+   "n_sources": 21,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 5,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.616,
+   "category": "sport",
+   "terms_left": [
+    "rugby",
+    "nouvelle",
+    "australie brisbane"
+   ],
+   "terms_right": [
+    "bleus",
+    "wimbledon",
+    "ministre"
+   ]
+  },
+  {
    "title": "Nice : une marche blanche lance les commémorations des dix ans de l'attentat du 14 juillet",
    "url": "https://www.lemonde.fr/societe/article/2026/07/10/14-juillet-les-personnes-qui-veulent-assister-au-defile-sur-les-champs-elysees-devront-presenter-un-qr-code_6722451_3224.html",
    "n_members": 62,
@@ -201,7 +231,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.559,
+   "divergence": 0.558,
    "category": "société",
    "terms_left": [
     "victimes",
@@ -215,33 +245,33 @@
    ]
   },
   {
-   "title": "Des Bleus \"sans Français\"… L’ex-Premier ministre espagnol Mariano Rajoy crée une polémique avec des propos racistes",
-   "url": "https://www.lemonde.fr/sport/article/2026/07/11/france-australie-fabien-galthie-fait-le-pari-d-un-duo-ntamack-jalibert-pour-affronter-les-wallabies-au-championnat-des-nations-de-rugby_6722621_3242.html",
-   "n_members": 60,
+   "title": "INFO E1 - Sarcelles : 300 personnes évacuées en raison d’une menace d’attentat contre la communauté juive, des armes retrouvées dans un véhicule",
+   "url": "https://www.mediapart.fr/journal/ecologie/100726/incendie-de-die-des-evacuations-chaotiques-et-une-communication-verrouillee",
+   "n_members": 48,
    "n_sources": 20,
    "counts": {
-    "left": 2,
-    "centre": 12,
-    "right": 6
+    "left": 3,
+    "centre": 10,
+    "right": 7
    },
    "style_counts": {
-    "factuel": 14,
-    "mixte": 4,
+    "factuel": 11,
+    "mixte": 7,
     "opinion": 2
    },
-   "blindspot_score": 0.5,
+   "blindspot_score": 0.4,
    "blindspot_for": null,
    "divergence": 0.651,
-   "category": "sport",
+   "category": "faits-divers",
    "terms_left": [
-    "rugby",
-    "nouvelle",
-    "australie brisbane"
+    "synagogue",
+    "communication",
+    "arme"
    ],
    "terms_right": [
-    "bleus",
-    "monde",
-    "coupe"
+    "personnes",
+    "feu",
+    "hectares"
    ]
   },
   {
@@ -261,7 +291,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.427,
+   "divergence": 0.426,
    "category": "société",
    "terms_left": [
     "etat",
@@ -291,7 +321,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.497,
+   "divergence": 0.498,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -335,6 +365,36 @@
    ]
   },
   {
+   "title": "Guerre au Moyen-Orient : \"L’armée américaine est prête\"... Donald Trump menace de \"décimer et détruire complètement\" l’Iran en cas de tentative d’assassinat",
+   "url": "https://www.mediapart.fr/journal/international/100726/ni-guerre-ni-paix-pourquoi-les-etats-unis-et-l-iran-sont-pieges-dans-l-impasse-d-ormuz",
+   "n_members": 39,
+   "n_sources": 18,
+   "counts": {
+    "left": 5,
+    "centre": 8,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.749,
+   "category": "international",
+   "terms_left": [
+    "force",
+    "téhéran",
+    "dit"
+   ],
+   "terms_right": [
+    "moyen-orient",
+    "états-unis",
+    "iran"
+   ]
+  },
+  {
    "title": "Chine : près de 2 millions de personnes évacuées à l'approche du typhon Bavi",
    "url": "https://www.leparisien.fr/meteo/typhon-bavi-pres-dun-million-de-personnes-evacuees-en-chine-avant-limpact-sur-wenzhou-11-07-2026-ISQOPUO3YFD7RLSBA2RR6BFDYI.php",
    "n_members": 50,
@@ -357,39 +417,9 @@
    "terms_right": []
   },
   {
-   "title": "Guerre au Moyen-Orient : \"L’armée américaine est prête\"... Donald Trump menace de \"décimer et détruire complètement\" l’Iran en cas de tentative d’assassinat",
-   "url": "https://www.mediapart.fr/journal/international/100726/ni-guerre-ni-paix-pourquoi-les-etats-unis-et-l-iran-sont-pieges-dans-l-impasse-d-ormuz",
-   "n_members": 38,
-   "n_sources": 17,
-   "counts": {
-    "left": 5,
-    "centre": 8,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": -0.111,
-   "blindspot_for": null,
-   "divergence": 0.747,
-   "category": "international",
-   "terms_left": [
-    "téhéran",
-    "dit",
-    "cessez-le-feu terminé"
-   ],
-   "terms_right": [
-    "moyen-orient",
-    "états-unis",
-    "iran"
-   ]
-  },
-  {
    "title": "Mondial 2026 : le milieu sud-africain Jayden Adams retrouvé mort à 25 ans",
    "url": "https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-2026-le-selectionneur-de-l-argentine-rejette-les-accusations-de-favoritisme-envers-lionel-messi-et-ses-coequipiers_8104103.html",
-   "n_members": 37,
+   "n_members": 39,
    "n_sources": 17,
    "counts": {
     "left": 0,
@@ -411,7 +441,7 @@
   {
    "title": "Présidentielle 2027 : éligible et candidate, Marine Le Pen veut imposer un débat de fond",
    "url": "https://reporterre.net/Clim-fossiles-et-agro-industrie-l-ecologie-selon-Marine-Le-Pen",
-   "n_members": 32,
+   "n_members": 33,
    "n_sources": 17,
    "counts": {
     "left": 4,
@@ -425,7 +455,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.488,
+   "divergence": 0.484,
    "category": "politique",
    "terms_left": [
     "justice",
@@ -471,7 +501,7 @@
   {
    "title": "Canicule : trois réacteurs nucléaires à l'arrêt et huit à puissance réduite en France",
    "url": "https://www.mediapart.fr/journal/ecologie/110726/pourquoi-le-vivant-ne-supporte-pas-la-chaleur",
-   "n_members": 20,
+   "n_members": 21,
    "n_sources": 16,
    "counts": {
     "left": 3,
@@ -485,7 +515,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.857,
+   "divergence": 0.851,
    "category": "environnement",
    "terms_left": [
     "nucléaire",
@@ -494,8 +524,8 @@
    ],
    "terms_right": [
     "arrêt",
-    "raison",
-    "chaleurs"
+    "qu",
+    "raison"
    ]
   },
   {
@@ -517,28 +547,6 @@
    "blindspot_for": "gauche",
    "divergence": null,
    "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Sarcelles : 300 personnes évacuées, un projet d'attentat contre la communauté juive soupçonné",
-   "url": "https://www.leparisien.fr/val-d-oise-95/sarcelles-95200/sarcelles-300-personnes-evacuees-samedi-soir-pour-deminer-un-vehicule-un-suspect-interpelle-12-07-2026-Y4FSRYE37FEL7DHZBKD53BBVKE.php",
-   "n_members": 20,
-   "n_sources": 15,
-   "counts": {
-    "left": 2,
-    "centre": 6,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 8,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.556,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "faits-divers",
    "terms_left": [],
    "terms_right": []
   },
@@ -628,8 +636,8 @@
    "divergence": 0.844,
    "category": "politique",
    "terms_left": [
-    "loi",
     "fin",
+    "loi",
     "vie"
    ],
    "terms_right": [
@@ -637,28 +645,6 @@
     "euros",
     "gouvernement"
    ]
-  },
-  {
-   "title": "Lot : l'incendie ayant entraîné l'évacuation de 86 personnes à présent fixé",
-   "url": "https://www.mediapart.fr/journal/ecologie/100726/incendie-de-die-des-evacuations-chaotiques-et-une-communication-verrouillee",
-   "n_members": 27,
-   "n_sources": 10,
-   "counts": {
-    "left": 1,
-    "centre": 5,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 5,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
   },
   {
    "title": "Présomption de légitime défense pour les forces de l'ordre : la LDH dénonce \"un permis de tuer\"",
@@ -691,6 +677,36 @@
    ]
   },
   {
+   "title": "Jordan Bardella plaide pour un gouvernement dépassant le RN, «d'union nationale»",
+   "url": "https://www.lejdd.fr/politique/presidentielle-lepreuve-du-second-role-pour-jordan-bardella-178782",
+   "n_members": 11,
+   "n_sources": 10,
+   "counts": {
+    "left": 2,
+    "centre": 3,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 4,
+    "mixte": 4,
+    "opinion": 2
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.606,
+   "category": "politique",
+   "terms_left": [
+    "extrême",
+    "extrême droite",
+    "droite"
+   ],
+   "terms_right": [
+    "jordan bardella",
+    "jordan",
+    "nationale"
+   ]
+  },
+  {
    "title": "Présidentielle 2027: Marine Le Pen largement en tête au premier tour selon le dernier sondage Elabe pour BFMTV",
    "url": "https://www.cnews.fr/france/2026-07-09/presidentielle-2027-marine-le-pen-en-tete-des-intentions-de-vote-au-premier-tour",
    "n_members": 24,
@@ -711,36 +727,6 @@
    "category": "politique",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Jordan Bardella plaide pour un gouvernement dépassant le RN, «d'union nationale»",
-   "url": "https://www.lejdd.fr/politique/presidentielle-lepreuve-du-second-role-pour-jordan-bardella-178782",
-   "n_members": 10,
-   "n_sources": 9,
-   "counts": {
-    "left": 2,
-    "centre": 3,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 4,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.622,
-   "category": "politique",
-   "terms_left": [
-    "extrême",
-    "extrême droite",
-    "droite"
-   ],
-   "terms_right": [
-    "jordan bardella",
-    "jordan",
-    "nationale"
-   ]
   },
   {
    "title": "Le rappeur Pitbull établit un record du monde du plus grand rassemblement de faux crânes chauves",
@@ -807,6 +793,36 @@
    "category": "société",
    "terms_left": [],
    "terms_right": []
+  },
+  {
+   "title": "EXCLUSIF. Aveux de Cédric Jubillar : \"Il n’a qu’une hâte, aider les enquêteurs à retrouver son corps\" Ses avocats racontent sa réaction et ses intentions après les révélations",
+   "url": "https://www.nouvelobs.com/justice/20260711.OBS116580/affaire-jubillar-les-coulisses-des-aveux-qui-posent-plus-de-questions-qu-ils-n-apportent-de-reponses.html",
+   "n_members": 10,
+   "n_sources": 7,
+   "counts": {
+    "left": 2,
+    "centre": 1,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 2,
+    "mixte": 3,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.638,
+   "category": "société",
+   "terms_left": [
+    "qu",
+    "jubillar",
+    "femme"
+   ],
+   "terms_right": [
+    "buttes-chaumont",
+    "réclusion",
+    "lakhdar"
+   ]
   },
   {
    "title": "Essone. Shemseddine, collégien battu à mort : deux mis en examen libérés en raison d'un vide juridique",
@@ -927,6 +943,28 @@
    ]
   },
   {
+   "title": "Explosion à Monaco: le portrait d'Anastasiia Berezovska retrouvée tuée par balle en Ukraine",
+   "url": "https://www.nouvelobs.com/monde/20260710.OBS116575/principale-suspecte-executee-ombre-des-services-ukrainiens-toutes-les-pistes-sont-encore-sur-la-table-assure-le-procureur-general-de-monaco-a-propos-de-l-attaque-a-l-explosif.html",
+   "n_members": 8,
+   "n_sources": 5,
+   "counts": {
+    "left": 1,
+    "centre": 1,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 3,
+    "mixte": 1,
+    "opinion": 1
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Le Mexique annonce des poursuites pénales contre l’ICE après la mort de ses ressortissants aux États-Unis",
    "url": "https://information.tv5monde.com/international/le-dernier-matin-de-lorenzo-salgado-un-reve-americain-fauche-2829566",
    "n_members": 6,
@@ -992,7 +1030,7 @@
    "terms_left": [
     "ans",
     "qu",
-    "visé nouvelle"
+    "bruel visé"
    ],
    "terms_right": [
     "agression sexuelle",
@@ -1019,28 +1057,6 @@
    "blindspot_for": null,
    "divergence": null,
    "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Sénégal: le sélectionneur Pape Thiaw limogé après un Mondial décevant",
-   "url": "https://www.rfi.fr/fr/afrique-foot/20260712-s%C3%A9n%C3%A9gal-le-s%C3%A9lectionneur-pape-thiaw-limog%C3%A9-apr%C3%A8s-un-mondial-d%C3%A9cevant",
-   "n_members": 5,
-   "n_sources": 5,
-   "counts": {
-    "left": 0,
-    "centre": 4,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 4,
-    "mixte": 0,
-    "opinion": 1
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "sport",
    "terms_left": [],
    "terms_right": []
   }
