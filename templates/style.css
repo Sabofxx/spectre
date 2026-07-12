@@ -202,6 +202,14 @@ a.cat:hover { color: var(--fg); text-decoration: underline; }
 /* ------------------------------------------------------------------ */
 /* Detail page                                                         */
 /* ------------------------------------------------------------------ */
+.timeline { width: 100%; height: auto; }
+.tl-left { fill: var(--left); } .tl-centre { fill: var(--centre); } .tl-right { fill: var(--right); }
+.tl-label { font-size: 18px; fill: var(--muted); font-family: var(--sans); }
+.visually-hidden {
+  position: absolute; width: 1px; height: 1px; overflow: hidden;
+  clip: rect(0 0 0 0); white-space: nowrap;
+}
+
 .provisional-tag {
   font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.09em;
   color: var(--mixte); margin: 0.7rem 0 -0.6rem;

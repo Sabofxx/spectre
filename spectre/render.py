@@ -195,6 +195,42 @@ def _vocab_view(payload: dict) -> dict:
     return payload
 
 
+def _timeline(members: list) -> dict | None:
+    """Publication-timeline data for the cluster page SVG.
+
+    Points on a 0-1000 x-scale between first and last dated publication;
+    one row per political bloc. None when fewer than 2 dated articles.
+    """
+    dated = [m for m in members if m["published_at"]]
+    if len(dated) < 2:
+        return None
+    times = [datetime.fromisoformat(m["published_at"]) for m in dated]
+    start, end = min(times), max(times)
+    span = (end - start).total_seconds() or 1.0
+    rows = {"left": 30, "centre": 60, "right": 90}
+    points = []
+    for m, t in zip(dated, times):
+        if m["orientation"] in LEFT_BLOC:
+            bloc = "left"
+        elif m["orientation"] in RIGHT_BLOC:
+            bloc = "right"
+        else:
+            bloc = "centre"
+        points.append({
+            "x": round(20 + 960 * (t - start).total_seconds() / span, 1),
+            "y": rows[bloc],
+            "bloc": bloc,
+            "label": f"{m['source_name']} — {_fmt_dt(m['published_at'], '%a %d/%m, %H:%M')}",
+            "source": m["source_name"],
+            "time": _fmt_dt(m["published_at"], "%d/%m %H:%M"),
+        })
+    return {
+        "points": points,
+        "start": _fmt_dt(dated[0]["published_at"], "%a %d/%m, %H:%M"),
+        "end": _fmt_dt(dated[-1]["published_at"], "%a %d/%m, %H:%M"),
+    }
+
+
 def _og_coverage(counts: dict[str, int], n_members: int) -> str:
     return (
         f"Couvert par {counts['left']} source(s) à gauche, {counts['centre']} au centre,"
@@ -468,6 +504,7 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
             "shared_owners": shared_owners,
             "face_left": face_left,
             "face_right": face_right,
+            "timeline": _timeline(members),
             "vocab": _vocab_view(analyses["vocab_contrast"]) if "vocab_contrast" in analyses else None,
             "ollama": analyses.get("ollama"),
         }
