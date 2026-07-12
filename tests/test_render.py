@@ -96,6 +96,21 @@ def test_first_publisher_ignores_null_dates(conn, tmp_path):
     assert "<strong>Gauche 1</strong>" in html  # 06:00 wins; NULL (c1) excluded
 
 
+def test_no_tracking_in_generated_site(conn, tmp_path):
+    """Anti-algorithm pledge, enforced: no external scripts, no cookies,
+    no storage APIs anywhere in the generated site."""
+    import re
+
+    seed(conn)
+    build_site(conn, tmp_path)
+    for page in tmp_path.rglob("*.html"):
+        html = page.read_text()
+        assert not re.search(r"<script[^>]+src=[\"']https?://", html), page.name
+        assert "document.cookie" not in html, page.name
+        assert "localStorage" not in html and "sessionStorage" not in html, page.name
+        assert not re.search(r"gtag|googletagmanager|plausible\.io|matomo", html), page.name
+
+
 def test_slugify():
     from spectre.render import slugify
 

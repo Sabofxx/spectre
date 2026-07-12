@@ -33,6 +33,8 @@
   <div>
     <p><strong>Spectre</strong> · généré le {{ generated_at }} · <a href="{{ repo_url }}">code source</a></p>
     <p>Spectre est un index : titres, liens vers les originaux et analyses propres uniquement.</p>
+    <p>Pas d'algorithme de recommandation : tout le monde voit la même page,
+       triée par ampleur de couverture. Aucun compte, aucun cookie, aucun tracking.</p>
   </div>
   {% if health and health.total %}
   <p class="footer-health {{ 'health-warn' if health.ok < health.total }}">RSS {{ health.ok }}/{{ health.total }} OK</p>
