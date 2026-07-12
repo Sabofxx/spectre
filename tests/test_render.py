@@ -64,6 +64,26 @@ def test_ollama_section_rendered_with_ai_label_and_autoescape(conn, tmp_path):
     assert "&amp; &lt;b&gt;gras&lt;/b&gt;" in html
 
 
+def test_find_leaks_ignores_title_lookalike_summary(conn, tmp_path):
+    """Live-blog feeds set title ~= summary; the title is legitimately
+    published and must not be reported as a summary leak (CI false positive
+    on a Tour de France live article, 2026-07-12)."""
+    shared = "Suivez la 9e étape du Tour de France entre Malemort et Ussel raccourcie"
+    art = make_article(source_id="g1", title=shared, summary=shared + " en raison de la canicule.", hours_ago=2)
+    dbmod.insert_article(conn, art)
+    row = conn.execute("SELECT id FROM articles WHERE url = ?", (art.url,)).fetchone()
+    cid = dbmod.create_cluster(conn, b"\x00" * 8, shared, row["id"])
+    art2 = make_article(source_id="d1", title="Autre titre", hours_ago=2)
+    dbmod.insert_article(conn, art2)
+    r2 = conn.execute("SELECT id FROM articles WHERE url = ?", (art2.url,)).fetchone()
+    dbmod.add_cluster_member(conn, cid, r2["id"], 0.9)
+    dbmod.update_cluster(conn, cid, b"\x00" * 8, shared, 2)
+    conn.commit()
+
+    build_site(conn, tmp_path)
+    assert find_leaks(conn, tmp_path) == []  # title lookalike is not a leak
+
+
 def test_find_leaks_catches_a_leak(conn, tmp_path):
     seed(conn)
     build_site(conn, tmp_path)
