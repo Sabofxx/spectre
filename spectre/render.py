@@ -413,6 +413,14 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
     )
 
     write_page(
+        "stats.html", "stats.html", root="",
+        stats=db.public_stats(conn), active_page="stats",
+        og_title="Statistiques — Spectre",
+        og_description="Transparence opérationnelle : santé des flux, volumes,"
+                       " état du pipeline.",
+    )
+
+    write_page(
         "a-propos.html", "apropos.html", root="",
         sources=db.all_sources(conn), active_page="about",
         og_title="À propos — Spectre",

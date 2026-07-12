@@ -155,3 +155,27 @@ def ingest_all(conn: sqlite3.Connection, sources: list[Source]) -> int:
                 total_new += ingest_feed(conn, client, source, feed_url)
     logger.info("ingest done: %d new articles across %d sources", total_new, len(active))
     return total_new
+
+
+def pipeline_health_check(
+    n_new: int, fetch_rows: list, paris_hour: int
+) -> str | None:
+    """Free-tier alerting: return an error message when the run looks broken.
+
+    The CI step fails on it, and GitHub e-mails the failure. Two signals:
+    zero new articles across ALL feeds during French waking hours (a 30-min
+    window over 30+ feeds always yields something), or > 25% of feeds down.
+    """
+    if n_new == 0 and 6 <= paris_hour <= 23:
+        return (
+            "ALERTE : 0 nouvel article sur tous les flux entre 6h et 23h Paris — "
+            "panne probable de l'ingestion."
+        )
+    if fetch_rows:
+        ko = sum(1 for r in fetch_rows if r["status"] != "ok")
+        if ko / len(fetch_rows) > 0.25:
+            return (
+                f"ALERTE : {ko}/{len(fetch_rows)} flux en échec (> 25 %) — "
+                "vérifier fetch_log."
+            )
+    return None
