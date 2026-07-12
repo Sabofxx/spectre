@@ -198,14 +198,7 @@ def pipeline(
 
     started = dbmod.utcnow_iso()
     n_new = ingest_mod.ingest_all(conn, sources)
-    from datetime import datetime
-    from zoneinfo import ZoneInfo
-
-    alert = ingest_mod.pipeline_health_check(
-        n_new,
-        dbmod.last_run_fetch_log(conn, started),
-        datetime.now(ZoneInfo("Europe/Paris")).hour,
-    )
+    alert = ingest_mod.pipeline_health_check(dbmod.last_run_fetch_log(conn, started))
     if alert:
         typer.echo(alert, err=True)
         raise typer.Exit(2)
