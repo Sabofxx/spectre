@@ -11,7 +11,7 @@ from conftest import make_article
 def test_write_snapshot_stores_metrics_links_and_never_summaries(conn, tmp_path):
     secret = "Ce chapô RSS ne doit pas entrer dans les archives."
     article_ids = []
-    for source_id in ("d1", "d2", "d3"):
+    for source_id in ("d1", "d2", "d3", "cd1", "cd2"):
         art = make_article(
             source_id=source_id,
             title=f"Titre {source_id}",
@@ -36,7 +36,7 @@ def test_write_snapshot_stores_metrics_links_and_never_summaries(conn, tmp_path)
     assert secret not in raw
     assert data["clusters"][0]["title"] == "Titre archive"
     assert data["clusters"][0]["url"].startswith("https://example.org/")
-    assert data["clusters"][0]["counts"] == {"left": 0, "centre": 0, "right": 3}
+    assert data["clusters"][0]["counts"] == {"left": 0, "centre": 0, "right": 5}
     assert data["clusters"][0]["blindspot_for"] == "gauche"
 
 

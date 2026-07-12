@@ -317,11 +317,18 @@ def compute_ollama(conn: sqlite3.Connection, analyzer=None) -> dict:
     return stats
 
 
-def run(conn: sqlite3.Connection) -> dict:
-    """Run categorization + both analyses; returns summary stats."""
-    from .categorize import categorize_clusters
+def run(conn: sqlite3.Connection, categorize: bool = False) -> dict:
+    """Run both analyses; returns summary stats.
 
-    n_categorized = categorize_clusters(conn)
+    Categorization belongs to cluster.run() (embedding prototypes need the
+    loaded model); the URL-only pass here would overwrite better labels, so
+    it stays opt-in for tests only.
+    """
+    n_categorized: int | None = None
+    if categorize:
+        from .categorize import categorize_clusters
+
+        n_categorized = categorize_clusters(conn)
     n_blindspots = compute_blindspots(conn)
     vocab_stats = compute_vocab_contrasts(conn)
     return {"categorized": n_categorized, "blindspots": n_blindspots, "vocab": vocab_stats}

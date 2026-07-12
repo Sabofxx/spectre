@@ -73,7 +73,7 @@ def purge(db: Path = typer.Option(DEFAULT_DB)) -> None:
 @app.command()
 def cluster(
     db: Path = typer.Option(DEFAULT_DB),
-    threshold: float = typer.Option(None, help="Seuil de similarité (défaut : 0.55)"),
+    threshold: float = typer.Option(None, help="Seuil de similarité (défaut : 0.92)"),
 ) -> None:
     """Group articles into event clusters (embed + greedy attach)."""
     from spectre import cluster as cluster_mod
@@ -243,6 +243,29 @@ def check_leaks(
             typer.echo(f"  - {s[:100]}")
         raise typer.Exit(1)
     typer.echo("Aucune fuite de chapô dans le HTML.")
+
+
+@app.command(name="check-classifications")
+def check_classifications(
+    config: Path = typer.Option(DEFAULT_CONFIG, help="Chemin de sources.yaml"),
+) -> None:
+    """Fail if the source orientation/style referential has mechanical errors."""
+    from spectre.audit import audit_sources_config
+
+    report = audit_sources_config(config)
+    for warning in report.get("warnings", []):
+        typer.echo(f"AVERTISSEMENT  {warning}")
+    if not report["ok"]:
+        typer.echo("ERREURS dans le référentiel de classifications :")
+        for error in report["errors"]:
+            typer.echo(f"  - {error}")
+        raise typer.Exit(1)
+    typer.echo(
+        "Classifications OK — "
+        f"{report['n_sources']} sources, {report['n_active']} actives ; "
+        f"orientations={report['orientation_counts']} ; "
+        f"styles={report['style_counts']}"
+    )
 
 
 @app.command()

@@ -7,6 +7,7 @@ from collections import Counter
 import pytest
 
 from spectre import db as dbmod
+from spectre import analyze as analyze_mod
 from spectre.analyze import (
     blindspot_payload,
     compute_vocab_contrasts,
@@ -121,3 +122,16 @@ class TestInsufficientData:
         )
         assert payload["status"] == "insufficient_data"
         assert payload["n_tokens_left"] < 50 and payload["n_tokens_right"] < 50
+
+
+def test_run_can_skip_categorization_for_pipeline(monkeypatch, conn):
+    def fail_if_called(_conn):
+        raise AssertionError("categorize_clusters should be skipped")
+
+    monkeypatch.setattr(analyze_mod, "compute_blindspots", lambda _conn: 2)
+    monkeypatch.setattr(analyze_mod, "compute_vocab_contrasts", lambda _conn: {"ok": 1})
+    monkeypatch.setattr("spectre.categorize.categorize_clusters", fail_if_called)
+
+    stats = analyze_mod.run(conn, categorize=False)
+
+    assert stats == {"categorized": None, "blindspots": 2, "vocab": {"ok": 1}}

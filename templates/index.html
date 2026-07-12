@@ -2,18 +2,13 @@
 {% import "_macros.html" as macros %}
 {% block title %}Spectre — le fil{% endblock %}
 {% block content %}
-<section class="page-head feature-head">
-  <div class="head-copy">
-    <p class="eyebrow">Dernières 48 h</p>
-    <h1>Le fil</h1>
-    <p class="lede">Les événements qui circulent dans la presse française, classés par ampleur de couverture et lus selon deux axes : orientation politique et degré d'éditorialisation.</p>
-  </div>
-  <div class="kpi-row" aria-label="Résumé du fil">
-    <div class="kpi"><strong>{{ overview.events }}</strong><span>événements</span></div>
-    <div class="kpi"><strong>{{ overview.sources }}</strong><span>sources</span></div>
-    <div class="kpi"><strong>{{ overview.articles }}</strong><span>articles</span></div>
-    <div class="kpi"><strong>{{ overview.factuel }}/{{ overview.mixte }}/{{ overview.opinion }}</strong><span>styles</span></div>
-  </div>
+<section class="page-head">
+  <p class="dateline">Dernières 48 heures
+    · {{ overview.events }} événements
+    · {{ overview.sources }} sources
+    · {{ overview.articles }} articles</p>
+  <p class="lede">Qui couvre quoi dans la presse française — orientation et
+     dominante éditoriale des <em>sources</em>, jamais des articles isolés.</p>
 </section>
 <section class="feed-list" aria-label="Événements">
 {% for c in clusters %}

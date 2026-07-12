@@ -6,11 +6,14 @@
   {% if counts.centre %}<span class="seg seg-centre" style="flex-grow:{{ counts.centre }}"></span>{% endif %}
   {% if counts.right %}<span class="seg seg-right" style="flex-grow:{{ counts.right }}"></span>{% endif %}
 </div>
-<p class="bar-counts">
-  <span class="dot dot-left"></span>{{ counts.left }} gauche&nbsp;·
-  <span class="dot dot-centre"></span>{{ counts.centre }} centre&nbsp;·
-  <span class="dot dot-right"></span>{{ counts.right }} droite
-</p>
+{% endmacro %}
+
+{% macro spectrum_counts(counts) %}
+<span class="bar-counts">
+  <span class="dot dot-left"></span>{{ counts.left }}
+  <span class="dot dot-centre"></span>{{ counts.centre }}
+  <span class="dot dot-right"></span>{{ counts.right }}
+</span>
 {% endmacro %}
 
 {% macro style_bar(counts) %}
@@ -38,26 +41,34 @@
 </p>
 {% endmacro %}
 
+{# Compact one-line source listing: bloc-colored dots + names, truncated. #}
+{% macro source_line(c, root="") %}
+<p class="source-line">
+  {%- for s in c.sources[:6] -%}
+    <span class="src"><span class="dot dot-bloc-{{ 'left' if s.orientation in ('gauche','centre-gauche') else ('right' if s.orientation in ('centre-droit','droite') else 'centre') }}"></span>{{ s.name }}</span>
+    {%- if not loop.last %}<span class="src-sep">·</span>{% endif -%}
+  {%- endfor -%}
+  {%- if c.sources | length > 6 %}<a class="src-more" href="{{ root }}cluster/{{ c.id }}.html">+{{ c.sources | length - 6 }}</a>{% endif -%}
+</p>
+{% endmacro %}
+
 {% macro event_card(c, root="", heading="h2") %}
 <article class="event-card">
-  <div class="event-topline">
+  <p class="kicker">
     {% if c.category %}<span class="cat">{{ c.category }}</span>{% endif %}
     {% if c.blindspot_for %}<span class="flag flag-{{ c.blindspot_for }}">angle mort de la {{ c.blindspot_for }}</span>{% endif %}
     {% if c.divergence is not none %}{{ divergence_badge(c.divergence) }}{% endif %}
+  </p>
+  <{{ heading }} class="event-title"><a href="{{ root }}cluster/{{ c.id }}.html">{{ c.title }}</a></{{ heading }}>
+  <div class="event-facts">
+    {{ coverage_bar(c.counts) }}
+    {{ spectrum_counts(c.counts) }}
+    <span class="facts-sep"></span>
+    <span class="facts-text">{{ c.style_counts.factuel }} factuel · {{ c.style_counts.mixte }} mixte · {{ c.style_counts.opinion }} opinion</span>
+    <span class="facts-sep"></span>
+    <span class="facts-text">{{ c.n_members }} art. · {{ c.n_sources }} sources</span>
   </div>
-  <{{ heading }}><a href="{{ root }}cluster/{{ c.id }}.html">{{ c.title }}</a></{{ heading }}>
-  <div class="metrics-grid">
-    <div>
-      <p class="metric-label">Spectre politique</p>
-      {{ coverage_bar(c.counts) }}
-    </div>
-    <div>
-      <p class="metric-label">Style éditorial</p>
-      {{ style_bar(c.style_counts) }}
-    </div>
-  </div>
-  <p class="meta strong-meta">{{ c.n_members }} articles · {{ c.n_sources }} sources distinctes</p>
-  {{ source_pills(c.sources) }}
+  {{ source_line(c, root) }}
 </article>
 {% endmacro %}
 

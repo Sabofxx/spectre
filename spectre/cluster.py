@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import logging
 import random
+import re
 import sqlite3
 from datetime import datetime, timedelta, timezone
 from typing import TYPE_CHECKING
@@ -32,6 +33,16 @@ E5_PREFIX = "query: "
 # single-event clusters at the cost of splitting a few true pairs sitting
 # at 0.90-0.92. Precision over recall, as always for framing analysis.
 DEFAULT_THRESHOLD = 0.92
+MAX_CONSOLIDATED_MEMBERS = 60
+MAX_CONSOLIDATED_ARTICLES_PER_SOURCE = 8
+_TITLE_WORD_RE = re.compile(r"[a-zà-öø-ÿœ0-9]+")
+_TITLE_STOPWORDS = frozenset("""
+actualité actualités annonce après avant avec avoir cette comme dans direct
+elle elles entre être fait faire france grand grande grands grandes hommes
+info infos leur leurs mais même moins monde nouveau nouveaux nouvelle nouvelles
+plus pour pourquoi quand quel quelle quels quelles selon sera sont sous toute
+toutes tous très vers vidéo voici votre vous
+""".split())
 
 
 def load_model() -> "SentenceTransformer":
@@ -54,6 +65,14 @@ def embedding_text(title: str, summary: str | None) -> str:
 
 def _to_vec(blob: bytes) -> np.ndarray:
     return np.frombuffer(blob, dtype=np.float32)
+
+
+def _title_tokens(title: str) -> set[str]:
+    """Strong-ish lexical tokens used as a consolidation sanity check."""
+    return {
+        w for w in _TITLE_WORD_RE.findall(title.lower())
+        if len(w) >= 4 and w not in _TITLE_STOPWORDS and not w.isdigit()
+    }
 
 
 def embed_pending(conn: sqlite3.Connection, model: "SentenceTransformer") -> int:
@@ -151,15 +170,43 @@ def cluster_pending(
     return stats
 
 
+def _can_consolidate_pair(
+    conn: sqlite3.Connection,
+    left_id: int,
+    right_id: int,
+    combined_size: int,
+    title_tokens: dict[int, set[str]],
+) -> bool:
+    """Cheap precision gates before merging two already-similar centroids."""
+    if combined_size > MAX_CONSOLIDATED_MEMBERS:
+        return False
+    if not (title_tokens[left_id] & title_tokens[right_id]):
+        return False
+    rows = conn.execute(
+        """
+        SELECT a.source_id, COUNT(*) AS n
+        FROM cluster_members m
+        JOIN articles a ON a.id = m.article_id
+        WHERE m.cluster_id IN (?, ?)
+        GROUP BY a.source_id
+        """,
+        (left_id, right_id),
+    ).fetchall()
+    return all(r["n"] <= MAX_CONSOLIDATED_ARTICLES_PER_SOURCE for r in rows)
+
+
 def consolidate(conn: sqlite3.Connection, threshold: float = DEFAULT_THRESHOLD) -> int:
-    """Merge active clusters whose centroids converged above the threshold.
+    """Merge active cluster pairs whose centroids converged above the threshold.
 
     The greedy pass splits an event when its early articles arrive under two
     angles (observed: same event sitting at sim 0.90-0.92). Once centroids
-    have absorbed more members, true duplicates converge; merging them here
-    recovers that recall without lowering the attach threshold. Union-find
-    over the centroid similarity graph; the largest cluster of each group
-    survives. Returns the number of clusters absorbed.
+    have absorbed more members, true duplicates converge.
+
+    This pass stays deliberately conservative: no transitive union-find
+    components, a size cap, a per-source cap, and a minimal title-token overlap.
+    E5 similarities are compressed upward; without these gates, generic news
+    centroids can chain into megaclusters. Returns the number of clusters
+    absorbed.
     """
     active = db.active_clusters(conn, window_start())
     if len(active) < 2:
@@ -168,33 +215,41 @@ def consolidate(conn: sqlite3.Connection, threshold: float = DEFAULT_THRESHOLD) 
     mat = np.stack([_to_vec(c["centroid"]) for c in active])
     sims = mat @ mat.T
 
-    parent = list(range(len(ids)))
-
-    def find(i: int) -> int:
-        while parent[i] != i:
-            parent[i] = parent[parent[i]]
-            i = parent[i]
-        return i
-
-    pairs_i, pairs_j = np.where(np.triu(sims, k=1) >= threshold)
-    for i, j in zip(pairs_i.tolist(), pairs_j.tolist()):
-        parent[find(i)] = find(j)
-
-    groups: dict[int, list[int]] = {}
-    for i in range(len(ids)):
-        groups.setdefault(find(i), []).append(i)
-
     merged = 0
     sizes = db.cluster_sizes(conn, ids)
-    for members in groups.values():
-        if len(members) < 2:
+    title_tokens = {
+        c["id"]: _title_tokens(c["title"] or "")
+        for c in conn.execute("SELECT id, title FROM clusters").fetchall()
+    }
+    alive = set(ids)
+    used: set[int] = set()
+    pairs_i, pairs_j = np.where(np.triu(sims, k=1) >= threshold)
+    pairs = sorted(
+        (
+            (float(sims[i, j]), ids[i], ids[j])
+            for i, j in zip(pairs_i.tolist(), pairs_j.tolist())
+        ),
+        reverse=True,
+    )
+    for _sim, left_id, right_id in pairs:
+        if left_id not in alive or right_id not in alive:
             continue
-        ordered = sorted(members, key=lambda i: -sizes[ids[i]])
-        survivor = ids[ordered[0]]
-        for i in ordered[1:]:
-            db.merge_cluster_into(conn, ids[i], survivor)
-            merged += 1
+        if left_id in used or right_id in used:
+            continue
+        combined_size = sizes[left_id] + sizes[right_id]
+        if not _can_consolidate_pair(conn, left_id, right_id, combined_size, title_tokens):
+            continue
+        survivor, dead = (
+            (left_id, right_id) if sizes[left_id] >= sizes[right_id]
+            else (right_id, left_id)
+        )
+        db.merge_cluster_into(conn, dead, survivor)
+        alive.remove(dead)
+        used.update({survivor, dead})
+        sizes[survivor] = combined_size
+        title_tokens[survivor] |= title_tokens[dead]
         _refresh_cluster(conn, survivor)
+        merged += 1
     conn.commit()
     if merged:
         logger.info("consolidate: %d clusters absorbed", merged)

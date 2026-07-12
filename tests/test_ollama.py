@@ -19,10 +19,10 @@ VALID = {
     "omissions": "la droite ne mentionne pas les évacuations chaotiques",
 }
 
-TAGS_OK = {"models": [{"name": "qwen3:4b"}, {"name": "llama3.2:latest"}]}
+TAGS_OK = {"models": [{"name": "qwen3:4b"}, {"name": "llama3.2:3b"}]}
 
 
-def analyzer_with(handler, model: str = "qwen3:4b") -> OllamaAnalyzer:
+def analyzer_with(handler, model: str = "llama3.2:3b") -> OllamaAnalyzer:
     client = httpx.Client(
         base_url="http://localhost:11434", transport=httpx.MockTransport(handler)
     )
@@ -77,7 +77,7 @@ class TestDetection:
         analyzer = analyzer_with(handler)
         with caplog.at_level("INFO"):
             assert analyzer.available() is False
-        assert "ollama pull qwen3:4b" in caplog.text
+        assert "ollama pull llama3.2:3b" in caplog.text
 
     def test_untagged_model_name_matches_any_tag(self):
         def handler(request):
@@ -112,7 +112,7 @@ class TestAnalyze:
         assert payload["event_summary"] == VALID["event_summary"]
         assert payload["framing"]["centre"] is None
         assert payload["article_ids"] == sorted(ids)
-        assert payload["model"] == "qwen3:4b"
+        assert payload["model"] == "llama3.2:3b"
 
     def test_invalid_json_twice_stores_nothing(self, conn):
         chat_calls = []
@@ -182,6 +182,35 @@ class TestAnalyze:
         assert stored_payload(conn, cluster_id) is None
 
 
+class TestThinkMode:
+    def test_qwen3_requests_disable_thinking(self, conn):
+        """qwen3's thinking mode burns the time budget: think=false required."""
+        bodies = []
+
+        def handler(request):
+            if request.url.path == "/api/tags":
+                return httpx.Response(200, json={"models": [{"name": "qwen3:4b"}]})
+            bodies.append(json.loads(request.content))
+            return chat_response(VALID)
+
+        seed_cluster(conn)
+        compute_ollama(conn, analyzer=analyzer_with(handler, model="qwen3:4b"))
+        assert bodies and all(b.get("think") is False for b in bodies)
+
+    def test_other_models_do_not_send_think(self, conn):
+        bodies = []
+
+        def handler(request):
+            if request.url.path == "/api/tags":
+                return httpx.Response(200, json=TAGS_OK)
+            bodies.append(json.loads(request.content))
+            return chat_response(VALID)
+
+        seed_cluster(conn)
+        compute_ollama(conn, analyzer=analyzer_with(handler))
+        assert bodies and all("think" not in b for b in bodies)
+
+
 class TestGuards:
     def test_megacluster_is_skipped(self, conn):
         """Clusters > 15 articles never reach the model (verbatim risk)."""
@@ -214,6 +243,27 @@ class TestGuards:
 
         cluster_id, ids = seed_cluster(conn)
         conn.execute("UPDATE articles SET title = ? WHERE id = ?", (long_title, ids[0]))
+        conn.commit()
+        stats = compute_ollama(conn, analyzer=analyzer_with(handler))
+
+        assert stats["invalid"] == 1
+        assert stored_payload(conn, cluster_id) is None
+
+    def test_verbatim_from_summary_rejected(self, conn):
+        """Copying a chapô is republishing press content — leak-grade bug."""
+        chapo = ("De nouvelles frappes russes ont fait au moins six morts et "
+                 "plusieurs dizaines de blessés ce samedi en Ukraine")
+        copying = {**VALID, "event_summary":
+                   "Des frappes russes ont fait au moins six morts et "
+                   "plusieurs dizaines de blessés ce samedi selon la presse."}
+
+        def handler(request):
+            if request.url.path == "/api/tags":
+                return httpx.Response(200, json=TAGS_OK)
+            return chat_response(copying)
+
+        cluster_id, ids = seed_cluster(conn)
+        conn.execute("UPDATE articles SET summary = ? WHERE id = ?", (chapo, ids[0]))
         conn.commit()
         stats = compute_ollama(conn, analyzer=analyzer_with(handler))
 

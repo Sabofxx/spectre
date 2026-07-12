@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import json
 import logging
+import re
 import shutil
 import sqlite3
 from datetime import datetime, timedelta, timezone
@@ -29,9 +30,24 @@ SITE_BASE_URL = "https://sabofxx.github.io/spectre/"  # absolute links for RSS
 
 FEED_WINDOW_HOURS = 48
 FEED_MIN_MEMBERS = 2
+# A single-outlet "event" is not coverage; it pollutes the feed tail.
+FEED_MIN_SOURCES = 2
 BLINDSPOT_WINDOW_DAYS = 7
 BLINDSPOT_MIN_MEMBERS = 3
 BLINDSPOT_THRESHOLD = 0.6
+# The blindspot LABEL needs real coverage to mean anything: three friendly
+# outlets picking up a wire story is small-cluster noise, not an angle mort.
+BLINDSPOT_LABEL_MIN_SOURCES = 5
+BLINDSPOT_LABEL_MIN_SIDE = 3
+
+# Recurring program items (daily news bulletins, weather segments) cluster
+# with themselves day after day; they are schedule containers, not events.
+# Filtered at render time only — the data stays in the DB.
+_RECURRING_TITLE = re.compile(
+    r"^(journal de \d{1,2}h|le journal de \d|météo du \d|flash info"
+    r"|on ne plaisante pas avec l'info)|prévisions météo à \d",
+    re.IGNORECASE,
+)
 
 _PARIS = ZoneInfo("Europe/Paris")
 
@@ -121,6 +137,18 @@ def build_cards(conn: sqlite3.Connection, since: str, min_members: int) -> list[
             for n, o, style in card["sources"]
         ]
         card["n_sources"] = len(card["sources"])
+        # Gate the blindspot label on actual coverage: enough total sources
+        # AND enough distinct outlets on the covering side.
+        if card["blindspot_for"]:
+            covering = (
+                card["counts"]["right"] if card["blindspot_score"] > 0
+                else card["counts"]["left"]
+            )
+            if (card["n_sources"] < BLINDSPOT_LABEL_MIN_SOURCES
+                    or covering < BLINDSPOT_LABEL_MIN_SIDE):
+                card["blindspot_for"] = None
+        if _RECURRING_TITLE.search(card["title"] or ""):
+            continue  # program containers, not events
         cards.append(card)
     cards.sort(key=lambda c: (-c["n_sources"], -c["n_members"]))
     return cards
@@ -176,6 +204,13 @@ def find_leaks(conn: sqlite3.Connection, site_dir: Path) -> list[str]:
 def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
     """Generate the whole static site into out_dir. Returns page counts."""
     env = _env()
+    # Re-clustering renumbers events: purge previously rendered detail and
+    # archive pages so a local `serve` never exposes stale orphans. (CI always
+    # starts from a clean checkout; this matters for local browsing.)
+    for stale_dir in (out_dir / "cluster", out_dir / "archives"):
+        if stale_dir.is_dir():
+            for old in stale_dir.glob("*.html"):
+                old.unlink()
     (out_dir / "cluster").mkdir(parents=True, exist_ok=True)
     shutil.copy(TEMPLATES_DIR / "style.css", out_dir / "style.css")
 
@@ -188,7 +223,10 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
 
     feed_since = (now - timedelta(hours=FEED_WINDOW_HOURS)).isoformat(timespec="seconds")
     week_since = (now - timedelta(days=BLINDSPOT_WINDOW_DAYS)).isoformat(timespec="seconds")
-    feed_cards = build_cards(conn, feed_since, FEED_MIN_MEMBERS)
+    feed_cards = [
+        c for c in build_cards(conn, feed_since, FEED_MIN_MEMBERS)
+        if c["n_sources"] >= FEED_MIN_SOURCES
+    ]
     week_cards = build_cards(conn, week_since, BLINDSPOT_MIN_MEMBERS)
     blind_cards = [c for c in week_cards if c["blindspot_for"]]
     blind_cards.sort(key=lambda c: (-abs(c["blindspot_score"]), -c["n_members"]))
