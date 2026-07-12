@@ -33,9 +33,13 @@
 <script>
 (function () {
   "use strict";
-  var POS = {"gauche": -2, "centre-gauche": -1, "centre": 0, "centre-droit": 1, "droite": 2};
-  var LABELS = ["nettement à gauche", "penche à gauche", "centre du spectre",
-                "penche à droite", "nettement à droite"];
+  var POS = {"extrême-gauche": -3, "gauche": -2, "centre-gauche": -1, "centre": 0,
+             "centre-droit": 1, "droite": 2, "extrême-droite": 3};
+  var ORDER = ["extrême-gauche", "gauche", "centre-gauche", "centre",
+               "centre-droit", "droite", "extrême-droite"];
+  var LABELS = ["extrême gauche", "nettement à gauche", "penche à gauche",
+                "centre du spectre", "penche à droite", "nettement à droite",
+                "extrême droite"];
   var sources = [], blindspots = [];
   var picker = document.getElementById("picker");
 
@@ -46,7 +50,7 @@
     sources = res[0]; blindspots = res[1];
     var groups = {};
     sources.forEach(function (s) { (groups[s.orientation] = groups[s.orientation] || []).push(s); });
-    ["gauche", "centre-gauche", "centre", "centre-droit", "droite"].forEach(function (o) {
+    ORDER.forEach(function (o) {
       if (!groups[o]) return;
       var card = document.createElement("div"); card.className = "method-card";
       var h = document.createElement("h3"); h.textContent = o; card.appendChild(h);
@@ -70,10 +74,10 @@
     if (!checked.length) { alert("Cochez au moins un média."); return; }
     var ids = checked.map(function (c) { return c.value; });
     var mean = checked.reduce(function (acc, c) { return acc + POS[c.dataset.orientation]; }, 0) / checked.length;
-    var label = LABELS[Math.max(0, Math.min(4, Math.round(mean) + 2))];
+    var label = LABELS[Math.max(0, Math.min(6, Math.round(mean) + 3))];
     document.getElementById("gauge-label").textContent =
       "Vos " + checked.length + " sources vous placent : " + label +
-      " (" + (mean >= 0 ? "+" : "") + mean.toFixed(1) + " sur une échelle de −2 à +2).";
+      " (" + (mean >= 0 ? "+" : "") + mean.toFixed(1) + " sur une échelle de −3 à +3).";
 
     var missed = blindspots.filter(function (b) {
       return b.blindspot_for && !b.sources.some(function (s) { return ids.indexOf(s) !== -1; });
