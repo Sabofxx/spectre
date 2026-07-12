@@ -45,7 +45,7 @@
 {% macro source_line(c, root="") %}
 <p class="source-line">
   {%- for s in c.sources[:6] -%}
-    <span class="src"><span class="dot dot-bloc-{{ 'left' if s.orientation in ('gauche','centre-gauche') else ('right' if s.orientation in ('centre-droit','droite') else 'centre') }}"></span>{{ s.name }}</span>
+    <span class="src"><span class="dot dot-bloc-{{ 'left' if s.orientation in ('gauche','centre-gauche') else ('right' if s.orientation in ('centre-droit','droite') else 'centre') }}"></span>{{ s.name }}{% if s.paywall and s.paywall != 'none' %}<span class="paywall" role="img" title="Accès payant{{ ' (partiel)' if s.paywall == 'partial' }}" aria-label="accès payant{{ ' partiel' if s.paywall == 'partial' }}">🔒</span>{% endif %}</span>
     {%- if not loop.last %}<span class="src-sep">·</span>{% endif -%}
   {%- endfor -%}
   {%- if c.sources | length > 6 %}<a class="src-more" href="{{ root }}cluster/{{ c.id }}.html">+{{ c.sources | length - 6 }}</a>{% endif -%}

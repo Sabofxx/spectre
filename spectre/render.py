@@ -155,12 +155,13 @@ def build_cards(conn: sqlite3.Connection, since: str, min_members: int) -> list[
         card["counts"] = _bloc_counts(rows)
         card["style_counts"] = _style_counts(rows)
         card["sources"] = sorted(
-            {(r["source_name"], r["orientation"], r["editorial_style"]) for r in rows},
+            {(r["source_name"], r["orientation"], r["editorial_style"], r["paywall"])
+             for r in rows},
             key=lambda t: (ORIENTATIONS.index(t[1]), EDITORIAL_STYLES.index(t[2]), t[0]),
         )
         card["sources"] = [
-            {"name": n, "orientation": o, "editorial_style": style}
-            for n, o, style in card["sources"]
+            {"name": n, "orientation": o, "editorial_style": style, "paywall": pw}
+            for n, o, style, pw in card["sources"]
         ]
         card["n_sources"] = len(card["sources"])
         # Gate the blindspot label on actual coverage: enough total sources

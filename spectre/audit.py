@@ -9,13 +9,14 @@ from urllib.parse import urlsplit
 
 import yaml
 
-from .models import EDITORIAL_STYLES, ORIENTATIONS
+from .models import EDITORIAL_STYLES, ORIENTATIONS, PAYWALL_LEVELS
 
 REQUIRED_SOURCE_FIELDS = (
     "id",
     "name",
     "orientation",
     "editorial_style",
+    "paywall",
     "owner",
     "rss",
     "active",
@@ -88,6 +89,9 @@ def audit_sources_config(config_path: str | Path) -> dict[str, Any]:
             errors.append(f"{label}: invalid editorial_style {style!r}")
         else:
             style_counts[style] += 1
+
+        if entry.get("paywall") not in PAYWALL_LEVELS:
+            errors.append(f"{label}: invalid paywall {entry.get('paywall')!r}")
 
         if not str(entry.get("name", "")).strip():
             errors.append(f"{label}: name is required")

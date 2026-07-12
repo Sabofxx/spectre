@@ -201,6 +201,8 @@ a.cat:hover { color: var(--fg); text-decoration: underline; }
 /* ------------------------------------------------------------------ */
 /* Detail page                                                         */
 /* ------------------------------------------------------------------ */
+.paywall { font-size: 0.7rem; margin-left: 0.25rem; opacity: 0.7; }
+
 .owner-note {
   font-size: 0.82rem; background: var(--surface-soft); border-radius: 6px;
   padding: 0.45rem 0.7rem; margin: 0.4rem 0;
