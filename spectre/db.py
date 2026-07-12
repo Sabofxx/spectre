@@ -58,7 +58,45 @@ def connect(db_path: str | Path) -> sqlite3.Connection:
     _migrate_sources_editorial_style(conn)
     _migrate_sources_paywall(conn)
     _migrate_clusters_suspect(conn)
+    _migrate_sources_orientation_check(conn)
     return conn
+
+
+def _migrate_sources_orientation_check(conn: sqlite3.Connection) -> None:
+    """Drop the legacy orientation CHECK (5-value) so the 7-position axis fits.
+
+    SQLite can't ALTER a CHECK, so the table is rebuilt once. Incoming FK from
+    articles.source_id is preserved (ids are unchanged); foreign_keys is toggled
+    off for the swap.
+    """
+    row = conn.execute(
+        "SELECT sql FROM sqlite_master WHERE type='table' AND name='sources'"
+    ).fetchone()
+    if row is None or "CHECK (orientation IN" not in row["sql"]:
+        return
+    logger.info("migrating sources table: dropping legacy orientation CHECK")
+    conn.execute("PRAGMA foreign_keys=OFF")
+    conn.executescript(
+        """
+        BEGIN;
+        CREATE TABLE sources_new (
+            id          TEXT PRIMARY KEY,
+            name        TEXT NOT NULL,
+            orientation TEXT NOT NULL,
+            editorial_style TEXT NOT NULL DEFAULT 'mixte' CHECK (editorial_style IN
+                            ('factuel', 'mixte', 'opinion')),
+            paywall     TEXT NOT NULL DEFAULT 'none' CHECK (paywall IN ('none', 'partial', 'full')),
+            owner       TEXT,
+            active      INTEGER NOT NULL DEFAULT 1
+        );
+        INSERT INTO sources_new
+            SELECT id, name, orientation, editorial_style, paywall, owner, active FROM sources;
+        DROP TABLE sources;
+        ALTER TABLE sources_new RENAME TO sources;
+        COMMIT;
+        """
+    )
+    conn.execute("PRAGMA foreign_keys=ON")
 
 
 def connect_readonly(db_path: str | Path) -> sqlite3.Connection:

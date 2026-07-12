@@ -278,6 +278,22 @@ def test_no_tracking_in_generated_site(conn, tmp_path):
         assert not re.search(r"gtag|googletagmanager|plausible\.io|matomo", html), page.name
 
 
+def test_extreme_orientations_map_to_blocs(conn, tmp_path):
+    """7-position axis: extreme ends join their bloc in the coverage bar."""
+    from spectre.render import _bloc_counts
+
+    conn.execute("UPDATE sources SET orientation = 'extrême-gauche' WHERE id = 'g1'")
+    conn.execute("UPDATE sources SET orientation = 'extrême-droite' WHERE id = 'd1'")
+    conn.commit()
+    rows = [
+        {"orientation": "extrême-gauche", "source_id": "g1"},
+        {"orientation": "extrême-droite", "source_id": "d1"},
+        {"orientation": "centre", "source_id": "c1"},
+    ]
+    counts = _bloc_counts(rows)
+    assert counts == {"left": 1, "centre": 1, "right": 1}
+
+
 def test_slugify():
     from spectre.render import slugify
 

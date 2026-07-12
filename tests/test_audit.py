@@ -8,13 +8,10 @@ def test_repository_sources_config_passes_audit():
 
     assert report["ok"], report["errors"]
     assert report["n_active"] > 0
-    assert set(report["orientation_counts"]) == {
-        "gauche",
-        "centre-gauche",
-        "centre",
-        "centre-droit",
-        "droite",
-    }
+    from spectre.models import ORIENTATIONS
+
+    assert set(report["orientation_counts"]) <= set(ORIENTATIONS)
+    assert "extrême-droite" in report["orientation_counts"]  # 7-position axis in use
     assert set(report["style_counts"]) == {"factuel", "mixte", "opinion"}
 
 
