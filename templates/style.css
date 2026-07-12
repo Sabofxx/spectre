@@ -22,6 +22,9 @@
   --factuel-soft: #dff1ec;
   --mixte-soft: #f1ead1;
   --opinion-soft: #eadff3;
+  /* Interactive accent: the blue the coverage bar uses for the right — the one
+     saturated colour on the page, spent only on things you can act on. */
+  --accent: #2e6fae;
   /* Display: New York is Apple's system serif — refined, high-contrast, on
      every Mac. Iowan/Palatino fall back gracefully elsewhere. */
   --serif: ui-serif, "New York", "Iowan Old Style", "Palatino", Georgia, serif;
@@ -34,12 +37,12 @@
    site keeps its zero-cookie, zero-storage pledge). */
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #171715;
+    --bg: #131311;
     --surface: #201f1c;
-    --surface-soft: #292824;
+    --surface-soft: #2b2a25;
     --fg: #ece9e2;
     --muted: #a7a49b;
-    --line: #38362f;
+    --line: #3a382f;
     --line-strong: #ece9e2;
     --left: #e26656;
     --centre: #9da3a8;
@@ -53,6 +56,7 @@
     --factuel-soft: #1f3c35;
     --mixte-soft: #3d351f;
     --opinion-soft: #352842;
+    --accent: #5a99d2;
     --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 4px 20px rgba(0, 0, 0, 0.35);
   }
 }
@@ -129,18 +133,18 @@ main:has(.archive-list) { max-width: 880px; }
 }
 .site-header nav a:hover { color: var(--fg); }
 .site-header nav a.is-active {
-  color: var(--fg); box-shadow: inset 0 -2px 0 var(--fg);
+  color: var(--fg); box-shadow: inset 0 -2px 0 var(--accent);
 }
 
 /* ------------------------------------------------------------------ */
 /* Page head / dateline                                                */
 /* ------------------------------------------------------------------ */
-.page-head { padding: 0.8rem 0 0.6rem; border-bottom: 1px solid var(--line); }
+.page-head { padding: 0.7rem 0 0.4rem; }
 .dateline {
-  margin: 0; font-size: 0.75rem; text-transform: uppercase;
+  margin: 0; font-size: 0.72rem; text-transform: uppercase;
   letter-spacing: 0.1em; color: var(--muted);
 }
-.lede { margin: 0.35rem 0 0; color: var(--muted); font-size: 0.92rem; max-width: 60ch; }
+.lede { margin: 0.25rem 0 0; color: var(--muted); font-size: 0.88rem; max-width: 62ch; }
 .eyebrow {
   font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.12em;
   color: var(--muted); margin: 1.4rem 0 0.2rem;
@@ -167,14 +171,17 @@ h1 { font-size: 1.7rem; margin: 0.4rem 0; }
 .cat-nav-bar .cat-nav::-webkit-scrollbar { display: none; }
 .cat-nav-bar .cat-link { flex: 0 0 auto; }
 .cat-link {
-  font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em;
-  text-decoration: none; color: var(--muted); padding: 0.15rem 0.55rem;
-  border: 1px solid var(--line); border-radius: 99px;
+  font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.07em;
+  text-decoration: none; color: var(--muted); padding: 0.12rem 0.5rem;
+  border: 1px solid transparent; border-radius: 99px;
 }
-.cat-link small { color: var(--muted); font-size: 0.68rem; }
-.cat-link:hover { color: var(--fg); border-color: var(--line-strong); }
-.cat-link.is-active { color: var(--bg); background: var(--fg); border-color: var(--fg); }
-.cat-link.is-active small { color: var(--bg); opacity: 0.7; }
+.cat-link small { opacity: 0.6; font-size: 0.9em; margin-left: 0.1rem; }
+.cat-link:hover { color: var(--fg); background: var(--surface-soft); }
+.cat-link.is-active {
+  color: var(--accent); font-weight: 600;
+  background: color-mix(in srgb, var(--accent) 14%, transparent);
+}
+.cat-link.is-active small { opacity: 0.8; }
 a.cat { text-decoration: none; }
 a.cat:hover { color: var(--fg); text-decoration: underline; }
 
@@ -189,19 +196,26 @@ a.cat:hover { color: var(--fg); text-decoration: underline; }
   gap: 1rem; align-items: start;
 }
 .event-card {
-  position: relative; display: flex; flex-direction: column; gap: 0.5rem;
+  position: relative; display: flex; flex-direction: column; gap: 0.55rem;
   padding: 1rem 1.15rem 1.05rem;
   background: var(--surface); border: 1px solid var(--line);
-  border-radius: 12px;
-  transition: border-color 0.18s var(--ease), box-shadow 0.18s var(--ease),
-              transform 0.18s var(--ease);
+  border-radius: 12px; box-shadow: var(--shadow);
+  transition: border-color 0.15s var(--ease), box-shadow 0.15s var(--ease),
+              transform 0.15s var(--ease);
+  animation: card-in 0.15s var(--ease) both;
 }
 .event-card:hover {
-  border-color: color-mix(in srgb, var(--line-strong) 30%, var(--line));
-  box-shadow: var(--shadow); transform: translateY(-2px);
+  border-color: color-mix(in srgb, var(--accent) 55%, var(--line));
+  box-shadow: 0 2px 4px rgba(0,0,0,0.06), 0 10px 28px rgba(0,0,0,0.12);
+  transform: translateY(-2px);
 }
-.event-card:first-child { grid-column: 1 / -1; }
-.event-card:first-child .event-title { font-size: 1.7rem; line-height: 1.14; }
+.event-card:hover .event-title a { color: var(--accent); }
+.event-card:hover .bar-spectrum { filter: saturate(1.15) brightness(1.06); }
+.event-card:first-child {
+  grid-column: 1 / -1; background: var(--surface-soft);
+}
+.event-card:first-child .event-title { font-size: 1.85rem; line-height: 1.12; }
+@keyframes card-in { from { opacity: 0; transform: translateY(6px); } }
 
 /* Whole-card click target; real links sit above it via z-index. */
 .ec-hit { position: absolute; inset: 0; z-index: 0; border-radius: inherit; }
@@ -244,13 +258,14 @@ a.cat:hover { color: var(--fg); text-decoration: underline; }
 .event-title a { text-decoration: none; }
 .event-title a:hover { text-decoration: underline; text-underline-offset: 3px; }
 
-/* The political spread is the headline datum: a tall bar + a legible legend. */
-.ec-spectrum { display: flex; align-items: center; gap: 0.7rem; margin-top: 0.1rem; }
+/* The political spread is the headline datum: a full-width tall bar with a
+   legible legend underneath. */
+.ec-spectrum { display: flex; flex-direction: column; gap: 0.3rem; margin-top: 0.1rem; }
 .ec-spectrum .bar-spectrum {
-  flex: 1 1 auto; height: 14px; border-radius: 7px; gap: 2px;
+  width: 100%; height: 16px; border-radius: 8px; gap: 2px;
 }
 .ec-spectrum-legend {
-  flex: 0 0 auto; font-size: 0.76rem; color: var(--muted); white-space: nowrap;
+  font-size: 0.76rem; color: var(--muted); white-space: nowrap;
 }
 .ec-spectrum-legend b { font-variant-numeric: tabular-nums; font-weight: 700; }
 .ec-c-left { color: var(--left); }
@@ -265,13 +280,13 @@ a.cat:hover { color: var(--fg); text-decoration: underline; }
 .facts-text { white-space: nowrap; }
 
 .source-line {
-  margin: 0.35rem 0 0; font-size: 0.78rem; color: var(--muted);
-  display: flex; gap: 0.45rem; flex-wrap: wrap; align-items: baseline;
+  margin: 0.15rem 0 0; font-size: 0.8rem; color: var(--muted);
+  display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center;
 }
 .source-line .src { white-space: nowrap; }
 .src-sep { color: var(--line-strong); opacity: 0.35; }
-.src-more { color: var(--muted); text-decoration: none; border-bottom: 1px dotted var(--muted); }
-.src-more:hover { color: var(--fg); }
+.src-more { color: var(--accent); text-decoration: none; font-weight: 600; }
+.src-more:hover { text-decoration: underline; text-underline-offset: 2px; }
 
 /* ------------------------------------------------------------------ */
 /* Bars & dots (palette validated — do not eyeball-edit)               */
@@ -293,8 +308,8 @@ a.cat:hover { color: var(--fg); text-decoration: underline; }
 .dot-factuel { background: var(--factuel); }
 .dot-mixte { background: var(--mixte); }
 .dot-opinion { background: var(--opinion); }
-.source-line .dot { width: 7px; height: 7px; margin-right: 3px; }
-.favicon-img { vertical-align: -2px; margin-right: 4px; border-radius: 3px; }
+.source-line .dot { width: 8px; height: 8px; margin-right: 4px; }
+.favicon-img { vertical-align: -4px; margin-right: 5px; border-radius: 4px; }
 
 /* Pure-CSS tooltip (keyboard focusable). */
 .tip {
@@ -499,7 +514,7 @@ h2 {
 /* ------------------------------------------------------------------ */
 .feed-controls {
   display: flex; align-items: center; justify-content: space-between;
-  gap: 1rem; flex-wrap: wrap; margin: 0.9rem 0 0.2rem;
+  gap: 1rem; flex-wrap: wrap; margin: 0.55rem 0 0.1rem;
 }
 .sort-control {
   display: inline-flex; gap: 2px; padding: 2px;
@@ -514,7 +529,8 @@ h2 {
 }
 .sort-control button:hover { color: var(--fg); }
 .sort-control button[aria-pressed="true"] {
-  background: var(--surface); color: var(--fg); box-shadow: var(--shadow);
+  background: var(--surface); color: var(--accent); font-weight: 600;
+  box-shadow: var(--shadow);
 }
 .feed-count { font-size: 0.76rem; color: var(--muted); }
 
