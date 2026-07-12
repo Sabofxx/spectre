@@ -22,6 +22,11 @@
     <div class="kpi"><strong>{{ c.style_counts.factuel }}/{{ c.style_counts.mixte }}/{{ c.style_counts.opinion }}</strong><span>styles</span></div>
   </div>
 </section>
+{% if c.suspect_merge %}
+<p class="owner-note">⚠ Regroupement possiblement imparfait : le vocabulaire des
+   deux bords est presque disjoint, ce qui suggère que ce « sujet » mélange
+   plusieurs événements voisins. Lisez les scores avec prudence.</p>
+{% endif %}
 {% if c.blindspot_for %}
 <p class="flag flag-{{ c.blindspot_for }}">Angle mort de la {{ c.blindspot_for }} :
    ce sujet est très majoritairement couvert par l'autre bord.</p>

@@ -135,3 +135,64 @@ def test_run_can_skip_categorization_for_pipeline(monkeypatch, conn):
     stats = analyze_mod.run(conn, categorize=False)
 
     assert stats == {"categorized": None, "blindspots": 2, "vocab": {"ok": 1}}
+
+
+class TestSuspectMerge:
+    def test_disjoint_vocabulary_flags_suspect(self):
+        """High divergence + zero lexical overlap = probable glued cluster."""
+        from spectre.analyze import build_corpus_stats, contrast_payload
+
+        left = [{"orientation": "gauche", "title": " ".join(f"motgauche{i}" for i in range(30)),
+                 "summary": " ".join(f"gauchemot{i}" for i in range(30))}]
+        right = [{"orientation": "droite", "title": " ".join(f"motdroite{i}" for i in range(30)),
+                  "summary": " ".join(f"droitemot{i}" for i in range(30))}]
+
+        from collections import Counter
+
+        from spectre.analyze import article_text, tokenize, with_bigrams
+
+        prior = Counter()
+        for m in left + right:
+            prior.update(with_bigrams(tokenize(article_text(m["title"], m["summary"]))))
+
+        import numpy as np
+
+        class FakeVectorizer:
+            def transform(self, texts):
+                class M:
+                    def mean(self, axis=0):
+                        # orthogonal vectors -> divergence 1.0
+                        return np.array([[1.0, 0.0]]) if "gauche" in texts[0] else np.array([[0.0, 1.0]])
+                return M()
+
+        payload = contrast_payload(left + right, prior, FakeVectorizer())
+        assert payload["status"] == "ok"
+        assert payload["lexical_overlap"] == 0.0
+        assert payload["suspect_merge"] is True
+
+    def test_shared_vocabulary_not_suspect(self):
+        from spectre.analyze import contrast_payload
+
+        shared = " ".join(f"commun{i}" for i in range(60))
+        left = [{"orientation": "gauche", "title": shared, "summary": shared}]
+        right = [{"orientation": "droite", "title": shared, "summary": shared}]
+
+        from collections import Counter
+
+        from spectre.analyze import article_text, tokenize, with_bigrams
+
+        prior = Counter()
+        for m in left + right:
+            prior.update(with_bigrams(tokenize(article_text(m["title"], m["summary"]))))
+
+        import numpy as np
+
+        class FakeVectorizer:
+            def transform(self, texts):
+                class M:
+                    def mean(self, axis=0):
+                        return np.array([[1.0, 0.0]])
+                return M()
+
+        payload = contrast_payload(left + right, prior, FakeVectorizer())
+        assert payload["suspect_merge"] is False

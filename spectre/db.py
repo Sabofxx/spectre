@@ -57,6 +57,7 @@ def connect(db_path: str | Path) -> sqlite3.Connection:
     _migrate_clusters_category(conn)
     _migrate_sources_editorial_style(conn)
     _migrate_sources_paywall(conn)
+    _migrate_clusters_suspect(conn)
     return conn
 
 
@@ -87,6 +88,7 @@ def _schema_current_for_reads(conn: sqlite3.Connection) -> bool:
     return (
         _table_has_column(conn, "sources", "editorial_style")
         and _table_has_column(conn, "sources", "paywall")
+        and _table_has_column(conn, "clusters", "suspect_merge")
         and _table_has_column(conn, "clusters", "category")
     )
 
@@ -124,6 +126,14 @@ def _migrate_sources_paywall(conn: sqlite3.Connection) -> None:
             CHECK (paywall IN ('none', 'partial', 'full'))
             """
         )
+        conn.commit()
+
+
+def _migrate_clusters_suspect(conn: sqlite3.Connection) -> None:
+    """One-shot migration: add clusters.suspect_merge to existing databases."""
+    if not _table_has_column(conn, "clusters", "suspect_merge"):
+        logger.info("migrating clusters table: adding suspect_merge column")
+        conn.execute("ALTER TABLE clusters ADD COLUMN suspect_merge INTEGER NOT NULL DEFAULT 0")
         conn.commit()
 
 
@@ -558,6 +568,16 @@ def set_cluster_blindspot(conn: sqlite3.Connection, cluster_id: int, score: floa
     conn.execute("UPDATE clusters SET blindspot_score = ? WHERE id = ?", (score, cluster_id))
 
 
+def set_cluster_suspect(conn: sqlite3.Connection, cluster_id: int, suspect: bool) -> None:
+    conn.execute("UPDATE clusters SET suspect_merge = ? WHERE id = ?",
+                 (int(suspect), cluster_id))
+
+
+def cluster_is_suspect(conn: sqlite3.Connection, cluster_id: int) -> bool:
+    row = conn.execute("SELECT suspect_merge FROM clusters WHERE id = ?", (cluster_id,)).fetchone()
+    return bool(row and row["suspect_merge"])
+
+
 def set_cluster_divergence(conn: sqlite3.Connection, cluster_id: int, score: float) -> None:
     conn.execute("UPDATE clusters SET divergence_score = ? WHERE id = ?", (score, cluster_id))
 
@@ -594,7 +614,7 @@ def cluster_source_rows(
     """One row per (cluster, source) for clusters recently updated."""
     return conn.execute(
         """
-        SELECT DISTINCT c.id AS cluster_id, c.title, c.n_members, c.updated_at, c.created_at,
+        SELECT DISTINCT c.id AS cluster_id, c.title, c.n_members, c.updated_at, c.created_at, c.suspect_merge,
                c.divergence_score, c.blindspot_score, c.category,
                s.id AS source_id, s.name AS source_name, s.orientation,
                s.editorial_style, s.paywall
@@ -677,7 +697,8 @@ def public_stats(conn: sqlite3.Connection) -> dict:
         """
         SELECT COUNT(*) AS n_clusters,
                AVG(divergence_score) AS avg_divergence,
-               SUM(CASE WHEN n_members >= 2 THEN 1 ELSE 0 END) AS multi_article
+               SUM(CASE WHEN n_members >= 2 THEN 1 ELSE 0 END) AS multi_article,
+               SUM(suspect_merge) AS n_suspect
         FROM clusters
         """
     ).fetchone()
@@ -688,6 +709,7 @@ def public_stats(conn: sqlite3.Connection) -> dict:
         "n_clusters": agg["n_clusters"],
         "avg_divergence": agg["avg_divergence"],
         "multi_article": agg["multi_article"],
+        "n_suspect": agg["n_suspect"] or 0,
     }
 
 
