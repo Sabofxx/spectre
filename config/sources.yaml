@@ -410,3 +410,133 @@ sources:
     rss:
       - https://www.contrepoints.org/feed
     active: true
+
+  # ---------------- extension 2026-07-12 (flux vérifiés par fetch réel) ----------------
+  - id: mondediplo
+    name: Le Monde diplomatique
+    orientation: gauche
+    editorial_style: opinion
+    paywall: partial
+    owner: "Le Monde diplomatique SA (groupe Le Monde + associations de lecteurs)"
+    rss:
+      - https://www.monde-diplomatique.fr/recents.xml
+    active: true
+
+  - id: basta
+    name: "Basta!"
+    orientation: gauche
+    editorial_style: mixte
+    paywall: none
+    owner: "Association Alter-médias (indépendant)"
+    rss:
+      - https://basta.media/spip.php?page=backend
+    active: true
+
+  - id: frustration
+    name: Frustration
+    orientation: gauche
+    editorial_style: opinion
+    paywall: none
+    owner: "Indépendant (Frustration SAS, financement participatif)"
+    rss:
+      - https://www.frustrationmagazine.fr/feed/
+    active: true
+
+  - id: telerama
+    name: Télérama
+    orientation: centre-gauche
+    editorial_style: mixte
+    paywall: partial
+    owner: "Groupe Le Monde (Niel)"
+    rss:
+      - https://www.telerama.fr/rss/une.xml
+    active: true
+
+  - id: konbini
+    name: Konbini
+    orientation: centre-gauche
+    editorial_style: mixte
+    classification_note: >-
+      Média jeune orienté culture/société ; centre-gauche reflète la tonalité
+      éditoriale perçue, sans engagement partisan déclaré.
+    paywall: none
+    owner: "Konbini SAS (indépendant)"
+    rss:
+      - https://www.konbini.com/fr/feed/
+    active: true
+
+  - id: euronews
+    name: Euronews
+    orientation: centre
+    editorial_style: factuel
+    paywall: none
+    owner: "Alpac Capital (portugais)"
+    rss:
+      - https://fr.euronews.com/rss
+    active: true
+
+  - id: theconversation
+    name: The Conversation France
+    orientation: centre
+    editorial_style: factuel
+    classification_note: >-
+      Articles rédigés par des universitaires ; centre/factuel au sens de
+      l'absence de ligne partisane, sans préjuger des positions individuelles.
+    paywall: none
+    owner: "The Conversation France (association à but non lucratif)"
+    rss:
+      - https://theconversation.com/fr/articles.atom
+    active: true
+
+  - id: courrierinter
+    name: Courrier International
+    orientation: centre
+    editorial_style: factuel
+    paywall: partial
+    owner: "Groupe Le Monde (Niel)"
+    rss:
+      - https://www.courrierinternational.com/feed/all/rss.xml
+    active: true
+
+  - id: latribune
+    name: La Tribune
+    orientation: centre-droit
+    editorial_style: factuel
+    paywall: partial
+    owner: "Groupe La Tribune (Jean-Christophe Tortora ; CMA CGM/Saadé actionnaire)"
+    rss:
+      - https://www.latribune.fr/rss/rubriques/actualite.html
+    active: true
+
+  - id: challenges
+    name: Challenges
+    orientation: centre-droit
+    editorial_style: mixte
+    paywall: partial
+    owner: "Groupe Perdriel (Claude Perdriel)"
+    rss:
+      - https://www.challenges.fr/rss.xml
+    active: true
+
+  - id: bvoltaire
+    name: Boulevard Voltaire
+    orientation: droite
+    editorial_style: opinion
+    classification_note: >-
+      Média d'opinion classé à droite/extrême droite (cofondé par Robert
+      Ménard) ; droite/opinion sur l'axe unique du référentiel.
+    paywall: none
+    owner: "Indépendant (Boulevard Voltaire, Robert Ménard cofondateur)"
+    rss:
+      - https://www.bvoltaire.fr/feed/
+    active: true
+
+  - id: sudradio
+    name: Sud Radio
+    orientation: droite
+    editorial_style: mixte
+    paywall: none
+    owner: "Groupe 1981 (Fiducial, Christian Latouche)"
+    rss:
+      - https://www.sudradio.fr/feed/
+    active: true
