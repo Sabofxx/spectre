@@ -41,6 +41,7 @@ CREATE TABLE IF NOT EXISTS clusters (
     blindspot_score  REAL,             -- -1 (left-only) .. +1 (right-only); NULL = not computed
     divergence_score REAL,             -- 0 (same vocabulary) .. 1 (disjoint framing)
     category         TEXT,             -- URL-slug majority vote; NULL = uncategorized
+    suspect_merge    INTEGER NOT NULL DEFAULT 0, -- probable thematic merge (flagged, not hidden)
     created_at       TEXT NOT NULL,
     updated_at       TEXT NOT NULL
 );
