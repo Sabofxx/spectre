@@ -201,6 +201,8 @@ a.cat:hover { color: var(--fg); text-decoration: underline; }
 /* ------------------------------------------------------------------ */
 /* Detail page                                                         */
 /* ------------------------------------------------------------------ */
+.first-publisher { font-size: 0.82rem; color: var(--muted); margin: 0.4rem 0 0; }
+
 .crumbs { font-size: 0.8rem; margin: 1rem 0 0; }
 .crumbs a { color: var(--muted); text-decoration: none; }
 .detail-head { padding-bottom: 0.9rem; border-bottom: 1px solid var(--line); }

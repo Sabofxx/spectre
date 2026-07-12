@@ -379,9 +379,15 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
         by_orientation = [
             (o, [m for m in members if m["orientation"] == o]) for o in ORIENTATIONS
         ]
+        # First to publish: only articles carrying a REAL publication date
+        # qualify (Le Parisien's feed has none — fetched_at would wrongly
+        # crown it first).
+        dated = [m for m in members if m["published_at"]]
+        first_publisher = min(dated, key=lambda m: m["published_at"]) if dated else None
         ctx = {
             **card,
             "by_orientation": [(o, ms) for o, ms in by_orientation if ms],
+            "first_publisher": first_publisher,
             "vocab": _vocab_view(analyses["vocab_contrast"]) if "vocab_contrast" in analyses else None,
             "ollama": analyses.get("ollama"),
         }
