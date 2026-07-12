@@ -20,6 +20,7 @@ from zoneinfo import ZoneInfo
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from . import db
+from . import ogimage as og_image
 from .models import EDITORIAL_STYLES, LEFT_BLOC, ORIENTATIONS, RIGHT_BLOC
 
 logger = logging.getLogger(__name__)
@@ -240,6 +241,10 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
         if stale_dir.is_dir():
             for old in stale_dir.glob("*.html"):
                 old.unlink()
+    og_dir = out_dir / "og"
+    if og_dir.is_dir():
+        for old in og_dir.glob("*.png"):
+            old.unlink()
     (out_dir / "cluster").mkdir(parents=True, exist_ok=True)
     shutil.copy(TEMPLATES_DIR / "style.css", out_dir / "style.css")
     favicon_ids: set[str] = set()
@@ -432,11 +437,13 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
             "vocab": _vocab_view(analyses["vocab_contrast"]) if "vocab_contrast" in analyses else None,
             "ollama": analyses.get("ollama"),
         }
+        og_image.generate_card(card, og_dir / f"{card['id']}.png")
         write_page(
             f"cluster/{card['id']}.html", "cluster.html", root="../",
             c=ctx, og_type="article", active_page="index",
             og_title=f"{card['title']} — couverture comparée",
             og_description=_og_coverage(card["counts"], card["n_members"]),
+            og_image=f"{SITE_BASE_URL}og/{card['id']}.png",
         )
 
     # SEO artifacts: sitemap from every written page, robots.txt, favicon.
