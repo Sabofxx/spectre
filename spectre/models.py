@@ -6,6 +6,7 @@ from dataclasses import dataclass, field
 
 ORIENTATIONS = ("gauche", "centre-gauche", "centre", "centre-droit", "droite")
 EDITORIAL_STYLES = ("factuel", "mixte", "opinion")
+PAYWALL_LEVELS = ("none", "partial", "full")
 
 # Orientation groupings used by blindspot / vocabulary contrast analyses.
 LEFT_BLOC = ("gauche", "centre-gauche")
@@ -21,6 +22,7 @@ class Source:
     orientation: str
     owner: str
     editorial_style: str = "mixte"
+    paywall: str = "none"  # none | partial | full
     rss: list[str] = field(default_factory=list)
     active: bool = True
 
@@ -31,6 +33,8 @@ class Source:
             raise ValueError(
                 f"unknown editorial_style {self.editorial_style!r} for source {self.id!r}"
             )
+        if self.paywall not in PAYWALL_LEVELS:
+            raise ValueError(f"unknown paywall {self.paywall!r} for source {self.id!r}")
 
 
 @dataclass(slots=True)

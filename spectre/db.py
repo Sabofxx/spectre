@@ -56,6 +56,7 @@ def connect(db_path: str | Path) -> sqlite3.Connection:
     _migrate_analyses_kind(conn)
     _migrate_clusters_category(conn)
     _migrate_sources_editorial_style(conn)
+    _migrate_sources_paywall(conn)
     return conn
 
 
@@ -85,6 +86,7 @@ def _schema_current_for_reads(conn: sqlite3.Connection) -> bool:
     """Whether read-only render/inspect queries can run without migrations."""
     return (
         _table_has_column(conn, "sources", "editorial_style")
+        and _table_has_column(conn, "sources", "paywall")
         and _table_has_column(conn, "clusters", "category")
     )
 
@@ -107,6 +109,19 @@ def _migrate_sources_editorial_style(conn: sqlite3.Connection) -> None:
             """
             ALTER TABLE sources ADD COLUMN editorial_style TEXT NOT NULL DEFAULT 'mixte'
             CHECK (editorial_style IN ('factuel', 'mixte', 'opinion'))
+            """
+        )
+        conn.commit()
+
+
+def _migrate_sources_paywall(conn: sqlite3.Connection) -> None:
+    """One-shot migration: add sources.paywall to existing databases."""
+    if not _table_has_column(conn, "sources", "paywall"):
+        logger.info("migrating sources table: adding paywall column")
+        conn.execute(
+            """
+            ALTER TABLE sources ADD COLUMN paywall TEXT NOT NULL DEFAULT 'none'
+            CHECK (paywall IN ('none', 'partial', 'full'))
             """
         )
         conn.commit()
@@ -147,12 +162,13 @@ def sync_sources(conn: sqlite3.Connection, sources: list[Source]) -> None:
     """Mirror config/sources.yaml into the sources table."""
     conn.executemany(
         """
-        INSERT INTO sources (id, name, orientation, editorial_style, owner, active)
-        VALUES (:id, :name, :orientation, :editorial_style, :owner, :active)
+        INSERT INTO sources (id, name, orientation, editorial_style, paywall, owner, active)
+        VALUES (:id, :name, :orientation, :editorial_style, :paywall, :owner, :active)
         ON CONFLICT(id) DO UPDATE SET
             name = excluded.name,
             orientation = excluded.orientation,
             editorial_style = excluded.editorial_style,
+            paywall = excluded.paywall,
             owner = excluded.owner,
             active = excluded.active
         """,
@@ -162,6 +178,7 @@ def sync_sources(conn: sqlite3.Connection, sources: list[Source]) -> None:
                 "name": s.name,
                 "orientation": s.orientation,
                 "editorial_style": s.editorial_style,
+                "paywall": s.paywall,
                 "owner": s.owner,
                 "active": int(s.active),
             }
@@ -442,7 +459,7 @@ def cluster_members_detail(conn: sqlite3.Connection, cluster_id: int) -> list[sq
     return conn.execute(
         """
         SELECT a.title, a.url, a.published_at, m.similarity,
-               s.id AS source_id, s.name AS source_name, s.orientation, s.owner, s.editorial_style
+               s.id AS source_id, s.name AS source_name, s.orientation, s.owner, s.editorial_style, s.paywall
         FROM cluster_members m
         JOIN articles a ON a.id = m.article_id
         JOIN sources s ON s.id = a.source_id
@@ -580,7 +597,7 @@ def cluster_source_rows(
         SELECT DISTINCT c.id AS cluster_id, c.title, c.n_members, c.updated_at,
                c.divergence_score, c.blindspot_score, c.category,
                s.id AS source_id, s.name AS source_name, s.orientation,
-               s.editorial_style
+               s.editorial_style, s.paywall
         FROM clusters c
         JOIN cluster_members m ON m.cluster_id = c.id
         JOIN articles a ON a.id = m.article_id

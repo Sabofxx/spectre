@@ -56,6 +56,7 @@ sources:
     name: Test
     orientation: centre
     editorial_style: factuel
+    paywall: none
     owner: Owner
     rss: []
     active: true
@@ -82,6 +83,7 @@ sources:
     name: One
     orientation: centre
     editorial_style: factuel
+    paywall: none
     owner: Owner
     rss: ["https://example.org/feed.xml"]
     active: true
@@ -89,6 +91,7 @@ sources:
     name: Two
     orientation: centre
     editorial_style: factuel
+    paywall: none
     owner: Owner
     rss: ["https://example.org/feed.xml", "not-a-url"]
     active: true
