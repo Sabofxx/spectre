@@ -3,7 +3,7 @@
 {% block title %}Spectre — le fil{% endblock %}
 {% block content %}
 <section class="page-head">
-  <p class="dateline">Dernières 48 heures
+  <p class="dateline">Dernières 72 heures
     · {{ overview.events }} événements
     · {{ overview.sources }} sources
     · {{ overview.articles }} articles</p>
@@ -15,7 +15,7 @@
 {% for c in clusters %}
 {{ macros.event_card(c) }}
 {% else %}
-<p class="empty-state">Aucun cluster multi-articles sur les dernières 48 h.</p>
+<p class="empty-state">Aucun cluster multi-articles sur les dernières 72 h.</p>
 {% endfor %}
 </section>
 {% endblock %}
