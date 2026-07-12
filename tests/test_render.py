@@ -73,6 +73,29 @@ def test_find_leaks_catches_a_leak(conn, tmp_path):
     assert SECRET in leaks
 
 
+def test_first_publisher_ignores_null_dates(conn, tmp_path):
+    """Le Parisien has no published_at: it must never be crowned first."""
+    arts = []
+    for i, (src, pub) in enumerate([("d1", "2026-07-10T08:00:00+00:00"),
+                                    ("g1", "2026-07-10T06:00:00+00:00"),
+                                    ("c1", None)]):
+        art = make_article(source_id=src, title=f"T{i}", hours_ago=2)
+        dbmod.insert_article(conn, art)
+        row_id = conn.execute("SELECT id FROM articles WHERE url = ?", (art.url,)).fetchone()[0]
+        conn.execute("UPDATE articles SET published_at = ? WHERE id = ?", (pub, row_id))
+        arts.append(row_id)
+    cid = dbmod.create_cluster(conn, b"\x00" * 8, "T0", arts[0])
+    for aid in arts[1:]:
+        dbmod.add_cluster_member(conn, cid, aid, 0.9)
+    dbmod.update_cluster(conn, cid, b"\x00" * 8, "T0", 3)
+    conn.commit()
+
+    build_site(conn, tmp_path)
+    html = (tmp_path / "cluster" / f"{cid}.html").read_text()
+    assert "Premier à publier" in html
+    assert "<strong>Gauche 1</strong>" in html  # 06:00 wins; NULL (c1) excluded
+
+
 def test_slugify():
     from spectre.render import slugify
 

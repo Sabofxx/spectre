@@ -8,6 +8,12 @@
     <p class="eyebrow">{% if c.category %}{{ c.category }}{% else %}événement{% endif %}</p>
     <h1>{{ c.title }}</h1>
     <p class="lede">Vue détaillée de la couverture : sources, orientation du média, dominante éditoriale du flux et contraste de vocabulaire.</p>
+    {% if c.first_publisher %}
+    <p class="first-publisher">Premier à publier :
+       <strong>{{ c.first_publisher.source_name }}</strong>
+       ({{ c.first_publisher.published_at | fmt_dt("%a %d/%m, %H:%M") }})
+       — articles classés par heure de publication.</p>
+    {% endif %}
   </div>
   <div class="kpi-row" aria-label="Résumé de l'événement">
     <div class="kpi"><strong>{{ c.n_members }}</strong><span>articles</span></div>

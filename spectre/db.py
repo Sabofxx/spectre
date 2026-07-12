@@ -447,7 +447,7 @@ def cluster_members_detail(conn: sqlite3.Connection, cluster_id: int) -> list[sq
         JOIN articles a ON a.id = m.article_id
         JOIN sources s ON s.id = a.source_id
         WHERE m.cluster_id = ?
-        ORDER BY m.similarity DESC
+        ORDER BY COALESCE(a.published_at, a.fetched_at)
         """,
         (cluster_id,),
     ).fetchall()
