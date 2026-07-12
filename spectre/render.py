@@ -473,6 +473,31 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
             og_image=f"{SITE_BASE_URL}og/{card['id']}.png",
         )
 
+    # Client-side search index: ONLY clusters that still have a live page
+    # (titles + our metrics — never press content beyond the title).
+    search_rows = [
+        {
+            "id": c["id"],
+            "t": c["title"],
+            "d": c["updated_at"],
+            "cat": c["category"],
+            "s": c["n_sources"],
+            "m": c["n_members"],
+        }
+        for c in detail_cards.values()
+    ]
+    (out_dir / "data").mkdir(exist_ok=True)
+    (out_dir / "data" / "index.json").write_text(
+        json.dumps(search_rows, ensure_ascii=False), encoding="utf-8"
+    )
+    write_page(
+        "recherche.html", "recherche.html", root="",
+        active_page="recherche",
+        og_title="Recherche — Spectre",
+        og_description="Recherche dans les événements couverts, côté navigateur"
+                       " uniquement — aucune requête ne quitte votre machine.",
+    )
+
     # SEO artifacts: sitemap from every written page, robots.txt, favicon.
     sitemap_entries = "\n".join(
         f"  <url><loc>{SITE_BASE_URL}{rel}</loc></url>" for rel in sorted(written_pages)

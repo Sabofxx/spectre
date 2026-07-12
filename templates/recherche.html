@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block title %}Recherche — Spectre{% endblock %}
+{% block content %}
+<section class="page-head">
+  <p class="dateline">Recherche locale</p>
+  <h1>Recherche</h1>
+  <p class="lede">Filtre les événements actuellement en ligne. Tout se passe dans
+     votre navigateur : aucune requête, aucun serveur, rien ne quitte votre machine.</p>
+</section>
+<p><input type="search" id="q" placeholder="canicule, retraites, présidentielle…"
+       aria-label="Rechercher un événement" autocomplete="off"></p>
+<ul class="articles" id="results" aria-live="polite"></ul>
+<p class="empty-state" id="hint">Tapez au moins deux caractères.</p>
+<script>
+(function () {
+  "use strict";
+  var rows = [];
+  var input = document.getElementById("q");
+  var list = document.getElementById("results");
+  var hint = document.getElementById("hint");
+  function norm(s) {
+    return s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+  }
+  fetch("data/index.json").then(function (r) { return r.json(); }).then(function (data) {
+    rows = data.map(function (r) { r.n = norm(r.t); return r; });
+  });
+  input.addEventListener("input", function () {
+    var q = norm(input.value.trim());
+    list.textContent = "";
+    if (q.length < 2) { hint.textContent = "Tapez au moins deux caractères."; return; }
+    var hits = rows.filter(function (r) { return r.n.indexOf(q) !== -1; }).slice(0, 50);
+    hint.textContent = hits.length ? "" : "Aucun événement en ligne ne correspond.";
+    hits.forEach(function (r) {
+      var li = document.createElement("li");
+      var a = document.createElement("a");
+      a.href = "cluster/" + r.id + ".html";
+      a.textContent = r.t;
+      var meta = document.createElement("span");
+      meta.className = "meta";
+      meta.textContent = " — " + r.m + " art., " + r.s + " sources" + (r.cat ? " · " + r.cat : "");
+      li.appendChild(a); li.appendChild(meta);
+      list.appendChild(li);
+    });
+  });
+})();
+</script>
+{% endblock %}
