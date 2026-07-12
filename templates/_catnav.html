@@ -1,0 +1,10 @@
+{% if cat_nav %}
+<nav class="cat-nav" aria-label="Rubriques">
+  <a class="cat-link {{ 'is-active' if active_slug is not defined or not active_slug }}"
+     href="{{ root }}index.html">tout</a>
+  {% for cat in cat_nav %}
+  <a class="cat-link {{ 'is-active' if active_slug is defined and active_slug == cat.slug }}"
+     href="{{ root }}categorie/{{ cat.slug }}.html">{{ cat.name }} <small>{{ cat.count }}</small></a>
+  {% endfor %}
+</nav>
+{% endif %}
