@@ -154,6 +154,7 @@ def build_cards(conn: sqlite3.Connection, since: str, min_members: int) -> list[
                 "category_slug": slugify(row["category"]) if row["category"] else None,
                 "updated_at": row["updated_at"],
                 "created_at": row["created_at"],
+                "latest_published": row["latest_published"],
                 "suspect_merge": bool(row["suspect_merge"]),
                 "source_rows": [],
             },
@@ -336,6 +337,11 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
         c for c in build_cards(conn, feed_since, FEED_MIN_MEMBERS)
         if c["n_sources"] >= FEED_MIN_SOURCES
     ]
+    # Reading order on the site is chronological: newest coverage first, oldest
+    # last, so scrolling walks back in time. Keyed on the most recent article's
+    # publication date (not the cluster's updated_at, which only reflects the
+    # last re-clustering pass and buckets every event into a handful of runs).
+    feed_cards.sort(key=lambda c: c["latest_published"] or "", reverse=True)
     week_cards = build_cards(conn, week_since, BLINDSPOT_MIN_MEMBERS)
     blind_cards = [c for c in week_cards if c["blindspot_for"]]
     blind_cards.sort(key=lambda c: (-abs(c["blindspot_score"]), -c["n_members"]))
@@ -407,7 +413,7 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
     # are OUR generated stats (+ divergent terms) — never press content.
     feed_items = sorted(
         (c for c in feed_cards if c["n_members"] >= 3 and not c["suspect_merge"]),
-        key=lambda c: c["updated_at"] or "", reverse=True,
+        key=lambda c: c["latest_published"] or "", reverse=True,
     )[:30]
     for item in feed_items:
         payloads = db.get_analyses(conn, item["id"])

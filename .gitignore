@@ -15,3 +15,8 @@ site/
 # SQLite sidecars (the compacted spectre.db itself IS committed).
 spectre.db-wal
 spectre.db-shm
+
+# Claude / assistant working files — never committed.
+pour_claude.md
+CLAUDE.md
+.claude/

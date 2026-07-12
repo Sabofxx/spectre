@@ -67,8 +67,9 @@
     <span class="facts-text">{{ c.style_counts.factuel }} factuel · {{ c.style_counts.mixte }} mixte · {{ c.style_counts.opinion }} opinion</span>
     <span class="facts-sep"></span>
     <span class="facts-text">{{ c.n_members }} art. · {{ c.n_sources }} sources</span>
-    {% if c.updated_at %}<span class="facts-sep"></span>
-    <time class="facts-text" datetime="{{ c.updated_at }}">{{ c.updated_at | fmt_dt("%a %d/%m, %H:%M") }}</time>{% endif %}
+    {% set card_date = c.latest_published or c.updated_at %}
+    {% if card_date %}<span class="facts-sep"></span>
+    <time class="facts-text" datetime="{{ card_date }}">{{ card_date | fmt_dt("%a %d/%m, %H:%M") }}</time>{% endif %}
   </div>
   {{ source_line(c, root) }}
 </article>
