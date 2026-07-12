@@ -40,13 +40,19 @@
 
 <section class="page-section">
 <h2>Qui en parle</h2>
+{% for owner, names in c.shared_owners %}
+<p class="owner-note">⚠ {{ names | length }} des sources de ce sujet appartiennent
+   au même groupe : <strong>{{ owner }}</strong> ({{ names | join(", ") }}) —
+   <a href="{{ root }}a-propos.html#sources">référentiel complet</a>.</p>
+{% endfor %}
 {% for orientation, articles in c.by_orientation %}
 <section class="orient-group">
   <h3 class="b-{{ orientation }}">{{ orientation }}</h3>
   <ul class="articles">
     {% for a in articles %}
     <li>
-      <span class="source-pill source-pill-small b-{{ orientation }}">
+      <span class="source-pill source-pill-small b-{{ orientation }}"
+            {% if a.owner and a.owner != '-' %}title="Propriétaire : {{ a.owner }}"{% endif %}>
         <span class="source-name">{{ a.source_name }}</span>
         <span class="style-chip style-{{ a.editorial_style }}">{{ a.editorial_style }}</span>
       </span>

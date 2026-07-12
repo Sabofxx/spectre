@@ -406,10 +406,22 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
         # crown it first).
         dated = [m for m in members if m["published_at"]]
         first_publisher = min(dated, key=lambda m: m["published_at"]) if dated else None
+        # Same-owner concentration: >= 2 distinct outlets of this cluster
+        # sharing one owner is worth surfacing (placeholder owners excluded).
+        owner_groups: dict[str, set[str]] = {}
+        for m in members:
+            if m["owner"] and m["owner"] != "-":
+                owner_groups.setdefault(m["owner"], set()).add(m["source_name"])
+        shared_owners = sorted(
+            ((owner, sorted(names)) for owner, names in owner_groups.items()
+             if len(names) >= 2),
+            key=lambda t: -len(t[1]),
+        )
         ctx = {
             **card,
             "by_orientation": [(o, ms) for o, ms in by_orientation if ms],
             "first_publisher": first_publisher,
+            "shared_owners": shared_owners,
             "vocab": _vocab_view(analyses["vocab_contrast"]) if "vocab_contrast" in analyses else None,
             "ollama": analyses.get("ollama"),
         }
