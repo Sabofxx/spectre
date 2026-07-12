@@ -30,7 +30,10 @@ logger = logging.getLogger(__name__)
 
 OLLAMA_BASE_URL = "http://localhost:11434"
 OLLAMA_MODEL_ENV = "SPECTRE_OLLAMA_MODEL"
-OLLAMA_DEFAULT_MODEL = "qwen3:4b"
+# Measured 2026-07-12 on the production machine (M1, 5.3 GiB VRAM):
+# qwen3:4b times out even with think=false (~107 s for a trivial prompt);
+# llama3.2:3b answers real clusters in 20-45 s. Default = what actually runs.
+OLLAMA_DEFAULT_MODEL = "llama3.2:3b"
 DETECT_TIMEOUT = 2.0
 CHAT_TIMEOUT = 120.0  # local CPU inference: be generous
 MAX_SUMMARY_CHARS = 400  # defensive cap on prompt size per article
@@ -163,7 +166,11 @@ class OllamaAnalyzer(FramingAnalyzer):
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": self._user_prompt(cluster)},
         ]
-        titles = [m["title"] for m in cluster.members]
+        # Verbatim guard runs against titles AND summaries: the model copying
+        # a chapô into its "analysis" would republish press content (caught
+        # in production by check-leaks on 2026-07-12 — twice).
+        press_texts = [m["title"] for m in cluster.members]
+        press_texts += [m["summary"] for m in cluster.members if m["summary"]]
         for attempt in (1, 2):
             try:
                 content = self._chat(messages)
@@ -171,10 +178,10 @@ class OllamaAnalyzer(FramingAnalyzer):
                 logger.warning("cluster %d: ollama call failed: %s", cluster.cluster_id, exc)
                 return None
             payload, error = self._parse_and_validate(content)
-            if payload is not None and self._verbatim_hit(payload, titles):
+            if payload is not None and self._verbatim_hit(payload, press_texts):
                 payload, error = None, (
                     f"la réponse recopie ≥ {VERBATIM_NGRAM} mots consécutifs d'un "
-                    "titre — décris le traitement médiatique, ne recopie pas les articles"
+                    "article — décris le traitement médiatique, ne recopie pas les articles"
                 )
             if payload is not None:
                 return payload
@@ -190,17 +197,18 @@ class OllamaAnalyzer(FramingAnalyzer):
         return None
 
     def _chat(self, messages: list[dict]) -> str:
-        resp = self._client.post(
-            "/api/chat",
-            json={
-                "model": self.model,
-                "messages": messages,
-                "format": "json",
-                "stream": False,
-                "options": {"temperature": 0.2},
-            },
-            timeout=CHAT_TIMEOUT,
-        )
+        payload: dict = {
+            "model": self.model,
+            "messages": messages,
+            "format": "json",
+            "stream": False,
+            "options": {"temperature": 0.2},
+        }
+        # qwen3 family defaults to thinking mode, which burns the whole time
+        # budget before emitting JSON; other models reject the parameter.
+        if self.model.startswith("qwen3"):
+            payload["think"] = False
+        resp = self._client.post("/api/chat", json=payload, timeout=CHAT_TIMEOUT)
         resp.raise_for_status()
         return resp.json()["message"]["content"]
 
@@ -224,16 +232,17 @@ class OllamaAnalyzer(FramingAnalyzer):
         return "\n\n".join(parts)
 
     @staticmethod
-    def _verbatim_hit(payload: dict, titles: list[str]) -> bool:
-        """True if >= VERBATIM_NGRAM consecutive words of any cluster title
-        appear verbatim in the payload text (case/punctuation-insensitive)."""
+    def _verbatim_hit(payload: dict, press_texts: list[str]) -> bool:
+        """True if >= VERBATIM_NGRAM consecutive words of any press text
+        (title or summary) appear verbatim in the payload
+        (case/punctuation-insensitive)."""
         def words(text: str) -> list[str]:
             return re.findall(r"\w+", text.lower())
 
         fields = [payload["event_summary"], payload.get("omissions") or ""]
         fields += [v or "" for v in payload["framing"].values()]
         haystack = " " + " ".join(" ".join(words(f)) for f in fields) + " "
-        for title in titles:
+        for title in press_texts:
             w = words(title)
             for i in range(len(w) - VERBATIM_NGRAM + 1):
                 if f" {' '.join(w[i:i + VERBATIM_NGRAM])} " in haystack:

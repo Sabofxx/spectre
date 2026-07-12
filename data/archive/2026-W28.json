@@ -1,39 +1,159 @@
 {
  "week": "2026-W28",
- "generated_at": "2026-07-12T01:45:52+00:00",
+ "generated_at": "2026-07-12T03:23:47+00:00",
  "clusters": [
   {
    "title": "DIRECT. Canicule: 37 départements placés en vigilance rouge demain par Météo-France et 46 en vigilance orange",
-   "url": "https://www.humanite.fr/environnement/feux-de-foret/incendie-au-portugal-labandon-des-campagnes-devient-un-terrain-fertile-pour-les-incendies",
-   "n_members": 410,
-   "n_sources": 21,
+   "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
+   "n_members": 51,
+   "n_sources": 18,
    "counts": {
-    "left": 8,
-    "centre": 5,
-    "right": 8
+    "left": 4,
+    "centre": 9,
+    "right": 5
    },
    "style_counts": {
-    "factuel": 5,
-    "mixte": 10,
-    "opinion": 6
+    "factuel": 10,
+    "mixte": 7,
+    "opinion": 1
    },
-   "blindspot_score": 0.0,
+   "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.571,
+   "divergence": 0.519,
+   "category": "environnement"
+  },
+  {
+   "title": "Espagne : au moins 11 morts dans un feu de forêt en Andalousie, en grande majorité des étrangers",
+   "url": "https://www.franceinfo.fr/monde/espagne/un-feu-de-foret-fait-douze-morts-en-andalousie-alors-que-l-espagne-affronte-une-vague-de-chaleur_8102162.html",
+   "n_members": 47,
+   "n_sources": 18,
+   "counts": {
+    "left": 4,
+    "centre": 9,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 6,
+    "opinion": 1
+   },
+   "blindspot_score": 0.111,
+   "blindspot_for": null,
+   "divergence": 0.595,
+   "category": "international"
+  },
+  {
+   "title": "Coupe du monde 2026 : l'Espagne s'offre la Belgique et retrouvera la France dans le dernier carré du Mondial",
+   "url": "https://www.france24.com/fr/sports/20260711-mondial-2026-mental-acier-argentine-quarts-finale-suisse",
+   "n_members": 29,
+   "n_sources": 18,
+   "counts": {
+    "left": 3,
+    "centre": 8,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 4,
+    "opinion": 4
+   },
+   "blindspot_score": 0.4,
+   "blindspot_for": null,
+   "divergence": 0.77,
    "category": "sport"
   },
   {
-   "title": "Mort de Jayden Adams, footballeur sud-africain de 25 ans qui a disputé la Coupe du monde",
-   "url": "https://www.20minutes.fr/sport/football/4234097-20260711-jayden-adams-international-sud-africain-dispute-coupe-monde-2026-mort-25-ans",
-   "n_members": 11,
-   "n_sources": 7,
+   "title": "Tour de France 2026 : La 9e étape réduite de 30 kilomètres à cause de la vigilance rouge canicule en Corrèze",
+   "url": "https://lcp.fr/actualites/canicule-qu-est-ce-que-le-plan-orsec-inedit-chaleur-extreme-declenche-par-le",
+   "n_members": 19,
+   "n_sources": 17,
    "counts": {
-    "left": 0,
-    "centre": 4,
+    "left": 2,
+    "centre": 8,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.556,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "sport"
+  },
+  {
+   "title": "Tour de France 2026, 8e étape : Merlier, un bon coup de Bergerac",
+   "url": "https://information.tv5monde.com/international/tour-de-france-pogacar-remporte-la-6e-etape-en-solitaire-et-prend-le-maillot-jaune-2829620",
+   "n_members": 24,
+   "n_sources": 14,
+   "counts": {
+    "left": 2,
+    "centre": 9,
     "right": 3
    },
    "style_counts": {
-    "factuel": 4,
+    "factuel": 9,
+    "mixte": 3,
+    "opinion": 2
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.626,
+   "category": "sport"
+  },
+  {
+   "title": "\"La vengeance doit s'accomplir inévitablement\": le Guide suprême iranien Mojtaba Khamenei lance des menaces à son tour",
+   "url": "https://www.liberation.fr/international/moyen-orient/en-iran-labsence-du-nouveau-guide-supreme-aiguise-les-rivalites-au-sein-du-pouvoir-20260710_PIR3PG75ONBYTCW3DAAP3W2OW4/",
+   "n_members": 19,
+   "n_sources": 13,
+   "counts": {
+    "left": 2,
+    "centre": 8,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 4,
+    "opinion": 0
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.508,
+   "category": "international"
+  },
+  {
+   "title": "Présidentielle 2027 : Clémentine Autain prend acte de l’échec de la « primaire unitaire » de la gauche et renonce à être candidate",
+   "url": "https://www.cnews.fr/france/2026-07-10/presidentielle-2027-segolene-royal-annonce-sa-candidature-la-primaire-socialiste",
+   "n_members": 15,
+   "n_sources": 12,
+   "counts": {
+    "left": 3,
+    "centre": 5,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 6,
+    "mixte": 3,
+    "opinion": 3
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.536,
+   "category": "politique"
+  },
+  {
+   "title": "Afrique du Sud : Jayden Adams, qui a disputé trois matchs de la Coupe du monde 2026, est mort à 25 ans",
+   "url": "https://www.ladepeche.fr/2026/07/11/personne-ne-sy-attendait-un-joueur-de-la-coupe-du-monde-est-mort-a-25-ans-les-circonstances-de-son-deces-encore-floues-13464789.php",
+   "n_members": 15,
+   "n_sources": 12,
+   "counts": {
+    "left": 0,
+    "centre": 8,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 9,
     "mixte": 2,
     "opinion": 1
    },
@@ -43,17 +163,297 @@
    "category": "sport"
   },
   {
-   "title": "Un jeune homme tué au couteau dans le nord de Paris",
-   "url": "https://www.leparisien.fr/paris-75/un-homme-tue-de-coups-de-couteau-a-paris-ce-que-lon-sait-du-drame-survenu-boulevard-ornano-dans-le-xviiie-11-07-2026-XBFFC6WMAZHOTC5366RMERDFTI.php",
-   "n_members": 5,
-   "n_sources": 5,
+   "title": "Baccalauréat 2026 : un taux de réussite définitif de 91,4%, en baisse de 0,4 point sur un an",
+   "url": "https://www.bfmtv.com/societe/education/baccalaureat-2026-le-taux-de-reussite-definitif-s-etablit-a-91-4-en-baisse-de-0-4-point-sur-un-an_AD-202607110334.html",
+   "n_members": 12,
+   "n_sources": 12,
    "counts": {
     "left": 0,
+    "centre": 7,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 2,
+    "opinion": 1
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "société"
+  },
+  {
+   "title": "Six morts en Ukraine et douze blessés à Kiev après des frappes russes",
+   "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
+   "n_members": 11,
+   "n_sources": 10,
+   "counts": {
+    "left": 1,
+    "centre": 7,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 1,
+    "opinion": 0
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "international"
+  },
+  {
+   "title": "De nombreux mineurs, des pyromanes... Que sait-on du profil des 32 interpellés suspectés d'être à l'origine des départs de feux de forêt?",
+   "url": "https://www.tf1info.fr/meteo/direct-incendies-en-france-deja-25-000-hectares-brules-les-dernieres-informations-samedi-10-juillet-2026-2452588.html",
+   "n_members": 14,
+   "n_sources": 9,
+   "counts": {
+    "left": 2,
     "centre": 2,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 4,
+    "mixte": 4,
+    "opinion": 1
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "société"
+  },
+  {
+   "title": "Marine Le Pen reste candidate à la présidentielle, malgré sa condamnation à un an ferme sous bracelet électronique",
+   "url": "https://www.nouvelobs.com/politique/20260709.OBS116530/ces-huit-fois-ou-le-rassemblement-national-reclamait-une-justice-implacable-contre-les-elus-condamnes.html",
+   "n_members": 14,
+   "n_sources": 8,
+   "counts": {
+    "left": 3,
+    "centre": 3,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 3,
+    "mixte": 3,
+    "opinion": 2
+   },
+   "blindspot_score": -0.2,
+   "blindspot_for": null,
+   "divergence": 0.543,
+   "category": "politique"
+  },
+  {
+   "title": "Chine : près de 2 millions de personnes évacuées à l'approche du typhon Bavi",
+   "url": "https://www.cnews.fr/monde/2026-07-10/chine-apres-les-inondations-meurtrieres-pres-de-900-serpents-venimeux-sechappent",
+   "n_members": 12,
+   "n_sources": 8,
+   "counts": {
+    "left": 1,
+    "centre": 4,
     "right": 3
    },
    "style_counts": {
+    "factuel": 5,
+    "mixte": 2,
+    "opinion": 1
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "international"
+  },
+  {
+   "title": "Départs en vacances : un pic de 940 km de bouchons sur fond de canicule",
+   "url": "https://www.europe1.fr/societe/departs-en-vacances-deja-plus-de-420-km-de-bouchons-sur-fond-de-canicule-970365",
+   "n_members": 11,
+   "n_sources": 8,
+   "counts": {
+    "left": 1,
+    "centre": 3,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 4,
+    "mixte": 3,
+    "opinion": 1
+   },
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "environnement"
+  },
+  {
+   "title": "Guerre au Moyen-Orient : Donald Trump dit accepter de parler avec l'Iran mais que le cessez-le-feu est «terminé»",
+   "url": "https://www.lemonde.fr/international/article/2026/07/11/donald-trump-affirme-que-l-iran-veut-l-assassiner-teheran-maintient-avoir-tenu-parole-sur-l-accord-de-cessez-le-feu_6722666_3210.html",
+   "n_members": 10,
+   "n_sources": 8,
+   "counts": {
+    "left": 3,
+    "centre": 3,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 4,
+    "mixte": 4,
+    "opinion": 0
+   },
+   "blindspot_score": -0.2,
+   "blindspot_for": null,
+   "divergence": 0.726,
+   "category": "international"
+  },
+  {
+   "title": "Australie-France (26-42) : les Bleus signent un premier succès dans ce Championnat des nations",
+   "url": "https://www.lemonde.fr/sport/article/2026/07/11/france-australie-fabien-galthie-fait-le-pari-d-un-duo-ntamack-jalibert-pour-affronter-les-wallabies-au-championnat-des-nations-de-rugby_6722621_3242.html",
+   "n_members": 9,
+   "n_sources": 8,
+   "counts": {
+    "left": 1,
+    "centre": 5,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 6,
+    "mixte": 2,
+    "opinion": 0
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "sport"
+  },
+  {
+   "title": "«C'est l'histoire qui s'écrit sous nos yeux» : le rappeur Pitbull établit un record du monde du plus grand rassemblement de faux crânes chauves",
+   "url": "https://www.bfmtv.com/international/europe/angleterre/l-histoire-qui-s-ecrit-sous-nos-yeux-le-rappeur-pitbull-etablit-un-record-du-monde-du-plus-grand-rassemblement-de-faux-cranes-chauves_AN-202607110270.html",
+   "n_members": 8,
+   "n_sources": 8,
+   "counts": {
+    "left": 0,
+    "centre": 4,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 6,
+    "mixte": 1,
+    "opinion": 1
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "culture"
+  },
+  {
+   "title": "Parcoursup : plus de 126.000 candidats en attente d'une proposition",
+   "url": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/plus-de-126-000-candidats-sont-encore-en-attente-d-une-proposition-sur-parcoursup_8103926.html",
+   "n_members": 8,
+   "n_sources": 8,
+   "counts": {
+    "left": 1,
+    "centre": 4,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 5,
+    "mixte": 2,
+    "opinion": 1
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "société"
+  },
+  {
+   "title": "Présidentielle 2027: Marine Le Pen largement en tête au premier tour selon le dernier sondage Elabe pour BFMTV",
+   "url": "https://www.cnews.fr/france/2026-07-09/presidentielle-2027-marine-le-pen-en-tete-des-intentions-de-vote-au-premier-tour",
+   "n_members": 15,
+   "n_sources": 7,
+   "counts": {
+    "left": 0,
+    "centre": 3,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 4,
+    "mixte": 1,
+    "opinion": 2
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "politique"
+  },
+  {
+   "title": "Présidentielle 2027 : défaite amère pour le patron du PS Olivier Faure, les socialistes optent pour une primaire fermée pour désigner leur candidat",
+   "url": "https://www.nouvelobs.com/politique/20260710.OBS116562/nicolas-mayer-rossignol-numero-2-du-ps-je-souhaite-que-raphael-glucksmann-s-inscrive-dans-notre-primaire.html",
+   "n_members": 11,
+   "n_sources": 7,
+   "counts": {
+    "left": 2,
+    "centre": 3,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 3,
+    "mixte": 2,
+    "opinion": 2
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.625,
+   "category": "politique"
+  },
+  {
+   "title": "EN DIRECT - Norvège-Angleterre : Erling Haaland et les siens vont-ils faire tomber les \"Three Lions\" ?",
+   "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/norvege-angleterre-la-composition-des-equipes-pour-le-quart-de-finale-de-la-coupe-du-monde-11-07-2026-CVUMVWWP7ZDS3PSSYZQOX3TZSU.php",
+   "n_members": 11,
+   "n_sources": 7,
+   "counts": {
+    "left": 0,
+    "centre": 6,
+    "right": 1
+   },
+   "style_counts": {
+    "factuel": 7,
+    "mixte": 0,
+    "opinion": 0
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "sport"
+  },
+  {
+   "title": "Présomption de légitime défense pour les forces de l'ordre : la LDH dénonce \"un permis de tuer\"",
+   "url": "https://www.valeursactuelles.com/clubvaleurs/societe/permis-de-tuer-les-cinq-intox-damnesty-international-sur-la-loi-sur-les-tirs-policiers",
+   "n_members": 8,
+   "n_sources": 7,
+   "counts": {
+    "left": 3,
+    "centre": 2,
+    "right": 2
+   },
+   "style_counts": {
     "factuel": 2,
+    "mixte": 2,
+    "opinion": 3
+   },
+   "blindspot_score": -0.2,
+   "blindspot_for": null,
+   "divergence": 0.689,
+   "category": "société"
+  },
+  {
+   "title": "Paris : un homme de 21 ans tué au couteau alors qu’il dînait avec sa compagne, le suspect en fuite",
+   "url": "https://www.lejdd.fr/Societe/paris-un-jeune-homme-tue-a-coups-de-couteau-le-suspect-en-fuite-178728",
+   "n_members": 7,
+   "n_sources": 7,
+   "counts": {
+    "left": 0,
+    "centre": 3,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 4,
     "mixte": 1,
     "opinion": 2
    },
@@ -63,9 +463,89 @@
    "category": "faits-divers"
   },
   {
-   "title": "«C'est l'histoire qui s'écrit sous nos yeux» : le rappeur Pitbull établit un record du monde du plus grand rassemblement de faux crânes chauves",
-   "url": "https://www.bfmtv.com/international/europe/angleterre/l-histoire-qui-s-ecrit-sous-nos-yeux-le-rappeur-pitbull-etablit-un-record-du-monde-du-plus-grand-rassemblement-de-faux-cranes-chauves_AN-202607110270.html",
-   "n_members": 5,
+   "title": "Wimbledon : Linda Noskova s'impose en finale face à Karolina Muchova et remporte son premier titre du Grand Chelem",
+   "url": "https://www.cnews.fr/sport/2026-07-10/arthur-fery-alexander-zverev-demi-finale-de-wimbledon-2026-quelle-heure-et-sur",
+   "n_members": 10,
+   "n_sources": 6,
+   "counts": {
+    "left": 1,
+    "centre": 3,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 3,
+    "mixte": 2,
+    "opinion": 1
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "sport"
+  },
+  {
+   "title": "1.500 personnes rassemblées dans le Morbihan pour une rave-party illégale, le préfet met en garde face aux \"risques élevés dus aux fortes chaleurs\"",
+   "url": "https://www.bfmtv.com/police-justice/1-500-personnes-rassemblees-dans-le-morbihan-pour-une-rave-party-illegale-le-prefet-met-en-garde-face-aux-risques-eleves-dus-aux-fortes-chaleurs_AD-202607110304.html",
+   "n_members": 7,
+   "n_sources": 6,
+   "counts": {
+    "left": 0,
+    "centre": 3,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 4,
+    "mixte": 1,
+    "opinion": 1
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "faits-divers"
+  },
+  {
+   "title": "NBA : pourquoi Victor Wembanyama a renoncé à 51 millions de dollars lors de sa prolongation chez les Spurs ?",
+   "url": "https://www.lemonde.fr/sport/article/2026/07/11/nba-victor-wembanyama-prolonge-de-plusieurs-annees-avec-les-san-antonio-spurs_6722585_3242.html",
+   "n_members": 6,
+   "n_sources": 6,
+   "counts": {
+    "left": 2,
+    "centre": 1,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 2,
+    "mixte": 3,
+    "opinion": 1
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.348,
+   "category": "sport"
+  },
+  {
+   "title": "Séisme au Venezuela : Le bilan dépasse désormais les 4.000 morts",
+   "url": "https://www.20minutes.fr/monde/4234078-20260711-seisme-venezuela-bilan-depasse-desormais-4-000-morts",
+   "n_members": 6,
+   "n_sources": 6,
+   "counts": {
+    "left": 1,
+    "centre": 3,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 4,
+    "mixte": 2,
+    "opinion": 0
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "international"
+  },
+  {
+   "title": "Vers un 14-Juillet sans feux d’artifice en France ?",
+   "url": "https://www.20minutes.fr/societe/4234081-20260711-canicule-14-juillet-rennes-orleans-limoges-aix-feux-artifice-annules-dizaines-villes",
+   "n_members": 6,
    "n_sources": 5,
    "counts": {
     "left": 0,
@@ -80,51 +560,151 @@
    "blindspot_score": 1.0,
    "blindspot_for": "gauche",
    "divergence": null,
-   "category": "culture"
+   "category": "société"
   },
   {
-   "title": "Patrick Bruel visé par une nouvelle plainte pour viol",
+   "title": "Patrick Bruel visé par une nouvelle plainte pour viol sur une mannequin de 16 ans",
    "url": "https://www.lemonde.fr/societe/article/2026/07/10/patrick-bruel-vise-par-une-nouvelle-plainte-pour-viol_6722508_3224.html",
-   "n_members": 4,
-   "n_sources": 4,
+   "n_members": 5,
+   "n_sources": 5,
    "counts": {
     "left": 3,
-    "centre": 0,
+    "centre": 1,
     "right": 1
    },
    "style_counts": {
-    "factuel": 0,
+    "factuel": 1,
     "mixte": 4,
     "opinion": 0
    },
    "blindspot_score": -0.5,
    "blindspot_for": null,
-   "divergence": 0.44,
-   "category": null
+   "divergence": 0.445,
+   "category": "société"
   },
   {
-   "title": "NBA : pourquoi Victor Wembanyama a renoncé à 51 millions de dollars lors de sa prolongation chez les Spurs ?",
-   "url": "https://www.lemonde.fr/sport/article/2026/07/11/nba-victor-wembanyama-prolonge-de-plusieurs-annees-avec-les-san-antonio-spurs_6722585_3242.html",
-   "n_members": 4,
+   "title": "Incendie dans la Drôme: des militaires en renfort",
+   "url": "https://www.la-croix.com/societe/incendie-dans-la-drome-3-500-hectares-parcourus-et-nouvelles-evacuations-preventives-20260709",
+   "n_members": 6,
    "n_sources": 4,
    "counts": {
-    "left": 2,
-    "centre": 0,
+    "left": 0,
+    "centre": 2,
     "right": 2
    },
    "style_counts": {
-    "factuel": 0,
-    "mixte": 3,
+    "factuel": 2,
+    "mixte": 2,
+    "opinion": 0
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "société"
+  },
+  {
+   "title": "Mort de Lorenzo Salgado Araujo : la goutte de trop pour le Mexique face à Trump et l’ICE",
+   "url": "https://information.tv5monde.com/international/le-dernier-matin-de-lorenzo-salgado-un-reve-americain-fauche-2829566",
+   "n_members": 5,
+   "n_sources": 4,
+   "counts": {
+    "left": 2,
+    "centre": 2,
+    "right": 0
+   },
+   "style_counts": {
+    "factuel": 2,
+    "mixte": 2,
+    "opinion": 0
+   },
+   "blindspot_score": -1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "international"
+  },
+  {
+   "title": "« C’est leur baroud d’honneur » : jusqu’au bout, la droite tente de faire barrage à la loi sur la fin de vie",
+   "url": "https://www.publicsenat.fr/actualites/societe/on-se-sera-battu-jusquau-bout-la-droite-senatoriale-prepare-ses-recours-au-conseil-constitutionnel-contre-la-loi-sur-la-fin-de-vie",
+   "n_members": 5,
+   "n_sources": 4,
+   "counts": {
+    "left": 1,
+    "centre": 3,
+    "right": 0
+   },
+   "style_counts": {
+    "factuel": 2,
+    "mixte": 2,
+    "opinion": 0
+   },
+   "blindspot_score": -1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "politique"
+  },
+  {
+   "title": "« Un message universel de refus de la barbarie » : à Nice, des voix réclament une minute de silence pour les victimes du 14-Juillet 2016 avant le match France-Espagne, le maire écrit à la FIFA",
+   "url": "https://www.lefigaro.fr/politique/coupe-du-monde-eric-ciotti-demande-a-la-fifa-une-minute-de-silence-avant-le-france-espagne-en-memoire-des-victimes-de-l-attentat-de-nice-20260711",
+   "n_members": 5,
+   "n_sources": 4,
+   "counts": {
+    "left": 0,
+    "centre": 2,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 2,
+    "mixte": 1,
+    "opinion": 1
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "sport"
+  },
+  {
+   "title": "Périscolaire parisien : première condamnation pour agressions sexuelles d’un animateur",
+   "url": "https://www.lejdd.fr/Societe/periscolaire-un-animateur-condamne-a-18-mois-de-prison-avec-sursis-a-paris-178683",
+   "n_members": 4,
+   "n_sources": 4,
+   "counts": {
+    "left": 1,
+    "centre": 2,
+    "right": 1
+   },
+   "style_counts": {
+    "factuel": 1,
+    "mixte": 2,
     "opinion": 1
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.39,
-   "category": "sport"
+   "divergence": null,
+   "category": "société"
   },
   {
-   "title": "OpenAI attaquée en justice par Apple pour détournement d’informations confidentielles",
-   "url": "https://www.lexpress.fr/economie/high-tech/apple-poursuit-openai-en-justice-linexorable-montee-des-tensions-entres-les-deux-societes-FHW4GAUDLRCWDHVETB3Q5RVMDA/",
+   "title": "Corps démembré aux Buttes-Chaumont : le mari de la victime condamné à 27 ans de réclusion criminelle",
+   "url": "https://www.europe1.fr/police-justice/corps-demembre-aux-buttes-chaumont-le-mari-condamne-a-27-ans-de-reclusion-970125",
+   "n_members": 4,
+   "n_sources": 4,
+   "counts": {
+    "left": 1,
+    "centre": 0,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 0,
+    "mixte": 2,
+    "opinion": 2
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "société"
+  },
+  {
+   "title": "Canicule : les bals des pompiers annulés à Paris",
+   "url": "https://www.europe1.fr/societe/canicule-les-bals-des-pompiers-annules-a-paris-970212",
    "n_members": 4,
    "n_sources": 4,
    "counts": {
@@ -133,74 +713,94 @@
     "right": 3
    },
    "style_counts": {
-    "factuel": 2,
-    "mixte": 1,
-    "opinion": 1
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "économie"
-  },
-  {
-   "title": "Périscolaire parisien : première condamnation pour agressions sexuelles d’un animateur",
-   "url": "https://www.lejdd.fr/Societe/periscolaire-un-animateur-condamne-a-18-mois-de-prison-avec-sursis-a-paris-178683",
-   "n_members": 3,
-   "n_sources": 3,
-   "counts": {
-    "left": 1,
-    "centre": 1,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 0,
+    "factuel": 1,
     "mixte": 2,
     "opinion": 1
    },
-   "blindspot_score": 0.0,
+   "blindspot_score": 1.0,
    "blindspot_for": null,
    "divergence": null,
-   "category": null
+   "category": "environnement"
   },
   {
-   "title": "L'actrice Claudette Walker, surnommée \"la mamie de Youtube\" est morte à 86 ans",
-   "url": "https://www.bfmtv.com/culture/l-actrice-claudette-walker-surnommee-la-mamie-de-youtube-est-morte-a-86-ans_AD-202607110405.html",
-   "n_members": 3,
+   "title": "Inceste: la commission d'enquête propose 49 mesures pour lutter contre un \"crime de masse\"",
+   "url": "https://lcp.fr/actualites/inceste-la-commission-d-enquete-propose-49-mesures-pour-lutter-contre-un-crime-de-masse",
+   "n_members": 5,
    "n_sources": 3,
    "counts": {
-    "left": 0,
-    "centre": 1,
+    "left": 1,
+    "centre": 2,
+    "right": 0
+   },
+   "style_counts": {
+    "factuel": 1,
+    "mixte": 2,
+    "opinion": 0
+   },
+   "blindspot_score": -1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "société"
+  },
+  {
+   "title": "Colis piégé à Monaco : les victimes sont toujours hospitalisées dans un état grave",
+   "url": "https://www.nouvelobs.com/monde/20260710.OBS116575/principale-suspecte-executee-ombre-des-services-ukrainiens-toutes-les-pistes-sont-encore-sur-la-table-assure-le-procureur-general-de-monaco-a-propos-de-l-attaque-a-l-explosif.html",
+   "n_members": 5,
+   "n_sources": 3,
+   "counts": {
+    "left": 1,
+    "centre": 0,
     "right": 2
    },
    "style_counts": {
-    "factuel": 2,
+    "factuel": 1,
     "mixte": 1,
-    "opinion": 0
+    "opinion": 1
    },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
    "divergence": null,
-   "category": "culture"
+   "category": "international"
   },
   {
-   "title": "\"Ça montre l'attente qu'il y a chez les Français qui souffrent le plus\", estime Aleksandar Nikolic (RN) à propos du sondage Elabe pour BFMTV qui place Marine Le Pen en tête",
-   "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-ca-montre-l-attente-qu-il-y-a-chez-les-francais-qui-souffrent-le-plus-estime-aleksandar-nikolic-rn-a-propos-du-sondage-elabe-pour-bfmtv-qui-place-marine-le-pen-en-tete_VN-202607110379.html",
-   "n_members": 3,
-   "n_sources": 1,
+   "title": "Des cours de natation... pour prévenir les noyades",
+   "url": "https://www.lejdd.fr/Societe/on-sattend-a-2-000-noyades-cet-ete-le-defi-de-lapprentissage-de-la-natation-en-france-178374",
+   "n_members": 4,
+   "n_sources": 3,
    "counts": {
     "left": 0,
     "centre": 0,
-    "right": 1
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 1,
+    "mixte": 1,
+    "opinion": 1
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "société"
+  },
+  {
+   "title": "Défilé militaire du 14-Juillet : au cœur des répétitions sur les Champs-Élysées",
+   "url": "https://www.cnews.fr/france/2026-07-10/14-juillet-cnews-en-immersion-bord-dun-helicoptere-des-forces-speciales-pour-les",
+   "n_members": 4,
+   "n_sources": 3,
+   "counts": {
+    "left": 0,
+    "centre": 0,
+    "right": 3
    },
    "style_counts": {
     "factuel": 1,
     "mixte": 0,
-    "opinion": 0
+    "opinion": 2
    },
    "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
+   "blindspot_for": null,
    "divergence": null,
-   "category": "politique"
+   "category": "société"
   }
  ]
 }

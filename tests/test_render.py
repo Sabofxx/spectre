@@ -73,9 +73,30 @@ def test_find_leaks_catches_a_leak(conn, tmp_path):
     assert SECRET in leaks
 
 
+def test_blindspot_label_gated_on_small_clusters(conn, tmp_path):
+    """3 friendly outlets picking up a wire story is not an angle mort."""
+    from spectre.render import build_cards
+
+    ids = []
+    for source_id in ("d1", "d2", "d3"):
+        art = make_article(source_id=source_id, title=f"Titre {source_id}", hours_ago=2)
+        dbmod.insert_article(conn, art)
+        ids.append(conn.execute("SELECT id FROM articles WHERE url = ?", (art.url,)).fetchone()[0])
+    cluster_id = dbmod.create_cluster(conn, b"\x00" * 8, "Petit cluster", ids[0])
+    for aid in ids[1:]:
+        dbmod.add_cluster_member(conn, cluster_id, aid, 0.9)
+    dbmod.update_cluster(conn, cluster_id, b"\x00" * 8, "Petit cluster", 3)
+    dbmod.set_cluster_blindspot(conn, cluster_id, 1.0)
+    conn.commit()
+
+    cards = build_cards(conn, "2000-01-01T00:00:00", 2)
+    assert cards[0]["blindspot_score"] == 1.0  # raw score intact
+    assert cards[0]["blindspot_for"] is None  # label withheld
+
+
 def test_blindspots_rss_escapes_xml_text_and_links(conn, tmp_path):
     articles = []
-    for source_id in ("d1", "d2", "d3"):
+    for source_id in ("d1", "d2", "d3", "cd1", "cd2"):
         art = make_article(
             source_id=source_id,
             title="A & B < C",
@@ -89,7 +110,7 @@ def test_blindspots_rss_escapes_xml_text_and_links(conn, tmp_path):
     cluster_id = dbmod.create_cluster(conn, b"\x00" * 8, articles[0]["title"], articles[0]["id"])
     for row in articles[1:]:
         dbmod.add_cluster_member(conn, cluster_id, row["id"], 0.9)
-    dbmod.update_cluster(conn, cluster_id, b"\x00" * 8, articles[0]["title"], 3)
+    dbmod.update_cluster(conn, cluster_id, b"\x00" * 8, articles[0]["title"], 5)
     dbmod.set_cluster_blindspot(conn, cluster_id, 1.0)
     conn.commit()
 

@@ -25,6 +25,15 @@ _URL_PATTERNS: list[tuple[str, re.Pattern]] = [
         r"|/coupe-du-monde|/mondial|/ligue-?1|/ligue-des-champions"
         r"|/tour-de-france|/roland-garros|/jo-?20\d\d")),
     ("faits-divers", re.compile(r"/faits?-divers")),
+    ("environnement", re.compile(
+        r"/environnement|/planete|/planète|/climat|/meteo|/météo"
+        r"|/canicule|/secheresse|/sécheresse|/tempete|/tempête|/inondations?")),
+    ("sciences-tech", re.compile(
+        r"/sciences?|/high-tech|/technologies?|/numerique|/espace"
+        r"|/intelligence-artificielle|/tech/")),
+    ("société", re.compile(
+        r"/societe|/education|/sante|/enseignement|/famille|/religion"
+        r"|/logement|/travail|/egalite")),
     ("culture", re.compile(
         r"/culture|/cinema|/musique|/livres?|/series|/arts|/theatre"
         r"|/festival|/people|/medias|/television")),
@@ -44,6 +53,11 @@ _SPORT_TITLE = re.compile(
     r"|tour de france|xv de france|demi-finale|quart de finale)\b",
     re.IGNORECASE,
 )
+_ENVIRONMENT_TITLE = re.compile(
+    r"\b(canicule|vigilance rouge|météo-france|meteo-france|chaleur extrême"
+    r"|sécheresse|secheresse|inondations?|tempête|tempete|typhon|cyclone)\b",
+    re.IGNORECASE,
+)
 
 # Categories whose one-sided coverage is structural, not an editorial choice.
 STRUCTURAL_CATEGORIES = {"sport", "faits-divers"}
@@ -55,12 +69,23 @@ STRUCTURAL_CATEGORIES = {"sport", "faits-divers"}
 CATEGORY_PROTOTYPES: dict[str, str] = {
     "sport": "match de football, compétition sportive, championnat, victoire d'une équipe, tournoi, athlète",
     "faits-divers": "fait divers, agression, meurtre, vol, accident, enquête de police, victime, interpellation",
+    "environnement": "météo, climat, canicule, chaleur extrême, sécheresse, tempête, inondation, vigilance rouge",
+    "sciences-tech": "sciences, découverte scientifique, espace, fusée, satellite, intelligence artificielle, nouvelles technologies, numérique, recherche",
+    "société": "éducation, école, université, santé publique, hôpital, logement, famille, inégalités sociales, droits, discriminations",
     "culture": "film, cinéma, musique, livre, exposition, festival, série télévisée, artiste, spectacle",
     "économie": "économie, entreprise, marchés financiers, inflation, emploi, budget, croissance, commerce",
     "international": "relations internationales, guerre, diplomatie, conflit entre pays, sommet, crise à l'étranger",
     "politique": "politique française, gouvernement, élection, parlement, parti politique, ministre, réforme",
 }
-PROTOTYPE_SIM_FLOOR = 0.82  # calibrated on real clusters vs URL-derived labels
+# Calibrated 2026-07-12 against URL-derived labels (100 clusters): floor 0.84
+# keeps 81% coverage at 63% raw agreement, and the errors concentrate in ONE
+# harmful pattern — the faits-divers prototype matching any violent news
+# (12 wrongly-structural tags). Hence faits-divers is URL-slug-only: the
+# prototype fallback may never assign it (hiding a real blindspot is worse
+# than showing a noisy one). Remaining confusions (politique/international/
+# environnement) are between editorial categories and do not filter anything.
+PROTOTYPE_SIM_FLOOR = 0.84
+PROTOTYPE_FORBIDDEN = frozenset({"faits-divers"})
 
 
 def article_category(url: str, title: str = "") -> str | None:
@@ -69,6 +94,8 @@ def article_category(url: str, title: str = "") -> str | None:
     for category, pattern in _URL_PATTERNS:
         if pattern.search(path):
             return category
+    if title and _ENVIRONMENT_TITLE.search(title):
+        return "environnement"
     if title and _SPORT_TITLE.search(title):
         return "sport"
     return None
@@ -85,12 +112,20 @@ def cluster_category(articles: list[tuple[str, str]]) -> str | None:
 
 
 def _prototype_category(centroid, proto_names: list[str], proto_vecs) -> str | None:
-    """Best prototype match for a centroid, or None below the floor."""
+    """Best allowed prototype match for a centroid, or None below the floor.
+
+    Categories in PROTOTYPE_FORBIDDEN can only come from URL slugs.
+    """
     import numpy as np
 
     sims = proto_vecs @ centroid
-    best = int(np.argmax(sims))
-    return proto_names[best] if float(sims[best]) >= PROTOTYPE_SIM_FLOOR else None
+    order = np.argsort(-sims)
+    for i in order:
+        name = proto_names[int(i)]
+        if name in PROTOTYPE_FORBIDDEN:
+            continue
+        return name if float(sims[int(i)]) >= PROTOTYPE_SIM_FLOOR else None
+    return None
 
 
 def categorize_clusters(conn: sqlite3.Connection, model=None) -> int:

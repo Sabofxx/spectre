@@ -106,13 +106,13 @@ def test_rerun_is_idempotent(conn):
 
 
 def test_consolidate_merges_converged_clusters_and_preserves_full_member_count(conn):
-    a1 = put_article(conn, [1.0, 0.0, 0.0], hours_ago=4, title="a1")
-    a2 = put_article(conn, [1.0, 0.01, 0.0], hours_ago=3, title="a2")
-    b1 = put_article(conn, [1.0, 0.02, 0.0], hours_ago=2, title="b1")
-    b2 = put_article(conn, [1.0, 0.03, 0.0], hours_ago=1, title="b2")
+    a1 = put_article(conn, [1.0, 0.0, 0.0], hours_ago=4, title="Plan Orsec canicule")
+    a2 = put_article(conn, [1.0, 0.01, 0.0], hours_ago=3, title="Orsec chaleur extrême")
+    b1 = put_article(conn, [1.0, 0.02, 0.0], hours_ago=2, title="Canicule plan Orsec")
+    b2 = put_article(conn, [1.0, 0.03, 0.0], hours_ago=1, title="Chaleur et plan Orsec")
 
-    c1 = manual_cluster(conn, [a1, a2], "cluster a")
-    c2 = manual_cluster(conn, [b1, b2], "cluster b")
+    c1 = manual_cluster(conn, [a1, a2], "Plan Orsec canicule")
+    c2 = manual_cluster(conn, [b1, b2], "Canicule plan Orsec")
     # Simulate lifecycle purge: old member rows stay public, but transient
     # embeddings may be NULL. Consolidation must not shrink n_members.
     conn.execute("UPDATE articles SET embedding = NULL WHERE id = ?", (a2,))
@@ -127,3 +127,29 @@ def test_consolidate_merges_converged_clusters_and_preserves_full_member_count(c
     assert survivor["n_members"] == 4
     assert conn.execute("SELECT COUNT(*) FROM cluster_members").fetchone()[0] == 4
     assert conn.execute("SELECT COUNT(*) FROM analyses").fetchone()[0] == 0
+
+
+def test_consolidate_rejects_semantic_match_without_title_overlap(conn):
+    a1 = put_article(conn, [1.0, 0.0, 0.0], hours_ago=2, title="Plan Orsec canicule")
+    b1 = put_article(conn, [1.0, 0.01, 0.0], hours_ago=1, title="Mercato football été")
+    manual_cluster(conn, [a1], "Plan Orsec canicule")
+    manual_cluster(conn, [b1], "Mercato football été")
+
+    merged = consolidate(conn, threshold=0.99)
+
+    assert merged == 0
+    assert conn.execute("SELECT COUNT(*) FROM clusters").fetchone()[0] == 2
+
+
+def test_consolidate_does_not_chain_multiple_merges_in_one_pass(conn):
+    a1 = put_article(conn, [1.0, 0.0, 0.0], hours_ago=3, title="Canicule Orsec Paris")
+    b1 = put_article(conn, [1.0, 0.01, 0.0], hours_ago=2, title="Canicule Orsec Lyon")
+    c1 = put_article(conn, [1.0, 0.02, 0.0], hours_ago=1, title="Canicule Orsec Marseille")
+    manual_cluster(conn, [a1], "Canicule Orsec Paris")
+    manual_cluster(conn, [b1], "Canicule Orsec Lyon")
+    manual_cluster(conn, [c1], "Canicule Orsec Marseille")
+
+    merged = consolidate(conn, threshold=0.99)
+
+    assert merged == 1
+    assert conn.execute("SELECT COUNT(*) FROM clusters").fetchone()[0] == 2

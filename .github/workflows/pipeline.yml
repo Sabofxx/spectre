@@ -50,7 +50,9 @@ jobs:
           pip install .
 
       - name: Run pipeline
-        run: python run.py pipeline --stats-file /tmp/pipeline-stats.json
+        run: |
+          python run.py check-classifications
+          python run.py pipeline --stats-file /tmp/pipeline-stats.json
 
       # Un seul fichier compact à committer, pas de -wal/-shm.
       - name: Compact database
