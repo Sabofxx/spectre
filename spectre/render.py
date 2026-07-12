@@ -365,10 +365,19 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
     )
     (out_dir / "categorie").mkdir(exist_ok=True)
     for entry in categories.values():
+        # Per-category RSS: same event feed as the front page, scoped to one
+        # rubric. Cards are already newest-first (they inherit the feed order).
+        (out_dir / "categorie" / f"{entry['slug']}.xml").write_text(
+            env.get_template("feed_category.xml").render(
+                items=entry["cards"][:30], category=entry["name"],
+                slug=entry["slug"], site_url=SITE_BASE_URL,
+            ),
+            encoding="utf-8",
+        )
         write_page(
             f"categorie/{entry['slug']}.html", "categorie.html", root="../",
             category=entry["name"], clusters=entry["cards"],
-            cat_nav=cat_nav, active_slug=entry["slug"],
+            cat_nav=cat_nav, active_slug=entry["slug"], feed_slug=entry["slug"],
             og_title=f"{entry['name'].capitalize()} — Spectre",
             og_description=f"La couverture {entry['name']} des dernières 48 h,"
                            " par orientation des sources.",
@@ -644,6 +653,11 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
         encoding="utf-8",
     )
     shutil.copy(TEMPLATES_DIR / "favicon.svg", out_dir / "favicon.svg")
+
+    # PWA shell: installable + offline reading of visited pages.
+    from .pwa import write_pwa
+
+    write_pwa(out_dir, SITE_BASE_URL)
 
     stats = {"feed": len(feed_cards), "blindspots": len(blind_cards), "details": len(detail_cards)}
     logger.info("site built in %s: %s", out_dir, stats)
