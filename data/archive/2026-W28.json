@@ -1,6 +1,6 @@
 {
  "week": "2026-W28",
- "generated_at": "2026-07-12T20:03:54+00:00",
+ "generated_at": "2026-07-12T21:13:09+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Reprise des hostilités entre l'Iran et les Etats-Unis : le détroit d'Ormuz est refermé",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 64,
+   "n_members": 65,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.422,
+   "divergence": 0.427,
    "category": "international",
    "terms_left": [
     "etats-unis",
-    "nuit",
-    "téhéran"
+    "téhéran",
+    "nuit"
    ],
    "terms_right": [
     "états-unis",
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.661,
+   "divergence": 0.662,
    "category": "sport",
    "terms_left": [
     "buts",
@@ -97,7 +97,7 @@
   {
    "title": "DIRECT. Canicule: 37 départements placés en vigilance rouge demain par Météo-France et 46 en vigilance orange",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 87,
+   "n_members": 88,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.442,
+   "divergence": 0.441,
    "category": "environnement",
    "terms_left": [
     "suffoque",
@@ -127,15 +127,15 @@
   {
    "title": "Guerre en Ukraine : six morts et douze blessés, dont un enfant, après une attaque de missiles russes",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 67,
-   "n_sources": 23,
+   "n_members": 69,
+   "n_sources": 24,
    "counts": {
     "left": 5,
-    "centre": 10,
+    "centre": 11,
     "right": 8
    },
    "style_counts": {
-    "factuel": 13,
+    "factuel": 14,
     "mixte": 8,
     "opinion": 2
    },
@@ -157,7 +157,7 @@
   {
    "title": "Incendie en Espagne: les images des dégâts causés par les flammes en Andalousie",
    "url": "https://www.franceinfo.fr/monde/espagne/un-feu-de-foret-fait-douze-morts-en-andalousie-alors-que-l-espagne-affronte-une-vague-de-chaleur_8102162.html",
-   "n_members": 84,
+   "n_members": 90,
    "n_sources": 21,
    "counts": {
     "left": 4,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.59,
+   "divergence": 0.591,
    "category": "international",
    "terms_left": [
     "mortes",
@@ -179,15 +179,15 @@
     "forêt"
    ],
    "terms_right": [
-    "disparues",
     "incendie espagne",
+    "disparues",
     "sud espagne"
    ]
   },
   {
    "title": "Des Bleus \"sans Français\"… L’ex-Premier ministre espagnol Mariano Rajoy crée une polémique avec des propos racistes",
    "url": "https://www.lemonde.fr/sport/article/2026/07/11/france-australie-fabien-galthie-fait-le-pari-d-un-duo-ntamack-jalibert-pour-affronter-les-wallabies-au-championnat-des-nations-de-rugby_6722621_3242.html",
-   "n_members": 64,
+   "n_members": 65,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.624,
+   "divergence": 0.626,
    "category": "sport",
    "terms_left": [
     "rugby",
@@ -215,9 +215,9 @@
    ]
   },
   {
-   "title": "INFO E1 - Sarcelles : 300 personnes évacuées en raison d’une menace d’attentat contre la communauté juive, des armes retrouvées dans un véhicule",
+   "title": "INFO E1 - Sarcelles : le Parquet national antiterroriste se saisit après la découverte d'armes dans un véhicule",
    "url": "https://www.mediapart.fr/journal/ecologie/100726/incendie-de-die-des-evacuations-chaotiques-et-une-communication-verrouillee",
-   "n_members": 56,
+   "n_members": 57,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -231,17 +231,47 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.66,
+   "divergence": 0.649,
    "category": "faits-divers",
    "terms_left": [
     "synagogue",
     "arme",
-    "retrouvée véhicule"
+    "die"
    ],
    "terms_right": [
     "personnes",
     "feu",
     "hectares"
+   ]
+  },
+  {
+   "title": "Canicule : trois réacteurs nucléaires à l'arrêt et huit à puissance réduite en France",
+   "url": "https://www.mediapart.fr/journal/ecologie/110726/pourquoi-le-vivant-ne-supporte-pas-la-chaleur",
+   "n_members": 35,
+   "n_sources": 21,
+   "counts": {
+    "left": 6,
+    "centre": 10,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 10,
+    "opinion": 0
+   },
+   "blindspot_score": -0.091,
+   "blindspot_for": null,
+   "divergence": 0.845,
+   "category": "environnement",
+   "terms_left": [
+    "face",
+    "tour",
+    "paris"
+   ],
+   "terms_right": [
+    "arrêt",
+    "rejets",
+    "eau"
    ]
   },
   {
@@ -261,7 +291,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.542,
+   "divergence": 0.541,
    "category": "société",
    "terms_left": [
     "attentat nice",
@@ -291,7 +321,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.427,
+   "divergence": 0.426,
    "category": "société",
    "terms_left": [
     "etat",
@@ -305,39 +335,9 @@
    ]
   },
   {
-   "title": "Canicule : trois réacteurs nucléaires à l'arrêt et huit à puissance réduite en France",
-   "url": "https://www.mediapart.fr/journal/ecologie/110726/pourquoi-le-vivant-ne-supporte-pas-la-chaleur",
-   "n_members": 30,
-   "n_sources": 20,
-   "counts": {
-    "left": 6,
-    "centre": 9,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 10,
-    "opinion": 0
-   },
-   "blindspot_score": -0.091,
-   "blindspot_for": null,
-   "divergence": 0.845,
-   "category": "environnement",
-   "terms_left": [
-    "face",
-    "tour",
-    "paris"
-   ],
-   "terms_right": [
-    "arrêt",
-    "rejets",
-    "eau"
-   ]
-  },
-  {
    "title": "Guerre au Moyen-Orient : Donald Trump dit accepter de parler avec l'Iran mais que le cessez-le-feu est «terminé»",
    "url": "https://www.mediapart.fr/journal/international/100726/ni-guerre-ni-paix-pourquoi-les-etats-unis-et-l-iran-sont-pieges-dans-l-impasse-d-ormuz",
-   "n_members": 41,
+   "n_members": 43,
    "n_sources": 19,
    "counts": {
     "left": 5,
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.749,
+   "divergence": 0.755,
    "category": "international",
    "terms_left": [
     "force",
@@ -367,7 +367,7 @@
   {
    "title": "Présidentielle 2027 : Clémentine Autain prend acte de l’échec de la « primaire unitaire » de la gauche et renonce à être candidate",
    "url": "https://www.lemonde.fr/politique/article/2026/07/11/segolene-royal-raphael-glucksmann-francois-hollande-la-primaire-sociale-democrate-cherche-ses-candidats_6722668_823448.html",
-   "n_members": 38,
+   "n_members": 40,
    "n_sources": 19,
    "counts": {
     "left": 5,
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.497,
+   "divergence": 0.504,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -397,7 +397,7 @@
   {
    "title": "Présidentielle 2027 : éligible et candidate, Marine Le Pen veut imposer un débat de fond",
    "url": "https://reporterre.net/Clim-fossiles-et-agro-industrie-l-ecologie-selon-Marine-Le-Pen",
-   "n_members": 35,
+   "n_members": 36,
    "n_sources": 19,
    "counts": {
     "left": 4,
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.462,
+   "divergence": 0.457,
    "category": "politique",
    "terms_left": [
     "justice",
@@ -553,7 +553,7 @@
   {
    "title": "Incendies : 32 individus suspectés d'être à l'origine de départs de feu ont été arrêtés en France, annonce Laurent Nuñez",
    "url": "https://www.20minutes.fr/societe/4234081-20260711-canicule-14-juillet-rennes-orleans-limoges-aix-feux-artifice-annules-dizaines-villes",
-   "n_members": 37,
+   "n_members": 38,
    "n_sources": 14,
    "counts": {
     "left": 2,
@@ -568,7 +568,29 @@
    "blindspot_score": 0.556,
    "blindspot_for": null,
    "divergence": null,
-   "category": "environnement",
+   "category": "société",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Aix-en-Provence. À peine sorti après 15 ans de prison, un homme récidive et viole une étudiante",
+   "url": "https://www.ladepeche.fr/2026/07/11/elle-prenait-lair-a-cause-de-la-chaleur-une-etudiante-de-21-ans-a-ete-enlevee-et-violee-sous-la-menace-dun-couteau-le-suspect-est-un-violeur-en-serie-13464920.php",
+   "n_members": 16,
+   "n_sources": 13,
+   "counts": {
+    "left": 1,
+    "centre": 7,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 3,
+    "opinion": 1
+   },
+   "blindspot_score": 0.667,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "faits-divers",
    "terms_left": [],
    "terms_right": []
   },
@@ -591,28 +613,6 @@
    "blindspot_for": "gauche",
    "divergence": null,
    "category": "société",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Aix-en-Provence. À peine sorti après 15 ans de prison, un homme récidive et viole une étudiante",
-   "url": "https://www.ladepeche.fr/2026/07/11/elle-prenait-lair-a-cause-de-la-chaleur-une-etudiante-de-21-ans-a-ete-enlevee-et-violee-sous-la-menace-dun-couteau-le-suspect-est-un-violeur-en-serie-13464920.php",
-   "n_members": 13,
-   "n_sources": 12,
-   "counts": {
-    "left": 1,
-    "centre": 7,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 2,
-    "opinion": 1
-   },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "faits-divers",
    "terms_left": [],
    "terms_right": []
   },
@@ -645,6 +645,28 @@
     "euros",
     "gouvernement"
    ]
+  },
+  {
+   "title": "Un incendie \"très virulent\" fait rage près de l'autoroute A6 en Seine-et-Marne, deux avions bombardiers envoyés en renfort",
+   "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/jusqua-4h20-de-retard-le-trafic-sncf-fortement-perturbe-sur-la-ligne-sud-est-entre-paris-et-marseille-a-cause-dun-incendie-12-07-2026-7E3R5IBOQNAXRDOH35X3TPSWTI.php",
+   "n_members": 24,
+   "n_sources": 10,
+   "counts": {
+    "left": 0,
+    "centre": 6,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 8,
+    "mixte": 1,
+    "opinion": 1
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "environnement",
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Présomption de légitime défense pour les forces de l'ordre : la LDH dénonce \"un permis de tuer\"",
@@ -721,6 +743,28 @@
    "terms_right": []
   },
   {
+   "title": "Wimbledon : Jannik Sinner remporte son cinquième titre en Grand Chelem en battant Alexander Zverev en finale",
+   "url": "https://www.leparisien.fr/sports/il-est-plus-detendu-libere-sacre-a-roland-garros-le-nouveau-zverev-defie-sinner-en-finale-de-wimbledon-12-07-2026-3BHJ4JXIYJGPZPRI6ZF6QBJINA.php",
+   "n_members": 12,
+   "n_sources": 9,
+   "counts": {
+    "left": 1,
+    "centre": 5,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 5,
+    "mixte": 4,
+    "opinion": 0
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "sport",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Le rappeur Pitbull établit un record du monde du plus grand rassemblement de faux crânes chauves",
    "url": "https://www.bfmtv.com/international/europe/angleterre/l-histoire-qui-s-ecrit-sous-nos-yeux-le-rappeur-pitbull-etablit-un-record-du-monde-du-plus-grand-rassemblement-de-faux-cranes-chauves_AN-202607110270.html",
    "n_members": 9,
@@ -743,24 +787,24 @@
    "terms_right": []
   },
   {
-   "title": "Un incendie \"très virulent\" fait rage près de l'autoroute A6 en Seine-et-Marne, deux avions bombardiers envoyés en renfort",
-   "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/jusqua-4h20-de-retard-le-trafic-sncf-fortement-perturbe-sur-la-ligne-sud-est-entre-paris-et-marseille-a-cause-dun-incendie-12-07-2026-7E3R5IBOQNAXRDOH35X3TPSWTI.php",
-   "n_members": 15,
+   "title": "Mort de Shemseddine, 15 ans, à Viry-Châtillon en 2024 : les meurtriers présumés en liberté en raison d'un vide juridique",
+   "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
+   "n_members": 9,
    "n_sources": 8,
    "counts": {
-    "left": 0,
-    "centre": 4,
+    "left": 1,
+    "centre": 3,
     "right": 4
    },
    "style_counts": {
-    "factuel": 6,
-    "mixte": 1,
+    "factuel": 4,
+    "mixte": 3,
     "opinion": 1
    },
-   "blindspot_score": 1.0,
+   "blindspot_score": 0.6,
    "blindspot_for": "gauche",
    "divergence": null,
-   "category": "environnement",
+   "category": "faits-divers",
    "terms_left": [],
    "terms_right": []
   },
@@ -825,7 +869,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.631,
+   "divergence": 0.632,
    "category": "société",
    "terms_left": [
     "qu",
@@ -837,28 +881,6 @@
     "réclusion",
     "criminelle"
    ]
-  },
-  {
-   "title": "Essone. Shemseddine, collégien battu à mort : deux mis en examen libérés en raison d'un vide juridique",
-   "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
-   "n_members": 8,
-   "n_sources": 7,
-   "counts": {
-    "left": 1,
-    "centre": 3,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 4,
-    "mixte": 3,
-    "opinion": 0
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
   },
   {
    "title": "Paris : un homme de 21 ans tué au couteau alors qu’il dînait avec sa compagne, le suspect en fuite",
@@ -979,8 +1001,8 @@
    "terms_right": []
   },
   {
-   "title": "Tennis: Jannik Sinner bat Alexander Zverev en finale de Wimbledon et conserve son titre",
-   "url": "https://www.leparisien.fr/sports/tennis/wimbledon-jannik-sinner-conserve-sa-couronne-12-07-2026-LCSUVRQC6VHPFF7PUNIBPA2YGE.php",
+   "title": "Thaïlande. Au moins 27 morts dans l'incendie d'un bar à Bangkok",
+   "url": "https://www.europe1.fr/international/thailande-au-moins-27-morts-dans-lincendie-dun-bar-a-bangkok-971088",
    "n_members": 6,
    "n_sources": 6,
    "counts": {
@@ -996,7 +1018,7 @@
    "blindspot_score": 1.0,
    "blindspot_for": null,
    "divergence": null,
-   "category": "sport",
+   "category": "faits-divers",
    "terms_left": [],
    "terms_right": []
   },
@@ -1016,28 +1038,6 @@
     "opinion": 1
    },
    "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Le Mexique annonce des poursuites pénales contre l’ICE après la mort de ses ressortissants aux États-Unis",
-   "url": "https://information.tv5monde.com/international/le-dernier-matin-de-lorenzo-salgado-un-reve-americain-fauche-2829566",
-   "n_members": 6,
-   "n_sources": 5,
-   "counts": {
-    "left": 2,
-    "centre": 3,
-    "right": 0
-   },
-   "style_counts": {
-    "factuel": 3,
-    "mixte": 2,
-    "opinion": 0
-   },
-   "blindspot_score": -1.0,
    "blindspot_for": null,
    "divergence": null,
    "category": "international",
