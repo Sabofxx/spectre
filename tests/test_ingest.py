@@ -37,6 +37,20 @@ class TestStripHtml:
         assert strip_html("<p></p>") is None
 
 
+class TestLoadSources:
+    def test_real_config_loads(self):
+        """Lock: the ACTUAL config/sources.yaml must parse into Source objects
+        (caught in CI 2026-07-12: a doc-only YAML field crashed the pipeline)."""
+        from pathlib import Path
+
+        from spectre.ingest import load_sources
+
+        config = Path(__file__).parent.parent / "config" / "sources.yaml"
+        sources = load_sources(config)
+        assert len(sources) >= 30
+        assert all(s.orientation for s in sources)
+
+
 class TestDeduplication:
     def test_same_url_inserted_once(self, conn):
         a = make_article(url="https://ex.fr/a", title="v1")
