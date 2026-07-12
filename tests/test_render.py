@@ -96,6 +96,35 @@ def test_first_publisher_ignores_null_dates(conn, tmp_path):
     assert "<strong>Gauche 1</strong>" in html  # 06:00 wins; NULL (c1) excluded
 
 
+def test_main_feed_rfc822_and_own_text_only(conn, tmp_path):
+    import re
+    import xml.etree.ElementTree as ET
+
+    seed(conn)
+    # seed() builds a 2-article cluster; make it eligible (>= 3).
+    art = make_article(source_id="c1", title="Titre c1", summary=SECRET, hours_ago=1)
+    dbmod.insert_article(conn, art)
+    aid = conn.execute("SELECT id FROM articles WHERE url = ?", (art.url,)).fetchone()[0]
+    cid = conn.execute("SELECT id FROM clusters").fetchone()[0]
+    dbmod.add_cluster_member(conn, cid, aid, 0.9)
+    dbmod.update_cluster(conn, cid, b"\x00" * 8, "Titre g1", 3)
+    conn.commit()
+
+    build_site(conn, tmp_path)
+
+    root = ET.parse(tmp_path / "feed.xml").getroot()
+    item = root.find("./channel/item")
+    assert item is not None
+    pub = item.findtext("pubDate")
+    assert re.match(r"^[A-Z][a-z]{2}, \d{2} [A-Z][a-z]{2} \d{4} \d{2}:\d{2}:\d{2}", pub)
+    assert "Couvert par" in item.findtext("description")
+    assert SECRET[15:60] not in (tmp_path / "feed.xml").read_text()
+    # head links + footer mention
+    index = (tmp_path / "index.html").read_text()
+    assert 'rel="alternate" type="application/rss+xml"' in index
+    assert "S'abonner par RSS" in index
+
+
 def test_no_tracking_in_generated_site(conn, tmp_path):
     """Anti-algorithm pledge, enforced: no external scripts, no cookies,
     no storage APIs anywhere in the generated site."""
