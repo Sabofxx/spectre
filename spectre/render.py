@@ -264,21 +264,26 @@ def find_leaks(conn: sqlite3.Connection, site_dir: Path) -> list[str]:
     Probes a mid-sentence slice of each summary so a title that merely repeats
     the summary's opening words does not false-positive.
 
-    A slice that also appears in the article's OWN title is not a leak: some
-    live-blog feeds publish a title nearly identical to the description, and
-    the title is legitimately public. We only flag a slice that shows up in
-    the HTML without being explained by that article's title.
+    A slice that also appears in ANY published title is not a leak: titles are
+    the one piece of press text the site legitimately carries, and some
+    live-blog feeds publish a title nearly identical to their description
+    (possibly under a different source in the same cluster). We only flag a
+    slice that shows up in the HTML without being explained by any title.
     """
     rows = conn.execute(
         "SELECT title, summary FROM articles "
         "WHERE summary IS NOT NULL AND length(summary) > 60"
     ).fetchall()
+    all_titles = " ".join(r["title"] or "" for r in rows)
+    all_titles += " " + " ".join(
+        t for (t,) in conn.execute("SELECT title FROM articles WHERE title IS NOT NULL")
+    )
     pages = list(site_dir.rglob("*.html")) + list(site_dir.rglob("*.xml"))
     html = " ".join(p.read_text(encoding="utf-8") for p in pages)
     leaks = []
     for r in rows:
         probe = r["summary"][15:60]
-        if probe in html and probe not in (r["title"] or ""):
+        if probe in html and probe not in all_titles:
             leaks.append(r["summary"])
     return leaks
 
