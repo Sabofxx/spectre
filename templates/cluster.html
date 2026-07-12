@@ -58,7 +58,7 @@
     <li>
       <span class="source-pill source-pill-small b-{{ orientation }}"
             {% if a.owner and a.owner != '-' %}title="Propriétaire : {{ a.owner }}"{% endif %}>
-        {% if a.source_id in favicon_ids %}<img class="favicon-img" src="{{ root }}static/favicons/{{ a.source_id }}.png" alt="" width="14" height="14" loading="lazy">{% endif %}<span class="source-name">{{ a.source_name }}</span>
+        {% if a.source_id in favicon_ids %}<img class="favicon-img" src="{{ root }}static/favicons/{{ a.source_id }}.png" alt="" width="16" height="16" loading="lazy">{% endif %}<span class="source-name">{{ a.source_name }}</span>
         <span class="style-chip style-{{ a.editorial_style }}">{{ a.editorial_style }}</span>
       </span>
       <a href="{{ a.url }}" rel="noopener external">{{ a.title }}</a>{% if a.paywall and a.paywall != 'none' %}<span class="paywall" role="img" title="Accès payant{{ ' (partiel)' if a.paywall == 'partial' }}" aria-label="accès payant{{ ' partiel' if a.paywall == 'partial' }}">🔒</span>{% endif %}
