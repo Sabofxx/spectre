@@ -4,13 +4,20 @@ from __future__ import annotations
 
 from dataclasses import dataclass, field
 
-ORIENTATIONS = ("gauche", "centre-gauche", "centre", "centre-droit", "droite")
+# Seven-position axis (2026-07-12): the extreme ends let the referential match
+# the way references (Sciences Po panoramas, Acrimed) actually classify the
+# Bolloré far-right sphere and the communist/revolutionary left, instead of
+# compressing everything into the moderate ends.
+ORIENTATIONS = (
+    "extrême-gauche", "gauche", "centre-gauche", "centre",
+    "centre-droit", "droite", "extrême-droite",
+)
 EDITORIAL_STYLES = ("factuel", "mixte", "opinion")
 PAYWALL_LEVELS = ("none", "partial", "full")
 
 # Orientation groupings used by blindspot / vocabulary contrast analyses.
-LEFT_BLOC = ("gauche", "centre-gauche")
-RIGHT_BLOC = ("centre-droit", "droite")
+LEFT_BLOC = ("extrême-gauche", "gauche", "centre-gauche")
+RIGHT_BLOC = ("centre-droit", "droite", "extrême-droite")
 
 
 @dataclass(slots=True)

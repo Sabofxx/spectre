@@ -261,11 +261,13 @@ h2 {
   margin: 0 0.3rem 0.3rem 0; background: var(--surface-soft);
 }
 .source-list { margin: 0.4rem 0 0; line-height: 1.9; }
+.b-extrême-gauche { box-shadow: inset 4px 0 0 var(--left); background: var(--left-soft); font-weight: 600; }
 .b-gauche { box-shadow: inset 3px 0 0 var(--left); background: var(--left-soft); }
 .b-centre-gauche { background: var(--left-soft); }
 .b-centre { background: var(--centre-soft); }
 .b-centre-droit { background: var(--right-soft); }
 .b-droite { box-shadow: inset 3px 0 0 var(--right); background: var(--right-soft); }
+.b-extrême-droite { box-shadow: inset 4px 0 0 var(--right); background: var(--right-soft); font-weight: 600; }
 .style-chip { font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.05em; }
 .style-factuel { color: var(--factuel); }
 .style-mixte { color: var(--mixte); }

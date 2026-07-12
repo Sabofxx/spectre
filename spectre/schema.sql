@@ -8,10 +8,13 @@ PRAGMA foreign_keys = ON;
 CREATE TABLE IF NOT EXISTS sources (
     id          TEXT PRIMARY KEY,
     name        TEXT NOT NULL,
-    orientation TEXT NOT NULL CHECK (orientation IN
-                    ('gauche', 'centre-gauche', 'centre', 'centre-droit', 'droite')),
+    -- orientation is validated in Python (models.Source) and by the CI audit,
+    -- not by a DB CHECK: the axis evolves (5 -> 7 positions in 2026-07) and a
+    -- CHECK would force a table rebuild each time.
+    orientation TEXT NOT NULL,
     editorial_style TEXT NOT NULL DEFAULT 'mixte' CHECK (editorial_style IN
                     ('factuel', 'mixte', 'opinion')),
+    paywall     TEXT NOT NULL DEFAULT 'none' CHECK (paywall IN ('none', 'partial', 'full')),
     owner       TEXT,
     active      INTEGER NOT NULL DEFAULT 1
 );
