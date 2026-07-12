@@ -187,9 +187,40 @@ def build_cards(conn: sqlite3.Connection, since: str, min_members: int) -> list[
                 card["blindspot_for"] = None
         if _RECURRING_TITLE.search(card["title"] or ""):
             continue  # program containers, not events
+        card["summary"] = _coverage_summary(card)
         cards.append(card)
     cards.sort(key=lambda c: (-c["n_sources"], -c["n_members"]))
     return cards
+
+
+def _coverage_summary(card: dict) -> str:
+    """One-sentence take on an event, from OUR metrics only (reach + framing +
+    blindspot) — never press content, so it's safe to publish. Complements the
+    coverage bar rather than repeating its per-bloc counts."""
+    n = card["n_sources"]
+    if n >= 15:
+        reach = f"Large couverture ({n} médias)"
+    elif n >= 6:
+        reach = f"Couverture notable ({n} médias)"
+    else:
+        reach = f"Couverture limitée ({n} média{'s' if n > 1 else ''})"
+
+    if card.get("blindspot_for"):
+        side = card["blindspot_for"]
+        other = "la droite" if side == "gauche" else "la gauche"
+        return f"{reach}, quasi absente à {side} — angle mort de ce bord, porté par {other}."
+
+    c = card["counts"]
+    both_sides = c["left"] > 0 and c["right"] > 0
+    div = card.get("divergence")
+    if both_sides and div is not None:
+        framing = "cadrage divergent entre bords" if div >= 0.5 else "cadrage convergent entre bords"
+        return f"{reach}, {framing}."
+    if c["left"] and not c["right"]:
+        return f"{reach}, surtout à gauche."
+    if c["right"] and not c["left"]:
+        return f"{reach}, surtout à droite."
+    return f"{reach}."
 
 
 def _vocab_view(payload: dict) -> dict:

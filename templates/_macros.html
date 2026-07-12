@@ -64,6 +64,7 @@
     {% if c.divergence is not none %}{{ divergence_badge(c.divergence) }}{% endif %}
   </p>
   <{{ heading }} class="event-title"><a href="{{ root }}cluster/{{ c.id }}.html">{{ c.title }}</a></{{ heading }}>
+  {% if c.summary %}<p class="ec-summary">{{ c.summary }}</p>{% endif %}
   <div class="ec-spectrum">
     {{ coverage_bar(c.counts) }}
     <span class="ec-spectrum-legend">

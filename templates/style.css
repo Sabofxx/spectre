@@ -258,6 +258,13 @@ a.cat:hover { color: var(--fg); text-decoration: underline; }
 .event-title a { text-decoration: none; }
 .event-title a:hover { text-decoration: underline; text-underline-offset: 3px; }
 
+/* One-line coverage take, from our own metrics (reach + framing). */
+.ec-summary {
+  margin: -0.1rem 0 0; font-size: 0.9rem; line-height: 1.4;
+  color: var(--muted);
+}
+.event-card:first-child .ec-summary { font-size: 0.98rem; }
+
 /* The political spread is the headline datum: a full-width tall bar with a
    legible legend underneath. */
 .ec-spectrum { display: flex; flex-direction: column; gap: 0.3rem; margin-top: 0.1rem; }
