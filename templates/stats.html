@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block title %}Statistiques — Spectre{% endblock %}
+{% block content %}
+<section class="page-head">
+  <p class="dateline">Transparence opérationnelle</p>
+  <h1>Statistiques</h1>
+  <p class="lede">L'état réel du pipeline, publié : dernière ingestion, santé des
+     flux, volumes par source. La crédibilité d'un index se vérifie.</p>
+</section>
+
+<h2>Pipeline</h2>
+<ul class="method-list">
+  <li>Dernière ingestion : <strong>{{ stats.last_fetch | fmt_dt("%a %d/%m, %H:%M") or "—" }}</strong></li>
+  <li>Flux OK au dernier passage : <strong>{{ health.ok }}/{{ health.total }}</strong></li>
+  <li>Événements en base : <strong>{{ stats.n_clusters }}</strong>
+      (dont {{ stats.multi_article }} multi-articles)</li>
+  <li>Divergence moyenne des contrastes calculés :
+      <strong>{{ "%.2f" | format(stats.avg_divergence) if stats.avg_divergence else "—" }}</strong></li>
+</ul>
+
+{% set failing = stats.feeds | rejectattr("status", "equalto", "ok") | list %}
+<h2>Flux en difficulté</h2>
+{% if failing %}
+<div class="table-wrap"><table class="sources-table">
+  <thead><tr><th>Source</th><th>Statut</th><th>Code</th><th>Flux</th></tr></thead>
+  <tbody>
+  {% for f in failing %}
+  <tr><td>{{ f.name }}</td><td>{{ f.status }}</td><td>{{ f.http_code or "—" }}</td>
+      <td><code>{{ f.feed_url }}</code></td></tr>
+  {% endfor %}
+  </tbody>
+</table></div>
+{% else %}
+<p class="meta">Aucun — tous les flux répondaient au dernier passage.</p>
+{% endif %}
+
+<h2>Volume par source (7 derniers jours)</h2>
+<div class="table-wrap"><table class="sources-table">
+  <thead><tr><th>Source</th><th>Orientation</th><th>Articles</th></tr></thead>
+  <tbody>
+  {% for v in stats.volumes %}
+  <tr><td>{{ v.name }}</td><td>{{ v.orientation }}</td><td>{{ v.n }}</td></tr>
+  {% endfor %}
+  </tbody>
+</table></div>
+<p class="meta">Les volumes reflètent la prolificité RSS de chaque média, pas son
+   importance — c'est pour ça que le fil est trié en sources distinctes.</p>
+{% endblock %}

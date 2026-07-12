@@ -196,7 +196,19 @@ def pipeline(
     dbmod.sync_sources(conn, sources)
     from spectre import archive as archive_mod
 
+    started = dbmod.utcnow_iso()
     n_new = ingest_mod.ingest_all(conn, sources)
+    from datetime import datetime
+    from zoneinfo import ZoneInfo
+
+    alert = ingest_mod.pipeline_health_check(
+        n_new,
+        dbmod.last_run_fetch_log(conn, started),
+        datetime.now(ZoneInfo("Europe/Paris")).hour,
+    )
+    if alert:
+        typer.echo(alert, err=True)
+        raise typer.Exit(2)
     dbmod.purge(conn)
     cluster_stats = cluster_mod.run(conn)
     analyze_mod.run(conn)

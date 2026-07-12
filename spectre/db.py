@@ -648,6 +648,49 @@ def feed_health(conn: sqlite3.Connection) -> dict:
     }
 
 
+def public_stats(conn: sqlite3.Connection) -> dict:
+    """Aggregates for the public stats page — transparency is credibility."""
+    last_fetch = conn.execute("SELECT MAX(fetched_at) AS m FROM fetch_log").fetchone()["m"]
+    feeds = conn.execute(
+        """
+        SELECT f.source_id, s.name, f.feed_url, f.status, f.http_code
+        FROM fetch_log f
+        JOIN (SELECT feed_url, MAX(id) AS mid FROM fetch_log GROUP BY feed_url) l
+          ON l.mid = f.id
+        JOIN sources s ON s.id = f.source_id
+        ORDER BY (f.status = 'ok'), s.name
+        """
+    ).fetchall()
+    week_ago = (datetime.now(timezone.utc) - timedelta(days=7)).isoformat(timespec="seconds")
+    volumes = conn.execute(
+        """
+        SELECT s.name, s.orientation, COUNT(a.id) AS n
+        FROM sources s
+        LEFT JOIN articles a ON a.source_id = s.id
+          AND COALESCE(a.published_at, a.fetched_at) >= ?
+        WHERE s.active = 1
+        GROUP BY s.id ORDER BY n DESC
+        """,
+        (week_ago,),
+    ).fetchall()
+    agg = conn.execute(
+        """
+        SELECT COUNT(*) AS n_clusters,
+               AVG(divergence_score) AS avg_divergence,
+               SUM(CASE WHEN n_members >= 2 THEN 1 ELSE 0 END) AS multi_article
+        FROM clusters
+        """
+    ).fetchone()
+    return {
+        "last_fetch": last_fetch,
+        "feeds": feeds,
+        "volumes": volumes,
+        "n_clusters": agg["n_clusters"],
+        "avg_divergence": agg["avg_divergence"],
+        "multi_article": agg["multi_article"],
+    }
+
+
 def source_stats(conn: sqlite3.Connection) -> list[sqlite3.Row]:
     """Article count per active source, for the CLI report."""
     return conn.execute(

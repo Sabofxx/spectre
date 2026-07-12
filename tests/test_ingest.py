@@ -74,3 +74,27 @@ class TestDeduplication:
     def test_null_guids_do_not_collide(self, conn):
         assert dbmod.insert_article(conn, make_article(guid=None)) is True
         assert dbmod.insert_article(conn, make_article(guid=None)) is True
+
+
+class TestPipelineHealthCheck:
+    def test_zero_articles_during_day_alerts(self):
+        from spectre.ingest import pipeline_health_check
+
+        assert pipeline_health_check(0, [], paris_hour=14) is not None
+
+    def test_zero_articles_at_night_is_fine(self):
+        from spectre.ingest import pipeline_health_check
+
+        assert pipeline_health_check(0, [], paris_hour=3) is None
+
+    def test_quarter_of_feeds_down_alerts(self):
+        from spectre.ingest import pipeline_health_check
+
+        rows = [{"status": "ok"}] * 6 + [{"status": "http_error"}] * 4
+        assert pipeline_health_check(50, rows, paris_hour=14) is not None
+
+    def test_healthy_run_passes(self):
+        from spectre.ingest import pipeline_health_check
+
+        rows = [{"status": "ok"}] * 10
+        assert pipeline_health_check(50, rows, paris_hour=14) is None
