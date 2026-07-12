@@ -1,13 +1,43 @@
 {
  "week": "2026-W28",
- "generated_at": "2026-07-12T12:13:12+00:00",
+ "generated_at": "2026-07-12T15:05:47+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
+   "title": "DIRECT. Guerre au Moyen-Orient: l'Iran attaque deux navires dans le détroit d'Ormuz, les États-Unis lancent de nouvelles frappes",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
+   "n_members": 51,
+   "n_sources": 27,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": 0.148,
+   "blindspot_for": null,
+   "divergence": 0.421,
+   "category": "international",
+   "terms_left": [
+    "nuit",
+    "téhéran",
+    "etats-unis"
+   ],
+   "terms_right": [
+    "frappes",
+    "fermeture détroit",
+    "représailles"
+   ]
+  },
+  {
    "title": "Tour de France 2026 : la 9e étape en Corrèze raccourcie en raison de la canicule",
    "url": "https://www.cnews.fr/sport/2026-07-09/tour-de-france-2026-tadej-pogacar-pulverise-son-propre-record-de-lascension-du",
-   "n_members": 64,
+   "n_members": 65,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -19,9 +49,9 @@
     "mixte": 8,
     "opinion": 3
    },
-   "blindspot_score": 0.143,
+   "blindspot_score": 0.161,
    "blindspot_for": null,
-   "divergence": 0.568,
+   "divergence": 0.569,
    "category": "sport",
    "terms_left": [
     "deuxième",
@@ -35,88 +65,58 @@
    ]
   },
   {
-   "title": "DIRECT. Guerre au Moyen-Orient: l'Iran attaque deux navires dans le détroit d'Ormuz, les États-Unis lancent de nouvelles frappes",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 42,
-   "n_sources": 23,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": -0.038,
-   "blindspot_for": null,
-   "divergence": 0.468,
-   "category": "international",
-   "terms_left": [
-    "téhéran",
-    "nuit",
-    "etats-unis"
-   ],
-   "terms_right": [
-    "représailles",
-    "navire",
-    "gardiens"
-   ]
-  },
-  {
    "title": "Coupe du monde 2026 : l'Argentine élimine la Suisse et rejoint l'Angleterre en demi-finale",
    "url": "https://www.nouvelobs.com/sport/20260709.OBS116534/un-mannequin-de-mbappe-brule-bagarre-en-conference-de-presse-le-bulletin-de-la-coupe-du-monde-de-trump.html",
-   "n_members": 62,
-   "n_sources": 22,
+   "n_members": 68,
+   "n_sources": 25,
    "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 6
+    "left": 5,
+    "centre": 13,
+    "right": 7
    },
    "style_counts": {
-    "factuel": 13,
-    "mixte": 5,
+    "factuel": 14,
+    "mixte": 7,
     "opinion": 4
    },
-   "blindspot_score": 0.25,
+   "blindspot_score": 0.235,
    "blindspot_for": null,
-   "divergence": 0.689,
+   "divergence": 0.672,
    "category": "sport",
    "terms_left": [
     "lionel",
     "lionel messi",
-    "affrontera"
+    "buts"
    ],
    "terms_right": [
     "france",
     "demi-finale",
-    "équipe"
+    "maroc"
    ]
   },
   {
    "title": "DIRECT. Canicule: 37 départements placés en vigilance rouge demain par Météo-France et 46 en vigilance orange",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 72,
-   "n_sources": 20,
+   "n_members": 82,
+   "n_sources": 23,
    "counts": {
     "left": 5,
-    "centre": 11,
-    "right": 4
+    "centre": 12,
+    "right": 6
    },
    "style_counts": {
-    "factuel": 11,
-    "mixte": 8,
+    "factuel": 12,
+    "mixte": 10,
     "opinion": 1
    },
-   "blindspot_score": -0.059,
+   "blindspot_score": 0.161,
    "blindspot_for": null,
-   "divergence": 0.508,
+   "divergence": 0.455,
    "category": "environnement",
    "terms_left": [
-    "france",
-    "année",
-    "troisième"
+    "suffoque",
+    "france suffoque",
+    "france"
    ],
    "terms_right": [
     "météo-france",
@@ -125,23 +125,53 @@
    ]
   },
   {
-   "title": "Incendie en Espagne: les images des dégâts causés par les flammes en Andalousie",
-   "url": "https://www.franceinfo.fr/monde/espagne/un-feu-de-foret-fait-douze-morts-en-andalousie-alors-que-l-espagne-affronte-une-vague-de-chaleur_8102162.html",
-   "n_members": 70,
-   "n_sources": 19,
+   "title": "Guerre en Ukraine : six morts et douze blessés, dont un enfant, après une attaque de missiles russes",
+   "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
+   "n_members": 51,
+   "n_sources": 22,
    "counts": {
     "left": 4,
     "centre": 11,
-    "right": 4
+    "right": 7
    },
    "style_counts": {
-    "factuel": 12,
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.338,
+   "blindspot_for": null,
+   "divergence": 0.81,
+   "category": "international",
+   "terms_left": [
+    "frappé",
+    "capitale",
+    "nuit"
+   ],
+   "terms_right": [
+    "président",
+    "annoncé",
+    "festival"
+   ]
+  },
+  {
+   "title": "Incendie en Espagne: les images des dégâts causés par les flammes en Andalousie",
+   "url": "https://www.franceinfo.fr/monde/espagne/un-feu-de-foret-fait-douze-morts-en-andalousie-alors-que-l-espagne-affronte-une-vague-de-chaleur_8102162.html",
+   "n_members": 79,
+   "n_sources": 21,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 14,
     "mixte": 6,
     "opinion": 1
    },
-   "blindspot_score": 0.053,
+   "blindspot_score": 0.181,
    "blindspot_for": null,
-   "divergence": 0.625,
+   "divergence": 0.624,
    "category": "international",
    "terms_left": [
     "mortes",
@@ -155,53 +185,53 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine : six morts et douze blessés, dont un enfant, après une attaque de missiles russes",
-   "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 41,
-   "n_sources": 19,
+   "title": "Nice : une marche blanche lance les commémorations des dix ans de l'attentat du 14 juillet",
+   "url": "https://www.lemonde.fr/societe/article/2026/07/10/14-juillet-les-personnes-qui-veulent-assister-au-defile-sur-les-champs-elysees-devront-presenter-un-qr-code_6722451_3224.html",
+   "n_members": 60,
+   "n_sources": 20,
    "counts": {
-    "left": 4,
-    "centre": 10,
-    "right": 5
+    "left": 3,
+    "centre": 11,
+    "right": 6
    },
    "style_counts": {
     "factuel": 11,
-    "mixte": 6,
+    "mixte": 7,
     "opinion": 2
    },
-   "blindspot_score": 0.163,
+   "blindspot_score": 0.395,
    "blindspot_for": null,
-   "divergence": 0.803,
-   "category": "international",
+   "divergence": 0.564,
+   "category": "société",
    "terms_left": [
-    "frappé",
-    "capitale",
-    "ukrainienne"
+    "victimes",
+    "sécurité",
+    "proches"
    ],
    "terms_right": [
-    "morts",
-    "grand",
-    "frappes"
+    "nationale",
+    "fête",
+    "annoncé"
    ]
   },
   {
    "title": "Présidentielle 2027 : Clémentine Autain prend acte de l’échec de la « primaire unitaire » de la gauche et renonce à être candidate",
    "url": "https://www.lemonde.fr/politique/article/2026/07/11/segolene-royal-raphael-glucksmann-francois-hollande-la-primaire-sociale-democrate-cherche-ses-candidats_6722668_823448.html",
-   "n_members": 35,
-   "n_sources": 18,
+   "n_members": 36,
+   "n_sources": 19,
    "counts": {
     "left": 5,
-    "centre": 8,
+    "centre": 9,
     "right": 5
    },
    "style_counts": {
-    "factuel": 9,
+    "factuel": 10,
     "mixte": 6,
     "opinion": 3
    },
-   "blindspot_score": 0.053,
+   "blindspot_score": 0.071,
    "blindspot_for": null,
-   "divergence": 0.485,
+   "divergence": 0.482,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -210,14 +240,74 @@
    ],
    "terms_right": [
     "candidature",
-    "élection",
-    "français"
+    "français",
+    "nouvelle"
+   ]
+  },
+  {
+   "title": "Emmanuel Macron appelle à la vigilance «de tous les instants» face au «retour de l'odieux antisémitisme»",
+   "url": "https://www.franceinfo.fr/culture/patrimoine/histoire/une-premiere-ceremonie-d-hommage-national-a-alfred-dreyfus-organisee-dimanche-en-presence-d-emmanuel-macron_8104097.html",
+   "n_members": 30,
+   "n_sources": 19,
+   "counts": {
+    "left": 6,
+    "centre": 8,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": -0.02,
+   "blindspot_for": null,
+   "divergence": 0.481,
+   "category": "politique",
+   "terms_left": [
+    "dreyfus",
+    "etat",
+    "chef etat"
+   ],
+   "terms_right": [
+    "vigilance",
+    "face",
+    "retour"
+   ]
+  },
+  {
+   "title": "Mort du sénateur américain Lindsey Graham, un allié de Donald Trump",
+   "url": "https://www.lemonde.fr/disparitions/article/2026/07/12/lindsey-graham-senateur-americain-proche-de-donald-trump-est-mort-a-l-age-de-71-ans-selon-son-entourage_6722880_3382.html",
+   "n_members": 25,
+   "n_sources": 19,
+   "counts": {
+    "left": 3,
+    "centre": 11,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 6,
+    "opinion": 1
+   },
+   "blindspot_score": 0.316,
+   "blindspot_for": null,
+   "divergence": 0.38,
+   "category": "international",
+   "terms_left": [
+    "mort",
+    "rendu",
+    "mort sénateur"
+   ],
+   "terms_right": [
+    "allié",
+    "président",
+    "vie"
    ]
   },
   {
    "title": "Chine : près de 2 millions de personnes évacuées à l'approche du typhon Bavi",
    "url": "https://www.leparisien.fr/meteo/typhon-bavi-pres-dun-million-de-personnes-evacuees-en-chine-avant-limpact-sur-wenzhou-11-07-2026-ISQOPUO3YFD7RLSBA2RR6BFDYI.php",
-   "n_members": 46,
+   "n_members": 48,
    "n_sources": 17,
    "counts": {
     "left": 1,
@@ -229,7 +319,7 @@
     "mixte": 4,
     "opinion": 2
    },
-   "blindspot_score": 0.695,
+   "blindspot_score": 0.705,
    "blindspot_for": "gauche",
    "divergence": null,
    "category": "environnement",
@@ -237,75 +327,23 @@
    "terms_right": []
   },
   {
-   "title": "Nice : une marche blanche lance les commémorations des dix ans de l'attentat du 14 juillet",
-   "url": "https://www.lemonde.fr/societe/article/2026/07/10/14-juillet-les-personnes-qui-veulent-assister-au-defile-sur-les-champs-elysees-devront-presenter-un-qr-code_6722451_3224.html",
-   "n_members": 46,
-   "n_sources": 17,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.299,
-   "blindspot_for": null,
-   "divergence": 0.659,
-   "category": "société",
-   "terms_left": [
-    "sécurité",
-    "code",
-    "qr"
-   ],
-   "terms_right": [
-    "hommage",
-    "fête",
-    "fois"
-   ]
-  },
-  {
-   "title": "Mort du sénateur américain Lindsey Graham, un allié de Donald Trump",
-   "url": "https://www.lemonde.fr/disparitions/article/2026/07/12/lindsey-graham-senateur-americain-proche-de-donald-trump-est-mort-a-l-age-de-71-ans-selon-son-entourage_6722880_3382.html",
-   "n_members": 22,
-   "n_sources": 17,
+   "title": "\"La vengeance doit s'accomplir inévitablement\": le Guide suprême iranien Mojtaba Khamenei lance des menaces à son tour",
+   "url": "https://www.liberation.fr/international/moyen-orient/en-iran-labsence-du-nouveau-guide-supreme-aiguise-les-rivalites-au-sein-du-pouvoir-20260710_PIR3PG75ONBYTCW3DAAP3W2OW4/",
+   "n_members": 25,
+   "n_sources": 16,
    "counts": {
     "left": 2,
     "centre": 10,
-    "right": 5
+    "right": 4
    },
    "style_counts": {
     "factuel": 11,
     "mixte": 5,
-    "opinion": 1
-   },
-   "blindspot_score": 0.471,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "\"La vengeance doit s'accomplir inévitablement\": le Guide suprême iranien Mojtaba Khamenei lance des menaces à son tour",
-   "url": "https://www.liberation.fr/international/moyen-orient/en-iran-labsence-du-nouveau-guide-supreme-aiguise-les-rivalites-au-sein-du-pouvoir-20260710_PIR3PG75ONBYTCW3DAAP3W2OW4/",
-   "n_members": 23,
-   "n_sources": 15,
-   "counts": {
-    "left": 2,
-    "centre": 9,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 5,
     "opinion": 0
    },
-   "blindspot_score": 0.379,
+   "blindspot_score": 0.395,
    "blindspot_for": null,
-   "divergence": 0.473,
+   "divergence": 0.493,
    "category": "international",
    "terms_left": [
     "mort",
@@ -313,45 +351,37 @@
     "iran"
    ],
    "terms_right": [
-    "vengeance",
     "venger",
-    "guerre moyen-orient"
+    "khamenei",
+    "vengeance"
    ]
   },
   {
-   "title": "Emmanuel Macron appelle à la vigilance «de tous les instants» face au «retour de l'odieux antisémitisme»",
-   "url": "https://www.franceinfo.fr/culture/patrimoine/histoire/une-premiere-ceremonie-d-hommage-national-a-alfred-dreyfus-organisee-dimanche-en-presence-d-emmanuel-macron_8104097.html",
-   "n_members": 21,
+   "title": "Mondial 2026 : Angleterre élimine la Norvège et affrontera l'Argentine en demi-finales",
+   "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/norvege-angleterre-la-composition-des-equipes-pour-le-quart-de-finale-de-la-coupe-du-monde-11-07-2026-CVUMVWWP7ZDS3PSSYZQOX3TZSU.php",
+   "n_members": 43,
    "n_sources": 15,
    "counts": {
-    "left": 5,
-    "centre": 6,
-    "right": 4
+    "left": 1,
+    "centre": 11,
+    "right": 3
    },
    "style_counts": {
-    "factuel": 7,
-    "mixte": 6,
-    "opinion": 2
+    "factuel": 11,
+    "mixte": 3,
+    "opinion": 1
    },
-   "blindspot_score": -0.059,
+   "blindspot_score": 0.552,
    "blindspot_for": null,
-   "divergence": 0.489,
-   "category": "société",
-   "terms_left": [
-    "dreyfus",
-    "justice",
-    "capitaine dreyfus"
-   ],
-   "terms_right": [
-    "emmanuel",
-    "emmanuel macron",
-    "face"
-   ]
+   "divergence": null,
+   "category": "sport",
+   "terms_left": [],
+   "terms_right": []
   },
   {
-   "title": "Marine Le Pen reste candidate à la présidentielle, malgré sa condamnation à un an ferme sous bracelet électronique",
+   "title": "Présidentielle 2027 : éligible et candidate, Marine Le Pen veut imposer un débat de fond",
    "url": "https://www.nouvelobs.com/politique/20260710.OBS116567/marine-le-pen-souffrira-t-elle-de-sa-condamnation-pour-detournement-de-fonds-publics-aux-yeux-de-ses-electeurs-elle-n-est-pas-une-politique-ordinaire.html",
-   "n_members": 26,
+   "n_members": 28,
    "n_sources": 14,
    "counts": {
     "left": 3,
@@ -363,40 +393,114 @@
     "mixte": 4,
     "opinion": 4
    },
-   "blindspot_score": 0.299,
+   "blindspot_score": 0.316,
    "blindspot_for": null,
-   "divergence": 0.513,
+   "divergence": 0.496,
    "category": "politique",
    "terms_left": [
     "fonds",
-    "publics",
-    "fonds publics"
+    "justice",
+    "publics"
    ],
    "terms_right": [
     "campagne",
-    "rn",
-    "qu"
+    "qu",
+    "cassation"
    ]
   },
   {
-   "title": "Mondial 2026 : Angleterre élimine la Norvège et affrontera l'Argentine en demi-finales",
-   "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/norvege-angleterre-la-composition-des-equipes-pour-le-quart-de-finale-de-la-coupe-du-monde-11-07-2026-CVUMVWWP7ZDS3PSSYZQOX3TZSU.php",
-   "n_members": 37,
+   "title": "Incendies : 32 individus suspectés d'être à l'origine de départs de feu ont été arrêtés en France, annonce Laurent Nuñez",
+   "url": "https://www.20minutes.fr/societe/4234081-20260711-canicule-14-juillet-rennes-orleans-limoges-aix-feux-artifice-annules-dizaines-villes",
+   "n_members": 32,
    "n_sources": 13,
    "counts": {
-    "left": 1,
-    "centre": 9,
+    "left": 2,
+    "centre": 6,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 7,
+    "mixte": 4,
+    "opinion": 2
+   },
+   "blindspot_score": 0.485,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "environnement",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Mondial 2026 : le milieu sud-africain Jayden Adams retrouvé mort à 25 ans",
+   "url": "https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-2026-le-selectionneur-de-l-argentine-rejette-les-accusations-de-favoritisme-envers-lionel-messi-et-ses-coequipiers_8104103.html",
+   "n_members": 29,
+   "n_sources": 13,
+   "counts": {
+    "left": 0,
+    "centre": 10,
     "right": 3
    },
    "style_counts": {
-    "factuel": 9,
-    "mixte": 3,
+    "factuel": 10,
+    "mixte": 2,
     "opinion": 1
    },
-   "blindspot_score": 0.538,
-   "blindspot_for": null,
+   "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
    "divergence": null,
    "category": "sport",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Guerre au Moyen-Orient : \"L’armée américaine est prête\"... Donald Trump menace de \"décimer et détruire complètement\" l’Iran en cas de tentative d’assassinat",
+   "url": "https://www.mediapart.fr/journal/international/100726/ni-guerre-ni-paix-pourquoi-les-etats-unis-et-l-iran-sont-pieges-dans-l-impasse-d-ormuz",
+   "n_members": 24,
+   "n_sources": 13,
+   "counts": {
+    "left": 4,
+    "centre": 6,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 7,
+    "mixte": 5,
+    "opinion": 1
+   },
+   "blindspot_score": -0.072,
+   "blindspot_for": null,
+   "divergence": 0.709,
+   "category": "international",
+   "terms_left": [
+    "téhéran",
+    "frappes",
+    "dit"
+   ],
+   "terms_right": [
+    "pays",
+    "donald trump",
+    "donald"
+   ]
+  },
+  {
+   "title": "Val-d'Oise : le parquet national antiterroriste se saisit après la découverte d'un véhicule suspect à Sarcelles",
+   "url": "https://www.leparisien.fr/val-d-oise-95/sarcelles-95200/sarcelles-300-personnes-evacuees-samedi-soir-pour-deminer-un-vehicule-un-suspect-interpelle-12-07-2026-Y4FSRYE37FEL7DHZBKD53BBVKE.php",
+   "n_members": 16,
+   "n_sources": 13,
+   "counts": {
+    "left": 2,
+    "centre": 6,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 7,
+    "mixte": 4,
+    "opinion": 2
+   },
+   "blindspot_score": 0.485,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "faits-divers",
    "terms_left": [],
    "terms_right": []
   },
@@ -415,7 +519,7 @@
     "mixte": 3,
     "opinion": 1
    },
-   "blindspot_score": 0.633,
+   "blindspot_score": 0.644,
    "blindspot_for": "gauche",
    "divergence": null,
    "category": "société",
@@ -423,43 +527,21 @@
    "terms_right": []
   },
   {
-   "title": "Incendies : 32 individus suspectés d'être à l'origine de départs de feu ont été arrêtés en France, annonce Laurent Nuñez",
-   "url": "https://www.20minutes.fr/societe/4234081-20260711-canicule-14-juillet-rennes-orleans-limoges-aix-feux-artifice-annules-dizaines-villes",
-   "n_members": 31,
+   "title": "\"Aucun Français\": l'ancien Premier ministre espagnol effectue un dérapage raciste contre les Bleus avant la demi-finale de la Coupe du monde face à l'Espagne",
+   "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/une-equipe-de-france-sans-francais-les-propos-aux-relents-racistes-de-lancien-premier-ministre-espagnol-mariano-rajoy-12-07-2026-2OUQKEPHOJDVXE6AMM3GWOVKQY.php",
+   "n_members": 18,
    "n_sources": 12,
    "counts": {
-    "left": 2,
-    "centre": 6,
+    "left": 1,
+    "centre": 7,
     "right": 4
    },
    "style_counts": {
-    "factuel": 7,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": 0.379,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "environnement",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Mondial 2026 : le milieu sud-africain Jayden Adams retrouvé mort à 25 ans",
-   "url": "https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-2026-le-selectionneur-de-l-argentine-rejette-les-accusations-de-favoritisme-envers-lionel-messi-et-ses-coequipiers_8104103.html",
-   "n_members": 28,
-   "n_sources": 12,
-   "counts": {
-    "left": 0,
-    "centre": 9,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 9,
+    "factuel": 8,
     "mixte": 2,
-    "opinion": 1
+    "opinion": 2
    },
-   "blindspot_score": 1.0,
+   "blindspot_score": 0.644,
    "blindspot_for": "gauche",
    "divergence": null,
    "category": "sport",
@@ -467,52 +549,74 @@
    "terms_right": []
   },
   {
-   "title": "Guerre au Moyen-Orient : \"L’armée américaine est prête\"... Donald Trump menace de \"décimer et détruire complètement\" l’Iran en cas de tentative d’assassinat",
-   "url": "https://www.mediapart.fr/journal/international/100726/ni-guerre-ni-paix-pourquoi-les-etats-unis-et-l-iran-sont-pieges-dans-l-impasse-d-ormuz",
-   "n_members": 22,
-   "n_sources": 12,
-   "counts": {
-    "left": 4,
-    "centre": 5,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 6,
-    "mixte": 5,
-    "opinion": 1
-   },
-   "blindspot_score": -0.091,
-   "blindspot_for": null,
-   "divergence": 0.708,
-   "category": "international",
-   "terms_left": [
-    "téhéran",
-    "frappes",
-    "dit"
-   ],
-   "terms_right": [
-    "pays",
-    "donald trump",
-    "donald"
-   ]
-  },
-  {
    "title": "À peine sorti de prison, un homme récidive et viole une étudiante à Aix-en-Provence, dans les Bouches-du-Rhône",
    "url": "https://www.ladepeche.fr/2026/07/11/elle-prenait-lair-a-cause-de-la-chaleur-une-etudiante-de-21-ans-a-ete-enlevee-et-violee-sous-la-menace-dun-couteau-le-suspect-est-un-violeur-en-serie-13464920.php",
-   "n_members": 11,
-   "n_sources": 11,
+   "n_members": 12,
+   "n_sources": 12,
    "counts": {
     "left": 1,
     "centre": 8,
-    "right": 2
+    "right": 3
    },
    "style_counts": {
-    "factuel": 8,
+    "factuel": 9,
     "mixte": 2,
     "opinion": 1
    },
-   "blindspot_score": 0.379,
+   "blindspot_score": 0.552,
    "blindspot_for": null,
+   "divergence": null,
+   "category": "faits-divers",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "« C’est leur baroud d’honneur » : jusqu’au bout, la droite tente de faire barrage à la loi sur la fin de vie",
+   "url": "https://www.lemonde.fr/politique/article/2026/07/10/retraites-les-experts-du-comite-de-suivi-preconisent-de-brider-les-pensions-pour-sortir-d-une-situation-alarmante_6722403_823448.html",
+   "n_members": 17,
+   "n_sources": 11,
+   "counts": {
+    "left": 3,
+    "centre": 6,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 5,
+    "mixte": 5,
+    "opinion": 1
+   },
+   "blindspot_score": -0.13,
+   "blindspot_for": null,
+   "divergence": 0.849,
+   "category": "politique",
+   "terms_left": [
+    "fin",
+    "vie",
+    "loi"
+   ],
+   "terms_right": [
+    "retraites",
+    "euros",
+    "gouvernement"
+   ]
+  },
+  {
+   "title": "Incendie dans la Drôme : 3 500 hectares parcourus et nouvelles évacuations préventives",
+   "url": "https://www.mediapart.fr/journal/ecologie/100726/incendie-de-die-des-evacuations-chaotiques-et-une-communication-verrouillee",
+   "n_members": 21,
+   "n_sources": 10,
+   "counts": {
+    "left": 1,
+    "centre": 5,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 5,
+    "mixte": 4,
+    "opinion": 1
+   },
+   "blindspot_score": 0.644,
+   "blindspot_for": "gauche",
    "divergence": null,
    "category": "faits-divers",
    "terms_left": [],
@@ -521,7 +625,7 @@
   {
    "title": "Australie-France (26-42) : les Bleus signent un premier succès dans ce Championnat des nations",
    "url": "https://www.lemonde.fr/sport/article/2026/07/11/france-australie-fabien-galthie-fait-le-pari-d-un-duo-ntamack-jalibert-pour-affronter-les-wallabies-au-championnat-des-nations-de-rugby_6722621_3242.html",
-   "n_members": 15,
+   "n_members": 16,
    "n_sources": 10,
    "counts": {
     "left": 2,
@@ -533,12 +637,42 @@
     "mixte": 3,
     "opinion": 0
    },
-   "blindspot_score": -0.286,
+   "blindspot_score": -0.268,
    "blindspot_for": null,
    "divergence": null,
    "category": "sport",
    "terms_left": [],
    "terms_right": []
+  },
+  {
+   "title": "Présomption de légitime défense pour les forces de l'ordre : la LDH dénonce \"un permis de tuer\"",
+   "url": "https://www.nouvelobs.com/politique/20260710.OBS116561/la-petition-contre-la-proposition-de-loi-legitime-defense-pourra-t-elle-etre-discutee-a-l-assemblee-nationale.html",
+   "n_members": 11,
+   "n_sources": 10,
+   "counts": {
+    "left": 5,
+    "centre": 3,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 3,
+    "mixte": 4,
+    "opinion": 3
+   },
+   "blindspot_score": -0.368,
+   "blindspot_for": null,
+   "divergence": 0.661,
+   "category": "politique",
+   "terms_left": [
+    "présomption légitime",
+    "légitime défense",
+    "légitime"
+   ],
+   "terms_right": [
+    "permis",
+    "tuer",
+    "permis tuer"
+   ]
   },
   {
    "title": "Présidentielle 2027: Marine Le Pen largement en tête au premier tour selon le dernier sondage Elabe pour BFMTV",
@@ -563,113 +697,61 @@
    "terms_right": []
   },
   {
-   "title": "Incendie dans la Drôme : 3 500 hectares parcourus et nouvelles évacuations préventives",
-   "url": "https://www.mediapart.fr/journal/ecologie/100726/incendie-de-die-des-evacuations-chaotiques-et-une-communication-verrouillee",
-   "n_members": 16,
+   "title": "Le rappeur Pitbull établit un record du monde du plus grand rassemblement de faux crânes chauves",
+   "url": "https://www.bfmtv.com/international/europe/angleterre/l-histoire-qui-s-ecrit-sous-nos-yeux-le-rappeur-pitbull-etablit-un-record-du-monde-du-plus-grand-rassemblement-de-faux-cranes-chauves_AN-202607110270.html",
+   "n_members": 9,
    "n_sources": 9,
    "counts": {
-    "left": 1,
-    "centre": 5,
+    "left": 0,
+    "centre": 6,
     "right": 3
    },
    "style_counts": {
-    "factuel": 5,
-    "mixte": 4,
-    "opinion": 0
-   },
-   "blindspot_score": 0.538,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "« C’est leur baroud d’honneur » : jusqu’au bout, la droite tente de faire barrage à la loi sur la fin de vie",
-   "url": "https://www.lemonde.fr/politique/article/2026/07/10/retraites-les-experts-du-comite-de-suivi-preconisent-de-brider-les-pensions-pour-sortir-d-une-situation-alarmante_6722403_823448.html",
-   "n_members": 14,
-   "n_sources": 9,
-   "counts": {
-    "left": 3,
-    "centre": 4,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 3,
-    "mixte": 5,
+    "factuel": 7,
+    "mixte": 1,
     "opinion": 1
    },
-   "blindspot_score": -0.149,
-   "blindspot_for": null,
-   "divergence": 0.85,
-   "category": "politique",
-   "terms_left": [
-    "fin",
-    "vie",
-    "loi"
-   ],
-   "terms_right": [
-    "retraites",
-    "euros",
-    "gouvernement"
-   ]
-  },
-  {
-   "title": "Coupe du monde 2026 : « Un racisme crasseux »… Des politiques français répondent à l’Espagnol Rajoy sur les Bleus",
-   "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/une-equipe-de-france-sans-francais-les-propos-aux-relents-racistes-de-lancien-premier-ministre-espagnol-mariano-rajoy-12-07-2026-2OUQKEPHOJDVXE6AMM3GWOVKQY.php",
-   "n_members": 13,
-   "n_sources": 9,
-   "counts": {
-    "left": 1,
-    "centre": 4,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 5,
-    "mixte": 2,
-    "opinion": 2
-   },
-   "blindspot_score": 0.633,
+   "blindspot_score": 1.0,
    "blindspot_for": "gauche",
    "divergence": null,
-   "category": "sport",
+   "category": "culture",
    "terms_left": [],
    "terms_right": []
   },
   {
-   "title": "Présomption de légitime défense pour les forces de l'ordre : la LDH dénonce \"un permis de tuer\"",
-   "url": "https://www.nouvelobs.com/politique/20260710.OBS116561/la-petition-contre-la-proposition-de-loi-legitime-defense-pourra-t-elle-etre-discutee-a-l-assemblee-nationale.html",
-   "n_members": 9,
+   "title": "Wimbledon : Linda Noskova s'impose en finale face à Karolina Muchova et remporte son premier titre du Grand Chelem",
+   "url": "https://www.cnews.fr/sport/2026-07-10/arthur-fery-alexander-zverev-demi-finale-de-wimbledon-2026-quelle-heure-et-sur",
+   "n_members": 14,
    "n_sources": 8,
    "counts": {
-    "left": 4,
-    "centre": 2,
+    "left": 2,
+    "centre": 4,
     "right": 2
    },
    "style_counts": {
-    "factuel": 2,
+    "factuel": 4,
     "mixte": 3,
-    "opinion": 3
+    "opinion": 1
    },
-   "blindspot_score": -0.286,
+   "blindspot_score": 0.071,
    "blindspot_for": null,
-   "divergence": 0.679,
-   "category": "politique",
+   "divergence": 0.544,
+   "category": "sport",
    "terms_left": [
-    "présomption légitime",
-    "légitime défense",
-    "légitime"
+    "vainqueur",
+    "alexander",
+    "alexander zverev"
    ],
    "terms_right": [
-    "tirs",
-    "permis",
-    "tuer"
+    "wimbledon",
+    "mondial",
+    "face"
    ]
   },
   {
-   "title": "«C'est l'histoire qui s'écrit sous nos yeux» : le rappeur Pitbull établit un record du monde du plus grand rassemblement de faux crânes chauves",
-   "url": "https://www.bfmtv.com/international/europe/angleterre/l-histoire-qui-s-ecrit-sous-nos-yeux-le-rappeur-pitbull-etablit-un-record-du-monde-du-plus-grand-rassemblement-de-faux-cranes-chauves_AN-202607110270.html",
-   "n_members": 8,
+   "title": "Disparition. L'actrice Claudette Walker, « mamie de YouTube », est décédée à 86 ans",
+   "url": "https://www.bfmtv.com/culture/l-actrice-claudette-walker-surnommee-la-mamie-de-youtube-est-morte-a-86-ans_AD-202607110405.html",
+   "n_members": 9,
    "n_sources": 8,
    "counts": {
     "left": 0,
@@ -703,7 +785,7 @@
     "mixte": 2,
     "opinion": 1
    },
-   "blindspot_score": 0.379,
+   "blindspot_score": 0.395,
    "blindspot_for": null,
    "divergence": null,
    "category": "société",
@@ -711,56 +793,26 @@
    "terms_right": []
   },
   {
-   "title": "Disparition. L'actrice Claudette Walker, « mamie de YouTube », est décédée à 86 ans",
-   "url": "https://www.bfmtv.com/culture/l-actrice-claudette-walker-surnommee-la-mamie-de-youtube-est-morte-a-86-ans_AD-202607110405.html",
+   "title": "Essone. Shemseddine, collégien battu à mort : deux mis en examen libérés en raison d'un vide juridique",
+   "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
    "n_members": 8,
-   "n_sources": 8,
+   "n_sources": 7,
    "counts": {
-    "left": 0,
-    "centre": 5,
+    "left": 1,
+    "centre": 3,
     "right": 3
    },
    "style_counts": {
-    "factuel": 6,
-    "mixte": 1,
-    "opinion": 1
+    "factuel": 4,
+    "mixte": 3,
+    "opinion": 0
    },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
+   "blindspot_score": 0.552,
+   "blindspot_for": null,
    "divergence": null,
-   "category": "culture",
+   "category": "faits-divers",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Wimbledon : Linda Noskova s'impose en finale face à Karolina Muchova et remporte son premier titre du Grand Chelem",
-   "url": "https://www.cnews.fr/sport/2026-07-10/arthur-fery-alexander-zverev-demi-finale-de-wimbledon-2026-quelle-heure-et-sur",
-   "n_members": 12,
-   "n_sources": 7,
-   "counts": {
-    "left": 2,
-    "centre": 3,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 3,
-    "mixte": 3,
-    "opinion": 1
-   },
-   "blindspot_score": 0.053,
-   "blindspot_for": null,
-   "divergence": 0.542,
-   "category": "sport",
-   "terms_left": [
-    "vainqueur",
-    "alexander zverev",
-    "alexander"
-   ],
-   "terms_right": [
-    "wimbledon",
-    "mondial",
-    "face"
-   ]
   },
   {
    "title": "Paris : un homme de 21 ans tué au couteau alors qu’il dînait avec sa compagne, le suspect en fuite",
@@ -785,46 +837,24 @@
    "terms_right": []
   },
   {
-   "title": "INFO E1 - Sarcelles : 300 personnes évacuées en raison d’une menace d’attentat contre la communauté juive, des armes retrouvées dans un véhicule",
-   "url": "https://www.leparisien.fr/val-d-oise-95/sarcelles-95200/sarcelles-300-personnes-evacuees-samedi-soir-pour-deminer-un-vehicule-un-suspect-interpelle-12-07-2026-Y4FSRYE37FEL7DHZBKD53BBVKE.php",
-   "n_members": 7,
-   "n_sources": 7,
-   "counts": {
-    "left": 0,
-    "centre": 3,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 4,
-    "mixte": 1,
-    "opinion": 2
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Essone. Shemseddine, collégien battu à mort : deux mis en examen libérés en raison d'un vide juridique",
-   "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
-   "n_members": 6,
+   "title": "Tour de France 2026, étape 9 : parcours et profil de l’étape du jour entre Malemort et Ussel",
+   "url": "https://www.leparisien.fr/sports/cyclisme/tour-de-france/tour-de-france-2026-etape-9-les-horaires-et-points-de-passage-de-la-caravane-entre-malemort-et-ussel-11-07-2026-RG2AEYIENRAXXGHWHZT3DQX24E.php",
+   "n_members": 9,
    "n_sources": 6,
    "counts": {
     "left": 0,
-    "centre": 3,
-    "right": 3
+    "centre": 5,
+    "right": 1
    },
    "style_counts": {
-    "factuel": 4,
-    "mixte": 2,
+    "factuel": 5,
+    "mixte": 1,
     "opinion": 0
    },
    "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
+   "blindspot_for": null,
    "divergence": null,
-   "category": "faits-divers",
+   "category": "sport",
    "terms_left": [],
    "terms_right": []
   },
@@ -843,9 +873,9 @@
     "mixte": 3,
     "opinion": 1
    },
-   "blindspot_score": 0.053,
+   "blindspot_score": 0.071,
    "blindspot_for": null,
-   "divergence": 0.403,
+   "divergence": 0.402,
    "category": "sport",
    "terms_left": [
     "statut",
@@ -859,24 +889,46 @@
    ]
   },
   {
-   "title": "Tour de France 2026, étape 9 : les horaires et points de passage de la caravane entre Malemort et Ussel",
-   "url": "https://www.leparisien.fr/sports/cyclisme/tour-de-france/tour-de-france-2026-etape-9-les-horaires-et-points-de-passage-de-la-caravane-entre-malemort-et-ussel-11-07-2026-RG2AEYIENRAXXGHWHZT3DQX24E.php",
-   "n_members": 7,
-   "n_sources": 5,
+   "title": "Canicule : trois réacteurs nucléaires à l'arrêt et huit à puissance réduite en France",
+   "url": "https://www.tf1info.fr/environnement-ecologie/coup-de-chaud-dans-les-centrales-nucleaires-bercy-accorde-une-derogation-environnementale-pour-le-site-de-bugey-2452605.html",
+   "n_members": 6,
+   "n_sources": 6,
    "counts": {
-    "left": 0,
-    "centre": 4,
-    "right": 1
+    "left": 1,
+    "centre": 3,
+    "right": 2
    },
    "style_counts": {
     "factuel": 4,
-    "mixte": 1,
+    "mixte": 2,
     "opinion": 0
    },
-   "blindspot_score": 1.0,
+   "blindspot_score": 0.395,
    "blindspot_for": null,
    "divergence": null,
-   "category": "sport",
+   "category": "environnement",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Le Mexique annonce des poursuites pénales contre l’ICE après la mort de ses ressortissants aux États-Unis",
+   "url": "https://information.tv5monde.com/international/le-dernier-matin-de-lorenzo-salgado-un-reve-americain-fauche-2829566",
+   "n_members": 6,
+   "n_sources": 5,
+   "counts": {
+    "left": 2,
+    "centre": 3,
+    "right": 0
+   },
+   "style_counts": {
+    "factuel": 3,
+    "mixte": 2,
+    "opinion": 0
+   },
+   "blindspot_score": -1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "international",
    "terms_left": [],
    "terms_right": []
   },
@@ -895,18 +947,18 @@
     "mixte": 4,
     "opinion": 0
    },
-   "blindspot_score": -0.459,
+   "blindspot_score": -0.444,
    "blindspot_for": null,
    "divergence": 0.447,
    "category": "société",
    "terms_left": [
     "ans",
     "qu",
-    "bruel visé"
+    "visé nouvelle"
    ],
    "terms_right": [
-    "sexuelle",
     "agression sexuelle",
+    "sexuelle",
     "agression"
    ]
   },
@@ -933,90 +985,46 @@
    "terms_right": []
   },
   {
-   "title": "Mort de Lorenzo Salgado Araujo : la goutte de trop pour le Mexique face à Trump et l’ICE",
-   "url": "https://information.tv5monde.com/international/le-dernier-matin-de-lorenzo-salgado-un-reve-americain-fauche-2829566",
+   "title": "OpenAI attaquée en justice par Apple pour détournement d’informations confidentielles",
+   "url": "https://www.lexpress.fr/economie/high-tech/apple-poursuit-openai-en-justice-linexorable-montee-des-tensions-entres-les-deux-societes-FHW4GAUDLRCWDHVETB3Q5RVMDA/",
    "n_members": 5,
-   "n_sources": 4,
+   "n_sources": 5,
    "counts": {
-    "left": 2,
+    "left": 0,
     "centre": 2,
-    "right": 0
-   },
-   "style_counts": {
-    "factuel": 2,
-    "mixte": 2,
-    "opinion": 0
-   },
-   "blindspot_score": -1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Projet de loi contre le racisme et l’antisémitisme : une « surenchère législative » qui cache un « échec total », selon Jean-Philippe Tanguy",
-   "url": "https://www.publicsenat.fr/actualites/politique/lutte-contre-le-racisme-et-antisemitisme-aurore-berge-presente-un-texte-avec-une-peine-dineligibilite-pour-les-elus-reconnus-coupables-de-ces-infractions",
-   "n_members": 4,
-   "n_sources": 4,
-   "counts": {
-    "left": 1,
-    "centre": 3,
-    "right": 0
+    "right": 3
    },
    "style_counts": {
     "factuel": 3,
     "mixte": 1,
-    "opinion": 0
+    "opinion": 1
    },
-   "blindspot_score": -1.0,
-   "blindspot_for": null,
+   "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
    "divergence": null,
-   "category": "politique",
+   "category": "sciences-tech",
    "terms_left": [],
    "terms_right": []
   },
   {
-   "title": "Périscolaire parisien : première condamnation pour agressions sexuelles d’un animateur",
-   "url": "https://www.lejdd.fr/Societe/periscolaire-un-animateur-condamne-a-18-mois-de-prison-avec-sursis-a-paris-178683",
-   "n_members": 4,
-   "n_sources": 4,
+   "title": "Sénégal: le sélectionneur Pape Thiaw limogé après un Mondial décevant",
+   "url": "https://www.rfi.fr/fr/afrique-foot/20260712-s%C3%A9n%C3%A9gal-le-s%C3%A9lectionneur-pape-thiaw-limog%C3%A9-apr%C3%A8s-un-mondial-d%C3%A9cevant",
+   "n_members": 5,
+   "n_sources": 5,
    "counts": {
-    "left": 1,
-    "centre": 2,
+    "left": 0,
+    "centre": 4,
     "right": 1
    },
    "style_counts": {
-    "factuel": 1,
-    "mixte": 2,
+    "factuel": 4,
+    "mixte": 0,
     "opinion": 1
    },
-   "blindspot_score": 0.053,
+   "blindspot_score": 1.0,
    "blindspot_for": null,
    "divergence": null,
-   "category": "société",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Corps démembré aux Buttes-Chaumont : le mari de la victime condamné à 27 ans de réclusion criminelle",
-   "url": "https://www.europe1.fr/police-justice/corps-demembre-aux-buttes-chaumont-le-mari-condamne-a-27-ans-de-reclusion-970125",
-   "n_members": 4,
-   "n_sources": 4,
-   "counts": {
-    "left": 1,
-    "centre": 0,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 0,
-    "mixte": 2,
-    "opinion": 2
-   },
-   "blindspot_score": 0.538,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "société",
+   "category": "sport",
    "terms_left": [],
    "terms_right": []
   }
