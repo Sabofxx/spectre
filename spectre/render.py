@@ -25,6 +25,7 @@ from .models import EDITORIAL_STYLES, LEFT_BLOC, ORIENTATIONS, RIGHT_BLOC
 logger = logging.getLogger(__name__)
 
 TEMPLATES_DIR = Path(__file__).resolve().parent.parent / "templates"
+STATIC_DIR = Path(__file__).resolve().parent.parent / "static"
 REPO_URL = "https://github.com/Sabofxx/spectre"
 SITE_BASE_URL = "https://sabofxx.github.io/spectre/"  # absolute links for RSS
 
@@ -155,13 +156,13 @@ def build_cards(conn: sqlite3.Connection, since: str, min_members: int) -> list[
         card["counts"] = _bloc_counts(rows)
         card["style_counts"] = _style_counts(rows)
         card["sources"] = sorted(
-            {(r["source_name"], r["orientation"], r["editorial_style"], r["paywall"])
-             for r in rows},
+            {(r["source_name"], r["orientation"], r["editorial_style"], r["paywall"],
+              r["source_id"]) for r in rows},
             key=lambda t: (ORIENTATIONS.index(t[1]), EDITORIAL_STYLES.index(t[2]), t[0]),
         )
         card["sources"] = [
-            {"name": n, "orientation": o, "editorial_style": style, "paywall": pw}
-            for n, o, style, pw in card["sources"]
+            {"name": n, "orientation": o, "editorial_style": style, "paywall": pw, "id": sid}
+            for n, o, style, pw, sid in card["sources"]
         ]
         card["n_sources"] = len(card["sources"])
         # Gate the blindspot label on actual coverage: enough total sources
@@ -241,6 +242,10 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
                 old.unlink()
     (out_dir / "cluster").mkdir(parents=True, exist_ok=True)
     shutil.copy(TEMPLATES_DIR / "style.css", out_dir / "style.css")
+    favicon_ids: set[str] = set()
+    if STATIC_DIR.is_dir():
+        shutil.copytree(STATIC_DIR, out_dir / "static", dirs_exist_ok=True)
+        favicon_ids = {p.stem for p in (STATIC_DIR / "favicons").glob("*.png")}
 
     now = datetime.now(timezone.utc)
     base_ctx = {
@@ -248,6 +253,7 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
         "repo_url": REPO_URL,
         "site_url": SITE_BASE_URL,
         "health": db.feed_health(conn),
+        "favicon_ids": favicon_ids,
     }
 
     written_pages: list[str] = []
