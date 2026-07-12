@@ -69,19 +69,23 @@ def test_find_leaks_ignores_title_lookalike_summary(conn, tmp_path):
     published and must not be reported as a summary leak (CI false positive
     on a Tour de France live article, 2026-07-12)."""
     shared = "Suivez la 9e étape du Tour de France entre Malemort et Ussel raccourcie"
-    art = make_article(source_id="g1", title=shared, summary=shared + " en raison de la canicule.", hours_ago=2)
-    dbmod.insert_article(conn, art)
-    row = conn.execute("SELECT id FROM articles WHERE url = ?", (art.url,)).fetchone()
-    cid = dbmod.create_cluster(conn, b"\x00" * 8, shared, row["id"])
-    art2 = make_article(source_id="d1", title="Autre titre", hours_ago=2)
-    dbmod.insert_article(conn, art2)
-    r2 = conn.execute("SELECT id FROM articles WHERE url = ?", (art2.url,)).fetchone()
-    dbmod.add_cluster_member(conn, cid, r2["id"], 0.9)
+    # Article A: summary looks like the live title. Article B (another source
+    # in the cluster) actually PUBLISHES that title. The slice appears in the
+    # HTML via B's title — legitimately — and must not be blamed on A.
+    art_a = make_article(source_id="g1", title="Tour 2026 en direct",
+                         summary=shared + " en raison de la canicule.", hours_ago=2)
+    dbmod.insert_article(conn, art_a)
+    a_id = conn.execute("SELECT id FROM articles WHERE url = ?", (art_a.url,)).fetchone()["id"]
+    art_b = make_article(source_id="d1", title=shared, hours_ago=2)
+    dbmod.insert_article(conn, art_b)
+    b_id = conn.execute("SELECT id FROM articles WHERE url = ?", (art_b.url,)).fetchone()["id"]
+    cid = dbmod.create_cluster(conn, b"\x00" * 8, shared, a_id)
+    dbmod.add_cluster_member(conn, cid, b_id, 0.9)
     dbmod.update_cluster(conn, cid, b"\x00" * 8, shared, 2)
     conn.commit()
 
     build_site(conn, tmp_path)
-    assert find_leaks(conn, tmp_path) == []  # title lookalike is not a leak
+    assert find_leaks(conn, tmp_path) == []  # explained by another article's title
 
 
 def test_find_leaks_catches_a_leak(conn, tmp_path):
