@@ -73,6 +73,29 @@ clusters sans remplacer l'axe politique.</p>
       par bord (un média qui publie 4 articles compte une fois), normalisée par le
       nombre de sources actives de chaque bord. Angle mort à partir de 80 % d'un seul côté.</p>
   </section>
+  <section class="method-card formula-card">
+  <h3>La formule exacte des blindspots</h3>
+  <p>Pour un événement d'au moins 3 articles :</p>
+  <ul class="method-list">
+    <li><code>G = sources_gauche_distinctes / sources_gauche_actives</code>
+        (bloc gauche = gauche + centre-gauche) ; <code>D</code> idem à droite
+        (centre-droit + droite). Le centre est affiché à part et n'entre pas
+        dans le score.</li>
+    <li><code>score = (D − G) / (D + G)</code>, de −1 (couvert uniquement à
+        gauche) à +1 (uniquement à droite).</li>
+    <li>Angle mort si un bord porte ≥ 80 % de la couverture normalisée,
+        soit <code>|score| ≥ 0,6</code>.</li>
+    <li>Le <em>label</em> public exige en plus une couverture réelle :
+        au moins 5 sources distinctes au total et 3 du bord couvrant —
+        trois médias proches qui reprennent une dépêche ne font pas un angle
+        mort. Le score brut reste calculé et archivé dans tous les cas.</li>
+  </ul>
+  <p><strong>Pourquoi une formule publique ?</strong> Pour que toute
+     contestation porte sur un paramètre vérifiable — un seuil, un comptage,
+     un classement de source — jamais sur une opinion. Chaque nombre du site
+     est recalculable depuis le <a href="{{ repo_url }}">code source</a> et
+     les données publiées.</p>
+  </section>
   <section>
   <h3>Vocabulaire</h3>
   <p>Log-odds ratio avec prior de
