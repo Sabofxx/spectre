@@ -473,6 +473,39 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
             og_image=f"{SITE_BASE_URL}og/{card['id']}.png",
         )
 
+    # "Mon spectre" data: active sources + this week's labeled blindspots
+    # with their covering sources (all our own metrics).
+    (out_dir / "data").mkdir(exist_ok=True)
+    active_sources = [
+        {"id": p["id"], "name": p["name"], "orientation": p["orientation"],
+         "style": p["editorial_style"]}
+        for p in db.source_profiles(conn)
+    ]
+    (out_dir / "data" / "sources.json").write_text(
+        json.dumps(active_sources, ensure_ascii=False), encoding="utf-8"
+    )
+    blindspot_rows = [
+        {
+            "id": c["id"],
+            "title": c["title"],
+            "blindspot_for": c["blindspot_for"],
+            "sources": [s["id"] for s in c["sources"]],
+            "counts": c["counts"],
+        }
+        for c in blind_cards
+    ]
+    (out_dir / "data" / "blindspots.json").write_text(
+        json.dumps(blindspot_rows, ensure_ascii=False), encoding="utf-8"
+    )
+    write_page(
+        "mon-spectre.html", "mon_spectre.html", root="",
+        active_page="monspectre",
+        og_title="Mon spectre — Spectre",
+        og_description="Cochez les médias que vous lisez : position indicative"
+                       " sur le spectre et blindspots que ce régime de lecture"
+                       " aurait ratés. Rien ne quitte votre navigateur.",
+    )
+
     # Static source profiles (the honest answer to "source profiles").
     import yaml as yaml_mod
 
