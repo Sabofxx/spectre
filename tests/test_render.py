@@ -125,6 +125,22 @@ def test_main_feed_rfc822_and_own_text_only(conn, tmp_path):
     assert "S'abonner par RSS" in index
 
 
+def test_seo_artifacts(conn, tmp_path):
+    seed(conn)
+    build_site(conn, tmp_path)
+
+    assert (tmp_path / "robots.txt").read_text().startswith("User-agent: *")
+    sitemap = (tmp_path / "sitemap.xml").read_text()
+    assert "<loc>https://sabofxx.github.io/spectre/index.html</loc>" in sitemap
+    assert "cluster/" in sitemap
+    assert (tmp_path / "favicon.svg").exists()
+    index = (tmp_path / "index.html").read_text()
+    assert '<link rel="canonical" href="https://sabofxx.github.io/spectre/index.html">' in index
+    assert '<meta name="description"' in index
+    detail = next((tmp_path / "cluster").glob("*.html")).read_text()
+    assert "couverture comparée" in detail  # informative title
+
+
 def test_no_tracking_in_generated_site(conn, tmp_path):
     """Anti-algorithm pledge, enforced: no external scripts, no cookies,
     no storage APIs anywhere in the generated site."""

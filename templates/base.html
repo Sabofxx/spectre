@@ -4,6 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% block title %}Spectre{% endblock %}</title>
+<meta name="description" content="{{ og_description }}">
+{% if page_path %}<link rel="canonical" href="{{ site_url }}{{ page_path }}">{% endif %}
+<link rel="icon" type="image/svg+xml" href="{{ root }}favicon.svg">
 <meta property="og:site_name" content="Spectre">
 <meta property="og:type" content="{{ og_type | default('website') }}">
 <meta property="og:title" content="{{ og_title }}">

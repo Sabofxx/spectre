@@ -245,8 +245,21 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
     base_ctx = {
         "generated_at": now.astimezone(_PARIS).strftime("%d/%m/%Y %H:%M (%Z)"),
         "repo_url": REPO_URL,
+        "site_url": SITE_BASE_URL,
         "health": db.feed_health(conn),
     }
+
+    written_pages: list[str] = []
+
+    def write_page(rel_path: str, template: str, root: str, **ctx) -> None:
+        """Render one page; records it for the sitemap and sets canonical."""
+        html = env.get_template(template).render(
+            **base_ctx, root=root, page_path=rel_path, **ctx
+        )
+        target = out_dir / rel_path
+        target.parent.mkdir(parents=True, exist_ok=True)
+        target.write_text(html, encoding="utf-8")
+        written_pages.append(rel_path)
 
     feed_since = (now - timedelta(hours=FEED_WINDOW_HOURS)).isoformat(timespec="seconds")
     week_since = (now - timedelta(days=BLINDSPOT_WINDOW_DAYS)).isoformat(timespec="seconds")
@@ -271,30 +284,25 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
         key=lambda x: -x["count"],
     )
     (out_dir / "categorie").mkdir(exist_ok=True)
-    cat_tpl = env.get_template("categorie.html")
     for entry in categories.values():
-        (out_dir / "categorie" / f"{entry['slug']}.html").write_text(
-            cat_tpl.render(
-                **base_ctx, root="../", category=entry["name"],
-                clusters=entry["cards"], cat_nav=cat_nav, active_slug=entry["slug"],
-                og_title=f"{entry['name'].capitalize()} — Spectre",
-                og_description=f"La couverture {entry['name']} des dernières 48 h,"
-                               " par orientation des sources.",
-            ),
-            encoding="utf-8",
+        write_page(
+            f"categorie/{entry['slug']}.html", "categorie.html", root="../",
+            category=entry["name"], clusters=entry["cards"],
+            cat_nav=cat_nav, active_slug=entry["slug"],
+            og_title=f"{entry['name'].capitalize()} — Spectre",
+            og_description=f"La couverture {entry['name']} des dernières 48 h,"
+                           " par orientation des sources.",
         )
 
-    (out_dir / "index.html").write_text(
-        env.get_template("index.html").render(
-            **base_ctx, root="", clusters=feed_cards, cat_nav=cat_nav,
-            active_page="index", overview=_cards_overview(feed_cards),
+    write_page(
+        "index.html", "index.html", root="",
+        clusters=feed_cards, cat_nav=cat_nav,
+        active_page="index", overview=_cards_overview(feed_cards),
             og_title="Spectre — qui couvre quoi dans la presse française",
             og_description=(
                 "Agrégateur d'actualité française : couverture par orientation"
                 " politique, contrastes de cadrage et angles morts médiatiques."
             ),
-        ),
-        encoding="utf-8",
     )
 
     # Sport and faits-divers one-sidedness is structural (left outlets barely
@@ -304,24 +312,21 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
     editorial = [c for c in blind_cards if c["category"] not in STRUCTURAL_CATEGORIES]
     structural = [c for c in blind_cards if c["category"] in STRUCTURAL_CATEGORIES]
 
-    (out_dir / "blindspots.html").write_text(
-        env.get_template("blindspots.html").render(
-            **base_ctx, root="",
-            left_covered=[c for c in editorial if c["blindspot_for"] == "droite"],
-            right_covered=[c for c in editorial if c["blindspot_for"] == "gauche"],
-            structural=structural,
-            active_page="blindspots",
-            overview={
-                "editorial": len(editorial),
-                "structural": len(structural),
-                "left_covered": sum(1 for c in editorial if c["blindspot_for"] == "droite"),
-                "right_covered": sum(1 for c in editorial if c["blindspot_for"] == "gauche"),
-            },
-            og_title="Blindspots — Spectre",
-            og_description="Les sujets couverts massivement par un bord du spectre"
-                           " médiatique et ignorés par l'autre.",
-        ),
-        encoding="utf-8",
+    write_page(
+        "blindspots.html", "blindspots.html", root="",
+        left_covered=[c for c in editorial if c["blindspot_for"] == "droite"],
+        right_covered=[c for c in editorial if c["blindspot_for"] == "gauche"],
+        structural=structural,
+        active_page="blindspots",
+        overview={
+            "editorial": len(editorial),
+            "structural": len(structural),
+            "left_covered": sum(1 for c in editorial if c["blindspot_for"] == "droite"),
+            "right_covered": sum(1 for c in editorial if c["blindspot_for"] == "gauche"),
+        },
+        og_title="Blindspots — Spectre",
+        og_description="Les sujets couverts massivement par un bord du spectre"
+                       " médiatique et ignorés par l'autre.",
     )
 
     # Main RSS feed: 30 most recent events with >= 3 articles. Descriptions
@@ -363,41 +368,31 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
     snapshots = load_snapshots()
     (out_dir / "archives").mkdir(exist_ok=True)
     for snap in snapshots:
-        (out_dir / "archives" / f"{snap['week']}.html").write_text(
-            env.get_template("archive_week.html").render(
-                **base_ctx, root="../", snap=snap,
-                active_page="archives",
-                og_title=f"Archives {snap['week']} — Spectre",
-                og_description="Instantané hebdomadaire : les événements et leurs"
-                               " couvertures par bord.",
-            ),
-            encoding="utf-8",
+        write_page(
+            f"archives/{snap['week']}.html", "archive_week.html", root="../",
+            snap=snap, active_page="archives",
+            og_title=f"Archives {snap['week']} — Spectre",
+            og_description="Instantané hebdomadaire : les événements et leurs"
+                           " couvertures par bord.",
         )
-    (out_dir / "archives.html").write_text(
-        env.get_template("archives.html").render(
-            **base_ctx, root="", snapshots=snapshots,
-            active_page="archives",
-            og_title="Archives — Spectre",
-            og_description="La mémoire du spectre médiatique, semaine par semaine.",
-        ),
-        encoding="utf-8",
+    write_page(
+        "archives.html", "archives.html", root="",
+        snapshots=snapshots, active_page="archives",
+        og_title="Archives — Spectre",
+        og_description="La mémoire du spectre médiatique, semaine par semaine.",
     )
 
-    (out_dir / "a-propos.html").write_text(
-        env.get_template("apropos.html").render(
-            **base_ctx, root="", sources=db.all_sources(conn),
-            active_page="about",
-            og_title="À propos — Spectre",
-            og_description="Méthodologie, référentiel d'orientations (indicatif et"
-                           " débattable) et limites connues du projet.",
-        ),
-        encoding="utf-8",
+    write_page(
+        "a-propos.html", "apropos.html", root="",
+        sources=db.all_sources(conn), active_page="about",
+        og_title="À propos — Spectre",
+        og_description="Méthodologie, référentiel d'orientations (indicatif et"
+                       " débattable) et limites connues du projet.",
     )
 
     # Detail pages: every cluster reachable from the feed or blindspot pages.
     detail_cards = {c["id"]: c for c in feed_cards}
     detail_cards.update({c["id"]: c for c in blind_cards})
-    tpl = env.get_template("cluster.html")
     for card in detail_cards.values():
         analyses = {
             k: json.loads(v) for k, v in db.get_analyses(conn, card["id"]).items()
@@ -418,14 +413,28 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
             "vocab": _vocab_view(analyses["vocab_contrast"]) if "vocab_contrast" in analyses else None,
             "ollama": analyses.get("ollama"),
         }
-        (out_dir / "cluster" / f"{card['id']}.html").write_text(
-            tpl.render(
-                **base_ctx, root="../", c=ctx, og_type="article", active_page="index",
-                og_title=card["title"],
-                og_description=_og_coverage(card["counts"], card["n_members"]),
-            ),
-            encoding="utf-8",
+        write_page(
+            f"cluster/{card['id']}.html", "cluster.html", root="../",
+            c=ctx, og_type="article", active_page="index",
+            og_title=f"{card['title']} — couverture comparée",
+            og_description=_og_coverage(card["counts"], card["n_members"]),
         )
+
+    # SEO artifacts: sitemap from every written page, robots.txt, favicon.
+    sitemap_entries = "\n".join(
+        f"  <url><loc>{SITE_BASE_URL}{rel}</loc></url>" for rel in sorted(written_pages)
+    )
+    (out_dir / "sitemap.xml").write_text(
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        f"{sitemap_entries}\n</urlset>\n",
+        encoding="utf-8",
+    )
+    (out_dir / "robots.txt").write_text(
+        f"User-agent: *\nAllow: /\nSitemap: {SITE_BASE_URL}sitemap.xml\n",
+        encoding="utf-8",
+    )
+    shutil.copy(TEMPLATES_DIR / "favicon.svg", out_dir / "favicon.svg")
 
     stats = {"feed": len(feed_cards), "blindspots": len(blind_cards), "details": len(detail_cards)}
     logger.info("site built in %s: %s", out_dir, stats)
