@@ -56,7 +56,7 @@
         <span class="source-name">{{ a.source_name }}</span>
         <span class="style-chip style-{{ a.editorial_style }}">{{ a.editorial_style }}</span>
       </span>
-      <a href="{{ a.url }}" rel="noopener external">{{ a.title }}</a>
+      <a href="{{ a.url }}" rel="noopener external">{{ a.title }}</a>{% if a.paywall and a.paywall != 'none' %}<span class="paywall" role="img" title="Accès payant{{ ' (partiel)' if a.paywall == 'partial' }}" aria-label="accès payant{{ ' partiel' if a.paywall == 'partial' }}">🔒</span>{% endif %}
       {% if a.published_at %}<time>{{ a.published_at | fmt_dt }}</time>{% endif %}
     </li>
     {% endfor %}

@@ -17,6 +17,7 @@ sources:
     name: Mediapart
     orientation: gauche
     editorial_style: mixte
+    paywall: full
     owner: "Indépendant (Fonds pour une presse libre, salariés)"
     rss:
       - https://www.mediapart.fr/articles/feed
@@ -26,6 +27,7 @@ sources:
     name: "L'Humanité"
     orientation: gauche
     editorial_style: opinion
+    paywall: partial
     owner: "Indépendant (actionnariat populaire, proche PCF)"
     rss:
       - https://www.humanite.fr/rss/actu.rss
@@ -35,6 +37,7 @@ sources:
     name: Politis
     orientation: gauche
     editorial_style: opinion
+    paywall: partial
     owner: "Indépendant (lecteurs et salariés)"
     # RSS désactivé côté serveur : /feed/, ?feed=rss2, etc. renvoient du HTML
     # (vérifié 2026-07-11). Réactiver si le flux revient.
@@ -45,6 +48,7 @@ sources:
     name: Reporterre
     orientation: gauche
     editorial_style: mixte
+    paywall: none
     owner: "Association à but non lucratif (dons)"
     rss:
       - https://reporterre.net/spip.php?page=backend
@@ -54,6 +58,7 @@ sources:
     name: Blast
     orientation: gauche
     editorial_style: opinion
+    paywall: partial
     owner: "Indépendant (financement participatif, Denis Robert)"
     rss:
       - https://api.blast-info.fr/rss.xml
@@ -63,6 +68,7 @@ sources:
     name: "Alternatives Économiques"
     orientation: gauche
     editorial_style: mixte
+    paywall: partial
     owner: "Scop Alternatives Économiques"
     rss:
       - https://www.alternatives-economiques.fr/rss.xml
@@ -73,6 +79,7 @@ sources:
     name: Le Monde
     orientation: centre-gauche
     editorial_style: mixte
+    paywall: partial
     owner: "Groupe Le Monde (Niel ; Kretinsky minoritaire)"
     rss:
       - https://www.lemonde.fr/rss/une.xml
@@ -83,6 +90,7 @@ sources:
     name: Libération
     orientation: centre-gauche
     editorial_style: mixte
+    paywall: partial
     owner: "Fonds de dotation Presse indépendante (ex-Altice/Drahi)"
     rss:
       - https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml
@@ -92,6 +100,7 @@ sources:
     name: France Inter
     orientation: centre-gauche
     editorial_style: mixte
+    paywall: none
     owner: "Radio France (service public)"
     rss:
       - https://www.radiofrance.fr/franceinter/rss
@@ -101,6 +110,7 @@ sources:
     name: "L'Obs"
     orientation: centre-gauche
     editorial_style: mixte
+    paywall: partial
     owner: "Groupe Le Monde (Niel)"
     rss:
       - https://www.nouvelobs.com/rss.xml
@@ -110,6 +120,7 @@ sources:
     name: France Culture
     orientation: centre-gauche
     editorial_style: mixte
+    paywall: none
     classification_note: >-
       Cas limite documenté : service public sans ligne partisane officielle ;
       centre-gauche reflète le positionnement perçu des programmes et
@@ -124,6 +135,7 @@ sources:
     name: France Info
     orientation: centre
     editorial_style: factuel
+    paywall: none
     owner: "France Télévisions / Radio France (service public)"
     rss:
       - https://www.francetvinfo.fr/titres.rss
@@ -133,6 +145,7 @@ sources:
     name: Ouest-France
     orientation: centre
     editorial_style: factuel
+    paywall: partial
     owner: "Association SIPA (loi 1901)"
     rss:
       - https://www.ouest-france.fr/rss-en-continu.xml
@@ -142,6 +155,7 @@ sources:
     name: Le Parisien
     orientation: centre
     editorial_style: factuel
+    paywall: partial
     owner: "LVMH (Bernard Arnault)"
     rss:
       - https://feeds.leparisien.fr/leparisien/rss
@@ -151,6 +165,7 @@ sources:
     name: 20 Minutes
     orientation: centre
     editorial_style: factuel
+    paywall: none
     owner: "SIPA Ouest-France + Rossel"
     rss:
       - https://www.20minutes.fr/feeds/rss-une.xml
@@ -160,6 +175,7 @@ sources:
     name: La Croix
     orientation: centre
     editorial_style: mixte
+    paywall: partial
     owner: "Bayard Presse (Augustins de l'Assomption)"
     rss:
       - https://www.la-croix.com/RSS/UNIVERS_WFRA
@@ -169,6 +185,7 @@ sources:
     name: RFI
     orientation: centre
     editorial_style: factuel
+    paywall: none
     owner: "France Médias Monde (service public)"
     rss:
       - https://www.rfi.fr/fr/rss
@@ -178,6 +195,7 @@ sources:
     name: France 24
     orientation: centre
     editorial_style: factuel
+    paywall: none
     owner: "France Médias Monde (service public)"
     rss:
       - https://www.france24.com/fr/rss
@@ -187,6 +205,7 @@ sources:
     name: Public Sénat
     orientation: centre
     editorial_style: factuel
+    paywall: none
     owner: "Public Sénat / Sénat"
     rss:
       - https://www.publicsenat.fr/rss
@@ -196,6 +215,7 @@ sources:
     name: LCP - Assemblée nationale
     orientation: centre
     editorial_style: factuel
+    paywall: none
     owner: "LCP-Assemblée nationale"
     rss:
       - https://lcp.fr/rss.xml
@@ -205,6 +225,7 @@ sources:
     name: TV5MONDE
     orientation: centre
     editorial_style: factuel
+    paywall: none
     owner: "TV5MONDE SA (audiovisuel public francophone)"
     rss:
       - https://information.tv5monde.com/rss.xml
@@ -214,6 +235,7 @@ sources:
     name: ICI / France Bleu
     orientation: centre
     editorial_style: factuel
+    paywall: none
     owner: "Radio France (service public)"
     rss:
       - https://www.radiofrance.fr/francebleu/rss
@@ -223,6 +245,7 @@ sources:
     name: Sud Ouest
     orientation: centre
     editorial_style: factuel
+    paywall: partial
     owner: "Groupe Sud Ouest"
     rss:
       - https://www.sudouest.fr/rss.xml
@@ -232,6 +255,7 @@ sources:
     name: La Dépêche du Midi
     orientation: centre
     editorial_style: factuel
+    paywall: partial
     classification_note: >-
       Cas limite documenté : propriété famille Baylet (tradition radicale/PRG,
       historiquement centre-gauche), mais le flux suivi est dominé par de
@@ -245,6 +269,7 @@ sources:
     name: Nice-Matin
     orientation: centre
     editorial_style: factuel
+    paywall: partial
     owner: "Groupe Nice-Matin"
     rss:
       - https://www.nicematin.com/rss
@@ -254,6 +279,7 @@ sources:
     name: Le Progrès
     orientation: centre
     editorial_style: factuel
+    paywall: partial
     owner: "Groupe EBRA (Crédit Mutuel Alliance Fédérale)"
     rss:
       - https://www.leprogres.fr/rss
@@ -264,6 +290,7 @@ sources:
     name: Le Figaro
     orientation: centre-droit
     editorial_style: mixte
+    paywall: partial
     owner: "Groupe Dassault"
     rss:
       - https://www.lefigaro.fr/rss/figaro_actualites.xml
@@ -273,6 +300,7 @@ sources:
     name: Les Échos
     orientation: centre-droit
     editorial_style: mixte
+    paywall: full
     owner: "LVMH (Bernard Arnault)"
     # 403 Akamai sur tous les endpoints RSS connus (vérifié 2026-07-11).
     rss: []
@@ -282,6 +310,7 @@ sources:
     name: Le Point
     orientation: centre-droit
     editorial_style: mixte
+    paywall: partial
     owner: "Artémis (François Pinault)"
     # 403 Datadome, même avec User-Agent navigateur (vérifié 2026-07-11).
     rss: []
@@ -291,6 +320,7 @@ sources:
     name: "L'Express"
     orientation: centre-droit
     editorial_style: mixte
+    paywall: partial
     owner: "Alain Weill (majoritaire)"
     rss:
       - https://www.lexpress.fr/rss/alaune.xml
@@ -300,6 +330,7 @@ sources:
     name: BFM TV
     orientation: centre-droit
     editorial_style: factuel
+    paywall: none
     owner: "CMA CGM (Rodolphe Saadé)"
     rss:
       - https://www.bfmtv.com/rss/news-24-7/
@@ -309,6 +340,7 @@ sources:
     name: TF1 Info
     orientation: centre
     editorial_style: factuel
+    paywall: none
     classification_note: >-
       Classé centre : la ligne éditoriale publique est généraliste grand
       public ; l'inférence centre-droit par propriétaire (Bouygues) serait
@@ -323,6 +355,7 @@ sources:
     name: CNews
     orientation: droite
     editorial_style: opinion
+    paywall: none
     owner: "Canal+ / Vivendi (Bolloré)"
     rss:
       - https://www.cnews.fr/rss.xml
@@ -332,6 +365,7 @@ sources:
     name: Europe 1
     orientation: droite
     editorial_style: mixte
+    paywall: none
     owner: "Lagardère (Vivendi / Bolloré)"
     rss:
       - https://www.europe1.fr/rss.xml
@@ -341,6 +375,7 @@ sources:
     name: Le JDD
     orientation: droite
     editorial_style: opinion
+    paywall: partial
     owner: "Lagardère (Vivendi / Bolloré)"
     rss:
       - https://www.lejdd.fr/rss.xml
@@ -350,6 +385,7 @@ sources:
     name: Valeurs Actuelles
     orientation: droite
     editorial_style: opinion
+    paywall: partial
     owner: "Famille Safa (Privinvest)"
     rss:
       - https://www.valeursactuelles.com/feed
@@ -359,6 +395,7 @@ sources:
     name: Causeur
     orientation: droite
     editorial_style: opinion
+    paywall: partial
     owner: "Indépendant (Élisabeth Lévy, actionnaires privés)"
     rss:
       - https://www.causeur.fr/feed
@@ -368,6 +405,7 @@ sources:
     name: Contrepoints
     orientation: droite
     editorial_style: opinion
+    paywall: none
     owner: "Association Liberaux.org"
     rss:
       - https://www.contrepoints.org/feed
