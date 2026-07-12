@@ -1,13 +1,13 @@
 {
  "week": "2026-W28",
- "generated_at": "2026-07-12T17:52:47+00:00",
+ "generated_at": "2026-07-12T18:50:30+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Tour de France 2026 : la 9e étape en Corrèze raccourcie en raison de la canicule",
    "url": "https://www.cnews.fr/sport/2026-07-09/tour-de-france-2026-tadej-pogacar-pulverise-son-propre-record-de-lascension-du",
-   "n_members": 75,
+   "n_members": 78,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.514,
+   "divergence": 0.504,
    "category": "sport",
    "terms_left": [
     "parcours",
@@ -29,15 +29,15 @@
     "france étape"
    ],
    "terms_right": [
-    "étape tour",
     "chaleur",
+    "étape tour",
     "fois"
    ]
   },
   {
    "title": "Reprise des hostilités entre l'Iran et les Etats-Unis : le détroit d'Ormuz est refermé",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.419,
+   "divergence": 0.425,
    "category": "international",
    "terms_left": [
     "nuit",
@@ -67,7 +67,7 @@
   {
    "title": "Coupe du monde 2026 : l'Argentine élimine la Suisse et rejoint l'Angleterre en demi-finale",
    "url": "https://www.nouvelobs.com/sport/20260709.OBS116534/un-mannequin-de-mbappe-brule-bagarre-en-conference-de-presse-le-bulletin-de-la-coupe-du-monde-de-trump.html",
-   "n_members": 68,
+   "n_members": 69,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -127,7 +127,7 @@
   {
    "title": "Guerre en Ukraine : six morts et douze blessés, dont un enfant, après une attaque de missiles russes",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 65,
+   "n_members": 67,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.888,
+   "divergence": 0.89,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.588,
+   "divergence": 0.589,
    "category": "international",
    "terms_left": [
     "mortes",
@@ -187,7 +187,7 @@
   {
    "title": "Des Bleus \"sans Français\"… L’ex-Premier ministre espagnol Mariano Rajoy crée une polémique avec des propos racistes",
    "url": "https://www.lemonde.fr/sport/article/2026/07/11/france-australie-fabien-galthie-fait-le-pari-d-un-duo-ntamack-jalibert-pour-affronter-les-wallabies-au-championnat-des-nations-de-rugby_6722621_3242.html",
-   "n_members": 61,
+   "n_members": 64,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.616,
+   "divergence": 0.621,
    "category": "sport",
    "terms_left": [
     "rugby",
@@ -210,58 +210,28 @@
    ],
    "terms_right": [
     "bleus",
-    "wimbledon",
-    "ministre"
-   ]
-  },
-  {
-   "title": "Nice : une marche blanche lance les commémorations des dix ans de l'attentat du 14 juillet",
-   "url": "https://www.lemonde.fr/societe/article/2026/07/10/14-juillet-les-personnes-qui-veulent-assister-au-defile-sur-les-champs-elysees-devront-presenter-un-qr-code_6722451_3224.html",
-   "n_members": 62,
-   "n_sources": 20,
-   "counts": {
-    "left": 3,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.558,
-   "category": "société",
-   "terms_left": [
-    "victimes",
-    "marche solennelle",
-    "solennelle"
-   ],
-   "terms_right": [
-    "france",
-    "nationale",
-    "fête"
+    "ministre",
+    "mariano rajoy"
    ]
   },
   {
    "title": "INFO E1 - Sarcelles : 300 personnes évacuées en raison d’une menace d’attentat contre la communauté juive, des armes retrouvées dans un véhicule",
    "url": "https://www.mediapart.fr/journal/ecologie/100726/incendie-de-die-des-evacuations-chaotiques-et-une-communication-verrouillee",
-   "n_members": 48,
-   "n_sources": 20,
+   "n_members": 52,
+   "n_sources": 21,
    "counts": {
     "left": 3,
-    "centre": 10,
+    "centre": 11,
     "right": 7
    },
    "style_counts": {
-    "factuel": 11,
+    "factuel": 12,
     "mixte": 7,
     "opinion": 2
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.651,
+   "divergence": 0.658,
    "category": "faits-divers",
    "terms_left": [
     "synagogue",
@@ -272,6 +242,36 @@
     "personnes",
     "feu",
     "hectares"
+   ]
+  },
+  {
+   "title": "Nice : une marche blanche lance les commémorations des dix ans de l'attentat du 14 juillet",
+   "url": "https://www.lemonde.fr/societe/article/2026/07/10/14-juillet-les-personnes-qui-veulent-assister-au-defile-sur-les-champs-elysees-devront-presenter-un-qr-code_6722451_3224.html",
+   "n_members": 65,
+   "n_sources": 20,
+   "counts": {
+    "left": 3,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.4,
+   "blindspot_for": null,
+   "divergence": 0.546,
+   "category": "société",
+   "terms_left": [
+    "victimes",
+    "attentat nice",
+    "marche solennelle"
+   ],
+   "terms_right": [
+    "france",
+    "nationale",
+    "fête"
    ]
   },
   {
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.426,
+   "divergence": 0.427,
    "category": "société",
    "terms_left": [
     "etat",
@@ -302,6 +302,36 @@
     "vigilance",
     "face",
     "instants"
+   ]
+  },
+  {
+   "title": "Guerre au Moyen-Orient : Donald Trump dit accepter de parler avec l'Iran mais que le cessez-le-feu est «terminé»",
+   "url": "https://www.mediapart.fr/journal/international/100726/ni-guerre-ni-paix-pourquoi-les-etats-unis-et-l-iran-sont-pieges-dans-l-impasse-d-ormuz",
+   "n_members": 40,
+   "n_sources": 19,
+   "counts": {
+    "left": 5,
+    "centre": 8,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.748,
+   "category": "international",
+   "terms_left": [
+    "force",
+    "téhéran",
+    "dit"
+   ],
+   "terms_right": [
+    "moyen-orient",
+    "états-unis",
+    "iran"
    ]
   },
   {
@@ -321,7 +351,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.498,
+   "divergence": 0.497,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -351,7 +381,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.353,
+   "divergence": 0.354,
    "category": "international",
    "terms_left": [
     "rendu",
@@ -365,9 +395,39 @@
    ]
   },
   {
-   "title": "Guerre au Moyen-Orient : \"L’armée américaine est prête\"... Donald Trump menace de \"décimer et détruire complètement\" l’Iran en cas de tentative d’assassinat",
-   "url": "https://www.mediapart.fr/journal/international/100726/ni-guerre-ni-paix-pourquoi-les-etats-unis-et-l-iran-sont-pieges-dans-l-impasse-d-ormuz",
-   "n_members": 39,
+   "title": "Présidentielle 2027 : éligible et candidate, Marine Le Pen veut imposer un débat de fond",
+   "url": "https://reporterre.net/Clim-fossiles-et-agro-industrie-l-ecologie-selon-Marine-Le-Pen",
+   "n_members": 34,
+   "n_sources": 18,
+   "counts": {
+    "left": 4,
+    "centre": 7,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 8,
+    "mixte": 5,
+    "opinion": 5
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.463,
+   "category": "politique",
+   "terms_left": [
+    "justice",
+    "fonds",
+    "détournement"
+   ],
+   "terms_right": [
+    "campagne",
+    "qu",
+    "cassation"
+   ]
+  },
+  {
+   "title": "Canicule : trois réacteurs nucléaires à l'arrêt et huit à puissance réduite en France",
+   "url": "https://www.mediapart.fr/journal/ecologie/110726/pourquoi-le-vivant-ne-supporte-pas-la-chaleur",
+   "n_members": 23,
    "n_sources": 18,
    "counts": {
     "left": 5,
@@ -375,23 +435,23 @@
     "right": 5
    },
    "style_counts": {
-    "factuel": 10,
-    "mixte": 6,
-    "opinion": 2
+    "factuel": 9,
+    "mixte": 9,
+    "opinion": 0
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.749,
-   "category": "international",
+   "divergence": 0.854,
+   "category": "environnement",
    "terms_left": [
-    "force",
-    "téhéran",
-    "dit"
+    "face",
+    "paris",
+    "dérogation environnementale"
    ],
    "terms_right": [
-    "moyen-orient",
-    "états-unis",
-    "iran"
+    "arrêt",
+    "qu",
+    "rejets"
    ]
   },
   {
@@ -439,36 +499,6 @@
    "terms_right": []
   },
   {
-   "title": "Présidentielle 2027 : éligible et candidate, Marine Le Pen veut imposer un débat de fond",
-   "url": "https://reporterre.net/Clim-fossiles-et-agro-industrie-l-ecologie-selon-Marine-Le-Pen",
-   "n_members": 33,
-   "n_sources": 17,
-   "counts": {
-    "left": 4,
-    "centre": 7,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 7,
-    "mixte": 5,
-    "opinion": 5
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.484,
-   "category": "politique",
-   "terms_left": [
-    "justice",
-    "fonds",
-    "publics"
-   ],
-   "terms_right": [
-    "campagne",
-    "qu",
-    "rn"
-   ]
-  },
-  {
    "title": "\"La vengeance doit s'accomplir inévitablement\": le Guide suprême iranien Mojtaba Khamenei lance des menaces à son tour",
    "url": "https://www.liberation.fr/international/moyen-orient/en-iran-labsence-du-nouveau-guide-supreme-aiguise-les-rivalites-au-sein-du-pouvoir-20260710_PIR3PG75ONBYTCW3DAAP3W2OW4/",
    "n_members": 26,
@@ -485,7 +515,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.491,
+   "divergence": 0.49,
    "category": "international",
    "terms_left": [
     "mort père",
@@ -499,39 +529,9 @@
    ]
   },
   {
-   "title": "Canicule : trois réacteurs nucléaires à l'arrêt et huit à puissance réduite en France",
-   "url": "https://www.mediapart.fr/journal/ecologie/110726/pourquoi-le-vivant-ne-supporte-pas-la-chaleur",
-   "n_members": 21,
-   "n_sources": 16,
-   "counts": {
-    "left": 3,
-    "centre": 8,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 7,
-    "opinion": 0
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.851,
-   "category": "environnement",
-   "terms_left": [
-    "nucléaire",
-    "face",
-    "environnementale"
-   ],
-   "terms_right": [
-    "arrêt",
-    "qu",
-    "raison"
-   ]
-  },
-  {
    "title": "Mondial 2026 : Angleterre élimine la Norvège et affrontera l'Argentine en demi-finales",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/norvege-angleterre-la-composition-des-equipes-pour-le-quart-de-finale-de-la-coupe-du-monde-11-07-2026-CVUMVWWP7ZDS3PSSYZQOX3TZSU.php",
-   "n_members": 43,
+   "n_members": 44,
    "n_sources": 15,
    "counts": {
     "left": 1,
@@ -665,16 +665,8 @@
    "blindspot_for": null,
    "divergence": 0.658,
    "category": "politique",
-   "terms_left": [
-    "présomption légitime",
-    "légitime défense",
-    "légitime"
-   ],
-   "terms_right": [
-    "permis",
-    "tuer",
-    "permis tuer"
-   ]
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Jordan Bardella plaide pour un gouvernement dépassant le RN, «d'union nationale»",
@@ -797,7 +789,7 @@
   {
    "title": "EXCLUSIF. Aveux de Cédric Jubillar : \"Il n’a qu’une hâte, aider les enquêteurs à retrouver son corps\" Ses avocats racontent sa réaction et ses intentions après les révélations",
    "url": "https://www.nouvelobs.com/justice/20260711.OBS116580/affaire-jubillar-les-coulisses-des-aveux-qui-posent-plus-de-questions-qu-ils-n-apportent-de-reponses.html",
-   "n_members": 10,
+   "n_members": 11,
    "n_sources": 7,
    "counts": {
     "left": 2,
@@ -811,17 +803,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.638,
+   "divergence": 0.631,
    "category": "société",
    "terms_left": [
     "qu",
-    "jubillar",
-    "femme"
+    "femme",
+    "meurtre"
    ],
    "terms_right": [
     "buttes-chaumont",
     "réclusion",
-    "lakhdar"
+    "criminelle"
    ]
   },
   {
@@ -909,6 +901,28 @@
    "blindspot_for": "gauche",
    "divergence": null,
    "category": "sciences-tech",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "La circulation des trains fortement perturbée en Gare de Lyon en raison des incendies au sud de Paris",
+   "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/jusqua-4h20-de-retard-le-trafic-sncf-fortement-perturbe-sur-la-ligne-sud-est-entre-paris-et-marseille-a-cause-dun-incendie-12-07-2026-7E3R5IBOQNAXRDOH35X3TPSWTI.php",
+   "n_members": 8,
+   "n_sources": 6,
+   "counts": {
+    "left": 0,
+    "centre": 2,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 4,
+    "mixte": 1,
+    "opinion": 1
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "environnement",
    "terms_left": [],
    "terms_right": []
   },
@@ -1037,28 +1051,6 @@
     "sexuelle",
     "agression"
    ]
-  },
-  {
-   "title": "Royaume-Uni : la police ouvre une enquête pour meurtre après la mort de l’ancienne députée Ann Widdecombe",
-   "url": "https://www.liberation.fr/international/europe/royaume-uni-la-police-ouvre-une-enquete-pour-meurtre-apres-la-mort-de-lancienne-deputee-ann-widdecombe-20260710_IIOTZLJ76VAEDGMBP2KHZBJ72Y/",
-   "n_members": 5,
-   "n_sources": 5,
-   "counts": {
-    "left": 1,
-    "centre": 3,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 4,
-    "mixte": 1,
-    "opinion": 0
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
