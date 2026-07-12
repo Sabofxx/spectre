@@ -91,12 +91,23 @@ def embed_pending(conn: sqlite3.Connection, model: "SentenceTransformer") -> int
     return len(rows)
 
 
-def _refresh_cluster(conn: sqlite3.Connection, cluster_id: int) -> np.ndarray:
+def _refresh_cluster(conn: sqlite3.Connection, cluster_id: int) -> np.ndarray | None:
     """Recompute centroid, title and member count after membership changed.
 
-    Returns the new (normalized) centroid.
+    Returns the new (normalized) centroid, or None when every member's
+    embedding was already purged (old cluster): counts are refreshed, the
+    stored centroid is kept as-is.
     """
     members = db.cluster_member_embeddings(conn, cluster_id)
+    if not members:
+        n = conn.execute(
+            "SELECT COUNT(*) FROM cluster_members WHERE cluster_id = ?", (cluster_id,)
+        ).fetchone()[0]
+        conn.execute(
+            "UPDATE clusters SET n_members = ?, updated_at = ? WHERE id = ?",
+            (n, db.utcnow_iso(), cluster_id),
+        )
+        return None
     vecs = np.stack([_to_vec(m["embedding"]) for m in members])
     centroid = vecs.mean(axis=0)
     centroid /= np.linalg.norm(centroid)
@@ -127,12 +138,14 @@ def cluster_pending(
     # Member-embedding matrices per cluster, loaded lazily and kept in sync.
     member_mats: dict[int, np.ndarray] = {}
 
-    def members_matrix(cluster_id: int) -> np.ndarray:
-        mat = member_mats.get(cluster_id)
-        if mat is None:
-            rows = db.cluster_member_embeddings(conn, cluster_id)
-            mat = np.stack([_to_vec(r["embedding"]) for r in rows])
-            member_mats[cluster_id] = mat
+    def members_matrix(cluster_id: int) -> np.ndarray | None:
+        """Member embeddings, or None when the purge already NULLed them all
+        (an old cluster can outlive its articles' 72h embedding window)."""
+        if cluster_id in member_mats:
+            return member_mats[cluster_id]
+        rows = db.cluster_member_embeddings(conn, cluster_id)
+        mat = np.stack([_to_vec(r["embedding"]) for r in rows]) if rows else None
+        member_mats[cluster_id] = mat
         return mat
 
     stats = {"attached": 0, "created": 0}
@@ -149,13 +162,18 @@ def cluster_pending(
         # member resembles. Only the best centroid candidate is considered.
         attach = False
         if best_i >= 0 and best_sim >= threshold:
-            nearest = float(np.max(members_matrix(ids[best_i]) @ emb))
-            attach = nearest >= threshold
+            mat = members_matrix(ids[best_i])
+            attach = mat is not None and float(np.max(mat @ emb)) >= threshold
         if attach:
             cid = ids[best_i]
             db.add_cluster_member(conn, cid, art["id"], best_sim)
-            member_mats[cid] = np.vstack([member_mats[cid], emb])
-            cents[best_i] = _refresh_cluster(conn, cid)
+            existing = member_mats.get(cid)
+            member_mats[cid] = (
+                np.vstack([existing, emb]) if existing is not None else emb[np.newaxis, :]
+            )
+            new_centroid = _refresh_cluster(conn, cid)
+            if new_centroid is not None:
+                cents[best_i] = new_centroid
             stats["attached"] += 1
         else:
             cluster_id = db.create_cluster(

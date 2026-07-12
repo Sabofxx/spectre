@@ -153,3 +153,18 @@ def test_consolidate_does_not_chain_multiple_merges_in_one_pass(conn):
 
     assert merged == 1
     assert conn.execute("SELECT COUNT(*) FROM clusters").fetchone()[0] == 2
+
+
+def test_purged_embeddings_cluster_cannot_recruit(conn):
+    """An active cluster whose members lost their embeddings to the 72h purge
+    must not crash the run (regression: np.stack on empty list in CI)."""
+    old = put_article(conn, [1.0, 0.0, 0.0], hours_ago=3, title="Vieux")
+    cluster_pending(conn, threshold=0.7)
+    conn.execute("UPDATE articles SET embedding = NULL WHERE id = ?", (old,))
+    conn.commit()
+
+    fresh = put_article(conn, [1.0, 0.0, 0.0], hours_ago=1, title="Frais")
+    stats = cluster_pending(conn, threshold=0.7)
+
+    assert stats == {"attached": 0, "created": 1}
+    assert cluster_of(conn, fresh) != cluster_of(conn, old)
