@@ -23,12 +23,13 @@ Python ≥ 3.11 requis.
 ```bash
 python run.py ingest      # fetch des flux RSS (titres + chapôs, rien d'autre)
 python run.py cluster     # regroupement par événement (seuil : --threshold, défaut 0.92)
-python run.py analyze     # blindspots + contraste de vocabulaire
+python run.py analyze     # blindspots + contraste de vocabulaire (sans écraser les catégories v2)
 python run.py render      # génération du site statique dans site/
 python run.py pipeline    # les quatre dans l'ordre (+ purge > 30 jours)
 python run.py serve       # sert site/ sur http://127.0.0.1:8000
 python run.py inspect     # calibration : clusters aléatoires + paires en zone grise
 python run.py check-leaks # vérifie qu'aucun chapô RSS ne fuit dans le HTML public
+python run.py check-classifications # vérifie le référentiel sources/orientations/styles
 ```
 
 En local, un cron toutes les 30 minutes :
@@ -66,11 +67,11 @@ committe la base n'est jamais annulé par le suivant.
 En plus des statistiques, `python run.py analyze --ollama` génère une analyse
 qualitative du cadrage (résumé neutre, angle par bord, omissions) via un LLM
 **local** — [Ollama](https://ollama.com), aucun service payant. Modèle par
-défaut : `qwen3:4b`, configurable :
+défaut : `llama3.2:3b` (validé sur machine 8 Go ; `qwen3:4b` dispo via la variable d'env mais trop lent sous ~6 Go de VRAM), configurable :
 
 ```bash
-ollama pull qwen3:4b
-export SPECTRE_OLLAMA_MODEL=llama3.2:3b   # option plus légère si besoin
+ollama pull llama3.2:3b                    # le défaut
+export SPECTRE_OLLAMA_MODEL=qwen3:4b       # si ≥ 16 Go de RAM (think désactivé automatiquement)
 ```
 
 Garde-fous : clusters de 4 à 15 articles avec ≥ 2 orientations seulement,
@@ -87,6 +88,9 @@ ta machine** et voyagent via la base committée.
 ```bash
 git pull --rebase                          # la base bouge toutes les 30 min (cron)
 python run.py analyze --ollama             # analyse les clusters actifs
+# RELIS les sections générées (pages cluster en local) avant de committer :
+# sur un petit modèle, ~30 % des sorties échouent à la relecture humaine
+# (inversions factuelles, hallucinations) malgré la validation automatique.
 git add spectre.db && git commit -m "chore: analyses qualitatives" && git push
 # si un cron est passé entre-temps : git pull --rebase puis git push à nouveau
 ```

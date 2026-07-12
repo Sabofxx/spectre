@@ -6,6 +6,11 @@
 # (Le Monde diplomatique / Acrimed, éd. 2024).
 # Tous les flux ont été vérifiés par fetch réel le 2026-07-11.
 
+classification:
+  reviewed_at: "2026-07-11"
+  scope: source-level
+  basis: "Positionnement éditorial public, propriétaires et dominante du flux RSS suivi ; ne qualifie jamais un article isolé."
+
 sources:
   # ---------------- gauche ----------------
   - id: mediapart
@@ -54,6 +59,15 @@ sources:
       - https://api.blast-info.fr/rss.xml
     active: true
 
+  - id: alternativeseco
+    name: "Alternatives Économiques"
+    orientation: gauche
+    editorial_style: mixte
+    owner: "Scop Alternatives Économiques"
+    rss:
+      - https://www.alternatives-economiques.fr/rss.xml
+    active: true
+
   # ---------------- centre-gauche ----------------
   - id: lemonde
     name: Le Monde
@@ -90,6 +104,19 @@ sources:
     owner: "Groupe Le Monde (Niel)"
     rss:
       - https://www.nouvelobs.com/rss.xml
+    active: true
+
+  - id: franceculture
+    name: France Culture
+    orientation: centre-gauche
+    editorial_style: mixte
+    classification_note: >-
+      Cas limite documenté : service public sans ligne partisane officielle ;
+      centre-gauche reflète le positionnement perçu des programmes et
+      chroniques, pas un engagement déclaré. Alternative défendable : centre.
+    owner: "Radio France (service public)"
+    rss:
+      - https://www.radiofrance.fr/franceculture/rss
     active: true
 
   # ---------------- centre ----------------
@@ -138,6 +165,100 @@ sources:
       - https://www.la-croix.com/RSS/UNIVERS_WFRA
     active: true
 
+  - id: rfi
+    name: RFI
+    orientation: centre
+    editorial_style: factuel
+    owner: "France Médias Monde (service public)"
+    rss:
+      - https://www.rfi.fr/fr/rss
+    active: true
+
+  - id: france24
+    name: France 24
+    orientation: centre
+    editorial_style: factuel
+    owner: "France Médias Monde (service public)"
+    rss:
+      - https://www.france24.com/fr/rss
+    active: true
+
+  - id: publicsenat
+    name: Public Sénat
+    orientation: centre
+    editorial_style: factuel
+    owner: "Public Sénat / Sénat"
+    rss:
+      - https://www.publicsenat.fr/rss
+    active: true
+
+  - id: lcp
+    name: LCP - Assemblée nationale
+    orientation: centre
+    editorial_style: factuel
+    owner: "LCP-Assemblée nationale"
+    rss:
+      - https://lcp.fr/rss.xml
+    active: true
+
+  - id: tv5monde
+    name: TV5MONDE
+    orientation: centre
+    editorial_style: factuel
+    owner: "TV5MONDE SA (audiovisuel public francophone)"
+    rss:
+      - https://information.tv5monde.com/rss.xml
+    active: true
+
+  - id: francebleu
+    name: ICI / France Bleu
+    orientation: centre
+    editorial_style: factuel
+    owner: "Radio France (service public)"
+    rss:
+      - https://www.radiofrance.fr/francebleu/rss
+    active: true
+
+  - id: sudouest
+    name: Sud Ouest
+    orientation: centre
+    editorial_style: factuel
+    owner: "Groupe Sud Ouest"
+    rss:
+      - https://www.sudouest.fr/rss.xml
+    active: true
+
+  - id: ladepeche
+    name: La Dépêche du Midi
+    orientation: centre
+    editorial_style: factuel
+    classification_note: >-
+      Cas limite documenté : propriété famille Baylet (tradition radicale/PRG,
+      historiquement centre-gauche), mais le flux suivi est dominé par de
+      l'information régionale factuelle ; centre retenu au niveau source.
+    owner: "Groupe La Dépêche (famille Baylet)"
+    rss:
+      - https://www.ladepeche.fr/rss.xml
+    active: true
+
+  - id: nicematin
+    name: Nice-Matin
+    orientation: centre
+    editorial_style: factuel
+    owner: "Groupe Nice-Matin"
+    rss:
+      - https://www.nicematin.com/rss
+    active: true
+
+  - id: leprogres
+    name: Le Progrès
+    orientation: centre
+    editorial_style: factuel
+    owner: "Groupe EBRA (Crédit Mutuel Alliance Fédérale)"
+    rss:
+      - https://www.leprogres.fr/rss
+    active: true
+
   # ---------------- centre-droit ----------------
   - id: lefigaro
     name: Le Figaro
@@ -184,6 +305,19 @@ sources:
       - https://www.bfmtv.com/rss/news-24-7/
     active: true
 
+  - id: tf1info
+    name: TF1 Info
+    orientation: centre
+    editorial_style: factuel
+    classification_note: >-
+      Classé centre : la ligne éditoriale publique est généraliste grand
+      public ; l'inférence centre-droit par propriétaire (Bouygues) serait
+      contraire à la base déclarée (positionnement éditorial, pas actionnariat).
+    owner: "Groupe TF1 (Bouygues)"
+    rss:
+      - https://www.tf1info.fr/feeds/rss-une.xml
+    active: true
+
   # ---------------- droite ----------------
   - id: cnews
     name: CNews
@@ -228,4 +362,13 @@ sources:
     owner: "Indépendant (Élisabeth Lévy, actionnaires privés)"
     rss:
       - https://www.causeur.fr/feed
+    active: true
+
+  - id: contrepoints
+    name: Contrepoints
+    orientation: droite
+    editorial_style: opinion
+    owner: "Association Liberaux.org"
+    rss:
+      - https://www.contrepoints.org/feed
     active: true

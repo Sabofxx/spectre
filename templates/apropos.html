@@ -6,11 +6,11 @@
 <section class="method-grid">
   <article class="method-card">
     <h2>Ce que fait Spectre</h2>
-    <p>Spectre agrège les flux RSS d'une vingtaine de médias français, regroupe les articles par événement, puis mesure qui couvre quoi selon l'orientation politique et le style éditorial des rédactions.</p>
+    <p>Spectre agrège les flux RSS de plus de trente médias français et francophones, regroupe les articles par événement, puis mesure qui couvre quoi selon un référentiel source par source.</p>
   </article>
   <article class="method-card">
     <h2>Ce qu'il ne fait pas</h2>
-    <p>Le site ne scrape pas les articles, ne republie pas les chapôs RSS et ne prétend pas mesurer l'opinion des journalistes. Il indexe des couvertures et affiche ses limites.</p>
+    <p>Le site ne scrape pas les articles, ne republie pas les chapôs RSS et ne classe jamais l'opinion d'un article isolé. Il indexe des couvertures et affiche ses limites.</p>
   </article>
 </section>
 
@@ -24,6 +24,10 @@ documenté et les propriétaires sont référencés d'après la carte
 « Médias français, qui possède quoi » (Le Monde diplomatique / Acrimed).
 Les désaccords sur ce classement sont légitimes — le fichier
 <code>config/sources.yaml</code> est ouvert aux contributions.</p>
+
+<p><strong>Important :</strong> ces libellés décrivent la source suivie dans ce
+référentiel, pas chaque article publié. Un article factuel peut venir d'un média
+classé « opinion », et inversement.</p>
 
 <p>La colonne « style » qualifie la dominante du flux suivi : dépêche ou fil
 principal plutôt factuel, mélange d'information et d'analyse, ou média dont le
@@ -81,7 +85,7 @@ clusters sans remplacer l'axe politique.</p>
   <p>Certaines pages
       d'événement portent une section « Analyse qualitative » générée par un
       modèle de langage exécuté localement (Ollama, modèle
-      <code>qwen3:4b</code> par défaut), hors de tout service payant.
+      <code>llama3.2:3b</code> par défaut), hors de tout service payant.
       Un petit modèle local peut résumer imparfaitement, lisser des nuances ou se
       tromper : ces textes sont étiquetés comme générés par IA et doivent se lire
       avec recul critique — les barres et scores statistiques restent la matière
@@ -101,7 +105,8 @@ clusters sans remplacer l'axe politique.</p>
       plutôt que d'afficher un faux contraste.</li>
   <li><strong>Flux inégaux :</strong> Le Parisien ne publie que des titres (pas de
       chapô), ce qui affaiblit son signal ; Les Échos, Le Point et Politis n'ont
-      pas de flux RSS accessible et ne sont pas suivis.</li>
+      pas de flux RSS accessible et ne sont pas suivis. Les médias ajoutés au
+      référentiel ne sont activés qu'après vérification d'un flux RSS parsable.</li>
   <li><strong>Le volume n'est pas l'importance :</strong> le fil est trié par
       volume de couverture, ce qui reflète l'agenda médiatique, pas la hiérarchie
       de l'information.</li>

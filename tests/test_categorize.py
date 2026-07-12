@@ -21,8 +21,18 @@ class TestArticleCategory:
         assert article_category("https://ex.fr/faits-divers/agression-paris") == "faits-divers"
         assert article_category("https://ex.fr/fait-divers/vol") == "faits-divers"
 
+    def test_environment_title_fallback(self):
+        assert article_category(
+            "https://ex.fr/actu/un-article",
+            "Canicule : 37 départements en vigilance rouge par Météo-France",
+        ) == "environnement"
+
     def test_politique(self):
         assert article_category("https://ex.fr/politique/remaniement") == "politique"
+
+    def test_societe_and_sciences(self):
+        assert article_category("https://ex.fr/societe/education/parcoursup") == "société"
+        assert article_category("https://ex.fr/sciences/espace/fusee-japonaise") == "sciences-tech"
 
     def test_no_match_is_none(self):
         assert article_category("https://ex.fr/article/un-sujet-quelconque") is None
@@ -51,6 +61,27 @@ class TestClusterCategory:
 
     def test_no_signal_is_none(self):
         assert cluster_category([("https://a.fr/x", "Un titre"), ("https://b.fr/y", "")]) is None
+
+
+class TestPrototypeGuards:
+    def test_prototype_never_assigns_faits_divers(self):
+        """A wrongly-structural tag hides real blindspots: faits-divers is
+        URL-slug-only, even when its prototype is the best match."""
+        from spectre.categorize import _prototype_category
+
+        names = ["faits-divers", "politique"]
+        protos = np.array([[1.0, 0.0], [0.9, 0.1]], dtype=np.float32)
+        protos /= np.linalg.norm(protos, axis=1, keepdims=True)
+        centroid = np.array([1.0, 0.0], dtype=np.float32)
+        assert _prototype_category(centroid, names, protos) != "faits-divers"
+
+    def test_below_floor_returns_none(self):
+        from spectre.categorize import _prototype_category
+
+        names = ["politique"]
+        protos = np.array([[1.0, 0.0]], dtype=np.float32)
+        centroid = np.array([0.0, 1.0], dtype=np.float32)  # orthogonal
+        assert _prototype_category(centroid, names, protos) is None
 
 
 class TestPrototypeFallback:
