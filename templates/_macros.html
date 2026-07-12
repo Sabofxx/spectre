@@ -55,7 +55,7 @@
 {% macro event_card(c, root="", heading="h2") %}
 <article class="event-card">
   <p class="kicker">
-    {% if c.category %}<span class="cat">{{ c.category }}</span>{% endif %}
+    {% if c.category %}<a class="cat" href="{{ root }}categorie/{{ c.category_slug }}.html">{{ c.category }}</a>{% endif %}
     {% if c.blindspot_for %}<span class="flag flag-{{ c.blindspot_for }}">angle mort de la {{ c.blindspot_for }}</span>{% endif %}
     {% if c.divergence is not none %}{{ divergence_badge(c.divergence) }}{% endif %}
   </p>

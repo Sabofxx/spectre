@@ -109,6 +109,19 @@ main { max-width: 830px; margin: 0 auto; padding: 0 1.1rem 2rem; }
 h1 { font-size: 1.7rem; margin: 0.4rem 0; }
 .empty-state { color: var(--muted); padding: 2rem 0; }
 
+.cat-nav { display: flex; gap: 0.35rem 0.5rem; flex-wrap: wrap; margin-top: 0.6rem; }
+.cat-link {
+  font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em;
+  text-decoration: none; color: var(--muted); padding: 0.15rem 0.55rem;
+  border: 1px solid var(--line); border-radius: 99px;
+}
+.cat-link small { color: var(--muted); font-size: 0.68rem; }
+.cat-link:hover { color: var(--fg); border-color: var(--line-strong); }
+.cat-link.is-active { color: var(--bg); background: var(--fg); border-color: var(--fg); }
+.cat-link.is-active small { color: var(--bg); opacity: 0.7; }
+a.cat { text-decoration: none; }
+a.cat:hover { color: var(--fg); text-decoration: underline; }
+
 /* ------------------------------------------------------------------ */
 /* Feed rows — dense, hairline-separated, featured first item          */
 /* ------------------------------------------------------------------ */

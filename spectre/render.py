@@ -55,6 +55,14 @@ _PARIS = ZoneInfo("Europe/Paris")
 _FRENCH_DAYS = ("lun.", "mar.", "mer.", "jeu.", "ven.", "sam.", "dim.")
 
 
+def slugify(text: str) -> str:
+    """ASCII slug for URLs: 'économie' -> 'economie', 'sciences-tech' kept."""
+    import unicodedata
+
+    ascii_text = unicodedata.normalize("NFD", text).encode("ascii", "ignore").decode()
+    return re.sub(r"[^a-z0-9]+", "-", ascii_text.lower()).strip("-")
+
+
 def _fmt_dt(iso: str | None, fmt: str = "%d/%m %H:%M") -> str:
     """Paris-time formatter; %a is rendered as a French weekday (the CI
     runner's C locale would otherwise print English day names)."""
@@ -125,6 +133,7 @@ def build_cards(conn: sqlite3.Connection, since: str, min_members: int) -> list[
                 "blindspot_score": row["blindspot_score"],
                 "blindspot_for": _blindspot_label(row["blindspot_score"]),
                 "category": row["category"],
+                "category_slug": slugify(row["category"]) if row["category"] else None,
                 "updated_at": row["updated_at"],
                 "source_rows": [],
             },
@@ -214,7 +223,7 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
     # Re-clustering renumbers events: purge previously rendered detail and
     # archive pages so a local `serve` never exposes stale orphans. (CI always
     # starts from a clean checkout; this matters for local browsing.)
-    for stale_dir in (out_dir / "cluster", out_dir / "archives"):
+    for stale_dir in (out_dir / "cluster", out_dir / "archives", out_dir / "categorie"):
         if stale_dir.is_dir():
             for old in stale_dir.glob("*.html"):
                 old.unlink()
@@ -238,9 +247,35 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
     blind_cards = [c for c in week_cards if c["blindspot_for"]]
     blind_cards.sort(key=lambda c: (-abs(c["blindspot_score"]), -c["n_members"]))
 
+    # Category navigation: one static page per category present in the feed.
+    categories: dict[str, dict] = {}
+    for c in feed_cards:
+        if c["category"]:
+            entry = categories.setdefault(
+                c["category_slug"], {"name": c["category"], "slug": c["category_slug"], "cards": []}
+            )
+            entry["cards"].append(c)
+    cat_nav = sorted(
+        ({"name": v["name"], "slug": v["slug"], "count": len(v["cards"])} for v in categories.values()),
+        key=lambda x: -x["count"],
+    )
+    (out_dir / "categorie").mkdir(exist_ok=True)
+    cat_tpl = env.get_template("categorie.html")
+    for entry in categories.values():
+        (out_dir / "categorie" / f"{entry['slug']}.html").write_text(
+            cat_tpl.render(
+                **base_ctx, root="../", category=entry["name"],
+                clusters=entry["cards"], cat_nav=cat_nav, active_slug=entry["slug"],
+                og_title=f"{entry['name'].capitalize()} — Spectre",
+                og_description=f"La couverture {entry['name']} des dernières 48 h,"
+                               " par orientation des sources.",
+            ),
+            encoding="utf-8",
+        )
+
     (out_dir / "index.html").write_text(
         env.get_template("index.html").render(
-            **base_ctx, root="", clusters=feed_cards,
+            **base_ctx, root="", clusters=feed_cards, cat_nav=cat_nav,
             active_page="index", overview=_cards_overview(feed_cards),
             og_title="Spectre — qui couvre quoi dans la presse française",
             og_description=(
