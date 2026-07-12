@@ -70,6 +70,34 @@
 {% endfor %}
 </section>
 
+{% if c.face_left and c.face_right %}
+<section class="page-section">
+<h2>Titres face à face</h2>
+<p class="meta">Les mêmes faits, deux unes : titres du bord gauche et du bord
+   droit, dans l'ordre de publication (5 max par bord).</p>
+<div class="contrast">
+  <div class="contrast-col">
+    <h3>Bord gauche</h3>
+    <ul class="articles">
+      {% for a in c.face_left %}
+      <li><span class="source-pill source-pill-small">{{ a.source_name }}</span>
+          <a href="{{ a.url }}" rel="noopener external">{{ a.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="contrast-col">
+    <h3>Bord droit</h3>
+    <ul class="articles">
+      {% for a in c.face_right %}
+      <li><span class="source-pill source-pill-small">{{ a.source_name }}</span>
+          <a href="{{ a.url }}" rel="noopener external">{{ a.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+</section>
+{% endif %}
+
 <section class="page-section">
 <h2>Contraste de vocabulaire</h2>
 {% if c.vocab and c.vocab.status == 'ok' %}
