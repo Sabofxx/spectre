@@ -42,7 +42,7 @@ clusters sans remplacer l'axe politique.</p>
   <tbody>
   {% for s in sources %}
   <tr>
-    <td>{{ s.name }}</td>
+    <td><a href="source/{{ s.id }}.html">{{ s.name }}</a></td>
     <td><span class="source-pill source-pill-small b-{{ s.orientation }}">{{ s.orientation }}</span></td>
     <td><span class="style-chip style-{{ s.editorial_style }}">{{ s.editorial_style }}</span></td>
     <td>{{ s.owner }}</td>

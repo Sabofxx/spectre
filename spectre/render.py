@@ -239,7 +239,7 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
     # Re-clustering renumbers events: purge previously rendered detail and
     # archive pages so a local `serve` never exposes stale orphans. (CI always
     # starts from a clean checkout; this matters for local browsing.)
-    for stale_dir in (out_dir / "cluster", out_dir / "archives", out_dir / "categorie"):
+    for stale_dir in (out_dir / "cluster", out_dir / "archives", out_dir / "categorie", out_dir / "source"):
         if stale_dir.is_dir():
             for old in stale_dir.glob("*.html"):
                 old.unlink()
@@ -471,6 +471,30 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
             og_title=f"{card['title']} — couverture comparée",
             og_description=_og_coverage(card["counts"], card["n_members"]),
             og_image=f"{SITE_BASE_URL}og/{card['id']}.png",
+        )
+
+    # Static source profiles (the honest answer to "source profiles").
+    import yaml as yaml_mod
+
+    raw_cfg = yaml_mod.safe_load(
+        (Path("config/sources.yaml")).read_text(encoding="utf-8")
+    ) if Path("config/sources.yaml").exists() else {"sources": []}
+    notes = {str(e.get("id")): e.get("classification_note") for e in raw_cfg["sources"]}
+    live_by_source: dict[str, list[dict]] = {}
+    for c in detail_cards.values():
+        for s in c["sources"]:
+            live_by_source.setdefault(s["id"], []).append(c)
+    for profile in db.source_profiles(conn):
+        subjects = sorted(
+            live_by_source.get(profile["id"], []),
+            key=lambda c: c["updated_at"] or "", reverse=True,
+        )[:10]
+        write_page(
+            f"source/{profile['id']}.html", "source.html", root="../",
+            s=profile, note=notes.get(profile["id"]), subjects=subjects,
+            og_title=f"{profile['name']} — profil de source | Spectre",
+            og_description=f"Classement source-level, propriétaire et activité"
+                           f" de {profile['name']} dans Spectre.",
         )
 
     # Client-side search index: ONLY clusters that still have a live page

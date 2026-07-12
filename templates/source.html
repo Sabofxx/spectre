@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% import "_macros.html" as macros with context %}
+{% block title %}{{ s.name }} — profil de source | Spectre{% endblock %}
+{% block content %}
+<p class="crumbs"><a href="{{ root }}a-propos.html#sources">← Référentiel des sources</a></p>
+<section class="page-head">
+  <p class="dateline">Profil de source · classement source-level, jamais article-level</p>
+  <h1>{% if s.id in favicon_ids %}<img class="favicon-img" src="{{ root }}static/favicons/{{ s.id }}.png" alt="" width="22" height="22">{% endif %} {{ s.name }}</h1>
+  <p class="lede">
+    <span class="source-pill b-{{ s.orientation }}">{{ s.orientation }}</span>
+    <span class="source-pill">{{ s.editorial_style }}</span>
+    {% if s.paywall != 'none' %}<span class="source-pill">🔒 accès payant{{ ' partiel' if s.paywall == 'partial' }}</span>{% endif %}
+  </p>
+</section>
+
+<h2>Classement</h2>
+<p><strong>Propriétaire :</strong> {{ s.owner }}</p>
+{% if note %}<p><strong>Note de classement :</strong> {{ note }}</p>{% endif %}
+<p class="meta">Le classement qualifie le flux suivi dans son ensemble ; il ne juge
+   jamais un article isolé. <a href="{{ repo_url }}/issues/new/choose">Contester ce classement</a>.</p>
+
+<h2>Activité (30 derniers jours)</h2>
+<ul class="method-list">
+  <li>Articles ingérés : <strong>{{ s.n_articles }}</strong></li>
+  <li>Événements couverts : <strong>{{ s.n_clusters }}</strong></li>
+  <li>Dont partagés avec d'autres orientations :
+      <strong>{{ s.n_multi_clusters }}</strong>
+      ({{ "%.0f" | format(100 * s.n_multi_clusters / s.n_clusters) if s.n_clusters else 0 }} %)</li>
+</ul>
+
+<h2>Derniers sujets en ligne</h2>
+{% if subjects %}
+<ul class="articles">
+  {% for c in subjects %}
+  <li><a href="{{ root }}cluster/{{ c.id }}.html">{{ c.title }}</a>
+      <span class="meta"> — {{ c.n_sources }} sources</span></li>
+  {% endfor %}
+</ul>
+{% else %}
+<p class="meta">Aucun sujet de cette source n'est actuellement dans le fil.</p>
+{% endif %}
+{% endblock %}
