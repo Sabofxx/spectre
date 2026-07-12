@@ -1,6 +1,6 @@
 {
  "week": "2026-W28",
- "generated_at": "2026-07-12T22:13:46+00:00",
+ "generated_at": "2026-07-12T23:15:44+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.504,
+   "divergence": 0.503,
    "category": "sport",
    "terms_left": [
     "parcours",
@@ -37,7 +37,7 @@
   {
    "title": "Reprise des hostilités entre l'Iran et les Etats-Unis : le détroit d'Ormuz est refermé",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 65,
+   "n_members": 67,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.427,
+   "divergence": 0.428,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -81,16 +81,16 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.668,
+   "divergence": 0.666,
    "category": "sport",
    "terms_left": [
     "buts",
     "affrontera",
-    "lionel"
+    "mbappé"
    ],
    "terms_right": [
-    "demi-finale",
     "france",
+    "demi-finale",
     "finale"
    ]
   },
@@ -155,23 +155,23 @@
    ]
   },
   {
-   "title": "Canicule : pourquoi des réacteurs nucléaires sont-ils régulièrement mis à l’arrêt en cas de fortes chaleurs ?",
+   "title": "Décryptage. Canicule : villes, hôpitaux, flore... Sommes-nous prêts à faire face aux vagues de chaleur ?",
    "url": "https://www.mediapart.fr/journal/ecologie/110726/pourquoi-le-vivant-ne-supporte-pas-la-chaleur",
-   "n_members": 40,
-   "n_sources": 23,
+   "n_members": 41,
+   "n_sources": 24,
    "counts": {
     "left": 6,
     "centre": 11,
-    "right": 6
+    "right": 7
    },
    "style_counts": {
     "factuel": 12,
     "mixte": 10,
-    "opinion": 1
+    "opinion": 2
    },
-   "blindspot_score": 0.0,
+   "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.845,
+   "divergence": 0.842,
    "category": "environnement",
    "terms_left": [
     "face",
@@ -321,12 +321,12 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.541,
+   "divergence": 0.542,
    "category": "société",
    "terms_left": [
     "attentat nice",
-    "solennelle",
-    "marche solennelle"
+    "marche solennelle",
+    "solennelle"
    ],
    "terms_right": [
     "france",
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.504,
+   "divergence": 0.505,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -619,7 +619,7 @@
   {
    "title": "Un incendie « très virulent » et inédit se déclare près de l’autoroute A6 en Île-de-France ce dimanche, deux avions envoyés en renfort depuis le Sud de la France",
    "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/jusqua-4h20-de-retard-le-trafic-sncf-fortement-perturbe-sur-la-ligne-sud-est-entre-paris-et-marseille-a-cause-dun-incendie-12-07-2026-7E3R5IBOQNAXRDOH35X3TPSWTI.php",
-   "n_members": 32,
+   "n_members": 33,
    "n_sources": 12,
    "counts": {
     "left": 0,
@@ -669,6 +669,36 @@
    ]
   },
   {
+   "title": "Jordan Bardella plaide pour un gouvernement dépassant le RN, «d'union nationale»",
+   "url": "https://www.lejdd.fr/politique/presidentielle-lepreuve-du-second-role-pour-jordan-bardella-178782",
+   "n_members": 12,
+   "n_sources": 11,
+   "counts": {
+    "left": 2,
+    "centre": 4,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 5,
+    "mixte": 4,
+    "opinion": 2
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.606,
+   "category": "politique",
+   "terms_left": [
+    "extrême",
+    "extrême droite",
+    "droite"
+   ],
+   "terms_right": [
+    "jordan bardella",
+    "jordan",
+    "nationale"
+   ]
+  },
+  {
    "title": "Wimbledon : Jannik Sinner remporte son cinquième titre en Grand Chelem en battant Alexander Zverev en finale",
    "url": "https://www.leparisien.fr/sports/il-est-plus-detendu-libere-sacre-a-roland-garros-le-nouveau-zverev-defie-sinner-en-finale-de-wimbledon-12-07-2026-3BHJ4JXIYJGPZPRI6ZF6QBJINA.php",
    "n_members": 13,
@@ -713,36 +743,6 @@
    "terms_right": []
   },
   {
-   "title": "Jordan Bardella plaide pour un gouvernement dépassant le RN, «d'union nationale»",
-   "url": "https://www.lejdd.fr/politique/presidentielle-lepreuve-du-second-role-pour-jordan-bardella-178782",
-   "n_members": 11,
-   "n_sources": 10,
-   "counts": {
-    "left": 2,
-    "centre": 3,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 4,
-    "mixte": 4,
-    "opinion": 2
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": 0.605,
-   "category": "politique",
-   "terms_left": [
-    "extrême",
-    "extrême droite",
-    "droite"
-   ],
-   "terms_right": [
-    "jordan bardella",
-    "jordan",
-    "nationale"
-   ]
-  },
-  {
    "title": "Présidentielle 2027: Marine Le Pen largement en tête au premier tour selon le dernier sondage Elabe pour BFMTV",
    "url": "https://www.cnews.fr/france/2026-07-09/presidentielle-2027-marine-le-pen-en-tete-des-intentions-de-vote-au-premier-tour",
    "n_members": 24,
@@ -767,7 +767,7 @@
   {
    "title": "Le rappeur Pitbull établit un record du monde du plus grand rassemblement de faux crânes chauves",
    "url": "https://www.bfmtv.com/international/europe/angleterre/l-histoire-qui-s-ecrit-sous-nos-yeux-le-rappeur-pitbull-etablit-un-record-du-monde-du-plus-grand-rassemblement-de-faux-cranes-chauves_AN-202607110270.html",
-   "n_members": 9,
+   "n_members": 11,
    "n_sources": 9,
    "counts": {
     "left": 0,
