@@ -161,6 +161,19 @@ def test_og_images_generated(conn, tmp_path):
     assert 'summary_large_image' in detail
 
 
+def test_source_profile_pages(conn, tmp_path):
+    seed(conn)
+    build_site(conn, tmp_path)
+
+    page = tmp_path / "source" / "g1.html"
+    assert page.exists()
+    html = page.read_text()
+    assert "Gauche 1" in html and "Propriétaire" in html
+    assert "cluster/" in html  # live subject links
+    about = (tmp_path / "a-propos.html").read_text()
+    assert 'href="source/g1.html"' in about
+
+
 def test_search_index_and_page(conn, tmp_path):
     import json as jsonlib
 
