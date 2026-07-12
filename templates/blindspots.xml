@@ -11,6 +11,7 @@
     <title>[angle mort de la {{ c.blindspot_for }}] {{ c.title }}</title>
     <link>{{ c.article_url }}</link>
     <guid isPermaLink="false">spectre-blindspot-{{ c.id }}</guid>
+    <pubDate>{{ c.updated_at | rfc822 }}</pubDate>
     <description>Couvert par {{ c.counts.left }} source(s) à gauche, {{ c.counts.centre }} au centre, {{ c.counts.right }} à droite — {{ c.n_members }} articles, score {{ "%+.2f" | format(c.blindspot_score) }}.{% if c.category %} Rubrique : {{ c.category }}.{% endif %}</description>
   </item>
   {% endfor %}

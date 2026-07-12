@@ -72,12 +72,22 @@ def _fmt_dt(iso: str | None, fmt: str = "%d/%m %H:%M") -> str:
     return dt.strftime(fmt.replace("%a", _FRENCH_DAYS[dt.weekday()]))
 
 
+def _rfc822(iso: str | None) -> str:
+    """ISO timestamp -> RFC 822 date (RSS requirement)."""
+    from email.utils import format_datetime
+
+    if not iso:
+        return ""
+    return format_datetime(datetime.fromisoformat(iso))
+
+
 def _env() -> Environment:
     env = Environment(
         loader=FileSystemLoader(TEMPLATES_DIR),
         autoescape=select_autoescape(["html", "xml"]),
     )
     env.filters["fmt_dt"] = _fmt_dt
+    env.filters["rfc822"] = _rfc822
     return env
 
 
@@ -213,7 +223,8 @@ def find_leaks(conn: sqlite3.Connection, site_dir: Path) -> list[str]:
             "SELECT summary FROM articles WHERE summary IS NOT NULL AND length(summary) > 60"
         )
     ]
-    html = " ".join(p.read_text(encoding="utf-8") for p in site_dir.rglob("*.html"))
+    pages = list(site_dir.rglob("*.html")) + list(site_dir.rglob("*.xml"))
+    html = " ".join(p.read_text(encoding="utf-8") for p in pages)
     return [s for s in summaries if s[15:60] in html]
 
 
@@ -310,6 +321,22 @@ def build_site(conn: sqlite3.Connection, out_dir: Path) -> dict[str, int]:
             og_description="Les sujets couverts massivement par un bord du spectre"
                            " médiatique et ignorés par l'autre.",
         ),
+        encoding="utf-8",
+    )
+
+    # Main RSS feed: 30 most recent events with >= 3 articles. Descriptions
+    # are OUR generated stats (+ divergent terms) — never press content.
+    feed_items = sorted(
+        (c for c in feed_cards if c["n_members"] >= 3),
+        key=lambda c: c["updated_at"] or "", reverse=True,
+    )[:30]
+    for item in feed_items:
+        payloads = db.get_analyses(conn, item["id"])
+        vocab = json.loads(payloads["vocab_contrast"]) if "vocab_contrast" in payloads else {}
+        item["terms_left"] = [t for t, _ in vocab.get("left_terms", [])[:3]]
+        item["terms_right"] = [t for t, _ in vocab.get("right_terms", [])[:3]]
+    (out_dir / "feed.xml").write_text(
+        env.get_template("feed.xml").render(items=feed_items, site_url=SITE_BASE_URL),
         encoding="utf-8",
     )
 

@@ -12,6 +12,8 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="{{ og_title }}">
 <meta name="twitter:description" content="{{ og_description }}">
+<link rel="alternate" type="application/rss+xml" title="Spectre — le fil" href="{{ root }}feed.xml">
+<link rel="alternate" type="application/rss+xml" title="Spectre — blindspots" href="{{ root }}blindspots.xml">
 <link rel="stylesheet" href="{{ root }}style.css">
 </head>
 <body>
@@ -35,6 +37,8 @@
     <p>Spectre est un index : titres, liens vers les originaux et analyses propres uniquement.</p>
     <p>Pas d'algorithme de recommandation : tout le monde voit la même page,
        triée par ampleur de couverture. Aucun compte, aucun cookie, aucun tracking.</p>
+    <p>S'abonner par RSS : <a href="{{ root }}feed.xml">le fil</a> ·
+       <a href="{{ root }}blindspots.xml">les blindspots</a></p>
   </div>
   {% if health and health.total %}
   <p class="footer-health {{ 'health-warn' if health.ok < health.total }}">RSS {{ health.ok }}/{{ health.total }} OK</p>
