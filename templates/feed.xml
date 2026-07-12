@@ -15,5 +15,14 @@
     <description>Couvert par {{ c.counts.left }} source(s) à gauche, {{ c.counts.centre }} au centre, {{ c.counts.right }} à droite — {{ c.n_members }} articles, {{ c.n_sources }} sources.{% if c.terms_left or c.terms_right %} Termes marquants — gauche : {{ c.terms_left | join(", ") }} ; droite : {{ c.terms_right | join(", ") }}.{% endif %}</description>
   </item>
   {% endfor %}
+  {% if archive_item %}
+  <item>
+    <title>Archives — semaine {{ archive_item.week }} ({{ archive_item.n_clusters }} événements)</title>
+    <link>{{ site_url }}archives/{{ archive_item.week }}.html</link>
+    <guid isPermaLink="false">spectre-archive-{{ archive_item.week }}</guid>
+    <pubDate>{{ archive_item.generated_at | rfc822 }}</pubDate>
+    <description>L'instantané hebdomadaire : événements, répartitions de couverture et angles morts de la semaine {{ archive_item.week }}.</description>
+  </item>
+  {% endif %}
 </channel>
 </rss>
