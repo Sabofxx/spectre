@@ -161,6 +161,20 @@ def test_og_images_generated(conn, tmp_path):
     assert 'summary_large_image' in detail
 
 
+def test_mon_spectre_page_and_data(conn, tmp_path):
+    import json as jsonlib
+
+    seed(conn)
+    build_site(conn, tmp_path)
+
+    srcs = jsonlib.loads((tmp_path / "data" / "sources.json").read_text())
+    assert any(s["id"] == "g1" for s in srcs)
+    jsonlib.loads((tmp_path / "data" / "blindspots.json").read_text())
+    page = (tmp_path / "mon-spectre.html").read_text()
+    assert "rien ne quitte votre navigateur" in page.lower()
+    assert "localStorage" not in page and "document.cookie" not in page
+
+
 def test_source_profile_pages(conn, tmp_path):
     seed(conn)
     build_site(conn, tmp_path)
