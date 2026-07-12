@@ -1,0 +1,109 @@
+{% extends "base.html" %}
+{% block title %}Mon spectre — Spectre{% endblock %}
+{% block content %}
+<section class="page-head">
+  <p class="dateline">Auto-diagnostic · indicatif · rien ne quitte votre navigateur</p>
+  <h1>Mon spectre</h1>
+  <p class="lede">Cochez les médias que vous lisez régulièrement. Le calcul se fait
+     entièrement dans votre navigateur : aucun cookie, aucune requête, aucune
+     mémorisation — rechargez la page et tout disparaît.</p>
+</section>
+
+<div id="picker" class="method-grid" aria-label="Choix des médias"></div>
+<p><button id="go" class="cat-link">Calculer mon spectre</button></p>
+
+<div id="result" hidden>
+  <h2>Position indicative</h2>
+  <p class="meta">Moyenne simple des orientations source-level de vos lectures —
+     un indicateur ludique, pas un diagnostic : lire un média n'est pas y adhérer.</p>
+  <div class="bar" style="height:14px" aria-hidden="true">
+    <span class="seg seg-left" style="flex-grow:2"></span>
+    <span class="seg seg-centre" style="flex-grow:1"></span>
+    <span class="seg seg-right" style="flex-grow:2"></span>
+  </div>
+  <p id="gauge-label" class="strong-meta"></p>
+  <h2>Ce que vous auriez probablement raté</h2>
+  <p class="meta">Les angles morts de la semaine dont AUCUNE de vos sources ne
+     faisait partie de la couverture :</p>
+  <ul class="articles" id="missed"></ul>
+  <p><button id="copy" class="cat-link">Copier mon résultat</button>
+     <span id="copied" class="meta"></span></p>
+</div>
+
+<script>
+(function () {
+  "use strict";
+  var POS = {"gauche": -2, "centre-gauche": -1, "centre": 0, "centre-droit": 1, "droite": 2};
+  var LABELS = ["nettement à gauche", "penche à gauche", "centre du spectre",
+                "penche à droite", "nettement à droite"];
+  var sources = [], blindspots = [];
+  var picker = document.getElementById("picker");
+
+  Promise.all([
+    fetch("data/sources.json").then(function (r) { return r.json(); }),
+    fetch("data/blindspots.json").then(function (r) { return r.json(); })
+  ]).then(function (res) {
+    sources = res[0]; blindspots = res[1];
+    var groups = {};
+    sources.forEach(function (s) { (groups[s.orientation] = groups[s.orientation] || []).push(s); });
+    ["gauche", "centre-gauche", "centre", "centre-droit", "droite"].forEach(function (o) {
+      if (!groups[o]) return;
+      var card = document.createElement("div"); card.className = "method-card";
+      var h = document.createElement("h3"); h.textContent = o; card.appendChild(h);
+      groups[o].forEach(function (s) {
+        var label = document.createElement("label");
+        label.style.display = "block";
+        var cb = document.createElement("input");
+        cb.type = "checkbox"; cb.value = s.id; cb.dataset.orientation = s.orientation;
+        cb.dataset.name = s.name;
+        label.appendChild(cb);
+        label.appendChild(document.createTextNode(" " + s.name));
+        card.appendChild(label);
+      });
+      picker.appendChild(card);
+    });
+  });
+
+  var lastSummary = "";
+  document.getElementById("go").addEventListener("click", function () {
+    var checked = Array.prototype.slice.call(picker.querySelectorAll("input:checked"));
+    if (!checked.length) { alert("Cochez au moins un média."); return; }
+    var ids = checked.map(function (c) { return c.value; });
+    var mean = checked.reduce(function (acc, c) { return acc + POS[c.dataset.orientation]; }, 0) / checked.length;
+    var label = LABELS[Math.max(0, Math.min(4, Math.round(mean) + 2))];
+    document.getElementById("gauge-label").textContent =
+      "Vos " + checked.length + " sources vous placent : " + label +
+      " (" + (mean >= 0 ? "+" : "") + mean.toFixed(1) + " sur une échelle de −2 à +2).";
+
+    var missed = blindspots.filter(function (b) {
+      return b.blindspot_for && !b.sources.some(function (s) { return ids.indexOf(s) !== -1; });
+    });
+    var ul = document.getElementById("missed");
+    ul.textContent = "";
+    missed.slice(0, 10).forEach(function (b) {
+      var li = document.createElement("li");
+      var a = document.createElement("a");
+      a.href = "cluster/" + b.id + ".html"; a.textContent = b.title;
+      li.appendChild(a);
+      ul.appendChild(li);
+    });
+    if (!missed.length) {
+      var li = document.createElement("li");
+      li.className = "meta";
+      li.textContent = "Aucun : vos sources couvraient tous les angles morts de la semaine.";
+      ul.appendChild(li);
+    }
+    lastSummary = "Mon spectre (spectre-presse) : " + label + " avec " + checked.length +
+      " sources ; " + missed.length + " angle(s) mort(s) raté(s) cette semaine. " +
+      window.location.href;
+    document.getElementById("result").hidden = false;
+  });
+
+  document.getElementById("copy").addEventListener("click", function () {
+    navigator.clipboard.writeText(lastSummary).then(function () {
+      document.getElementById("copied").textContent = "copié !";
+    });
+  });
+})();
+</script>
+{% endblock %}
