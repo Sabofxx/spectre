@@ -161,6 +161,20 @@ def test_og_images_generated(conn, tmp_path):
     assert 'summary_large_image' in detail
 
 
+def test_timeline_svg_with_accessible_table(conn, tmp_path):
+    seed(conn)
+    cid = conn.execute("SELECT id FROM clusters").fetchone()[0]
+    conn.execute(
+        "UPDATE articles SET published_at = '2026-07-10T0' || (rowid % 8) || ':00:00+00:00'"
+    )
+    conn.commit()
+    build_site(conn, tmp_path)
+    html = (tmp_path / "cluster" / f"{cid}.html").read_text()
+    assert "Chronologie de publication" in html
+    assert '<svg class="timeline"' in html and "<title>" in html
+    assert 'class="visually-hidden"' in html  # table equivalent
+
+
 def test_headline_faceoff_two_columns(conn, tmp_path):
     seed(conn)  # d1 + g1: one per side
     build_site(conn, tmp_path)

@@ -70,6 +70,37 @@
 {% endfor %}
 </section>
 
+{% if c.timeline %}
+<section class="page-section">
+<h2>Chronologie de publication</h2>
+<p class="meta">Chaque point est un article, coloré par bord — de
+   {{ c.timeline.start }} à {{ c.timeline.end }}.</p>
+<svg class="timeline" viewBox="0 0 1000 120" role="img"
+     aria-label="Chronologie des publications par bord">
+  <line x1="20" y1="30" x2="980" y2="30" stroke="currentColor" stroke-opacity="0.15"/>
+  <line x1="20" y1="60" x2="980" y2="60" stroke="currentColor" stroke-opacity="0.15"/>
+  <line x1="20" y1="90" x2="980" y2="90" stroke="currentColor" stroke-opacity="0.15"/>
+  <text x="8" y="34" class="tl-label">G</text>
+  <text x="8" y="64" class="tl-label">C</text>
+  <text x="8" y="94" class="tl-label">D</text>
+  {% for p in c.timeline.points %}
+  <circle cx="{{ p.x }}" cy="{{ p.y }}" r="7" class="tl-{{ p.bloc }}">
+    <title>{{ p.label }}</title>
+  </circle>
+  {% endfor %}
+</svg>
+<table class="visually-hidden">
+  <caption>Chronologie des publications</caption>
+  <thead><tr><th>Source</th><th>Heure</th><th>Bord</th></tr></thead>
+  <tbody>
+  {% for p in c.timeline.points %}
+  <tr><td>{{ p.source }}</td><td>{{ p.time }}</td><td>{{ p.bloc }}</td></tr>
+  {% endfor %}
+  </tbody>
+</table>
+</section>
+{% endif %}
+
 {% if c.face_left and c.face_right %}
 <section class="page-section">
 <h2>Titres face à face</h2>
