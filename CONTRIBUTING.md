@@ -36,3 +36,19 @@ pytest
 Contraintes non négociables : 0 € (aucune API payante), droits voisins
 (aucun chapô RSS dans le HTML public — gardé par `check-leaks`), pas de
 framework front, tests verts.
+
+## Proposer une édition (Belgique, Suisse, Québec…)
+
+L'architecture est prête sans fork du code : une édition = un référentiel de
+sources + trois paramètres.
+
+1. Dupliquez `config/sources.yaml` avec les médias de l'édition (mêmes champs,
+   flux vérifiés par fetch réel, orientations argumentées source-level).
+2. Déployez avec `python run.py pipeline --config config/sources.be.yaml
+   --db spectre-be.db` et les variables `SPECTRE_SITE_URL` /
+   `SPECTRE_REPO_URL` pointant vers votre déploiement.
+3. Ouvrez une issue pour discuter d'un rattachement officiel.
+
+Le classement gauche/droite est propre à chaque espace médiatique national :
+une édition sérieuse exige un référentiel construit par des gens qui
+connaissent cette presse.

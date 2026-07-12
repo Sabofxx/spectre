@@ -27,8 +27,14 @@ logger = logging.getLogger(__name__)
 
 TEMPLATES_DIR = Path(__file__).resolve().parent.parent / "templates"
 STATIC_DIR = Path(__file__).resolve().parent.parent / "static"
-REPO_URL = "https://github.com/Sabofxx/spectre"
-SITE_BASE_URL = "https://sabofxx.github.io/spectre/"  # absolute links for RSS
+# Multi-edition preparation: a Belgian/Swiss/Québec edition is a fork (or a
+# second deployment) overriding these via environment + its own sources.yaml
+# (--config / --db / --out already exist on the CLI). No behavioural change
+# for the default French edition.
+import os
+
+REPO_URL = os.environ.get("SPECTRE_REPO_URL", "https://github.com/Sabofxx/spectre")
+SITE_BASE_URL = os.environ.get("SPECTRE_SITE_URL", "https://sabofxx.github.io/spectre/")
 
 FEED_WINDOW_HOURS = 48
 FEED_MIN_MEMBERS = 2
