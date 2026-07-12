@@ -1,6 +1,6 @@
 {
  "week": "2026-W28",
- "generated_at": "2026-07-12T21:46:12+00:00",
+ "generated_at": "2026-07-12T21:55:52+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -155,6 +155,36 @@
    ]
   },
   {
+   "title": "Canicule : pourquoi des réacteurs nucléaires sont-ils régulièrement mis à l’arrêt en cas de fortes chaleurs ?",
+   "url": "https://www.mediapart.fr/journal/ecologie/110726/pourquoi-le-vivant-ne-supporte-pas-la-chaleur",
+   "n_members": 38,
+   "n_sources": 22,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 10,
+    "opinion": 0
+   },
+   "blindspot_score": -0.091,
+   "blindspot_for": null,
+   "divergence": 0.845,
+   "category": "environnement",
+   "terms_left": [
+    "face",
+    "tour",
+    "paris"
+   ],
+   "terms_right": [
+    "arrêt",
+    "fortes",
+    "chaleurs"
+   ]
+  },
+  {
    "title": "Incendie en Espagne: les images des dégâts causés par les flammes en Andalousie",
    "url": "https://www.franceinfo.fr/monde/espagne/un-feu-de-foret-fait-douze-morts-en-andalousie-alors-que-l-espagne-affronte-une-vague-de-chaleur_8102162.html",
    "n_members": 91,
@@ -275,36 +305,6 @@
    ]
   },
   {
-   "title": "Canicule : pourquoi des réacteurs nucléaires sont-ils régulièrement mis à l’arrêt en cas de fortes chaleurs ?",
-   "url": "https://www.mediapart.fr/journal/ecologie/110726/pourquoi-le-vivant-ne-supporte-pas-la-chaleur",
-   "n_members": 37,
-   "n_sources": 21,
-   "counts": {
-    "left": 6,
-    "centre": 10,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 10,
-    "opinion": 0
-   },
-   "blindspot_score": -0.091,
-   "blindspot_for": null,
-   "divergence": 0.845,
-   "category": "environnement",
-   "terms_left": [
-    "face",
-    "tour",
-    "paris"
-   ],
-   "terms_right": [
-    "arrêt",
-    "fortes",
-    "chaleurs"
-   ]
-  },
-  {
    "title": "Nice : une marche blanche lance les commémorations des dix ans de l'attentat du 14 juillet",
    "url": "https://www.lemonde.fr/societe/article/2026/07/10/14-juillet-les-personnes-qui-veulent-assister-au-defile-sur-les-champs-elysees-devront-presenter-un-qr-code_6722451_3224.html",
    "n_members": 68,
@@ -325,8 +325,8 @@
    "category": "société",
    "terms_left": [
     "attentat nice",
-    "marche solennelle",
-    "solennelle"
+    "solennelle",
+    "marche solennelle"
    ],
    "terms_right": [
     "france",
@@ -337,7 +337,7 @@
   {
    "title": "Guerre au Moyen-Orient : Donald Trump dit accepter de parler avec l'Iran mais que le cessez-le-feu est «terminé»",
    "url": "https://www.mediapart.fr/journal/international/100726/ni-guerre-ni-paix-pourquoi-les-etats-unis-et-l-iran-sont-pieges-dans-l-impasse-d-ormuz",
-   "n_members": 45,
+   "n_members": 46,
    "n_sources": 20,
    "counts": {
     "left": 5,
@@ -457,7 +457,7 @@
   {
    "title": "Chine : près de 2 millions de personnes évacuées à l'approche du typhon Bavi",
    "url": "https://www.leparisien.fr/meteo/typhon-bavi-pres-dun-million-de-personnes-evacuees-en-chine-avant-limpact-sur-wenzhou-11-07-2026-ISQOPUO3YFD7RLSBA2RR6BFDYI.php",
-   "n_members": 52,
+   "n_members": 53,
    "n_sources": 17,
    "counts": {
     "left": 1,
