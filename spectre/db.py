@@ -438,11 +438,11 @@ def random_clusters(conn: sqlite3.Connection, n: int, min_size: int) -> list[sql
 
 
 def cluster_members_detail(conn: sqlite3.Connection, cluster_id: int) -> list[sqlite3.Row]:
-    """Members of a cluster with source name/orientation, most central first."""
+    """Members of a cluster with source metadata, in publication order."""
     return conn.execute(
         """
         SELECT a.title, a.url, a.published_at, m.similarity,
-               s.name AS source_name, s.orientation, s.editorial_style
+               s.id AS source_id, s.name AS source_name, s.orientation, s.owner, s.editorial_style
         FROM cluster_members m
         JOIN articles a ON a.id = m.article_id
         JOIN sources s ON s.id = a.source_id

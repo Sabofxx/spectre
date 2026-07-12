@@ -201,6 +201,11 @@ a.cat:hover { color: var(--fg); text-decoration: underline; }
 /* ------------------------------------------------------------------ */
 /* Detail page                                                         */
 /* ------------------------------------------------------------------ */
+.owner-note {
+  font-size: 0.82rem; background: var(--surface-soft); border-radius: 6px;
+  padding: 0.45rem 0.7rem; margin: 0.4rem 0;
+}
+
 .first-publisher { font-size: 0.82rem; color: var(--muted); margin: 0.4rem 0 0; }
 
 .crumbs { font-size: 0.8rem; margin: 1rem 0 0; }

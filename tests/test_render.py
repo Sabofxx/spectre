@@ -125,6 +125,26 @@ def test_main_feed_rfc822_and_own_text_only(conn, tmp_path):
     assert "S'abonner par RSS" in index
 
 
+def test_shared_owner_note(conn, tmp_path):
+    conn.execute("UPDATE sources SET owner = 'Groupe Test' WHERE id IN ('d1', 'd2')")
+    ids = []
+    for src in ("d1", "d2", "g1"):
+        art = make_article(source_id=src, title=f"Titre {src}", hours_ago=2)
+        dbmod.insert_article(conn, art)
+        ids.append(conn.execute("SELECT id FROM articles WHERE url = ?", (art.url,)).fetchone()[0])
+    cid = dbmod.create_cluster(conn, b"\x00" * 8, "Titre d1", ids[0])
+    for aid in ids[1:]:
+        dbmod.add_cluster_member(conn, cid, aid, 0.9)
+    dbmod.update_cluster(conn, cid, b"\x00" * 8, "Titre d1", 3)
+    conn.commit()
+
+    build_site(conn, tmp_path)
+    html = (tmp_path / "cluster" / f"{cid}.html").read_text()
+    assert "appartiennent" in html and "Groupe Test" in html
+    # placeholder owners ('-') never trigger the note
+    assert html.count("appartiennent") == 1
+
+
 def test_seo_artifacts(conn, tmp_path):
     seed(conn)
     build_site(conn, tmp_path)
