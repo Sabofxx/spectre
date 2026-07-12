@@ -184,6 +184,7 @@ a.cat:hover { color: var(--fg); text-decoration: underline; }
 .dot-mixte { background: var(--mixte); }
 .dot-opinion { background: var(--opinion); }
 .source-line .dot { width: 7px; height: 7px; margin-right: 3px; }
+.favicon-img { vertical-align: -2px; margin-right: 4px; border-radius: 3px; }
 
 /* Pure-CSS tooltip (keyboard focusable). */
 .tip {

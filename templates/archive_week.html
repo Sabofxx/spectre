@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% import "_macros.html" as macros %}
+{% import "_macros.html" as macros with context %}
 {% block title %}Archives {{ snap.week }} — Spectre{% endblock %}
 {% block content %}
 <p class="crumbs"><a href="{{ root }}archives.html">← Archives</a></p>
