@@ -1,5 +1,5 @@
 # Spectre — référentiel des sources
-# Orientations: gauche | centre-gauche | centre | centre-droit | droite
+# Orientations: extrême-gauche | gauche | centre-gauche | centre | centre-droit | droite | extrême-droite
 # Editorial style: factuel | mixte | opinion
 # La classification est indicative et débattable (voir README).
 # Propriétaires d'après la carte "Médias français, qui possède quoi"
@@ -25,7 +25,7 @@ sources:
 
   - id: humanite
     name: "L'Humanité"
-    orientation: gauche
+    orientation: extrême-gauche
     editorial_style: opinion
     paywall: partial
     owner: "Indépendant (actionnariat populaire, proche PCF)"
@@ -338,13 +338,15 @@ sources:
 
   - id: tf1info
     name: TF1 Info
-    orientation: centre
+    orientation: centre-droit
     editorial_style: factuel
     paywall: none
     classification_note: >-
-      Classé centre : la ligne éditoriale publique est généraliste grand
-      public ; l'inférence centre-droit par propriétaire (Bouygues) serait
-      contraire à la base déclarée (positionnement éditorial, pas actionnariat).
+      Reclassé centre-droit (2026-07-12) : plusieurs références (Sciences Po,
+      panoramas de la presse) classent TF1 « à droite ». Sur un axe à cinq
+      positions où « droite » absorbe l'extrême droite, la droite
+      établie/grand public compresse en centre-droit. Le centre initial
+      sous-estimait le positionnement perçu.
     owner: "Groupe TF1 (Bouygues)"
     rss:
       - https://www.tf1info.fr/feeds/rss-une.xml
@@ -353,7 +355,7 @@ sources:
   # ---------------- droite ----------------
   - id: cnews
     name: CNews
-    orientation: droite
+    orientation: extrême-droite
     editorial_style: opinion
     paywall: none
     owner: "Canal+ / Vivendi (Bolloré)"
@@ -363,7 +365,7 @@ sources:
 
   - id: europe1
     name: Europe 1
-    orientation: droite
+    orientation: extrême-droite
     editorial_style: mixte
     paywall: none
     owner: "Lagardère (Vivendi / Bolloré)"
@@ -373,7 +375,7 @@ sources:
 
   - id: jdd
     name: Le JDD
-    orientation: droite
+    orientation: extrême-droite
     editorial_style: opinion
     paywall: partial
     owner: "Lagardère (Vivendi / Bolloré)"
@@ -383,7 +385,7 @@ sources:
 
   - id: valeursactuelles
     name: Valeurs Actuelles
-    orientation: droite
+    orientation: extrême-droite
     editorial_style: opinion
     paywall: partial
     owner: "Famille Safa (Privinvest)"
@@ -434,7 +436,7 @@ sources:
 
   - id: frustration
     name: Frustration
-    orientation: gauche
+    orientation: extrême-gauche
     editorial_style: opinion
     paywall: none
     owner: "Indépendant (Frustration SAS, financement participatif)"
@@ -520,7 +522,7 @@ sources:
 
   - id: bvoltaire
     name: Boulevard Voltaire
-    orientation: droite
+    orientation: extrême-droite
     editorial_style: opinion
     classification_note: >-
       Média d'opinion classé à droite/extrême droite (cofondé par Robert
@@ -617,7 +619,7 @@ sources:
 
   - id: lincorrect
     name: "L'Incorrect"
-    orientation: droite
+    orientation: extrême-droite
     editorial_style: opinion
     classification_note: >-
       Magazine d'opinion classé à droite conservatrice ; droite/opinion sur
