@@ -577,7 +577,7 @@ def cluster_source_rows(
     """One row per (cluster, source) for clusters recently updated."""
     return conn.execute(
         """
-        SELECT DISTINCT c.id AS cluster_id, c.title, c.n_members,
+        SELECT DISTINCT c.id AS cluster_id, c.title, c.n_members, c.updated_at,
                c.divergence_score, c.blindspot_score, c.category,
                s.id AS source_id, s.name AS source_name, s.orientation,
                s.editorial_style

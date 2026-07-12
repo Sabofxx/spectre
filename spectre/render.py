@@ -52,10 +52,16 @@ _RECURRING_TITLE = re.compile(
 _PARIS = ZoneInfo("Europe/Paris")
 
 
+_FRENCH_DAYS = ("lun.", "mar.", "mer.", "jeu.", "ven.", "sam.", "dim.")
+
+
 def _fmt_dt(iso: str | None, fmt: str = "%d/%m %H:%M") -> str:
+    """Paris-time formatter; %a is rendered as a French weekday (the CI
+    runner's C locale would otherwise print English day names)."""
     if not iso:
         return ""
-    return datetime.fromisoformat(iso).astimezone(_PARIS).strftime(fmt)
+    dt = datetime.fromisoformat(iso).astimezone(_PARIS)
+    return dt.strftime(fmt.replace("%a", _FRENCH_DAYS[dt.weekday()]))
 
 
 def _env() -> Environment:
@@ -119,6 +125,7 @@ def build_cards(conn: sqlite3.Connection, since: str, min_members: int) -> list[
                 "blindspot_score": row["blindspot_score"],
                 "blindspot_for": _blindspot_label(row["blindspot_score"]),
                 "category": row["category"],
+                "updated_at": row["updated_at"],
                 "source_rows": [],
             },
         )
