@@ -138,6 +138,14 @@ jamais recalculée (ses chapôs ont été purgés).
   analyses — jamais les chapôs RSS (vérifié par `check-leaks` en CI avant chaque
   déploiement).
 
+## Données ouvertes
+
+Les instantanés hebdomadaires (`data/archive/*.json`) sont publiés sous
+**CC-BY 4.0** : événements, répartitions par bord, scores de blindspot et de
+divergence, termes marquants — jamais de contenu de presse. Schéma documenté
+dans `data/archive/README.md`. Réutilisation bienvenue (chercheurs,
+data-journalistes) avec attribution.
+
 ## Maintenance
 
 - **Taille du repo** : la base SQLite est committée à chaque run apportant du

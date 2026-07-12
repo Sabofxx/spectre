@@ -44,10 +44,14 @@ def write_snapshot(conn: sqlite3.Connection, archive_dir: Path = ARCHIVE_DIR) ->
     """(Re)write the snapshot of the current ISO week. Returns the file path."""
     from .render import build_cards  # late import: render also imports archive
 
+    import json as json_mod
+
     cards = build_cards(conn, week_start(), SNAPSHOT_MIN_MEMBERS)[:MAX_CLUSTERS_PER_WEEK]
     entries = []
     for card in cards:
         top = db.cluster_top_article(conn, card["id"])
+        payloads = db.get_analyses(conn, card["id"])
+        vocab = json_mod.loads(payloads["vocab_contrast"]) if "vocab_contrast" in payloads else {}
         entries.append({
             "title": card["title"],
             "url": top["url"] if top else None,  # representative original article
@@ -59,10 +63,14 @@ def write_snapshot(conn: sqlite3.Connection, archive_dir: Path = ARCHIVE_DIR) ->
             "blindspot_for": card["blindspot_for"],
             "divergence": card["divergence"],
             "category": card["category"],
+            "terms_left": [term for term, _ in vocab.get("left_terms", [])[:3]],
+            "terms_right": [term for term, _ in vocab.get("right_terms", [])[:3]],
         })
     snapshot = {
         "week": current_week_id(),
         "generated_at": db.utcnow_iso(),
+        "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+        "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
         "clusters": entries,
     }
     archive_dir.mkdir(parents=True, exist_ok=True)
