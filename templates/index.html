@@ -11,11 +11,46 @@
      dominante éditoriale des <em>sources</em>, jamais des articles isolés.</p>
   {% include "_catnav.html" %}
 </section>
-<section class="feed-list" aria-label="Événements">
+{% if clusters %}
+<div class="feed-controls">
+  <div class="sort-control" role="group" aria-label="Trier le fil">
+    <button type="button" data-sort="date" aria-pressed="true">Récent</button>
+    <button type="button" data-sort="coverage" aria-pressed="false">Couverture</button>
+  </div>
+  <span class="feed-count">{{ clusters | length }} événements</span>
+</div>
+{% endif %}
+<section class="feed-list" id="feed" aria-label="Événements">
 {% for c in clusters %}
 {{ macros.event_card(c) }}
 {% else %}
 <p class="empty-state">Aucun cluster multi-articles sur les dernières 72 h.</p>
 {% endfor %}
 </section>
+<script>
+(function () {
+  "use strict";
+  var feed = document.getElementById("feed");
+  var control = document.querySelector(".sort-control");
+  if (!feed || !control) return;
+  var cards = Array.prototype.slice.call(feed.querySelectorAll(".event-card"));
+  var byDate = cards.slice();  // server order = most recent first
+  var byCoverage = cards.slice().sort(function (a, b) {
+    return (+b.dataset.sources - +a.dataset.sources)
+        || (+b.dataset.members - +a.dataset.members)
+        || (b.dataset.date > a.dataset.date ? 1 : -1);
+  });
+  function apply(mode) {
+    var order = mode === "coverage" ? byCoverage : byDate;
+    order.forEach(function (card) { feed.appendChild(card); });
+    control.querySelectorAll("button").forEach(function (b) {
+      b.setAttribute("aria-pressed", b.dataset.sort === mode ? "true" : "false");
+    });
+  }
+  control.addEventListener("click", function (e) {
+    var b = e.target.closest("button");
+    if (b) apply(b.dataset.sort);
+  });
+})();
+</script>
 {% endblock %}

@@ -53,8 +53,11 @@
 {% endmacro %}
 
 {% macro event_card(c, root="", heading="h2") %}
-<article class="event-card">
+{% set card_date = c.latest_published or c.updated_at %}
+<article class="event-card" data-date="{{ card_date }}"
+         data-sources="{{ c.n_sources }}" data-members="{{ c.n_members }}">
   <p class="kicker">
+    {% if c.is_fresh %}<span class="fresh-tag">nouveau</span>{% endif %}
     {% if c.category %}<a class="cat" href="{{ root }}categorie/{{ c.category_slug }}.html">{{ c.category }}</a>{% endif %}
     {% if c.blindspot_for %}<span class="flag flag-{{ c.blindspot_for }}">angle mort de la {{ c.blindspot_for }}</span>{% endif %}
     {% if c.divergence is not none %}{{ divergence_badge(c.divergence) }}{% endif %}
@@ -67,7 +70,6 @@
     <span class="facts-text">{{ c.style_counts.factuel }} factuel · {{ c.style_counts.mixte }} mixte · {{ c.style_counts.opinion }} opinion</span>
     <span class="facts-sep"></span>
     <span class="facts-text">{{ c.n_members }} art. · {{ c.n_sources }} sources</span>
-    {% set card_date = c.latest_published or c.updated_at %}
     {% if card_date %}<span class="facts-sep"></span>
     <time class="facts-text" datetime="{{ card_date }}">{{ card_date | fmt_dt("%a %d/%m, %H:%M") }}</time>{% endif %}
   </div>

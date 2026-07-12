@@ -25,9 +25,10 @@
 <link rel="stylesheet" href="{{ root }}style.css">
 </head>
 <body>
-<header class="site-header">
+<header class="site-header" id="top">
   <div class="header-inner">
   <a class="logo" href="{{ root }}index.html"><span>Spectre</span><small>presse française</small></a>
+  <div class="nav-wrap">
   <nav aria-label="Navigation principale">
     <a class="{{ 'is-active' if active_page == 'index' }}" href="{{ root }}index.html">Fil</a>
     <a class="{{ 'is-active' if active_page == 'blindspots' }}" href="{{ root }}blindspots.html">Blindspots</a>
@@ -36,6 +37,7 @@
     <a class="{{ 'is-active' if active_page == 'monspectre' }}" href="{{ root }}mon-spectre.html">Mon spectre</a>
     <a class="{{ 'is-active' if active_page == 'about' }}" href="{{ root }}a-propos.html">À propos</a>
   </nav>
+  </div>
   </div>
 </header>
 <main>
@@ -46,7 +48,7 @@
     <p><strong>Spectre</strong> · généré le {{ generated_at }} · <a href="{{ repo_url }}">code source</a> · <a href="{{ root }}stats.html">statistiques</a></p>
     <p>Spectre est un index : titres, liens vers les originaux et analyses propres uniquement.</p>
     <p>Pas d'algorithme de recommandation : tout le monde voit la même page,
-       triée par ampleur de couverture. Aucun compte, aucun cookie, aucun tracking.</p>
+       triée par date de publication. Aucun compte, aucun cookie, aucun tracking.</p>
     <p>S'abonner par RSS : <a href="{{ root }}feed.xml">le fil</a> ·
        <a href="{{ root }}blindspots.xml">les blindspots</a></p>
   </div>
@@ -54,5 +56,20 @@
   <p class="footer-health {{ 'health-warn' if health.ok < health.total }}">RSS {{ health.ok }}/{{ health.total }} OK</p>
   {% endif %}
 </footer>
+<a class="to-top" href="#top" aria-label="Revenir en haut" title="Revenir en haut">↑</a>
+<script>
+(function () {
+  "use strict";
+  /* Back-to-top: reveal past one viewport of scroll. */
+  var toTop = document.querySelector(".to-top");
+  if (toTop) {
+    var onScroll = function () {
+      toTop.classList.toggle("is-visible", window.scrollY > window.innerHeight * 0.9);
+    };
+    window.addEventListener("scroll", onScroll, { passive: true });
+    onScroll();
+  }
+})();
+</script>
 </body>
 </html>
