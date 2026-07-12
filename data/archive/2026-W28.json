@@ -1,37 +1,37 @@
 {
  "week": "2026-W28",
- "generated_at": "2026-07-12T15:12:55+00:00",
+ "generated_at": "2026-07-12T15:29:51+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "DIRECT. Guerre au Moyen-Orient: l'Iran attaque deux navires dans le détroit d'Ormuz, les États-Unis lancent de nouvelles frappes",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 51,
+   "n_members": 52,
    "n_sources": 27,
    "counts": {
     "left": 6,
-    "centre": 14,
-    "right": 7
+    "centre": 13,
+    "right": 8
    },
    "style_counts": {
     "factuel": 16,
     "mixte": 9,
     "opinion": 2
    },
-   "blindspot_score": 0.109,
+   "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.419,
+   "divergence": 0.424,
    "category": "international",
    "terms_left": [
+    "etats-unis",
     "nuit",
-    "téhéran",
-    "etats-unis"
+    "téhéran"
    ],
    "terms_right": [
     "frappes",
-    "fermeture détroit",
-    "représailles"
+    "représailles",
+    "américaines"
    ]
   },
   {
@@ -41,27 +41,27 @@
    "n_sources": 26,
    "counts": {
     "left": 5,
-    "centre": 15,
-    "right": 6
+    "centre": 14,
+    "right": 7
    },
    "style_counts": {
     "factuel": 15,
     "mixte": 8,
     "opinion": 3
    },
-   "blindspot_score": 0.123,
+   "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.568,
+   "divergence": 0.561,
    "category": "sport",
    "terms_left": [
-    "deuxième",
-    "pleine",
-    "épreuve"
+    "parcours",
+    "victoire",
+    "bordeaux"
    ],
    "terms_right": [
     "étape tour",
-    "fois",
-    "départements"
+    "chaleur",
+    "fois"
    ]
   },
   {
@@ -71,22 +71,22 @@
    "n_sources": 25,
    "counts": {
     "left": 5,
-    "centre": 13,
-    "right": 7
+    "centre": 12,
+    "right": 8
    },
    "style_counts": {
     "factuel": 14,
     "mixte": 7,
     "opinion": 4
    },
-   "blindspot_score": 0.198,
+   "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.67,
+   "divergence": 0.66,
    "category": "sport",
    "terms_left": [
+    "buts",
     "lionel",
-    "lionel messi",
-    "buts"
+    "lionel messi"
    ],
    "terms_right": [
     "france",
@@ -97,26 +97,26 @@
   {
    "title": "DIRECT. Canicule: 37 départements placés en vigilance rouge demain par Météo-France et 46 en vigilance orange",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 82,
+   "n_members": 84,
    "n_sources": 23,
    "counts": {
     "left": 5,
-    "centre": 12,
-    "right": 6
+    "centre": 11,
+    "right": 7
    },
    "style_counts": {
     "factuel": 12,
     "mixte": 10,
     "opinion": 1
    },
-   "blindspot_score": 0.123,
+   "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.453,
+   "divergence": 0.435,
    "category": "environnement",
    "terms_left": [
     "suffoque",
     "france suffoque",
-    "france"
+    "météo"
    ],
    "terms_right": [
     "météo-france",
@@ -127,51 +127,51 @@
   {
    "title": "Guerre en Ukraine : six morts et douze blessés, dont un enfant, après une attaque de missiles russes",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 52,
-   "n_sources": 22,
+   "n_members": 60,
+   "n_sources": 23,
    "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 7
+    "left": 5,
+    "centre": 10,
+    "right": 8
    },
    "style_counts": {
     "factuel": 13,
-    "mixte": 7,
+    "mixte": 8,
     "opinion": 2
    },
-   "blindspot_score": 0.302,
+   "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.81,
+   "divergence": 0.884,
    "category": "international",
    "terms_left": [
-    "frappé",
-    "capitale",
-    "nuit"
+    "guerre",
+    "espagne",
+    "monde"
    ],
    "terms_right": [
-    "président",
-    "annoncé",
-    "festival"
+    "morts",
+    "personnes",
+    "blessés"
    ]
   },
   {
    "title": "Incendie en Espagne: les images des dégâts causés par les flammes en Andalousie",
    "url": "https://www.franceinfo.fr/monde/espagne/un-feu-de-foret-fait-douze-morts-en-andalousie-alors-que-l-espagne-affronte-une-vague-de-chaleur_8102162.html",
-   "n_members": 79,
+   "n_members": 80,
    "n_sources": 21,
    "counts": {
     "left": 4,
-    "centre": 12,
-    "right": 5
+    "centre": 11,
+    "right": 6
    },
    "style_counts": {
     "factuel": 14,
     "mixte": 6,
     "opinion": 1
    },
-   "blindspot_score": 0.143,
+   "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.622,
+   "divergence": 0.585,
    "category": "international",
    "terms_left": [
     "mortes",
@@ -179,45 +179,45 @@
     "forêt"
    ],
    "terms_right": [
+    "disparues",
     "sud espagne",
-    "incendie espagne",
-    "disparues"
+    "incendie espagne"
    ]
   },
   {
    "title": "Nice : une marche blanche lance les commémorations des dix ans de l'attentat du 14 juillet",
    "url": "https://www.lemonde.fr/societe/article/2026/07/10/14-juillet-les-personnes-qui-veulent-assister-au-defile-sur-les-champs-elysees-devront-presenter-un-qr-code_6722451_3224.html",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 20,
    "counts": {
     "left": 3,
-    "centre": 11,
-    "right": 6
+    "centre": 10,
+    "right": 7
    },
    "style_counts": {
     "factuel": 11,
     "mixte": 7,
     "opinion": 2
    },
-   "blindspot_score": 0.362,
+   "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.562,
+   "divergence": 0.56,
    "category": "société",
    "terms_left": [
     "victimes",
-    "sécurité",
-    "proches"
+    "marche solennelle",
+    "solennelle"
    ],
    "terms_right": [
     "nationale",
-    "fête",
-    "annoncé"
+    "france",
+    "fête"
    ]
   },
   {
    "title": "Présidentielle 2027 : Clémentine Autain prend acte de l’échec de la « primaire unitaire » de la gauche et renonce à être candidate",
    "url": "https://www.lemonde.fr/politique/article/2026/07/11/segolene-royal-raphael-glucksmann-francois-hollande-la-primaire-sociale-democrate-cherche-ses-candidats_6722668_823448.html",
-   "n_members": 37,
+   "n_members": 38,
    "n_sources": 19,
    "counts": {
     "left": 5,
@@ -229,9 +229,9 @@
     "mixte": 6,
     "opinion": 3
    },
-   "blindspot_score": 0.032,
+   "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.481,
+   "divergence": 0.499,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -247,31 +247,31 @@
   {
    "title": "Emmanuel Macron appelle à la vigilance «de tous les instants» face au «retour de l'odieux antisémitisme»",
    "url": "https://www.franceinfo.fr/culture/patrimoine/histoire/une-premiere-ceremonie-d-hommage-national-a-alfred-dreyfus-organisee-dimanche-en-presence-d-emmanuel-macron_8104097.html",
-   "n_members": 31,
+   "n_members": 32,
    "n_sources": 19,
    "counts": {
     "left": 6,
-    "centre": 8,
-    "right": 5
+    "centre": 7,
+    "right": 6
    },
    "style_counts": {
     "factuel": 9,
     "mixte": 8,
     "opinion": 2
    },
-   "blindspot_score": -0.059,
+   "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.492,
+   "divergence": 0.429,
    "category": "société",
    "terms_left": [
-    "dreyfus",
     "etat",
-    "chef etat"
+    "chef etat",
+    "hommage alfred"
    ],
    "terms_right": [
     "vigilance",
     "face",
-    "retour"
+    "instants"
    ]
   },
   {
@@ -281,45 +281,45 @@
    "n_sources": 19,
    "counts": {
     "left": 3,
-    "centre": 11,
-    "right": 5
+    "centre": 10,
+    "right": 6
    },
    "style_counts": {
     "factuel": 12,
     "mixte": 6,
     "opinion": 1
    },
-   "blindspot_score": 0.28,
+   "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.379,
+   "divergence": 0.354,
    "category": "international",
    "terms_left": [
-    "mort",
     "rendu",
-    "mort sénateur"
+    "américain proche",
+    "mort"
    ],
    "terms_right": [
     "allié",
-    "président",
-    "vie"
+    "lindsey graham",
+    "lindsey"
    ]
   },
   {
    "title": "Chine : près de 2 millions de personnes évacuées à l'approche du typhon Bavi",
    "url": "https://www.leparisien.fr/meteo/typhon-bavi-pres-dun-million-de-personnes-evacuees-en-chine-avant-limpact-sur-wenzhou-11-07-2026-ISQOPUO3YFD7RLSBA2RR6BFDYI.php",
-   "n_members": 48,
+   "n_members": 49,
    "n_sources": 17,
    "counts": {
     "left": 1,
-    "centre": 11,
-    "right": 5
+    "centre": 10,
+    "right": 6
    },
    "style_counts": {
     "factuel": 11,
     "mixte": 4,
     "opinion": 2
    },
-   "blindspot_score": 0.684,
+   "blindspot_score": 0.714,
    "blindspot_for": "gauche",
    "divergence": null,
    "category": "environnement",
@@ -329,7 +329,7 @@
   {
    "title": "\"La vengeance doit s'accomplir inévitablement\": le Guide suprême iranien Mojtaba Khamenei lance des menaces à son tour",
    "url": "https://www.liberation.fr/international/moyen-orient/en-iran-labsence-du-nouveau-guide-supreme-aiguise-les-rivalites-au-sein-du-pouvoir-20260710_PIR3PG75ONBYTCW3DAAP3W2OW4/",
-   "n_members": 25,
+   "n_members": 26,
    "n_sources": 16,
    "counts": {
     "left": 2,
@@ -341,19 +341,19 @@
     "mixte": 5,
     "opinion": 0
    },
-   "blindspot_score": 0.362,
+   "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.491,
+   "divergence": 0.492,
    "category": "international",
    "terms_left": [
-    "mort",
-    "etats-unis",
-    "iran"
+    "mort père",
+    "iran",
+    "etats-unis"
    ],
    "terms_right": [
     "venger",
     "khamenei",
-    "vengeance"
+    "macron"
    ]
   },
   {
@@ -363,91 +363,39 @@
    "n_sources": 15,
    "counts": {
     "left": 1,
-    "centre": 11,
-    "right": 3
+    "centre": 10,
+    "right": 4
    },
    "style_counts": {
     "factuel": 11,
     "mixte": 3,
     "opinion": 1
    },
-   "blindspot_score": 0.524,
-   "blindspot_for": null,
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
    "divergence": null,
    "category": "sport",
    "terms_left": [],
    "terms_right": []
   },
   {
-   "title": "Guerre au Moyen-Orient : \"L’armée américaine est prête\"... Donald Trump menace de \"décimer et détruire complètement\" l’Iran en cas de tentative d’assassinat",
-   "url": "https://www.mediapart.fr/journal/international/100726/ni-guerre-ni-paix-pourquoi-les-etats-unis-et-l-iran-sont-pieges-dans-l-impasse-d-ormuz",
-   "n_members": 28,
+   "title": "Présidentielle 2027 : éligible et candidate, Marine Le Pen veut imposer un débat de fond",
+   "url": "https://reporterre.net/Clim-fossiles-et-agro-industrie-l-ecologie-selon-Marine-Le-Pen",
+   "n_members": 30,
    "n_sources": 15,
    "counts": {
-    "left": 5,
-    "centre": 7,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 8,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": -0.22,
-   "blindspot_for": null,
-   "divergence": 0.723,
-   "category": "international",
-   "terms_left": [
-    "téhéran",
-    "sécurité",
-    "veut"
-   ],
-   "terms_right": [
-    "pays",
-    "donald trump",
-    "donald"
-   ]
-  },
-  {
-   "title": "Incendies : 32 individus suspectés d'être à l'origine de départs de feu ont été arrêtés en France, annonce Laurent Nuñez",
-   "url": "https://www.20minutes.fr/societe/4234081-20260711-canicule-14-juillet-rennes-orleans-limoges-aix-feux-artifice-annules-dizaines-villes",
-   "n_members": 36,
-   "n_sources": 14,
-   "counts": {
-    "left": 2,
-    "centre": 6,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 7,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.524,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "environnement",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Présidentielle 2027 : éligible et candidate, Marine Le Pen veut imposer un débat de fond",
-   "url": "https://www.nouvelobs.com/politique/20260710.OBS116567/marine-le-pen-souffrira-t-elle-de-sa-condamnation-pour-detournement-de-fonds-publics-aux-yeux-de-ses-electeurs-elle-n-est-pas-une-politique-ordinaire.html",
-   "n_members": 29,
-   "n_sources": 14,
-   "counts": {
-    "left": 3,
+    "left": 4,
     "centre": 6,
     "right": 5
    },
    "style_counts": {
     "factuel": 6,
-    "mixte": 4,
+    "mixte": 5,
     "opinion": 4
    },
-   "blindspot_score": 0.28,
+   "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.497,
+   "divergence": 0.486,
    "category": "politique",
    "terms_left": [
     "justice",
@@ -461,14 +409,88 @@
    ]
   },
   {
+   "title": "Guerre au Moyen-Orient : \"L’armée américaine est prête\"... Donald Trump menace de \"décimer et détruire complètement\" l’Iran en cas de tentative d’assassinat",
+   "url": "https://www.mediapart.fr/journal/international/100726/ni-guerre-ni-paix-pourquoi-les-etats-unis-et-l-iran-sont-pieges-dans-l-impasse-d-ormuz",
+   "n_members": 29,
+   "n_sources": 15,
+   "counts": {
+    "left": 5,
+    "centre": 6,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 8,
+    "mixte": 6,
+    "opinion": 1
+   },
+   "blindspot_score": -0.111,
+   "blindspot_for": null,
+   "divergence": 0.734,
+   "category": "international",
+   "terms_left": [
+    "téhéran",
+    "dit",
+    "cessez-le-feu terminé"
+   ],
+   "terms_right": [
+    "moyen-orient",
+    "états-unis",
+    "pays"
+   ]
+  },
+  {
+   "title": "Incendies : 32 individus suspectés d'être à l'origine de départs de feu ont été arrêtés en France, annonce Laurent Nuñez",
+   "url": "https://www.20minutes.fr/societe/4234081-20260711-canicule-14-juillet-rennes-orleans-limoges-aix-feux-artifice-annules-dizaines-villes",
+   "n_members": 36,
+   "n_sources": 14,
+   "counts": {
+    "left": 2,
+    "centre": 5,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 7,
+    "mixte": 5,
+    "opinion": 2
+   },
+   "blindspot_score": 0.556,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "environnement",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Val-d'Oise : le parquet national antiterroriste se saisit après la découverte d'un véhicule suspect à Sarcelles",
+   "url": "https://www.leparisien.fr/val-d-oise-95/sarcelles-95200/sarcelles-300-personnes-evacuees-samedi-soir-pour-deminer-un-vehicule-un-suspect-interpelle-12-07-2026-Y4FSRYE37FEL7DHZBKD53BBVKE.php",
+   "n_members": 19,
+   "n_sources": 14,
+   "counts": {
+    "left": 2,
+    "centre": 5,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 7,
+    "mixte": 5,
+    "opinion": 2
+   },
+   "blindspot_score": 0.556,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "faits-divers",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Mondial 2026 : le milieu sud-africain Jayden Adams retrouvé mort à 25 ans",
    "url": "https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-2026-le-selectionneur-de-l-argentine-rejette-les-accusations-de-favoritisme-envers-lionel-messi-et-ses-coequipiers_8104103.html",
    "n_members": 29,
    "n_sources": 13,
    "counts": {
     "left": 0,
-    "centre": 10,
-    "right": 3
+    "centre": 9,
+    "right": 4
    },
    "style_counts": {
     "factuel": 10,
@@ -483,24 +505,24 @@
    "terms_right": []
   },
   {
-   "title": "Val-d'Oise : le parquet national antiterroriste se saisit après la découverte d'un véhicule suspect à Sarcelles",
-   "url": "https://www.leparisien.fr/val-d-oise-95/sarcelles-95200/sarcelles-300-personnes-evacuees-samedi-soir-pour-deminer-un-vehicule-un-suspect-interpelle-12-07-2026-Y4FSRYE37FEL7DHZBKD53BBVKE.php",
-   "n_members": 17,
+   "title": "\"Aucun Français\": l'ancien Premier ministre espagnol effectue un dérapage raciste contre les Bleus avant la demi-finale de la Coupe du monde face à l'Espagne",
+   "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/une-equipe-de-france-sans-francais-les-propos-aux-relents-racistes-de-lancien-premier-ministre-espagnol-mariano-rajoy-12-07-2026-2OUQKEPHOJDVXE6AMM3GWOVKQY.php",
+   "n_members": 19,
    "n_sources": 13,
    "counts": {
-    "left": 2,
-    "centre": 6,
+    "left": 1,
+    "centre": 7,
     "right": 5
    },
    "style_counts": {
-    "factuel": 7,
-    "mixte": 4,
+    "factuel": 9,
+    "mixte": 2,
     "opinion": 2
    },
-   "blindspot_score": 0.455,
-   "blindspot_for": null,
+   "blindspot_score": 0.667,
+   "blindspot_for": "gauche",
    "divergence": null,
-   "category": "faits-divers",
+   "category": "sport",
    "terms_left": [],
    "terms_right": []
   },
@@ -511,15 +533,15 @@
    "n_sources": 13,
    "counts": {
     "left": 1,
-    "centre": 8,
-    "right": 4
+    "centre": 7,
+    "right": 5
    },
    "style_counts": {
     "factuel": 9,
     "mixte": 3,
     "opinion": 1
    },
-   "blindspot_score": 0.62,
+   "blindspot_score": 0.667,
    "blindspot_for": "gauche",
    "divergence": null,
    "category": "société",
@@ -527,26 +549,34 @@
    "terms_right": []
   },
   {
-   "title": "\"Aucun Français\": l'ancien Premier ministre espagnol effectue un dérapage raciste contre les Bleus avant la demi-finale de la Coupe du monde face à l'Espagne",
-   "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/une-equipe-de-france-sans-francais-les-propos-aux-relents-racistes-de-lancien-premier-ministre-espagnol-mariano-rajoy-12-07-2026-2OUQKEPHOJDVXE6AMM3GWOVKQY.php",
-   "n_members": 18,
+   "title": "Wimbledon : Linda Noskova s'impose en finale face à Karolina Muchova et remporte son premier titre du Grand Chelem",
+   "url": "https://www.lemonde.fr/sport/article/2026/07/11/france-australie-fabien-galthie-fait-le-pari-d-un-duo-ntamack-jalibert-pour-affronter-les-wallabies-au-championnat-des-nations-de-rugby_6722621_3242.html",
+   "n_members": 34,
    "n_sources": 12,
    "counts": {
-    "left": 1,
-    "centre": 7,
+    "left": 2,
+    "centre": 6,
     "right": 4
    },
    "style_counts": {
-    "factuel": 8,
-    "mixte": 2,
-    "opinion": 2
+    "factuel": 7,
+    "mixte": 4,
+    "opinion": 1
    },
-   "blindspot_score": 0.62,
-   "blindspot_for": "gauche",
-   "divergence": null,
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.639,
    "category": "sport",
-   "terms_left": [],
-   "terms_right": []
+   "terms_left": [
+    "rugby",
+    "australie brisbane",
+    "vainqueur"
+   ],
+   "terms_right": [
+    "wimbledon",
+    "face",
+    "mondial"
+   ]
   },
   {
    "title": "À peine sorti de prison, un homme récidive et viole une étudiante à Aix-en-Provence, dans les Bouches-du-Rhône",
@@ -555,16 +585,16 @@
    "n_sources": 12,
    "counts": {
     "left": 1,
-    "centre": 8,
-    "right": 3
+    "centre": 7,
+    "right": 4
    },
    "style_counts": {
     "factuel": 9,
     "mixte": 2,
     "opinion": 1
    },
-   "blindspot_score": 0.524,
-   "blindspot_for": null,
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
    "divergence": null,
    "category": "faits-divers",
    "terms_left": [],
@@ -577,22 +607,22 @@
    "n_sources": 11,
    "counts": {
     "left": 3,
-    "centre": 6,
-    "right": 2
+    "centre": 5,
+    "right": 3
    },
    "style_counts": {
     "factuel": 5,
     "mixte": 5,
     "opinion": 1
    },
-   "blindspot_score": -0.169,
+   "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.848,
+   "divergence": 0.844,
    "category": "politique",
    "terms_left": [
     "fin",
-    "vie",
-    "loi"
+    "loi",
+    "vie"
    ],
    "terms_right": [
     "retraites",
@@ -603,7 +633,7 @@
   {
    "title": "Lot : l'incendie ayant entraîné l'évacuation de 86 personnes est fixé",
    "url": "https://www.mediapart.fr/journal/ecologie/100726/incendie-de-die-des-evacuations-chaotiques-et-une-communication-verrouillee",
-   "n_members": 23,
+   "n_members": 24,
    "n_sources": 10,
    "counts": {
     "left": 1,
@@ -615,32 +645,10 @@
     "mixte": 4,
     "opinion": 1
    },
-   "blindspot_score": 0.62,
+   "blindspot_score": 0.6,
    "blindspot_for": "gauche",
    "divergence": null,
    "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Australie-France (26-42) : les Bleus signent un premier succès dans ce Championnat des nations",
-   "url": "https://www.lemonde.fr/sport/article/2026/07/11/france-australie-fabien-galthie-fait-le-pari-d-un-duo-ntamack-jalibert-pour-affronter-les-wallabies-au-championnat-des-nations-de-rugby_6722621_3242.html",
-   "n_members": 16,
-   "n_sources": 10,
-   "counts": {
-    "left": 2,
-    "centre": 7,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 7,
-    "mixte": 3,
-    "opinion": 0
-   },
-   "blindspot_score": -0.304,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "sport",
    "terms_left": [],
    "terms_right": []
   },
@@ -659,9 +667,9 @@
     "mixte": 4,
     "opinion": 3
    },
-   "blindspot_score": -0.402,
+   "blindspot_score": -0.429,
    "blindspot_for": null,
-   "divergence": 0.659,
+   "divergence": 0.658,
    "category": "politique",
    "terms_left": [
     "présomption légitime",
@@ -697,44 +705,14 @@
    "terms_right": []
   },
   {
-   "title": "Wimbledon : Linda Noskova s'impose en finale face à Karolina Muchova et remporte son premier titre du Grand Chelem",
-   "url": "https://www.cnews.fr/sport/2026-07-10/arthur-fery-alexander-zverev-demi-finale-de-wimbledon-2026-quelle-heure-et-sur",
-   "n_members": 17,
-   "n_sources": 9,
-   "counts": {
-    "left": 2,
-    "centre": 4,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 4,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.56,
-   "category": "sport",
-   "terms_left": [
-    "vainqueur",
-    "alexander",
-    "alexander zverev"
-   ],
-   "terms_right": [
-    "wimbledon",
-    "mondial",
-    "face"
-   ]
-  },
-  {
    "title": "Le rappeur Pitbull établit un record du monde du plus grand rassemblement de faux crânes chauves",
    "url": "https://www.bfmtv.com/international/europe/angleterre/l-histoire-qui-s-ecrit-sous-nos-yeux-le-rappeur-pitbull-etablit-un-record-du-monde-du-plus-grand-rassemblement-de-faux-cranes-chauves_AN-202607110270.html",
    "n_members": 9,
    "n_sources": 9,
    "counts": {
     "left": 0,
-    "centre": 6,
-    "right": 3
+    "centre": 5,
+    "right": 4
    },
    "style_counts": {
     "factuel": 7,
@@ -749,14 +727,36 @@
    "terms_right": []
   },
   {
+   "title": "Canicule : trois réacteurs nucléaires à l'arrêt et huit à puissance réduite en France",
+   "url": "https://reporterre.net/Canicule-le-reacteur-nucleaire-de-Golfech-a-l-arret-pour-la-2e-fois-cet-ete",
+   "n_members": 9,
+   "n_sources": 8,
+   "counts": {
+    "left": 2,
+    "centre": 3,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 5,
+    "mixte": 3,
+    "opinion": 0
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "environnement",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Disparition. L'actrice Claudette Walker, « mamie de YouTube », est décédée à 86 ans",
    "url": "https://www.bfmtv.com/culture/l-actrice-claudette-walker-surnommee-la-mamie-de-youtube-est-morte-a-86-ans_AD-202607110405.html",
    "n_members": 9,
    "n_sources": 8,
    "counts": {
     "left": 0,
-    "centre": 5,
-    "right": 3
+    "centre": 4,
+    "right": 4
    },
    "style_counts": {
     "factuel": 6,
@@ -777,15 +777,15 @@
    "n_sources": 8,
    "counts": {
     "left": 1,
-    "centre": 5,
-    "right": 2
+    "centre": 4,
+    "right": 3
    },
    "style_counts": {
     "factuel": 5,
     "mixte": 2,
     "opinion": 1
    },
-   "blindspot_score": 0.362,
+   "blindspot_score": 0.5,
    "blindspot_for": null,
    "divergence": null,
    "category": "société",
@@ -807,7 +807,7 @@
     "mixte": 3,
     "opinion": 0
    },
-   "blindspot_score": 0.524,
+   "blindspot_score": 0.5,
    "blindspot_for": null,
    "divergence": null,
    "category": "faits-divers",
@@ -821,8 +821,8 @@
    "n_sources": 7,
    "counts": {
     "left": 0,
-    "centre": 4,
-    "right": 3
+    "centre": 3,
+    "right": 4
    },
    "style_counts": {
     "factuel": 4,
@@ -833,28 +833,6 @@
    "blindspot_for": "gauche",
    "divergence": null,
    "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Canicule : trois réacteurs nucléaires à l'arrêt et huit à puissance réduite en France",
-   "url": "https://reporterre.net/Canicule-le-reacteur-nucleaire-de-Golfech-a-l-arret-pour-la-2e-fois-cet-ete",
-   "n_members": 7,
-   "n_sources": 7,
-   "counts": {
-    "left": 2,
-    "centre": 3,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 4,
-    "mixte": 3,
-    "opinion": 0
-   },
-   "blindspot_score": 0.032,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "environnement",
    "terms_left": [],
    "terms_right": []
   },
@@ -881,39 +859,9 @@
    "terms_right": []
   },
   {
-   "title": "NBA : pourquoi Victor Wembanyama a renoncé à 51 millions de dollars lors de sa prolongation chez les Spurs ?",
-   "url": "https://www.lemonde.fr/sport/article/2026/07/11/nba-victor-wembanyama-prolonge-de-plusieurs-annees-avec-les-san-antonio-spurs_6722585_3242.html",
-   "n_members": 6,
-   "n_sources": 6,
-   "counts": {
-    "left": 2,
-    "centre": 2,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 2,
-    "mixte": 3,
-    "opinion": 1
-   },
-   "blindspot_score": 0.032,
-   "blindspot_for": null,
-   "divergence": 0.402,
-   "category": "sport",
-   "terms_left": [
-    "statut",
-    "prolonge",
-    "wembanyama prolonge"
-   ],
-   "terms_right": [
-    "spurs",
-    "contrat",
-    "annoncé"
-   ]
-  },
-  {
-   "title": "OpenAI attaquée en justice par Apple pour détournement d’informations confidentielles",
+   "title": "Apple : le géant américain attaque OpenAI pour détournement d'informations confidentielles",
    "url": "https://www.lexpress.fr/economie/high-tech/apple-poursuit-openai-en-justice-linexorable-montee-des-tensions-entres-les-deux-societes-FHW4GAUDLRCWDHVETB3Q5RVMDA/",
-   "n_members": 6,
+   "n_members": 8,
    "n_sources": 6,
    "counts": {
     "left": 0,
@@ -933,9 +881,31 @@
    "terms_right": []
   },
   {
+   "title": "Décryptage. Canicule : villes, hôpitaux, flore... Sommes-nous prêts à faire face aux vagues de chaleur ?",
+   "url": "https://www.mediapart.fr/journal/ecologie/110726/pourquoi-le-vivant-ne-supporte-pas-la-chaleur",
+   "n_members": 7,
+   "n_sources": 6,
+   "counts": {
+    "left": 2,
+    "centre": 4,
+    "right": 0
+   },
+   "style_counts": {
+    "factuel": 3,
+    "mixte": 3,
+    "opinion": 0
+   },
+   "blindspot_score": -1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "environnement",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Jordan Bardella plaide pour un gouvernement dépassant le RN, «d'union nationale»",
    "url": "https://www.franceinfo.fr/politique/jordan-bardella/il-pensait-avoir-gagne-a-euromillions-et-c-est-foutu-comment-jordan-bardella-a-ete-relegue-au-role-de-numero-2-derriere-marine-le-pen_8101364.html",
-   "n_members": 6,
+   "n_members": 7,
    "n_sources": 6,
    "counts": {
     "left": 1,
@@ -947,12 +917,42 @@
     "mixte": 3,
     "opinion": 0
    },
-   "blindspot_score": 0.524,
+   "blindspot_score": 0.5,
    "blindspot_for": null,
    "divergence": null,
    "category": "politique",
    "terms_left": [],
    "terms_right": []
+  },
+  {
+   "title": "NBA : pourquoi Victor Wembanyama a renoncé à 51 millions de dollars lors de sa prolongation chez les Spurs ?",
+   "url": "https://www.lemonde.fr/sport/article/2026/07/11/nba-victor-wembanyama-prolonge-de-plusieurs-annees-avec-les-san-antonio-spurs_6722585_3242.html",
+   "n_members": 6,
+   "n_sources": 6,
+   "counts": {
+    "left": 2,
+    "centre": 1,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 2,
+    "mixte": 3,
+    "opinion": 1
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.347,
+   "category": "sport",
+   "terms_left": [
+    "prolonge",
+    "wembanyama prolonge",
+    "statut"
+   ],
+   "terms_right": [
+    "contrat",
+    "spurs",
+    "annoncé"
+   ]
   },
   {
    "title": "Le Mexique annonce des poursuites pénales contre l’ICE après la mort de ses ressortissants aux États-Unis",
@@ -991,14 +991,14 @@
     "mixte": 4,
     "opinion": 0
    },
-   "blindspot_score": -0.475,
+   "blindspot_score": -0.5,
    "blindspot_for": null,
    "divergence": 0.448,
    "category": "société",
    "terms_left": [
     "ans",
     "qu",
-    "visé nouvelle"
+    "bruel visé"
    ],
    "terms_right": [
     "agression sexuelle",
@@ -1013,15 +1013,15 @@
    "n_sources": 5,
    "counts": {
     "left": 1,
-    "centre": 4,
-    "right": 0
+    "centre": 3,
+    "right": 1
    },
    "style_counts": {
     "factuel": 4,
     "mixte": 1,
     "opinion": 0
    },
-   "blindspot_score": -1.0,
+   "blindspot_score": 0.0,
    "blindspot_for": null,
    "divergence": null,
    "category": "international",
