@@ -1,27 +1,27 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-13T16:04:29+00:00",
+ "generated_at": "2026-07-13T18:17:17+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "EN DIRECT - Incendies : la forêt de Fontainebleau touchée par un feu \"d'une ampleur exceptionnelle\", 800 hectares parcourus",
    "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/jusqua-4h20-de-retard-le-trafic-sncf-fortement-perturbe-sur-la-ligne-sud-est-entre-paris-et-marseille-a-cause-dun-incendie-12-07-2026-7E3R5IBOQNAXRDOH35X3TPSWTI.php",
-   "n_members": 110,
-   "n_sources": 30,
+   "n_members": 126,
+   "n_sources": 32,
    "counts": {
-    "left": 7,
-    "centre": 15,
+    "left": 8,
+    "centre": 16,
     "right": 8
    },
    "style_counts": {
     "factuel": 17,
-    "mixte": 9,
+    "mixte": 11,
     "opinion": 4
    },
-   "blindspot_score": 0.067,
+   "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.46,
+   "divergence": 0.409,
    "category": "environnement",
    "terms_left": [
     "fumée",
@@ -30,14 +30,14 @@
    ],
    "terms_right": [
     "seine-et-marne",
-    "feu",
+    "incendie forêt",
     "incendie"
    ]
   },
   {
    "title": "Reprise des hostilités entre l'Iran et les Etats-Unis : le détroit d'Ormuz est refermé",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 96,
+   "n_members": 98,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.381,
+   "divergence": 0.382,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -67,7 +67,7 @@
   {
    "title": "Avec la canicule, comment refroidir les centrales nucléaires ?",
    "url": "https://www.mediapart.fr/journal/ecologie/110726/pourquoi-le-vivant-ne-supporte-pas-la-chaleur",
-   "n_members": 51,
+   "n_members": 53,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -81,23 +81,23 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.814,
+   "divergence": 0.803,
    "category": "environnement",
    "terms_left": [
     "face",
     "tour",
-    "paris"
+    "personnes"
    ],
    "terms_right": [
     "nucléaires",
     "arrêt",
-    "chaleurs"
+    "fortes chaleurs"
    ]
   },
   {
    "title": "Coupe du monde 2026 : l'Argentine élimine la Suisse et rejoint l'Angleterre en demi-finale",
    "url": "https://www.nouvelobs.com/sport/20260709.OBS116534/un-mannequin-de-mbappe-brule-bagarre-en-conference-de-presse-le-bulletin-de-la-coupe-du-monde-de-trump.html",
-   "n_members": 93,
+   "n_members": 97,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.608,
+   "divergence": 0.603,
    "category": "sport",
    "terms_left": [
     "affrontera",
@@ -121,13 +121,13 @@
    "terms_right": [
     "demi-finale",
     "france",
-    "équipe france"
+    "france-espagne"
    ]
   },
   {
    "title": "Tour de France 2026 : la 9e étape en Corrèze raccourcie en raison de la canicule",
    "url": "https://www.cnews.fr/sport/2026-07-09/tour-de-france-2026-tadej-pogacar-pulverise-son-propre-record-de-lascension-du",
-   "n_members": 79,
+   "n_members": 80,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.468,
+   "divergence": 0.469,
    "category": "sport",
    "terms_left": [
     "parcours",
@@ -157,7 +157,7 @@
   {
    "title": "DIRECT. Canicule: 37 départements placés en vigilance rouge demain par Météo-France et 46 en vigilance orange",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 125,
+   "n_members": 129,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.451,
+   "divergence": 0.44,
    "category": "environnement",
    "terms_left": [
     "suffoque",
@@ -215,6 +215,36 @@
    ]
   },
   {
+   "title": "Emmanuel Macron appelle à la vigilance «de tous les instants» face au «retour de l'odieux antisémitisme»",
+   "url": "https://www.nouvelobs.com/culture/20260710.OBS116557/ce-n-est-pas-une-crise-c-est-une-hecatombe-au-festival-d-avignon-la-colere-monte-contre-les-coupes-budgetaires.html",
+   "n_members": 50,
+   "n_sources": 25,
+   "counts": {
+    "left": 7,
+    "centre": 10,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.473,
+   "category": "politique",
+   "terms_left": [
+    "festival avignon",
+    "festival",
+    "etat"
+   ],
+   "terms_right": [
+    "vigilance",
+    "instants",
+    "retour"
+   ]
+  },
+  {
    "title": "Incendie en Espagne: les images des dégâts causés par les flammes en Andalousie",
    "url": "https://www.franceinfo.fr/monde/espagne/un-feu-de-foret-fait-douze-morts-en-andalousie-alors-que-l-espagne-affronte-une-vague-de-chaleur_8102162.html",
    "n_members": 110,
@@ -231,7 +261,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.614,
+   "divergence": 0.615,
    "category": "international",
    "terms_left": [
     "mortes",
@@ -261,53 +291,23 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.538,
+   "divergence": 0.541,
    "category": "sport",
    "terms_left": [
     "nouvelle",
     "australie brisbane",
-    "vainqueur"
+    "qu"
    ],
    "terms_right": [
-    "wimbledon",
+    "français",
     "face",
-    "français"
-   ]
-  },
-  {
-   "title": "Emmanuel Macron appelle à la vigilance «de tous les instants» face au «retour de l'odieux antisémitisme»",
-   "url": "https://www.nouvelobs.com/culture/20260710.OBS116557/ce-n-est-pas-une-crise-c-est-une-hecatombe-au-festival-d-avignon-la-colere-monte-contre-les-coupes-budgetaires.html",
-   "n_members": 44,
-   "n_sources": 23,
-   "counts": {
-    "left": 7,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.474,
-   "category": "société",
-   "terms_left": [
-    "etat",
-    "chef etat",
-    "festival avignon"
-   ],
-   "terms_right": [
-    "vigilance",
-    "instants",
-    "retour"
+    "demi-finale"
    ]
   },
   {
    "title": "INFO E1 - Sarcelles : le Parquet national antiterroriste se saisit après la découverte d'armes dans un véhicule",
    "url": "https://www.mediapart.fr/journal/ecologie/100726/incendie-de-die-des-evacuations-chaotiques-et-une-communication-verrouillee",
-   "n_members": 62,
+   "n_members": 63,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -323,21 +323,43 @@
    "blindspot_for": null,
    "divergence": 0.655,
    "category": "faits-divers",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Guerre au Moyen-Orient : \"L’armée américaine est prête\"... Donald Trump menace de \"décimer et détruire complètement\" l’Iran en cas de tentative d’assassinat",
+   "url": "https://www.mediapart.fr/journal/international/100726/ni-guerre-ni-paix-pourquoi-les-etats-unis-et-l-iran-sont-pieges-dans-l-impasse-d-ormuz",
+   "n_members": 56,
+   "n_sources": 22,
+   "counts": {
+    "left": 5,
+    "centre": 9,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.732,
+   "category": "international",
    "terms_left": [
-    "synagogue",
-    "arme",
-    "die"
+    "téhéran",
+    "force",
+    "cessez-le-feu"
    ],
    "terms_right": [
-    "personnes",
-    "feu",
-    "hectares"
+    "états-unis",
+    "iran",
+    "moyen-orient"
    ]
   },
   {
    "title": "Présidentielle 2027 : éligible et candidate, Marine Le Pen veut imposer un débat de fond",
    "url": "https://reporterre.net/Clim-fossiles-et-agro-industrie-l-ecologie-selon-Marine-Le-Pen",
-   "n_members": 41,
+   "n_members": 42,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -361,13 +383,13 @@
    "terms_right": [
     "campagne",
     "qu",
-    "rn"
+    "français"
    ]
   },
   {
    "title": "Nice : une marche blanche lance les commémorations des dix ans de l'attentat du 14 juillet",
    "url": "https://www.lemonde.fr/societe/article/2026/07/10/14-juillet-les-personnes-qui-veulent-assister-au-defile-sur-les-champs-elysees-devront-presenter-un-qr-code_6722451_3224.html",
-   "n_members": 90,
+   "n_members": 91,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -381,7 +403,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.516,
+   "divergence": 0.511,
    "category": "société",
    "terms_left": [
     "solennelle",
@@ -392,36 +414,6 @@
     "nationale",
     "france",
     "qu"
-   ]
-  },
-  {
-   "title": "Guerre au Moyen-Orient : \"L’armée américaine est prête\"... Donald Trump menace de \"décimer et détruire complètement\" l’Iran en cas de tentative d’assassinat",
-   "url": "https://www.mediapart.fr/journal/international/100726/ni-guerre-ni-paix-pourquoi-les-etats-unis-et-l-iran-sont-pieges-dans-l-impasse-d-ormuz",
-   "n_members": 50,
-   "n_sources": 21,
-   "counts": {
-    "left": 5,
-    "centre": 8,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.737,
-   "category": "international",
-   "terms_left": [
-    "téhéran",
-    "force",
-    "cessez-le-feu"
-   ],
-   "terms_right": [
-    "états-unis",
-    "iran",
-    "moyen-orient"
    ]
   },
   {
@@ -457,7 +449,7 @@
   {
    "title": "L’acteur néo-zélandais Sam Neill, star du film Jurassic Park, est décédé à 78 ans",
    "url": "https://www.leprogres.fr/culture-loisirs/2026/07/13/l-acteur-neo-zelandais-sam-neill-star-de-jurassic-park-est-decede-a-78-ans",
-   "n_members": 26,
+   "n_members": 27,
    "n_sources": 20,
    "counts": {
     "left": 4,
@@ -471,17 +463,17 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.365,
+   "divergence": 0.354,
    "category": "culture",
    "terms_left": [
-    "acteur néo-zélandais",
-    "cinéma",
-    "sang"
+    "sang",
+    "cancer sang",
+    "dinosaures"
    ],
    "terms_right": [
     "famille",
-    "paléontologue",
-    "qu"
+    "qu",
+    "annoncé"
    ]
   },
   {
@@ -501,7 +493,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.543,
+   "divergence": 0.551,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -511,7 +503,7 @@
    "terms_right": [
     "candidature",
     "présidentielle",
-    "qu"
+    "olivier faure"
    ]
   },
   {
@@ -531,6 +523,28 @@
    },
    "blindspot_score": 0.714,
    "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "environnement",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Incendies : 32 individus suspectés d'être à l'origine de départs de feu ont été arrêtés en France, annonce Laurent Nuñez",
+   "url": "https://www.20minutes.fr/societe/4234081-20260711-canicule-14-juillet-rennes-orleans-limoges-aix-feux-artifice-annules-dizaines-villes",
+   "n_members": 46,
+   "n_sources": 17,
+   "counts": {
+    "left": 2,
+    "centre": 8,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 5,
+    "opinion": 2
+   },
+   "blindspot_score": 0.556,
+   "blindspot_for": null,
    "divergence": null,
    "category": "environnement",
    "terms_left": [],
@@ -575,7 +589,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.472,
+   "divergence": 0.47,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -584,8 +598,8 @@
    ],
    "terms_right": [
     "venger",
-    "vengeance",
-    "khamenei"
+    "khamenei",
+    "vengeance"
    ]
   },
   {
@@ -611,26 +625,64 @@
    "terms_right": []
   },
   {
-   "title": "Incendies : 32 individus suspectés d'être à l'origine de départs de feu ont été arrêtés en France, annonce Laurent Nuñez",
-   "url": "https://www.20minutes.fr/societe/4234081-20260711-canicule-14-juillet-rennes-orleans-limoges-aix-feux-artifice-annules-dizaines-villes",
-   "n_members": 42,
-   "n_sources": 15,
+   "title": "La coalition des volontaires pour l'Ukraine réunie en sommet à Paris",
+   "url": "https://www.lexpress.fr/monde/europe/coalition-des-volontaires-et-defile-hors-norme-les-plans-demmanuel-macron-pour-ce-14-juillet-aux-EM6QQDHWIVGYJFKOEKZAUM6IMU/",
+   "n_members": 26,
+   "n_sources": 16,
    "counts": {
     "left": 2,
-    "centre": 6,
-    "right": 7
+    "centre": 8,
+    "right": 6
    },
    "style_counts": {
-    "factuel": 8,
+    "factuel": 10,
     "mixte": 5,
+    "opinion": 1
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.599,
+   "category": "international",
+   "terms_left": [
+    "pays",
+    "défense",
+    "soutien"
+   ],
+   "terms_right": [
+    "défilé",
+    "macron",
+    "russie"
+   ]
+  },
+  {
+   "title": "Aide à mourir : vers une adoption définitive, Gérard Larcher veut saisir le Conseil constitutionnel",
+   "url": "https://www.lemonde.fr/politique/article/2026/07/10/retraites-les-experts-du-comite-de-suivi-preconisent-de-brider-les-pensions-pour-sortir-d-une-situation-alarmante_6722403_823448.html",
+   "n_members": 26,
+   "n_sources": 15,
+   "counts": {
+    "left": 3,
+    "centre": 7,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 7,
+    "mixte": 6,
     "opinion": 2
    },
-   "blindspot_score": 0.556,
+   "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": null,
-   "category": "environnement",
-   "terms_left": [],
-   "terms_right": []
+   "divergence": 0.789,
+   "category": "politique",
+   "terms_left": [
+    "loi fin",
+    "vie",
+    "fin vie"
+   ],
+   "terms_right": [
+    "mourir",
+    "nouveau",
+    "texte"
+   ]
   },
   {
    "title": "Thaïlande: au moins 27 morts dans l’incendie d’un bar de la banlieue de Bangkok",
@@ -648,58 +700,6 @@
     "opinion": 1
    },
    "blindspot_score": 0.667,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Aide à mourir : vers une adoption définitive, Gérard Larcher veut saisir le Conseil constitutionnel",
-   "url": "https://www.lemonde.fr/politique/article/2026/07/10/retraites-les-experts-du-comite-de-suivi-preconisent-de-brider-les-pensions-pour-sortir-d-une-situation-alarmante_6722403_823448.html",
-   "n_members": 25,
-   "n_sources": 14,
-   "counts": {
-    "left": 3,
-    "centre": 7,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 7,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.793,
-   "category": "politique",
-   "terms_left": [
-    "loi fin",
-    "vie",
-    "fin vie"
-   ],
-   "terms_right": [
-    "mourir",
-    "aide mourir",
-    "aide"
-   ]
-  },
-  {
-   "title": "La coalition des volontaires pour l'Ukraine réunie en sommet à Paris",
-   "url": "https://www.lexpress.fr/monde/europe/coalition-des-volontaires-et-defile-hors-norme-les-plans-demmanuel-macron-pour-ce-14-juillet-aux-EM6QQDHWIVGYJFKOEKZAUM6IMU/",
-   "n_members": 20,
-   "n_sources": 14,
-   "counts": {
-    "left": 1,
-    "centre": 7,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": 0.714,
    "blindspot_for": "gauche",
    "divergence": null,
    "category": "international",
@@ -729,6 +729,28 @@
    "terms_right": []
   },
   {
+   "title": "Réseaux sociaux dans l’UE : interdiction totale aux mineurs, accès progressif ? Des experts font des propositions",
+   "url": "https://www.la-croix.com/societe/reseaux-sociaux-l-ue-ordonne-de-changer-les-interfaces-addictives-dinstagram-et-facebook-20260710",
+   "n_members": 18,
+   "n_sources": 13,
+   "counts": {
+    "left": 0,
+    "centre": 10,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 4,
+    "opinion": 0
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "sciences-tech",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Aix-en-Provence. À peine sorti après 15 ans de prison, un homme récidive et viole une étudiante",
    "url": "https://www.ladepeche.fr/2026/07/11/elle-prenait-lair-a-cause-de-la-chaleur-une-etudiante-de-21-ans-a-ete-enlevee-et-violee-sous-la-menace-dun-couteau-le-suspect-est-un-violeur-en-serie-13464920.php",
    "n_members": 18,
@@ -751,26 +773,34 @@
    "terms_right": []
   },
   {
-   "title": "Réseaux sociaux dans l’UE : interdiction totale aux mineurs, accès progressif ? Des experts font des propositions",
-   "url": "https://www.la-croix.com/societe/reseaux-sociaux-l-ue-ordonne-de-changer-les-interfaces-addictives-dinstagram-et-facebook-20260710",
-   "n_members": 16,
+   "title": "Jordan Bardella plaide pour un gouvernement dépassant le RN, «d'union nationale»",
+   "url": "https://www.lejdd.fr/politique/presidentielle-lepreuve-du-second-role-pour-jordan-bardella-178782",
+   "n_members": 14,
    "n_sources": 13,
    "counts": {
-    "left": 0,
-    "centre": 10,
-    "right": 3
+    "left": 4,
+    "centre": 4,
+    "right": 5
    },
    "style_counts": {
-    "factuel": 9,
-    "mixte": 4,
-    "opinion": 0
+    "factuel": 5,
+    "mixte": 5,
+    "opinion": 3
    },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "sciences-tech",
-   "terms_left": [],
-   "terms_right": []
+   "blindspot_score": 0.111,
+   "blindspot_for": null,
+   "divergence": 0.51,
+   "category": "politique",
+   "terms_left": [
+    "extrême",
+    "extrême droite",
+    "course"
+   ],
+   "terms_right": [
+    "vouloir",
+    "cas",
+    "nationale"
+   ]
   },
   {
    "title": "Présomption de légitime défense pour les forces de l'ordre : la LDH dénonce \"un permis de tuer\"",
@@ -793,36 +823,6 @@
    "category": "politique",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Jordan Bardella plaide pour un gouvernement dépassant le RN, «d'union nationale»",
-   "url": "https://www.lejdd.fr/politique/presidentielle-lepreuve-du-second-role-pour-jordan-bardella-178782",
-   "n_members": 13,
-   "n_sources": 12,
-   "counts": {
-    "left": 3,
-    "centre": 4,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 5,
-    "mixte": 4,
-    "opinion": 3
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.489,
-   "category": "politique",
-   "terms_left": [
-    "extrême",
-    "extrême droite",
-    "figaro"
-   ],
-   "terms_right": [
-    "vouloir",
-    "cas",
-    "nationale"
-   ]
   },
   {
    "title": "Jean-Noël Barrot annonce convoquer l'ambassadeur de Russie en France \"dans les prochains jours\" face à \"une vaste campagne cyber\" russe",
@@ -869,9 +869,31 @@
    "terms_right": []
   },
   {
+   "title": "En Russie, la région de Moscou frappée par des attaques de drones ukrainiens",
+   "url": "https://information.tv5monde.com/international/video/ukraine-russie-bataille-navale-en-mer-dazov-2829897",
+   "n_members": 14,
+   "n_sources": 10,
+   "counts": {
+    "left": 1,
+    "centre": 7,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 8,
+    "mixte": 2,
+    "opinion": 0
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Mort de Shemseddine, 15 ans, à Viry-Châtillon en 2024 : les meurtriers présumés en liberté en raison d'un vide juridique",
    "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
-   "n_members": 12,
+   "n_members": 13,
    "n_sources": 9,
    "counts": {
     "left": 1,
@@ -887,6 +909,28 @@
    "blindspot_for": "gauche",
    "divergence": null,
    "category": "faits-divers",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Etats-Unis. Un mort après des tirs impliquant la police de l'immigration, le deuxième en deux semaines",
+   "url": "https://information.tv5monde.com/international/le-dernier-matin-de-lorenzo-salgado-un-reve-americain-fauche-2829566",
+   "n_members": 10,
+   "n_sources": 9,
+   "counts": {
+    "left": 2,
+    "centre": 6,
+    "right": 1
+   },
+   "style_counts": {
+    "factuel": 6,
+    "mixte": 3,
+    "opinion": 0
+   },
+   "blindspot_score": -0.333,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "international",
    "terms_left": [],
    "terms_right": []
   },
@@ -907,12 +951,12 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.683,
+   "divergence": 0.735,
    "category": "société",
    "terms_left": [
-    "qu",
     "femme",
-    "meurtre"
+    "meurtre",
+    "qu"
    ],
    "terms_right": [
     "cédric jubillar",
@@ -943,24 +987,46 @@
    "terms_right": []
   },
   {
-   "title": "En Russie, la région de Moscou frappée par des attaques de drones ukrainiens",
-   "url": "https://www.courrierinternational.com/long-format/reportage-sous-les-drones-la-crimee-vit-une-saison-touristique-sans-estivants-ni-carburant_247167",
-   "n_members": 11,
+   "title": "Tour de France 2026. Malemort - Ussel : où et quand passera le Tour de France près de chez vous ce dimanche 12 juillet",
+   "url": "https://www.leparisien.fr/sports/cyclisme/tour-de-france/tour-de-france-2026-etape-9-les-horaires-et-points-de-passage-de-la-caravane-entre-malemort-et-ussel-11-07-2026-RG2AEYIENRAXXGHWHZT3DQX24E.php",
+   "n_members": 13,
    "n_sources": 8,
    "counts": {
-    "left": 1,
+    "left": 0,
     "centre": 6,
-    "right": 1
+    "right": 2
    },
    "style_counts": {
     "factuel": 6,
-    "mixte": 2,
-    "opinion": 0
+    "mixte": 1,
+    "opinion": 1
    },
-   "blindspot_score": 0.0,
+   "blindspot_score": 1.0,
    "blindspot_for": null,
    "divergence": null,
-   "category": "international",
+   "category": "sport",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "France-Espagne : une minute de silence sera observée avant le match, dix ans après l'attentat de Nice",
+   "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/france-espagne-sans-reponse-de-la-fifa-pour-sa-demande-de-minute-de-silence-eric-ciotti-en-appelle-a-emmanuel-macron-12-07-2026-MDIYSBROABFBHIGO6W27G4D3XY.php",
+   "n_members": 10,
+   "n_sources": 8,
+   "counts": {
+    "left": 1,
+    "centre": 4,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 6,
+    "mixte": 1,
+    "opinion": 1
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "sport",
    "terms_left": [],
    "terms_right": []
   },
@@ -983,72 +1049,6 @@
    "blindspot_for": null,
    "divergence": null,
    "category": "société",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Deux bébés primates tamarins empereurs volés au zoo de La Palmyre",
-   "url": "https://www.20minutes.fr/societe/4234169-20260712-deux-bebes-singes-voles-zoo-palmyre-malfrats-recherches",
-   "n_members": 9,
-   "n_sources": 8,
-   "counts": {
-    "left": 0,
-    "centre": 6,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 6,
-    "mixte": 1,
-    "opinion": 1
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Royaume-Uni : la police ouvre une enquête pour meurtre après la mort de l’ancienne députée Ann Widdecombe",
-   "url": "https://www.liberation.fr/international/europe/royaume-uni-la-police-ouvre-une-enquete-pour-meurtre-apres-la-mort-de-lancienne-deputee-ann-widdecombe-20260710_IIOTZLJ76VAEDGMBP2KHZBJ72Y/",
-   "n_members": 10,
-   "n_sources": 7,
-   "counts": {
-    "left": 1,
-    "centre": 5,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 6,
-    "mixte": 1,
-    "opinion": 0
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Les élections législatives israéliennes se tiendront le 27 octobre prochain",
-   "url": "https://www.rfi.fr/fr/moyen-orient/20260711-%C3%A9lections-l%C3%A9gislatives-en-palestine-fix%C3%A9-en-novembre-le-scrutin-n-en-demeure-pas-moins-incertain",
-   "n_members": 9,
-   "n_sources": 7,
-   "counts": {
-    "left": 1,
-    "centre": 5,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 5,
-    "mixte": 2,
-    "opinion": 0
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
    "terms_left": [],
    "terms_right": []
   }
