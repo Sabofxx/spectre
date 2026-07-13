@@ -1,13 +1,13 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-13T07:48:54+00:00",
+ "generated_at": "2026-07-13T10:51:38+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Reprise des hostilités entre l'Iran et les Etats-Unis : le détroit d'Ormuz est refermé",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 87,
+   "n_members": 92,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.393,
+   "divergence": 0.388,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -32,6 +32,36 @@
     "états-unis",
     "frappes",
     "nouvelles frappes"
+   ]
+  },
+  {
+   "title": "EN DIRECT - Incendies : la forêt de Fontainebleau touchée par un feu \"d'une ampleur exceptionnelle\", 800 hectares parcourus",
+   "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/jusqua-4h20-de-retard-le-trafic-sncf-fortement-perturbe-sur-la-ligne-sud-est-entre-paris-et-marseille-a-cause-dun-incendie-12-07-2026-7E3R5IBOQNAXRDOH35X3TPSWTI.php",
+   "n_members": 88,
+   "n_sources": 28,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.484,
+   "category": "environnement",
+   "terms_left": [
+    "partis",
+    "fumée",
+    "partis fumée"
+   ],
+   "terms_right": [
+    "seine-et-marne",
+    "feu",
+    "incendie"
    ]
   },
   {
@@ -51,7 +81,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.496,
+   "divergence": 0.494,
    "category": "sport",
    "terms_left": [
     "parcours",
@@ -65,9 +95,39 @@
    ]
   },
   {
+   "title": "Avec la canicule, comment refroidir les centrales nucléaires ?",
+   "url": "https://www.mediapart.fr/journal/ecologie/110726/pourquoi-le-vivant-ne-supporte-pas-la-chaleur",
+   "n_members": 48,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 11,
+    "opinion": 2
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.814,
+   "category": "environnement",
+   "terms_left": [
+    "face",
+    "tour",
+    "paris"
+   ],
+   "terms_right": [
+    "nucléaires",
+    "arrêt",
+    "chaleurs"
+   ]
+  },
+  {
    "title": "DIRECT. Canicule: 37 départements placés en vigilance rouge demain par Météo-France et 46 en vigilance orange",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 107,
+   "n_members": 109,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -81,7 +141,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.42,
+   "divergence": 0.419,
    "category": "environnement",
    "terms_left": [
     "suffoque",
@@ -97,7 +157,7 @@
   {
    "title": "Coupe du monde 2026 : l'Argentine élimine la Suisse et rejoint l'Angleterre en demi-finale",
    "url": "https://www.nouvelobs.com/sport/20260709.OBS116534/un-mannequin-de-mbappe-brule-bagarre-en-conference-de-presse-le-bulletin-de-la-coupe-du-monde-de-trump.html",
-   "n_members": 79,
+   "n_members": 81,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -111,47 +171,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.647,
+   "divergence": 0.644,
    "category": "sport",
    "terms_left": [
-    "buts",
     "affrontera",
-    "face"
+    "buts",
+    "qualifiée"
    ],
    "terms_right": [
     "demi-finale",
     "france",
-    "équipe france"
-   ]
-  },
-  {
-   "title": "Avec la canicule, comment refroidir les centrales nucléaires ?",
-   "url": "https://www.mediapart.fr/journal/ecologie/110726/pourquoi-le-vivant-ne-supporte-pas-la-chaleur",
-   "n_members": 45,
-   "n_sources": 25,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 10,
-    "opinion": 2
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.827,
-   "category": "environnement",
-   "terms_left": [
-    "face",
-    "tour",
-    "paris"
-   ],
-   "terms_right": [
-    "chaleurs",
-    "fortes",
-    "nucléaires"
+    "macron"
    ]
   },
   {
@@ -185,9 +215,39 @@
    ]
   },
   {
+   "title": "Incendie en Espagne: les images des dégâts causés par les flammes en Andalousie",
+   "url": "https://www.franceinfo.fr/monde/espagne/un-feu-de-foret-fait-douze-morts-en-andalousie-alors-que-l-espagne-affronte-une-vague-de-chaleur_8102162.html",
+   "n_members": 96,
+   "n_sources": 22,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 1
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.607,
+   "category": "international",
+   "terms_left": [
+    "mortes",
+    "personnes mortes",
+    "pris"
+   ],
+   "terms_right": [
+    "disparues",
+    "incendie espagne",
+    "sud"
+   ]
+  },
+  {
    "title": "Des Bleus \"sans Français\"… L’ex-Premier ministre espagnol Mariano Rajoy crée une polémique avec des propos racistes",
    "url": "https://www.lemonde.fr/sport/article/2026/07/11/france-australie-fabien-galthie-fait-le-pari-d-un-duo-ntamack-jalibert-pour-affronter-les-wallabies-au-championnat-des-nations-de-rugby_6722621_3242.html",
-   "n_members": 69,
+   "n_members": 74,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -201,7 +261,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.573,
+   "divergence": 0.531,
    "category": "sport",
    "terms_left": [
     "rugby",
@@ -209,83 +269,23 @@
     "australie brisbane"
    ],
    "terms_right": [
-    "ministre espagnol",
+    "wimbledon",
     "face",
-    "wimbledon"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : éligible et candidate, Marine Le Pen veut imposer un débat de fond",
-   "url": "https://reporterre.net/Clim-fossiles-et-agro-industrie-l-ecologie-selon-Marine-Le-Pen",
-   "n_members": 39,
-   "n_sources": 22,
-   "counts": {
-    "left": 5,
-    "centre": 8,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 6,
-    "opinion": 7
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.444,
-   "category": "politique",
-   "terms_left": [
-    "fonds",
-    "détournement",
-    "détournement fonds"
-   ],
-   "terms_right": [
-    "campagne",
-    "rn",
-    "qu"
-   ]
-  },
-  {
-   "title": "Deux Canadair envoyés pour lutter contre l'incendie hors norme de la forêt de Fontainebleau",
-   "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/jusqua-4h20-de-retard-le-trafic-sncf-fortement-perturbe-sur-la-ligne-sud-est-entre-paris-et-marseille-a-cause-dun-incendie-12-07-2026-7E3R5IBOQNAXRDOH35X3TPSWTI.php",
-   "n_members": 61,
-   "n_sources": 21,
-   "counts": {
-    "left": 5,
-    "centre": 10,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.639,
-   "category": "environnement",
-   "terms_left": [
-    "flammes",
-    "proie",
-    "incendie ampleur"
-   ],
-   "terms_right": [
-    "feu",
-    "sud",
-    "incendie"
+    "mondial"
    ]
   },
   {
    "title": "INFO E1 - Sarcelles : le Parquet national antiterroriste se saisit après la découverte d'armes dans un véhicule",
    "url": "https://www.mediapart.fr/journal/ecologie/100726/incendie-de-die-des-evacuations-chaotiques-et-une-communication-verrouillee",
-   "n_members": 58,
-   "n_sources": 21,
+   "n_members": 61,
+   "n_sources": 22,
    "counts": {
     "left": 3,
-    "centre": 11,
+    "centre": 12,
     "right": 7
    },
    "style_counts": {
-    "factuel": 12,
+    "factuel": 13,
     "mixte": 7,
     "opinion": 2
    },
@@ -305,39 +305,69 @@
    ]
   },
   {
+   "title": "Présidentielle 2027 : éligible et candidate, Marine Le Pen veut imposer un débat de fond",
+   "url": "https://reporterre.net/Clim-fossiles-et-agro-industrie-l-ecologie-selon-Marine-Le-Pen",
+   "n_members": 39,
+   "n_sources": 22,
+   "counts": {
+    "left": 5,
+    "centre": 8,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 6,
+    "opinion": 7
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.44,
+   "category": "politique",
+   "terms_left": [
+    "fonds",
+    "détournement",
+    "détournement fonds"
+   ],
+   "terms_right": [
+    "campagne",
+    "rn",
+    "qu"
+   ]
+  },
+  {
    "title": "Nice : une marche blanche lance les commémorations des dix ans de l'attentat du 14 juillet",
    "url": "https://www.lemonde.fr/societe/article/2026/07/10/14-juillet-les-personnes-qui-veulent-assister-au-defile-sur-les-champs-elysees-devront-presenter-un-qr-code_6722451_3224.html",
-   "n_members": 74,
-   "n_sources": 20,
+   "n_members": 81,
+   "n_sources": 21,
    "counts": {
     "left": 3,
-    "centre": 10,
+    "centre": 11,
     "right": 7
    },
    "style_counts": {
-    "factuel": 11,
+    "factuel": 12,
     "mixte": 7,
     "opinion": 2
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.523,
+   "divergence": 0.511,
    "category": "société",
    "terms_left": [
     "victimes",
-    "attentat nice",
+    "marche solennelle",
     "solennelle"
    ],
    "terms_right": [
-    "france",
     "nationale",
-    "fête"
+    "fête",
+    "france"
    ]
   },
   {
-   "title": "Guerre au Moyen-Orient : \"L’armée américaine est prête\"... Donald Trump menace de \"décimer et détruire complètement\" l’Iran en cas de tentative d’assassinat",
+   "title": "Guerre au Moyen-Orient : Donald Trump dit accepter de parler avec l'Iran mais que le cessez-le-feu est «terminé»",
    "url": "https://www.mediapart.fr/journal/international/100726/ni-guerre-ni-paix-pourquoi-les-etats-unis-et-l-iran-sont-pieges-dans-l-impasse-d-ormuz",
-   "n_members": 47,
+   "n_members": 49,
    "n_sources": 20,
    "counts": {
     "left": 5,
@@ -351,7 +381,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.761,
+   "divergence": 0.762,
    "category": "international",
    "terms_left": [
     "téhéran",
@@ -365,9 +395,69 @@
    ]
   },
   {
+   "title": "Présidentielle 2027 : Clémentine Autain prend acte de l’échec de la « primaire unitaire » de la gauche et renonce à être candidate",
+   "url": "https://www.lemonde.fr/politique/article/2026/07/11/segolene-royal-raphael-glucksmann-francois-hollande-la-primaire-sociale-democrate-cherche-ses-candidats_6722668_823448.html",
+   "n_members": 41,
+   "n_sources": 19,
+   "counts": {
+    "left": 5,
+    "centre": 9,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.552,
+   "category": "politique",
+   "terms_left": [
+    "gauche",
+    "militants",
+    "raphaël glucksmann"
+   ],
+   "terms_right": [
+    "candidature",
+    "ségolène royal",
+    "ségolène"
+   ]
+  },
+  {
+   "title": "L’acteur néo-zélandais Sam Neill, star du film Jurassic Park, est décédé à 78 ans",
+   "url": "https://www.leprogres.fr/culture-loisirs/2026/07/13/l-acteur-neo-zelandais-sam-neill-star-de-jurassic-park-est-decede-a-78-ans",
+   "n_members": 20,
+   "n_sources": 18,
+   "counts": {
+    "left": 3,
+    "centre": 10,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 5,
+    "opinion": 1
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.389,
+   "category": "culture",
+   "terms_left": [
+    "acteur néo-zélandais",
+    "dinosaures",
+    "rôle"
+   ],
+   "terms_right": [
+    "âge ans",
+    "âge",
+    "famille"
+   ]
+  },
+  {
    "title": "Chine : près de 2 millions de personnes évacuées à l'approche du typhon Bavi",
    "url": "https://www.leparisien.fr/meteo/typhon-bavi-pres-dun-million-de-personnes-evacuees-en-chine-avant-limpact-sur-wenzhou-11-07-2026-ISQOPUO3YFD7RLSBA2RR6BFDYI.php",
-   "n_members": 54,
+   "n_members": 55,
    "n_sources": 17,
    "counts": {
     "left": 1,
@@ -385,6 +475,58 @@
    "category": "environnement",
    "terms_left": [],
    "terms_right": []
+  },
+  {
+   "title": "Mondial 2026 : le milieu sud-africain Jayden Adams retrouvé mort à 25 ans",
+   "url": "https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-2026-le-selectionneur-de-l-argentine-rejette-les-accusations-de-favoritisme-envers-lionel-messi-et-ses-coequipiers_8104103.html",
+   "n_members": 40,
+   "n_sources": 17,
+   "counts": {
+    "left": 0,
+    "centre": 11,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 2,
+    "opinion": 2
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "sport",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Emmanuel Macron, Donald Trump... Un média iranien publie une «liste de ceux qui doivent s'attendre à la vengeance»",
+   "url": "https://www.liberation.fr/international/moyen-orient/en-iran-labsence-du-nouveau-guide-supreme-aiguise-les-rivalites-au-sein-du-pouvoir-20260710_PIR3PG75ONBYTCW3DAAP3W2OW4/",
+   "n_members": 27,
+   "n_sources": 17,
+   "counts": {
+    "left": 2,
+    "centre": 10,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 5,
+    "opinion": 1
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.473,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "iran",
+    "mort père"
+   ],
+   "terms_right": [
+    "venger",
+    "vengeance",
+    "khamenei"
+   ]
   },
   {
    "title": "Mondial 2026 : Angleterre élimine la Norvège et affrontera l'Argentine en demi-finales",
@@ -411,7 +553,7 @@
   {
    "title": "Incendies : 32 individus suspectés d'être à l'origine de départs de feu ont été arrêtés en France, annonce Laurent Nuñez",
    "url": "https://www.20minutes.fr/societe/4234081-20260711-canicule-14-juillet-rennes-orleans-limoges-aix-feux-artifice-annules-dizaines-villes",
-   "n_members": 39,
+   "n_members": 41,
    "n_sources": 14,
    "counts": {
     "left": 2,
@@ -431,13 +573,13 @@
    "terms_right": []
   },
   {
-   "title": "L’acteur néo-zélandais Sam Neill, star du film Jurassic Park, est décédé à 78 ans",
-   "url": "https://www.leprogres.fr/culture-loisirs/2026/07/13/l-acteur-neo-zelandais-sam-neill-star-de-jurassic-park-est-decede-a-78-ans",
-   "n_members": 14,
+   "title": "Wimbledon : Jannik Sinner remporte son cinquième titre en Grand Chelem en battant Alexander Zverev en finale",
+   "url": "https://www.leparisien.fr/sports/il-est-plus-detendu-libere-sacre-a-roland-garros-le-nouveau-zverev-defie-sinner-en-finale-de-wimbledon-12-07-2026-3BHJ4JXIYJGPZPRI6ZF6QBJINA.php",
+   "n_members": 18,
    "n_sources": 14,
    "counts": {
-    "left": 2,
-    "centre": 8,
+    "left": 1,
+    "centre": 9,
     "right": 4
    },
    "style_counts": {
@@ -445,12 +587,64 @@
     "mixte": 4,
     "opinion": 1
    },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
    "divergence": null,
-   "category": "culture",
+   "category": "sport",
    "terms_left": [],
    "terms_right": []
+  },
+  {
+   "title": "Thaïlande: au moins 27 morts dans l’incendie d’un bar de la banlieue de Bangkok",
+   "url": "https://www.europe1.fr/international/thailande-au-moins-27-morts-dans-lincendie-dun-bar-a-bangkok-971088",
+   "n_members": 15,
+   "n_sources": 14,
+   "counts": {
+    "left": 0,
+    "centre": 9,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 2,
+    "opinion": 1
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Aide à mourir : vers une adoption définitive, Gérard Larcher veut saisir le Conseil constitutionnel",
+   "url": "https://www.lemonde.fr/politique/article/2026/07/10/retraites-les-experts-du-comite-de-suivi-preconisent-de-brider-les-pensions-pour-sortir-d-une-situation-alarmante_6722403_823448.html",
+   "n_members": 23,
+   "n_sources": 13,
+   "counts": {
+    "left": 3,
+    "centre": 7,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 7,
+    "mixte": 5,
+    "opinion": 1
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.714,
+   "category": "politique",
+   "terms_left": [
+    "loi fin",
+    "vie",
+    "fin vie"
+   ],
+   "terms_right": [
+    "texte",
+    "euros",
+    "nouveau"
+   ]
   },
   {
    "title": "Aix-en-Provence. À peine sorti après 15 ans de prison, un homme récidive et viole une étudiante",
@@ -475,43 +669,43 @@
    "terms_right": []
   },
   {
-   "title": "Wimbledon : Jannik Sinner remporte son cinquième titre en Grand Chelem en battant Alexander Zverev en finale",
-   "url": "https://www.leparisien.fr/sports/il-est-plus-detendu-libere-sacre-a-roland-garros-le-nouveau-zverev-defie-sinner-en-finale-de-wimbledon-12-07-2026-3BHJ4JXIYJGPZPRI6ZF6QBJINA.php",
-   "n_members": 16,
-   "n_sources": 13,
+   "title": "Présomption de légitime défense pour les forces de l'ordre : la LDH dénonce \"un permis de tuer\"",
+   "url": "https://www.nouvelobs.com/politique/20260710.OBS116561/la-petition-contre-la-proposition-de-loi-legitime-defense-pourra-t-elle-etre-discutee-a-l-assemblee-nationale.html",
+   "n_members": 13,
+   "n_sources": 12,
    "counts": {
-    "left": 1,
-    "centre": 8,
-    "right": 4
+    "left": 7,
+    "centre": 3,
+    "right": 2
    },
    "style_counts": {
-    "factuel": 8,
-    "mixte": 4,
-    "opinion": 1
+    "factuel": 3,
+    "mixte": 5,
+    "opinion": 4
    },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "sport",
+   "blindspot_score": -0.556,
+   "blindspot_for": null,
+   "divergence": 0.658,
+   "category": "politique",
    "terms_left": [],
    "terms_right": []
   },
   {
-   "title": "Thaïlande: au moins 27 morts dans l’incendie d’un bar de la banlieue de Bangkok",
-   "url": "https://www.europe1.fr/international/thailande-au-moins-27-morts-dans-lincendie-dun-bar-a-bangkok-971088",
-   "n_members": 14,
-   "n_sources": 13,
+   "title": "La coalition des volontaires pour l'Ukraine réunie en sommet à Paris",
+   "url": "https://www.lexpress.fr/monde/europe/coalition-des-volontaires-et-defile-hors-norme-les-plans-demmanuel-macron-pour-ce-14-juillet-aux-EM6QQDHWIVGYJFKOEKZAUM6IMU/",
+   "n_members": 15,
+   "n_sources": 11,
    "counts": {
-    "left": 0,
-    "centre": 8,
-    "right": 5
+    "left": 1,
+    "centre": 6,
+    "right": 4
    },
    "style_counts": {
-    "factuel": 10,
-    "mixte": 2,
+    "factuel": 6,
+    "mixte": 4,
     "opinion": 1
    },
-   "blindspot_score": 1.0,
+   "blindspot_score": 0.6,
    "blindspot_for": "gauche",
    "divergence": null,
    "category": "international",
@@ -519,54 +713,46 @@
    "terms_right": []
   },
   {
-   "title": "Fin de vie : pourquoi Emmanuel Macron veut faire adopter la loi avant la rentrée",
-   "url": "https://www.lemonde.fr/politique/article/2026/07/10/retraites-les-experts-du-comite-de-suivi-preconisent-de-brider-les-pensions-pour-sortir-d-une-situation-alarmante_6722403_823448.html",
-   "n_members": 19,
-   "n_sources": 12,
+   "title": "Présidentielle 2027: Marine Le Pen largement en tête au premier tour selon le dernier sondage Elabe pour BFMTV",
+   "url": "https://www.cnews.fr/france/2026-07-09/presidentielle-2027-marine-le-pen-en-tete-des-intentions-de-vote-au-premier-tour",
+   "n_members": 25,
+   "n_sources": 10,
    "counts": {
-    "left": 3,
-    "centre": 6,
-    "right": 3
+    "left": 0,
+    "centre": 5,
+    "right": 5
    },
    "style_counts": {
     "factuel": 6,
-    "mixte": 5,
-    "opinion": 1
+    "mixte": 2,
+    "opinion": 2
    },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.76,
+   "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
+   "divergence": null,
    "category": "politique",
-   "terms_left": [
-    "loi fin",
-    "droite",
-    "aide"
-   ],
-   "terms_right": [
-    "retraites",
-    "euros",
-    "nouveau"
-   ]
+   "terms_left": [],
+   "terms_right": []
   },
   {
-   "title": "Présomption de légitime défense pour les forces de l'ordre : la LDH dénonce \"un permis de tuer\"",
-   "url": "https://www.nouvelobs.com/politique/20260710.OBS116561/la-petition-contre-la-proposition-de-loi-legitime-defense-pourra-t-elle-etre-discutee-a-l-assemblee-nationale.html",
-   "n_members": 12,
-   "n_sources": 11,
+   "title": "Réseaux sociaux dans l’UE : interdiction totale aux mineurs, accès progressif ? Des experts font des propositions",
+   "url": "https://www.la-croix.com/societe/reseaux-sociaux-l-ue-ordonne-de-changer-les-interfaces-addictives-dinstagram-et-facebook-20260710",
+   "n_members": 11,
+   "n_sources": 10,
    "counts": {
-    "left": 6,
-    "centre": 3,
+    "left": 0,
+    "centre": 8,
     "right": 2
    },
    "style_counts": {
-    "factuel": 3,
-    "mixte": 5,
-    "opinion": 3
+    "factuel": 7,
+    "mixte": 3,
+    "opinion": 0
    },
-   "blindspot_score": -0.5,
+   "blindspot_score": 1.0,
    "blindspot_for": null,
-   "divergence": 0.658,
-   "category": "politique",
+   "divergence": null,
+   "category": "sciences-tech",
    "terms_left": [],
    "terms_right": []
   },
@@ -593,24 +779,46 @@
    "terms_right": []
   },
   {
-   "title": "Guerre en Ukraine: la coalition des volontaires réunie en sommet à Paris",
-   "url": "https://www.lexpress.fr/monde/europe/coalition-des-volontaires-et-defile-hors-norme-les-plans-demmanuel-macron-pour-ce-14-juillet-aux-EM6QQDHWIVGYJFKOEKZAUM6IMU/",
-   "n_members": 8,
+   "title": "Jean-Noël Barrot annonce convoquer l'ambassadeur de Russie en France \"dans les prochains jours\" face à \"une vaste campagne cyber\" russe",
+   "url": "https://www.bfmtv.com/international/jean-noel-barrot-annonce-convoquer-l-ambassadeur-de-russie-en-france-dans-les-prochains-jours_AN-202607130227.html",
+   "n_members": 15,
    "n_sources": 8,
    "counts": {
-    "left": 0,
-    "centre": 5,
+    "left": 1,
+    "centre": 4,
     "right": 3
    },
    "style_counts": {
-    "factuel": 5,
+    "factuel": 6,
     "mixte": 2,
+    "opinion": 0
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "politique",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "« Ne soyez pas celui qui aura tout détruit » : Emmanuel Macron interpellé par des professionnels du théâtre au festival d’Avignon",
+   "url": "https://www.nouvelobs.com/culture/20260710.OBS116557/ce-n-est-pas-une-crise-c-est-une-hecatombe-au-festival-d-avignon-la-colere-monte-contre-les-coupes-budgetaires.html",
+   "n_members": 9,
+   "n_sources": 8,
+   "counts": {
+    "left": 4,
+    "centre": 2,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 3,
+    "mixte": 4,
     "opinion": 1
    },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "international",
+   "blindspot_score": -0.333,
+   "blindspot_for": null,
+   "divergence": 0.76,
+   "category": "culture",
    "terms_left": [],
    "terms_right": []
   },
@@ -659,6 +867,28 @@
    "terms_right": []
   },
   {
+   "title": "En Russie, la région de Moscou frappée par des attaques de drones ukrainiens",
+   "url": "https://www.lefigaro.fr/international/russie-incendie-dans-une-zone-industrielle-du-sud-ouest-apres-une-attaque-ukrainienne-20260713",
+   "n_members": 8,
+   "n_sources": 7,
+   "counts": {
+    "left": 1,
+    "centre": 5,
+    "right": 1
+   },
+   "style_counts": {
+    "factuel": 5,
+    "mixte": 2,
+    "opinion": 0
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Tour de France 2026. Malemort - Ussel : où et quand passera le Tour de France près de chez vous ce dimanche 12 juillet",
    "url": "https://www.leparisien.fr/sports/cyclisme/tour-de-france/tour-de-france-2026-etape-9-les-horaires-et-points-de-passage-de-la-caravane-entre-malemort-et-ussel-11-07-2026-RG2AEYIENRAXXGHWHZT3DQX24E.php",
    "n_members": 10,
@@ -681,43 +911,65 @@
    "terms_right": []
   },
   {
-   "title": "« Ce n’est pas une crise, c’est une hécatombe » : au Festival d’Avignon, la colère monte contre les coupes budgétaires",
-   "url": "https://www.nouvelobs.com/culture/20260710.OBS116557/ce-n-est-pas-une-crise-c-est-une-hecatombe-au-festival-d-avignon-la-colere-monte-contre-les-coupes-budgetaires.html",
+   "title": "Charente-Maritime. Deux bébés primates tamarins empereurs volés dans un zoo",
+   "url": "https://www.20minutes.fr/societe/4234169-20260712-deux-bebes-singes-voles-zoo-palmyre-malfrats-recherches",
    "n_members": 6,
    "n_sources": 6,
    "counts": {
-    "left": 4,
-    "centre": 1,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 1,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": -0.6,
-   "blindspot_for": "droite",
-   "divergence": 0.76,
-   "category": "culture",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Guerre en Ukraine : des attaques de drones menées par Kiev font quatre morts et sept blessés dans la région de Moscou",
-   "url": "https://www.lefigaro.fr/international/russie-incendie-dans-une-zone-industrielle-du-sud-ouest-apres-une-attaque-ukrainienne-20260713",
-   "n_members": 6,
-   "n_sources": 5,
-   "counts": {
     "left": 0,
     "centre": 4,
-    "right": 1
+    "right": 2
    },
    "style_counts": {
     "factuel": 4,
     "mixte": 1,
+    "opinion": 1
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "société",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "14-Juillet et Coupe du monde: 7.000 policiers et gendarmes mardi à Paris et son agglomération",
+   "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/pas-de-tolerance-aux-debordements-70-000-policiers-et-gendarmes-seront-deployes-mardi-pour-le-14-juillet-et-le-mondial-12-07-2026-XABCHFRD3ZE2ZHMDSI6WM65NNI.php",
+   "n_members": 6,
+   "n_sources": 6,
+   "counts": {
+    "left": 0,
+    "centre": 2,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 3,
+    "mixte": 3,
     "opinion": 0
    },
    "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "sport",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Epidémie d'Ebola : Médecins sans frontières forme des professionnels de santé au Kenya",
+   "url": "https://www.lemonde.fr/afrique/article/2026/07/10/l-epidemie-d-ebola-toujours-hors-de-controle-se-propage-en-rdc-a-une-vitesse-record_6722502_3212.html",
+   "n_members": 6,
+   "n_sources": 5,
+   "counts": {
+    "left": 1,
+    "centre": 3,
+    "right": 1
+   },
+   "style_counts": {
+    "factuel": 3,
+    "mixte": 1,
+    "opinion": 1
+   },
+   "blindspot_score": 0.0,
    "blindspot_for": null,
    "divergence": null,
    "category": "international",
@@ -747,8 +999,8 @@
    "terms_right": []
   },
   {
-   "title": "Réseaux sociaux : l’UE ordonne de changer les « interfaces addictives » d’Instagram et Facebook",
-   "url": "https://www.la-croix.com/societe/reseaux-sociaux-l-ue-ordonne-de-changer-les-interfaces-addictives-dinstagram-et-facebook-20260710",
+   "title": "La Corée du Sud émet une alerte maximale pour fortes chaleurs pour la première fois",
+   "url": "https://www.ouest-france.fr/environnement/rechauffement-climatique/la-coree-du-sud-emet-une-alerte-maximale-pour-fortes-chaleurs-pour-la-premiere-fois-e928b3d4-7d95-11f1-a3cc-61ee167b6bba",
    "n_members": 5,
    "n_sources": 5,
    "counts": {
@@ -757,234 +1009,14 @@
     "right": 1
    },
    "style_counts": {
-    "factuel": 2,
-    "mixte": 3,
-    "opinion": 0
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "société",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Jean-Noël Barrot annonce convoquer l'ambassadeur de Russie en France \"dans les prochains jours\" face à \"une vaste campagne cyber\" russe",
-   "url": "https://www.bfmtv.com/international/jean-noel-barrot-annonce-convoquer-l-ambassadeur-de-russie-en-france-dans-les-prochains-jours_AN-202607130227.html",
-   "n_members": 10,
-   "n_sources": 3,
-   "counts": {
-    "left": 0,
-    "centre": 1,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 2,
+    "factuel": 4,
     "mixte": 1,
     "opinion": 0
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "politique",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "« Ce projet n'a aucun sens » : contre le canal Seine-Nord Europe, la mobilisation s'amplifie",
-   "url": "https://reporterre.net/Canal-Seine-Nord-Europe-un-chantier-titanesque-dont-personne-ne-sait-a-quoi-il-doit",
-   "n_members": 5,
-   "n_sources": 3,
-   "counts": {
-    "left": 3,
-    "centre": 0,
-    "right": 0
-   },
-   "style_counts": {
-    "factuel": 0,
-    "mixte": 2,
-    "opinion": 1
-   },
-   "blindspot_score": -1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "environnement",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "L’Edito de Raphaël Legendre : Armées... dix ans après, promesses tenues - 13/07",
-   "url": "https://www.lemonde.fr/politique/article/2026/07/13/emmanuel-macron-et-les-armees-dix-ans-de-relations-entre-defiance-espoirs-et-non-dits_6723032_823448.html",
-   "n_members": 5,
-   "n_sources": 3,
-   "counts": {
-    "left": 1,
-    "centre": 0,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 2,
-    "mixte": 1,
-    "opinion": 0
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "économie",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Qui est Count Binface, le candidat à tête de poubelle qui défie le populiste Nigel Farage dans les urnes ?",
-   "url": "https://www.lejdd.fr/International/royaume-uni-nigel-farage-face-au-comte-tete-de-poubelle-lors-dune-legislative-partielle-178632",
-   "n_members": 3,
-   "n_sources": 3,
-   "counts": {
-    "left": 0,
-    "centre": 1,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 2,
-    "mixte": 0,
-    "opinion": 1
    },
    "blindspot_score": 1.0,
    "blindspot_for": null,
    "divergence": null,
    "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Face au mastodonte Bolloré, de nombreuses maisons d’édition indépendantes de gauche très fragilisées",
-   "url": "https://www.nouvelobs.com/culture/20260707.OBS116474/face-au-mastodonte-bollore-de-nombreuses-maisons-d-edition-independantes-de-gauche-tres-fragilisees.html",
-   "n_members": 3,
-   "n_sources": 3,
-   "counts": {
-    "left": 3,
-    "centre": 0,
-    "right": 0
-   },
-   "style_counts": {
-    "factuel": 0,
-    "mixte": 2,
-    "opinion": 1
-   },
-   "blindspot_score": -1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "culture",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Feu d'artifice de la Fête nationale à Paris : tout ce qu'il faut savoir pour profiter au mieux du spectacle le soir du 13 juillet",
-   "url": "https://www.leparisien.fr/etudiant/vie-etudiante/feu-dartifice-du-13-juillet-2026-a-paris-infos-pratiques-et-conseils-pour-profiter-du-spectacle-NOZOZRDSOJEVTOFZJV56MLDGZQ.php",
-   "n_members": 3,
-   "n_sources": 3,
-   "counts": {
-    "left": 1,
-    "centre": 1,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 2,
-    "mixte": 1,
-    "opinion": 0
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "culture",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Royaume-Uni : le gouvernement débloque 250 millions de livres pour protéger la communauté juive",
-   "url": "https://www.leparisien.fr/international/royaume-uni/protection-policiere-education-le-royaume-uni-va-depenser-250-millions-de-livres-pour-proteger-la-communaute-juive-13-07-2026-4752J5RW4JHXNFRG3QCDLAVEN4.php",
-   "n_members": 3,
-   "n_sources": 3,
-   "counts": {
-    "left": 0,
-    "centre": 1,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 1,
-    "mixte": 1,
-    "opinion": 1
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Santé. Aide à mourir : suicide assisté, critères... Ce que contient le texte, avant le vote final mercredi",
-   "url": "https://www.sudouest.fr/sante/aide-a-mourir-apres-l-adoption-de-la-loi-les-modalites-exactes-restent-a-definir-29905321.php",
-   "n_members": 3,
-   "n_sources": 3,
-   "counts": {
-    "left": 0,
-    "centre": 2,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 2,
-    "mixte": 1,
-    "opinion": 0
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "société",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "France - Espagne : qui est Ivan Barton, l’arbitre désigné pour la demi-finale de Coupe du monde ?",
-   "url": "https://www.tf1info.fr/sport/football-coupe-du-monde-2026-avant-france-espagne-ivan-barton-l-arbitre-de-la-demi-finale-a-deja-marque-cette-coupe-du-monde-en-appliquant-une-regle-sanction-inedite-2452809.html",
-   "n_members": 3,
-   "n_sources": 3,
-   "counts": {
-    "left": 0,
-    "centre": 2,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 3,
-    "mixte": 0,
-    "opinion": 0
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Un Oeil sur le Monde du samedi 11 juillet 2026",
-   "url": "https://www.tf1info.fr/replay-lci/videos/video-la-matinale-du-samedi-11-juillet-2026-2452635.html",
-   "n_members": 15,
-   "n_sources": 2,
-   "counts": {
-    "left": 0,
-    "centre": 1,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 2,
-    "mixte": 0,
-    "opinion": 0
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "société",
    "terms_left": [],
    "terms_right": []
   }
