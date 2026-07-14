@@ -1,13 +1,13 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-14T10:48:46+00:00",
+ "generated_at": "2026-07-14T12:07:09+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "EN DIRECT - Incendies : la forêt de Fontainebleau touchée par un feu \"d'une ampleur exceptionnelle\", 800 hectares parcourus",
    "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/jusqua-4h20-de-retard-le-trafic-sncf-fortement-perturbe-sur-la-ligne-sud-est-entre-paris-et-marseille-a-cause-dun-incendie-12-07-2026-7E3R5IBOQNAXRDOH35X3TPSWTI.php",
-   "n_members": 181,
+   "n_members": 189,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -24,14 +24,44 @@
    "divergence": 0.387,
    "category": "environnement",
    "terms_left": [
-    "fumée",
     "partis",
-    "partis fumée"
+    "partis fumée",
+    "fumée"
    ],
    "terms_right": [
     "seine-et-marne",
     "incendie forêt",
-    "continue"
+    "mobilisés"
+   ]
+  },
+  {
+   "title": "Reprise des hostilités entre l'Iran et les Etats-Unis : le détroit d'Ormuz est refermé",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
+   "n_members": 124,
+   "n_sources": 29,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.125,
+   "blindspot_for": null,
+   "divergence": 0.376,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "blocus",
+    "ports"
+   ],
+   "terms_right": [
+    "états-unis",
+    "frappes",
+    "nouvelles"
    ]
   },
   {
@@ -65,58 +95,28 @@
    ]
   },
   {
-   "title": "Reprise des hostilités entre l'Iran et les Etats-Unis : le détroit d'Ormuz est refermé",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 123,
-   "n_sources": 28,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 10,
-    "opinion": 2
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.381,
-   "category": "international",
-   "terms_left": [
-    "etats-unis",
-    "nuit",
-    "jusqu"
-   ],
-   "terms_right": [
-    "états-unis",
-    "frappes",
-    "nouvelles"
-   ]
-  },
-  {
    "title": "Coupe du monde 2026 : en demi-finale, des Bleus «méchants» prêts à dévorer l’Espagne",
    "url": "https://www.nouvelobs.com/sport/20260709.OBS116534/un-mannequin-de-mbappe-brule-bagarre-en-conference-de-presse-le-bulletin-de-la-coupe-du-monde-de-trump.html",
-   "n_members": 142,
-   "n_sources": 27,
+   "n_members": 146,
+   "n_sources": 28,
    "counts": {
     "left": 5,
-    "centre": 14,
+    "centre": 15,
     "right": 8
    },
    "style_counts": {
-    "factuel": 16,
+    "factuel": 17,
     "mixte": 7,
     "opinion": 4
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.518,
+   "divergence": 0.52,
    "category": "sport",
    "terms_left": [
     "face",
-    "tricolores",
-    "roja"
+    "roja",
+    "tricolores"
    ],
    "terms_right": [
     "demi-finale",
@@ -125,9 +125,39 @@
    ]
   },
   {
+   "title": "DIRECT. Canicule: 37 départements en vigilance rouge, 46 en orange",
+   "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
+   "n_members": 152,
+   "n_sources": 27,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 11,
+    "opinion": 2
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.407,
+   "category": "environnement",
+   "terms_left": [
+    "troisième",
+    "fin",
+    "feux"
+   ],
+   "terms_right": [
+    "départements",
+    "vigilance",
+    "journée"
+   ]
+  },
+  {
    "title": "DIRECT. 14-Juillet: les troupes se mettent en place sur les Champs-Élysées pour le traditionnel défilé militaire",
    "url": "https://www.cnews.fr/france/2026-07-11/festivites-du-14-juillet-voici-les-axes-routiers-fermes-des-ce-dimanche-paris",
-   "n_members": 112,
+   "n_members": 119,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -141,17 +171,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.738,
+   "divergence": 0.736,
    "category": "société",
    "terms_left": [
     "contexte",
-    "champs-elysées",
-    "week-end"
+    "signe",
+    "champs-elysées"
    ],
    "terms_right": [
-    "militaire",
     "défilé militaire",
-    "champs-élysées"
+    "emmanuel macron",
+    "emmanuel"
    ]
   },
   {
@@ -171,7 +201,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.464,
+   "divergence": 0.457,
    "category": "sport",
    "terms_left": [
     "parcours",
@@ -185,9 +215,9 @@
    ]
   },
   {
-   "title": "DIRECT. Canicule: 37 départements en vigilance rouge, 46 en orange",
-   "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 151,
+   "title": "Nice : une marche blanche lance les commémorations des dix ans de l'attentat du 14 juillet",
+   "url": "https://www.lemonde.fr/societe/article/2026/07/10/14-juillet-les-personnes-qui-veulent-assister-au-defile-sur-les-champs-elysees-devront-presenter-un-qr-code_6722451_3224.html",
+   "n_members": 122,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -195,43 +225,13 @@
     "right": 8
    },
    "style_counts": {
-    "factuel": 14,
-    "mixte": 11,
-    "opinion": 1
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.417,
-   "category": "environnement",
-   "terms_left": [
-    "direct",
-    "flammes",
-    "risques"
-   ],
-   "terms_right": [
-    "départements",
-    "vigilance",
-    "journée"
-   ]
-  },
-  {
-   "title": "Nice : une marche blanche lance les commémorations des dix ans de l'attentat du 14 juillet",
-   "url": "https://www.lemonde.fr/societe/article/2026/07/10/14-juillet-les-personnes-qui-veulent-assister-au-defile-sur-les-champs-elysees-devront-presenter-un-qr-code_6722451_3224.html",
-   "n_members": 118,
-   "n_sources": 25,
-   "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 12,
+    "factuel": 13,
     "mixte": 10,
     "opinion": 3
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.393,
+   "divergence": 0.394,
    "category": "société",
    "terms_left": [
     "attentat nice",
@@ -239,9 +239,9 @@
     "dispositif sécurité"
    ],
    "terms_right": [
-    "france",
     "hommage",
-    "nationale"
+    "france",
+    "hommage victimes"
    ]
   },
   {
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.637,
+   "divergence": 0.623,
    "category": "international",
    "terms_left": [
     "mortes",
@@ -337,7 +337,7 @@
   {
    "title": "Des Bleus \"sans Français\"… L’ex-Premier ministre espagnol Mariano Rajoy crée une polémique avec des propos racistes",
    "url": "https://www.lemonde.fr/sport/article/2026/07/11/france-australie-fabien-galthie-fait-le-pari-d-un-duo-ntamack-jalibert-pour-affronter-les-wallabies-au-championnat-des-nations-de-rugby_6722621_3242.html",
-   "n_members": 82,
+   "n_members": 83,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -367,15 +367,15 @@
   {
    "title": "DIRECT. Guerre en Iran: frappes américaines pour la troisième nuit de suite, Donald Trump suggère qu'un accord est encore \"possible\"",
    "url": "https://www.mediapart.fr/journal/international/100726/ni-guerre-ni-paix-pourquoi-les-etats-unis-et-l-iran-sont-pieges-dans-l-impasse-d-ormuz",
-   "n_members": 66,
-   "n_sources": 22,
+   "n_members": 68,
+   "n_sources": 23,
    "counts": {
     "left": 5,
-    "centre": 9,
+    "centre": 10,
     "right": 8
    },
    "style_counts": {
-    "factuel": 11,
+    "factuel": 12,
     "mixte": 9,
     "opinion": 2
    },
@@ -419,7 +419,7 @@
   {
    "title": "Sommet de la coalition des volontaires : Emmanuel Macron maintient le cap sur l'Ukraine",
    "url": "https://www.nouvelobs.com/monde/20260710.OBS116575/principale-suspecte-executee-ombre-des-services-ukrainiens-toutes-les-pistes-sont-encore-sur-la-table-assure-le-procureur-general-de-monaco-a-propos-de-l-attaque-a-l-explosif.html",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -463,7 +463,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.436,
+   "divergence": 0.435,
    "category": "politique",
    "terms_left": [
     "publics",
@@ -479,7 +479,7 @@
   {
    "title": "La France va convoquer l'ambassadeur de Russie \"dans les prochains jours\" après \"une vaste campagne cyber\" menée par Moscou",
    "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260711-russie-face-aux-p%C3%A9nuries-de-carburant-le-t%C3%A9l%C3%A9travail-pr%C3%A9conis%C3%A9",
-   "n_members": 47,
+   "n_members": 48,
    "n_sources": 20,
    "counts": {
     "left": 4,
@@ -501,15 +501,15 @@
     "ukrainiens"
    ],
    "terms_right": [
-    "jean-noël",
     "jean-noël barrot",
+    "jean-noël",
     "barrot"
    ]
   },
   {
    "title": "Réseaux sociaux dans l’UE : interdiction totale aux mineurs, accès progressif ? Des experts font des propositions",
    "url": "https://www.nouvelobs.com/justice/20260710.OBS116549/pedocriminalite-une-journee-avec-les-magistrats-et-enqueteurs-nous-sommes-obliges-de-trier-des-enfants-en-danger-alors-qu-ils-sont-tous-en-danger.html",
-   "n_members": 31,
+   "n_members": 35,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -524,7 +524,7 @@
    "blindspot_score": 0.5,
    "blindspot_for": null,
    "divergence": null,
-   "category": "économie",
+   "category": "société",
    "terms_left": [],
    "terms_right": []
   },
@@ -591,7 +591,7 @@
   {
    "title": "Incendies : 32 personnes interpellées, soupçonnées d'être à l'origine de départs de feu",
    "url": "https://www.20minutes.fr/societe/4234081-20260711-canicule-14-juillet-rennes-orleans-limoges-aix-feux-artifice-annules-dizaines-villes",
-   "n_members": 53,
+   "n_members": 56,
    "n_sources": 19,
    "counts": {
     "left": 2,
@@ -611,6 +611,36 @@
    "terms_right": []
   },
   {
+   "title": "\"C'était le chaos\" : en Thaïlande, l'incendie d'un bar fait au moins 27 morts",
+   "url": "https://www.humanite.fr/environnement/feux-de-foret/incendie-au-portugal-labandon-des-campagnes-devient-un-terrain-fertile-pour-les-incendies",
+   "n_members": 43,
+   "n_sources": 19,
+   "counts": {
+    "left": 2,
+    "centre": 12,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 3,
+    "opinion": 2
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.825,
+   "category": "international",
+   "terms_left": [
+    "pays",
+    "forêt",
+    "longue"
+   ],
+   "terms_right": [
+    "incendie",
+    "bar",
+    "bangkok"
+   ]
+  },
+  {
    "title": "Présidentielle 2027 : Clémentine Autain prend acte de l’échec de la « primaire unitaire » de la gauche et renonce à être candidate",
    "url": "https://www.lemonde.fr/politique/article/2026/07/11/segolene-royal-raphael-glucksmann-francois-hollande-la-primaire-sociale-democrate-cherche-ses-candidats_6722668_823448.html",
    "n_members": 42,
@@ -627,47 +657,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.549,
+   "divergence": 0.545,
    "category": "politique",
    "terms_left": [
     "gauche",
-    "décision",
-    "candidats"
+    "présidentielle clémentine",
+    "unitaire gauche"
    ],
    "terms_right": [
     "présidentielle",
     "socialistes",
     "candidature"
-   ]
-  },
-  {
-   "title": "\"C'était le chaos\" : en Thaïlande, l'incendie d'un bar fait au moins 27 morts",
-   "url": "https://www.humanite.fr/environnement/feux-de-foret/incendie-au-portugal-labandon-des-campagnes-devient-un-terrain-fertile-pour-les-incendies",
-   "n_members": 41,
-   "n_sources": 19,
-   "counts": {
-    "left": 2,
-    "centre": 12,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 3,
-    "opinion": 2
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": 0.824,
-   "category": "international",
-   "terms_left": [
-    "pays",
-    "forêt",
-    "longue"
-   ],
-   "terms_right": [
-    "incendie",
-    "bar",
-    "bangkok"
    ]
   },
   {
@@ -687,7 +687,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.773,
+   "divergence": 0.772,
    "category": "politique",
    "terms_left": [
     "veut",
@@ -696,8 +696,8 @@
    ],
    "terms_right": [
     "texte",
-    "macron",
-    "mourir"
+    "mourir",
+    "assemblée"
    ]
   },
   {
@@ -761,7 +761,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.467,
+   "divergence": 0.473,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -925,7 +925,7 @@
   {
    "title": "France - Espagne : « Groupe qui vit bien », solidarité avec Deschamps… Comment expliquer l’énorme cohésion de ces Bleus ?",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/france-espagne-ces-statistiques-qui-ne-plaident-pas-en-faveur-des-bleus-avant-la-demi-finale-de-coupe-du-monde-11-07-2026-FFZKRR2HU5E6TCVYGHBS25YQ74.php",
-   "n_members": 25,
+   "n_members": 26,
    "n_sources": 12,
    "counts": {
     "left": 2,
@@ -939,7 +939,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.886,
+   "divergence": 0.874,
    "category": "sport",
    "terms_left": [
     "france",
@@ -951,6 +951,28 @@
     "coupe",
     "coupe monde"
    ]
+  },
+  {
+   "title": "Incendies : qui met le feu aux forêts françaises ?",
+   "url": "https://contrepoints.org/feux-de-forets-la-faute-aux-constructeurs-automobiles/",
+   "n_members": 23,
+   "n_sources": 12,
+   "counts": {
+    "left": 1,
+    "centre": 5,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 6,
+    "mixte": 4,
+    "opinion": 2
+   },
+   "blindspot_score": 0.714,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "société",
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Présomption de légitime défense pour les forces de l'ordre : la LDH dénonce \"un permis de tuer\"",
@@ -975,6 +997,28 @@
    "terms_right": []
   },
   {
+   "title": "France - Espagne. Didier Deschamps avant le choc : « L’Espagne a confirmé qu’elle était la favorite du Mondial »",
+   "url": "https://www.franceinfo.fr/coupe-du-monde/l-espagne-rejoint-l-equipe-de-france-dans-le-dernier-carre-apres-sa-victoire-sur-le-fil-contre-la-belgique-en-quarts-de-finale-de-la-coupe-du-monde_8103353.html",
+   "n_members": 41,
+   "n_sources": 11,
+   "counts": {
+    "left": 1,
+    "centre": 6,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 7,
+    "mixte": 3,
+    "opinion": 1
+   },
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "sport",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "L’Edito de Raphaël Legendre : Armées... dix ans après, promesses tenues - 13/07",
    "url": "https://www.tf1info.fr/economie/videos/video-le-budget-de-la-defense-double-en-dix-ans-un-effort-suffisant-la-mise-au-point-de-francois-lenglet-36056-2452797.html",
    "n_members": 23,
@@ -991,7 +1035,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.812,
+   "divergence": 0.813,
    "category": "économie",
    "terms_left": [
     "etat",
@@ -1045,50 +1089,6 @@
    "blindspot_for": "gauche",
    "divergence": null,
    "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Incendies : qui met le feu aux forêts françaises ?",
-   "url": "https://contrepoints.org/feux-de-forets-la-faute-aux-constructeurs-automobiles/",
-   "n_members": 15,
-   "n_sources": 10,
-   "counts": {
-    "left": 1,
-    "centre": 3,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 4,
-    "mixte": 4,
-    "opinion": 2
-   },
-   "blindspot_score": 0.714,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "société",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "France-Espagne : une minute de silence sera observée avant le match, dix ans après l'attentat de Nice",
-   "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/france-espagne-sans-reponse-de-la-fifa-pour-sa-demande-de-minute-de-silence-eric-ciotti-en-appelle-a-emmanuel-macron-12-07-2026-MDIYSBROABFBHIGO6W27G4D3XY.php",
-   "n_members": 12,
-   "n_sources": 10,
-   "counts": {
-    "left": 1,
-    "centre": 6,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 8,
-    "mixte": 1,
-    "opinion": 1
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "sport",
    "terms_left": [],
    "terms_right": []
   }
