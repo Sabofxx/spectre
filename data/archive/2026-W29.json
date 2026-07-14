@@ -1,13 +1,13 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-13T23:44:08+00:00",
+ "generated_at": "2026-07-14T01:25:19+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "EN DIRECT - Incendies : la forêt de Fontainebleau touchée par un feu \"d'une ampleur exceptionnelle\", 800 hectares parcourus",
    "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/jusqua-4h20-de-retard-le-trafic-sncf-fortement-perturbe-sur-la-ligne-sud-est-entre-paris-et-marseille-a-cause-dun-incendie-12-07-2026-7E3R5IBOQNAXRDOH35X3TPSWTI.php",
-   "n_members": 147,
+   "n_members": 148,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -67,7 +67,7 @@
   {
    "title": "Reprise des hostilités entre l'Iran et les Etats-Unis : le détroit d'Ormuz est refermé",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 104,
+   "n_members": 107,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.377,
+   "divergence": 0.378,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -111,17 +111,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.599,
+   "divergence": 0.595,
    "category": "sport",
    "terms_left": [
-    "affrontera",
     "face",
-    "demi-finales"
+    "belgique",
+    "affrontera"
    ],
    "terms_right": [
-    "demi-finale",
     "france",
-    "mondial"
+    "demi-finale",
+    "macron"
    ]
   },
   {
@@ -305,6 +305,36 @@
    ]
   },
   {
+   "title": "Ukraine à l’honneur et sécurité renforcée : ce qu’il faut savoir du défilé du 14-Juillet",
+   "url": "https://www.cnews.fr/france/2026-07-11/festivites-du-14-juillet-voici-les-axes-routiers-fermes-des-ce-dimanche-paris",
+   "n_members": 52,
+   "n_sources": 23,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.455,
+   "blindspot_for": null,
+   "divergence": 0.715,
+   "category": "société",
+   "terms_left": [
+    "week-end",
+    "canicule",
+    "fontainebleau"
+   ],
+   "terms_right": [
+    "défilé",
+    "justice",
+    "autorités"
+   ]
+  },
+  {
    "title": "INFO E1 - Sarcelles : le Parquet national antiterroriste se saisit après la découverte d'armes dans un véhicule",
    "url": "https://www.mediapart.fr/journal/ecologie/100726/incendie-de-die-des-evacuations-chaotiques-et-une-communication-verrouillee",
    "n_members": 63,
@@ -343,7 +373,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.683,
+   "divergence": 0.684,
    "category": "international",
    "terms_left": [
     "force",
@@ -354,36 +384,6 @@
     "états-unis",
     "moyen-orient",
     "iran"
-   ]
-  },
-  {
-   "title": "Défilé du 14-Juillet : fermeture de la plateforme face à l’afflux d’inscriptions",
-   "url": "https://www.cnews.fr/france/2026-07-11/festivites-du-14-juillet-voici-les-axes-routiers-fermes-des-ce-dimanche-paris",
-   "n_members": 50,
-   "n_sources": 22,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.716,
-   "category": "société",
-   "terms_left": [
-    "canicule",
-    "incendie",
-    "fontainebleau"
-   ],
-   "terms_right": [
-    "défilé",
-    "justice",
-    "autorités"
    ]
   },
   {
@@ -406,8 +406,8 @@
    "divergence": 0.42,
    "category": "politique",
    "terms_left": [
-    "publics",
     "fonds",
+    "publics",
     "détournement"
    ],
    "terms_right": [
@@ -419,7 +419,7 @@
   {
    "title": "Nice : une marche blanche lance les commémorations des dix ans de l'attentat du 14 juillet",
    "url": "https://www.lemonde.fr/societe/article/2026/07/10/14-juillet-les-personnes-qui-veulent-assister-au-defile-sur-les-champs-elysees-devront-presenter-un-qr-code_6722451_3224.html",
-   "n_members": 95,
+   "n_members": 96,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -463,7 +463,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.653,
+   "divergence": 0.654,
    "category": "international",
    "terms_left": [
     "défense",
@@ -493,7 +493,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.354,
+   "divergence": 0.355,
    "category": "international",
    "terms_left": [
     "rendu",
@@ -591,7 +591,7 @@
   {
    "title": "La France va convoquer l'ambassadeur de Russie \"dans les prochains jours\" après \"une vaste campagne cyber\" menée par Moscou",
    "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260711-russie-face-aux-p%C3%A9nuries-de-carburant-le-t%C3%A9l%C3%A9travail-pr%C3%A9conis%C3%A9",
-   "n_members": 39,
+   "n_members": 40,
    "n_sources": 18,
    "counts": {
     "left": 3,
@@ -661,6 +661,36 @@
    "category": "sport",
    "terms_left": [],
    "terms_right": []
+  },
+  {
+   "title": "Thaïlande: au moins 27 morts dans l’incendie d’un bar de la banlieue de Bangkok",
+   "url": "https://www.humanite.fr/environnement/feux-de-foret/incendie-au-portugal-labandon-des-campagnes-devient-un-terrain-fertile-pour-les-incendies",
+   "n_members": 30,
+   "n_sources": 17,
+   "counts": {
+    "left": 2,
+    "centre": 10,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 3,
+    "opinion": 2
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.822,
+   "category": "international",
+   "terms_left": [
+    "forêt",
+    "pays",
+    "longue"
+   ],
+   "terms_right": [
+    "bar",
+    "bangkok",
+    "incendie bar"
+   ]
   },
   {
    "title": "Emmanuel Macron, Donald Trump... Un média iranien publie une «liste de ceux qui doivent s'attendre à la vengeance»",
@@ -743,28 +773,6 @@
     "nouveau",
     "texte"
    ]
-  },
-  {
-   "title": "Thaïlande: au moins 27 morts dans l’incendie d’un bar de la banlieue de Bangkok",
-   "url": "https://www.europe1.fr/international/thailande-au-moins-27-morts-dans-lincendie-dun-bar-a-bangkok-971088",
-   "n_members": 19,
-   "n_sources": 15,
-   "counts": {
-    "left": 1,
-    "centre": 9,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 3,
-    "opinion": 1
-   },
-   "blindspot_score": 0.667,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
   },
   {
    "title": "Réseaux sociaux dans l’UE : interdiction totale aux mineurs, accès progressif ? Des experts font des propositions",
@@ -865,7 +873,7 @@
   {
    "title": "Tour de France 2026 : une voiture percute des barrières à l’arrivée de la 9e étape, plusieurs blessés dont un grave",
    "url": "https://www.leparisien.fr/sports/cyclisme/tour-de-france/tour-de-france-2026-etape-9-les-horaires-et-points-de-passage-de-la-caravane-entre-malemort-et-ussel-11-07-2026-RG2AEYIENRAXXGHWHZT3DQX24E.php",
-   "n_members": 35,
+   "n_members": 36,
    "n_sources": 12,
    "counts": {
     "left": 1,
@@ -887,7 +895,7 @@
   {
    "title": "La police américaine de l’immigration impliquée dans une nouvelle mort par balle",
    "url": "https://information.tv5monde.com/international/le-dernier-matin-de-lorenzo-salgado-un-reve-americain-fauche-2829566",
-   "n_members": 15,
+   "n_members": 16,
    "n_sources": 12,
    "counts": {
     "left": 3,
@@ -951,6 +959,36 @@
    "terms_right": []
   },
   {
+   "title": "France-Espagne : « Qui a parlé de peur ? », la presse espagnole confiante avant d’affronter Mbappé et les Bleus en demi-finale",
+   "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/france-espagne-ces-statistiques-qui-ne-plaident-pas-en-faveur-des-bleus-avant-la-demi-finale-de-coupe-du-monde-11-07-2026-FFZKRR2HU5E6TCVYGHBS25YQ74.php",
+   "n_members": 19,
+   "n_sources": 10,
+   "counts": {
+    "left": 2,
+    "centre": 4,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 5,
+    "mixte": 3,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.901,
+   "category": "sport",
+   "terms_left": [
+    "france",
+    "espagnole",
+    "foot"
+   ],
+   "terms_right": [
+    "monde",
+    "coupe",
+    "coupe monde"
+   ]
+  },
+  {
    "title": "Mort de Shemseddine, 15 ans, à Viry-Châtillon en 2024 : les meurtriers présumés en liberté en raison d'un vide juridique",
    "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
    "n_members": 14,
@@ -971,36 +1009,6 @@
    "category": "faits-divers",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "France-Espagne : « Qui a parlé de peur ? », la presse espagnole confiante avant d’affronter Mbappé et les Bleus en demi-finale",
-   "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/france-espagne-ces-statistiques-qui-ne-plaident-pas-en-faveur-des-bleus-avant-la-demi-finale-de-coupe-du-monde-11-07-2026-FFZKRR2HU5E6TCVYGHBS25YQ74.php",
-   "n_members": 18,
-   "n_sources": 9,
-   "counts": {
-    "left": 2,
-    "centre": 4,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 5,
-    "mixte": 3,
-    "opinion": 1
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.91,
-   "category": "sport",
-   "terms_left": [
-    "france",
-    "espagnole",
-    "foot"
-   ],
-   "terms_right": [
-    "monde",
-    "coupe",
-    "coupe monde"
-   ]
   },
   {
    "title": "L’Edito de Raphaël Legendre : Armées... dix ans après, promesses tenues - 13/07",
@@ -1057,7 +1065,7 @@
   {
    "title": "France-Espagne : l'arbitre de la demi-finale a déjà marqué cette Coupe du monde avec une sanction inédite",
    "url": "https://www.tf1info.fr/sport/videos/video-mechants-mechants-ibrahima-konate-decrit-la-mentalite-de-l-equipe-de-france-83033-2452756.html",
-   "n_members": 26,
+   "n_members": 28,
    "n_sources": 8,
    "counts": {
     "left": 0,
