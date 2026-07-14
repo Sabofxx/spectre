@@ -1,13 +1,13 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-14T17:04:28+00:00",
+ "generated_at": "2026-07-14T18:37:25+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "EN DIRECT - Incendies : la forêt de Fontainebleau touchée par un feu \"d'une ampleur exceptionnelle\", 800 hectares parcourus",
+   "title": "DIRECT. Feu en forêt de Fontainebleau: plus de 1.300 hectares parcourus par les flammes, les sapeurs-pompiers toujours à pied d'œuvre pour lutter contre l'incendie",
    "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/jusqua-4h20-de-retard-le-trafic-sncf-fortement-perturbe-sur-la-ligne-sud-est-entre-paris-et-marseille-a-cause-dun-incendie-12-07-2026-7E3R5IBOQNAXRDOH35X3TPSWTI.php",
-   "n_members": 212,
+   "n_members": 218,
    "n_sources": 34,
    "counts": {
     "left": 8,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.371,
+   "divergence": 0.368,
    "category": "environnement",
    "terms_left": [
     "partis",
@@ -35,47 +35,17 @@
    ]
   },
   {
-   "title": "Reprise des hostilités entre l'Iran et les Etats-Unis : le détroit d'Ormuz est refermé",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 129,
-   "n_sources": 29,
-   "counts": {
-    "left": 7,
-    "centre": 13,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 10,
-    "opinion": 3
-   },
-   "blindspot_score": 0.125,
-   "blindspot_for": null,
-   "divergence": 0.373,
-   "category": "international",
-   "terms_left": [
-    "etats-unis",
-    "nuit",
-    "blocus"
-   ],
-   "terms_right": [
-    "états-unis",
-    "frappes",
-    "nouvelles"
-   ]
-  },
-  {
-   "title": "Avec la canicule, comment refroidir les centrales nucléaires ?",
+   "title": "Canicule : Trois réacteurs nucléaires encore à l’arrêt en France en raison de la chaleur",
    "url": "https://www.mediapart.fr/journal/ecologie/110726/pourquoi-le-vivant-ne-supporte-pas-la-chaleur",
-   "n_members": 62,
-   "n_sources": 29,
+   "n_members": 63,
+   "n_sources": 30,
    "counts": {
     "left": 6,
-    "centre": 15,
+    "centre": 16,
     "right": 8
    },
    "style_counts": {
-    "factuel": 16,
+    "factuel": 17,
     "mixte": 11,
     "opinion": 2
    },
@@ -95,9 +65,39 @@
    ]
   },
   {
+   "title": "Reprise des hostilités entre l'Iran et les Etats-Unis : le détroit d'Ormuz est refermé",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
+   "n_members": 129,
+   "n_sources": 29,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.125,
+   "blindspot_for": null,
+   "divergence": 0.376,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "nuit",
+    "blocus"
+   ],
+   "terms_right": [
+    "états-unis",
+    "frappes",
+    "nouvelles"
+   ]
+  },
+  {
    "title": "Coupe du monde 2026 : en demi-finale, des Bleus «méchants» prêts à dévorer l’Espagne",
    "url": "https://www.nouvelobs.com/sport/20260709.OBS116534/un-mannequin-de-mbappe-brule-bagarre-en-conference-de-presse-le-bulletin-de-la-coupe-du-monde-de-trump.html",
-   "n_members": 161,
+   "n_members": 169,
    "n_sources": 28,
    "counts": {
     "left": 5,
@@ -111,53 +111,23 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.484,
+   "divergence": 0.479,
    "category": "sport",
    "terms_left": [
-    "roja",
     "face",
+    "roja",
     "heures"
    ],
    "terms_right": [
     "france",
-    "demi-finale",
-    "demi-finale coupe"
-   ]
-  },
-  {
-   "title": "DIRECT. Canicule: 37 départements en vigilance rouge, 46 en orange",
-   "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 159,
-   "n_sources": 27,
-   "counts": {
-    "left": 7,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 11,
-    "opinion": 2
-   },
-   "blindspot_score": 0.067,
-   "blindspot_for": null,
-   "divergence": 0.378,
-   "category": "environnement",
-   "terms_left": [
-    "troisième",
-    "troisième vague",
-    "fin"
-   ],
-   "terms_right": [
-    "départements",
-    "vigilance",
-    "journée"
+    "demi-finale coupe",
+    "demi-finale"
    ]
   },
   {
    "title": "DIRECT. Attentat du 14-Juillet: dix ans après, la ville de Nice rend hommage aux 86 victimes",
    "url": "https://www.lemonde.fr/societe/article/2026/07/10/14-juillet-les-personnes-qui-veulent-assister-au-defile-sur-les-champs-elysees-devront-presenter-un-qr-code_6722451_3224.html",
-   "n_members": 152,
+   "n_members": 165,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -171,17 +141,47 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.353,
+   "divergence": 0.35,
    "category": "société",
    "terms_left": [
     "sécurité",
-    "dispositif sécurité",
-    "traumatisés"
+    "traumatisés",
+    "dispositif sécurité"
    ],
    "terms_right": [
     "hommage",
     "france",
-    "hommage victimes"
+    "commémorations"
+   ]
+  },
+  {
+   "title": "DIRECT. Canicule: 37 départements en vigilance rouge, 46 en orange",
+   "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
+   "n_members": 160,
+   "n_sources": 27,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 11,
+    "opinion": 2
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.374,
+   "category": "environnement",
+   "terms_left": [
+    "troisième",
+    "troisième vague",
+    "fin"
+   ],
+   "terms_right": [
+    "départements",
+    "vigilance",
+    "placé"
    ]
   },
   {
@@ -245,9 +245,9 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine: huit morts et 12 blessés après d'importantes frappes russes dans plusieurs villes",
+   "title": "Ukraine : Zelensky annonce un remaniement gouvernemental, voici ce que l’on sait",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 81,
+   "n_members": 82,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.856,
+   "divergence": 0.852,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -321,12 +321,12 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.633,
+   "divergence": 0.637,
    "category": "international",
    "terms_left": [
     "forêt",
-    "disparus",
-    "feu forêt"
+    "évacués",
+    "disparus"
    ],
    "terms_right": [
     "personnes",
@@ -335,9 +335,9 @@
    ]
   },
   {
-   "title": "Des Bleus \"sans Français\"… L’ex-Premier ministre espagnol Mariano Rajoy crée une polémique avec des propos racistes",
+   "title": "Les propos racistes de l’ancien Premier ministre espagnol Mariano Rajoy sur les Bleus",
    "url": "https://www.lemonde.fr/sport/article/2026/07/11/france-australie-fabien-galthie-fait-le-pari-d-un-duo-ntamack-jalibert-pour-affronter-les-wallabies-au-championnat-des-nations-de-rugby_6722621_3242.html",
-   "n_members": 86,
+   "n_members": 87,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.518,
+   "divergence": 0.521,
    "category": "sport",
    "terms_left": [
     "attaques",
@@ -361,7 +361,7 @@
    "terms_right": [
     "demi-finale",
     "face",
-    "wimbledon"
+    "espagnol"
    ]
   },
   {
@@ -381,12 +381,12 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.697,
+   "divergence": 0.698,
    "category": "international",
    "terms_left": [
-    "force",
     "tenu",
-    "cessez-le-feu"
+    "cessez-le-feu",
+    "etats-unis"
    ],
    "terms_right": [
     "états-unis",
@@ -395,9 +395,9 @@
    ]
   },
   {
-   "title": "Fin de vie : Sébastien Lecornu saisira le Conseil constitutionnel après le vote de mercredi",
+   "title": "Fin de vie : Sébastien Lecornu va saisir le Conseil constitutionnel sur le texte",
    "url": "https://www.lemonde.fr/politique/article/2026/07/10/retraites-les-experts-du-comite-de-suivi-preconisent-de-brider-les-pensions-pour-sortir-d-une-situation-alarmante_6722403_823448.html",
-   "n_members": 57,
+   "n_members": 60,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -411,16 +411,16 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.611,
+   "divergence": 0.589,
    "category": "politique",
    "terms_left": [
     "veut",
-    "france",
-    "extrême"
+    "extrême",
+    "extrême droite"
    ],
    "terms_right": [
-    "texte",
     "assemblée",
+    "assemblée nationale",
     "nationale"
    ]
   },
@@ -455,6 +455,36 @@
    ]
   },
   {
+   "title": "Présidentielle 2027 : éligible et candidate, Marine Le Pen veut imposer un débat de fond",
+   "url": "https://reporterre.net/Clim-fossiles-et-agro-industrie-l-ecologie-selon-Marine-Le-Pen",
+   "n_members": 46,
+   "n_sources": 23,
+   "counts": {
+    "left": 5,
+    "centre": 9,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 6,
+    "opinion": 7
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.423,
+   "category": "politique",
+   "terms_left": [
+    "condamnée",
+    "décision",
+    "malgré condamnation"
+   ],
+   "terms_right": [
+    "qu",
+    "rn",
+    "campagne"
+   ]
+  },
+  {
    "title": "INFO E1 - Sarcelles : le Parquet national antiterroriste se saisit après la découverte d'armes dans un véhicule",
    "url": "https://www.mediapart.fr/journal/ecologie/100726/incendie-de-die-des-evacuations-chaotiques-et-une-communication-verrouillee",
    "n_members": 63,
@@ -475,36 +505,6 @@
    "category": "faits-divers",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Présidentielle 2027 : éligible et candidate, Marine Le Pen veut imposer un débat de fond",
-   "url": "https://reporterre.net/Clim-fossiles-et-agro-industrie-l-ecologie-selon-Marine-Le-Pen",
-   "n_members": 45,
-   "n_sources": 22,
-   "counts": {
-    "left": 5,
-    "centre": 8,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 6,
-    "opinion": 7
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.423,
-   "category": "politique",
-   "terms_left": [
-    "condamnée",
-    "décision",
-    "malgré condamnation"
-   ],
-   "terms_right": [
-    "qu",
-    "campagne",
-    "rn"
-   ]
   },
   {
    "title": "Enfants et réseaux sociaux : des experts européens dévoilent leurs propositions",
@@ -531,7 +531,7 @@
   {
    "title": "\"C'était le chaos\" : en Thaïlande, l'incendie d'un bar fait au moins 27 morts",
    "url": "https://www.humanite.fr/environnement/feux-de-foret/incendie-au-portugal-labandon-des-campagnes-devient-un-terrain-fertile-pour-les-incendies",
-   "n_members": 48,
+   "n_members": 50,
    "n_sources": 21,
    "counts": {
     "left": 2,
@@ -545,16 +545,68 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.818,
+   "divergence": 0.822,
    "category": "international",
    "terms_left": [
     "longue"
    ],
    "terms_right": [
-    "bar",
+    "personnes",
     "incendie",
-    "bangkok"
+    "bar"
    ]
+  },
+  {
+   "title": "États-Unis: la police de l'immigration tue un Colombien de 26 ans dans le Maine",
+   "url": "https://www.leparisien.fr/faits-divers/diarrhee-explosive-une-epidemie-mysterieuse-frappe-plus-de-1-000-americains-dans-plus-de-la-moitie-du-pays-11-07-2026-VUYUQ5S5K5HNVEN7CMSM4NG6BY.php",
+   "n_members": 43,
+   "n_sources": 21,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 1
+   },
+   "blindspot_score": -0.333,
+   "blindspot_for": null,
+   "divergence": 0.615,
+   "category": "international",
+   "terms_left": [
+    "trump",
+    "etats-unis",
+    "colombien"
+   ],
+   "terms_right": [
+    "agent ice",
+    "qu",
+    "agent"
+   ]
+  },
+  {
+   "title": "Départs de feux: que risquent les auteurs d'incendies devant la justice?",
+   "url": "https://www.20minutes.fr/societe/4234081-20260711-canicule-14-juillet-rennes-orleans-limoges-aix-feux-artifice-annules-dizaines-villes",
+   "n_members": 58,
+   "n_sources": 20,
+   "counts": {
+    "left": 3,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.4,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "environnement",
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "La France va convoquer l'ambassadeur de Russie \"dans les prochains jours\" après \"une vaste campagne cyber\" menée par Moscou",
@@ -581,39 +633,9 @@
     "ukrainiens"
    ],
    "terms_right": [
-    "jean-noël",
     "jean-noël barrot",
+    "jean-noël",
     "barrot"
-   ]
-  },
-  {
-   "title": "États-Unis: la police de l'immigration tue un Colombien de 26 ans dans le Maine",
-   "url": "https://information.tv5monde.com/international/le-dernier-matin-de-lorenzo-salgado-un-reve-americain-fauche-2829566",
-   "n_members": 41,
-   "n_sources": 20,
-   "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": -0.333,
-   "blindspot_for": null,
-   "divergence": 0.615,
-   "category": "international",
-   "terms_left": [
-    "trump",
-    "etats-unis",
-    "colombien"
-   ],
-   "terms_right": [
-    "agent ice",
-    "qu",
-    "agent"
    ]
   },
   {
@@ -633,7 +655,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.353,
+   "divergence": 0.354,
    "category": "international",
    "terms_left": [
     "rendu",
@@ -675,28 +697,6 @@
     "qu",
     "paléontologue"
    ]
-  },
-  {
-   "title": "Départs de feux: que risquent les auteurs d'incendies devant la justice?",
-   "url": "https://www.20minutes.fr/societe/4234081-20260711-canicule-14-juillet-rennes-orleans-limoges-aix-feux-artifice-annules-dizaines-villes",
-   "n_members": 57,
-   "n_sources": 19,
-   "counts": {
-    "left": 2,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.556,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "environnement",
-   "terms_left": [],
-   "terms_right": []
   },
   {
    "title": "Présidentielle 2027 : Clémentine Autain prend acte de l’échec de la « primaire unitaire » de la gauche et renonce à être candidate",
@@ -797,7 +797,7 @@
   {
    "title": "Mondial 2026 : Angleterre élimine la Norvège et affrontera l'Argentine en demi-finales",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/norvege-angleterre-la-composition-des-equipes-pour-le-quart-de-finale-de-la-coupe-du-monde-11-07-2026-CVUMVWWP7ZDS3PSSYZQOX3TZSU.php",
-   "n_members": 48,
+   "n_members": 49,
    "n_sources": 16,
    "counts": {
     "left": 1,
@@ -817,47 +817,17 @@
    "terms_right": []
   },
   {
-   "title": "France-Espagne : \"C'est le match le plus important que je disputerai jamais\", assure Lamine Yamal",
-   "url": "https://www.franceinfo.fr/coupe-du-monde/l-espagne-rejoint-l-equipe-de-france-dans-le-dernier-carre-apres-sa-victoire-sur-le-fil-contre-la-belgique-en-quarts-de-finale-de-la-coupe-du-monde_8103353.html",
-   "n_members": 50,
-   "n_sources": 14,
-   "counts": {
-    "left": 2,
-    "centre": 8,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.795,
-   "category": "sport",
-   "terms_left": [
-    "roja",
-    "terrain",
-    "bleus"
-   ],
-   "terms_right": [
-    "espagne",
-    "sud",
-    "coupe monde"
-   ]
-  },
-  {
    "title": "France - Espagne : « Groupe qui vit bien », solidarité avec Deschamps… Comment expliquer l’énorme cohésion de ces Bleus ?",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/france-espagne-ces-statistiques-qui-ne-plaident-pas-en-faveur-des-bleus-avant-la-demi-finale-de-coupe-du-monde-11-07-2026-FFZKRR2HU5E6TCVYGHBS25YQ74.php",
-   "n_members": 34,
-   "n_sources": 14,
+   "n_members": 35,
+   "n_sources": 15,
    "counts": {
     "left": 2,
-    "centre": 6,
+    "centre": 7,
     "right": 6
    },
    "style_counts": {
-    "factuel": 7,
+    "factuel": 8,
     "mixte": 5,
     "opinion": 2
    },
@@ -877,9 +847,99 @@
    ]
   },
   {
+   "title": "France-Espagne : \"C'est le match le plus important que je disputerai jamais\", assure Lamine Yamal",
+   "url": "https://www.franceinfo.fr/coupe-du-monde/l-espagne-rejoint-l-equipe-de-france-dans-le-dernier-carre-apres-sa-victoire-sur-le-fil-contre-la-belgique-en-quarts-de-finale-de-la-coupe-du-monde_8103353.html",
+   "n_members": 52,
+   "n_sources": 14,
+   "counts": {
+    "left": 2,
+    "centre": 8,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 4,
+    "opinion": 1
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.786,
+   "category": "sport",
+   "terms_left": [
+    "roja",
+    "terrain",
+    "équipe"
+   ],
+   "terms_right": [
+    "espagne",
+    "coupe monde",
+    "coupe"
+   ]
+  },
+  {
+   "title": "Incendies: deux suspects ont reconnu leur implication dans les départs de feu à Fontainebleau",
+   "url": "https://contrepoints.org/feux-de-forets-la-faute-aux-constructeurs-automobiles/",
+   "n_members": 34,
+   "n_sources": 14,
+   "counts": {
+    "left": 3,
+    "centre": 5,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 6,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.873,
+   "category": "société",
+   "terms_left": [
+    "forêt",
+    "sinistre",
+    "feux"
+   ],
+   "terms_right": [
+    "incendies",
+    "feu",
+    "france"
+   ]
+  },
+  {
+   "title": "Tour de France 2026 : le nouveau récital de Tadej Pogacar qui s'offre l'étape du 14 juillet au Lioran",
+   "url": "https://www.ladepeche.fr/2026/07/13/tour-de-france-2026-ils-voyaient-bien-que-je-netais-pas-heureux-jonas-vingegaard-revele-avoir-voulu-prendre-sa-retraite-a-29-ans-il-ne-se-sentait-pas-13466801.php",
+   "n_members": 32,
+   "n_sources": 14,
+   "counts": {
+    "left": 3,
+    "centre": 8,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 8,
+    "mixte": 4,
+    "opinion": 2
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.655,
+   "category": "sport",
+   "terms_left": [
+    "cantal",
+    "français",
+    "aurillac"
+   ],
+   "terms_right": [
+    "tour",
+    "tour france",
+    "pogacar"
+   ]
+  },
+  {
    "title": "Ebola : l’ampleur de l’épidémie pourrait dépasser «de deux à quatre fois» les estimations officielles",
    "url": "https://www.lemonde.fr/afrique/article/2026/07/10/l-epidemie-d-ebola-toujours-hors-de-controle-se-propage-en-rdc-a-une-vitesse-record_6722502_3212.html",
-   "n_members": 19,
+   "n_members": 21,
    "n_sources": 14,
    "counts": {
     "left": 4,
@@ -893,7 +953,7 @@
    },
    "blindspot_score": -0.6,
    "blindspot_for": "droite",
-   "divergence": 0.513,
+   "divergence": 0.515,
    "category": "international",
    "terms_left": [
     "rdc",
@@ -929,6 +989,28 @@
    "terms_right": []
   },
   {
+   "title": "Près de 300 morts en juin, l'Ukraine enregistre son mois le plus meurtrier depuis 2022",
+   "url": "https://www.ouest-france.fr/meteo/canicule/angleterre-des-chercheurs-estiment-a-plus-de-2-700-les-deces-lies-a-la-chaleur-lors-des-recentes-canicules-17544bc2-7e47-11f1-a3cc-61ee167b6bba",
+   "n_members": 17,
+   "n_sources": 14,
+   "counts": {
+    "left": 1,
+    "centre": 9,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 3,
+    "opinion": 1
+   },
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "DIRECT. 10e étape du Tour de France 2026 : le peloton reprend la route après une journée de repos, bagarre entre cadors en vue entre Aurillac et le Lioran",
    "url": "https://www.leparisien.fr/sports/cyclisme/tour-de-france/tour-de-france-2026-etape-9-les-horaires-et-points-de-passage-de-la-caravane-entre-malemort-et-ussel-11-07-2026-RG2AEYIENRAXXGHWHZT3DQX24E.php",
    "n_members": 45,
@@ -951,34 +1033,26 @@
    "terms_right": []
   },
   {
-   "title": "DIRECT. Tour de France 2026 - 10e étape : vers un nouveau récital de Tadej Pogacar ? Suivez en direct l'étape entre Aurillac et Le Lioran",
-   "url": "https://www.ladepeche.fr/2026/07/13/tour-de-france-2026-ils-voyaient-bien-que-je-netais-pas-heureux-jonas-vingegaard-revele-avoir-voulu-prendre-sa-retraite-a-29-ans-il-ne-se-sentait-pas-13466801.php",
-   "n_members": 26,
+   "title": "Clermont-Ferrand : cinq blessés par balles près d'un point de deal",
+   "url": "https://www.nouvelobs.com/justice/20260711.OBS116580/affaire-jubillar-les-coulisses-des-aveux-qui-posent-plus-de-questions-qu-ils-n-apportent-de-reponses.html",
+   "n_members": 27,
    "n_sources": 13,
    "counts": {
-    "left": 3,
-    "centre": 7,
-    "right": 3
+    "left": 2,
+    "centre": 6,
+    "right": 5
    },
    "style_counts": {
-    "factuel": 7,
-    "mixte": 4,
+    "factuel": 8,
+    "mixte": 3,
     "opinion": 2
    },
-   "blindspot_score": 0.0,
+   "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.654,
-   "category": "sport",
-   "terms_left": [
-    "cantal",
-    "français",
-    "seixas"
-   ],
-   "terms_right": [
-    "jour",
-    "nouveau",
-    "grand"
-   ]
+   "divergence": 0.735,
+   "category": "faits-divers",
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "À peine sorti de prison, un homme récidive et viole une étudiante à Aix-en-Provence",
@@ -1003,89 +1077,23 @@
    "terms_right": []
   },
   {
-   "title": "Légion d'honneur : Natalie Portman, Christine Lagarde, Richard Malka... Ces personnalités distinguées ce 14 juillet",
-   "url": "https://www.ouest-france.fr/politique/institutions/legion-dhonneur/legion-dhonneur-natalie-portman-philippe-besson-pierre-arditi-les-personnalites-decorees-7fe696c2-7efb-11f1-a3cc-61ee167b6bba",
-   "n_members": 13,
-   "n_sources": 13,
-   "counts": {
-    "left": 0,
-    "centre": 7,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 7,
-    "mixte": 4,
-    "opinion": 2
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "société",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Incendies: deux suspects ont reconnu leur implication dans les départs de feu à Fontainebleau",
-   "url": "https://contrepoints.org/feux-de-forets-la-faute-aux-constructeurs-automobiles/",
-   "n_members": 31,
-   "n_sources": 12,
-   "counts": {
-    "left": 1,
-    "centre": 5,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 6,
-    "mixte": 4,
-    "opinion": 2
-   },
-   "blindspot_score": 0.714,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "société",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Présomption de légitime défense pour les forces de l'ordre : la LDH dénonce \"un permis de tuer\"",
-   "url": "https://www.nouvelobs.com/politique/20260710.OBS116561/la-petition-contre-la-proposition-de-loi-legitime-defense-pourra-t-elle-etre-discutee-a-l-assemblee-nationale.html",
-   "n_members": 13,
-   "n_sources": 12,
-   "counts": {
-    "left": 7,
-    "centre": 3,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 3,
-    "mixte": 5,
-    "opinion": 4
-   },
-   "blindspot_score": -0.556,
-   "blindspot_for": null,
-   "divergence": 0.658,
-   "category": "politique",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
    "title": "L'Odyssée : Christopher Nolan répond sur ses choix de casting et les critiques des internautes",
    "url": "https://www.mediapart.fr/journal/culture-et-idees/110726/l-odyssee-sort-au-cinema-et-ravive-la-question-de-la-race-sous-l-antiquite",
-   "n_members": 13,
-   "n_sources": 12,
+   "n_members": 14,
+   "n_sources": 13,
    "counts": {
     "left": 3,
-    "centre": 6,
+    "centre": 7,
     "right": 3
    },
    "style_counts": {
-    "factuel": 7,
+    "factuel": 8,
     "mixte": 3,
     "opinion": 2
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.7,
+   "divergence": 0.702,
    "category": "culture",
    "terms_left": [
     "adaptation",
