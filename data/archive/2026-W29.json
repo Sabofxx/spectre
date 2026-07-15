@@ -1,13 +1,13 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-15T20:03:40+00:00",
+ "generated_at": "2026-07-15T21:29:22+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "DIRECT. Feu en forêt de Fontainebleau: plus de 1.300 hectares parcourus par les flammes, les sapeurs-pompiers toujours à pied d'œuvre pour lutter contre l'incendie",
    "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/jusqua-4h20-de-retard-le-trafic-sncf-fortement-perturbe-sur-la-ligne-sud-est-entre-paris-et-marseille-a-cause-dun-incendie-12-07-2026-7E3R5IBOQNAXRDOH35X3TPSWTI.php",
-   "n_members": 261,
+   "n_members": 263,
    "n_sources": 34,
    "counts": {
     "left": 8,
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.327,
+   "divergence": 0.323,
    "category": "environnement",
    "terms_left": [
     "partis",
     "partis fumée",
-    "fumée"
+    "ile-de-france"
    ],
    "terms_right": [
     "incendie forêt",
@@ -37,37 +37,37 @@
   {
    "title": "Les députés doivent se prononcer sur la proposition de loi sur \"la fin de vie\", le Premier ministre annonce qu'il va saisir le Conseil constitutionnel",
    "url": "https://www.lemonde.fr/politique/article/2026/07/10/retraites-les-experts-du-comite-de-suivi-preconisent-de-brider-les-pensions-pour-sortir-d-une-situation-alarmante_6722403_823448.html",
-   "n_members": 146,
-   "n_sources": 31,
+   "n_members": 153,
+   "n_sources": 32,
    "counts": {
-    "left": 5,
+    "left": 6,
     "centre": 16,
     "right": 10
    },
    "style_counts": {
     "factuel": 17,
-    "mixte": 9,
+    "mixte": 10,
     "opinion": 5
    },
-   "blindspot_score": 0.333,
+   "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.27,
+   "divergence": 0.26,
    "category": "politique",
    "terms_left": [
-    "loi fin",
+    "malades",
     "quatrième",
-    "droite"
+    "loi fin"
    ],
    "terms_right": [
     "sébastien lecornu",
-    "sébastien",
-    "conseil"
+    "vote",
+    "sébastien"
    ]
   },
   {
    "title": "Coupe du monde 2026: la France, stoppée par le collectif espagnol, ne verra pas la finale",
    "url": "https://www.nouvelobs.com/sport/20260709.OBS116534/un-mannequin-de-mbappe-brule-bagarre-en-conference-de-presse-le-bulletin-de-la-coupe-du-monde-de-trump.html",
-   "n_members": 235,
+   "n_members": 236,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.381,
+   "divergence": 0.382,
    "category": "sport",
    "terms_left": [
     "roja",
@@ -127,7 +127,7 @@
   {
    "title": "Les États-Unis frappent à nouveau l'Iran et menace d'imposer un blocus dans le détroit d'Ormuz",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 164,
+   "n_members": 167,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.358,
+   "divergence": 0.366,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -150,14 +150,14 @@
    ],
    "terms_right": [
     "iran",
-    "états-unis",
-    "nouvelles frappes"
+    "frappes",
+    "états-unis"
    ]
   },
   {
    "title": "Canicule : les 26 départements en vigilance rouge basculeront en orange mercredi matin",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 209,
+   "n_members": 211,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.392,
+   "divergence": 0.394,
    "category": "environnement",
    "terms_left": [
     "fin",
@@ -180,8 +180,8 @@
    ],
    "terms_right": [
     "orange",
-    "vigilance orange",
-    "alerte"
+    "alerte",
+    "vigilance orange"
    ]
   },
   {
@@ -335,9 +335,9 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine : Ce que l’on sait du futur remaniement du gouvernement de Zelensky",
+   "title": "Remaniement ministériel en Ukraine : “Le gouvernement part, la crise de gouvernance reste”",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 86,
+   "n_members": 87,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -397,7 +397,7 @@
   {
    "title": "Livret A : il remonte pour la première depuis trois ans, le taux relevé à 1,7 % à partir du 1er août",
    "url": "https://www.liberation.fr/politique/presidentielle-les-ecologistes-rafraichissent-les-idees-dans-un-nouveau-programme-20260713_HLF46E75PVHLLDYAZTTQCARLLE/",
-   "n_members": 52,
+   "n_members": 53,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.652,
+   "divergence": 0.657,
    "category": "économie",
    "terms_left": [
     "protection",
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.611,
+   "divergence": 0.609,
    "category": "international",
    "terms_left": [
     "forêt",
@@ -451,7 +451,7 @@
    "terms_right": [
     "incendie espagne",
     "incendie",
-    "personnes"
+    "espagne"
    ]
   },
   {
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.472,
+   "divergence": 0.471,
    "category": "sport",
    "terms_left": [
     "ans",
@@ -487,7 +487,7 @@
   {
    "title": "Guerre au Moyen-Orient : les États-Unis rétablissent le blocus des ports iraniens",
    "url": "https://www.mediapart.fr/journal/international/100726/ni-guerre-ni-paix-pourquoi-les-etats-unis-et-l-iran-sont-pieges-dans-l-impasse-d-ormuz",
-   "n_members": 80,
+   "n_members": 81,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -511,7 +511,7 @@
    "terms_right": [
     "états-unis",
     "moyen-orient",
-    "guerre"
+    "iran"
    ]
   },
   {
@@ -547,7 +547,7 @@
   {
    "title": "États-Unis : les contrôles routiers de la police de l'immigration suspendus après une nouvelle mort par balle",
    "url": "https://www.leparisien.fr/faits-divers/diarrhee-explosive-une-epidemie-mysterieuse-frappe-plus-de-1-000-americains-dans-plus-de-la-moitie-du-pays-11-07-2026-VUYUQ5S5K5HNVEN7CMSM4NG6BY.php",
-   "n_members": 64,
+   "n_members": 65,
    "n_sources": 24,
    "counts": {
     "left": 7,
@@ -643,7 +643,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.843,
+   "divergence": 0.822,
    "category": "faits-divers",
    "terms_left": [
     "longue"
@@ -655,9 +655,39 @@
    ]
   },
   {
+   "title": "Les prix du gazole dépassent les 2 euros en France",
+   "url": "https://www.ladepeche.fr/2026/07/12/prix-du-carburant-limpact-peut-etre-terrible-les-automobilistes-vont-ils-payer-plus-cher-leur-plein-dessence-pour-partir-en-vacances-avec-les-tensions-13465659.php",
+   "n_members": 44,
+   "n_sources": 22,
+   "counts": {
+    "left": 3,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.455,
+   "blindspot_for": null,
+   "divergence": 0.846,
+   "category": "économie",
+   "terms_left": [
+    "économistes",
+    "déficit",
+    "gouvernement"
+   ],
+   "terms_right": [
+    "prix",
+    "france",
+    "euros"
+   ]
+  },
+  {
    "title": "Pourquoi il faut aller voir la brillante adaptation de « L’Odyssée » par Christopher Nolan",
    "url": "https://www.mediapart.fr/journal/culture-et-idees/110726/l-odyssee-sort-au-cinema-et-ravive-la-question-de-la-race-sous-l-antiquite",
-   "n_members": 42,
+   "n_members": 43,
    "n_sources": 22,
    "counts": {
     "left": 8,
@@ -671,7 +701,7 @@
    },
    "blindspot_score": -0.455,
    "blindspot_for": null,
-   "divergence": 0.443,
+   "divergence": 0.444,
    "category": "culture",
    "terms_left": [
     "voir",
@@ -739,7 +769,7 @@
   {
    "title": "Affaire Lyhanna : la Chancellerie s'apprête à publier le bilan du réexamen des 88.000 plaintes pour violences sur mineurs",
    "url": "https://www.lemonde.fr/societe/article/2026/07/10/patrick-bruel-vise-par-une-nouvelle-plainte-pour-viol_6722508_3224.html",
-   "n_members": 58,
+   "n_members": 61,
    "n_sources": 21,
    "counts": {
     "left": 4,
@@ -753,7 +783,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.598,
+   "divergence": 0.602,
    "category": "faits-divers",
    "terms_left": [
     "plainte",
@@ -799,7 +829,7 @@
   {
    "title": "Départs de feux: que risquent les auteurs d'incendies devant la justice?",
    "url": "https://www.20minutes.fr/societe/4234081-20260711-canicule-14-juillet-rennes-orleans-limoges-aix-feux-artifice-annules-dizaines-villes",
-   "n_members": 61,
+   "n_members": 62,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -813,7 +843,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.55,
+   "divergence": 0.545,
    "category": "environnement",
    "terms_left": [
     "départs feu",
@@ -851,10 +881,32 @@
     "morts"
    ],
    "terms_right": [
-    "jean-noël",
     "barrot",
-    "jean-noël barrot"
+    "jean-noël barrot",
+    "jean-noël"
    ]
+  },
+  {
+   "title": "L’Europe prolonge l’accueil des réfugiés ukrainiens d’un an mais exclut les hommes mobilisables",
+   "url": "https://www.alternatives-economiques.fr/vieillissement-et-regles-budgetaires-europeennes-la-drole-d-equation-de-la-commission",
+   "n_members": 32,
+   "n_sources": 20,
+   "counts": {
+    "left": 1,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 4,
+    "opinion": 1
+   },
+   "blindspot_score": 0.714,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Mort du sénateur américain Lindsey Graham, un allié de Donald Trump",
@@ -911,7 +963,7 @@
   {
    "title": "\"Ça s'appelle des pyromanes\" : le profil déroutant des incendiaires impliqués dans les feux de forêt",
    "url": "https://contrepoints.org/feux-de-forets-la-faute-aux-constructeurs-automobiles/",
-   "n_members": 77,
+   "n_members": 78,
    "n_sources": 19,
    "counts": {
     "left": 4,
@@ -939,6 +991,36 @@
    ]
   },
   {
+   "title": "Présidentielle 2027 : Elon Musk apporte son soutien à Marine Le Pen, estimant qu’elle « est le dernier espoir de la France »",
+   "url": "https://www.publicsenat.fr/actualites/parlementaire/zones-grises-de-linformation-le-senat-veut-muscler-la-lutte-contre-la-desinformation-avant-2027",
+   "n_members": 28,
+   "n_sources": 19,
+   "counts": {
+    "left": 3,
+    "centre": 6,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 7,
+    "mixte": 7,
+    "opinion": 5
+   },
+   "blindspot_score": 0.538,
+   "blindspot_for": null,
+   "divergence": 0.817,
+   "category": "politique",
+   "terms_left": [
+    "stérin",
+    "financement",
+    "privé"
+   ],
+   "terms_right": [
+    "présidentielle",
+    "pen",
+    "français"
+   ]
+  },
+  {
    "title": "Rave-party illégale dans le Morbihan : 2.000 participants selon un nouveau décompte",
    "url": "https://www.leparisien.fr/meteo/typhon-bavi-pres-dun-million-de-personnes-evacuees-en-chine-avant-limpact-sur-wenzhou-11-07-2026-ISQOPUO3YFD7RLSBA2RR6BFDYI.php",
    "n_members": 57,
@@ -961,31 +1043,39 @@
    "terms_right": []
   },
   {
-   "title": "L’Europe prolonge l’accueil des réfugiés ukrainiens d’un an mais exclut les hommes mobilisables",
-   "url": "https://www.alternatives-economiques.fr/vieillissement-et-regles-budgetaires-europeennes-la-drole-d-equation-de-la-commission",
-   "n_members": 28,
+   "title": "Incendies à Fontainebleau: une reprise de feu près de l'A6",
+   "url": "https://www.lejdd.fr/Societe/eure-une-eglise-sauvee-des-flammes-par-trois-adolescent-178761",
+   "n_members": 46,
    "n_sources": 18,
    "counts": {
-    "left": 1,
-    "centre": 12,
+    "left": 3,
+    "centre": 10,
     "right": 5
    },
    "style_counts": {
-    "factuel": 13,
-    "mixte": 4,
+    "factuel": 11,
+    "mixte": 6,
     "opinion": 1
    },
-   "blindspot_score": 0.667,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.85,
+   "category": "environnement",
+   "terms_left": [
+    "massif",
+    "eau",
+    "histoire"
+   ],
+   "terms_right": [
+    "ans",
+    "incendie",
+    "feu"
+   ]
   },
   {
-   "title": "Angleterre-Argentine : une demi-finale du Mondial-2026 sous haute tension",
+   "title": "Coupe du monde 2026 : l'Argentine renverse l'Angleterre dans les derniers instants et file en finale",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/norvege-angleterre-la-composition-des-equipes-pour-le-quart-de-finale-de-la-coupe-du-monde-11-07-2026-CVUMVWWP7ZDS3PSSYZQOX3TZSU.php",
-   "n_members": 75,
+   "n_members": 83,
    "n_sources": 17,
    "counts": {
     "left": 1,
@@ -999,7 +1089,7 @@
    },
    "blindspot_score": 0.667,
    "blindspot_for": "gauche",
-   "divergence": 0.675,
+   "divergence": 0.671,
    "category": "sport",
    "terms_left": [
     "monde angleterre",
@@ -1009,7 +1099,7 @@
    "terms_right": [
     "finale",
     "angleterre",
-    "sud"
+    "espagne"
    ]
   },
   {
@@ -1043,36 +1133,6 @@
    ]
   },
   {
-   "title": "Incendies à Fontainebleau: une reprise de feu près de l'A6",
-   "url": "https://www.lejdd.fr/Societe/eure-une-eglise-sauvee-des-flammes-par-trois-adolescent-178761",
-   "n_members": 45,
-   "n_sources": 17,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.85,
-   "category": "environnement",
-   "terms_left": [
-    "massif",
-    "eau",
-    "histoire"
-   ],
-   "terms_right": [
-    "ans",
-    "incendie",
-    "feu"
-   ]
-  },
-  {
    "title": "Mondial 2026 : le milieu sud-africain Jayden Adams retrouvé mort à 25 ans",
    "url": "https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-2026-le-selectionneur-de-l-argentine-rejette-les-accusations-de-favoritisme-envers-lionel-messi-et-ses-coequipiers_8104103.html",
    "n_members": 40,
@@ -1091,50 +1151,6 @@
    "blindspot_for": "gauche",
    "divergence": null,
    "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Les prix du gazole dépassent les 2 euros en France",
-   "url": "https://www.ladepeche.fr/2026/07/12/prix-du-carburant-limpact-peut-etre-terrible-les-automobilistes-vont-ils-payer-plus-cher-leur-plein-dessence-pour-partir-en-vacances-avec-les-tensions-13465659.php",
-   "n_members": 34,
-   "n_sources": 17,
-   "counts": {
-    "left": 1,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.75,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "économie",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Emmanuel Macron, Donald Trump... Un média iranien publie une «liste de ceux qui doivent s'attendre à la vengeance»",
-   "url": "https://www.liberation.fr/international/moyen-orient/en-iran-labsence-du-nouveau-guide-supreme-aiguise-les-rivalites-au-sein-du-pouvoir-20260710_PIR3PG75ONBYTCW3DAAP3W2OW4/",
-   "n_members": 27,
-   "n_sources": 17,
-   "counts": {
-    "left": 2,
-    "centre": 10,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 5,
-    "opinion": 1
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": 0.473,
-   "category": "international",
    "terms_left": [],
    "terms_right": []
   }
