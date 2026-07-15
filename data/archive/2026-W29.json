@@ -1,13 +1,13 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-15T18:37:38+00:00",
+ "generated_at": "2026-07-15T20:03:40+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "DIRECT. Feu en forêt de Fontainebleau: plus de 1.300 hectares parcourus par les flammes, les sapeurs-pompiers toujours à pied d'œuvre pour lutter contre l'incendie",
    "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/jusqua-4h20-de-retard-le-trafic-sncf-fortement-perturbe-sur-la-ligne-sud-est-entre-paris-et-marseille-a-cause-dun-incendie-12-07-2026-7E3R5IBOQNAXRDOH35X3TPSWTI.php",
-   "n_members": 256,
+   "n_members": 261,
    "n_sources": 34,
    "counts": {
     "left": 8,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.33,
+   "divergence": 0.327,
    "category": "environnement",
    "terms_left": [
     "partis",
@@ -35,9 +35,9 @@
    ]
   },
   {
-   "title": "Fin de vie : Sébastien Lecornu va saisir le Conseil constitutionnel sur le texte",
+   "title": "Les députés doivent se prononcer sur la proposition de loi sur \"la fin de vie\", le Premier ministre annonce qu'il va saisir le Conseil constitutionnel",
    "url": "https://www.lemonde.fr/politique/article/2026/07/10/retraites-les-experts-du-comite-de-suivi-preconisent-de-brider-les-pensions-pour-sortir-d-une-situation-alarmante_6722403_823448.html",
-   "n_members": 132,
+   "n_members": 146,
    "n_sources": 31,
    "counts": {
     "left": 5,
@@ -51,17 +51,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.303,
+   "divergence": 0.27,
    "category": "politique",
    "terms_left": [
-    "droite",
+    "loi fin",
     "quatrième",
-    "loi fin"
+    "droite"
    ],
    "terms_right": [
-    "assemblée",
-    "texte",
-    "adopté"
+    "sébastien lecornu",
+    "sébastien",
+    "conseil"
    ]
   },
   {
@@ -111,12 +111,12 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.766,
+   "divergence": 0.772,
    "category": "environnement",
    "terms_left": [
+    "canicule",
     "tour",
-    "raison",
-    "canicule"
+    "eau"
    ],
    "terms_right": [
     "santé",
@@ -127,7 +127,7 @@
   {
    "title": "Les États-Unis frappent à nouveau l'Iran et menace d'imposer un blocus dans le détroit d'Ormuz",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 162,
+   "n_members": 164,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -157,7 +157,7 @@
   {
    "title": "Canicule : les 26 départements en vigilance rouge basculeront en orange mercredi matin",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 207,
+   "n_members": 209,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -180,8 +180,8 @@
    ],
    "terms_right": [
     "orange",
-    "alerte",
-    "départements"
+    "vigilance orange",
+    "alerte"
    ]
   },
   {
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.324,
+   "divergence": 0.32,
    "category": "société",
    "terms_left": [
     "sécurité",
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.978,
+   "divergence": 0.977,
    "category": "international",
    "terms_left": [
     "européen",
@@ -335,9 +335,9 @@
    ]
   },
   {
-   "title": "Ukraine : Zelensky annonce un remaniement gouvernemental, voici ce que l’on sait",
+   "title": "Guerre en Ukraine : Ce que l’on sait du futur remaniement du gouvernement de Zelensky",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 85,
+   "n_members": 86,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.839,
+   "divergence": 0.84,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.351,
+   "divergence": 0.352,
    "category": "politique",
    "terms_left": [
     "candidate",
@@ -392,6 +392,36 @@
     "parquet général",
     "général",
     "rn"
+   ]
+  },
+  {
+   "title": "Livret A : il remonte pour la première depuis trois ans, le taux relevé à 1,7 % à partir du 1er août",
+   "url": "https://www.liberation.fr/politique/presidentielle-les-ecologistes-rafraichissent-les-idees-dans-un-nouveau-programme-20260713_HLF46E75PVHLLDYAZTTQCARLLE/",
+   "n_members": 52,
+   "n_sources": 25,
+   "counts": {
+    "left": 6,
+    "centre": 10,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.652,
+   "category": "économie",
+   "terms_left": [
+    "protection",
+    "programme",
+    "écologistes"
+   ],
+   "terms_right": [
+    "taux",
+    "livret",
+    "france"
    ]
   },
   {
@@ -441,7 +471,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.471,
+   "divergence": 0.472,
    "category": "sport",
    "terms_left": [
     "ans",
@@ -501,7 +531,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.608,
+   "divergence": 0.609,
    "category": "international",
    "terms_left": [
     "défense",
@@ -561,7 +591,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.489,
+   "divergence": 0.49,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -707,6 +737,36 @@
    "terms_right": []
   },
   {
+   "title": "Affaire Lyhanna : la Chancellerie s'apprête à publier le bilan du réexamen des 88.000 plaintes pour violences sur mineurs",
+   "url": "https://www.lemonde.fr/societe/article/2026/07/10/patrick-bruel-vise-par-une-nouvelle-plainte-pour-viol_6722508_3224.html",
+   "n_members": 58,
+   "n_sources": 21,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 1
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.598,
+   "category": "faits-divers",
+   "terms_left": [
+    "plainte",
+    "visé",
+    "patrick"
+   ],
+   "terms_right": [
+    "barella",
+    "jérôme",
+    "jérôme barella"
+   ]
+  },
+  {
    "title": "La France dans une situation de sécheresse «exceptionnelle» et «très préoccupante»",
    "url": "https://reporterre.net/Ne-nous-oubliez-pas-apres-les-canicules-des-milliers-de-sinistres-climatiques",
    "n_members": 35,
@@ -791,9 +851,9 @@
     "morts"
    ],
    "terms_right": [
-    "jean-noël barrot",
     "jean-noël",
-    "barrot"
+    "barrot",
+    "jean-noël barrot"
    ]
   },
   {
@@ -851,7 +911,7 @@
   {
    "title": "\"Ça s'appelle des pyromanes\" : le profil déroutant des incendiaires impliqués dans les feux de forêt",
    "url": "https://contrepoints.org/feux-de-forets-la-faute-aux-constructeurs-automobiles/",
-   "n_members": 74,
+   "n_members": 77,
    "n_sources": 19,
    "counts": {
     "left": 4,
@@ -865,17 +925,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.771,
+   "divergence": 0.762,
    "category": "faits-divers",
    "terms_left": [
+    "sinistre",
     "risque",
-    "criminelle",
-    "incendie"
+    "criminelle"
    ],
    "terms_right": [
     "incendies",
     "feu",
-    "ans"
+    "départs"
    ]
   },
   {
@@ -901,69 +961,9 @@
    "terms_right": []
   },
   {
-   "title": "Affaire Lyhanna : la Chancellerie s'apprête à publier le bilan du réexamen des 88.000 plaintes pour violences sur mineurs",
-   "url": "https://www.lemonde.fr/societe/article/2026/07/10/patrick-bruel-vise-par-une-nouvelle-plainte-pour-viol_6722508_3224.html",
-   "n_members": 49,
-   "n_sources": 18,
-   "counts": {
-    "left": 4,
-    "centre": 8,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 7,
-    "opinion": 1
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.603,
-   "category": "faits-divers",
-   "terms_left": [
-    "sexuelles",
-    "plainte",
-    "visé"
-   ],
-   "terms_right": [
-    "jérôme barella",
-    "barella",
-    "jérôme"
-   ]
-  },
-  {
-   "title": "Livret A : il remonte pour la première depuis trois ans, le taux relevé à 1,7 % à partir du 1er août",
-   "url": "https://www.sudouest.fr/economie/epargne-de-combien-va-augmenter-le-livret-a-en-aout-29914036.php",
-   "n_members": 29,
-   "n_sources": 18,
-   "counts": {
-    "left": 2,
-    "centre": 8,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": 0.377,
-   "category": "économie",
-   "terms_left": [
-    "populaire",
-    "épargne populaire",
-    "livret épargne"
-   ],
-   "terms_right": [
-    "banque france",
-    "banque",
-    "france"
-   ]
-  },
-  {
    "title": "L’Europe prolonge l’accueil des réfugiés ukrainiens d’un an mais exclut les hommes mobilisables",
    "url": "https://www.alternatives-economiques.fr/vieillissement-et-regles-budgetaires-europeennes-la-drole-d-equation-de-la-commission",
-   "n_members": 27,
+   "n_members": 28,
    "n_sources": 18,
    "counts": {
     "left": 1,
@@ -985,7 +985,7 @@
   {
    "title": "Angleterre-Argentine : une demi-finale du Mondial-2026 sous haute tension",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/norvege-angleterre-la-composition-des-equipes-pour-le-quart-de-finale-de-la-coupe-du-monde-11-07-2026-CVUMVWWP7ZDS3PSSYZQOX3TZSU.php",
-   "n_members": 74,
+   "n_members": 75,
    "n_sources": 17,
    "counts": {
     "left": 1,
@@ -999,23 +999,23 @@
    },
    "blindspot_score": 0.667,
    "blindspot_for": "gauche",
-   "divergence": 0.687,
+   "divergence": 0.675,
    "category": "sport",
    "terms_left": [
     "monde angleterre",
     "ans",
-    "demi-finale"
+    "football"
    ],
    "terms_right": [
     "finale",
-    "sud",
-    "radio"
+    "angleterre",
+    "sud"
    ]
   },
   {
    "title": "Tour de France 2026 : le nouveau récital de Tadej Pogacar qui s'offre l'étape du 14 juillet au Lioran",
    "url": "https://www.cnews.fr/sport/2026-07-12/tour-de-france-2026-un-ancien-vainqueur-detape-sest-casse-une-dent-avec-un-bidon",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 17,
    "counts": {
     "left": 3,
@@ -1040,6 +1040,36 @@
     "tour",
     "tour france",
     "france"
+   ]
+  },
+  {
+   "title": "Incendies à Fontainebleau: une reprise de feu près de l'A6",
+   "url": "https://www.lejdd.fr/Societe/eure-une-eglise-sauvee-des-flammes-par-trois-adolescent-178761",
+   "n_members": 45,
+   "n_sources": 17,
+   "counts": {
+    "left": 3,
+    "centre": 9,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 6,
+    "opinion": 1
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.85,
+   "category": "environnement",
+   "terms_left": [
+    "massif",
+    "eau",
+    "histoire"
+   ],
+   "terms_right": [
+    "ans",
+    "incendie",
+    "feu"
    ]
   },
   {
@@ -1107,36 +1137,6 @@
    "category": "international",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Affaire du petit Grégory : la justice déclare prescrits les faits reprochés à la grand-tante Jacqueline Jacob",
-   "url": "https://www.tf1info.fr/justice-faits-divers/affaire-gregory-villemin-jacqueline-jacob-la-justice-livre-ce-mercredi-sa-decision-sur-la-mise-en-examen-de-la-grand-tante-du-petit-garcon-2453154.html",
-   "n_members": 20,
-   "n_sources": 17,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 7,
-    "opinion": 0
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.37,
-   "category": "faits-divers",
-   "terms_left": [
-    "écrit",
-    "lettre",
-    "reprochés jacqueline"
-   ],
-   "terms_right": [
-    "grand-tante",
-    "reprochés grand-tante",
-    "mise"
-   ]
   }
  ]
 }
