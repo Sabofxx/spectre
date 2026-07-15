@@ -1,6 +1,6 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-14T23:27:15+00:00",
+ "generated_at": "2026-07-15T00:13:08+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.797,
+   "divergence": 0.796,
    "category": "environnement",
    "terms_left": [
     "face",
@@ -97,7 +97,7 @@
   {
    "title": "Coupe du monde 2026: la France, stoppée par le collectif espagnol, ne verra pas la finale",
    "url": "https://www.nouvelobs.com/sport/20260709.OBS116534/un-mannequin-de-mbappe-brule-bagarre-en-conference-de-presse-le-bulletin-de-la-coupe-du-monde-de-trump.html",
-   "n_members": 196,
+   "n_members": 198,
    "n_sources": 28,
    "counts": {
     "left": 5,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.446,
+   "divergence": 0.447,
    "category": "sport",
    "terms_left": [
     "face",
@@ -261,17 +261,47 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.835,
+   "divergence": 0.841,
    "category": "international",
    "terms_left": [
     "guerre",
     "espagne",
-    "qu"
+    "européenne"
    ],
    "terms_right": [
     "morts",
     "gouvernement",
     "ministre"
+   ]
+  },
+  {
+   "title": "Fin de vie : Sébastien Lecornu va saisir le Conseil constitutionnel sur le texte",
+   "url": "https://www.lemonde.fr/politique/article/2026/07/10/retraites-les-experts-du-comite-de-suivi-preconisent-de-brider-les-pensions-pour-sortir-d-une-situation-alarmante_6722403_823448.html",
+   "n_members": 64,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.552,
+   "category": "politique",
+   "terms_left": [
+    "droite",
+    "veut",
+    "loi fin"
+   ],
+   "terms_right": [
+    "assemblée",
+    "nationale",
+    "assemblée nationale"
    ]
   },
   {
@@ -291,7 +321,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.477,
+   "divergence": 0.478,
    "category": "politique",
    "terms_left": [
     "festival avignon",
@@ -392,36 +422,6 @@
     "états-unis",
     "iran",
     "moyen-orient"
-   ]
-  },
-  {
-   "title": "Fin de vie : Sébastien Lecornu va saisir le Conseil constitutionnel sur le texte",
-   "url": "https://www.lemonde.fr/politique/article/2026/07/10/retraites-les-experts-du-comite-de-suivi-preconisent-de-brider-les-pensions-pour-sortir-d-une-situation-alarmante_6722403_823448.html",
-   "n_members": 62,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.558,
-   "category": "politique",
-   "terms_left": [
-    "droite",
-    "sociétale",
-    "veut"
-   ],
-   "terms_right": [
-    "assemblée",
-    "nationale",
-    "assemblée nationale"
    ]
   },
   {
@@ -655,7 +655,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.353,
+   "divergence": 0.354,
    "category": "international",
    "terms_left": [
     "rendu",
@@ -752,8 +752,8 @@
   },
   {
    "title": "Tour de France 2026 : le nouveau récital de Tadej Pogacar qui s'offre l'étape du 14 juillet au Lioran",
-   "url": "https://www.leparisien.fr/sports/cyclisme/tour-de-france/tour-de-france-superieur-au-sprint-mathieu-van-der-poel-remporte-la-9e-etape-en-patron-12-07-2026-MCCUDHRBTRBAPPKZHGLPOYZB54.php",
-   "n_members": 48,
+   "url": "https://www.cnews.fr/sport/2026-07-12/tour-de-france-2026-un-ancien-vainqueur-detape-sest-casse-une-dent-avec-un-bidon",
+   "n_members": 49,
    "n_sources": 17,
    "counts": {
     "left": 3,
@@ -767,7 +767,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.65,
+   "divergence": 0.653,
    "category": "sport",
    "terms_left": [
     "cantal",
@@ -825,9 +825,31 @@
    "terms_right": []
   },
   {
+   "title": "Près de 300 morts en juin, l'Ukraine enregistre son mois le plus meurtrier depuis 2022",
+   "url": "https://information.tv5monde.com/international/video/venezuela-la-colere-des-sinistres-2830018",
+   "n_members": 27,
+   "n_sources": 17,
+   "counts": {
+    "left": 2,
+    "centre": 10,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 5,
+    "opinion": 1
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "\"On n'a pas joué, pour moi il y avait pas d'envie\": la déception des supporters des Bleus au coup de sifflet final du match France-Espagne",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/france-espagne-ces-statistiques-qui-ne-plaident-pas-en-faveur-des-bleus-avant-la-demi-finale-de-coupe-du-monde-11-07-2026-FFZKRR2HU5E6TCVYGHBS25YQ74.php",
-   "n_members": 56,
+   "n_members": 59,
    "n_sources": 16,
    "counts": {
     "left": 2,
@@ -841,7 +863,7 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.872,
+   "divergence": 0.837,
    "category": "sport",
    "terms_left": [
     "france",
@@ -849,9 +871,9 @@
     "foot"
    ],
    "terms_right": [
-    "équipe",
-    "espagne",
-    "équipe france"
+    "monde",
+    "coupe",
+    "coupe monde"
    ]
   },
   {
@@ -877,26 +899,34 @@
    "terms_right": []
   },
   {
-   "title": "Près de 300 morts en juin, l'Ukraine enregistre son mois le plus meurtrier depuis 2022",
-   "url": "https://information.tv5monde.com/international/video/venezuela-la-colere-des-sinistres-2830018",
-   "n_members": 23,
+   "title": "Incendies à Fontainebleau: les deux feux désormais \"fixés\", la crainte de reprises de feu toujours présente",
+   "url": "https://contrepoints.org/feux-de-forets-la-faute-aux-constructeurs-automobiles/",
+   "n_members": 43,
    "n_sources": 16,
    "counts": {
-    "left": 2,
-    "centre": 10,
-    "right": 4
+    "left": 4,
+    "centre": 5,
+    "right": 7
    },
    "style_counts": {
-    "factuel": 11,
-    "mixte": 4,
-    "opinion": 1
+    "factuel": 6,
+    "mixte": 8,
+    "opinion": 2
    },
-   "blindspot_score": 0.333,
+   "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
+   "divergence": 0.83,
+   "category": "environnement",
+   "terms_left": [
+    "risque",
+    "criminelle",
+    "origine"
+   ],
+   "terms_right": [
+    "incendies",
+    "feu",
+    "départs"
+   ]
   },
   {
    "title": "Finale coupe du monde, menace Yamal, ambition bleue : les vérités de Deschamps avant France-Espagne",
@@ -915,7 +945,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.79,
+   "divergence": 0.791,
    "category": "sport",
    "terms_left": [
     "roja",
@@ -929,34 +959,26 @@
    ]
   },
   {
-   "title": "Incendies à Fontainebleau: les deux feux désormais \"fixés\", la crainte de reprises de feu toujours présente",
-   "url": "https://contrepoints.org/feux-de-forets-la-faute-aux-constructeurs-automobiles/",
-   "n_members": 42,
-   "n_sources": 15,
+   "title": "Aix-en-Provence : sorti de prison depuis un mois, un homme récidive et viole une étudiante",
+   "url": "https://www.ladepeche.fr/2026/07/11/elle-prenait-lair-a-cause-de-la-chaleur-une-etudiante-de-21-ans-a-ete-enlevee-et-violee-sous-la-menace-dun-couteau-le-suspect-est-un-violeur-en-serie-13464920.php",
+   "n_members": 31,
+   "n_sources": 14,
    "counts": {
-    "left": 4,
-    "centre": 5,
-    "right": 6
+    "left": 1,
+    "centre": 8,
+    "right": 5
    },
    "style_counts": {
-    "factuel": 6,
-    "mixte": 7,
-    "opinion": 2
+    "factuel": 10,
+    "mixte": 3,
+    "opinion": 1
    },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.836,
-   "category": "environnement",
-   "terms_left": [
-    "criminelle",
-    "origine",
-    "incendie"
-   ],
-   "terms_right": [
-    "incendies",
-    "feu",
-    "départs"
-   ]
+   "blindspot_score": 0.667,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "faits-divers",
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Ebola : l’ampleur de l’épidémie pourrait dépasser «de deux à quatre fois» les estimations officielles",
@@ -1081,28 +1103,6 @@
    "blindspot_for": "gauche",
    "divergence": null,
    "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Clermont-Ferrand : cinq blessés par balles près d'un point de deal",
-   "url": "https://www.nouvelobs.com/justice/20260711.OBS116580/affaire-jubillar-les-coulisses-des-aveux-qui-posent-plus-de-questions-qu-ils-n-apportent-de-reponses.html",
-   "n_members": 30,
-   "n_sources": 13,
-   "counts": {
-    "left": 2,
-    "centre": 6,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 8,
-    "mixte": 3,
-    "opinion": 2
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": 0.735,
-   "category": "faits-divers",
    "terms_left": [],
    "terms_right": []
   }
