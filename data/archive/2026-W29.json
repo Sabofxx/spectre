@@ -1,6 +1,6 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-15T22:30:05+00:00",
+ "generated_at": "2026-07-15T23:29:20+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -605,6 +605,36 @@
    ]
   },
   {
+   "title": "L’Europe prolonge l’accueil des réfugiés ukrainiens d’un an mais exclut les hommes mobilisables",
+   "url": "https://reporterre.net/Canal-Seine-Nord-Europe-un-chantier-titanesque-dont-personne-ne-sait-a-quoi-il-doit",
+   "n_members": 38,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.969,
+   "category": "international",
+   "terms_left": [
+    "europe",
+    "projet",
+    "canal"
+   ],
+   "terms_right": [
+    "pays",
+    "européenne",
+    "ukraine"
+   ]
+  },
+  {
    "title": "INFO E1 - Sarcelles : le Parquet national antiterroriste se saisit après la découverte d'armes dans un véhicule",
    "url": "https://www.mediapart.fr/journal/ecologie/100726/incendie-de-die-des-evacuations-chaotiques-et-une-communication-verrouillee",
    "n_members": 63,
@@ -673,7 +703,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.822,
+   "divergence": 0.824,
    "category": "faits-divers",
    "terms_left": [
     "longue"
@@ -881,32 +911,70 @@
     "morts"
    ],
    "terms_right": [
-    "barrot",
     "jean-noël barrot",
-    "jean-noël"
+    "jean-noël",
+    "barrot"
    ]
   },
   {
-   "title": "L’Europe prolonge l’accueil des réfugiés ukrainiens d’un an mais exclut les hommes mobilisables",
-   "url": "https://www.alternatives-economiques.fr/vieillissement-et-regles-budgetaires-europeennes-la-drole-d-equation-de-la-commission",
-   "n_members": 33,
+   "title": "Incendies à Fontainebleau: une reprise de feu près de l'A6",
+   "url": "https://www.lejdd.fr/Societe/eure-une-eglise-sauvee-des-flammes-par-trois-adolescent-178761",
+   "n_members": 50,
    "n_sources": 20,
    "counts": {
-    "left": 1,
-    "centre": 13,
-    "right": 6
+    "left": 3,
+    "centre": 12,
+    "right": 5
    },
    "style_counts": {
-    "factuel": 15,
-    "mixte": 4,
+    "factuel": 13,
+    "mixte": 6,
     "opinion": 1
    },
-   "blindspot_score": 0.714,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.848,
+   "category": "environnement",
+   "terms_left": [
+    "massif",
+    "eau",
+    "histoire"
+   ],
+   "terms_right": [
+    "ans",
+    "incendie",
+    "feu"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : Elon Musk apporte son soutien à Marine Le Pen, estimant qu’elle « est le dernier espoir de la France »",
+   "url": "https://www.publicsenat.fr/actualites/parlementaire/zones-grises-de-linformation-le-senat-veut-muscler-la-lutte-contre-la-desinformation-avant-2027",
+   "n_members": 30,
+   "n_sources": 20,
+   "counts": {
+    "left": 4,
+    "centre": 6,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 7,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.81,
+   "category": "politique",
+   "terms_left": [
+    "stérin",
+    "financement",
+    "privé"
+   ],
+   "terms_right": [
+    "elon musk",
+    "elon",
+    "musk"
+   ]
   },
   {
    "title": "Mort du sénateur américain Lindsey Graham, un allié de Donald Trump",
@@ -991,66 +1059,6 @@
    ]
   },
   {
-   "title": "Incendies à Fontainebleau: une reprise de feu près de l'A6",
-   "url": "https://www.lejdd.fr/Societe/eure-une-eglise-sauvee-des-flammes-par-trois-adolescent-178761",
-   "n_members": 47,
-   "n_sources": 19,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.85,
-   "category": "environnement",
-   "terms_left": [
-    "massif",
-    "eau",
-    "histoire"
-   ],
-   "terms_right": [
-    "ans",
-    "incendie",
-    "feu"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : Elon Musk apporte son soutien à Marine Le Pen, estimant qu’elle « est le dernier espoir de la France »",
-   "url": "https://www.publicsenat.fr/actualites/parlementaire/zones-grises-de-linformation-le-senat-veut-muscler-la-lutte-contre-la-desinformation-avant-2027",
-   "n_members": 29,
-   "n_sources": 19,
-   "counts": {
-    "left": 3,
-    "centre": 6,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 7,
-    "mixte": 7,
-    "opinion": 5
-   },
-   "blindspot_score": 0.538,
-   "blindspot_for": null,
-   "divergence": 0.814,
-   "category": "politique",
-   "terms_left": [
-    "stérin",
-    "financement",
-    "privé"
-   ],
-   "terms_right": [
-    "présidentielle",
-    "pen",
-    "français"
-   ]
-  },
-  {
    "title": "Rave-party illégale dans le Morbihan : 2.000 participants selon un nouveau décompte",
    "url": "https://www.leparisien.fr/meteo/typhon-bavi-pres-dun-million-de-personnes-evacuees-en-chine-avant-limpact-sur-wenzhou-11-07-2026-ISQOPUO3YFD7RLSBA2RR6BFDYI.php",
    "n_members": 57,
@@ -1075,7 +1083,7 @@
   {
    "title": "Coupe du monde 2026 : l'Argentine renverse l'Angleterre dans les derniers instants et file en finale",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/norvege-angleterre-la-composition-des-equipes-pour-le-quart-de-finale-de-la-coupe-du-monde-11-07-2026-CVUMVWWP7ZDS3PSSYZQOX3TZSU.php",
-   "n_members": 89,
+   "n_members": 90,
    "n_sources": 17,
    "counts": {
     "left": 1,
@@ -1089,7 +1097,7 @@
    },
    "blindspot_score": 0.667,
    "blindspot_for": "gauche",
-   "divergence": 0.666,
+   "divergence": 0.667,
    "category": "sport",
    "terms_left": [
     "monde angleterre",
@@ -1135,7 +1143,7 @@
   {
    "title": "Des fusées mais pas de drones : pourquoi le spectacle du 14-Juillet sur le port de Toulon a été perturbé ?",
    "url": "https://www.lejdd.fr/Societe/il-est-agressif-il-fait-peur-le-frere-du-terroriste-du-14-juillet-squatte-un-studio-et-menace-la-gestionnaire-a-nice-178656",
-   "n_members": 49,
+   "n_members": 50,
    "n_sources": 17,
    "counts": {
     "left": 3,
