@@ -1,13 +1,13 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-16T17:12:18+00:00",
+ "generated_at": "2026-07-16T18:39:16+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "DIRECT. Feu en forêt de Fontainebleau: plus de 1.300 hectares parcourus par les flammes, les sapeurs-pompiers toujours à pied d'œuvre pour lutter contre l'incendie",
    "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/jusqua-4h20-de-retard-le-trafic-sncf-fortement-perturbe-sur-la-ligne-sud-est-entre-paris-et-marseille-a-cause-dun-incendie-12-07-2026-7E3R5IBOQNAXRDOH35X3TPSWTI.php",
-   "n_members": 294,
+   "n_members": 296,
    "n_sources": 35,
    "counts": {
     "left": 8,
@@ -21,23 +21,23 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.305,
+   "divergence": 0.298,
    "category": "environnement",
    "terms_left": [
     "biodiversité",
-    "village",
-    "exceptionnelle"
+    "fontainebleau incendies",
+    "manque"
    ],
    "terms_right": [
     "pompiers",
     "mobilisés",
-    "france"
+    "incendie forêt"
    ]
   },
   {
    "title": "Fin de vie : Le droit à l’aide à mourir définitivement adopté par les députés",
    "url": "https://www.lemonde.fr/politique/article/2026/07/10/retraites-les-experts-du-comite-de-suivi-preconisent-de-brider-les-pensions-pour-sortir-d-une-situation-alarmante_6722403_823448.html",
-   "n_members": 187,
+   "n_members": 188,
    "n_sources": 33,
    "counts": {
     "left": 6,
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.236,
+   "divergence": 0.235,
    "category": "politique",
    "terms_left": [
     "malades",
-    "quatrième",
-    "contient"
+    "contient",
+    "définitivement adoptée"
    ],
    "terms_right": [
     "euthanasie",
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.356,
+   "divergence": 0.355,
    "category": "sport",
    "terms_left": [
     "roja",
@@ -111,11 +111,11 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.751,
+   "divergence": 0.749,
    "category": "environnement",
    "terms_left": [
-    "personnes",
     "eau",
+    "chaleur",
     "bugey"
    ],
    "terms_right": [
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.376,
+   "divergence": 0.375,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -171,23 +171,23 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.336,
+   "divergence": 0.345,
    "category": "environnement",
    "terms_left": [
     "direct",
     "troisième",
-    "météo france"
+    "direct canicule"
    ],
    "terms_right": [
     "départements placés",
-    "placés vigilance",
-    "placés"
+    "concernés",
+    "placés vigilance"
    ]
   },
   {
    "title": "Ukraine : manifestations contre le départ du ministre de la Défense",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 120,
+   "n_members": 125,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -201,17 +201,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.747,
+   "divergence": 0.723,
    "category": "international",
    "terms_left": [
     "guerre",
     "espagne",
-    "drones"
+    "éviction"
    ],
    "terms_right": [
     "morts",
     "zelensky",
-    "volodymyr zelensky"
+    "zelensky annonce"
    ]
   },
   {
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.674,
+   "divergence": 0.679,
    "category": "société",
    "terms_left": [
     "voulu",
@@ -270,8 +270,8 @@
    ],
    "terms_right": [
     "troupes",
-    "défilé militaire",
-    "véhicules"
+    "véhicules",
+    "défilé militaire"
    ]
   },
   {
@@ -305,6 +305,36 @@
    ]
   },
   {
+   "title": "Présidentielle 2027 : Elon Musk apporte son soutien à Marine Le Pen, estimant qu’elle « est le dernier espoir de la France »",
+   "url": "https://www.publicsenat.fr/actualites/parlementaire/zones-grises-de-linformation-le-senat-veut-muscler-la-lutte-contre-la-desinformation-avant-2027",
+   "n_members": 60,
+   "n_sources": 27,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 6
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.624,
+   "category": "politique",
+   "terms_left": [
+    "rn",
+    "stérin",
+    "privé"
+   ],
+   "terms_right": [
+    "présidentielle",
+    "français",
+    "président"
+   ]
+  },
+  {
    "title": "Enfants et réseaux sociaux : des experts européens dévoilent leurs propositions",
    "url": "https://www.nouvelobs.com/justice/20260710.OBS116549/pedocriminalite-une-journee-avec-les-magistrats-et-enqueteurs-nous-sommes-obliges-de-trier-des-enfants-en-danger-alors-qu-ils-sont-tous-en-danger.html",
    "n_members": 60,
@@ -321,7 +351,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.98,
+   "divergence": 0.994,
    "category": "international",
    "terms_left": [
     "européen",
@@ -330,8 +360,8 @@
    ],
    "terms_right": [
     "france",
-    "réseaux",
-    "sociaux"
+    "ans",
+    "réseaux"
    ]
   },
   {
@@ -381,7 +411,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.36,
+   "divergence": 0.359,
    "category": "politique",
    "terms_left": [
     "candidate",
@@ -392,36 +422,6 @@
     "parquet général",
     "rn",
     "général"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : Elon Musk apporte son soutien à Marine Le Pen, estimant qu’elle « est le dernier espoir de la France »",
-   "url": "https://www.publicsenat.fr/actualites/parlementaire/zones-grises-de-linformation-le-senat-veut-muscler-la-lutte-contre-la-desinformation-avant-2027",
-   "n_members": 58,
-   "n_sources": 26,
-   "counts": {
-    "left": 4,
-    "centre": 10,
-    "right": 12
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
-    "opinion": 6
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.649,
-   "category": "politique",
-   "terms_left": [
-    "rn",
-    "stérin",
-    "privé"
-   ],
-   "terms_right": [
-    "présidentielle",
-    "français",
-    "président"
    ]
   },
   {
@@ -441,23 +441,23 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.667,
+   "divergence": 0.671,
    "category": "économie",
    "terms_left": [
     "protection",
-    "enfance",
-    "loi protection"
+    "loi",
+    "enfance"
    ],
    "terms_right": [
     "taux",
     "livret",
-    "france"
+    "banque france"
    ]
   },
   {
    "title": "Pourquoi il faut aller voir la brillante adaptation de « L’Odyssée » par Christopher Nolan",
    "url": "https://www.mediapart.fr/journal/culture-et-idees/110726/l-odyssee-sort-au-cinema-et-ravive-la-question-de-la-race-sous-l-antiquite",
-   "n_members": 53,
+   "n_members": 54,
    "n_sources": 25,
    "counts": {
     "left": 9,
@@ -523,7 +523,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.611,
+   "divergence": 0.61,
    "category": "international",
    "terms_left": [
     "forêt",
@@ -553,7 +553,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.498,
+   "divergence": 0.497,
    "category": "sport",
    "terms_left": [
     "ans",
@@ -583,7 +583,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.657,
+   "divergence": 0.653,
    "category": "international",
    "terms_left": [
     "parole",
@@ -643,12 +643,12 @@
    },
    "blindspot_score": -0.4,
    "blindspot_for": null,
-   "divergence": 0.507,
+   "divergence": 0.502,
    "category": "international",
    "terms_left": [
     "personnes",
-    "administration trump",
-    "administration"
+    "mois",
+    "annoncé"
    ],
    "terms_right": [
     "américaine",
@@ -673,12 +673,12 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.607,
+   "divergence": 0.631,
    "category": "international",
    "terms_left": [
-    "défense",
-    "stratégique",
-    "réveil"
+    "soutien",
+    "français",
+    "occasion"
    ],
    "terms_right": [
     "ukraine",
@@ -689,7 +689,7 @@
   {
    "title": "\"Ça s'appelle des pyromanes\" : le profil déroutant des incendiaires impliqués dans les feux de forêt",
    "url": "https://contrepoints.org/feux-de-forets-la-faute-aux-constructeurs-automobiles/",
-   "n_members": 98,
+   "n_members": 99,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -703,17 +703,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.728,
+   "divergence": 0.652,
    "category": "faits-divers",
    "terms_left": [
     "sinistre",
-    "forêts",
-    "pyromanes"
+    "société travaux",
+    "travaux"
    ],
    "terms_right": [
-    "incendies",
     "feu",
-    "suspects"
+    "suspects",
+    "incendies"
    ]
   },
   {
@@ -733,7 +733,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.487,
+   "divergence": 0.488,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -771,15 +771,15 @@
     "eau"
    ],
    "terms_right": [
-    "incendie",
     "ans",
-    "qu"
+    "incendie",
+    "homme"
    ]
   },
   {
    "title": "«Les joueurs sont anéantis» : les Bleus tombent de haut face à l'écrasante Roja aux portes de la finale de la Coupe du monde",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/france-espagne-ces-statistiques-qui-ne-plaident-pas-en-faveur-des-bleus-avant-la-demi-finale-de-coupe-du-monde-11-07-2026-FFZKRR2HU5E6TCVYGHBS25YQ74.php",
-   "n_members": 102,
+   "n_members": 103,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -798,12 +798,42 @@
    "terms_left": [
     "qu",
     "foot",
-    "défaite"
+    "france"
    ],
    "terms_right": [
-    "équipe",
     "face",
+    "équipe",
     "équipe france"
+   ]
+  },
+  {
+   "title": "DIRECT. Affaire Jubillar: des ossements retrouvés ce jeudi près de Cagnac-les-Mines (info BFMTV)",
+   "url": "https://www.leparisien.fr/video/actualites/faits-divers/affaire-delphine-jubillar-des-ossements-non-identifies-decouverts-16-07-2026-CDYSBQ7GCBEYZPOQF6DFVKENUQ.php",
+   "n_members": 84,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.413,
+   "category": "faits-divers",
+   "terms_left": [
+    "tarn",
+    "aussaguel",
+    "retrouvés tarn"
+   ],
+   "terms_right": [
+    "fouilles",
+    "jubillar",
+    "disparition"
    ]
   },
   {
@@ -823,7 +853,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.567,
+   "divergence": 0.564,
    "category": "environnement",
    "terms_left": [
     "hommes",
@@ -831,9 +861,9 @@
     "feu volontaires"
    ],
    "terms_right": [
-    "feux",
+    "incendies",
     "france",
-    "incendies"
+    "feux"
    ]
   },
   {
@@ -883,7 +913,7 @@
   {
    "title": "Plus de 130% du PIB en 2030 : la dette française dans le viseur d'un rapport qui préconise une année blanche en 2027",
    "url": "https://www.ladepeche.fr/2026/07/12/prix-du-carburant-limpact-peut-etre-terrible-les-automobilistes-vont-ils-payer-plus-cher-leur-plein-dessence-pour-partir-en-vacances-avec-les-tensions-13465659.php",
-   "n_members": 59,
+   "n_members": 61,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -897,16 +927,16 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.7,
+   "divergence": 0.693,
    "category": "économie",
    "terms_left": [
-    "économistes",
     "déficit",
+    "économistes",
     "gouvernement"
    ],
    "terms_right": [
-    "france",
     "euros",
+    "france",
     "prix"
    ]
   },
@@ -927,47 +957,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.567,
+   "divergence": 0.583,
    "category": "environnement",
    "terms_left": [
     "canicules",
     "orages",
-    "alerte"
+    "cours"
    ],
    "terms_right": [
     "sécheresse exceptionnelle",
     "exceptionnelle",
-    "départements"
-   ]
-  },
-  {
-   "title": "Ossements retrouvés sur les indications de Cédric Jubillar dans une zone isolée du Tarn : les dernières informations",
-   "url": "https://www.leparisien.fr/video/actualites/faits-divers/affaire-delphine-jubillar-des-ossements-non-identifies-decouverts-16-07-2026-CDYSBQ7GCBEYZPOQF6DFVKENUQ.php",
-   "n_members": 65,
-   "n_sources": 21,
-   "counts": {
-    "left": 4,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.379,
-   "category": "faits-divers",
-   "terms_left": [
-    "fin",
-    "jubillar analyses",
-    "retrouvés tarn"
-   ],
-   "terms_right": [
-    "fouilles",
-    "ossements retrouvés",
-    "delphine jubillar"
+    "face"
    ]
   },
   {
@@ -1025,31 +1025,61 @@
   {
    "title": "Des fusées mais pas de drones : pourquoi le spectacle du 14-Juillet sur le port de Toulon a été perturbé ?",
    "url": "https://www.liberation.fr/checknews/que-sait-on-dune-fausse-video-de-menace-du-hezbollah-contre-la-france-apparue-jeudi-sur-x-20260711_COPZBWGSVJDPPBU2K3AOT4AAMU/",
-   "n_members": 58,
-   "n_sources": 20,
+   "n_members": 59,
+   "n_sources": 21,
    "counts": {
     "left": 4,
     "centre": 10,
-    "right": 6
+    "right": 7
    },
    "style_counts": {
     "factuel": 11,
     "mixte": 6,
-    "opinion": 3
+    "opinion": 4
    },
-   "blindspot_score": 0.2,
+   "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.957,
+   "divergence": 0.956,
    "category": "société",
    "terms_left": [
     "libération",
     "france",
-    "spectacle"
+    "fontainebleau"
    ],
    "terms_right": [
     "feu",
     "paris",
     "artifice"
+   ]
+  },
+  {
+   "title": "Canicule de juillet : les urgences repartent à la hausse, mais loin du pic de juin",
+   "url": "https://www.liberation.fr/environnement/climat/70c-sur-un-toboggan-24c-sous-les-arbres-en-pleine-canicule-paris-passe-lepreuve-de-la-camera-thermique-20260711_6F4MOBMM6NB5FLW2KPBCFOSBXU/",
+   "n_members": 37,
+   "n_sources": 21,
+   "counts": {
+    "left": 5,
+    "centre": 8,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.883,
+   "category": "environnement",
+   "terms_left": [
+    "face",
+    "paris",
+    "fortes"
+   ],
+   "terms_right": [
+    "france",
+    "orages",
+    "nouvelle"
    ]
   },
   {
@@ -1069,7 +1099,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.788,
+   "divergence": 0.787,
    "category": "international",
    "terms_left": [
     "morts",
@@ -1077,15 +1107,15 @@
     "attaques"
    ],
    "terms_right": [
-    "barrot",
     "jean-noël barrot",
-    "jean-noël"
+    "jean-noël",
+    "barrot"
    ]
   },
   {
    "title": "Le Premier ministre français à Rabat pour sceller un nouveau traité bilatéral France–Maroc",
    "url": "https://www.latribune.fr/article/la-tribune-dimanche/politique/19759287594392/france-maroc-les-trois-dossiers-sensibles-du-deplacement-de-sebastien-lecornu",
-   "n_members": 48,
+   "n_members": 50,
    "n_sources": 20,
    "counts": {
     "left": 7,
@@ -1099,7 +1129,7 @@
    },
    "blindspot_score": -0.273,
    "blindspot_for": null,
-   "divergence": 0.893,
+   "divergence": 0.857,
    "category": "international",
    "terms_left": [
     "maroc",
@@ -1107,39 +1137,9 @@
     "enquête"
    ],
    "terms_right": [
-    "ministre",
-    "déplacement",
-    "sébastien"
-   ]
-  },
-  {
-   "title": "Canicule de juillet : les urgences repartent à la hausse, mais loin du pic de juin",
-   "url": "https://www.liberation.fr/environnement/climat/70c-sur-un-toboggan-24c-sous-les-arbres-en-pleine-canicule-paris-passe-lepreuve-de-la-camera-thermique-20260711_6F4MOBMM6NB5FLW2KPBCFOSBXU/",
-   "n_members": 36,
-   "n_sources": 20,
-   "counts": {
-    "left": 5,
-    "centre": 8,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.885,
-   "category": "environnement",
-   "terms_left": [
-    "face",
-    "paris",
-    "travail"
-   ],
-   "terms_right": [
-    "france",
-    "orages",
-    "nouvelle"
+    "rabat",
+    "sébastien",
+    "lecornu"
    ]
   },
   {
