@@ -1,6 +1,6 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-16T00:56:51+00:00",
+ "generated_at": "2026-07-16T03:57:16+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Les députés doivent se prononcer sur la proposition de loi sur \"la fin de vie\", le Premier ministre annonce qu'il va saisir le Conseil constitutionnel",
    "url": "https://www.lemonde.fr/politique/article/2026/07/10/retraites-les-experts-du-comite-de-suivi-preconisent-de-brider-les-pensions-pour-sortir-d-une-situation-alarmante_6722403_823448.html",
-   "n_members": 154,
+   "n_members": 155,
    "n_sources": 32,
    "counts": {
     "left": 6,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.772,
+   "divergence": 0.771,
    "category": "environnement",
    "terms_left": [
     "canicule",
@@ -127,7 +127,7 @@
   {
    "title": "Les États-Unis frappent à nouveau l'Iran et menace d'imposer un blocus dans le détroit d'Ormuz",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 170,
+   "n_members": 171,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -151,7 +151,7 @@
    "terms_right": [
     "iran",
     "frappes",
-    "navires"
+    "américaine"
    ]
   },
   {
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.394,
+   "divergence": 0.393,
    "category": "environnement",
    "terms_left": [
     "fin",
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.669,
+   "divergence": 0.668,
    "category": "société",
    "terms_left": [
     "contexte",
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.454,
+   "divergence": 0.453,
    "category": "sport",
    "terms_left": [
     "kilomètres",
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.635,
+   "divergence": 0.634,
    "category": "société",
    "terms_left": [
     "paris",
@@ -337,7 +337,7 @@
   {
    "title": "Remaniement ministériel en Ukraine : “Le gouvernement part, la crise de gouvernance reste”",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 89,
+   "n_members": 90,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.657,
+   "divergence": 0.655,
    "category": "économie",
    "terms_left": [
     "protection",
@@ -441,17 +441,17 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.61,
+   "divergence": 0.601,
    "category": "international",
    "terms_left": [
     "forêt",
     "disparus",
-    "évacués"
+    "feu forêt"
    ],
    "terms_right": [
     "incendie espagne",
-    "incendie",
-    "espagne"
+    "personnes",
+    "victimes"
    ]
   },
   {
@@ -531,7 +531,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.609,
+   "divergence": 0.612,
    "category": "international",
    "terms_left": [
     "défense",
@@ -539,9 +539,9 @@
     "ukraine coalition"
    ],
    "terms_right": [
+    "coalition",
     "ukraine",
-    "volodymyr zelensky",
-    "volodymyr"
+    "volodymyr zelensky"
    ]
   },
   {
@@ -577,7 +577,7 @@
   {
    "title": "L’Europe prolonge l’accueil des réfugiés ukrainiens d’un an mais exclut les hommes mobilisables",
    "url": "https://reporterre.net/Canal-Seine-Nord-Europe-un-chantier-titanesque-dont-personne-ne-sait-a-quoi-il-doit",
-   "n_members": 39,
+   "n_members": 40,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -827,6 +827,36 @@
    "terms_right": []
   },
   {
+   "title": "Incendies à Fontainebleau: une reprise de feu près de l'A6",
+   "url": "https://www.lejdd.fr/Societe/eure-une-eglise-sauvee-des-flammes-par-trois-adolescent-178761",
+   "n_members": 52,
+   "n_sources": 21,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 1
+   },
+   "blindspot_score": 0.111,
+   "blindspot_for": null,
+   "divergence": 0.818,
+   "category": "environnement",
+   "terms_left": [
+    "massif",
+    "eau",
+    "histoire"
+   ],
+   "terms_right": [
+    "ans",
+    "incendie",
+    "qu"
+   ]
+  },
+  {
    "title": "La France dans une situation de sécheresse «exceptionnelle» et «très préoccupante»",
    "url": "https://reporterre.net/Ne-nous-oubliez-pas-apres-les-canicules-des-milliers-de-sinistres-climatiques",
    "n_members": 36,
@@ -843,7 +873,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.612,
+   "divergence": 0.611,
    "category": "environnement",
    "terms_left": [
     "alerte",
@@ -859,7 +889,7 @@
   {
    "title": "Présidentielle 2027 : Elon Musk apporte son soutien à Marine Le Pen, estimant qu’elle « est le dernier espoir de la France »",
    "url": "https://www.publicsenat.fr/actualites/parlementaire/zones-grises-de-linformation-le-senat-veut-muscler-la-lutte-contre-la-desinformation-avant-2027",
-   "n_members": 31,
+   "n_members": 32,
    "n_sources": 21,
    "counts": {
     "left": 4,
@@ -881,9 +911,9 @@
     "privé"
    ],
    "terms_right": [
-    "pen",
     "français",
-    "elon"
+    "pen",
+    "article"
    ]
   },
   {
@@ -933,7 +963,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.756,
+   "divergence": 0.76,
    "category": "international",
    "terms_left": [
     "drones",
@@ -941,39 +971,9 @@
     "morts"
    ],
    "terms_right": [
-    "barrot",
     "jean-noël",
-    "jean-noël barrot"
-   ]
-  },
-  {
-   "title": "Incendies à Fontainebleau: une reprise de feu près de l'A6",
-   "url": "https://www.lejdd.fr/Societe/eure-une-eglise-sauvee-des-flammes-par-trois-adolescent-178761",
-   "n_members": 51,
-   "n_sources": 20,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.843,
-   "category": "environnement",
-   "terms_left": [
-    "massif",
-    "eau",
-    "histoire"
-   ],
-   "terms_right": [
-    "incendie",
-    "ans",
-    "feu"
+    "jean-noël barrot",
+    "barrot"
    ]
   },
   {
@@ -1081,9 +1081,39 @@
    "terms_right": []
   },
   {
+   "title": "Des fusées mais pas de drones : pourquoi le spectacle du 14-Juillet sur le port de Toulon a été perturbé ?",
+   "url": "https://www.liberation.fr/checknews/que-sait-on-dune-fausse-video-de-menace-du-hezbollah-contre-la-france-apparue-jeudi-sur-x-20260711_COPZBWGSVJDPPBU2K3AOT4AAMU/",
+   "n_members": 54,
+   "n_sources": 18,
+   "counts": {
+    "left": 3,
+    "centre": 10,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 5,
+    "opinion": 2
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.943,
+   "category": "faits-divers",
+   "terms_left": [
+    "france",
+    "libération",
+    "fontainebleau"
+   ],
+   "terms_right": [
+    "feu",
+    "paris",
+    "nice"
+   ]
+  },
+  {
    "title": "Coupe du monde 2026 : l'Argentine renverse l'Angleterre dans les derniers instants et file en finale",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/norvege-angleterre-la-composition-des-equipes-pour-le-quart-de-finale-de-la-coupe-du-monde-11-07-2026-CVUMVWWP7ZDS3PSSYZQOX3TZSU.php",
-   "n_members": 93,
+   "n_members": 94,
    "n_sources": 17,
    "counts": {
     "left": 1,
@@ -1138,36 +1168,6 @@
     "tour",
     "tour france",
     "france"
-   ]
-  },
-  {
-   "title": "Des fusées mais pas de drones : pourquoi le spectacle du 14-Juillet sur le port de Toulon a été perturbé ?",
-   "url": "https://www.lejdd.fr/Societe/il-est-agressif-il-fait-peur-le-frere-du-terroriste-du-14-juillet-squatte-un-studio-et-menace-la-gestionnaire-a-nice-178656",
-   "n_members": 52,
-   "n_sources": 17,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.944,
-   "category": "faits-divers",
-   "terms_left": [
-    "libération",
-    "france",
-    "fontainebleau"
-   ],
-   "terms_right": [
-    "feu",
-    "paris",
-    "nice"
    ]
   }
  ]
