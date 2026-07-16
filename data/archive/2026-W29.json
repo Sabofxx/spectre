@@ -1,6 +1,6 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-16T22:51:09+00:00",
+ "generated_at": "2026-07-16T23:50:24+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.601,
+   "divergence": 0.602,
    "category": "politique",
    "terms_left": [
     "rn",
@@ -719,7 +719,7 @@
   {
    "title": "\"Ça s'appelle des pyromanes\" : le profil déroutant des incendiaires impliqués dans les feux de forêt",
    "url": "https://contrepoints.org/feux-de-forets-la-faute-aux-constructeurs-automobiles/",
-   "n_members": 100,
+   "n_members": 102,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -804,6 +804,36 @@
     "ans",
     "incendie",
     "homme"
+   ]
+  },
+  {
+   "title": "Canicule de juillet : les urgences repartent à la hausse, mais loin du pic de juin",
+   "url": "https://www.liberation.fr/environnement/climat/70c-sur-un-toboggan-24c-sous-les-arbres-en-pleine-canicule-paris-passe-lepreuve-de-la-camera-thermique-20260711_6F4MOBMM6NB5FLW2KPBCFOSBXU/",
+   "n_members": 43,
+   "n_sources": 23,
+   "counts": {
+    "left": 5,
+    "centre": 10,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.879,
+   "category": "environnement",
+   "terms_left": [
+    "face",
+    "vidéos",
+    "paris"
+   ],
+   "terms_right": [
+    "france",
+    "orages",
+    "nouvelle"
    ]
   },
   {
@@ -1001,36 +1031,6 @@
    ]
   },
   {
-   "title": "Canicule de juillet : les urgences repartent à la hausse, mais loin du pic de juin",
-   "url": "https://www.liberation.fr/environnement/climat/70c-sur-un-toboggan-24c-sous-les-arbres-en-pleine-canicule-paris-passe-lepreuve-de-la-camera-thermique-20260711_6F4MOBMM6NB5FLW2KPBCFOSBXU/",
-   "n_members": 41,
-   "n_sources": 22,
-   "counts": {
-    "left": 5,
-    "centre": 9,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.88,
-   "category": "environnement",
-   "terms_left": [
-    "face",
-    "paris",
-    "fortes"
-   ],
-   "terms_right": [
-    "france",
-    "orages",
-    "nouvelle"
-   ]
-  },
-  {
    "title": "Guerre en Ukraine : le mois de juin 2026 a été le plus meurtrier pour les civils depuis avril 2022",
    "url": "https://www.ladepeche.fr/2026/07/11/elle-prenait-lair-a-cause-de-la-chaleur-une-etudiante-de-21-ans-a-ete-enlevee-et-violee-sous-la-menace-dun-couteau-le-suspect-est-un-violeur-en-serie-13464920.php",
    "n_members": 64,
@@ -1168,8 +1168,8 @@
    ],
    "terms_right": [
     "jean-noël",
-    "jean-noël barrot",
-    "barrot"
+    "barrot",
+    "jean-noël barrot"
    ]
   }
  ]
