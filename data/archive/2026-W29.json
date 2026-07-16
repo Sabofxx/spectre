@@ -1,13 +1,13 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-16T14:32:13+00:00",
+ "generated_at": "2026-07-16T15:59:04+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "DIRECT. Feu en forêt de Fontainebleau: plus de 1.300 hectares parcourus par les flammes, les sapeurs-pompiers toujours à pied d'œuvre pour lutter contre l'incendie",
    "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/jusqua-4h20-de-retard-le-trafic-sncf-fortement-perturbe-sur-la-ligne-sud-est-entre-paris-et-marseille-a-cause-dun-incendie-12-07-2026-7E3R5IBOQNAXRDOH35X3TPSWTI.php",
-   "n_members": 291,
+   "n_members": 294,
    "n_sources": 35,
    "counts": {
     "left": 8,
@@ -24,8 +24,8 @@
    "divergence": 0.315,
    "category": "environnement",
    "terms_left": [
-    "ile-de-france",
     "biodiversité",
+    "ile-de-france",
     "village"
    ],
    "terms_right": [
@@ -37,15 +37,15 @@
   {
    "title": "Fin de vie : Le droit à l’aide à mourir définitivement adopté par les députés",
    "url": "https://www.lemonde.fr/politique/article/2026/07/10/retraites-les-experts-du-comite-de-suivi-preconisent-de-brider-les-pensions-pour-sortir-d-une-situation-alarmante_6722403_823448.html",
-   "n_members": 176,
-   "n_sources": 32,
+   "n_members": 183,
+   "n_sources": 33,
    "counts": {
     "left": 6,
-    "centre": 16,
+    "centre": 17,
     "right": 10
    },
    "style_counts": {
-    "factuel": 17,
+    "factuel": 18,
     "mixte": 10,
     "opinion": 5
    },
@@ -60,8 +60,8 @@
    ],
    "terms_right": [
     "euthanasie",
-    "assemblée",
-    "vote"
+    "droit aide",
+    "voix"
    ]
   },
   {
@@ -157,7 +157,7 @@
   {
    "title": "Canicule : les 26 départements en vigilance rouge basculeront en orange mercredi matin",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 236,
+   "n_members": 241,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -171,23 +171,53 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.358,
+   "divergence": 0.363,
    "category": "environnement",
    "terms_left": [
     "direct",
     "troisième",
-    "fin"
+    "météo france"
    ],
    "terms_right": [
     "orange",
     "départements placés",
-    "départements"
+    "orages"
+   ]
+  },
+  {
+   "title": "Ukraine : manifestations contre le départ du ministre de la Défense",
+   "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
+   "n_members": 118,
+   "n_sources": 28,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.747,
+   "category": "international",
+   "terms_left": [
+    "guerre",
+    "espagne",
+    "drones"
+   ],
+   "terms_right": [
+    "morts",
+    "zelensky",
+    "volodymyr zelensky"
    ]
   },
   {
    "title": "DIRECT. Attentat du 14-Juillet: dix ans après, la ville de Nice rend hommage aux 86 victimes",
    "url": "https://www.lemonde.fr/societe/article/2026/07/10/14-juillet-les-personnes-qui-veulent-assister-au-defile-sur-les-champs-elysees-devront-presenter-un-qr-code_6722451_3224.html",
-   "n_members": 184,
+   "n_members": 185,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -201,7 +231,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.315,
+   "divergence": 0.314,
    "category": "société",
    "terms_left": [
     "sécurité",
@@ -242,36 +272,6 @@
     "troupes",
     "défilé militaire",
     "véhicules"
-   ]
-  },
-  {
-   "title": "\"Ne touchez pas à Fedorov\": en Ukraine, citoyens et militaires indignés rejettent la démission du ministre de la Défense",
-   "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 113,
-   "n_sources": 27,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.804,
-   "category": "international",
-   "terms_left": [
-    "guerre",
-    "espagne",
-    "européenne"
-   ],
-   "terms_right": [
-    "zelensky",
-    "morts",
-    "volodymyr zelensky"
    ]
   },
   {
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.631,
+   "divergence": 0.63,
    "category": "société",
    "terms_left": [
     "festival avignon",
@@ -397,7 +397,7 @@
   {
    "title": "Présidentielle 2027 : Elon Musk apporte son soutien à Marine Le Pen, estimant qu’elle « est le dernier espoir de la France »",
    "url": "https://www.publicsenat.fr/actualites/parlementaire/zones-grises-de-linformation-le-senat-veut-muscler-la-lutte-contre-la-desinformation-avant-2027",
-   "n_members": 53,
+   "n_members": 55,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -416,7 +416,7 @@
    "terms_left": [
     "stérin",
     "rn",
-    "financement"
+    "privé"
    ],
    "terms_right": [
     "présidentielle",
@@ -493,7 +493,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.613,
+   "divergence": 0.611,
    "category": "international",
    "terms_left": [
     "forêt",
@@ -523,7 +523,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.498,
+   "divergence": 0.497,
    "category": "sport",
    "terms_left": [
     "ans",
@@ -613,7 +613,7 @@
    },
    "blindspot_score": -0.4,
    "blindspot_for": null,
-   "divergence": 0.513,
+   "divergence": 0.51,
    "category": "international",
    "terms_left": [
     "personnes",
@@ -643,7 +643,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.597,
+   "divergence": 0.607,
    "category": "international",
    "terms_left": [
     "défense",
@@ -653,13 +653,13 @@
    "terms_right": [
     "ukraine",
     "coalition",
-    "coalition volontaires"
+    "monaco"
    ]
   },
   {
    "title": "Pourquoi il faut aller voir la brillante adaptation de « L’Odyssée » par Christopher Nolan",
    "url": "https://www.mediapart.fr/journal/culture-et-idees/110726/l-odyssee-sort-au-cinema-et-ravive-la-question-de-la-race-sous-l-antiquite",
-   "n_members": 49,
+   "n_members": 51,
    "n_sources": 24,
    "counts": {
     "left": 8,
@@ -673,17 +673,47 @@
    },
    "blindspot_score": -0.333,
    "blindspot_for": null,
-   "divergence": 0.431,
+   "divergence": 0.436,
    "category": "culture",
    "terms_left": [
     "voir",
     "odyssée",
-    "france"
+    "imax"
    ],
    "terms_right": [
     "ans",
-    "cœur",
-    "épopée"
+    "film",
+    "cœur"
+   ]
+  },
+  {
+   "title": "\"Ça s'appelle des pyromanes\" : le profil déroutant des incendiaires impliqués dans les feux de forêt",
+   "url": "https://contrepoints.org/feux-de-forets-la-faute-aux-constructeurs-automobiles/",
+   "n_members": 98,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.729,
+   "category": "faits-divers",
+   "terms_left": [
+    "sinistre",
+    "forêts",
+    "pyromanes"
+   ],
+   "terms_right": [
+    "incendies",
+    "feu",
+    "suspects"
    ]
   },
   {
@@ -749,7 +779,7 @@
   {
    "title": "«Les joueurs sont anéantis» : les Bleus tombent de haut face à l'écrasante Roja aux portes de la finale de la Coupe du monde",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/france-espagne-ces-statistiques-qui-ne-plaident-pas-en-faveur-des-bleus-avant-la-demi-finale-de-coupe-du-monde-11-07-2026-FFZKRR2HU5E6TCVYGHBS25YQ74.php",
-   "n_members": 101,
+   "n_members": 102,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -763,7 +793,7 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.653,
+   "divergence": 0.651,
    "category": "sport",
    "terms_left": [
     "qu",
@@ -774,36 +804,6 @@
     "équipe",
     "face",
     "équipe france"
-   ]
-  },
-  {
-   "title": "\"Ça s'appelle des pyromanes\" : le profil déroutant des incendiaires impliqués dans les feux de forêt",
-   "url": "https://contrepoints.org/feux-de-forets-la-faute-aux-constructeurs-automobiles/",
-   "n_members": 95,
-   "n_sources": 22,
-   "counts": {
-    "left": 4,
-    "centre": 10,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.73,
-   "category": "faits-divers",
-   "terms_left": [
-    "sinistre",
-    "forêts",
-    "pyromanes"
-   ],
-   "terms_right": [
-    "incendies",
-    "feu",
-    "suspects"
    ]
   },
   {
@@ -867,7 +867,7 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.702,
+   "divergence": 0.699,
    "category": "économie",
    "terms_left": [
     "économistes",
@@ -878,6 +878,36 @@
     "france",
     "euros",
     "prix"
+   ]
+  },
+  {
+   "title": "La France dans une situation de sécheresse «exceptionnelle» et «très préoccupante»",
+   "url": "https://reporterre.net/Ne-nous-oubliez-pas-apres-les-canicules-des-milliers-de-sinistres-climatiques",
+   "n_members": 41,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.567,
+   "category": "environnement",
+   "terms_left": [
+    "canicules",
+    "orages",
+    "alerte"
+   ],
+   "terms_right": [
+    "sécheresse exceptionnelle",
+    "exceptionnelle",
+    "départements"
    ]
   },
   {
@@ -933,9 +963,39 @@
    "terms_right": []
   },
   {
+   "title": "Ossements retrouvés sur les indications de Cédric Jubillar dans une zone isolée du Tarn : les dernières informations",
+   "url": "https://www.leparisien.fr/video/actualites/faits-divers/affaire-delphine-jubillar-des-ossements-non-identifies-decouverts-16-07-2026-CDYSBQ7GCBEYZPOQF6DFVKENUQ.php",
+   "n_members": 63,
+   "n_sources": 21,
+   "counts": {
+    "left": 4,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.369,
+   "category": "faits-divers",
+   "terms_left": [
+    "fin",
+    "jubillar analyses",
+    "retrouvés tarn"
+   ],
+   "terms_right": [
+    "fouilles",
+    "ossements retrouvés",
+    "delphine jubillar"
+   ]
+  },
+  {
    "title": "Coupe du monde 2026 : les journalistes sportifs des quatre pays demi-finalistes soutiennent Christophe Gleizes",
    "url": "https://www.nouvelobs.com/sport/20260711.OBS116593/des-bebes-haaland-une-pelouse-a-10-millions-d-euros-et-l-argentine-dans-le-viseur-du-fbi-le-bulletin-de-la-coupe-du-monde-de-trump.html",
-   "n_members": 60,
+   "n_members": 62,
    "n_sources": 21,
    "counts": {
     "left": 4,
@@ -960,36 +1020,6 @@
     "demi-finale",
     "espagne",
     "france"
-   ]
-  },
-  {
-   "title": "La France dans une situation de sécheresse «exceptionnelle» et «très préoccupante»",
-   "url": "https://reporterre.net/Ne-nous-oubliez-pas-apres-les-canicules-des-milliers-de-sinistres-climatiques",
-   "n_members": 39,
-   "n_sources": 21,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.578,
-   "category": "environnement",
-   "terms_left": [
-    "canicules",
-    "orages",
-    "cours"
-   ],
-   "terms_right": [
-    "sécheresse exceptionnelle",
-    "exceptionnelle",
-    "départements"
    ]
   },
   {
@@ -1023,36 +1053,6 @@
    ]
   },
   {
-   "title": "EN DIRECT - Meurtre de Delphine Jubillar : des ossements retrouvés à Mailhoc lors de fouilles en présence de Cédric Jubillar",
-   "url": "https://www.leparisien.fr/video/actualites/faits-divers/affaire-delphine-jubillar-des-ossements-non-identifies-decouverts-16-07-2026-CDYSBQ7GCBEYZPOQF6DFVKENUQ.php",
-   "n_members": 54,
-   "n_sources": 20,
-   "counts": {
-    "left": 3,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.406,
-   "category": "faits-divers",
-   "terms_left": [
-    "jubillar analyses",
-    "fin",
-    "épouse delphine"
-   ],
-   "terms_right": [
-    "retrouvés",
-    "ossements retrouvés",
-    "fouilles"
-   ]
-  },
-  {
    "title": "La France va convoquer l'ambassadeur de Russie \"dans les prochains jours\" après \"une vaste campagne cyber\" menée par Moscou",
    "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260711-russie-face-aux-p%C3%A9nuries-de-carburant-le-t%C3%A9l%C3%A9travail-pr%C3%A9conis%C3%A9",
    "n_members": 53,
@@ -1069,7 +1069,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.795,
+   "divergence": 0.788,
    "category": "international",
    "terms_left": [
     "morts",
@@ -1085,7 +1085,7 @@
   {
    "title": "Le Premier ministre français à Rabat pour sceller un nouveau traité bilatéral France–Maroc",
    "url": "https://www.latribune.fr/article/la-tribune-dimanche/politique/19759287594392/france-maroc-les-trois-dossiers-sensibles-du-deplacement-de-sebastien-lecornu",
-   "n_members": 45,
+   "n_members": 47,
    "n_sources": 20,
    "counts": {
     "left": 7,
@@ -1099,12 +1099,12 @@
    },
    "blindspot_score": -0.273,
    "blindspot_for": null,
-   "divergence": 0.894,
+   "divergence": 0.893,
    "category": "international",
    "terms_left": [
-    "enquête",
-    "ministres français",
-    "rappeur"
+    "maroc",
+    "monde",
+    "enquête"
    ],
    "terms_right": [
     "ministre",
