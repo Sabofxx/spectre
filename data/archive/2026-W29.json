@@ -1,13 +1,13 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-17T19:40:20+00:00",
+ "generated_at": "2026-07-17T20:44:10+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Emmanuel Macron arrive à Fontainebleau pour apporter son soutien à ceux qui luttent contre les flammes",
    "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/jusqua-4h20-de-retard-le-trafic-sncf-fortement-perturbe-sur-la-ligne-sud-est-entre-paris-et-marseille-a-cause-dun-incendie-12-07-2026-7E3R5IBOQNAXRDOH35X3TPSWTI.php",
-   "n_members": 305,
+   "n_members": 306,
    "n_sources": 35,
    "counts": {
     "left": 8,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.279,
+   "divergence": 0.281,
    "category": "environnement",
    "terms_left": [
     "fontainebleau incendies",
@@ -86,12 +86,12 @@
    "terms_left": [
     "roja",
     "audience",
-    "face"
+    "méchants"
    ],
    "terms_right": [
     "place",
-    "équipe",
-    "angleterre"
+    "angleterre",
+    "équipe"
    ]
   },
   {
@@ -125,9 +125,39 @@
    ]
   },
   {
+   "title": "Après la canicule, place aux orages violents avec 11 départements placés en vigilance orange",
+   "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
+   "n_members": 265,
+   "n_sources": 29,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 11,
+    "opinion": 2
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.347,
+   "category": "environnement",
+   "terms_left": [
+    "direct",
+    "direct canicule",
+    "météo france"
+   ],
+   "terms_right": [
+    "départements placés",
+    "placés vigilance",
+    "placés"
+   ]
+  },
+  {
    "title": "DIRECT. Guerre au Moyen-Orient: l'Iran dit avoir attaqué des cibles américaines au Koweït et à Bahreïn avec des drones",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 211,
+   "n_members": 213,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -157,7 +187,7 @@
   {
    "title": "Ukraine: polémique après la démission du très populaire ministre de la Défense",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 143,
+   "n_members": 148,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -171,7 +201,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.663,
+   "divergence": 0.657,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -179,39 +209,9 @@
     "drones"
    ],
    "terms_right": [
+    "limogeage",
     "morts",
-    "ukraine volodymyr",
-    "départ"
-   ]
-  },
-  {
-   "title": "Après la canicule, place aux orages violents avec 11 départements placés en vigilance orange",
-   "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 264,
-   "n_sources": 28,
-   "counts": {
-    "left": 7,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 11,
-    "opinion": 2
-   },
-   "blindspot_score": 0.067,
-   "blindspot_for": null,
-   "divergence": 0.347,
-   "category": "environnement",
-   "terms_left": [
-    "direct",
-    "direct canicule",
-    "troisième"
-   ],
-   "terms_right": [
-    "départements placés",
-    "placés vigilance",
-    "placés"
+    "ukraine volodymyr"
    ]
   },
   {
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.233,
+   "divergence": 0.232,
    "category": "société",
    "terms_left": [
     "mémoire",
@@ -480,14 +480,14 @@
    ],
    "terms_right": [
     "parquet général",
-    "général",
-    "rn"
+    "rn",
+    "général"
    ]
   },
   {
    "title": "La France dans une situation de sécheresse «exceptionnelle» et «très préoccupante»",
    "url": "https://reporterre.net/Ne-nous-oubliez-pas-apres-les-canicules-des-milliers-de-sinistres-climatiques",
-   "n_members": 53,
+   "n_members": 54,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.577,
+   "divergence": 0.579,
    "category": "environnement",
    "terms_left": [
     "orages",
@@ -510,8 +510,8 @@
    ],
    "terms_right": [
     "sécheresse exceptionnelle",
-    "monique barbut",
-    "barbut"
+    "canicule",
+    "vigilance"
    ]
   },
   {
@@ -605,6 +605,36 @@
    ]
   },
   {
+   "title": "Canicule de juillet : les urgences repartent à la hausse, mais loin du pic de juin",
+   "url": "https://www.liberation.fr/environnement/climat/70c-sur-un-toboggan-24c-sous-les-arbres-en-pleine-canicule-paris-passe-lepreuve-de-la-camera-thermique-20260711_6F4MOBMM6NB5FLW2KPBCFOSBXU/",
+   "n_members": 58,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.798,
+   "category": "environnement",
+   "terms_left": [
+    "climatique",
+    "face",
+    "début"
+   ],
+   "terms_right": [
+    "france",
+    "qu",
+    "orages"
+   ]
+  },
+  {
    "title": "Livret A : il remonte pour la première depuis trois ans, le taux relevé à 1,7 % à partir du 1er août",
    "url": "https://www.liberation.fr/politique/presidentielle-les-ecologistes-rafraichissent-les-idees-dans-un-nouveau-programme-20260713_HLF46E75PVHLLDYAZTTQCARLLE/",
    "n_members": 57,
@@ -635,36 +665,6 @@
    ]
   },
   {
-   "title": "Canicule de juillet : les urgences repartent à la hausse, mais loin du pic de juin",
-   "url": "https://www.liberation.fr/environnement/climat/70c-sur-un-toboggan-24c-sous-les-arbres-en-pleine-canicule-paris-passe-lepreuve-de-la-camera-thermique-20260711_6F4MOBMM6NB5FLW2KPBCFOSBXU/",
-   "n_members": 57,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.802,
-   "category": "environnement",
-   "terms_left": [
-    "climatique",
-    "face",
-    "paris"
-   ],
-   "terms_right": [
-    "france",
-    "orages",
-    "qu"
-   ]
-  },
-  {
    "title": "L’Europe prolonge l’accueil des réfugiés ukrainiens d’un an mais exclut les hommes mobilisables",
    "url": "https://reporterre.net/Canal-Seine-Nord-Europe-un-chantier-titanesque-dont-personne-ne-sait-a-quoi-il-doit",
    "n_members": 44,
@@ -689,7 +689,7 @@
   {
    "title": "DIRECT. Affaire Jubillar: des ossements retrouvés ce jeudi près de Cagnac-les-Mines (info BFMTV)",
    "url": "https://www.leparisien.fr/video/actualites/faits-divers/affaire-delphine-jubillar-des-ossements-non-identifies-decouverts-16-07-2026-CDYSBQ7GCBEYZPOQF6DFVKENUQ.php",
-   "n_members": 202,
+   "n_members": 203,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -793,12 +793,12 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.636,
+   "divergence": 0.634,
    "category": "international",
    "terms_left": [
     "tenu",
-    "parole",
-    "cessez-le-feu"
+    "cessez-le-feu",
+    "etats-unis"
    ],
    "terms_right": [
     "iran",
@@ -883,7 +883,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.703,
+   "divergence": 0.702,
    "category": "international",
    "terms_left": [
     "zelensky"
@@ -895,9 +895,39 @@
    ]
   },
   {
+   "title": "La France bloque l'accès depuis son territoire au site de paris sur l'actualité Polymarket",
+   "url": "https://lcp.fr/actualites/une-frontiere-francaise-va-etre-modifiee-pour-la-premiere-fois-depuis-pres-de-400-ans",
+   "n_members": 56,
+   "n_sources": 24,
+   "counts": {
+    "left": 2,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.636,
+   "blindspot_for": "gauche",
+   "divergence": 0.841,
+   "category": "international",
+   "terms_left": [
+    "houthis",
+    "guerre",
+    "jeux"
+   ],
+   "terms_right": [
+    "france",
+    "ans",
+    "paris"
+   ]
+  },
+  {
    "title": "Canicule de juin : la mortalité a plus que doublé par rapport à la normale en Île-de-France",
    "url": "https://www.ladepeche.fr/2026/07/11/elle-prenait-lair-a-cause-de-la-chaleur-une-etudiante-de-21-ans-a-ete-enlevee-et-violee-sous-la-menace-dun-couteau-le-suspect-est-un-violeur-en-serie-13464920.php",
-   "n_members": 76,
+   "n_members": 77,
    "n_sources": 23,
    "counts": {
     "left": 3,
@@ -938,7 +968,7 @@
    "terms_left": [
     "pompier",
     "faut",
-    "forêts"
+    "responsable"
    ],
    "terms_right": [
     "incendie",
@@ -1007,33 +1037,33 @@
    ]
   },
   {
-   "title": "La France serre la vis contre les paris sur l'actualité et bloque l'accès à Polymarket, déjà interdit en France depuis novembre 2024",
-   "url": "https://lcp.fr/actualites/une-frontiere-francaise-va-etre-modifiee-pour-la-premiere-fois-depuis-pres-de-400-ans",
-   "n_members": 48,
+   "title": "Un « signal fort » contre les violences faites aux enfants : l’Assemblée nationale vote pour rendre imprescriptibles les crimes commis sur les mineurs (mais ça ne fait pas l’unanimité)",
+   "url": "https://www.leprogres.fr/economie/2026/07/15/logements-bouilloires-la-confederation-nationale-du-logement-entend-porter-plainte-contre-l-etat",
+   "n_members": 46,
    "n_sources": 23,
    "counts": {
-    "left": 2,
-    "centre": 12,
-    "right": 9
+    "left": 6,
+    "centre": 10,
+    "right": 7
    },
    "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
+    "factuel": 12,
+    "mixte": 8,
     "opinion": 3
    },
-   "blindspot_score": 0.636,
-   "blindspot_for": "gauche",
-   "divergence": 0.837,
-   "category": "économie",
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.5,
+   "category": "société",
    "terms_left": [
-    "houthis",
-    "qu",
-    "guerre"
+    "nounou-top",
+    "site",
+    "plateforme"
    ],
    "terms_right": [
-    "france",
-    "paris",
-    "ans"
+    "ans",
+    "députés",
+    "viols"
    ]
   },
   {
@@ -1144,28 +1174,6 @@
    "blindspot_score": 0.4,
    "blindspot_for": null,
    "divergence": 0.655,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "\"C'était le chaos\" : en Thaïlande, l'incendie d'un bar fait au moins 27 morts",
-   "url": "https://www.humanite.fr/environnement/feux-de-foret/incendie-au-portugal-labandon-des-campagnes-devient-un-terrain-fertile-pour-les-incendies",
-   "n_members": 61,
-   "n_sources": 22,
-   "counts": {
-    "left": 2,
-    "centre": 15,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 4,
-    "opinion": 2
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": 0.823,
    "category": "faits-divers",
    "terms_left": [],
    "terms_right": []
