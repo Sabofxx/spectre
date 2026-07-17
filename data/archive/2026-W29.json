@@ -1,6 +1,6 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-17T21:43:47+00:00",
+ "generated_at": "2026-07-17T22:40:17+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -81,12 +81,12 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.349,
+   "divergence": 0.35,
    "category": "sport",
    "terms_left": [
     "audience",
     "méchants",
-    "roja"
+    "face"
    ],
    "terms_right": [
     "place",
@@ -127,7 +127,7 @@
   {
    "title": "Après la canicule, place aux orages violents avec 11 départements placés en vigilance orange",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 265,
+   "n_members": 266,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -157,7 +157,7 @@
   {
    "title": "DIRECT. Guerre au Moyen-Orient: l'Iran dit avoir attaqué des cibles américaines au Koweït et à Bahreïn avec des drones",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 214,
+   "n_members": 216,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.363,
+   "divergence": 0.364,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.232,
+   "divergence": 0.231,
    "category": "société",
    "terms_left": [
     "mémoire",
@@ -425,6 +425,36 @@
    ]
   },
   {
+   "title": "Canicule de juillet : les urgences repartent à la hausse, mais loin du pic de juin",
+   "url": "https://www.liberation.fr/environnement/climat/70c-sur-un-toboggan-24c-sous-les-arbres-en-pleine-canicule-paris-passe-lepreuve-de-la-camera-thermique-20260711_6F4MOBMM6NB5FLW2KPBCFOSBXU/",
+   "n_members": 60,
+   "n_sources": 27,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.796,
+   "category": "environnement",
+   "terms_left": [
+    "climatique",
+    "paris",
+    "face"
+   ],
+   "terms_right": [
+    "france",
+    "qu",
+    "orages"
+   ]
+  },
+  {
    "title": "Pourquoi il faut aller voir la brillante adaptation de « L’Odyssée » par Christopher Nolan",
    "url": "https://www.mediapart.fr/journal/culture-et-idees/110726/l-odyssee-sort-au-cinema-et-ravive-la-question-de-la-race-sous-l-antiquite",
    "n_members": 62,
@@ -441,7 +471,7 @@
    },
    "blindspot_score": -0.286,
    "blindspot_for": null,
-   "divergence": 0.366,
+   "divergence": 0.352,
    "category": "culture",
    "terms_left": [
     "voir",
@@ -449,9 +479,9 @@
     "réalisateur"
    ],
    "terms_right": [
-    "ans",
-    "meilleur",
-    "film"
+    "démarrage année",
+    "meilleur démarrage",
+    "année"
    ]
   },
   {
@@ -482,36 +512,6 @@
     "parquet général",
     "général",
     "rn"
-   ]
-  },
-  {
-   "title": "Canicule de juillet : les urgences repartent à la hausse, mais loin du pic de juin",
-   "url": "https://www.liberation.fr/environnement/climat/70c-sur-un-toboggan-24c-sous-les-arbres-en-pleine-canicule-paris-passe-lepreuve-de-la-camera-thermique-20260711_6F4MOBMM6NB5FLW2KPBCFOSBXU/",
-   "n_members": 59,
-   "n_sources": 26,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.794,
-   "category": "environnement",
-   "terms_left": [
-    "climatique",
-    "face",
-    "paris"
-   ],
-   "terms_right": [
-    "france",
-    "qu",
-    "orages"
    ]
   },
   {
@@ -733,7 +733,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.601,
+   "divergence": 0.6,
    "category": "international",
    "terms_left": [
     "disparus",
@@ -895,6 +895,36 @@
    ]
   },
   {
+   "title": "Un « signal fort » contre les violences faites aux enfants : l’Assemblée nationale vote pour rendre imprescriptibles les crimes commis sur les mineurs (mais ça ne fait pas l’unanimité)",
+   "url": "https://www.leprogres.fr/economie/2026/07/15/logements-bouilloires-la-confederation-nationale-du-logement-entend-porter-plainte-contre-l-etat",
+   "n_members": 59,
+   "n_sources": 24,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.555,
+   "category": "politique",
+   "terms_left": [
+    "élue",
+    "nounou-top",
+    "site"
+   ],
+   "terms_right": [
+    "ans",
+    "députés",
+    "viols"
+   ]
+  },
+  {
    "title": "La France bloque l'accès depuis son territoire au site de paris sur l'actualité Polymarket",
    "url": "https://lcp.fr/actualites/une-frontiere-francaise-va-etre-modifiee-pour-la-premiere-fois-depuis-pres-de-400-ans",
    "n_members": 58,
@@ -922,36 +952,6 @@
     "france",
     "ans",
     "français"
-   ]
-  },
-  {
-   "title": "Un « signal fort » contre les violences faites aux enfants : l’Assemblée nationale vote pour rendre imprescriptibles les crimes commis sur les mineurs (mais ça ne fait pas l’unanimité)",
-   "url": "https://www.leprogres.fr/economie/2026/07/15/logements-bouilloires-la-confederation-nationale-du-logement-entend-porter-plainte-contre-l-etat",
-   "n_members": 56,
-   "n_sources": 24,
-   "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.546,
-   "category": "politique",
-   "terms_left": [
-    "élue",
-    "nounou-top",
-    "site"
-   ],
-   "terms_right": [
-    "députés",
-    "ans",
-    "viols"
    ]
   },
   {
@@ -1023,7 +1023,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.493,
+   "divergence": 0.492,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -1087,8 +1087,8 @@
    "category": "sport",
    "terms_left": [
     "qu",
-    "soir",
-    "foot"
+    "demi-finale coupe",
+    "soir"
    ],
    "terms_right": [
     "face",
