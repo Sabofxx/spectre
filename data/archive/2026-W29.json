@@ -1,13 +1,13 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-17T07:12:11+00:00",
+ "generated_at": "2026-07-17T09:27:07+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Les deux feux de la forêt de Fontainebleau sont désormais \"fixés\"",
    "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/jusqua-4h20-de-retard-le-trafic-sncf-fortement-perturbe-sur-la-ligne-sud-est-entre-paris-et-marseille-a-cause-dun-incendie-12-07-2026-7E3R5IBOQNAXRDOH35X3TPSWTI.php",
-   "n_members": 299,
+   "n_members": 301,
    "n_sources": 35,
    "counts": {
     "left": 8,
@@ -31,32 +31,32 @@
    "terms_right": [
     "pompiers",
     "incendie forêt",
-    "incendie"
+    "mobilisés"
    ]
   },
   {
    "title": "Fin de vie : Le droit à l’aide à mourir définitivement adopté par les députés",
    "url": "https://www.lemonde.fr/politique/article/2026/07/10/retraites-les-experts-du-comite-de-suivi-preconisent-de-brider-les-pensions-pour-sortir-d-une-situation-alarmante_6722403_823448.html",
-   "n_members": 193,
-   "n_sources": 33,
+   "n_members": 194,
+   "n_sources": 34,
    "counts": {
-    "left": 6,
+    "left": 7,
     "centre": 17,
     "right": 10
    },
    "style_counts": {
     "factuel": 18,
-    "mixte": 10,
+    "mixte": 11,
     "opinion": 5
    },
-   "blindspot_score": 0.25,
+   "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.232,
+   "divergence": 0.229,
    "category": "politique",
    "terms_left": [
     "malades",
-    "contient",
-    "définitivement adoptée"
+    "définitivement adoptée",
+    "contient"
    ],
    "terms_right": [
     "euthanasie",
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.345,
+   "divergence": 0.349,
    "category": "sport",
    "terms_left": [
     "roja",
@@ -89,9 +89,9 @@
     "méchants"
    ],
    "terms_right": [
+    "espagne",
     "troisième",
-    "équipe",
-    "espagne"
+    "équipe"
    ]
   },
   {
@@ -125,9 +125,9 @@
    ]
   },
   {
-   "title": "Les États-Unis frappent à nouveau l'Iran et menace d'imposer un blocus dans le détroit d'Ormuz",
+   "title": "DIRECT. Guerre au Moyen-Orient: l'Iran dit avoir attaqué des cibles américaines au Koweït et à Bahreïn avec des drones",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 198,
+   "n_members": 203,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -150,14 +150,14 @@
    ],
    "terms_right": [
     "iran",
-    "frappes",
-    "états-unis"
+    "américaine",
+    "frappes"
    ]
   },
   {
    "title": "Ukraine : manifestations contre le départ du ministre de la Défense",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 130,
+   "n_members": 131,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.703,
+   "divergence": 0.677,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -181,7 +181,7 @@
    "terms_right": [
     "morts",
     "départ",
-    "zelensky annonce"
+    "ukraine volodymyr"
    ]
   },
   {
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.306,
+   "divergence": 0.305,
    "category": "société",
    "terms_left": [
     "mémoire",
@@ -266,12 +266,12 @@
    "terms_left": [
     "etat",
     "nice",
-    "signe"
+    "chef"
    ],
    "terms_right": [
     "défilé",
-    "troupes",
-    "qr code"
+    "qr code",
+    "qr"
    ]
   },
   {
@@ -441,7 +441,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.633,
+   "divergence": 0.634,
    "category": "société",
    "terms_left": [
     "loi",
@@ -452,6 +452,36 @@
     "mort",
     "shemseddine",
     "vote"
+   ]
+  },
+  {
+   "title": "Pourquoi il faut aller voir la brillante adaptation de « L’Odyssée » par Christopher Nolan",
+   "url": "https://www.mediapart.fr/journal/culture-et-idees/110726/l-odyssee-sort-au-cinema-et-ravive-la-question-de-la-race-sous-l-antiquite",
+   "n_members": 57,
+   "n_sources": 25,
+   "counts": {
+    "left": 9,
+    "centre": 12,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": -0.385,
+   "blindspot_for": null,
+   "divergence": 0.384,
+   "category": "culture",
+   "terms_left": [
+    "voir",
+    "réalisateur",
+    "odyssée"
+   ],
+   "terms_right": [
+    "meilleur",
+    "ans",
+    "casting"
    ]
   },
   {
@@ -485,36 +515,6 @@
    ]
   },
   {
-   "title": "Pourquoi il faut aller voir la brillante adaptation de « L’Odyssée » par Christopher Nolan",
-   "url": "https://www.mediapart.fr/journal/culture-et-idees/110726/l-odyssee-sort-au-cinema-et-ravive-la-question-de-la-race-sous-l-antiquite",
-   "n_members": 56,
-   "n_sources": 25,
-   "counts": {
-    "left": 9,
-    "centre": 12,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 4
-   },
-   "blindspot_score": -0.385,
-   "blindspot_for": null,
-   "divergence": 0.385,
-   "category": "culture",
-   "terms_left": [
-    "voir",
-    "réalisateur",
-    "odyssée"
-   ],
-   "terms_right": [
-    "ans",
-    "casting",
-    "cœur"
-   ]
-  },
-  {
    "title": "L’Europe prolonge l’accueil des réfugiés ukrainiens d’un an mais exclut les hommes mobilisables",
    "url": "https://reporterre.net/Canal-Seine-Nord-Europe-un-chantier-titanesque-dont-personne-ne-sait-a-quoi-il-doit",
    "n_members": 42,
@@ -539,7 +539,7 @@
   {
    "title": "DIRECT. Affaire Jubillar: des ossements retrouvés ce jeudi près de Cagnac-les-Mines (info BFMTV)",
    "url": "https://www.leparisien.fr/video/actualites/faits-divers/affaire-delphine-jubillar-des-ossements-non-identifies-decouverts-16-07-2026-CDYSBQ7GCBEYZPOQF6DFVKENUQ.php",
-   "n_members": 136,
+   "n_members": 153,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -553,7 +553,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.396,
+   "divergence": 0.369,
    "category": "faits-divers",
    "terms_left": [
     "tarn",
@@ -562,8 +562,8 @@
    ],
    "terms_right": [
     "fouilles",
-    "disparition",
-    "kilomètres"
+    "kilomètres",
+    "delphine jubillar"
    ]
   },
   {
@@ -594,6 +594,36 @@
     "incendie espagne",
     "espagne",
     "incendie"
+   ]
+  },
+  {
+   "title": "Incendies à Fontainebleau : deux suspects mis en examen et placés en détention provisoire",
+   "url": "https://contrepoints.org/feux-de-forets-la-faute-aux-constructeurs-automobiles/",
+   "n_members": 106,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.64,
+   "category": "faits-divers",
+   "terms_left": [
+    "sinistre",
+    "société travaux",
+    "travaux"
+   ],
+   "terms_right": [
+    "suspects",
+    "feu",
+    "personnes"
    ]
   },
   {
@@ -643,7 +673,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.643,
+   "divergence": 0.644,
    "category": "international",
    "terms_left": [
     "parole",
@@ -673,7 +703,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.504,
+   "divergence": 0.503,
    "category": "faits-divers",
    "terms_left": [
     "plainte",
@@ -703,7 +733,7 @@
    },
    "blindspot_score": -0.4,
    "blindspot_for": null,
-   "divergence": 0.523,
+   "divergence": 0.522,
    "category": "international",
    "terms_left": [
     "personnes",
@@ -733,23 +763,23 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.672,
+   "divergence": 0.682,
    "category": "international",
    "terms_left": [
     "militaire",
-    "occasion",
+    "zelensky",
     "soutien"
    ],
    "terms_right": [
     "ukraine",
-    "coalition",
-    "monaco"
+    "monaco",
+    "coalition"
    ]
   },
   {
    "title": "Canicule de juillet : les urgences repartent à la hausse, mais loin du pic de juin",
    "url": "https://www.liberation.fr/environnement/climat/70c-sur-un-toboggan-24c-sous-les-arbres-en-pleine-canicule-paris-passe-lepreuve-de-la-camera-thermique-20260711_6F4MOBMM6NB5FLW2KPBCFOSBXU/",
-   "n_members": 47,
+   "n_members": 48,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -763,7 +793,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.876,
+   "divergence": 0.862,
    "category": "environnement",
    "terms_left": [
     "face",
@@ -772,38 +802,8 @@
    ],
    "terms_right": [
     "france",
-    "canicule",
-    "orages"
-   ]
-  },
-  {
-   "title": "Incendies à Fontainebleau : deux suspects mis en examen et placés en détention provisoire",
-   "url": "https://contrepoints.org/feux-de-forets-la-faute-aux-constructeurs-automobiles/",
-   "n_members": 104,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.641,
-   "category": "faits-divers",
-   "terms_left": [
-    "sinistre",
-    "société travaux",
-    "travaux"
-   ],
-   "terms_right": [
-    "suspects",
-    "feu",
-    "personnes"
+    "orages",
+    "canicule"
    ]
   },
   {
@@ -837,6 +837,36 @@
    ]
   },
   {
+   "title": "Incendies à Fontainebleau: une reprise de feu près de l'A6",
+   "url": "https://www.lejdd.fr/Societe/eure-une-eglise-sauvee-des-flammes-par-trois-adolescent-178761",
+   "n_members": 62,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 1
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.788,
+   "category": "environnement",
+   "terms_left": [
+    "forêts",
+    "pompier",
+    "faut"
+   ],
+   "terms_right": [
+    "ans",
+    "incendie",
+    "homme"
+   ]
+  },
+  {
    "title": "\"Contrefaçon de marque\" et \"parasitisme\": Renaissance attaque le RN en justice pour l'\"appropriation\" de son nom sur une affiche de campagne présidentielle",
    "url": "https://www.lemonde.fr/politique/article/2026/07/11/segolene-royal-raphael-glucksmann-francois-hollande-la-primaire-sociale-democrate-cherche-ses-candidats_6722668_823448.html",
    "n_members": 61,
@@ -867,39 +897,9 @@
    ]
   },
   {
-   "title": "Incendies à Fontainebleau: une reprise de feu près de l'A6",
-   "url": "https://www.lejdd.fr/Societe/eure-une-eglise-sauvee-des-flammes-par-trois-adolescent-178761",
-   "n_members": 61,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 8,
-    "opinion": 1
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.794,
-   "category": "environnement",
-   "terms_left": [
-    "forêts",
-    "pompier",
-    "faut"
-   ],
-   "terms_right": [
-    "ans",
-    "incendie",
-    "homme"
-   ]
-  },
-  {
    "title": "La France dans une situation de sécheresse «exceptionnelle» et «très préoccupante»",
    "url": "https://reporterre.net/Ne-nous-oubliez-pas-apres-les-canicules-des-milliers-de-sinistres-climatiques",
-   "n_members": 43,
+   "n_members": 44,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -929,7 +929,7 @@
   {
    "title": "«Les joueurs sont anéantis» : les Bleus tombent de haut face à l'écrasante Roja aux portes de la finale de la Coupe du monde",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/france-espagne-ces-statistiques-qui-ne-plaident-pas-en-faveur-des-bleus-avant-la-demi-finale-de-coupe-du-monde-11-07-2026-FFZKRR2HU5E6TCVYGHBS25YQ74.php",
-   "n_members": 104,
+   "n_members": 105,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -943,7 +943,7 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.649,
+   "divergence": 0.648,
    "category": "sport",
    "terms_left": [
     "qu",
@@ -973,12 +973,12 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.562,
+   "divergence": 0.573,
    "category": "environnement",
    "terms_left": [
-    "soupçonnées",
     "feu volontaires",
-    "départs feu"
+    "départs feu",
+    "jours"
    ],
    "terms_right": [
     "incendies",
@@ -1003,12 +1003,12 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.697,
+   "divergence": 0.704,
    "category": "sport",
    "terms_left": [
     "trump",
     "finale",
-    "mi-temps"
+    "argentine"
    ],
    "terms_right": [
     "espagne",
