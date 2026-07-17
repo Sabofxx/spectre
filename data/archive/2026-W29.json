@@ -1,13 +1,13 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-17T12:41:53+00:00",
+ "generated_at": "2026-07-17T14:26:20+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Les deux feux de la forêt de Fontainebleau sont désormais \"fixés\"",
    "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/jusqua-4h20-de-retard-le-trafic-sncf-fortement-perturbe-sur-la-ligne-sud-est-entre-paris-et-marseille-a-cause-dun-incendie-12-07-2026-7E3R5IBOQNAXRDOH35X3TPSWTI.php",
-   "n_members": 302,
+   "n_members": 303,
    "n_sources": 35,
    "counts": {
     "left": 8,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.229,
+   "divergence": 0.227,
    "category": "politique",
    "terms_left": [
     "malades",
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.351,
+   "divergence": 0.344,
    "category": "sport",
    "terms_left": [
     "roja",
@@ -89,9 +89,9 @@
     "méchants"
    ],
    "terms_right": [
-    "espagne",
     "troisième",
-    "équipe"
+    "place",
+    "espagne"
    ]
   },
   {
@@ -127,7 +127,7 @@
   {
    "title": "DIRECT. Guerre au Moyen-Orient: l'Iran dit avoir attaqué des cibles américaines au Koweït et à Bahreïn avec des drones",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 206,
+   "n_members": 207,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.372,
+   "divergence": 0.373,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -187,7 +187,7 @@
   {
    "title": "Après la canicule, place aux orages violents avec 11 départements placés en vigilance orange",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 256,
+   "n_members": 257,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.341,
+   "divergence": 0.342,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -212,6 +212,36 @@
     "départements placés",
     "placés vigilance",
     "placés"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : Elon Musk apporte son soutien à Marine Le Pen, estimant qu’elle « est le dernier espoir de la France »",
+   "url": "https://www.publicsenat.fr/actualites/parlementaire/zones-grises-de-linformation-le-senat-veut-muscler-la-lutte-contre-la-desinformation-avant-2027",
+   "n_members": 67,
+   "n_sources": 28,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 6
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.579,
+   "category": "politique",
+   "terms_left": [
+    "rn",
+    "stérin",
+    "candidate"
+   ],
+   "terms_right": [
+    "présidentielle",
+    "français",
+    "président"
    ]
   },
   {
@@ -231,7 +261,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.303,
+   "divergence": 0.311,
    "category": "société",
    "terms_left": [
     "mémoire",
@@ -240,8 +270,8 @@
    ],
    "terms_right": [
     "hommage",
-    "mémorielle prévue",
-    "heures place"
+    "cérémonie",
+    "cérémonie mémorielle"
    ]
   },
   {
@@ -261,12 +291,12 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.62,
+   "divergence": 0.619,
    "category": "société",
    "terms_left": [
+    "président",
     "etat",
-    "nice",
-    "chef"
+    "nice"
    ],
    "terms_right": [
     "défilé",
@@ -305,33 +335,33 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : Elon Musk apporte son soutien à Marine Le Pen, estimant qu’elle « est le dernier espoir de la France »",
-   "url": "https://www.publicsenat.fr/actualites/parlementaire/zones-grises-de-linformation-le-senat-veut-muscler-la-lutte-contre-la-desinformation-avant-2027",
-   "n_members": 65,
+   "title": "Loi d'urgence agricole: eau, pesticides... Députés et sénateurs parviennent à un fragile compromis qui reste à valider",
+   "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
+   "n_members": 62,
    "n_sources": 27,
    "counts": {
-    "left": 4,
+    "left": 9,
     "centre": 11,
-    "right": 12
+    "right": 7
    },
    "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 6
+    "factuel": 14,
+    "mixte": 11,
+    "opinion": 2
    },
-   "blindspot_score": 0.5,
+   "blindspot_score": -0.125,
    "blindspot_for": null,
-   "divergence": 0.579,
-   "category": "politique",
+   "divergence": 0.641,
+   "category": "société",
    "terms_left": [
-    "rn",
-    "stérin",
-    "candidate"
+    "pesticides",
+    "loi",
+    "réintroduction"
    ],
    "terms_right": [
-    "présidentielle",
-    "français",
-    "sénat"
+    "mort",
+    "shemseddine",
+    "députés"
    ]
   },
   {
@@ -351,47 +381,17 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.992,
+   "divergence": 0.994,
    "category": "international",
    "terms_left": [
-    "européen",
     "affaire",
-    "européens"
+    "européens",
+    "droite"
    ],
    "terms_right": [
     "france",
     "ans",
     "réseaux"
-   ]
-  },
-  {
-   "title": "Loi d'urgence agricole: eau, pesticides... Députés et sénateurs parviennent à un fragile compromis qui reste à valider",
-   "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
-   "n_members": 61,
-   "n_sources": 27,
-   "counts": {
-    "left": 9,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 11,
-    "opinion": 2
-   },
-   "blindspot_score": -0.125,
-   "blindspot_for": null,
-   "divergence": 0.635,
-   "category": "société",
-   "terms_left": [
-    "loi",
-    "pesticides",
-    "réintroduction"
-   ],
-   "terms_right": [
-    "mort",
-    "shemseddine",
-    "députés"
    ]
   },
   {
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.358,
+   "divergence": 0.359,
    "category": "politique",
    "terms_left": [
     "candidate",
@@ -471,7 +471,7 @@
    },
    "blindspot_score": -0.286,
    "blindspot_for": null,
-   "divergence": 0.371,
+   "divergence": 0.372,
    "category": "culture",
    "terms_left": [
     "voir",
@@ -481,7 +481,7 @@
    "terms_right": [
     "ans",
     "meilleur",
-    "meilleur démarrage"
+    "démarrage année"
    ]
   },
   {
@@ -512,6 +512,36 @@
     "feu",
     "suspects",
     "personnes"
+   ]
+  },
+  {
+   "title": "Affaire Lyhanna : la Chancellerie s'apprête à publier le bilan du réexamen des 88.000 plaintes pour violences sur mineurs",
+   "url": "https://www.lemonde.fr/societe/article/2026/07/10/patrick-bruel-vise-par-une-nouvelle-plainte-pour-viol_6722508_3224.html",
+   "n_members": 73,
+   "n_sources": 25,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": -0.077,
+   "blindspot_for": null,
+   "divergence": 0.498,
+   "category": "faits-divers",
+   "terms_left": [
+    "sexuelles",
+    "violences sexuelles",
+    "plainte"
+   ],
+   "terms_right": [
+    "barella",
+    "jérôme",
+    "principal"
    ]
   },
   {
@@ -547,7 +577,7 @@
   {
    "title": "Canicule de juillet : les urgences repartent à la hausse, mais loin du pic de juin",
    "url": "https://www.liberation.fr/environnement/climat/70c-sur-un-toboggan-24c-sous-les-arbres-en-pleine-canicule-paris-passe-lepreuve-de-la-camera-thermique-20260711_6F4MOBMM6NB5FLW2KPBCFOSBXU/",
-   "n_members": 50,
+   "n_members": 52,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -561,12 +591,12 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.862,
+   "divergence": 0.853,
    "category": "environnement",
    "terms_left": [
     "face",
-    "vidéos",
-    "paris"
+    "climatique",
+    "début"
    ],
    "terms_right": [
     "france",
@@ -577,7 +607,7 @@
   {
    "title": "La France dans une situation de sécheresse «exceptionnelle» et «très préoccupante»",
    "url": "https://reporterre.net/Ne-nous-oubliez-pas-apres-les-canicules-des-milliers-de-sinistres-climatiques",
-   "n_members": 47,
+   "n_members": 49,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -591,7 +621,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.578,
+   "divergence": 0.584,
    "category": "environnement",
    "terms_left": [
     "canicules",
@@ -629,7 +659,7 @@
   {
    "title": "DIRECT. Affaire Jubillar: des ossements retrouvés ce jeudi près de Cagnac-les-Mines (info BFMTV)",
    "url": "https://www.leparisien.fr/video/actualites/faits-divers/affaire-delphine-jubillar-des-ossements-non-identifies-decouverts-16-07-2026-CDYSBQ7GCBEYZPOQF6DFVKENUQ.php",
-   "n_members": 168,
+   "n_members": 178,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -643,7 +673,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.36,
+   "divergence": 0.354,
    "category": "faits-divers",
    "terms_left": [
     "tarn",
@@ -657,9 +687,9 @@
    ]
   },
   {
-   "title": "Incendie en Espagne: l'identification des victimes est terminée, 12 étrangers parmi les 13 morts",
+   "title": "Incendie en Andalousie : les 13 victimes ont été identifiées, le nombre de disparus en hausse",
    "url": "https://www.franceinfo.fr/monde/espagne/un-feu-de-foret-fait-douze-morts-en-andalousie-alors-que-l-espagne-affronte-une-vague-de-chaleur_8102162.html",
-   "n_members": 118,
+   "n_members": 119,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -673,12 +703,12 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.608,
+   "divergence": 0.603,
    "category": "international",
    "terms_left": [
-    "forêt",
     "disparus",
-    "feu forêt"
+    "forêt",
+    "los"
    ],
    "terms_right": [
     "incendie espagne",
@@ -703,12 +733,12 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.495,
+   "divergence": 0.531,
    "category": "sport",
    "terms_left": [
-    "ans",
-    "droite",
-    "extrême"
+    "espagnole",
+    "équipe france",
+    "rugby"
    ],
    "terms_right": [
     "espagnol",
@@ -744,36 +774,6 @@
     "iran",
     "états-unis",
     "moyen-orient"
-   ]
-  },
-  {
-   "title": "Affaire Lyhanna : la Chancellerie s'apprête à publier le bilan du réexamen des 88.000 plaintes pour violences sur mineurs",
-   "url": "https://www.lemonde.fr/societe/article/2026/07/10/patrick-bruel-vise-par-une-nouvelle-plainte-pour-viol_6722508_3224.html",
-   "n_members": 71,
-   "n_sources": 24,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.503,
-   "category": "faits-divers",
-   "terms_left": [
-    "plainte",
-    "visé",
-    "patrick"
-   ],
-   "terms_right": [
-    "principal",
-    "suspect",
-    "barella"
    ]
   },
   {
@@ -823,17 +823,17 @@
    },
    "blindspot_score": -0.4,
    "blindspot_for": null,
-   "divergence": 0.515,
+   "divergence": 0.517,
    "category": "international",
    "terms_left": [
     "personnes",
-    "administration trump",
-    "administration"
+    "mois",
+    "administration trump"
    ],
    "terms_right": [
+    "états-unis",
     "immigration",
-    "donald trump",
-    "donald"
+    "ans"
    ]
   },
   {
@@ -853,7 +853,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.68,
+   "divergence": 0.679,
    "category": "international",
    "terms_left": [
     "militaire",
@@ -883,7 +883,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.784,
+   "divergence": 0.783,
    "category": "environnement",
    "terms_left": [
     "forêts",
@@ -929,7 +929,7 @@
   {
    "title": "Guerre en Ukraine : deux morts et huit blessés dans des frappes russes sur Odessa",
    "url": "https://www.nouvelobs.com/justice/20260711.OBS116580/affaire-jubillar-les-coulisses-des-aveux-qui-posent-plus-de-questions-qu-ils-n-apportent-de-reponses.html",
-   "n_members": 57,
+   "n_members": 59,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -943,12 +943,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.955,
+   "divergence": 0.954,
    "category": "international",
    "terms_left": [
     "sud",
-    "israël",
-    "dit"
+    "dit",
+    "pays"
    ],
    "terms_right": [
     "jubillar",
@@ -1003,7 +1003,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.578,
+   "divergence": 0.577,
    "category": "environnement",
    "terms_left": [
     "feu volontaires",
@@ -1091,9 +1091,39 @@
    "terms_right": []
   },
   {
-   "title": "Guerre en Ukraine : le mois de juin 2026 a été le plus meurtrier pour les civils depuis avril 2022",
+   "title": "Donald Trump relance ses accusations de fraude électorale et s'en prend à la Chine",
+   "url": "https://information.tv5monde.com/international/deux-juges-de-la-cour-supreme-americaine-auditionnees-au-congres-2830223",
+   "n_members": 44,
+   "n_sources": 22,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 4,
+    "opinion": 3
+   },
+   "blindspot_score": 0.4,
+   "blindspot_for": null,
+   "divergence": 0.664,
+   "category": "international",
+   "terms_left": [
+    "nouvelle",
+    "fois",
+    "nouvelle fois"
+   ],
+   "terms_right": [
+    "donald trump",
+    "donald",
+    "chine"
+   ]
+  },
+  {
+   "title": "Canicule de juin : la mortalité a plus que doublé par rapport à la normale en Île-de-France",
    "url": "https://www.ladepeche.fr/2026/07/11/elle-prenait-lair-a-cause-de-la-chaleur-une-etudiante-de-21-ans-a-ete-enlevee-et-violee-sous-la-menace-dun-couteau-le-suspect-est-un-violeur-en-serie-13464920.php",
-   "n_members": 64,
+   "n_members": 70,
    "n_sources": 21,
    "counts": {
     "left": 2,
@@ -1129,7 +1159,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.968,
+   "divergence": 0.978,
    "category": "société",
    "terms_left": [
     "fontainebleau",
@@ -1137,39 +1167,9 @@
     "incendies"
    ],
    "terms_right": [
-    "artifice",
     "feu",
-    "paris"
-   ]
-  },
-  {
-   "title": "Sébastien Lecornu salue un bilan \"exceptionnellement positif\" des relations franco-marocaines",
-   "url": "https://www.latribune.fr/article/la-tribune-dimanche/politique/19759287594392/france-maroc-les-trois-dossiers-sensibles-du-deplacement-de-sebastien-lecornu",
-   "n_members": 54,
-   "n_sources": 21,
-   "counts": {
-    "left": 7,
-    "centre": 9,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": -0.167,
-   "blindspot_for": null,
-   "divergence": 0.847,
-   "category": "international",
-   "terms_left": [
-    "monde",
-    "enquête",
-    "ministres français"
-   ],
-   "terms_right": [
-    "rabat",
-    "sébastien",
-    "lecornu"
+    "paris",
+    "artifice"
    ]
   }
  ]
