@@ -1,13 +1,13 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-18T20:39:16+00:00",
+ "generated_at": "2026-07-18T21:41:47+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Emmanuel Macron arrive à Fontainebleau pour apporter son soutien à ceux qui luttent contre les flammes",
    "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/jusqua-4h20-de-retard-le-trafic-sncf-fortement-perturbe-sur-la-ligne-sud-est-entre-paris-et-marseille-a-cause-dun-incendie-12-07-2026-7E3R5IBOQNAXRDOH35X3TPSWTI.php",
-   "n_members": 316,
+   "n_members": 317,
    "n_sources": 35,
    "counts": {
     "left": 8,
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.298,
+   "divergence": 0.3,
    "category": "environnement",
    "terms_left": [
-    "fontainebleau incendies",
     "historique",
-    "manque"
+    "manque",
+    "direct canicule"
    ],
    "terms_right": [
     "pompiers",
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.233,
+   "divergence": 0.236,
    "category": "politique",
    "terms_left": [
     "contient",
@@ -67,7 +67,7 @@
   {
    "title": "Coupe du monde 2026 : la France face à l’Angleterre pour une place de troisième",
    "url": "https://www.nouvelobs.com/sport/20260709.OBS116534/un-mannequin-de-mbappe-brule-bagarre-en-conference-de-presse-le-bulletin-de-la-coupe-du-monde-de-trump.html",
-   "n_members": 276,
+   "n_members": 279,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -85,8 +85,8 @@
    "category": "sport",
    "terms_left": [
     "méchants",
-    "bleus",
-    "yamal"
+    "yamal",
+    "lamine"
    ],
    "terms_right": [
     "place",
@@ -157,7 +157,7 @@
   {
    "title": "DIRECT. Guerre au Moyen-Orient: l'Iran dit avoir attaqué des cibles américaines au Koweït et à Bahreïn avec des drones",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 276,
+   "n_members": 277,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.377,
+   "divergence": 0.378,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -185,9 +185,9 @@
    ]
   },
   {
-   "title": "Ukraine : manifestations contre le départ du ministre de la Défense",
+   "title": "\"Rendez-nous Fedorov !\" : en Ukraine, des manifestations contre le limogeage du ministre de la Défense",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 161,
+   "n_members": 162,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -209,8 +209,8 @@
     "drones"
    ],
    "terms_right": [
-    "volodymyr",
     "volodymyr zelensky",
+    "volodymyr",
     "zelensky"
    ]
   },
@@ -417,6 +417,36 @@
    "terms_right": []
   },
   {
+   "title": "Canicule de juillet : les urgences repartent à la hausse, mais loin du pic de juin",
+   "url": "https://www.liberation.fr/environnement/climat/70c-sur-un-toboggan-24c-sous-les-arbres-en-pleine-canicule-paris-passe-lepreuve-de-la-camera-thermique-20260711_6F4MOBMM6NB5FLW2KPBCFOSBXU/",
+   "n_members": 61,
+   "n_sources": 27,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.772,
+   "category": "environnement",
+   "terms_left": [
+    "paris",
+    "face",
+    "climatique"
+   ],
+   "terms_right": [
+    "france",
+    "orages",
+    "pays"
+   ]
+  },
+  {
    "title": "La Grande Mosquée de Paris a 100 ans : retour sur un projet grandiose et polémique",
    "url": "https://www.nouvelobs.com/culture/20260710.OBS116557/ce-n-est-pas-une-crise-c-est-une-hecatombe-au-festival-d-avignon-la-colere-monte-contre-les-coupes-budgetaires.html",
    "n_members": 60,
@@ -444,36 +474,6 @@
     "vigilance",
     "antisémitisme",
     "appelle"
-   ]
-  },
-  {
-   "title": "Canicule de juillet : les urgences repartent à la hausse, mais loin du pic de juin",
-   "url": "https://www.liberation.fr/environnement/climat/70c-sur-un-toboggan-24c-sous-les-arbres-en-pleine-canicule-paris-passe-lepreuve-de-la-camera-thermique-20260711_6F4MOBMM6NB5FLW2KPBCFOSBXU/",
-   "n_members": 60,
-   "n_sources": 27,
-   "counts": {
-    "left": 7,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 4
-   },
-   "blindspot_score": 0.067,
-   "blindspot_for": null,
-   "divergence": 0.777,
-   "category": "environnement",
-   "terms_left": [
-    "paris",
-    "face",
-    "climatique"
-   ],
-   "terms_right": [
-    "france",
-    "orages",
-    "pays"
    ]
   },
   {
@@ -553,7 +553,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.648,
+   "divergence": 0.65,
    "category": "faits-divers",
    "terms_left": [
     "forêt fontainebleau",
@@ -677,12 +677,12 @@
    "category": "international",
    "terms_left": [
     "élections mi-mandat",
-    "loi",
-    "fois"
+    "fois",
+    "loi"
    ],
    "terms_right": [
-    "donald",
     "donald trump",
+    "donald",
     "électorales"
    ]
   },
@@ -905,7 +905,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.65,
+   "divergence": 0.649,
    "category": "international",
    "terms_left": [
     "tenu",
