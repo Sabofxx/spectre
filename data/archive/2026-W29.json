@@ -1,6 +1,6 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-18T12:52:19+00:00",
+ "generated_at": "2026-07-18T14:16:59+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -56,7 +56,7 @@
    "terms_left": [
     "malades",
     "contient",
-    "définitivement adoptée"
+    "parcours"
    ],
    "terms_right": [
     "proposition loi",
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.358,
+   "divergence": 0.355,
    "category": "sport",
    "terms_left": [
     "méchants",
@@ -90,8 +90,8 @@
    ],
    "terms_right": [
     "place",
-    "match",
-    "france"
+    "france",
+    "équipe"
    ]
   },
   {
@@ -127,7 +127,7 @@
   {
    "title": "Météo-France place 21 départements en vigilance orange pour un risque d'orages violents",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 273,
+   "n_members": 274,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -157,7 +157,7 @@
   {
    "title": "DIRECT. Guerre au Moyen-Orient: l'Iran dit avoir attaqué des cibles américaines au Koweït et à Bahreïn avec des drones",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 250,
+   "n_members": 251,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.372,
+   "divergence": 0.374,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -187,7 +187,7 @@
   {
    "title": "Ukraine : manifestations contre le départ du ministre de la Défense",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 158,
+   "n_members": 159,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.605,
+   "divergence": 0.606,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -209,8 +209,8 @@
     "drones"
    ],
    "terms_right": [
-    "volodymyr",
     "volodymyr zelensky",
+    "volodymyr",
     "zelensky"
    ]
   },
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.547,
+   "divergence": 0.546,
    "category": "politique",
    "terms_left": [
     "rn",
@@ -241,7 +241,7 @@
    "terms_right": [
     "présidentielle",
     "français",
-    "article"
+    "méfier sondages"
    ]
   },
   {
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.236,
+   "divergence": 0.235,
    "category": "société",
    "terms_left": [
     "mémoire",
@@ -270,7 +270,7 @@
    ],
    "terms_right": [
     "emmanuel",
-    "hommage",
+    "hommage victimes",
     "emmanuel macron"
    ]
   },
@@ -383,16 +383,8 @@
    "blindspot_for": null,
    "divergence": 0.995,
    "category": "international",
-   "terms_left": [
-    "européens",
-    "droite",
-    "groupe"
-   ],
-   "terms_right": [
-    "réseaux",
-    "france",
-    "sociaux"
-   ]
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "La Grande Mosquée de Paris a 100 ans : retour sur un projet grandiose et polémique",
@@ -471,7 +463,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.79,
+   "divergence": 0.789,
    "category": "environnement",
    "terms_left": [
     "climatique",
@@ -487,7 +479,7 @@
   {
    "title": "“L’Odyssée” de Christopher Nolan offre un spectacle mythique",
    "url": "https://www.mediapart.fr/journal/culture-et-idees/110726/l-odyssee-sort-au-cinema-et-ravive-la-question-de-la-race-sous-l-antiquite",
-   "n_members": 64,
+   "n_members": 65,
    "n_sources": 26,
    "counts": {
     "left": 9,
@@ -501,7 +493,7 @@
    },
    "blindspot_score": -0.286,
    "blindspot_for": null,
-   "divergence": 0.321,
+   "divergence": 0.319,
    "category": "culture",
    "terms_left": [
     "odyssée",
@@ -561,7 +553,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.646,
+   "divergence": 0.644,
    "category": "faits-divers",
    "terms_left": [
     "société travaux",
@@ -591,7 +583,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.49,
+   "divergence": 0.488,
    "category": "faits-divers",
    "terms_left": [
     "violences sexuelles",
@@ -599,7 +591,7 @@
     "plainte"
    ],
    "terms_right": [
-    "pédocriminalité",
+    "lyhanna",
     "barella",
     "jérôme"
    ]
@@ -621,7 +613,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.648,
+   "divergence": 0.649,
    "category": "économie",
    "terms_left": [
     "économistes",
@@ -659,8 +651,8 @@
     "fois"
    ],
    "terms_right": [
-    "donald trump",
     "donald",
+    "donald trump",
     "électorales"
    ]
   },
@@ -869,7 +861,7 @@
   {
    "title": "Canada : Toronto asphyxiée par les fumées des feux de forêt",
    "url": "https://www.lefigaro.fr/culture/incendies-la-fondation-de-france-et-la-fondation-du-patrimoine-lancent-des-appels-aux-dons-en-faveur-des-forets-20260714",
-   "n_members": 69,
+   "n_members": 70,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -883,7 +875,7 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.468,
+   "divergence": 0.454,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -913,12 +905,12 @@
    },
    "blindspot_score": -0.4,
    "blindspot_for": null,
-   "divergence": 0.529,
+   "divergence": 0.538,
    "category": "international",
    "terms_left": [
-    "personnes",
+    "trump",
     "mois",
-    "etats-unis"
+    "personnes"
    ],
    "terms_right": [
     "immigration",
@@ -957,7 +949,7 @@
   {
    "title": "Un « signal fort » contre les violences faites aux enfants : l’Assemblée nationale vote pour rendre imprescriptibles les crimes commis sur les mineurs (mais ça ne fait pas l’unanimité)",
    "url": "https://www.leprogres.fr/economie/2026/07/15/logements-bouilloires-la-confederation-nationale-du-logement-entend-porter-plainte-contre-l-etat",
-   "n_members": 62,
+   "n_members": 63,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -971,7 +963,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.517,
+   "divergence": 0.512,
    "category": "politique",
    "terms_left": [
     "élue",
@@ -980,8 +972,8 @@
    ],
    "terms_right": [
     "ans",
-    "voix",
-    "viols série"
+    "viols série",
+    "voix"
    ]
   },
   {
@@ -1045,7 +1037,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.478,
+   "divergence": 0.496,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -1053,9 +1045,9 @@
     "raphaël"
    ],
    "terms_right": [
-    "slogan",
-    "campagne",
-    "qu"
+    "renaissance",
+    "qu",
+    "rn"
    ]
   },
   {
@@ -1075,7 +1067,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.91,
+   "divergence": 0.911,
    "category": "international",
    "terms_left": [
     "israël",
@@ -1091,7 +1083,7 @@
   {
    "title": "Coupe du monde. « Tout faire pour aller chercher la 3e place » : les mots de Didier Deschamps avant la petite finale",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/france-espagne-ces-statistiques-qui-ne-plaident-pas-en-faveur-des-bleus-avant-la-demi-finale-de-coupe-du-monde-11-07-2026-FFZKRR2HU5E6TCVYGHBS25YQ74.php",
-   "n_members": 123,
+   "n_members": 125,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -1135,7 +1127,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.607,
+   "divergence": 0.608,
    "category": "environnement",
    "terms_left": [
     "soupçonnées",
@@ -1174,8 +1166,8 @@
    ],
    "terms_right": [
     "demi-finale",
-    "paris",
-    "bleus"
+    "bleus",
+    "paris"
    ]
   }
  ]
