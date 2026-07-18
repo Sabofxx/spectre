@@ -1,6 +1,6 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-18T16:28:17+00:00",
+ "generated_at": "2026-07-18T17:29:54+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.288,
+   "divergence": 0.292,
    "category": "environnement",
    "terms_left": [
     "fontainebleau incendies",
@@ -37,7 +37,7 @@
   {
    "title": "Fin de vie : Le droit à l’aide à mourir définitivement adopté par les députés",
    "url": "https://www.lemonde.fr/politique/article/2026/07/10/retraites-les-experts-du-comite-de-suivi-preconisent-de-brider-les-pensions-pour-sortir-d-une-situation-alarmante_6722403_823448.html",
-   "n_members": 195,
+   "n_members": 196,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -51,17 +51,17 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.239,
+   "divergence": 0.245,
    "category": "politique",
    "terms_left": [
     "contient",
-    "malades",
+    "fois",
     "parcours"
    ],
    "terms_right": [
-    "proposition loi",
     "proposition",
-    "euthanasie"
+    "proposition loi",
+    "droit"
    ]
   },
   {
@@ -81,12 +81,12 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.352,
+   "divergence": 0.35,
    "category": "sport",
    "terms_left": [
     "méchants",
-    "bleus",
-    "yamal"
+    "yamal",
+    "lamine"
    ],
    "terms_right": [
     "place",
@@ -125,9 +125,9 @@
    ]
   },
   {
-   "title": "Météo-France place 21 départements en vigilance orange pour un risque d'orages violents",
+   "title": "Intempéries : attention aux orages dans le Centre et l'Est, fin de la vigilance orange canicule ce jeudi soir dans 15 départements",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 278,
+   "n_members": 279,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.347,
+   "divergence": 0.348,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -157,7 +157,7 @@
   {
    "title": "DIRECT. Guerre au Moyen-Orient: l'Iran dit avoir attaqué des cibles américaines au Koweït et à Bahreïn avec des drones",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 254,
+   "n_members": 259,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.371,
+   "divergence": 0.374,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.547,
+   "divergence": 0.526,
    "category": "politique",
    "terms_left": [
     "rn",
@@ -351,7 +351,7 @@
    },
    "blindspot_score": -0.125,
    "blindspot_for": null,
-   "divergence": 0.61,
+   "divergence": 0.609,
    "category": "société",
    "terms_left": [
     "acétamipride",
@@ -403,17 +403,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.527,
+   "divergence": 0.532,
    "category": "environnement",
    "terms_left": [
-    "préoccupante",
     "alerte",
-    "orages"
+    "orages",
+    "canicules"
    ],
    "terms_right": [
     "canicule",
-    "mois",
-    "cause"
+    "eau",
+    "mois"
    ]
   },
   {
@@ -463,17 +463,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.789,
+   "divergence": 0.777,
    "category": "environnement",
    "terms_left": [
-    "paris",
     "climatique",
+    "paris",
     "face"
    ],
    "terms_right": [
     "france",
     "orages",
-    "températures"
+    "qu"
    ]
   },
   {
@@ -523,17 +523,17 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.367,
+   "divergence": 0.366,
    "category": "politique",
    "terms_left": [
-    "candidate",
     "condamnation",
-    "malgré"
+    "décision",
+    "candidate"
    ],
    "terms_right": [
     "rn",
-    "parquet général",
-    "procès"
+    "procès",
+    "procès appel"
    ]
   },
   {
@@ -583,12 +583,12 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.489,
+   "divergence": 0.483,
    "category": "faits-divers",
    "terms_left": [
     "violences sexuelles",
-    "sexuelles",
-    "plainte"
+    "plainte",
+    "sexuelles"
    ],
    "terms_right": [
     "lyhanna",
@@ -613,17 +613,77 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.648,
+   "divergence": 0.668,
    "category": "économie",
    "terms_left": [
+    "milliard",
     "économistes",
-    "déficit",
-    "milliard"
+    "déficit"
    ],
    "terms_right": [
+    "milliards",
     "france",
-    "euros",
     "milliards euros"
+   ]
+  },
+  {
+   "title": "Canada : Toronto asphyxiée par les fumées des feux de forêt",
+   "url": "https://www.lefigaro.fr/culture/incendies-la-fondation-de-france-et-la-fondation-du-patrimoine-lancent-des-appels-aux-dons-en-faveur-des-forets-20260714",
+   "n_members": 71,
+   "n_sources": 25,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.453,
+   "category": "international",
+   "terms_left": [
+    "également",
+    "métropole",
+    "ontario"
+   ],
+   "terms_right": [
+    "air",
+    "états-unis",
+    "trump"
+   ]
+  },
+  {
+   "title": "«Des vulnérabilités choquantes» : Donald Trump accuse la Chine de fraude et de piratage de fichiers électoraux",
+   "url": "https://information.tv5monde.com/international/deux-juges-de-la-cour-supreme-americaine-auditionnees-au-congres-2830223",
+   "n_members": 65,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 5,
+    "opinion": 3
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.622,
+   "category": "international",
+   "terms_left": [
+    "élections mi-mandat",
+    "loi",
+    "fois"
+   ],
+   "terms_right": [
+    "donald trump",
+    "donald",
+    "électorales"
    ]
   },
   {
@@ -654,36 +714,6 @@
     "ans",
     "viols série",
     "voix"
-   ]
-  },
-  {
-   "title": "«Des vulnérabilités choquantes» : Donald Trump accuse la Chine de fraude et de piratage de fichiers électoraux",
-   "url": "https://information.tv5monde.com/international/deux-juges-de-la-cour-supreme-americaine-auditionnees-au-congres-2830223",
-   "n_members": 64,
-   "n_sources": 25,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.621,
-   "category": "international",
-   "terms_left": [
-    "élections mi-mandat",
-    "loi",
-    "fois"
-   ],
-   "terms_right": [
-    "donald trump",
-    "donald",
-    "électorales"
    ]
   },
   {
@@ -875,7 +905,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.649,
+   "divergence": 0.65,
    "category": "international",
    "terms_left": [
     "tenu",
@@ -886,36 +916,6 @@
     "iran",
     "moyen-orient",
     "guerre"
-   ]
-  },
-  {
-   "title": "Canada : Toronto asphyxiée par les fumées des feux de forêt",
-   "url": "https://www.lefigaro.fr/culture/incendies-la-fondation-de-france-et-la-fondation-du-patrimoine-lancent-des-appels-aux-dons-en-faveur-des-forets-20260714",
-   "n_members": 70,
-   "n_sources": 24,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": -0.091,
-   "blindspot_for": null,
-   "divergence": 0.454,
-   "category": "international",
-   "terms_left": [
-    "etats-unis",
-    "également",
-    "métropole"
-   ],
-   "terms_right": [
-    "air",
-    "états-unis",
-    "trump"
    ]
   },
   {
@@ -935,7 +935,7 @@
    },
    "blindspot_score": -0.4,
    "blindspot_for": null,
-   "divergence": 0.542,
+   "divergence": 0.543,
    "category": "international",
    "terms_left": [
     "trump",
@@ -965,7 +965,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.707,
+   "divergence": 0.706,
    "category": "international",
    "terms_left": [
     "zelensky",
@@ -1114,7 +1114,7 @@
   {
    "title": "Coupe du monde. « Tout faire pour aller chercher la 3e place » : les mots de Didier Deschamps avant la petite finale",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/france-espagne-ces-statistiques-qui-ne-plaident-pas-en-faveur-des-bleus-avant-la-demi-finale-de-coupe-du-monde-11-07-2026-FFZKRR2HU5E6TCVYGHBS25YQ74.php",
-   "n_members": 126,
+   "n_members": 127,
    "n_sources": 22,
    "counts": {
     "left": 3,
