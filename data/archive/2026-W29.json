@@ -1,6 +1,6 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-18T23:44:15+00:00",
+ "generated_at": "2026-07-19T01:43:38+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -24,8 +24,8 @@
    "divergence": 0.3,
    "category": "environnement",
    "terms_left": [
-    "historique",
     "manque",
+    "historique",
     "direct canicule"
    ],
    "terms_right": [
@@ -67,7 +67,7 @@
   {
    "title": "Coupe du monde 2026 : la France face à l’Angleterre pour une place de troisième",
    "url": "https://www.nouvelobs.com/sport/20260709.OBS116534/un-mannequin-de-mbappe-brule-bagarre-en-conference-de-presse-le-bulletin-de-la-coupe-du-monde-de-trump.html",
-   "n_members": 286,
+   "n_members": 287,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.339,
+   "divergence": 0.34,
    "category": "sport",
    "terms_left": [
     "méchants",
@@ -125,6 +125,36 @@
    ]
   },
   {
+   "title": "DIRECT. Guerre au Moyen-Orient: l'Iran dit avoir attaqué des cibles américaines au Koweït et à Bahreïn avec des drones",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
+   "n_members": 280,
+   "n_sources": 29,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.125,
+   "blindspot_for": null,
+   "divergence": 0.378,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "bombardements",
+    "téhéran"
+   ],
+   "terms_right": [
+    "états-unis",
+    "armée",
+    "armée américaine"
+   ]
+  },
+  {
    "title": "Intempéries : attention aux orages dans le Centre et l'Est, fin de la vigilance orange canicule ce jeudi soir dans 15 départements",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
    "n_members": 279,
@@ -152,36 +182,6 @@
     "placés vigilance",
     "placés",
     "orange"
-   ]
-  },
-  {
-   "title": "DIRECT. Guerre au Moyen-Orient: l'Iran dit avoir attaqué des cibles américaines au Koweït et à Bahreïn avec des drones",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 278,
-   "n_sources": 29,
-   "counts": {
-    "left": 7,
-    "centre": 13,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 10,
-    "opinion": 3
-   },
-   "blindspot_score": 0.125,
-   "blindspot_for": null,
-   "divergence": 0.377,
-   "category": "international",
-   "terms_left": [
-    "etats-unis",
-    "bombardements",
-    "téhéran"
-   ],
-   "terms_right": [
-    "états-unis",
-    "armée",
-    "armée américaine"
    ]
   },
   {
@@ -269,8 +269,8 @@
     "enfants"
    ],
    "terms_right": [
-    "emmanuel",
     "hommage victimes",
+    "emmanuel",
     "emmanuel macron"
    ]
   },
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.526,
+   "divergence": 0.525,
    "category": "environnement",
    "terms_left": [
     "alerte",
@@ -980,7 +980,7 @@
   {
    "title": "Coupe du monde. « Tout faire pour aller chercher la 3e place » : les mots de Didier Deschamps avant la petite finale",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/france-espagne-ces-statistiques-qui-ne-plaident-pas-en-faveur-des-bleus-avant-la-demi-finale-de-coupe-du-monde-11-07-2026-FFZKRR2HU5E6TCVYGHBS25YQ74.php",
-   "n_members": 136,
+   "n_members": 138,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -994,12 +994,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.611,
+   "divergence": 0.613,
    "category": "sport",
    "terms_left": [
     "foot",
-    "monde",
-    "espagne"
+    "espagne",
+    "qu"
    ],
    "terms_right": [
     "deschamps",
