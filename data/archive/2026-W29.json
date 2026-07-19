@@ -1,6 +1,6 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-19T16:45:53+00:00",
+ "generated_at": "2026-07-19T17:50:02+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.255,
+   "divergence": 0.257,
    "category": "politique",
    "terms_left": [
+    "parlement",
     "droite",
-    "emmanuel",
-    "emmanuel macron"
+    "emmanuel"
    ],
    "terms_right": [
     "texte",
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.323,
+   "divergence": 0.322,
    "category": "sport",
    "terms_left": [
     "face",
@@ -92,6 +92,36 @@
     "match",
     "france",
     "équipe france"
+   ]
+  },
+  {
+   "title": "Ukraine : le remaniement ministériel de Zelensky déclenche critiques et manifestations",
+   "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
+   "n_members": 168,
+   "n_sources": 30,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.125,
+   "blindspot_for": null,
+   "divergence": 0.594,
+   "category": "international",
+   "terms_left": [
+    "guerre",
+    "espagne",
+    "manifestations"
+   ],
+   "terms_right": [
+    "volodymyr zelensky",
+    "volodymyr",
+    "zelensky"
    ]
   },
   {
@@ -141,7 +171,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.384,
+   "divergence": 0.385,
    "category": "international",
    "terms_left": [
     "téhéran",
@@ -157,7 +187,7 @@
   {
    "title": "Canicule: sept départements du sud-est maintenus en vigilance orange ce dimanche",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 284,
+   "n_members": 285,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -185,36 +215,6 @@
    ]
   },
   {
-   "title": "Ukraine : le remaniement ministériel de Zelensky déclenche critiques et manifestations",
-   "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 167,
-   "n_sources": 29,
-   "counts": {
-    "left": 7,
-    "centre": 13,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.125,
-   "blindspot_for": null,
-   "divergence": 0.587,
-   "category": "international",
-   "terms_left": [
-    "guerre",
-    "espagne",
-    "manifestations"
-   ],
-   "terms_right": [
-    "volodymyr zelensky",
-    "volodymyr",
-    "zelensky"
-   ]
-  },
-  {
    "title": "Présidentielle 2027 : Elon Musk apporte son soutien à Marine Le Pen, estimant qu’elle « est le dernier espoir de la France »",
    "url": "https://www.publicsenat.fr/actualites/parlementaire/zones-grises-de-linformation-le-senat-veut-muscler-la-lutte-contre-la-desinformation-avant-2027",
    "n_members": 80,
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.455,
+   "divergence": 0.456,
    "category": "politique",
    "terms_left": [
     "rn",
@@ -335,9 +335,9 @@
    ]
   },
   {
-   "title": "Loi d'urgence agricole: eau, pesticides... Députés et sénateurs parviennent à un fragile compromis qui reste à valider",
+   "title": "Projet de loi d’urgence agricole : l’acétamipride reste « le principal sujet qui crispe », selon la ministre de la Transition écologique",
    "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
-   "n_members": 67,
+   "n_members": 68,
    "n_sources": 27,
    "counts": {
     "left": 9,
@@ -351,7 +351,7 @@
    },
    "blindspot_score": -0.125,
    "blindspot_for": null,
-   "divergence": 0.673,
+   "divergence": 0.67,
    "category": "société",
    "terms_left": [
     "eau",
@@ -493,7 +493,7 @@
    },
    "blindspot_score": -0.286,
    "blindspot_for": null,
-   "divergence": 0.279,
+   "divergence": 0.277,
    "category": "culture",
    "terms_left": [
     "odyssée",
@@ -553,16 +553,16 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.673,
+   "divergence": 0.676,
    "category": "faits-divers",
    "terms_left": [
-    "travaux",
-    "société travaux",
-    "gérant société"
+    "forêt fontainebleau",
+    "forêt",
+    "pyromanes"
    ],
    "terms_right": [
-    "incendies",
     "feu",
+    "incendies",
     "feux"
    ]
   },
@@ -643,7 +643,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.44,
+   "divergence": 0.439,
    "category": "international",
    "terms_left": [
     "toronto",
@@ -654,6 +654,36 @@
     "air",
     "états-unis",
     "trump"
+   ]
+  },
+  {
+   "title": "L’Assemblée nationale rejette la perpétuité pour viols en série sur mineurs de moins de 15 ans, nouveau vote mardi",
+   "url": "https://www.leprogres.fr/economie/2026/07/15/logements-bouilloires-la-confederation-nationale-du-logement-entend-porter-plainte-contre-l-etat",
+   "n_members": 66,
+   "n_sources": 25,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.513,
+   "category": "politique",
+   "terms_left": [
+    "crimes",
+    "christine herzog",
+    "herzog"
+   ],
+   "terms_right": [
+    "ans",
+    "perpétuité",
+    "viols série"
    ]
   },
   {
@@ -673,7 +703,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.629,
+   "divergence": 0.631,
    "category": "international",
    "terms_left": [
     "élections mi-mandat",
@@ -681,39 +711,9 @@
     "fois"
    ],
    "terms_right": [
-    "donald",
     "donald trump",
+    "donald",
     "électorales"
-   ]
-  },
-  {
-   "title": "Politique. Viols sur mineurs de moins de 15 ans : le vote de de l'Assemblée nationale sur la perpétuité reporté",
-   "url": "https://www.leprogres.fr/economie/2026/07/15/logements-bouilloires-la-confederation-nationale-du-logement-entend-porter-plainte-contre-l-etat",
-   "n_members": 65,
-   "n_sources": 25,
-   "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 4
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.51,
-   "category": "politique",
-   "terms_left": [
-    "christine herzog",
-    "herzog",
-    "exclue"
-   ],
-   "terms_right": [
-    "ans",
-    "viols série",
-    "série"
    ]
   },
   {
@@ -763,7 +763,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.69,
+   "divergence": 0.689,
    "category": "économie",
    "terms_left": [
     "protection",
@@ -801,7 +801,7 @@
   {
    "title": "Affaire Jubillar : les ossements retrouvés dans le Tarn ce jeudi sont bien ceux de Delphine Jubillar",
    "url": "https://www.leparisien.fr/video/actualites/faits-divers/affaire-delphine-jubillar-des-ossements-non-identifies-decouverts-16-07-2026-CDYSBQ7GCBEYZPOQF6DFVKENUQ.php",
-   "n_members": 238,
+   "n_members": 245,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -815,7 +815,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.305,
+   "divergence": 0.291,
    "category": "faits-divers",
    "terms_left": [
     "tarn",
@@ -1074,6 +1074,36 @@
    "terms_right": []
   },
   {
+   "title": "Présidentielle 2027 : Bernard Cazeneuve écrit une « lettre aux Français » et ébauche un programme",
+   "url": "https://www.lemonde.fr/politique/article/2026/07/14/retraite-progressive-pourquoi-les-francais-ont-de-plus-en-plus-recours-a-ce-dispositif_6723301_823448.html",
+   "n_members": 62,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.626,
+   "category": "politique",
+   "terms_left": [
+    "candidat",
+    "ministres",
+    "pays"
+   ],
+   "terms_right": [
+    "paris",
+    "lettre",
+    "retour"
+   ]
+  },
+  {
    "title": "\"Contrefaçon de marque\" et \"parasitisme\": Renaissance attaque le RN en justice pour l'\"appropriation\" de son nom sur une affiche de campagne présidentielle",
    "url": "https://www.lemonde.fr/politique/article/2026/07/11/segolene-royal-raphael-glucksmann-francois-hollande-la-primaire-sociale-democrate-cherche-ses-candidats_6722668_823448.html",
    "n_members": 61,
@@ -1131,36 +1161,6 @@
     "ans",
     "frappes",
     "morts"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : Bernard Cazeneuve écrit une « lettre aux Français » et ébauche un programme",
-   "url": "https://www.lemonde.fr/politique/article/2026/07/14/retraite-progressive-pourquoi-les-francais-ont-de-plus-en-plus-recours-a-ce-dispositif_6723301_823448.html",
-   "n_members": 61,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.625,
-   "category": "politique",
-   "terms_left": [
-    "candidat",
-    "pays",
-    "ministres"
-   ],
-   "terms_right": [
-    "paris",
-    "lettre",
-    "français"
    ]
   }
  ]
