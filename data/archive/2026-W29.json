@@ -1,6 +1,6 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-19T14:56:09+00:00",
+ "generated_at": "2026-07-19T15:47:14+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,17 +21,17 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.296,
+   "divergence": 0.301,
    "category": "environnement",
    "terms_left": [
     "massif",
     "national",
-    "manque"
+    "direct canicule"
    ],
    "terms_right": [
     "pompiers",
-    "incendie",
-    "incendie forêt"
+    "incendie forêt",
+    "incendie"
    ]
   },
   {
@@ -127,7 +127,7 @@
   {
    "title": "EN DIRECT - Moyen-Orient: les États-Unis ciblent à nouveau l'Iran après la mort de deux militaires",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 315,
+   "n_members": 318,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -141,23 +141,23 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.391,
+   "divergence": 0.386,
    "category": "international",
    "terms_left": [
     "téhéran",
-    "etats-unis",
-    "conflit"
+    "reprise",
+    "bombardements"
    ],
    "terms_right": [
-    "armée",
     "états-unis",
+    "armée",
     "militaires"
    ]
   },
   {
    "title": "Canicule: sept départements du sud-est maintenus en vigilance orange ce dimanche",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 282,
+   "n_members": 284,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.375,
+   "divergence": 0.378,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.584,
+   "divergence": 0.587,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -209,8 +209,8 @@
     "manifestations"
    ],
    "terms_right": [
-    "volodymyr",
     "volodymyr zelensky",
+    "volodymyr",
     "zelensky"
    ]
   },
@@ -351,7 +351,7 @@
    },
    "blindspot_score": -0.125,
    "blindspot_for": null,
-   "divergence": 0.669,
+   "divergence": 0.668,
    "category": "société",
    "terms_left": [
     "eau",
@@ -411,17 +411,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.766,
+   "divergence": 0.768,
    "category": "environnement",
    "terms_left": [
     "paris",
-    "face",
-    "morts"
+    "morts",
+    "climatique"
    ],
    "terms_right": [
-    "france",
-    "canicule",
-    "feu"
+    "fortes chaleurs",
+    "chaleurs",
+    "fortes"
    ]
   },
   {
@@ -553,7 +553,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.673,
+   "divergence": 0.674,
    "category": "faits-divers",
    "terms_left": [
     "travaux",
@@ -643,17 +643,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.445,
+   "divergence": 0.44,
    "category": "international",
    "terms_left": [
     "toronto",
     "millions hectares",
-    "monde"
+    "fumées"
    ],
    "terms_right": [
+    "air",
     "états-unis",
-    "trump",
-    "donald trump"
+    "trump"
    ]
   },
   {
@@ -703,12 +703,12 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.507,
+   "divergence": 0.499,
    "category": "politique",
    "terms_left": [
-    "imprescriptibilité",
-    "crimes",
-    "christine herzog"
+    "herzog",
+    "christine herzog",
+    "exclue"
    ],
    "terms_right": [
     "ans",
@@ -815,15 +815,15 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.311,
+   "divergence": 0.321,
    "category": "faits-divers",
    "terms_left": [
     "tarn",
-    "aussaguel",
-    "retrouvés tarn"
+    "delphine aussaguel",
+    "aussaguel"
    ],
    "terms_right": [
-    "delphine jubillar",
+    "delphine",
     "fouilles",
     "jubillar"
    ]
@@ -845,7 +845,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.599,
+   "divergence": 0.6,
    "category": "international",
    "terms_left": [
     "disparus",
