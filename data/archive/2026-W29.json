@@ -1,6 +1,6 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-19T14:00:39+00:00",
+ "generated_at": "2026-07-19T14:56:09+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -30,8 +30,8 @@
    ],
    "terms_right": [
     "pompiers",
-    "incendie forêt",
-    "incendie"
+    "incendie",
+    "incendie forêt"
    ]
   },
   {
@@ -51,23 +51,23 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.254,
+   "divergence": 0.256,
    "category": "politique",
    "terms_left": [
-    "contient",
     "droite",
-    "emmanuel"
+    "emmanuel",
+    "emmanuel macron"
    ],
    "terms_right": [
     "texte",
     "constitutionnel",
-    "droit aide"
+    "droit"
    ]
   },
   {
    "title": "Coupe du monde 2026 : malgré un sursaut d'orgueil en deuxième mi-temps, les Bleus s'inclinent contre l'Angleterre pour la dernière de Deschamps",
    "url": "https://www.nouvelobs.com/sport/20260709.OBS116534/un-mannequin-de-mbappe-brule-bagarre-en-conference-de-presse-le-bulletin-de-la-coupe-du-monde-de-trump.html",
-   "n_members": 299,
+   "n_members": 300,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -81,17 +81,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.326,
+   "divergence": 0.327,
    "category": "sport",
    "terms_left": [
     "méchants",
-    "face",
-    "roja"
+    "roja",
+    "face"
    ],
    "terms_right": [
-    "équipe",
-    "place",
-    "match"
+    "équipe france",
+    "france",
+    "équipe"
    ]
   },
   {
@@ -127,7 +127,7 @@
   {
    "title": "EN DIRECT - Moyen-Orient: les États-Unis ciblent à nouveau l'Iran après la mort de deux militaires",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 312,
+   "n_members": 315,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -141,23 +141,23 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.39,
+   "divergence": 0.391,
    "category": "international",
    "terms_left": [
-    "etats-unis",
     "téhéran",
+    "etats-unis",
     "conflit"
    ],
    "terms_right": [
     "armée",
     "états-unis",
-    "armée américaine"
+    "militaires"
    ]
   },
   {
-   "title": "Intempéries : attention aux orages dans le Centre et l'Est, fin de la vigilance orange canicule ce jeudi soir dans 15 départements",
+   "title": "Canicule: sept départements du sud-est maintenus en vigilance orange ce dimanche",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 281,
+   "n_members": 282,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.373,
+   "divergence": 0.375,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -180,7 +180,7 @@
    ],
    "terms_right": [
     "orange",
-    "orages",
+    "vigilance",
     "feu"
    ]
   },
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.577,
+   "divergence": 0.584,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -209,9 +209,9 @@
     "manifestations"
    ],
    "terms_right": [
-    "zelensky",
+    "volodymyr",
     "volodymyr zelensky",
-    "volodymyr"
+    "zelensky"
    ]
   },
   {
@@ -231,17 +231,17 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.47,
+   "divergence": 0.468,
    "category": "politique",
    "terms_left": [
     "rn",
-    "parti",
-    "candidate rn"
+    "candidate rn",
+    "stérin"
    ],
    "terms_right": [
     "présidentielle",
     "macron",
-    "qu"
+    "méfier sondages"
    ]
   },
   {
@@ -351,12 +351,12 @@
    },
    "blindspot_score": -0.125,
    "blindspot_for": null,
-   "divergence": 0.661,
+   "divergence": 0.669,
    "category": "société",
    "terms_left": [
     "eau",
-    "pesticides",
-    "agricole"
+    "agricole",
+    "urgence agricole"
    ],
    "terms_right": [
     "mort",
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.531,
+   "divergence": 0.542,
    "category": "environnement",
    "terms_left": [
     "alerte",
@@ -553,12 +553,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.674,
+   "divergence": 0.673,
    "category": "faits-divers",
    "terms_left": [
+    "travaux",
     "société travaux",
-    "gérant société",
-    "forêt fontainebleau"
+    "gérant société"
    ],
    "terms_right": [
     "incendies",
@@ -643,7 +643,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.447,
+   "divergence": 0.445,
    "category": "international",
    "terms_left": [
     "toronto",
@@ -653,7 +653,37 @@
    "terms_right": [
     "états-unis",
     "trump",
-    "donald"
+    "donald trump"
+   ]
+  },
+  {
+   "title": "États-Unis: Donald Trump accuse la Chine d’ingérence électorale et sème le doute à trois mois des «midterms»",
+   "url": "https://information.tv5monde.com/international/deux-juges-de-la-cour-supreme-americaine-auditionnees-au-congres-2830223",
+   "n_members": 66,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 5,
+    "opinion": 3
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.629,
+   "category": "international",
+   "terms_left": [
+    "élections mi-mandat",
+    "qu",
+    "fois"
+   ],
+   "terms_right": [
+    "donald trump",
+    "donald",
+    "électorales"
    ]
   },
   {
@@ -673,47 +703,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.508,
+   "divergence": 0.507,
    "category": "politique",
    "terms_left": [
     "imprescriptibilité",
     "crimes",
-    "herzog"
+    "christine herzog"
    ],
    "terms_right": [
     "ans",
     "série",
     "viols série"
-   ]
-  },
-  {
-   "title": "«Des vulnérabilités choquantes» : Donald Trump accuse la Chine de fraude et de piratage de fichiers électoraux",
-   "url": "https://information.tv5monde.com/international/deux-juges-de-la-cour-supreme-americaine-auditionnees-au-congres-2830223",
-   "n_members": 65,
-   "n_sources": 25,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.63,
-   "category": "international",
-   "terms_left": [
-    "élections mi-mandat",
-    "fois",
-    "nouvelle fois"
-   ],
-   "terms_right": [
-    "donald",
-    "donald trump",
-    "électorales"
    ]
   },
   {
@@ -733,7 +733,7 @@
    },
    "blindspot_score": 0.667,
    "blindspot_for": "gauche",
-   "divergence": 0.856,
+   "divergence": 0.855,
    "category": "international",
    "terms_left": [
     "houthis",
@@ -801,7 +801,7 @@
   {
    "title": "Affaire Jubillar: pourquoi les analyses des ossements pourraient prendre du temps",
    "url": "https://www.leparisien.fr/video/actualites/faits-divers/affaire-delphine-jubillar-des-ossements-non-identifies-decouverts-16-07-2026-CDYSBQ7GCBEYZPOQF6DFVKENUQ.php",
-   "n_members": 222,
+   "n_members": 223,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -980,7 +980,7 @@
   {
    "title": "«Ça fait mal, on ne va pas banaliser» : Didier Deschamps revient sur la demi-finale perdue des Bleus",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/france-espagne-ces-statistiques-qui-ne-plaident-pas-en-faveur-des-bleus-avant-la-demi-finale-de-coupe-du-monde-11-07-2026-FFZKRR2HU5E6TCVYGHBS25YQ74.php",
-   "n_members": 154,
+   "n_members": 155,
    "n_sources": 23,
    "counts": {
     "left": 4,
