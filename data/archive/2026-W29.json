@@ -1,13 +1,13 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-19T01:43:38+00:00",
+ "generated_at": "2026-07-19T05:12:31+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Emmanuel Macron arrive à Fontainebleau pour apporter son soutien à ceux qui luttent contre les flammes",
    "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/jusqua-4h20-de-retard-le-trafic-sncf-fortement-perturbe-sur-la-ligne-sud-est-entre-paris-et-marseille-a-cause-dun-incendie-12-07-2026-7E3R5IBOQNAXRDOH35X3TPSWTI.php",
-   "n_members": 317,
+   "n_members": 318,
    "n_sources": 35,
    "counts": {
     "left": 8,
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.236,
+   "divergence": 0.242,
    "category": "politique",
    "terms_left": [
     "contient",
     "droite",
-    "loi aide"
+    "approuve"
    ],
    "terms_right": [
     "texte",
@@ -67,7 +67,7 @@
   {
    "title": "Coupe du monde 2026 : la France face à l’Angleterre pour une place de troisième",
    "url": "https://www.nouvelobs.com/sport/20260709.OBS116534/un-mannequin-de-mbappe-brule-bagarre-en-conference-de-presse-le-bulletin-de-la-coupe-du-monde-de-trump.html",
-   "n_members": 287,
+   "n_members": 289,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.34,
+   "divergence": 0.341,
    "category": "sport",
    "terms_left": [
     "méchants",
@@ -125,9 +125,9 @@
    ]
   },
   {
-   "title": "DIRECT. Guerre au Moyen-Orient: l'Iran dit avoir attaqué des cibles américaines au Koweït et à Bahreïn avec des drones",
+   "title": "EN DIRECT - Moyen-Orient: les États-Unis ciblent à nouveau l'Iran après la mort de deux militaires",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 280,
+   "n_members": 288,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -141,23 +141,23 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.378,
+   "divergence": 0.39,
    "category": "international",
    "terms_left": [
     "etats-unis",
-    "bombardements",
-    "téhéran"
+    "téhéran",
+    "menace"
    ],
    "terms_right": [
     "états-unis",
     "armée",
-    "armée américaine"
+    "militaires"
    ]
   },
   {
    "title": "Intempéries : attention aux orages dans le Centre et l'Est, fin de la vigilance orange canicule ce jeudi soir dans 15 départements",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 279,
+   "n_members": 281,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.347,
+   "divergence": 0.375,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -179,9 +179,9 @@
     "rouge"
    ],
    "terms_right": [
-    "placés vigilance",
-    "placés",
-    "orange"
+    "orange",
+    "vigilance",
+    "vigilance orange"
    ]
   },
   {
@@ -351,11 +351,11 @@
    },
    "blindspot_score": -0.125,
    "blindspot_for": null,
-   "divergence": 0.607,
+   "divergence": 0.617,
    "category": "société",
    "terms_left": [
-    "acétamipride",
-    "pesticides",
+    "texte",
+    "agricole",
     "eau"
    ],
    "terms_right": [
@@ -365,9 +365,9 @@
    ]
   },
   {
-   "title": "Sécheresse : le niveau alarmant des nappes phréatiques après trois vagues de chaleur",
+   "title": "Sécheresse : la France méconnaissable",
    "url": "https://reporterre.net/Ne-nous-oubliez-pas-apres-les-canicules-des-milliers-de-sinistres-climatiques",
-   "n_members": 62,
+   "n_members": 63,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -381,17 +381,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.525,
+   "divergence": 0.541,
    "category": "environnement",
    "terms_left": [
     "alerte",
-    "orages",
-    "canicules"
+    "canicules",
+    "préoccupante"
    ],
    "terms_right": [
     "eau",
     "canicule",
-    "mois"
+    "français"
    ]
   },
   {
@@ -493,7 +493,7 @@
    },
    "blindspot_score": -0.286,
    "blindspot_for": null,
-   "divergence": 0.301,
+   "divergence": 0.295,
    "category": "culture",
    "terms_left": [
     "odyssée",
@@ -501,9 +501,9 @@
     "semaine"
    ],
    "terms_right": [
+    "œuvre",
     "qu",
-    "film christopher",
-    "œuvre"
+    "jour"
    ]
   },
   {
@@ -553,7 +553,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.65,
+   "divergence": 0.652,
    "category": "faits-divers",
    "terms_left": [
     "forêt fontainebleau",
@@ -597,9 +597,9 @@
    ]
   },
   {
-   "title": "Plus de 130% du PIB en 2030 : la dette française dans le viseur d'un rapport qui préconise une année blanche en 2027",
+   "title": "Budget 2027 : les 1ers arbitrages dévoilés",
    "url": "https://www.ladepeche.fr/2026/07/12/prix-du-carburant-limpact-peut-etre-terrible-les-automobilistes-vont-ils-payer-plus-cher-leur-plein-dessence-pour-partir-en-vacances-avec-les-tensions-13465659.php",
-   "n_members": 74,
+   "n_members": 75,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -613,17 +613,17 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.689,
+   "divergence": 0.695,
    "category": "économie",
    "terms_left": [
     "milliard",
-    "gouvernement",
-    "économistes"
+    "économistes",
+    "gouvernement"
    ],
    "terms_right": [
     "france",
     "milliards",
-    "milliards euros"
+    "prix"
    ]
   },
   {
@@ -673,16 +673,16 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.623,
+   "divergence": 0.62,
    "category": "international",
    "terms_left": [
     "élections mi-mandat",
-    "fois",
-    "loi"
+    "loi",
+    "fois"
    ],
    "terms_right": [
-    "donald",
     "donald trump",
+    "donald",
     "électorales"
    ]
   },
@@ -905,7 +905,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.649,
+   "divergence": 0.65,
    "category": "international",
    "terms_left": [
     "tenu",
@@ -935,7 +935,7 @@
    },
    "blindspot_score": -0.4,
    "blindspot_for": null,
-   "divergence": 0.543,
+   "divergence": 0.544,
    "category": "international",
    "terms_left": [
     "trump",
@@ -965,7 +965,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.706,
+   "divergence": 0.705,
    "category": "international",
    "terms_left": [
     "zelensky",
@@ -980,7 +980,7 @@
   {
    "title": "Coupe du monde. « Tout faire pour aller chercher la 3e place » : les mots de Didier Deschamps avant la petite finale",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/france-espagne-ces-statistiques-qui-ne-plaident-pas-en-faveur-des-bleus-avant-la-demi-finale-de-coupe-du-monde-11-07-2026-FFZKRR2HU5E6TCVYGHBS25YQ74.php",
-   "n_members": 138,
+   "n_members": 141,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -994,12 +994,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.613,
+   "divergence": 0.614,
    "category": "sport",
    "terms_left": [
     "foot",
     "espagne",
-    "qu"
+    "monde"
    ],
    "terms_right": [
     "deschamps",
@@ -1090,7 +1090,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.508,
+   "divergence": 0.507,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -1120,17 +1120,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.911,
+   "divergence": 0.907,
    "category": "international",
    "terms_left": [
     "israël",
-    "fedorov",
-    "liban"
+    "liban",
+    "négociations"
    ],
    "terms_right": [
     "ans",
-    "jubillar",
-    "frappes"
+    "frappes",
+    "jubillar"
    ]
   },
   {
@@ -1159,8 +1159,8 @@
    ],
    "terms_right": [
     "paris",
-    "nouveau",
-    "lettre"
+    "français",
+    "nucléaire"
    ]
   }
  ]
