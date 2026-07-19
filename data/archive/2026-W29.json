@@ -1,6 +1,6 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-19T12:12:51+00:00",
+ "generated_at": "2026-07-19T14:00:39+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.295,
+   "divergence": 0.296,
    "category": "environnement",
    "terms_left": [
     "massif",
     "national",
-    "historique"
+    "manque"
    ],
    "terms_right": [
     "pompiers",
@@ -65,9 +65,9 @@
    ]
   },
   {
-   "title": "Coupe du monde 2026 : la France face à l’Angleterre pour une place de troisième",
+   "title": "Coupe du monde 2026 : malgré un sursaut d'orgueil en deuxième mi-temps, les Bleus s'inclinent contre l'Angleterre pour la dernière de Deschamps",
    "url": "https://www.nouvelobs.com/sport/20260709.OBS116534/un-mannequin-de-mbappe-brule-bagarre-en-conference-de-presse-le-bulletin-de-la-coupe-du-monde-de-trump.html",
-   "n_members": 297,
+   "n_members": 299,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.327,
+   "divergence": 0.326,
    "category": "sport",
    "terms_left": [
     "méchants",
@@ -89,9 +89,9 @@
     "roja"
    ],
    "terms_right": [
-    "place",
     "équipe",
-    "équipe france"
+    "place",
+    "match"
    ]
   },
   {
@@ -127,7 +127,7 @@
   {
    "title": "EN DIRECT - Moyen-Orient: les États-Unis ciblent à nouveau l'Iran après la mort de deux militaires",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 308,
+   "n_members": 312,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.389,
+   "divergence": 0.39,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -151,7 +151,7 @@
    "terms_right": [
     "armée",
     "états-unis",
-    "militaires"
+    "armée américaine"
    ]
   },
   {
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.372,
+   "divergence": 0.373,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -180,14 +180,14 @@
    ],
    "terms_right": [
     "orange",
-    "vigilance",
-    "vigilance orange"
+    "orages",
+    "feu"
    ]
   },
   {
    "title": "Ukraine : le remaniement ministériel de Zelensky déclenche critiques et manifestations",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 166,
+   "n_members": 167,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.583,
+   "divergence": 0.577,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -209,9 +209,9 @@
     "manifestations"
    ],
    "terms_right": [
-    "volodymyr",
+    "zelensky",
     "volodymyr zelensky",
-    "zelensky"
+    "volodymyr"
    ]
   },
   {
@@ -235,12 +235,12 @@
    "category": "politique",
    "terms_left": [
     "rn",
-    "candidate",
-    "parti"
+    "parti",
+    "candidate rn"
    ],
    "terms_right": [
     "présidentielle",
-    "français",
+    "macron",
     "qu"
    ]
   },
@@ -337,7 +337,7 @@
   {
    "title": "Loi d'urgence agricole: eau, pesticides... Députés et sénateurs parviennent à un fragile compromis qui reste à valider",
    "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
-   "n_members": 66,
+   "n_members": 67,
    "n_sources": 27,
    "counts": {
     "left": 9,
@@ -351,12 +351,12 @@
    },
    "blindspot_score": -0.125,
    "blindspot_for": null,
-   "divergence": 0.639,
+   "divergence": 0.661,
    "category": "société",
    "terms_left": [
     "eau",
-    "agricole",
-    "urgence agricole"
+    "pesticides",
+    "agricole"
    ],
    "terms_right": [
     "mort",
@@ -421,7 +421,7 @@
    "terms_right": [
     "france",
     "canicule",
-    "orages"
+    "feu"
    ]
   },
   {
@@ -493,17 +493,17 @@
    },
    "blindspot_score": -0.286,
    "blindspot_for": null,
-   "divergence": 0.296,
+   "divergence": 0.276,
    "category": "culture",
    "terms_left": [
     "odyssée",
-    "voir",
-    "semaine"
+    "semaine",
+    "nolan odyssée"
    ],
    "terms_right": [
+    "film odyssée",
     "œuvre",
-    "ans",
-    "film odyssée"
+    "film"
    ]
   },
   {
@@ -553,11 +553,11 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.67,
+   "divergence": 0.674,
    "category": "faits-divers",
    "terms_left": [
     "société travaux",
-    "travaux",
+    "gérant société",
     "forêt fontainebleau"
    ],
    "terms_right": [
@@ -583,7 +583,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.717,
+   "divergence": 0.72,
    "category": "économie",
    "terms_left": [
     "gouvernement",
@@ -613,7 +613,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.476,
+   "divergence": 0.475,
    "category": "faits-divers",
    "terms_left": [
     "violences sexuelles",
@@ -643,17 +643,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.442,
+   "divergence": 0.447,
    "category": "international",
    "terms_left": [
+    "toronto",
     "millions hectares",
-    "monde",
-    "fumées"
+    "monde"
    ],
    "terms_right": [
     "états-unis",
     "trump",
-    "donald trump"
+    "donald"
    ]
   },
   {
@@ -673,17 +673,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.49,
+   "divergence": 0.508,
    "category": "politique",
    "terms_left": [
-    "christine",
-    "imprescriptibilité crimes",
-    "exclue"
+    "imprescriptibilité",
+    "crimes",
+    "herzog"
    ],
    "terms_right": [
     "ans",
-    "viols série",
-    "série"
+    "série",
+    "viols série"
    ]
   },
   {
@@ -711,8 +711,8 @@
     "nouvelle fois"
    ],
    "terms_right": [
-    "donald trump",
     "donald",
+    "donald trump",
     "électorales"
    ]
   },
@@ -733,7 +733,7 @@
    },
    "blindspot_score": 0.667,
    "blindspot_for": "gauche",
-   "divergence": 0.855,
+   "divergence": 0.856,
    "category": "international",
    "terms_left": [
     "houthis",
@@ -799,9 +799,9 @@
    "terms_right": []
   },
   {
-   "title": "EN DIRECT - Meurtre de Delphine Jubillar : des ossements retrouvés à Mailhoc lors de fouilles en présence de Cédric Jubillar",
+   "title": "Affaire Jubillar: pourquoi les analyses des ossements pourraient prendre du temps",
    "url": "https://www.leparisien.fr/video/actualites/faits-divers/affaire-delphine-jubillar-des-ossements-non-identifies-decouverts-16-07-2026-CDYSBQ7GCBEYZPOQF6DFVKENUQ.php",
-   "n_members": 220,
+   "n_members": 222,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -815,7 +815,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.315,
+   "divergence": 0.311,
    "category": "faits-divers",
    "terms_left": [
     "tarn",
@@ -825,7 +825,7 @@
    "terms_right": [
     "delphine jubillar",
     "fouilles",
-    "delphine"
+    "jubillar"
    ]
   },
   {
@@ -905,7 +905,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.652,
+   "divergence": 0.655,
    "category": "international",
    "terms_left": [
     "tenu",
@@ -994,7 +994,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.561,
+   "divergence": 0.56,
    "category": "sport",
    "terms_left": [
     "foot",
@@ -1150,7 +1150,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.647,
+   "divergence": 0.646,
    "category": "politique",
    "terms_left": [
     "candidat",
