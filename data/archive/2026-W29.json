@@ -1,6 +1,6 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-19T05:12:31+00:00",
+ "generated_at": "2026-07-19T07:39:43+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.3,
+   "divergence": 0.299,
    "category": "environnement",
    "terms_left": [
     "manque",
@@ -51,17 +51,17 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.242,
+   "divergence": 0.244,
    "category": "politique",
    "terms_left": [
     "contient",
     "droite",
-    "approuve"
+    "emmanuel"
    ],
    "terms_right": [
     "texte",
-    "droit aide",
-    "droit"
+    "proposition loi",
+    "proposition"
    ]
   },
   {
@@ -127,7 +127,7 @@
   {
    "title": "EN DIRECT - Moyen-Orient: les États-Unis ciblent à nouveau l'Iran après la mort de deux militaires",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 288,
+   "n_members": 297,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -141,12 +141,12 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.39,
+   "divergence": 0.403,
    "category": "international",
    "terms_left": [
     "etats-unis",
     "téhéran",
-    "menace"
+    "conflit"
    ],
    "terms_right": [
     "états-unis",
@@ -171,23 +171,23 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.375,
+   "divergence": 0.373,
    "category": "environnement",
    "terms_left": [
     "direct",
     "direct canicule",
-    "rouge"
+    "troisième"
    ],
    "terms_right": [
     "orange",
-    "vigilance",
-    "vigilance orange"
+    "vigilance orange",
+    "vigilance"
    ]
   },
   {
    "title": "\"Rendez-nous Fedorov !\" : en Ukraine, des manifestations contre le limogeage du ministre de la Défense",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 162,
+   "n_members": 164,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,12 +201,12 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.592,
+   "divergence": 0.586,
    "category": "international",
    "terms_left": [
     "guerre",
     "espagne",
-    "drones"
+    "manifestations"
    ],
    "terms_right": [
     "volodymyr",
@@ -231,17 +231,17 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.505,
+   "divergence": 0.496,
    "category": "politique",
    "terms_left": [
     "rn",
-    "candidate",
-    "parti"
+    "parti",
+    "milliardaire"
    ],
    "terms_right": [
     "présidentielle",
     "français",
-    "méfier sondages"
+    "macron"
    ]
   },
   {
@@ -271,7 +271,7 @@
    "terms_right": [
     "hommage victimes",
     "emmanuel",
-    "emmanuel macron"
+    "macron"
    ]
   },
   {
@@ -337,7 +337,7 @@
   {
    "title": "Loi d'urgence agricole: eau, pesticides... Députés et sénateurs parviennent à un fragile compromis qui reste à valider",
    "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
-   "n_members": 65,
+   "n_members": 66,
    "n_sources": 27,
    "counts": {
     "left": 9,
@@ -351,12 +351,12 @@
    },
    "blindspot_score": -0.125,
    "blindspot_for": null,
-   "divergence": 0.617,
+   "divergence": 0.634,
    "category": "société",
    "terms_left": [
-    "texte",
+    "eau",
     "agricole",
-    "eau"
+    "urgence agricole"
    ],
    "terms_right": [
     "mort",
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.541,
+   "divergence": 0.533,
    "category": "environnement",
    "terms_left": [
     "alerte",
@@ -392,6 +392,36 @@
     "eau",
     "canicule",
     "français"
+   ]
+  },
+  {
+   "title": "Canicule de juillet : les urgences repartent à la hausse, mais loin du pic de juin",
+   "url": "https://www.liberation.fr/environnement/climat/70c-sur-un-toboggan-24c-sous-les-arbres-en-pleine-canicule-paris-passe-lepreuve-de-la-camera-thermique-20260711_6F4MOBMM6NB5FLW2KPBCFOSBXU/",
+   "n_members": 62,
+   "n_sources": 27,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.766,
+   "category": "environnement",
+   "terms_left": [
+    "paris",
+    "face",
+    "climatique"
+   ],
+   "terms_right": [
+    "france",
+    "orages",
+    "pays"
    ]
   },
   {
@@ -415,36 +445,6 @@
    "category": "international",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Canicule de juillet : les urgences repartent à la hausse, mais loin du pic de juin",
-   "url": "https://www.liberation.fr/environnement/climat/70c-sur-un-toboggan-24c-sous-les-arbres-en-pleine-canicule-paris-passe-lepreuve-de-la-camera-thermique-20260711_6F4MOBMM6NB5FLW2KPBCFOSBXU/",
-   "n_members": 61,
-   "n_sources": 27,
-   "counts": {
-    "left": 7,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 4
-   },
-   "blindspot_score": 0.067,
-   "blindspot_for": null,
-   "divergence": 0.771,
-   "category": "environnement",
-   "terms_left": [
-    "paris",
-    "face",
-    "climatique"
-   ],
-   "terms_right": [
-    "france",
-    "orages",
-    "pays"
-   ]
   },
   {
    "title": "La Grande Mosquée de Paris a 100 ans : retour sur un projet grandiose et polémique",
@@ -477,9 +477,9 @@
    ]
   },
   {
-   "title": "“L’Odyssée” de Christopher Nolan offre un spectacle mythique",
+   "title": "Après «L’Odyssée», Christopher Nolan révèle qu’il ne dévoilera pas de nouveau film avant «au moins» trois ans",
    "url": "https://www.mediapart.fr/journal/culture-et-idees/110726/l-odyssee-sort-au-cinema-et-ravive-la-question-de-la-race-sous-l-antiquite",
-   "n_members": 68,
+   "n_members": 69,
    "n_sources": 26,
    "counts": {
     "left": 9,
@@ -493,7 +493,7 @@
    },
    "blindspot_score": -0.286,
    "blindspot_for": null,
-   "divergence": 0.295,
+   "divergence": 0.291,
    "category": "culture",
    "terms_left": [
     "odyssée",
@@ -502,8 +502,8 @@
    ],
    "terms_right": [
     "œuvre",
-    "qu",
-    "jour"
+    "ans",
+    "the"
    ]
   },
   {
@@ -553,7 +553,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.652,
+   "divergence": 0.656,
    "category": "faits-divers",
    "terms_left": [
     "forêt fontainebleau",
@@ -563,7 +563,37 @@
    "terms_right": [
     "incendies",
     "feu",
-    "personnes"
+    "incendie fontainebleau"
+   ]
+  },
+  {
+   "title": "Budget 2027 : les 1ers arbitrages dévoilés",
+   "url": "https://www.ladepeche.fr/2026/07/12/prix-du-carburant-limpact-peut-etre-terrible-les-automobilistes-vont-ils-payer-plus-cher-leur-plein-dessence-pour-partir-en-vacances-avec-les-tensions-13465659.php",
+   "n_members": 76,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.695,
+   "category": "économie",
+   "terms_left": [
+    "milliard",
+    "économistes",
+    "écologie"
+   ],
+   "terms_right": [
+    "prix",
+    "france",
+    "milliards"
    ]
   },
   {
@@ -583,7 +613,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.489,
+   "divergence": 0.523,
    "category": "faits-divers",
    "terms_left": [
     "violences sexuelles",
@@ -592,44 +622,14 @@
    ],
    "terms_right": [
     "lyhanna",
-    "barella",
-    "affaire lyhanna"
-   ]
-  },
-  {
-   "title": "Budget 2027 : les 1ers arbitrages dévoilés",
-   "url": "https://www.ladepeche.fr/2026/07/12/prix-du-carburant-limpact-peut-etre-terrible-les-automobilistes-vont-ils-payer-plus-cher-leur-plein-dessence-pour-partir-en-vacances-avec-les-tensions-13465659.php",
-   "n_members": 75,
-   "n_sources": 25,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.695,
-   "category": "économie",
-   "terms_left": [
-    "milliard",
-    "économistes",
-    "gouvernement"
-   ],
-   "terms_right": [
-    "france",
-    "milliards",
-    "prix"
+    "affaire lyhanna",
+    "affaire"
    ]
   },
   {
    "title": "Incendies au Canada: Donald Trump blâme le Canada pour la pollution de l'air aux États-Unis",
    "url": "https://www.lefigaro.fr/culture/incendies-la-fondation-de-france-et-la-fondation-du-patrimoine-lancent-des-appels-aux-dons-en-faveur-des-forets-20260714",
-   "n_members": 72,
+   "n_members": 73,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -643,16 +643,16 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.451,
+   "divergence": 0.448,
    "category": "international",
    "terms_left": [
     "millions hectares",
-    "province",
-    "ontario"
+    "millions",
+    "etats-unis"
    ],
    "terms_right": [
-    "air",
     "états-unis",
+    "air",
     "trump"
    ]
   },
@@ -673,16 +673,16 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.62,
+   "divergence": 0.629,
    "category": "international",
    "terms_left": [
     "élections mi-mandat",
-    "loi",
-    "fois"
+    "fois",
+    "nouvelle fois"
    ],
    "terms_right": [
-    "donald trump",
     "donald",
+    "donald trump",
     "électorales"
    ]
   },
@@ -703,7 +703,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.509,
+   "divergence": 0.504,
    "category": "politique",
    "terms_left": [
     "élue",
@@ -713,7 +713,7 @@
    "terms_right": [
     "ans",
     "viols série",
-    "voix"
+    "série"
    ]
   },
   {
@@ -733,7 +733,7 @@
    },
    "blindspot_score": 0.667,
    "blindspot_for": "gauche",
-   "divergence": 0.855,
+   "divergence": 0.853,
    "category": "international",
    "terms_left": [
     "houthis",
@@ -777,9 +777,9 @@
    ]
   },
   {
-   "title": "L’Europe prolonge l’accueil des réfugiés ukrainiens d’un an mais exclut les hommes mobilisables",
+   "title": "Europe: les pays où les ventes de logements ont le plus augmenté en 2025",
    "url": "https://reporterre.net/Canal-Seine-Nord-Europe-un-chantier-titanesque-dont-personne-ne-sait-a-quoi-il-doit",
-   "n_members": 44,
+   "n_members": 45,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -801,7 +801,7 @@
   {
    "title": "EN DIRECT - Meurtre de Delphine Jubillar : des ossements retrouvés à Mailhoc lors de fouilles en présence de Cédric Jubillar",
    "url": "https://www.leparisien.fr/video/actualites/faits-divers/affaire-delphine-jubillar-des-ossements-non-identifies-decouverts-16-07-2026-CDYSBQ7GCBEYZPOQF6DFVKENUQ.php",
-   "n_members": 219,
+   "n_members": 220,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -980,7 +980,7 @@
   {
    "title": "Coupe du monde. « Tout faire pour aller chercher la 3e place » : les mots de Didier Deschamps avant la petite finale",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/france-espagne-ces-statistiques-qui-ne-plaident-pas-en-faveur-des-bleus-avant-la-demi-finale-de-coupe-du-monde-11-07-2026-FFZKRR2HU5E6TCVYGHBS25YQ74.php",
-   "n_members": 141,
+   "n_members": 148,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -994,12 +994,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.614,
+   "divergence": 0.617,
    "category": "sport",
    "terms_left": [
     "foot",
     "espagne",
-    "monde"
+    "qu"
    ],
    "terms_right": [
     "deschamps",
@@ -1150,7 +1150,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.642,
+   "divergence": 0.644,
    "category": "politique",
    "terms_left": [
     "candidat",
@@ -1159,8 +1159,8 @@
    ],
    "terms_right": [
     "paris",
-    "français",
-    "nucléaire"
+    "lettre",
+    "français"
    ]
   }
  ]
