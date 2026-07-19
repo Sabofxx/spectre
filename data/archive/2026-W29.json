@@ -1,6 +1,6 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-19T18:51:36+00:00",
+ "generated_at": "2026-07-19T20:04:00+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,11 +21,11 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.298,
+   "divergence": 0.297,
    "category": "environnement",
    "terms_left": [
-    "massif",
     "national",
+    "massif",
     "direct canicule"
    ],
    "terms_right": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.256,
+   "divergence": 0.255,
    "category": "politique",
    "terms_left": [
     "parlement",
@@ -60,8 +60,8 @@
    ],
    "terms_right": [
     "texte",
-    "constitutionnel",
-    "conseil constitutionnel"
+    "conseil constitutionnel",
+    "constitutionnel"
    ]
   },
   {
@@ -157,7 +157,7 @@
   {
    "title": "EN DIRECT - Moyen-Orient: les États-Unis ciblent à nouveau l'Iran après la mort de deux militaires",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 320,
+   "n_members": 324,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.384,
+   "divergence": 0.385,
    "category": "international",
    "terms_left": [
     "téhéran",
@@ -187,7 +187,7 @@
   {
    "title": "Canicule: sept départements du sud-est maintenus en vigilance orange ce dimanche",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 285,
+   "n_members": 286,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,12 +201,12 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.376,
+   "divergence": 0.375,
    "category": "environnement",
    "terms_left": [
     "direct",
     "direct canicule",
-    "troisième"
+    "rouge"
    ],
    "terms_right": [
     "orange",
@@ -351,7 +351,7 @@
    },
    "blindspot_score": -0.125,
    "blindspot_for": null,
-   "divergence": 0.626,
+   "divergence": 0.627,
    "category": "société",
    "terms_left": [
     "eau",
@@ -583,17 +583,17 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.725,
+   "divergence": 0.727,
    "category": "économie",
    "terms_left": [
-    "économistes",
     "gouvernement",
+    "économistes",
     "annonce"
    ],
    "terms_right": [
     "euros",
-    "france",
-    "qu"
+    "qu",
+    "france"
    ]
   },
   {
@@ -711,8 +711,8 @@
     "fois"
    ],
    "terms_right": [
-    "donald",
     "donald trump",
+    "donald",
     "électorales"
    ]
   },
@@ -735,16 +735,8 @@
    "blindspot_for": "gauche",
    "divergence": 0.856,
    "category": "international",
-   "terms_left": [
-    "houthis",
-    "jeux",
-    "autorité"
-   ],
-   "terms_right": [
-    "france",
-    "ans",
-    "paris"
-   ]
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Le taux du livret A va atteindre 1,7% au 1er août",
@@ -801,7 +793,7 @@
   {
    "title": "Affaire Jubillar : les ossements retrouvés dans le Tarn ce jeudi sont bien ceux de Delphine Jubillar",
    "url": "https://www.leparisien.fr/video/actualites/faits-divers/affaire-delphine-jubillar-des-ossements-non-identifies-decouverts-16-07-2026-CDYSBQ7GCBEYZPOQF6DFVKENUQ.php",
-   "n_members": 252,
+   "n_members": 255,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -815,7 +807,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.288,
+   "divergence": 0.29,
    "category": "faits-divers",
    "terms_left": [
     "tarn",
@@ -994,7 +986,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.563,
+   "divergence": 0.564,
    "category": "sport",
    "terms_left": [
     "foot",
@@ -1090,7 +1082,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.619,
+   "divergence": 0.62,
    "category": "politique",
    "terms_left": [
     "candidat",
@@ -1100,7 +1092,7 @@
    "terms_right": [
     "paris",
     "lettre",
-    "france"
+    "français"
    ]
   },
   {
