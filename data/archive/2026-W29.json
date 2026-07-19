@@ -1,6 +1,6 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-19T17:50:02+00:00",
+ "generated_at": "2026-07-19T18:51:36+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.3,
+   "divergence": 0.298,
    "category": "environnement",
    "terms_left": [
     "massif",
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.257,
+   "divergence": 0.256,
    "category": "politique",
    "terms_left": [
     "parlement",
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.322,
+   "divergence": 0.323,
    "category": "sport",
    "terms_left": [
     "face",
@@ -157,7 +157,7 @@
   {
    "title": "EN DIRECT - Moyen-Orient: les États-Unis ciblent à nouveau l'Iran après la mort de deux militaires",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 319,
+   "n_members": 320,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.385,
+   "divergence": 0.384,
    "category": "international",
    "terms_left": [
     "téhéran",
@@ -206,7 +206,7 @@
    "terms_left": [
     "direct",
     "direct canicule",
-    "rouge"
+    "troisième"
    ],
    "terms_right": [
     "orange",
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.456,
+   "divergence": 0.412,
    "category": "politique",
    "terms_left": [
     "rn",
@@ -240,7 +240,7 @@
    ],
    "terms_right": [
     "présidentielle",
-    "macron",
+    "qu",
     "méfier sondages"
    ]
   },
@@ -335,9 +335,9 @@
    ]
   },
   {
-   "title": "Projet de loi d’urgence agricole : l’acétamipride reste « le principal sujet qui crispe », selon la ministre de la Transition écologique",
+   "title": "Stockage de l'eau, pesticides... La loi d'urgence agricole soumise au vote des députés et des sénateurs lundi et mardi",
    "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
-   "n_members": 68,
+   "n_members": 69,
    "n_sources": 27,
    "counts": {
     "left": 9,
@@ -351,17 +351,17 @@
    },
    "blindspot_score": -0.125,
    "blindspot_for": null,
-   "divergence": 0.67,
+   "divergence": 0.626,
    "category": "société",
    "terms_left": [
     "eau",
     "agricole",
-    "urgence agricole"
+    "loi"
    ],
    "terms_right": [
     "mort",
     "shemseddine",
-    "vide"
+    "sénateurs"
    ]
   },
   {
@@ -553,17 +553,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.676,
+   "divergence": 0.673,
    "category": "faits-divers",
    "terms_left": [
+    "pyromanes",
     "forêt fontainebleau",
-    "forêt",
-    "pyromanes"
+    "risque"
    ],
    "terms_right": [
     "feu",
     "incendies",
-    "feux"
+    "fontainebleau"
    ]
   },
   {
@@ -583,11 +583,11 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.72,
+   "divergence": 0.725,
    "category": "économie",
    "terms_left": [
-    "gouvernement",
     "économistes",
+    "gouvernement",
     "annonce"
    ],
    "terms_right": [
@@ -643,7 +643,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.439,
+   "divergence": 0.437,
    "category": "international",
    "terms_left": [
     "toronto",
@@ -651,9 +651,9 @@
     "fumées"
    ],
    "terms_right": [
-    "air",
+    "trump",
     "états-unis",
-    "trump"
+    "air"
    ]
   },
   {
@@ -711,8 +711,8 @@
     "fois"
    ],
    "terms_right": [
-    "donald trump",
     "donald",
+    "donald trump",
     "électorales"
    ]
   },
@@ -733,7 +733,7 @@
    },
    "blindspot_score": 0.667,
    "blindspot_for": "gauche",
-   "divergence": 0.855,
+   "divergence": 0.856,
    "category": "international",
    "terms_left": [
     "houthis",
@@ -801,7 +801,7 @@
   {
    "title": "Affaire Jubillar : les ossements retrouvés dans le Tarn ce jeudi sont bien ceux de Delphine Jubillar",
    "url": "https://www.leparisien.fr/video/actualites/faits-divers/affaire-delphine-jubillar-des-ossements-non-identifies-decouverts-16-07-2026-CDYSBQ7GCBEYZPOQF6DFVKENUQ.php",
-   "n_members": 245,
+   "n_members": 252,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -815,7 +815,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.291,
+   "divergence": 0.288,
    "category": "faits-divers",
    "terms_left": [
     "tarn",
@@ -824,8 +824,8 @@
    ],
    "terms_right": [
     "delphine",
-    "jubillar",
-    "indiqué"
+    "indiqué",
+    "cagnac-les-mines"
    ]
   },
   {
@@ -845,7 +845,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.6,
+   "divergence": 0.601,
    "category": "international",
    "terms_left": [
     "disparus",
@@ -994,12 +994,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.56,
+   "divergence": 0.563,
    "category": "sport",
    "terms_left": [
     "foot",
-    "monde",
-    "sélectionneur didier"
+    "espagne",
+    "monde"
    ],
    "terms_right": [
     "angleterre",
@@ -1090,7 +1090,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.626,
+   "divergence": 0.619,
    "category": "politique",
    "terms_left": [
     "candidat",
@@ -1100,7 +1100,7 @@
    "terms_right": [
     "paris",
     "lettre",
-    "retour"
+    "france"
    ]
   },
   {
