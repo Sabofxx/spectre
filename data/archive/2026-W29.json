@@ -1,6 +1,6 @@
 {
  "week": "2026-W29",
- "generated_at": "2026-07-19T09:45:52+00:00",
+ "generated_at": "2026-07-19T11:05:19+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.293,
+   "divergence": 0.294,
    "category": "environnement",
    "terms_left": [
     "massif",
@@ -67,7 +67,7 @@
   {
    "title": "Coupe du monde 2026 : la France face à l’Angleterre pour une place de troisième",
    "url": "https://www.nouvelobs.com/sport/20260709.OBS116534/un-mannequin-de-mbappe-brule-bagarre-en-conference-de-presse-le-bulletin-de-la-coupe-du-monde-de-trump.html",
-   "n_members": 293,
+   "n_members": 296,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -81,16 +81,16 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.326,
+   "divergence": 0.327,
    "category": "sport",
    "terms_left": [
     "méchants",
-    "bleus",
-    "face"
+    "face",
+    "roja"
    ],
    "terms_right": [
-    "équipe",
     "place",
+    "équipe",
     "équipe france"
    ]
   },
@@ -127,7 +127,7 @@
   {
    "title": "EN DIRECT - Moyen-Orient: les États-Unis ciblent à nouveau l'Iran après la mort de deux militaires",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 303,
+   "n_members": 305,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.391,
+   "divergence": 0.389,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.578,
+   "divergence": 0.579,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -231,12 +231,12 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.472,
+   "divergence": 0.471,
    "category": "politique",
    "terms_left": [
     "rn",
-    "américain",
-    "soutien elon"
+    "candidate",
+    "parti"
    ],
    "terms_right": [
     "présidentielle",
@@ -351,7 +351,7 @@
    },
    "blindspot_score": -0.125,
    "blindspot_for": null,
-   "divergence": 0.635,
+   "divergence": 0.638,
    "category": "société",
    "terms_left": [
     "eau",
@@ -381,17 +381,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.538,
+   "divergence": 0.532,
    "category": "environnement",
    "terms_left": [
     "alerte",
     "canicules",
-    "france"
+    "préoccupante"
    ],
    "terms_right": [
     "eau",
-    "canicule",
-    "français"
+    "français",
+    "canicule"
    ]
   },
   {
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.766,
+   "divergence": 0.763,
    "category": "environnement",
    "terms_left": [
     "paris",
@@ -421,7 +421,7 @@
    "terms_right": [
     "france",
     "orages",
-    "pays"
+    "feu"
    ]
   },
   {
@@ -493,7 +493,7 @@
    },
    "blindspot_score": -0.286,
    "blindspot_for": null,
-   "divergence": 0.292,
+   "divergence": 0.296,
    "category": "culture",
    "terms_left": [
     "odyssée",
@@ -503,7 +503,7 @@
    "terms_right": [
     "œuvre",
     "ans",
-    "the"
+    "film odyssée"
    ]
   },
   {
@@ -553,7 +553,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.671,
+   "divergence": 0.67,
    "category": "faits-divers",
    "terms_left": [
     "société travaux",
@@ -583,12 +583,12 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.674,
+   "divergence": 0.698,
    "category": "économie",
    "terms_left": [
     "économistes",
     "gouvernement",
-    "annonce"
+    "rapport"
    ],
    "terms_right": [
     "prix",
@@ -613,12 +613,12 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.47,
+   "divergence": 0.476,
    "category": "faits-divers",
    "terms_left": [
     "violences sexuelles",
     "sexuelles",
-    "nouvelle"
+    "violences"
    ],
    "terms_right": [
     "lyhanna",
@@ -643,17 +643,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.447,
+   "divergence": 0.444,
    "category": "international",
    "terms_left": [
     "millions hectares",
-    "millions",
-    "brûlés"
+    "monde",
+    "fumées"
    ],
    "terms_right": [
     "états-unis",
     "trump",
-    "air"
+    "donald"
    ]
   },
   {
@@ -673,7 +673,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.629,
+   "divergence": 0.63,
    "category": "international",
    "terms_left": [
     "élections mi-mandat",
@@ -703,7 +703,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.505,
+   "divergence": 0.508,
    "category": "politique",
    "terms_left": [
     "élue",
@@ -733,7 +733,7 @@
    },
    "blindspot_score": 0.667,
    "blindspot_for": "gauche",
-   "divergence": 0.853,
+   "divergence": 0.854,
    "category": "international",
    "terms_left": [
     "houthis",
@@ -763,7 +763,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.689,
+   "divergence": 0.69,
    "category": "économie",
    "terms_left": [
     "protection",
@@ -815,12 +815,12 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.341,
+   "divergence": 0.326,
    "category": "faits-divers",
    "terms_left": [
     "tarn",
     "aussaguel",
-    "delphine aussaguel"
+    "retrouvés tarn"
    ],
    "terms_right": [
     "delphine jubillar",
@@ -845,7 +845,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.598,
+   "divergence": 0.599,
    "category": "international",
    "terms_left": [
     "disparus",
@@ -965,7 +965,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.705,
+   "divergence": 0.704,
    "category": "international",
    "terms_left": [
     "zelensky",
@@ -978,9 +978,9 @@
    ]
   },
   {
-   "title": "Coupe du monde. « Tout faire pour aller chercher la 3e place » : les mots de Didier Deschamps avant la petite finale",
+   "title": "France - Angleterre : une \"petite\" finale tout sauf anecdotique",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/france-espagne-ces-statistiques-qui-ne-plaident-pas-en-faveur-des-bleus-avant-la-demi-finale-de-coupe-du-monde-11-07-2026-FFZKRR2HU5E6TCVYGHBS25YQ74.php",
-   "n_members": 152,
+   "n_members": 153,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -994,12 +994,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.56,
+   "divergence": 0.559,
    "category": "sport",
    "terms_left": [
     "foot",
-    "monde",
-    "sélectionneur didier"
+    "sélectionneur didier",
+    "monde"
    ],
    "terms_right": [
     "angleterre",
