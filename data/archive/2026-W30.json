@@ -1,13 +1,43 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-20T02:36:46+00:00",
+ "generated_at": "2026-07-20T04:38:56+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
+   "title": "Incendies à Fontainebleau: la situation se stabilise, 500 pompiers toujours mobilisés dimanche",
+   "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/jusqua-4h20-de-retard-le-trafic-sncf-fortement-perturbe-sur-la-ligne-sud-est-entre-paris-et-marseille-a-cause-dun-incendie-12-07-2026-7E3R5IBOQNAXRDOH35X3TPSWTI.php",
+   "n_members": 320,
+   "n_sources": 35,
+   "counts": {
+    "left": 8,
+    "centre": 17,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 12,
+    "opinion": 5
+   },
+   "blindspot_score": 0.111,
+   "blindspot_for": null,
+   "divergence": 0.297,
+   "category": "environnement",
+   "terms_left": [
+    "national",
+    "massif",
+    "direct canicule"
+   ],
+   "terms_right": [
+    "pompiers",
+    "incendie forêt",
+    "incendie"
+   ]
+  },
+  {
    "title": "EN DIRECT - Moyen-Orient: les États-Unis ciblent à nouveau l'Iran après la mort de deux militaires",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 331,
+   "n_members": 338,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -21,17 +51,137 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.389,
+   "divergence": 0.384,
    "category": "international",
    "terms_left": [
     "téhéran",
-    "reprise",
-    "bombardements"
+    "bombardements",
+    "etats-unis"
    ],
    "terms_right": [
     "états-unis",
     "armée",
     "militaires"
+   ]
+  },
+  {
+   "title": "Canicule: sept départements du sud-est maintenus en vigilance orange ce dimanche",
+   "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
+   "n_members": 287,
+   "n_sources": 29,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 11,
+    "opinion": 2
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.372,
+   "category": "environnement",
+   "terms_left": [
+    "direct",
+    "direct canicule",
+    "troisième"
+   ],
+   "terms_right": [
+    "orange",
+    "départements",
+    "vigilance orange"
+   ]
+  },
+  {
+   "title": "Stockage de l'eau, pesticides... La loi d'urgence agricole soumise au vote des députés et des sénateurs lundi et mardi",
+   "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
+   "n_members": 71,
+   "n_sources": 27,
+   "counts": {
+    "left": 9,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 11,
+    "opinion": 2
+   },
+   "blindspot_score": -0.125,
+   "blindspot_for": null,
+   "divergence": 0.591,
+   "category": "société",
+   "terms_left": [
+    "eau",
+    "pesticides",
+    "compromis"
+   ],
+   "terms_right": [
+    "shemseddine",
+    "mort",
+    "projet loi"
+   ]
+  },
+  {
+   "title": "En France, un quart des cours d'eau sont complètement asséchés",
+   "url": "https://reporterre.net/Ne-nous-oubliez-pas-apres-les-canicules-des-milliers-de-sinistres-climatiques",
+   "n_members": 64,
+   "n_sources": 27,
+   "counts": {
+    "left": 5,
+    "centre": 15,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.537,
+   "category": "environnement",
+   "terms_left": [
+    "alerte",
+    "canicules",
+    "préoccupante"
+   ],
+   "terms_right": [
+    "eau",
+    "canicule",
+    "français"
+   ]
+  },
+  {
+   "title": "Affaire Jubillar : les ossements retrouvés dans le Tarn ce jeudi sont bien ceux de Delphine Jubillar",
+   "url": "https://www.leparisien.fr/video/actualites/faits-divers/affaire-delphine-jubillar-des-ossements-non-identifies-decouverts-16-07-2026-CDYSBQ7GCBEYZPOQF6DFVKENUQ.php",
+   "n_members": 256,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.289,
+   "category": "faits-divers",
+   "terms_left": [
+    "tarn",
+    "delphine aussaguel",
+    "aussaguel"
+   ],
+   "terms_right": [
+    "indiqué",
+    "delphine",
+    "jubillar"
    ]
   },
   {
@@ -65,6 +215,28 @@
    ]
   },
   {
+   "title": "Canicule de juin : la mortalité a plus que doublé par rapport à la normale en Île-de-France",
+   "url": "https://www.ladepeche.fr/2026/07/11/elle-prenait-lair-a-cause-de-la-chaleur-une-etudiante-de-21-ans-a-ete-enlevee-et-violee-sous-la-menace-dun-couteau-le-suspect-est-un-violeur-en-serie-13464920.php",
+   "n_members": 79,
+   "n_sources": 23,
+   "counts": {
+    "left": 3,
+    "centre": 14,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 1
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.659,
+   "category": "environnement",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Emmanuel Macron et Friedrich Merz main dans la main pour verrouiller les dossiers en cas de victoire de Marine Le Pen à la présidentielle",
    "url": "https://www.bfmtv.com/environnement/climat/video-les-avantages-et-inconvenients-de-l-utilisation-d-un-a400m-dans-la-lutte-contre-les-incendies_VN-202607120341.html",
    "n_members": 55,
@@ -95,9 +267,69 @@
    ]
   },
   {
-   "title": "VIDÉO. Espagne - Argentine : le but de Ferran Torres qui libère les Espagnols en finale de la Coupe du monde",
+   "title": "Espagne - Argentine. combien de temps va durer la mi-temps de la finale de la Coupe du monde avec le show prévu ?",
+   "url": "https://information.tv5monde.com/international/gibraltar-la-fin-des-controles-la-frontiere-marque-une-nouvelle-ere-2830154",
+   "n_members": 64,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.84,
+   "category": "sport",
+   "terms_left": [
+    "ans",
+    "espagnole",
+    "guerre"
+   ],
+   "terms_right": [
+    "finale",
+    "argentine",
+    "coupe monde"
+   ]
+  },
+  {
+   "title": "\"Redonner espoir\" aux Britanniques: confirmé à la tête des travaillistes, Andy Burnham promis pour succéder à Keir Starmer comme Premier ministre",
+   "url": "https://information.tv5monde.com/international/royaume-uni-andy-burnham-plebiscite-au-debut-de-la-course-la-succession-de-keir-starmer-2829528",
+   "n_members": 57,
+   "n_sources": 22,
+   "counts": {
+    "left": 6,
+    "centre": 9,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.428,
+   "category": "international",
+   "terms_left": [
+    "maire",
+    "travaillistes",
+    "nord"
+   ],
+   "terms_right": [
+    "succéder",
+    "burnham",
+    "devenir"
+   ]
+  },
+  {
+   "title": "L’Espagne remporte sa deuxième Coupe du monde après une victoire “amplement méritée” face à l’Argentine",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/pour-les-malouines-40-ans-apres-la-guerre-encore-source-de-tensions-avant-la-demi-finale-angleterre-argentine-12-07-2026-HBFWGZHZEFDUZENYFGSPTQN4FI.php",
-   "n_members": 88,
+   "n_members": 90,
    "n_sources": 20,
    "counts": {
     "left": 4,
@@ -125,6 +357,178 @@
    ]
   },
   {
+   "title": "Guerre en Ukraine: plus de 370 drones lancés vers Moscou pendant la nuit, sept personnes tuées dans l'ouest de la Russie",
+   "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
+   "n_members": 73,
+   "n_sources": 20,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 5,
+    "opinion": 1
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.584,
+   "category": "international",
+   "terms_left": [
+    "frappé",
+    "secours",
+    "lendemain attaques"
+   ],
+   "terms_right": [
+    "morts",
+    "russe",
+    "moscou"
+   ]
+  },
+  {
+   "title": "Frappes américaines en Iran : septième nuit consécutive - 17/07",
+   "url": "https://www.liberation.fr/international/moyen-orient/en-iran-labsence-du-nouveau-guide-supreme-aiguise-les-rivalites-au-sein-du-pouvoir-20260710_PIR3PG75ONBYTCW3DAAP3W2OW4/",
+   "n_members": 59,
+   "n_sources": 20,
+   "counts": {
+    "left": 3,
+    "centre": 11,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 1
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.716,
+   "category": "international",
+   "terms_left": [
+    "mort",
+    "nouveau",
+    "père"
+   ],
+   "terms_right": [
+    "iran",
+    "trump",
+    "moyen-orient"
+   ]
+  },
+  {
+   "title": "Argentine-Espagne: qui sera présent aux côtés de Donald Trump pour la finale du Mondial 2026",
+   "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-les-images-etonnantes-de-la-ferveur-des-fans-argentins-qui-recreent-buenos-aires-a-atlanta-avant-la-demi-finale-15-07-2026-3NXTLG5VAJHHBO4F7ZUD7EBXPU.php",
+   "n_members": 59,
+   "n_sources": 20,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 1
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.583,
+   "category": "sport",
+   "terms_left": [
+    "fifa",
+    "face",
+    "américain"
+   ],
+   "terms_right": [
+    "new york",
+    "york",
+    "new"
+   ]
+  },
+  {
+   "title": "Coupe du monde 2026 : avec 22 buts, Kylian Mbappé devient le meilleur buteur de l'histoire de la compétition",
+   "url": "https://www.sudradio.fr/emission/les-tontons-du-mondial-21",
+   "n_members": 55,
+   "n_sources": 20,
+   "counts": {
+    "left": 4,
+    "centre": 9,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.799,
+   "category": "sport",
+   "terms_left": [
+    "qu",
+    "football",
+    "week-end"
+   ],
+   "terms_right": [
+    "mbappé",
+    "france",
+    "angleterre"
+   ]
+  },
+  {
+   "title": "Incendie dans le Var: le feu progresse toujours, 200 hectares ont été brûlés",
+   "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
+   "n_members": 74,
+   "n_sources": 19,
+   "counts": {
+    "left": 2,
+    "centre": 12,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 4,
+    "opinion": 1
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "environnement",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "EN DIRECT - France-Angleterre : un choc pour la der de Deschamps à Miami",
+   "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/france-espagne-sans-reponse-de-la-fifa-pour-sa-demande-de-minute-de-silence-eric-ciotti-en-appelle-a-emmanuel-macron-12-07-2026-MDIYSBROABFBHIGO6W27G4D3XY.php",
+   "n_members": 54,
+   "n_sources": 18,
+   "counts": {
+    "left": 3,
+    "centre": 9,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 4,
+    "opinion": 3
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.816,
+   "category": "sport",
+   "terms_left": [
+    "finale",
+    "angleterre",
+    "france-angleterre"
+   ],
+   "terms_right": [
+    "espagne",
+    "bleus",
+    "mondial"
+   ]
+  },
+  {
    "title": "Séismes au Venezuela : plus de 5 000 morts, le FMI débloque des fonds",
    "url": "https://www.mediapart.fr/journal/international/150726/depasse-par-le-seisme-le-venezuela-engage-une-ouverture-limitee",
    "n_members": 31,
@@ -147,21 +551,73 @@
    "terms_right": []
   },
   {
-   "title": "Vidéos. Violent incendie de forêt dans le Var, plusieurs dizaines d’habitations évacuées",
-   "url": "https://www.leparisien.fr/seine-et-marne-77/incendies-en-foret-de-fontainebleau-a-quoi-va-servir-la-collecte-durgence-lancee-par-la-fondation-du-patrimoine-16-07-2026-D5Y5656PW5CNHNELSFWLAKO2XQ.php",
-   "n_members": 23,
-   "n_sources": 12,
+   "title": "«L'équipe de France ne mérite pas ça» : Didier Deschamps revient sur les raisons de son départ à la tête des Bleus",
+   "url": "https://www.leparisien.fr/video/actualites/sports/deschamps-larbitre-etait-il-au-niveau-15-07-2026-3MC6TJKRCRBYHNUQ56SVZKG25I.php",
+   "n_members": 60,
+   "n_sources": 16,
+   "counts": {
+    "left": 2,
+    "centre": 8,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 5,
+    "opinion": 2
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.811,
+   "category": "sport",
+   "terms_left": [
+    "finale",
+    "petite",
+    "petite finale"
+   ],
+   "terms_right": [
+    "didier",
+    "didier deschamps",
+    "match"
+   ]
+  },
+  {
+   "title": "Départs en vacances des 17 et 18 juillet : un week-end rouge dans le sens des départs, les conseils de Bison futé pour éviter les bouchons",
+   "url": "https://www.franceinfo.fr/economie/les-packs-d-eau-seront-ils-bientot-interdits-a-la-vente-en-france-et-dans-l-union-europeenne-comme-l-affirme-une-eurodeputee-du-rassemblement-national_8104100.html",
+   "n_members": 48,
+   "n_sources": 13,
    "counts": {
     "left": 1,
-    "centre": 6,
+    "centre": 7,
     "right": 5
    },
    "style_counts": {
-    "factuel": 7,
+    "factuel": 9,
+    "mixte": 3,
+    "opinion": 1
+   },
+   "blindspot_score": 0.667,
+   "blindspot_for": "gauche",
+   "divergence": 0.981,
+   "category": "société",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Vidéos. Violent incendie de forêt dans le Var, plusieurs dizaines d’habitations évacuées",
+   "url": "https://www.leparisien.fr/seine-et-marne-77/incendies-en-foret-de-fontainebleau-a-quoi-va-servir-la-collecte-durgence-lancee-par-la-fondation-du-patrimoine-16-07-2026-D5Y5656PW5CNHNELSFWLAKO2XQ.php",
+   "n_members": 24,
+   "n_sources": 13,
+   "counts": {
+    "left": 1,
+    "centre": 6,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 8,
     "mixte": 3,
     "opinion": 2
    },
-   "blindspot_score": 0.667,
+   "blindspot_score": 0.714,
    "blindspot_for": "gauche",
    "divergence": null,
    "category": "environnement",
@@ -169,17 +625,39 @@
    "terms_right": []
   },
   {
+   "title": "Guyana : un ferry fait naufrage avec 116 personnes à bord, 53 personnes déjà secourues",
+   "url": "https://www.bfmtv.com/international/asie/moyen-de-flottaison-de-fortune-cinq-survivants-retrouves-plusieurs-jours-apres-un-naufrage-en-indonesie_AD-202607190123.html",
+   "n_members": 19,
+   "n_sources": 13,
+   "counts": {
+    "left": 0,
+    "centre": 8,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 2,
+    "opinion": 1
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Politique. Après les épisodes de canicule, l’environnement grimpe dans les préoccupations des Français",
    "url": "https://www.valeursactuelles.com/clubvaleurs/societe/quand-la-canicule-met-lecologie-politique-a-lepreuve-du-reel",
-   "n_members": 9,
-   "n_sources": 7,
+   "n_members": 10,
+   "n_sources": 8,
    "counts": {
     "left": 2,
-    "centre": 4,
+    "centre": 5,
     "right": 1
    },
    "style_counts": {
-    "factuel": 4,
+    "factuel": 5,
     "mixte": 2,
     "opinion": 1
    },
@@ -193,20 +671,20 @@
   {
    "title": "Guerre au Moyen-Orient: les images de la riposte iranienne publiées par les Gardiens de la Révolution",
    "url": "https://www.tf1info.fr/international/video-le-regime-iranien-redoute-la-riposte-pourquoi-teheran-garde-ses-distances-avec-israel-depuis-la-reprise-des-hostilites-au-moyen-orient-2453615.html",
-   "n_members": 14,
-   "n_sources": 6,
+   "n_members": 15,
+   "n_sources": 7,
    "counts": {
     "left": 1,
     "centre": 2,
-    "right": 3
+    "right": 4
    },
    "style_counts": {
     "factuel": 4,
-    "mixte": 2,
+    "mixte": 3,
     "opinion": 0
    },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
    "divergence": null,
    "category": "international",
    "terms_left": [],
@@ -279,6 +757,28 @@
    "terms_right": []
   },
   {
+   "title": "Un Lyonnais en voyage au Pérou disparu depuis près d'une semaine, une enquête est ouverte",
+   "url": "https://www.bfmtv.com/lyon/un-lyonnais-en-voyage-au-perou-disparu-depuis-pres-d-une-semaine-une-enquete-est-ouverte_AD-202607170732.html",
+   "n_members": 4,
+   "n_sources": 3,
+   "counts": {
+    "left": 0,
+    "centre": 1,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 2,
+    "mixte": 0,
+    "opinion": 1
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "faits-divers",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "LCI Direct du dimanche 19 juillet 2026",
    "url": "https://www.tf1info.fr/replay-lci/videos/video-la-matinale-du-samedi-11-juillet-2026-2452635.html",
    "n_members": 69,
@@ -323,9 +823,53 @@
    "terms_right": []
   },
   {
-   "title": "Espagne-Argentine (1-0) : nos tops et nos flops de la finale, avec le héros Ferran Torres et Messi réduit au silence",
+   "title": "L'horoscope Sud Radio",
+   "url": "https://www.sudradio.fr/emission/lhoroscope-sud-radio-1131",
+   "n_members": 13,
+   "n_sources": 1,
+   "counts": {
+    "left": 0,
+    "centre": 0,
+    "right": 1
+   },
+   "style_counts": {
+    "factuel": 0,
+    "mixte": 1,
+    "opinion": 0
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "sciences-tech",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Le Journal du Tour",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/le-journal-du-tour/le-journal-du-tour-jusqu-au-25-07-du-mercredi-15-juillet-2026-3524598",
+   "n_members": 7,
+   "n_sources": 1,
+   "counts": {
+    "left": 1,
+    "centre": 0,
+    "right": 0
+   },
+   "style_counts": {
+    "factuel": 0,
+    "mixte": 1,
+    "opinion": 0
+   },
+   "blindspot_score": -1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "sport",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Espagne-Argentine (1-0 a.p.) : Lionel Messi invisible face à la muraille espagnole",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/espagne-argentine-1-0-ap-apres-leuro-et-les-jo-la-coupe-du-monde-lexceptionnel-triple-de-la-roja-20-07-2026-RR5LG7HEJNCOVIPVYFH74JVN6E.php",
-   "n_members": 4,
+   "n_members": 5,
    "n_sources": 1,
    "counts": {
     "left": 0,
@@ -341,6 +885,28 @@
    "blindspot_for": null,
    "divergence": null,
    "category": "sport",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "L'horoscope du dimanche 19 juillet 2026",
+   "url": "https://www.radiofrance.fr/francebleu/podcasts/l-horoscope-de-catherine-viguie/l-horoscope-du-samedi-18-juillet-2026-9447046",
+   "n_members": 3,
+   "n_sources": 1,
+   "counts": {
+    "left": 0,
+    "centre": 1,
+    "right": 0
+   },
+   "style_counts": {
+    "factuel": 1,
+    "mixte": 0,
+    "opinion": 0
+   },
+   "blindspot_score": null,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": null,
    "terms_left": [],
    "terms_right": []
   }
