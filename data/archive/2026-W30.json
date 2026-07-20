@@ -1,6 +1,6 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-20T20:18:00+00:00",
+ "generated_at": "2026-07-20T21:40:23+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -35,9 +35,9 @@
    ]
   },
   {
-   "title": "Que révèle la contestation contre le remaniement de Volodymyr Zelensky ?",
+   "title": "Guerre en Ukraine : en se séparant de son ministre de la Défense Mykhaïlo Fedorov, Volodymyr Zelensky provoque une onde de choc et ouvre une crise politique",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 171,
+   "n_members": 172,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -60,8 +60,8 @@
    ],
    "terms_right": [
     "zelensky",
-    "volodymyr",
-    "volodymyr zelensky"
+    "volodymyr zelensky",
+    "volodymyr"
    ]
   },
   {
@@ -85,8 +85,8 @@
    "category": "international",
    "terms_left": [
     "gauche",
-    "starmer downing",
-    "starmer andy"
+    "starmer andy",
+    "starmer downing"
    ],
    "terms_right": [
     "ministre britannique",
@@ -97,7 +97,7 @@
   {
    "title": "EN DIRECT - Moyen-Orient: les États-Unis ciblent à nouveau l'Iran après la mort de deux militaires",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 360,
+   "n_members": 362,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.362,
+   "divergence": 0.363,
    "category": "international",
    "terms_left": [
     "bombardements",
@@ -157,7 +157,7 @@
   {
    "title": "Loi d'urgence agricole : la réintroduction de l'acétamipride menace l'adoption du texte",
    "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
-   "n_members": 90,
+   "n_members": 91,
    "n_sources": 29,
    "counts": {
     "left": 9,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": -0.125,
    "blindspot_for": null,
-   "divergence": 0.443,
+   "divergence": 0.445,
    "category": "politique",
    "terms_left": [
     "eau",
@@ -283,23 +283,23 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.27,
+   "divergence": 0.271,
    "category": "faits-divers",
    "terms_left": [
     "delphine aussaguel",
     "aussaguel",
-    "passé"
+    "analyses cours"
    ],
    "terms_right": [
     "jubillar",
     "delphine",
-    "indiqué"
+    "qu"
    ]
   },
   {
    "title": "Grenoble : le concert de la DJ Barbara Butch interrompu par une centaine de militants propalestiniens",
    "url": "https://www.europe1.fr/international/un-homme-a-failli-etre-aspire-hors-dun-vol-ryanair-au-depart-de-grece-970086",
-   "n_members": 79,
+   "n_members": 81,
    "n_sources": 26,
    "counts": {
     "left": 7,
@@ -433,7 +433,7 @@
   {
    "title": "EN DIRECT - Coupe du monde 2026: suivez la finale entre l'Espagne et l'Argentine",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/norvege-angleterre-la-composition-des-equipes-pour-le-quart-de-finale-de-la-coupe-du-monde-11-07-2026-CVUMVWWP7ZDS3PSSYZQOX3TZSU.php",
-   "n_members": 242,
+   "n_members": 245,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -451,13 +451,43 @@
    "category": "sport",
    "terms_left": [
     "équipe france",
-    "monde football",
-    "sports"
+    "sports",
+    "monde angleterre"
    ],
    "terms_right": [
     "finale",
     "espagne",
     "finale coupe"
+   ]
+  },
+  {
+   "title": "Les dates importantes de l’élection présidentielle 2027",
+   "url": "https://www.bfmtv.com/environnement/climat/video-les-avantages-et-inconvenients-de-l-utilisation-d-un-a400m-dans-la-lutte-contre-les-incendies_VN-202607120341.html",
+   "n_members": 60,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.862,
+   "category": "politique",
+   "terms_left": [
+    "ans",
+    "loi",
+    "macron"
+   ],
+   "terms_right": [
+    "canadair",
+    "présidentielle",
+    "qu"
    ]
   },
   {
@@ -486,38 +516,8 @@
    ],
    "terms_right": [
     "annoncé",
-    "face",
-    "pays"
-   ]
-  },
-  {
-   "title": "Les dates importantes de l’élection présidentielle 2027",
-   "url": "https://www.bfmtv.com/environnement/climat/video-les-avantages-et-inconvenients-de-l-utilisation-d-un-a400m-dans-la-lutte-contre-les-incendies_VN-202607120341.html",
-   "n_members": 59,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.863,
-   "category": "politique",
-   "terms_left": [
-    "ans",
-    "loi",
-    "macron"
-   ],
-   "terms_right": [
-    "canadair",
-    "présidentielle",
-    "qu"
+    "état",
+    "face"
    ]
   },
   {
@@ -553,7 +553,7 @@
   {
    "title": "L’Espagne remporte sa deuxième Coupe du monde après une victoire “amplement méritée” face à l’Argentine",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/pour-les-malouines-40-ans-apres-la-guerre-encore-source-de-tensions-avant-la-demi-finale-angleterre-argentine-12-07-2026-HBFWGZHZEFDUZENYFGSPTQN4FI.php",
-   "n_members": 123,
+   "n_members": 124,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -663,6 +663,36 @@
    ]
   },
   {
+   "title": "Zones pilotes au Liban : de quoi s'agit-il ?",
+   "url": "https://www.nouvelobs.com/justice/20260711.OBS116580/affaire-jubillar-les-coulisses-des-aveux-qui-posent-plus-de-questions-qu-ils-n-apportent-de-reponses.html",
+   "n_members": 62,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.906,
+   "category": "international",
+   "terms_left": [
+    "israël",
+    "fedorov",
+    "liban"
+   ],
+   "terms_right": [
+    "ans",
+    "frappes",
+    "jubillar"
+   ]
+  },
+  {
    "title": "Coupe du monde 2026 : Donald Trump s’est invité aux côtés des Espagnols au moment de soulever le trophée",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-les-images-etonnantes-de-la-ferveur-des-fans-argentins-qui-recreent-buenos-aires-a-atlanta-avant-la-demi-finale-15-07-2026-3NXTLG5VAJHHBO4F7ZUD7EBXPU.php",
    "n_members": 85,
@@ -709,7 +739,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.791,
+   "divergence": 0.792,
    "category": "sport",
    "terms_left": [
     "qu",
@@ -739,7 +769,7 @@
    },
    "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.82,
+   "divergence": 0.821,
    "category": "international",
    "terms_left": [
     "cesser",
@@ -837,7 +867,7 @@
   {
    "title": "Incendie dans le Var: le feu progresse toujours, 200 hectares ont été brûlés",
    "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
-   "n_members": 106,
+   "n_members": 107,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -851,7 +881,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.691,
+   "divergence": 0.687,
    "category": "environnement",
    "terms_left": [
     "incendies",
@@ -867,7 +897,7 @@
   {
    "title": "Guerre en Ukraine: plus de 370 drones lancés vers Moscou pendant la nuit, sept personnes tuées dans l'ouest de la Russie",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 88,
+   "n_members": 91,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -881,7 +911,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.54,
+   "divergence": 0.543,
    "category": "international",
    "terms_left": [
     "balistiques",
@@ -895,9 +925,9 @@
    ]
   },
   {
-   "title": "Frappes américaines en Iran : septième nuit consécutive - 17/07",
+   "title": "Guerre au Moyen-Orient : ce que l'on sait de la nouvelle nuit de bombardements entre l'Iran et les Etats-Unis",
    "url": "https://www.liberation.fr/international/moyen-orient/en-iran-labsence-du-nouveau-guide-supreme-aiguise-les-rivalites-au-sein-du-pouvoir-20260710_PIR3PG75ONBYTCW3DAAP3W2OW4/",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -911,7 +941,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.716,
+   "divergence": 0.704,
    "category": "international",
    "terms_left": [
     "mort",
@@ -971,7 +1001,7 @@
   {
    "title": "Coupe du monde 2026 : un adolescent de 13 ans meurt en Espagne pendant les célébrations de la victoire après l’effondrement d’une fontaine",
    "url": "https://www.franceinfo.fr/coupe-du-monde/un-show-digne-du-superbowl-madonna-et-tom-cruise-en-guest-stars-donald-trump-en-tribune-a-quoi-s-attendre-pour-la-finale-de-coupe-du-monde-espagne-argentine_8111357.html",
-   "n_members": 48,
+   "n_members": 52,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -985,7 +1015,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.74,
+   "divergence": 0.742,
    "category": "sport",
    "terms_left": [
     "show mi-temps",
@@ -994,9 +1024,31 @@
    ],
    "terms_right": [
     "monde",
-    "espagne",
-    "football"
+    "football",
+    "équipe"
    ]
+  },
+  {
+   "title": "« La Chine écrase ce marché » : les États-Unis et l’Europe déjà distancés dans les robots humanoïdes",
+   "url": "https://www.lexpress.fr/economie/high-tech/apple-poursuit-openai-en-justice-linexorable-montee-des-tensions-entres-les-deux-societes-FHW4GAUDLRCWDHVETB3Q5RVMDA/",
+   "n_members": 41,
+   "n_sources": 20,
+   "counts": {
+    "left": 3,
+    "centre": 8,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.799,
+   "category": "économie",
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Père d'un enfant né sous GPA aux États-Unis, le chef des députés conservateurs allemands démissionne",
@@ -1076,58 +1128,6 @@
    "blindspot_score": 0.333,
    "blindspot_for": null,
    "divergence": 0.818,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Logements vacants : le Conseil de Paris vote le doublement de la taxe",
-   "url": "https://www.sudouest.fr/economie/agriculture/loi-d-urgence-agricole-face-aux-polemiques-sebastien-lecornu-demande-de-consulter-les-groupes-parlementaires-29966488.php",
-   "n_members": 44,
-   "n_sources": 18,
-   "counts": {
-    "left": 3,
-    "centre": 6,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 5,
-    "opinion": 4
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.461,
-   "category": "politique",
-   "terms_left": [
-    "biens",
-    "ville paris",
-    "ville"
-   ],
-   "terms_right": [
-    "plaque",
-    "justes",
-    "rafle"
-   ]
-  },
-  {
-   "title": "Tour de France : Mauro Schmid s’impose au sprint au terme d’une folle échappée sur la plus longue étape",
-   "url": "https://www.leparisien.fr/sports/cyclisme/tour-de-france/je-me-suis-entraine-pendant-deux-mois-pour-ca-et-ca-paye-paul-seixas-aux-anges-apres-sa-3e-place-sur-le-tour-14-07-2026-XPE2ADQSQVAUJHNGLWPKLRQFVU.php",
-   "n_members": 65,
-   "n_sources": 17,
-   "counts": {
-    "left": 3,
-    "centre": 10,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.576,
    "category": "sport",
    "terms_left": [],
    "terms_right": []
