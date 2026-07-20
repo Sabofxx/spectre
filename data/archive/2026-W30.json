@@ -1,6 +1,6 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-20T15:15:14+00:00",
+ "generated_at": "2026-07-20T16:53:16+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.571,
+   "divergence": 0.576,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -65,9 +65,39 @@
    ]
   },
   {
+   "title": "Andy Burnham à Downing Street : le nouveau Premier ministre britannique prend ses fonctions et promet \"une nouvelle politique\" pour tenter de redresser un Royaume-Uni en pleine crise",
+   "url": "https://information.tv5monde.com/international/royaume-uni-andy-burnham-plebiscite-au-debut-de-la-course-la-succession-de-keir-starmer-2829528",
+   "n_members": 102,
+   "n_sources": 30,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.176,
+   "blindspot_for": null,
+   "divergence": 0.255,
+   "category": "international",
+   "terms_left": [
+    "gauche",
+    "starmer andy",
+    "starmer downing"
+   ],
+   "terms_right": [
+    "ministre britannique",
+    "britannique",
+    "ans"
+   ]
+  },
+  {
    "title": "EN DIRECT - Moyen-Orient: les États-Unis ciblent à nouveau l'Iran après la mort de deux militaires",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 354,
+   "n_members": 355,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -81,7 +111,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.36,
+   "divergence": 0.361,
    "category": "international",
    "terms_left": [
     "bombardements",
@@ -97,7 +127,7 @@
   {
    "title": "Canicule: sept départements du sud-est maintenus en vigilance orange ce dimanche",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 294,
+   "n_members": 296,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -111,7 +141,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.368,
+   "divergence": 0.372,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -119,45 +149,15 @@
     "rouge"
    ],
    "terms_right": [
-    "orange",
     "départements",
+    "orange",
     "vigilance"
-   ]
-  },
-  {
-   "title": "Andy Burnham à Downing Street : le nouveau Premier ministre britannique prend ses fonctions et promet \"une nouvelle politique\" pour tenter de redresser un Royaume-Uni en pleine crise",
-   "url": "https://information.tv5monde.com/international/royaume-uni-andy-burnham-plebiscite-au-debut-de-la-course-la-succession-de-keir-starmer-2829528",
-   "n_members": 97,
-   "n_sources": 28,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.282,
-   "category": "international",
-   "terms_left": [
-    "politique",
-    "gauche",
-    "starmer downing"
-   ],
-   "terms_right": [
-    "ministre britannique",
-    "britannique",
-    "ministre"
    ]
   },
   {
    "title": "Loi d’urgence agricole : ultime réunion à Matignon face à l’incertitude sur la réintroduction de pesticides controversés",
    "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
-   "n_members": 80,
+   "n_members": 85,
    "n_sources": 28,
    "counts": {
     "left": 9,
@@ -171,17 +171,47 @@
    },
    "blindspot_score": -0.125,
    "blindspot_for": null,
-   "divergence": 0.5,
+   "divergence": 0.483,
    "category": "société",
    "terms_left": [
     "eau",
-    "interdits",
-    "pesticides interdits"
+    "pesticides interdits",
+    "interdits"
    ],
    "terms_right": [
     "projet loi",
     "projet",
     "shemseddine"
+   ]
+  },
+  {
+   "title": "«L'Odyssée» : la fresque historique de Christopher Nolan se hisse en tête du box-office nord-américain",
+   "url": "https://www.mediapart.fr/journal/culture-et-idees/110726/l-odyssee-sort-au-cinema-et-ravive-la-question-de-la-race-sous-l-antiquite",
+   "n_members": 73,
+   "n_sources": 27,
+   "counts": {
+    "left": 9,
+    "centre": 12,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": -0.2,
+   "blindspot_for": null,
+   "divergence": 0.3,
+   "category": "culture",
+   "terms_left": [
+    "odyssée",
+    "voir",
+    "semaine"
+   ],
+   "terms_right": [
+    "box-office",
+    "nouveau",
+    "millions"
    ]
   },
   {
@@ -201,7 +231,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.541,
+   "divergence": 0.538,
    "category": "environnement",
    "terms_left": [
     "alerte",
@@ -217,7 +247,7 @@
   {
    "title": "Affaire Jubillar : les ossements retrouvés dans le Tarn ce jeudi sont bien ceux de Delphine Jubillar",
    "url": "https://www.leparisien.fr/video/actualites/faits-divers/affaire-delphine-jubillar-des-ossements-non-identifies-decouverts-16-07-2026-CDYSBQ7GCBEYZPOQF6DFVKENUQ.php",
-   "n_members": 275,
+   "n_members": 278,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -231,7 +261,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.274,
+   "divergence": 0.271,
    "category": "faits-divers",
    "terms_left": [
     "delphine aussaguel",
@@ -242,36 +272,6 @@
     "jubillar",
     "delphine",
     "indiqué"
-   ]
-  },
-  {
-   "title": "«L'Odyssée» : la fresque historique de Christopher Nolan se hisse en tête du box-office nord-américain",
-   "url": "https://www.mediapart.fr/journal/culture-et-idees/110726/l-odyssee-sort-au-cinema-et-ravive-la-question-de-la-race-sous-l-antiquite",
-   "n_members": 72,
-   "n_sources": 26,
-   "counts": {
-    "left": 9,
-    "centre": 12,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 4
-   },
-   "blindspot_score": -0.286,
-   "blindspot_for": null,
-   "divergence": 0.299,
-   "category": "culture",
-   "terms_left": [
-    "semaine",
-    "odyssée",
-    "voir"
-   ],
-   "terms_right": [
-    "box-office",
-    "nouveau",
-    "ans"
    ]
   },
   {
@@ -293,21 +293,13 @@
    "blindspot_for": "gauche",
    "divergence": 0.713,
    "category": "international",
-   "terms_left": [
-    "ukrainienne",
-    "origine",
-    "homme"
-   ],
-   "terms_right": [
-    "ukraine",
-    "explosion",
-    "ukrainien"
-   ]
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "L’Assemblée nationale rejette la perpétuité pour viols en série sur mineurs de moins de 15 ans, nouveau vote mardi",
    "url": "https://www.leprogres.fr/economie/2026/07/15/logements-bouilloires-la-confederation-nationale-du-logement-entend-porter-plainte-contre-l-etat",
-   "n_members": 69,
+   "n_members": 70,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -321,17 +313,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.508,
+   "divergence": 0.513,
    "category": "politique",
    "terms_left": [
-    "crimes",
     "nounou-top",
-    "site"
+    "site",
+    "imprescriptibilité"
    ],
    "terms_right": [
     "ans",
-    "viols série",
-    "perpétuité"
+    "série",
+    "viols série"
    ]
   },
   {
@@ -357,9 +349,39 @@
    "terms_right": []
   },
   {
+   "title": "\"Le revenu horaire avait fortement chuté entre 2021 et 2024\" : les livreurs de repas seront un peu mieux payés à partir du 1ᵉʳ septembre",
+   "url": "https://www.liberation.fr/politique/presidentielle-les-ecologistes-rafraichissent-les-idees-dans-un-nouveau-programme-20260713_HLF46E75PVHLLDYAZTTQCARLLE/",
+   "n_members": 59,
+   "n_sources": 25,
+   "counts": {
+    "left": 6,
+    "centre": 10,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.69,
+   "category": "économie",
+   "terms_left": [
+    "protection",
+    "présidentielle",
+    "programme"
+   ],
+   "terms_right": [
+    "livret",
+    "taux",
+    "er"
+   ]
+  },
+  {
    "title": "EN DIRECT - Coupe du monde 2026: suivez la finale entre l'Espagne et l'Argentine",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/norvege-angleterre-la-composition-des-equipes-pour-le-quart-de-finale-de-la-coupe-du-monde-11-07-2026-CVUMVWWP7ZDS3PSSYZQOX3TZSU.php",
-   "n_members": 226,
+   "n_members": 232,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -373,12 +395,12 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.525,
+   "divergence": 0.52,
    "category": "sport",
    "terms_left": [
-    "sports",
     "équipe france",
-    "monde football"
+    "monde football",
+    "sports"
    ],
    "terms_right": [
     "espagne",
@@ -387,9 +409,39 @@
    ]
   },
   {
+   "title": "Grenoble. Un concert de la DJ Barbara Butch interrompu par des militants propalestiniens",
+   "url": "https://www.europe1.fr/international/un-homme-a-failli-etre-aspire-hors-dun-vol-ryanair-au-depart-de-grece-970086",
+   "n_members": 72,
+   "n_sources": 24,
+   "counts": {
+    "left": 6,
+    "centre": 10,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.342,
+   "category": "culture",
+   "terms_left": [
+    "maire",
+    "concert grenoble",
+    "spectacle"
+   ],
+   "terms_right": [
+    "militants",
+    "concert barbara",
+    "appel boycott"
+   ]
+  },
+  {
    "title": "Incendies : «Un peu moins de 40.000 hectares» brûlés en France et 111 interpellations, annonce Laurent Nuñez",
    "url": "https://www.nicematin.com/societe/vie-locale/ou-est-l-inflexion-promise-pourquoi-le-budget-supplementaire-de-la-ville-d-antibes-a-fait-debat-10689044",
-   "n_members": 55,
+   "n_members": 58,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -403,7 +455,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.73,
+   "divergence": 0.734,
    "category": "économie",
    "terms_left": [
     "feux",
@@ -412,7 +464,7 @@
    ],
    "terms_right": [
     "climatiseurs",
-    "euros",
+    "annoncé",
     "état"
    ]
   },
@@ -499,9 +551,9 @@
    ]
   },
   {
-   "title": "Emmanuel Macron et Friedrich Merz main dans la main pour verrouiller les dossiers en cas de victoire de Marine Le Pen à la présidentielle",
+   "title": "Présidentielle 2027 : Edouard Philippe défend «une France plus sûre» et met l'accent sur la sécurité",
    "url": "https://www.bfmtv.com/environnement/climat/video-les-avantages-et-inconvenients-de-l-utilisation-d-un-a400m-dans-la-lutte-contre-les-incendies_VN-202607120341.html",
-   "n_members": 55,
+   "n_members": 56,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -515,23 +567,53 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.863,
+   "divergence": 0.862,
    "category": "politique",
    "terms_left": [
     "ans",
     "loi",
-    "forêt"
+    "macron"
    ],
    "terms_right": [
     "canadair",
     "qu",
-    "présidentielle"
+    "incendies"
+   ]
+  },
+  {
+   "title": "Etats-Unis : le nouvel Air Force One de Donald Trump renvoyé au hangar pour améliorer sa sécurité",
+   "url": "https://www.leparisien.fr/international/etats-unis/aux-etats-unis-donald-trump-reduit-de-90-la-surface-de-deux-zones-protegees-pour-y-permettre-lexploitation-miniere-et-petroliere-14-07-2026-XKPTCQIZ4NCYNMF6EDOJRUPV3A.php",
+   "n_members": 56,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.77,
+   "category": "international",
+   "terms_left": [
+    "millions",
+    "millions dollars",
+    "américains"
+   ],
+   "terms_right": [
+    "états-unis",
+    "américain",
+    "président"
    ]
   },
   {
    "title": "L’Espagne remporte sa deuxième Coupe du monde après une victoire “amplement méritée” face à l’Argentine",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/pour-les-malouines-40-ans-apres-la-guerre-encore-source-de-tensions-avant-la-demi-finale-angleterre-argentine-12-07-2026-HBFWGZHZEFDUZENYFGSPTQN4FI.php",
-   "n_members": 114,
+   "n_members": 117,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -545,23 +627,23 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.648,
+   "divergence": 0.64,
    "category": "sport",
    "terms_left": [
     "qu",
-    "match",
-    "compétition"
+    "compétition",
+    "rêve"
    ],
    "terms_right": [
     "messi",
-    "lionel messi",
-    "lionel"
+    "équipe",
+    "lionel messi"
    ]
   },
   {
    "title": "Coupe du monde 2026 : Donald Trump s’est invité aux côtés des Espagnols au moment de soulever le trophée",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-les-images-etonnantes-de-la-ferveur-des-fans-argentins-qui-recreent-buenos-aires-a-atlanta-avant-la-demi-finale-15-07-2026-3NXTLG5VAJHHBO4F7ZUD7EBXPU.php",
-   "n_members": 82,
+   "n_members": 83,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -575,7 +657,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.572,
+   "divergence": 0.567,
    "category": "sport",
    "terms_left": [
     "match",
@@ -591,7 +673,7 @@
   {
    "title": "Coupe du monde 2026 : Kylian Mbappé s'empare du record de buts de Lionel Messi dans l'histoire du Mondial",
    "url": "https://www.sudradio.fr/emission/les-tontons-du-mondial-21",
-   "n_members": 61,
+   "n_members": 62,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -605,12 +687,12 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.793,
+   "divergence": 0.79,
    "category": "sport",
    "terms_left": [
     "qu",
-    "football",
-    "compétition"
+    "compétition",
+    "week-end"
    ],
    "terms_right": [
     "mbappé",
@@ -619,99 +701,9 @@
    ]
   },
   {
-   "title": "États-Unis : Donald Trump dit que le nouvel avion Air Force One, offert par le Qatar, a besoin d’améliorations après des craintes de sécurité",
-   "url": "https://www.leparisien.fr/international/etats-unis/aux-etats-unis-donald-trump-reduit-de-90-la-surface-de-deux-zones-protegees-pour-y-permettre-lexploitation-miniere-et-petroliere-14-07-2026-XKPTCQIZ4NCYNMF6EDOJRUPV3A.php",
-   "n_members": 51,
-   "n_sources": 22,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.771,
-   "category": "international",
-   "terms_left": [
-    "américains",
-    "dollars",
-    "millions"
-   ],
-   "terms_right": [
-    "américain",
-    "président",
-    "états-unis"
-   ]
-  },
-  {
-   "title": "Grenoble : le concert de la DJ Barbara Butch interrompu par une centaine de militants propalestiniens",
-   "url": "https://www.europe1.fr/international/un-homme-a-failli-etre-aspire-hors-dun-vol-ryanair-au-depart-de-grece-970086",
-   "n_members": 65,
-   "n_sources": 21,
-   "counts": {
-    "left": 5,
-    "centre": 8,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.413,
-   "category": "culture",
-   "terms_left": [
-    "maire",
-    "orange",
-    "rn"
-   ],
-   "terms_right": [
-    "militants",
-    "concert barbara",
-    "propalestiniens"
-   ]
-  },
-  {
-   "title": "« Viols filmés » en milieu libertin : cinq nouvelles mises en examen, 19 au total",
-   "url": "https://www.cnews.fr/faits-divers/2026-07-11/allemagne-une-femme-retenue-en-otage-depuis-vendredi-soir-dans-un",
-   "n_members": 60,
-   "n_sources": 21,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.418,
-   "category": "faits-divers",
-   "terms_left": [
-    "reprochés jacqueline",
-    "faits reprochés",
-    "reprochés"
-   ],
-   "terms_right": [
-    "filmés",
-    "examen",
-    "grand-tante"
-   ]
-  },
-  {
    "title": "De crocodiles pour décourager les évasions de prison ? Israël ouvre la voie à l'utilisation de ces reptiles",
    "url": "https://www.rfi.fr/fr/moyen-orient/20260711-%C3%A9lections-l%C3%A9gislatives-en-palestine-fix%C3%A9-en-novembre-le-scrutin-n-en-demeure-pas-moins-incertain",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 21,
    "counts": {
     "left": 5,
@@ -736,6 +728,36 @@
     "ans",
     "crocodiles",
     "prisons"
+   ]
+  },
+  {
+   "title": "« Viols filmés » en milieu libertin : cinq nouvelles mises en examen, 19 au total",
+   "url": "https://www.cnews.fr/faits-divers/2026-07-11/allemagne-une-femme-retenue-en-otage-depuis-vendredi-soir-dans-un",
+   "n_members": 60,
+   "n_sources": 21,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.419,
+   "category": "faits-divers",
+   "terms_left": [
+    "reprochés jacqueline",
+    "faits reprochés",
+    "reprochés"
+   ],
+   "terms_right": [
+    "filmés",
+    "examen",
+    "grand-tante"
    ]
   },
   {
@@ -771,7 +793,7 @@
   {
    "title": "Incendie dans le Var: le feu progresse toujours, 200 hectares ont été brûlés",
    "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
-   "n_members": 100,
+   "n_members": 101,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -801,7 +823,7 @@
   {
    "title": "Guerre en Ukraine: plus de 370 drones lancés vers Moscou pendant la nuit, sept personnes tuées dans l'ouest de la Russie",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 84,
+   "n_members": 85,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -861,7 +883,7 @@
   {
    "title": "Champs-sur-Marne : un homme qui menaçait des passants neutralisé au taser par des policiers",
    "url": "https://www.leprogres.fr/faits-divers-justice/2026/07/13/meurtre-d-une-surveillante-le-collegien-mis-en-cause-devant-le-tribunal-a-partir-de-mercredi",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -883,7 +905,7 @@
   {
    "title": "Coupe du monde 2026 : un adolescent de 13 ans meurt en Espagne pendant les célébrations de la victoire après l’effondrement d’une fontaine",
    "url": "https://www.franceinfo.fr/coupe-du-monde/un-show-digne-du-superbowl-madonna-et-tom-cruise-en-guest-stars-donald-trump-en-tribune-a-quoi-s-attendre-pour-la-finale-de-coupe-du-monde-espagne-argentine_8111357.html",
-   "n_members": 39,
+   "n_members": 41,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -897,7 +919,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.75,
+   "divergence": 0.754,
    "category": "sport",
    "terms_left": [
     "show mi-temps",
@@ -913,29 +935,67 @@
   {
    "title": "Père d'un enfant né sous GPA aux États-Unis, le chef des députés conservateurs allemands démissionne",
    "url": "https://www.sudouest.fr/international/europe/allemagne/allemagne-le-depute-jens-spahn-sous-pression-apres-le-recours-a-une-gpa-29969531.php",
-   "n_members": 21,
-   "n_sources": 19,
+   "n_members": 22,
+   "n_sources": 20,
    "counts": {
-    "left": 1,
+    "left": 2,
     "centre": 11,
     "right": 7
    },
    "style_counts": {
     "factuel": 14,
     "mixte": 3,
-    "opinion": 2
+    "opinion": 3
    },
-   "blindspot_score": 0.75,
-   "blindspot_for": "gauche",
-   "divergence": null,
+   "blindspot_score": 0.556,
+   "blindspot_for": null,
+   "divergence": 0.686,
    "category": "international",
-   "terms_left": [],
-   "terms_right": []
+   "terms_left": [
+    "groupe",
+    "droite",
+    "bundestag"
+   ],
+   "terms_right": [
+    "chef députés",
+    "députés",
+    "chef"
+   ]
   },
   {
-   "title": "\"Finir sur une bonne victoire\": les supporters des Bleus en quête d'un podium pour le Mondial 2026",
+   "title": "«Certains comportements étaient inadmissibles» : Adrien Rabiot fustige l’attitude de ses coéquipiers après la défaite de la France contre l’Angleterre",
+   "url": "https://rmcsport.bfmtv.com/football/transferts/om-les-departs-de-greenwood-et-de-traore-imminents_AV-202607140321.html",
+   "n_members": 59,
+   "n_sources": 19,
+   "counts": {
+    "left": 3,
+    "centre": 9,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 5,
+    "opinion": 3
+   },
+   "blindspot_score": 0.4,
+   "blindspot_for": null,
+   "divergence": 0.82,
+   "category": "sport",
+   "terms_left": [
+    "forces",
+    "ordre",
+    "forces ordre"
+   ],
+   "terms_right": [
+    "france",
+    "finale",
+    "angleterre"
+   ]
+  },
+  {
+   "title": "Mondial 2026: les supporters des Bleus en quête d'une place sur le podium",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/france-espagne-sans-reponse-de-la-fifa-pour-sa-demande-de-minute-de-silence-eric-ciotti-en-appelle-a-emmanuel-macron-12-07-2026-MDIYSBROABFBHIGO6W27G4D3XY.php",
-   "n_members": 61,
+   "n_members": 63,
    "n_sources": 18,
    "counts": {
     "left": 3,
@@ -993,17 +1053,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.58,
+   "divergence": 0.576,
    "category": "sport",
    "terms_left": [
     "semaine",
-    "jayco",
-    "alula"
+    "belfort",
+    "schmid"
    ],
    "terms_right": [
     "étape",
-    "tour france",
-    "km"
+    "sud",
+    "tour france"
    ]
   },
   {
@@ -1037,9 +1097,39 @@
    ]
   },
   {
+   "title": "Tour de France 2026 : Jonas Vingegaard, rival de Tadej Pogacar, contraint à l'abandon après une terrible chute",
+   "url": "https://www.franceinfo.fr/tour-de-france/insatiable-tadej-pogacar-s-impose-au-markstein-lors-de-la-14e-etape-du-tour-de-france-et-renforce-son-maillot-jaune-paul-seixas-prend-le-maillot-blanc-de-meilleur-jeune_8113130.html",
+   "n_members": 62,
+   "n_sources": 17,
+   "counts": {
+    "left": 3,
+    "centre": 9,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 5,
+    "opinion": 2
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.503,
+   "category": "sport",
+   "terms_left": [
+    "dauphin",
+    "course",
+    "coureurs"
+   ],
+   "terms_right": [
+    "tour france",
+    "france",
+    "jonas"
+   ]
+  },
+  {
    "title": "Coupe du monde. Le Conseil de l’Europe appelle la Fifa à protéger le football des pressions politiques et financières",
    "url": "https://www.franceinfo.fr/economie/les-packs-d-eau-seront-ils-bientot-interdits-a-la-vente-en-france-et-dans-l-union-europeenne-comme-l-affirme-une-eurodeputee-du-rassemblement-national_8104100.html",
-   "n_members": 58,
+   "n_members": 59,
    "n_sources": 17,
    "counts": {
     "left": 1,
@@ -1064,88 +1154,6 @@
     "gouvernement",
     "vacances",
     "vie"
-   ]
-  },
-  {
-   "title": "Tour de France 2026 : Jonas Vingegaard, rival de Tadej Pogacar, contraint à l'abandon après une terrible chute",
-   "url": "https://www.franceinfo.fr/tour-de-france/insatiable-tadej-pogacar-s-impose-au-markstein-lors-de-la-14e-etape-du-tour-de-france-et-renforce-son-maillot-jaune-paul-seixas-prend-le-maillot-blanc-de-meilleur-jeune_8113130.html",
-   "n_members": 57,
-   "n_sources": 17,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.501,
-   "category": "sport",
-   "terms_left": [
-    "dauphin",
-    "course",
-    "coureurs"
-   ],
-   "terms_right": [
-    "tour france",
-    "france",
-    "jonas"
-   ]
-  },
-  {
-   "title": "La droite et le RN vent debout après l’annonce d'accorder 250.000 visas à des ressortissants algériens",
-   "url": "https://www.courrierinternational.com/article/geopolitique-entre-l-algerie-et-le-mali-une-reconciliation-au-pas-de-course_248889",
-   "n_members": 43,
-   "n_sources": 17,
-   "counts": {
-    "left": 0,
-    "centre": 9,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 2,
-    "opinion": 4
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "EDF : le tarif préférentiel des salariés épinglé par la Cour des comptes, appel \"massif\" à la grève le 15 septembre",
-   "url": "https://www.sudouest.fr/economie/energie-le-gouvernement-reflechit-a-rogner-les-reductions-de-tarif-des-salaries-du-gaz-et-de-l-electricite-les-syndicats-menacent-de-se-mobiliser-29952546.php",
-   "n_members": 25,
-   "n_sources": 17,
-   "counts": {
-    "left": 2,
-    "centre": 7,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": 0.631,
-   "category": "économie",
-   "terms_left": [
-    "énergie",
-    "défendre",
-    "grève"
-   ],
-   "terms_right": [
-    "euros",
-    "prix",
-    "qu"
    ]
   }
  ]
