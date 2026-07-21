@@ -1,6 +1,6 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-21T14:32:38+00:00",
+ "generated_at": "2026-07-21T16:17:16+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,31 +37,31 @@
   {
    "title": "Loi d'urgence agricole : la réintroduction de l'acétamipride menace l'adoption du texte",
    "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
-   "n_members": 143,
-   "n_sources": 32,
+   "n_members": 149,
+   "n_sources": 34,
    "counts": {
-    "left": 9,
-    "centre": 14,
+    "left": 10,
+    "centre": 15,
     "right": 9
    },
    "style_counts": {
-    "factuel": 17,
-    "mixte": 12,
+    "factuel": 18,
+    "mixte": 13,
     "opinion": 3
    },
-   "blindspot_score": 0.0,
+   "blindspot_score": -0.053,
    "blindspot_for": null,
-   "divergence": 0.272,
+   "divergence": 0.262,
    "category": "politique",
    "terms_left": [
-    "droite",
     "duplomb",
-    "eau"
+    "droite",
+    "gouvernement"
    ],
    "terms_right": [
     "projet loi",
     "projet",
-    "nationale"
+    "article"
    ]
   },
   {
@@ -97,7 +97,7 @@
   {
    "title": "Ukraine. Sous la pression populaire, Zelensky laisse entrevoir un remaniement militaire",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 175,
+   "n_members": 177,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.586,
+   "divergence": 0.58,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -119,15 +119,15 @@
     "direct"
    ],
    "terms_right": [
-    "morts",
     "ukraine volodymyr",
+    "morts",
     "zelensky"
    ]
   },
   {
    "title": "EN DIRECT - Moyen-Orient: les États-Unis ciblent à nouveau l'Iran après la mort de deux militaires",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 378,
+   "n_members": 379,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.36,
+   "divergence": 0.359,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -150,14 +150,14 @@
    ],
    "terms_right": [
     "militaires",
-    "armée",
-    "américains"
+    "américains",
+    "armée"
    ]
   },
   {
    "title": "Canicule : voici les 6 départements placés en vigilance orange ce mardi",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 310,
+   "n_members": 314,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.34,
+   "divergence": 0.345,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -180,8 +180,38 @@
    ],
    "terms_right": [
     "sud",
-    "incendie",
-    "départements"
+    "départements",
+    "incendie"
+   ]
+  },
+  {
+   "title": "Grenoble : un concert de Barbara Butch interrompu par des militants propalestiniens, dont certains membres de LFI",
+   "url": "https://www.europe1.fr/international/un-homme-a-failli-etre-aspire-hors-dun-vol-ryanair-au-depart-de-grece-970086",
+   "n_members": 102,
+   "n_sources": 27,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.289,
+   "category": "culture",
+   "terms_left": [
+    "concert grenoble",
+    "maire",
+    "tribune"
+   ],
+   "terms_right": [
+    "butch interrompu",
+    "concert barbara",
+    "militants"
    ]
   },
   {
@@ -201,7 +231,7 @@
    },
    "blindspot_score": -0.2,
    "blindspot_for": null,
-   "divergence": 0.292,
+   "divergence": 0.294,
    "category": "culture",
    "terms_left": [
     "odyssée",
@@ -269,7 +299,7 @@
   {
    "title": "Affaire Jubillar : les ossements retrouvés après les aveux de son mari Cédric sont bien ceux de Delphine Aussaguel",
    "url": "https://www.leparisien.fr/video/actualites/faits-divers/affaire-delphine-jubillar-des-ossements-non-identifies-decouverts-16-07-2026-CDYSBQ7GCBEYZPOQF6DFVKENUQ.php",
-   "n_members": 290,
+   "n_members": 291,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -283,7 +313,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.265,
+   "divergence": 0.266,
    "category": "faits-divers",
    "terms_left": [
     "delphine aussaguel",
@@ -297,53 +327,23 @@
    ]
   },
   {
-   "title": "Grenoble : un concert de Barbara Butch interrompu par des militants propalestiniens, dont certains membres de LFI",
-   "url": "https://www.europe1.fr/international/un-homme-a-failli-etre-aspire-hors-dun-vol-ryanair-au-depart-de-grece-970086",
-   "n_members": 101,
-   "n_sources": 26,
-   "counts": {
-    "left": 7,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 4
-   },
-   "blindspot_score": 0.067,
-   "blindspot_for": null,
-   "divergence": 0.289,
-   "category": "culture",
-   "terms_left": [
-    "concert grenoble",
-    "maire",
-    "tribune"
-   ],
-   "terms_right": [
-    "butch interrompu",
-    "concert barbara",
-    "militants"
-   ]
-  },
-  {
-   "title": "Réclusion à perpétuité pour les violeurs d’enfant de moins de 15 ans : un vote sous haute surveillance à l'Assemblée ce mardi",
+   "title": "Protection de l'enfance : les députés approuvent, lors d'un nouveau vote, la perpétuité pour les viols en série sur les moins de 15 ans",
    "url": "https://www.leprogres.fr/economie/2026/07/15/logements-bouilloires-la-confederation-nationale-du-logement-entend-porter-plainte-contre-l-etat",
-   "n_members": 80,
-   "n_sources": 25,
+   "n_members": 87,
+   "n_sources": 26,
    "counts": {
     "left": 6,
     "centre": 11,
-    "right": 8
+    "right": 9
    },
    "style_counts": {
     "factuel": 13,
     "mixte": 8,
-    "opinion": 4
+    "opinion": 5
    },
-   "blindspot_score": 0.143,
+   "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.497,
+   "divergence": 0.518,
    "category": "politique",
    "terms_left": [
     "crimes",
@@ -354,6 +354,66 @@
     "ans",
     "série",
     "députés"
+   ]
+  },
+  {
+   "title": "Alès : le maire exfiltré de son domicile après une menace de la DZ Mafia",
+   "url": "https://www.leprogres.fr/faits-divers-justice/2026/07/16/le-maire-d-ales-recoit-deux-balles-de-9-mm-signees-dz-mafia",
+   "n_members": 74,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.165,
+   "category": "société",
+   "terms_left": [
+    "voiture",
+    "piégée",
+    "voiture piégée"
+   ],
+   "terms_right": [
+    "menaces",
+    "domicile raid",
+    "nuit"
+   ]
+  },
+  {
+   "title": "EN DIRECT - Coupe du monde 2026: suivez la finale entre l'Espagne et l'Argentine",
+   "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/norvege-angleterre-la-composition-des-equipes-pour-le-quart-de-finale-de-la-coupe-du-monde-11-07-2026-CVUMVWWP7ZDS3PSSYZQOX3TZSU.php",
+   "n_members": 259,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.482,
+   "category": "sport",
+   "terms_left": [
+    "équipe france",
+    "sports",
+    "monde angleterre"
+   ],
+   "terms_right": [
+    "finale",
+    "espagne",
+    "finale coupe"
    ]
   },
   {
@@ -373,7 +433,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.497,
+   "divergence": 0.498,
    "category": "international",
    "terms_left": [
     "toronto",
@@ -409,36 +469,6 @@
    "terms_right": []
   },
   {
-   "title": "Alès : le maire exfiltré de son domicile après une menace de la DZ Mafia",
-   "url": "https://www.leprogres.fr/faits-divers-justice/2026/07/16/le-maire-d-ales-recoit-deux-balles-de-9-mm-signees-dz-mafia",
-   "n_members": 70,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
-    "opinion": 5
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.164,
-   "category": "société",
-   "terms_left": [
-    "voiture",
-    "piégée",
-    "voiture piégée"
-   ],
-   "terms_right": [
-    "menaces",
-    "domicile raid",
-    "nuit"
-   ]
-  },
-  {
    "title": "Midterms : le plan de Donald Trump pour voler le scrutin",
    "url": "https://information.tv5monde.com/international/deux-juges-de-la-cour-supreme-americaine-auditionnees-au-congres-2830223",
    "n_members": 67,
@@ -464,8 +494,8 @@
    ],
    "terms_right": [
     "trump accuse",
-    "donald",
-    "donald trump"
+    "donald trump",
+    "donald"
    ]
   },
   {
@@ -521,36 +551,6 @@
    ]
   },
   {
-   "title": "EN DIRECT - Coupe du monde 2026: suivez la finale entre l'Espagne et l'Argentine",
-   "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/norvege-angleterre-la-composition-des-equipes-pour-le-quart-de-finale-de-la-coupe-du-monde-11-07-2026-CVUMVWWP7ZDS3PSSYZQOX3TZSU.php",
-   "n_members": 258,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.483,
-   "category": "sport",
-   "terms_left": [
-    "équipe france",
-    "sports",
-    "monde angleterre"
-   ],
-   "terms_right": [
-    "finale",
-    "espagne",
-    "finale coupe"
-   ]
-  },
-  {
    "title": "Incendies en France : près de 40.000 hectares brûlés en 2026",
    "url": "https://www.nicematin.com/societe/vie-locale/ou-est-l-inflexion-promise-pourquoi-le-budget-supplementaire-de-la-ville-d-antibes-a-fait-debat-10689044",
    "n_members": 65,
@@ -567,17 +567,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.744,
+   "divergence": 0.747,
    "category": "économie",
    "terms_left": [
     "feux",
     "canicule",
-    "feux forêt"
+    "laurent"
    ],
    "terms_right": [
     "hectares",
-    "face",
-    "année"
+    "année",
+    "face"
    ]
   },
   {
@@ -627,7 +627,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.789,
+   "divergence": 0.787,
    "category": "international",
    "terms_left": [
     "millions",
@@ -667,7 +667,97 @@
    "terms_right": [
     "grippe",
     "autorité",
-    "haute autorité"
+    "autorité santé"
+   ]
+  },
+  {
+   "title": "Interdiction des réseaux sociaux pour les moins de 15 ans : la proposition de loi pourrait être définitivement adoptée ce mardi",
+   "url": "https://www.causeur.fr/voile-islamique-linterdiction-piege-a-cons-le-pen-bardella-rn-330692",
+   "n_members": 53,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.416,
+   "category": "politique",
+   "terms_left": [
+    "mixte",
+    "assemblée",
+    "commission"
+   ],
+   "terms_right": [
+    "face",
+    "public",
+    "jeunes"
+   ]
+  },
+  {
+   "title": "Inde: le «Parti des cafards» défie l’interdiction de manifester à New Delhi, la police disperse le cortège",
+   "url": "https://www.lejdd.fr/International/royaume-uni-nigel-farage-face-au-comte-tete-de-poubelle-lors-dune-legislative-partielle-178632",
+   "n_members": 50,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 14,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.729,
+   "category": "international",
+   "terms_left": [
+    "inde",
+    "new delhi",
+    "delhi"
+   ],
+   "terms_right": [
+    "nigel farage",
+    "nigel",
+    "farage"
+   ]
+  },
+  {
+   "title": "Le sénateur LR François-Noël Buffet nommé Défenseur des droits, sur proposition d’Emmanuel Macron",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/la-proposition-de-francois-noel-buffet-comme-defenseur-des-droits-est-une-provocation-deplore-le-planning-familial-7354423",
+   "n_members": 36,
+   "n_sources": 24,
+   "counts": {
+    "left": 7,
+    "centre": 11,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": -0.077,
+   "blindspot_for": null,
+   "divergence": 0.274,
+   "category": "politique",
+   "terms_left": [
+    "nouveau",
+    "personnes",
+    "nomination françois-noël"
+   ],
+   "terms_right": [
+    "proposé emmanuel",
+    "proposé",
+    "ancien"
    ]
   },
   {
@@ -687,23 +777,23 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.58,
+   "divergence": 0.594,
    "category": "sport",
    "terms_left": [
     "foot",
     "monde",
-    "qu"
+    "espagne"
    ],
    "terms_right": [
-    "équipe",
     "deschamps",
-    "équipe france"
+    "didier",
+    "didier deschamps"
    ]
   },
   {
    "title": "L’Espagne remporte sa deuxième Coupe du monde après une victoire “amplement méritée” face à l’Argentine",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/pour-les-malouines-40-ans-apres-la-guerre-encore-source-de-tensions-avant-la-demi-finale-angleterre-argentine-12-07-2026-HBFWGZHZEFDUZENYFGSPTQN4FI.php",
-   "n_members": 134,
+   "n_members": 135,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -717,7 +807,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.622,
+   "divergence": 0.619,
    "category": "sport",
    "terms_left": [
     "angleterre",
@@ -726,8 +816,8 @@
    ],
    "terms_right": [
     "lionel messi",
-    "messi",
-    "lionel"
+    "lionel",
+    "messi"
    ]
   },
   {
@@ -769,7 +859,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.83,
+   "divergence": 0.823,
    "category": "sport",
    "terms_left": [
     "ans",
@@ -778,8 +868,8 @@
    ],
    "terms_right": [
     "espagne-argentine",
-    "finale",
-    "gibraltar"
+    "gibraltar",
+    "show"
    ]
   },
   {
@@ -829,7 +919,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.648,
+   "divergence": 0.65,
    "category": "politique",
    "terms_left": [
     "candidat",
@@ -839,37 +929,7 @@
    "terms_right": [
     "français",
     "nouveau",
-    "nouvelle"
-   ]
-  },
-  {
-   "title": "Le sénateur LR François-Noël Buffet nommé Défenseur des droits, sur proposition d’Emmanuel Macron",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/la-proposition-de-francois-noel-buffet-comme-defenseur-des-droits-est-une-provocation-deplore-le-planning-familial-7354423",
-   "n_members": 34,
-   "n_sources": 23,
-   "counts": {
-    "left": 7,
-    "centre": 10,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": -0.077,
-   "blindspot_for": null,
-   "divergence": 0.273,
-   "category": "politique",
-   "terms_left": [
-    "nouveau",
-    "personnes",
-    "nomination françois-noël"
-   ],
-   "terms_right": [
-    "proposé emmanuel",
-    "proposé",
-    "ancien"
+    "retour"
    ]
   },
   {
@@ -889,7 +949,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.509,
+   "divergence": 0.508,
    "category": "sport",
    "terms_left": [
     "monde donald",
@@ -919,7 +979,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.789,
+   "divergence": 0.788,
    "category": "sport",
    "terms_left": [
     "qu",
@@ -979,7 +1039,7 @@
    },
    "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.821,
+   "divergence": 0.792,
    "category": "international",
    "terms_left": [
     "cesser",
@@ -989,7 +1049,7 @@
    "terms_right": [
     "ans",
     "crocodiles",
-    "prisons"
+    "réseaux"
    ]
   },
   {
@@ -1009,7 +1069,7 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.612,
+   "divergence": 0.613,
    "category": "économie",
    "terms_left": [
     "quotas",
@@ -1023,39 +1083,9 @@
    ]
   },
   {
-   "title": "Interdiction des réseaux sociaux pour les moins de 15 ans : la proposition de loi pourrait être définitivement adoptée ce mardi",
-   "url": "https://www.causeur.fr/voile-islamique-linterdiction-piege-a-cons-le-pen-bardella-rn-330692",
-   "n_members": 46,
-   "n_sources": 21,
-   "counts": {
-    "left": 4,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.419,
-   "category": "politique",
-   "terms_left": [
-    "mixte",
-    "assemblée",
-    "commission"
-   ],
-   "terms_right": [
-    "public",
-    "jeunes",
-    "face"
-   ]
-  },
-  {
    "title": "Incendie dans le Var: le feu progresse toujours, 200 hectares ont été brûlés",
    "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
-   "n_members": 114,
+   "n_members": 120,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -1069,11 +1099,11 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.679,
+   "divergence": 0.678,
    "category": "environnement",
    "terms_left": [
     "incendies",
-    "jusqu",
+    "pays",
     "saison"
    ],
    "terms_right": [
@@ -1099,7 +1129,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.569,
+   "divergence": 0.582,
    "category": "international",
    "terms_left": [
     "balistiques",
@@ -1109,13 +1139,13 @@
    "terms_right": [
     "ukraine",
     "morts",
-    "moscou"
+    "personnes"
    ]
   },
   {
    "title": "Guerre au Moyen-Orient : ce que l'on sait de la nouvelle nuit de bombardements entre l'Iran et les Etats-Unis",
    "url": "https://www.liberation.fr/international/moyen-orient/en-iran-labsence-du-nouveau-guide-supreme-aiguise-les-rivalites-au-sein-du-pouvoir-20260710_PIR3PG75ONBYTCW3DAAP3W2OW4/",
-   "n_members": 61,
+   "n_members": 63,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -1129,7 +1159,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.688,
+   "divergence": 0.698,
    "category": "international",
    "terms_left": [
     "mort",
@@ -1141,28 +1171,6 @@
     "trump",
     "moyen-orient"
    ]
-  },
-  {
-   "title": "Séisme au Venezuela : le bilan s’élève à 5 119 morts après les deux puissantes secousses du 24 juin",
-   "url": "https://www.mediapart.fr/journal/international/150726/depasse-par-le-seisme-le-venezuela-engage-une-ouverture-limitee",
-   "n_members": 61,
-   "n_sources": 20,
-   "counts": {
-    "left": 2,
-    "centre": 12,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 5,
-    "opinion": 1
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
