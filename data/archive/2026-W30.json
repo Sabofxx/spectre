@@ -1,13 +1,13 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-21T19:05:24+00:00",
+ "generated_at": "2026-07-21T20:43:14+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Politique. Loi d'urgence agricole : les députés valident la réintroduction de pesticides",
    "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
-   "n_members": 171,
+   "n_members": 172,
    "n_sources": 36,
    "counts": {
     "left": 10,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.048,
    "blindspot_for": null,
-   "divergence": 0.228,
+   "divergence": 0.23,
    "category": "politique",
    "terms_left": [
     "droite",
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.281,
+   "divergence": 0.282,
    "category": "environnement",
    "terms_left": [
     "flammes",
@@ -60,14 +60,14 @@
    ],
    "terms_right": [
     "incendie",
-    "pompiers",
-    "incendie forêt"
+    "incendie forêt",
+    "incendie fontainebleau"
    ]
   },
   {
    "title": "Andy Burnham à Downing Street : le nouveau Premier ministre britannique prend ses fonctions et promet \"une nouvelle politique\" pour tenter de redresser un Royaume-Uni en pleine crise",
    "url": "https://information.tv5monde.com/international/royaume-uni-andy-burnham-plebiscite-au-debut-de-la-course-la-succession-de-keir-starmer-2829528",
-   "n_members": 115,
+   "n_members": 116,
    "n_sources": 32,
    "counts": {
     "left": 8,
@@ -91,13 +91,13 @@
    "terms_right": [
     "ministre britannique",
     "britannique",
-    "ans"
+    "gouvernement"
    ]
   },
   {
-   "title": "Ukraine. Sous la pression populaire, Zelensky laisse entrevoir un remaniement militaire",
+   "title": "Que révèle la contestation contre le remaniement de Volodymyr Zelensky ?",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 177,
+   "n_members": 179,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -120,14 +120,44 @@
    ],
    "terms_right": [
     "ukraine volodymyr",
-    "morts",
-    "zelensky"
+    "zelensky",
+    "morts"
    ]
   },
   {
-   "title": "EN DIRECT - Moyen-Orient: les États-Unis ciblent à nouveau l'Iran après la mort de deux militaires",
+   "title": "Le Parlement proche d'interdire les réseaux sociaux aux moins de 15 ans",
+   "url": "https://www.causeur.fr/voile-islamique-linterdiction-piege-a-cons-le-pen-bardella-rn-330692",
+   "n_members": 82,
+   "n_sources": 30,
+   "counts": {
+    "left": 6,
+    "centre": 15,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 10,
+    "opinion": 5
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.335,
+   "category": "politique",
+   "terms_left": [
+    "mixte",
+    "adoptée",
+    "texte"
+   ],
+   "terms_right": [
+    "europe",
+    "visant",
+    "interdisant"
+   ]
+  },
+  {
+   "title": "EN DIRECT - Guerre au Moyen-Orient : dixième nuit de frappes en Iran",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 382,
+   "n_members": 383,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -141,12 +171,12 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.358,
+   "divergence": 0.355,
    "category": "international",
    "terms_left": [
-    "etats-unis",
     "téhéran",
-    "conflit"
+    "bombardements",
+    "etats-unis"
    ],
    "terms_right": [
     "frappes",
@@ -185,53 +215,23 @@
    ]
   },
   {
-   "title": "Le Parlement proche d'interdire les réseaux sociaux aux moins de 15 ans",
-   "url": "https://www.causeur.fr/voile-islamique-linterdiction-piege-a-cons-le-pen-bardella-rn-330692",
-   "n_members": 73,
-   "n_sources": 28,
-   "counts": {
-    "left": 6,
-    "centre": 15,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 10,
-    "opinion": 3
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.356,
-   "category": "politique",
-   "terms_left": [
-    "texte",
-    "assemblée",
-    "mixte"
-   ],
-   "terms_right": [
-    "europe",
-    "face",
-    "visant"
-   ]
-  },
-  {
    "title": "Grenoble : un concert de Barbara Butch interrompu par des militants propalestiniens, dont certains membres de LFI",
    "url": "https://www.europe1.fr/international/un-homme-a-failli-etre-aspire-hors-dun-vol-ryanair-au-depart-de-grece-970086",
-   "n_members": 105,
-   "n_sources": 27,
+   "n_members": 107,
+   "n_sources": 28,
    "counts": {
-    "left": 7,
+    "left": 8,
     "centre": 12,
     "right": 8
    },
    "style_counts": {
     "factuel": 14,
-    "mixte": 9,
+    "mixte": 10,
     "opinion": 4
    },
-   "blindspot_score": 0.067,
+   "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.285,
+   "divergence": 0.277,
    "category": "culture",
    "terms_left": [
     "concert grenoble",
@@ -241,13 +241,13 @@
    "terms_right": [
     "butch interrompu",
     "concert barbara",
-    "interrompu"
+    "grenoble militants"
    ]
   },
   {
    "title": "L'Assemblée nationale approuve la perpétuité pour les viols en série sur les moins de 15 ans",
    "url": "https://www.leprogres.fr/economie/2026/07/15/logements-bouilloires-la-confederation-nationale-du-logement-entend-porter-plainte-contre-l-etat",
-   "n_members": 102,
+   "n_members": 105,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -271,13 +271,13 @@
    "terms_right": [
     "ans",
     "députés",
-    "loi"
+    "série"
    ]
   },
   {
    "title": "Alès : le maire exfiltré de son domicile après une menace de la DZ Mafia",
    "url": "https://www.leprogres.fr/faits-divers-justice/2026/07/16/le-maire-d-ales-recoit-deux-balles-de-9-mm-signees-dz-mafia",
-   "n_members": 75,
+   "n_members": 76,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.165,
+   "divergence": 0.166,
    "category": "société",
    "terms_left": [
     "voiture",
@@ -403,7 +403,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.266,
+   "divergence": 0.267,
    "category": "faits-divers",
    "terms_left": [
     "delphine aussaguel",
@@ -473,7 +473,7 @@
    "terms_right": [
     "trump",
     "incendies",
-    "états-unis"
+    "donald trump"
    ]
   },
   {
@@ -524,8 +524,8 @@
    ],
    "terms_right": [
     "trump accuse",
-    "donald",
-    "donald trump"
+    "donald trump",
+    "donald"
    ]
   },
   {
@@ -567,7 +567,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.691,
+   "divergence": 0.692,
    "category": "économie",
    "terms_left": [
     "protection",
@@ -605,8 +605,8 @@
     "delhi"
    ],
    "terms_right": [
-    "nigel farage",
     "nigel",
+    "nigel farage",
     "farage"
    ]
   },
@@ -657,7 +657,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.862,
+   "divergence": 0.863,
    "category": "politique",
    "terms_left": [
     "ans",
@@ -727,7 +727,7 @@
    "terms_right": [
     "grippe",
     "autorité",
-    "autorité santé"
+    "haute autorité"
    ]
   },
   {
@@ -747,7 +747,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.274,
+   "divergence": 0.273,
    "category": "politique",
    "terms_left": [
     "nouveau",
@@ -777,7 +777,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.597,
+   "divergence": 0.598,
    "category": "sport",
    "terms_left": [
     "foot",
@@ -786,14 +786,14 @@
    ],
    "terms_right": [
     "deschamps",
-    "didier",
-    "didier deschamps"
+    "équipe",
+    "didier"
    ]
   },
   {
    "title": "L’Espagne remporte sa deuxième Coupe du monde après une victoire “amplement méritée” face à l’Argentine",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/pour-les-malouines-40-ans-apres-la-guerre-encore-source-de-tensions-avant-la-demi-finale-angleterre-argentine-12-07-2026-HBFWGZHZEFDUZENYFGSPTQN4FI.php",
-   "n_members": 136,
+   "n_members": 137,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -807,7 +807,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.618,
+   "divergence": 0.617,
    "category": "sport",
    "terms_left": [
     "angleterre",
@@ -979,17 +979,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.787,
+   "divergence": 0.789,
    "category": "sport",
    "terms_left": [
     "qu",
-    "compétition",
-    "week-end"
+    "week-end",
+    "compétition"
    ],
    "terms_right": [
     "mbappé",
-    "france",
-    "équipe"
+    "messi",
+    "france"
    ]
   },
   {
@@ -1023,6 +1023,28 @@
    ]
   },
   {
+   "title": "Séisme au Venezuela : le bilan s’élève à 5 119 morts après les deux puissantes secousses du 24 juin",
+   "url": "https://www.mediapart.fr/journal/international/150726/depasse-par-le-seisme-le-venezuela-engage-une-ouverture-limitee",
+   "n_members": 62,
+   "n_sources": 21,
+   "counts": {
+    "left": 2,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 5,
+    "opinion": 1
+   },
+   "blindspot_score": 0.556,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Gironde : Cinq nouvelles mises en examen dans l’affaire des viols filmés en milieu libertin, 19 au total",
    "url": "https://www.cnews.fr/faits-divers/2026-07-11/allemagne-une-femme-retenue-en-otage-depuis-vendredi-soir-dans-un",
    "n_members": 61,
@@ -1043,8 +1065,8 @@
    "category": "faits-divers",
    "terms_left": [
     "reprochés jacqueline",
-    "reprochés",
-    "faits reprochés"
+    "faits reprochés",
+    "reprochés"
    ],
    "terms_right": [
     "filmés",
@@ -1085,7 +1107,7 @@
   {
    "title": "Incendie dans le Var: le feu progresse toujours, 200 hectares ont été brûlés",
    "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
-   "n_members": 123,
+   "n_members": 131,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -1099,7 +1121,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.677,
+   "divergence": 0.675,
    "category": "environnement",
    "terms_left": [
     "incendies",
@@ -1109,7 +1131,7 @@
    "terms_right": [
     "var",
     "incendie",
-    "brûlé"
+    "feu"
    ]
   },
   {
@@ -1140,36 +1162,6 @@
     "ukraine",
     "morts",
     "personnes"
-   ]
-  },
-  {
-   "title": "Guerre au Moyen-Orient : ce que l'on sait de la nouvelle nuit de bombardements entre l'Iran et les Etats-Unis",
-   "url": "https://www.liberation.fr/international/moyen-orient/en-iran-labsence-du-nouveau-guide-supreme-aiguise-les-rivalites-au-sein-du-pouvoir-20260710_PIR3PG75ONBYTCW3DAAP3W2OW4/",
-   "n_members": 63,
-   "n_sources": 20,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.696,
-   "category": "international",
-   "terms_left": [
-    "mort",
-    "nouveau",
-    "père"
-   ],
-   "terms_right": [
-    "iran",
-    "trump",
-    "moyen-orient"
    ]
   }
  ]
