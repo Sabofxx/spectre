@@ -1,13 +1,13 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-21T20:43:14+00:00",
+ "generated_at": "2026-07-21T21:56:17+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "Politique. Loi d'urgence agricole : les députés valident la réintroduction de pesticides",
+   "title": "Le Parlement adopte définitivement la loi d’urgence agricole, avec son volet sur les pesticides",
    "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
-   "n_members": 172,
+   "n_members": 174,
    "n_sources": 36,
    "counts": {
     "left": 10,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.282,
+   "divergence": 0.283,
    "category": "environnement",
    "terms_left": [
     "flammes",
@@ -81,12 +81,12 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.238,
+   "divergence": 0.239,
    "category": "international",
    "terms_left": [
     "gauche",
     "burnham downing",
-    "starmer downing"
+    "espoir"
    ],
    "terms_right": [
     "ministre britannique",
@@ -95,9 +95,9 @@
    ]
   },
   {
-   "title": "Que révèle la contestation contre le remaniement de Volodymyr Zelensky ?",
+   "title": "Guerre en Ukraine : Zelensky limoge le commandant en chef de l'armée Oleksandre Syrsky",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 179,
+   "n_members": 182,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.581,
+   "divergence": 0.58,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -127,7 +127,7 @@
   {
    "title": "Le Parlement proche d'interdire les réseaux sociaux aux moins de 15 ans",
    "url": "https://www.causeur.fr/voile-islamique-linterdiction-piege-a-cons-le-pen-bardella-rn-330692",
-   "n_members": 82,
+   "n_members": 85,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -141,23 +141,23 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.335,
+   "divergence": 0.336,
    "category": "politique",
    "terms_left": [
     "mixte",
-    "adoptée",
-    "texte"
+    "texte",
+    "paritaire"
    ],
    "terms_right": [
     "europe",
     "visant",
-    "interdisant"
+    "adopté"
    ]
   },
   {
    "title": "EN DIRECT - Guerre au Moyen-Orient : dixième nuit de frappes en Iran",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 383,
+   "n_members": 385,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -245,6 +245,36 @@
    ]
   },
   {
+   "title": "Alès : le maire exfiltré de son domicile après une menace de la DZ Mafia",
+   "url": "https://www.leprogres.fr/faits-divers-justice/2026/07/16/le-maire-d-ales-recoit-deux-balles-de-9-mm-signees-dz-mafia",
+   "n_members": 78,
+   "n_sources": 28,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.168,
+   "category": "société",
+   "terms_left": [
+    "voiture",
+    "piégée",
+    "voiture piégée"
+   ],
+   "terms_right": [
+    "menaces",
+    "domicile raid",
+    "exfiltré domicile"
+   ]
+  },
+  {
    "title": "L'Assemblée nationale approuve la perpétuité pour les viols en série sur les moins de 15 ans",
    "url": "https://www.leprogres.fr/economie/2026/07/15/logements-bouilloires-la-confederation-nationale-du-logement-entend-porter-plainte-contre-l-etat",
    "n_members": 105,
@@ -272,36 +302,6 @@
     "ans",
     "députés",
     "série"
-   ]
-  },
-  {
-   "title": "Alès : le maire exfiltré de son domicile après une menace de la DZ Mafia",
-   "url": "https://www.leprogres.fr/faits-divers-justice/2026/07/16/le-maire-d-ales-recoit-deux-balles-de-9-mm-signees-dz-mafia",
-   "n_members": 76,
-   "n_sources": 27,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 5
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.166,
-   "category": "société",
-   "terms_left": [
-    "voiture",
-    "piégée",
-    "voiture piégée"
-   ],
-   "terms_right": [
-    "menaces",
-    "domicile raid",
-    "exfiltré domicile"
    ]
   },
   {
@@ -463,7 +463,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.499,
+   "divergence": 0.498,
    "category": "international",
    "terms_left": [
     "toronto",
@@ -515,7 +515,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.585,
+   "divergence": 0.586,
    "category": "international",
    "terms_left": [
     "qu",
@@ -627,7 +627,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.748,
+   "divergence": 0.749,
    "category": "économie",
    "terms_left": [
     "feux",
@@ -793,7 +793,7 @@
   {
    "title": "L’Espagne remporte sa deuxième Coupe du monde après une victoire “amplement méritée” face à l’Argentine",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/pour-les-malouines-40-ans-apres-la-guerre-encore-source-de-tensions-avant-la-demi-finale-angleterre-argentine-12-07-2026-HBFWGZHZEFDUZENYFGSPTQN4FI.php",
-   "n_members": 137,
+   "n_members": 139,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -1023,6 +1023,36 @@
    ]
   },
   {
+   "title": "Incendie dans le Var: le feu progresse toujours, 200 hectares ont été brûlés",
+   "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
+   "n_members": 135,
+   "n_sources": 21,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 4,
+    "opinion": 3
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.673,
+   "category": "environnement",
+   "terms_left": [
+    "incendies",
+    "pays",
+    "saison"
+   ],
+   "terms_right": [
+    "var",
+    "incendie",
+    "feu"
+   ]
+  },
+  {
    "title": "Séisme au Venezuela : le bilan s’élève à 5 119 morts après les deux puissantes secousses du 24 juin",
    "url": "https://www.mediapart.fr/journal/international/150726/depasse-par-le-seisme-le-venezuela-engage-une-ouverture-limitee",
    "n_members": 62,
@@ -1065,8 +1095,8 @@
    "category": "faits-divers",
    "terms_left": [
     "reprochés jacqueline",
-    "faits reprochés",
-    "reprochés"
+    "reprochés",
+    "faits reprochés"
    ],
    "terms_right": [
     "filmés",
@@ -1102,36 +1132,6 @@
     "électricité",
     "amende",
     "loi"
-   ]
-  },
-  {
-   "title": "Incendie dans le Var: le feu progresse toujours, 200 hectares ont été brûlés",
-   "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
-   "n_members": 131,
-   "n_sources": 20,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 4,
-    "opinion": 2
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.675,
-   "category": "environnement",
-   "terms_left": [
-    "incendies",
-    "pays",
-    "saison"
-   ],
-   "terms_right": [
-    "var",
-    "incendie",
-    "feu"
    ]
   },
   {
