@@ -1,13 +1,13 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-21T05:00:49+00:00",
+ "generated_at": "2026-07-21T07:34:07+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Incendies à Fontainebleau: la situation se stabilise, 500 pompiers toujours mobilisés dimanche",
    "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/jusqua-4h20-de-retard-le-trafic-sncf-fortement-perturbe-sur-la-ligne-sud-est-entre-paris-et-marseille-a-cause-dun-incendie-12-07-2026-7E3R5IBOQNAXRDOH35X3TPSWTI.php",
-   "n_members": 322,
+   "n_members": 323,
    "n_sources": 35,
    "counts": {
     "left": 8,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.282,
+   "divergence": 0.283,
    "category": "environnement",
    "terms_left": [
     "flammes",
@@ -29,9 +29,9 @@
     "canicule"
    ],
    "terms_right": [
-    "incendie forêt",
+    "incendie",
     "pompiers",
-    "incendie"
+    "incendie forêt"
    ]
   },
   {
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.578,
+   "divergence": 0.579,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -60,8 +60,38 @@
    ],
    "terms_right": [
     "zelensky",
-    "volodymyr zelensky",
-    "volodymyr"
+    "volodymyr",
+    "volodymyr zelensky"
+   ]
+  },
+  {
+   "title": "Loi d'urgence agricole : la réintroduction de l'acétamipride menace l'adoption du texte",
+   "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
+   "n_members": 117,
+   "n_sources": 30,
+   "counts": {
+    "left": 9,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 11,
+    "opinion": 3
+   },
+   "blindspot_score": -0.059,
+   "blindspot_for": null,
+   "divergence": 0.335,
+   "category": "politique",
+   "terms_left": [
+    "retour",
+    "gouvernement",
+    "eau"
+   ],
+   "terms_right": [
+    "projet loi",
+    "projet",
+    "sénateurs"
    ]
   },
   {
@@ -81,7 +111,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.245,
+   "divergence": 0.246,
    "category": "international",
    "terms_left": [
     "gauche",
@@ -97,7 +127,7 @@
   {
    "title": "EN DIRECT - Guerre au Moyen-Orient : dixième nuit de frappes en Iran",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 373,
+   "n_members": 376,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -111,12 +141,12 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.359,
+   "divergence": 0.355,
    "category": "international",
    "terms_left": [
     "etats-unis",
-    "téhéran",
-    "bombardements"
+    "bombardements",
+    "conflit"
    ],
    "terms_right": [
     "militaires",
@@ -127,7 +157,7 @@
   {
    "title": "Canicule : voici les 6 départements placés en vigilance orange ce mardi",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 304,
+   "n_members": 310,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -141,47 +171,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.371,
+   "divergence": 0.341,
    "category": "environnement",
    "terms_left": [
     "direct",
     "direct canicule",
-    "troisième"
+    "rouge"
    ],
    "terms_right": [
-    "départements",
-    "orange",
-    "vigilance"
-   ]
-  },
-  {
-   "title": "Loi d'urgence agricole : la réintroduction de l'acétamipride menace l'adoption du texte",
-   "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
-   "n_members": 101,
-   "n_sources": 29,
-   "counts": {
-    "left": 9,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 11,
-    "opinion": 2
-   },
-   "blindspot_score": -0.125,
-   "blindspot_for": null,
-   "divergence": 0.386,
-   "category": "politique",
-   "terms_left": [
-    "eau",
-    "pesticides interdits",
-    "parlementaires"
-   ],
-   "terms_right": [
-    "projet loi",
-    "projet",
-    "assemblée"
+    "sud",
+    "incendie",
+    "départements"
    ]
   },
   {
@@ -253,7 +253,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.747,
+   "divergence": 0.746,
    "category": "environnement",
    "terms_left": [
     "paris",
@@ -269,7 +269,7 @@
   {
    "title": "INFO BFMTV. Affaire Jubillar: les ossements retrouvés jeudi à Mailhoc sont bien ceux de Delphine",
    "url": "https://www.leparisien.fr/video/actualites/faits-divers/affaire-delphine-jubillar-des-ossements-non-identifies-decouverts-16-07-2026-CDYSBQ7GCBEYZPOQF6DFVKENUQ.php",
-   "n_members": 280,
+   "n_members": 282,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -287,8 +287,8 @@
    "category": "faits-divers",
    "terms_left": [
     "delphine aussaguel",
-    "aussaguel",
-    "analyses"
+    "analyses",
+    "aussaguel"
    ],
    "terms_right": [
     "jubillar",
@@ -299,7 +299,7 @@
   {
    "title": "Grenoble : le concert de la DJ Barbara Butch interrompu par une centaine de militants propalestiniens",
    "url": "https://www.europe1.fr/international/un-homme-a-failli-etre-aspire-hors-dun-vol-ryanair-au-depart-de-grece-970086",
-   "n_members": 81,
+   "n_members": 84,
    "n_sources": 26,
    "counts": {
     "left": 7,
@@ -313,17 +313,47 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.304,
+   "divergence": 0.295,
    "category": "culture",
    "terms_left": [
     "concert grenoble",
-    "quitter",
-    "quitter scène"
+    "maire",
+    "insoumis"
    ],
    "terms_right": [
     "militants",
-    "concert barbara",
+    "grenoble militants",
     "butch interrompu"
+   ]
+  },
+  {
+   "title": "Protection de l'enfance: l'Assemblée rejette la perpétuité pour viols en série sur mineurs de moins de 15 ans, un nouveau vote mardi",
+   "url": "https://www.leprogres.fr/economie/2026/07/15/logements-bouilloires-la-confederation-nationale-du-logement-entend-porter-plainte-contre-l-etat",
+   "n_members": 77,
+   "n_sources": 25,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.544,
+   "category": "politique",
+   "terms_left": [
+    "crimes",
+    "sénat",
+    "élue"
+   ],
+   "terms_right": [
+    "série",
+    "ans",
+    "perpétuité"
    ]
   },
   {
@@ -349,33 +379,33 @@
    "terms_right": []
   },
   {
-   "title": "Protection de l'enfance: l'Assemblée rejette la perpétuité pour viols en série sur mineurs de moins de 15 ans, un nouveau vote mardi",
-   "url": "https://www.leprogres.fr/economie/2026/07/15/logements-bouilloires-la-confederation-nationale-du-logement-entend-porter-plainte-contre-l-etat",
-   "n_members": 75,
+   "title": "Midterms : le plan de Donald Trump pour voler le scrutin",
+   "url": "https://information.tv5monde.com/international/deux-juges-de-la-cour-supreme-americaine-auditionnees-au-congres-2830223",
+   "n_members": 67,
    "n_sources": 25,
    "counts": {
-    "left": 6,
-    "centre": 11,
+    "left": 4,
+    "centre": 13,
     "right": 8
    },
    "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 4
+    "factuel": 17,
+    "mixte": 5,
+    "opinion": 3
    },
-   "blindspot_score": 0.143,
+   "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.528,
-   "category": "politique",
+   "divergence": 0.586,
+   "category": "international",
    "terms_left": [
-    "crimes",
-    "sénat",
-    "élue"
+    "qu",
+    "président",
+    "chine ingérence"
    ],
    "terms_right": [
-    "ans",
-    "série",
-    "viols série"
+    "trump accuse",
+    "donald trump",
+    "donald"
    ]
   },
   {
@@ -433,7 +463,7 @@
   {
    "title": "EN DIRECT - Coupe du monde 2026: suivez la finale entre l'Espagne et l'Argentine",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/norvege-angleterre-la-composition-des-equipes-pour-le-quart-de-finale-de-la-coupe-du-monde-11-07-2026-CVUMVWWP7ZDS3PSSYZQOX3TZSU.php",
-   "n_members": 249,
+   "n_members": 252,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -447,7 +477,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.504,
+   "divergence": 0.503,
    "category": "sport",
    "terms_left": [
     "équipe france",
@@ -482,7 +512,7 @@
    "terms_left": [
     "ans",
     "loi",
-    "macron"
+    "urgence"
    ],
    "terms_right": [
     "canadair",
@@ -507,7 +537,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.736,
+   "divergence": 0.735,
    "category": "économie",
    "terms_left": [
     "feux",
@@ -516,8 +546,8 @@
    ],
    "terms_right": [
     "annoncé",
-    "état",
-    "face"
+    "face",
+    "état"
    ]
   },
   {
@@ -537,7 +567,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.788,
+   "divergence": 0.789,
    "category": "international",
    "terms_left": [
     "millions",
@@ -567,23 +597,23 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.576,
+   "divergence": 0.581,
    "category": "sport",
    "terms_left": [
     "foot",
     "monde",
-    "espagne"
+    "qu"
    ],
    "terms_right": [
     "équipe",
-    "deschamps",
-    "angleterre"
+    "équipe france",
+    "deschamps"
    ]
   },
   {
    "title": "L’Espagne remporte sa deuxième Coupe du monde après une victoire “amplement méritée” face à l’Argentine",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/pour-les-malouines-40-ans-apres-la-guerre-encore-source-de-tensions-avant-la-demi-finale-angleterre-argentine-12-07-2026-HBFWGZHZEFDUZENYFGSPTQN4FI.php",
-   "n_members": 126,
+   "n_members": 129,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -679,17 +709,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.641,
+   "divergence": 0.653,
    "category": "politique",
    "terms_left": [
     "candidat",
-    "gauche",
-    "philippe"
+    "peux",
+    "présidentielle"
    ],
    "terms_right": [
     "français",
-    "ministre",
-    "nouveau"
+    "nouveau",
+    "nucléaire"
    ]
   },
   {
@@ -709,7 +739,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.907,
+   "divergence": 0.908,
    "category": "international",
    "terms_left": [
     "liban",
@@ -769,7 +799,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.791,
+   "divergence": 0.79,
    "category": "sport",
    "terms_left": [
     "qu",
@@ -779,7 +809,37 @@
    "terms_right": [
     "mbappé",
     "france",
-    "deschamps"
+    "messi"
+   ]
+  },
+  {
+   "title": "Gironde : Cinq nouvelles mises en examen dans l’affaire des viols filmés en milieu libertin, 19 au total",
+   "url": "https://www.cnews.fr/faits-divers/2026-07-11/allemagne-une-femme-retenue-en-otage-depuis-vendredi-soir-dans-un",
+   "n_members": 61,
+   "n_sources": 21,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.425,
+   "category": "faits-divers",
+   "terms_left": [
+    "reprochés jacqueline",
+    "faits reprochés",
+    "reprochés"
+   ],
+   "terms_right": [
+    "filmés",
+    "examen",
+    "grand-tante"
    ]
   },
   {
@@ -799,7 +859,7 @@
    },
    "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.82,
+   "divergence": 0.821,
    "category": "international",
    "terms_left": [
     "cesser",
@@ -810,36 +870,6 @@
     "ans",
     "crocodiles",
     "prisons"
-   ]
-  },
-  {
-   "title": "« Viols filmés » en milieu libertin : cinq nouvelles mises en examen, 19 au total",
-   "url": "https://www.cnews.fr/faits-divers/2026-07-11/allemagne-une-femme-retenue-en-otage-depuis-vendredi-soir-dans-un",
-   "n_members": 60,
-   "n_sources": 21,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.424,
-   "category": "faits-divers",
-   "terms_left": [
-    "reprochés jacqueline",
-    "reprochés",
-    "faits reprochés"
-   ],
-   "terms_right": [
-    "filmés",
-    "examen",
-    "grand-tante"
    ]
   },
   {
@@ -897,7 +927,7 @@
   {
    "title": "Incendie dans le Var: le feu progresse toujours, 200 hectares ont été brûlés",
    "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
-   "n_members": 108,
+   "n_members": 110,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -911,7 +941,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.685,
+   "divergence": 0.683,
    "category": "environnement",
    "terms_left": [
     "incendies",
@@ -925,9 +955,9 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine: plus de 370 drones lancés vers Moscou pendant la nuit, sept personnes tuées dans l'ouest de la Russie",
+   "title": "Guerre en Ukraine : la Russie bombarde Kiev au lendemain d'attaques ukrainiennes meurtrières, 1 mort et 13 blessés recensés",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 91,
+   "n_members": 92,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -941,7 +971,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.569,
+   "divergence": 0.577,
    "category": "international",
    "terms_left": [
     "balistiques",
@@ -950,8 +980,8 @@
    ],
    "terms_right": [
     "morts",
-    "russe",
-    "personnes"
+    "personnes",
+    "russe"
    ]
   },
   {
@@ -971,7 +1001,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.688,
+   "divergence": 0.687,
    "category": "international",
    "terms_left": [
     "mort",
@@ -1009,7 +1039,7 @@
   {
    "title": "Séisme au Venezuela : le bilan s’élève à 5 119 morts après les deux puissantes secousses du 24 juin",
    "url": "https://www.mediapart.fr/journal/international/150726/depasse-par-le-seisme-le-venezuela-engage-une-ouverture-limitee",
-   "n_members": 56,
+   "n_members": 60,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -1031,7 +1061,7 @@
   {
    "title": "Coupe du monde 2026 : un adolescent de 13 ans meurt en Espagne pendant les célébrations de la victoire après l’effondrement d’une fontaine",
    "url": "https://www.franceinfo.fr/coupe-du-monde/un-show-digne-du-superbowl-madonna-et-tom-cruise-en-guest-stars-donald-trump-en-tribune-a-quoi-s-attendre-pour-la-finale-de-coupe-du-monde-espagne-argentine_8111357.html",
-   "n_members": 56,
+   "n_members": 57,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -1045,7 +1075,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.74,
+   "divergence": 0.739,
    "category": "sport",
    "terms_left": [
     "show mi-temps",
@@ -1108,36 +1138,6 @@
     "chef députés",
     "députés",
     "chef"
-   ]
-  },
-  {
-   "title": "«Certains comportements étaient inadmissibles» : Adrien Rabiot fustige l’attitude de ses coéquipiers après la défaite de la France contre l’Angleterre",
-   "url": "https://rmcsport.bfmtv.com/football/transferts/om-les-departs-de-greenwood-et-de-traore-imminents_AV-202607140321.html",
-   "n_members": 59,
-   "n_sources": 19,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.82,
-   "category": "sport",
-   "terms_left": [
-    "forces",
-    "ordre",
-    "forces ordre"
-   ],
-   "terms_right": [
-    "france",
-    "finale",
-    "angleterre"
    ]
   }
  ]
