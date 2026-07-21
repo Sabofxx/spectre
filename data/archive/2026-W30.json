@@ -1,13 +1,13 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-21T01:44:29+00:00",
+ "generated_at": "2026-07-21T05:00:49+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Incendies à Fontainebleau: la situation se stabilise, 500 pompiers toujours mobilisés dimanche",
    "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/jusqua-4h20-de-retard-le-trafic-sncf-fortement-perturbe-sur-la-ligne-sud-est-entre-paris-et-marseille-a-cause-dun-incendie-12-07-2026-7E3R5IBOQNAXRDOH35X3TPSWTI.php",
-   "n_members": 321,
+   "n_members": 322,
    "n_sources": 35,
    "counts": {
     "left": 8,
@@ -21,23 +21,23 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.28,
+   "divergence": 0.282,
    "category": "environnement",
    "terms_left": [
     "flammes",
     "direct canicule",
-    "flammes forêt"
+    "canicule"
    ],
    "terms_right": [
     "incendie forêt",
-    "incendie",
-    "pompiers"
+    "pompiers",
+    "incendie"
    ]
   },
   {
    "title": "Guerre en Ukraine : en se séparant de son ministre de la Défense Mykhaïlo Fedorov, Volodymyr Zelensky provoque une onde de choc et ouvre une crise politique",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 172,
+   "n_members": 173,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -60,14 +60,14 @@
    ],
    "terms_right": [
     "zelensky",
-    "volodymyr",
-    "volodymyr zelensky"
+    "volodymyr zelensky",
+    "volodymyr"
    ]
   },
   {
-   "title": "Andy Burnham à Downing Street : le nouveau Premier ministre britannique prend ses fonctions et promet \"une nouvelle politique\" pour tenter de redresser un Royaume-Uni en pleine crise",
+   "title": "Un nouveau Premier ministre pour le Royaume-Uni : Andy Burnham remplace Keir Starmer",
    "url": "https://information.tv5monde.com/international/royaume-uni-andy-burnham-plebiscite-au-debut-de-la-course-la-succession-de-keir-starmer-2829528",
-   "n_members": 107,
+   "n_members": 110,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.242,
+   "divergence": 0.245,
    "category": "international",
    "terms_left": [
     "gauche",
@@ -95,9 +95,9 @@
    ]
   },
   {
-   "title": "EN DIRECT - Moyen-Orient: les États-Unis ciblent à nouveau l'Iran après la mort de deux militaires",
+   "title": "EN DIRECT - Guerre au Moyen-Orient : dixième nuit de frappes en Iran",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 362,
+   "n_members": 373,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -111,23 +111,23 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.363,
+   "divergence": 0.359,
    "category": "international",
    "terms_left": [
-    "bombardements",
     "etats-unis",
-    "conflit"
+    "téhéran",
+    "bombardements"
    ],
    "terms_right": [
     "militaires",
     "armée",
-    "états-unis"
+    "américains"
    ]
   },
   {
-   "title": "Canicule: sept départements du sud-est maintenus en vigilance orange ce dimanche",
+   "title": "Canicule : voici les 6 départements placés en vigilance orange ce mardi",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 297,
+   "n_members": 304,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -141,12 +141,12 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.372,
+   "divergence": 0.371,
    "category": "environnement",
    "terms_left": [
     "direct",
     "direct canicule",
-    "rouge"
+    "troisième"
    ],
    "terms_right": [
     "départements",
@@ -157,7 +157,7 @@
   {
    "title": "Loi d'urgence agricole : la réintroduction de l'acétamipride menace l'adoption du texte",
    "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
-   "n_members": 94,
+   "n_members": 101,
    "n_sources": 29,
    "counts": {
     "left": 9,
@@ -171,17 +171,17 @@
    },
    "blindspot_score": -0.125,
    "blindspot_for": null,
-   "divergence": 0.446,
+   "divergence": 0.386,
    "category": "politique",
    "terms_left": [
     "eau",
-    "interdits",
-    "pesticides interdits"
+    "pesticides interdits",
+    "parlementaires"
    ],
    "terms_right": [
-    "projet",
     "projet loi",
-    "shemseddine"
+    "projet",
+    "assemblée"
    ]
   },
   {
@@ -201,7 +201,7 @@
    },
    "blindspot_score": -0.2,
    "blindspot_for": null,
-   "divergence": 0.3,
+   "divergence": 0.299,
    "category": "culture",
    "terms_left": [
     "odyssée",
@@ -267,9 +267,9 @@
    ]
   },
   {
-   "title": "Affaire Jubillar : les ossements retrouvés après les aveux de son mari Cédric sont bien ceux de Delphine Aussaguel",
+   "title": "INFO BFMTV. Affaire Jubillar: les ossements retrouvés jeudi à Mailhoc sont bien ceux de Delphine",
    "url": "https://www.leparisien.fr/video/actualites/faits-divers/affaire-delphine-jubillar-des-ossements-non-identifies-decouverts-16-07-2026-CDYSBQ7GCBEYZPOQF6DFVKENUQ.php",
-   "n_members": 279,
+   "n_members": 280,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -283,12 +283,12 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.271,
+   "divergence": 0.269,
    "category": "faits-divers",
    "terms_left": [
     "delphine aussaguel",
     "aussaguel",
-    "analyses cours"
+    "analyses"
    ],
    "terms_right": [
     "jubillar",
@@ -351,7 +351,7 @@
   {
    "title": "Protection de l'enfance: l'Assemblée rejette la perpétuité pour viols en série sur mineurs de moins de 15 ans, un nouveau vote mardi",
    "url": "https://www.leprogres.fr/economie/2026/07/15/logements-bouilloires-la-confederation-nationale-du-logement-entend-porter-plainte-contre-l-etat",
-   "n_members": 73,
+   "n_members": 75,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -365,12 +365,12 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.526,
+   "divergence": 0.528,
    "category": "politique",
    "terms_left": [
     "crimes",
     "sénat",
-    "visant"
+    "élue"
    ],
    "terms_right": [
     "ans",
@@ -433,7 +433,7 @@
   {
    "title": "EN DIRECT - Coupe du monde 2026: suivez la finale entre l'Espagne et l'Argentine",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/norvege-angleterre-la-composition-des-equipes-pour-le-quart-de-finale-de-la-coupe-du-monde-11-07-2026-CVUMVWWP7ZDS3PSSYZQOX3TZSU.php",
-   "n_members": 246,
+   "n_members": 249,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -452,7 +452,7 @@
    "terms_left": [
     "équipe france",
     "sports",
-    "monde angleterre"
+    "monde football"
    ],
    "terms_right": [
     "espagne",
@@ -551,6 +551,36 @@
    ]
   },
   {
+   "title": "Didier Deschamps quitte l'équipe de France après une défaite",
+   "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/france-espagne-ces-statistiques-qui-ne-plaident-pas-en-faveur-des-bleus-avant-la-demi-finale-de-coupe-du-monde-11-07-2026-FFZKRR2HU5E6TCVYGHBS25YQ74.php",
+   "n_members": 156,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.576,
+   "category": "sport",
+   "terms_left": [
+    "foot",
+    "monde",
+    "espagne"
+   ],
+   "terms_right": [
+    "équipe",
+    "deschamps",
+    "angleterre"
+   ]
+  },
+  {
    "title": "L’Espagne remporte sa deuxième Coupe du monde après une victoire “amplement méritée” face à l’Argentine",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/pour-les-malouines-40-ans-apres-la-guerre-encore-source-de-tensions-avant-la-demi-finale-angleterre-argentine-12-07-2026-HBFWGZHZEFDUZENYFGSPTQN4FI.php",
    "n_members": 126,
@@ -567,7 +597,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.616,
+   "divergence": 0.62,
    "category": "sport",
    "terms_left": [
     "angleterre",
@@ -575,9 +605,9 @@
     "rêve"
    ],
    "terms_right": [
-    "messi",
     "lionel messi",
-    "lionel"
+    "lionel",
+    "messi"
    ]
   },
   {
@@ -619,7 +649,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.818,
+   "divergence": 0.831,
    "category": "sport",
    "terms_left": [
     "ans",
@@ -628,8 +658,8 @@
    ],
    "terms_right": [
     "espagne-argentine",
-    "finale coupe",
-    "finale"
+    "finale",
+    "gibraltar"
    ]
   },
   {
@@ -679,17 +709,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.906,
+   "divergence": 0.907,
    "category": "international",
    "terms_left": [
-    "israël",
-    "fedorov",
-    "liban"
+    "liban",
+    "zones",
+    "israël"
    ],
    "terms_right": [
     "ans",
-    "frappes",
-    "jubillar"
+    "jubillar",
+    "frappes"
    ]
   },
   {
@@ -769,7 +799,7 @@
    },
    "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.821,
+   "divergence": 0.82,
    "category": "international",
    "terms_left": [
     "cesser",
@@ -867,7 +897,7 @@
   {
    "title": "Incendie dans le Var: le feu progresse toujours, 200 hectares ont été brûlés",
    "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
-   "n_members": 107,
+   "n_members": 108,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -881,7 +911,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.688,
+   "divergence": 0.685,
    "category": "environnement",
    "terms_left": [
     "incendies",
@@ -911,7 +941,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.543,
+   "divergence": 0.569,
    "category": "international",
    "terms_left": [
     "balistiques",
@@ -920,7 +950,7 @@
    ],
    "terms_right": [
     "morts",
-    "moscou",
+    "russe",
     "personnes"
    ]
   },
@@ -977,9 +1007,31 @@
    "terms_right": []
   },
   {
+   "title": "Séisme au Venezuela : le bilan s’élève à 5 119 morts après les deux puissantes secousses du 24 juin",
+   "url": "https://www.mediapart.fr/journal/international/150726/depasse-par-le-seisme-le-venezuela-engage-une-ouverture-limitee",
+   "n_members": 56,
+   "n_sources": 20,
+   "counts": {
+    "left": 2,
+    "centre": 12,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 5,
+    "opinion": 1
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Coupe du monde 2026 : un adolescent de 13 ans meurt en Espagne pendant les célébrations de la victoire après l’effondrement d’une fontaine",
    "url": "https://www.franceinfo.fr/coupe-du-monde/un-show-digne-du-superbowl-madonna-et-tom-cruise-en-guest-stars-donald-trump-en-tribune-a-quoi-s-attendre-pour-la-finale-de-coupe-du-monde-espagne-argentine_8111357.html",
-   "n_members": 55,
+   "n_members": 56,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -1005,28 +1057,6 @@
     "football",
     "équipe"
    ]
-  },
-  {
-   "title": "Séismes au Venezuela : plus de 5 000 morts, le FMI débloque des fonds",
-   "url": "https://www.mediapart.fr/journal/international/150726/depasse-par-le-seisme-le-venezuela-engage-une-ouverture-limitee",
-   "n_members": 54,
-   "n_sources": 20,
-   "counts": {
-    "left": 2,
-    "centre": 12,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 5,
-    "opinion": 1
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
   },
   {
    "title": "« La Chine écrase ce marché » : les États-Unis et l’Europe déjà distancés dans les robots humanoïdes",
@@ -1067,7 +1097,7 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.687,
+   "divergence": 0.686,
    "category": "international",
    "terms_left": [
     "groupe",
@@ -1109,28 +1139,6 @@
     "finale",
     "angleterre"
    ]
-  },
-  {
-   "title": "Mondial 2026: les supporters des Bleus en quête d'une place sur le podium",
-   "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/france-espagne-sans-reponse-de-la-fifa-pour-sa-demande-de-minute-de-silence-eric-ciotti-en-appelle-a-emmanuel-macron-12-07-2026-MDIYSBROABFBHIGO6W27G4D3XY.php",
-   "n_members": 65,
-   "n_sources": 18,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 4,
-    "opinion": 3
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.818,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
