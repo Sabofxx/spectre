@@ -1,6 +1,6 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-20T23:48:14+00:00",
+ "generated_at": "2026-07-21T01:44:29+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -85,8 +85,8 @@
    "category": "international",
    "terms_left": [
     "gauche",
-    "starmer downing",
-    "starmer andy"
+    "starmer andy",
+    "starmer downing"
    ],
    "terms_right": [
     "ministre britannique",
@@ -351,7 +351,7 @@
   {
    "title": "Protection de l'enfance: l'Assemblée rejette la perpétuité pour viols en série sur mineurs de moins de 15 ans, un nouveau vote mardi",
    "url": "https://www.leprogres.fr/economie/2026/07/15/logements-bouilloires-la-confederation-nationale-du-logement-entend-porter-plainte-contre-l-etat",
-   "n_members": 72,
+   "n_members": 73,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -365,7 +365,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.532,
+   "divergence": 0.526,
    "category": "politique",
    "terms_left": [
     "crimes",
@@ -455,8 +455,8 @@
     "monde angleterre"
    ],
    "terms_right": [
-    "finale",
     "espagne",
+    "finale",
     "finale coupe"
    ]
   },
@@ -553,7 +553,7 @@
   {
    "title": "L’Espagne remporte sa deuxième Coupe du monde après une victoire “amplement méritée” face à l’Argentine",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/pour-les-malouines-40-ans-apres-la-guerre-encore-source-de-tensions-avant-la-demi-finale-angleterre-argentine-12-07-2026-HBFWGZHZEFDUZENYFGSPTQN4FI.php",
-   "n_members": 125,
+   "n_members": 126,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -567,7 +567,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.613,
+   "divergence": 0.616,
    "category": "sport",
    "terms_left": [
     "angleterre",
@@ -619,7 +619,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.814,
+   "divergence": 0.818,
    "category": "sport",
    "terms_left": [
     "ans",
@@ -627,9 +627,9 @@
     "milieu"
    ],
    "terms_right": [
-    "finale",
+    "espagne-argentine",
     "finale coupe",
-    "espagne-argentine"
+    "finale"
    ]
   },
   {
@@ -769,7 +769,7 @@
    },
    "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.82,
+   "divergence": 0.821,
    "category": "international",
    "terms_left": [
     "cesser",
@@ -911,7 +911,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.542,
+   "divergence": 0.543,
    "category": "international",
    "terms_left": [
     "balistiques",
@@ -977,31 +977,9 @@
    "terms_right": []
   },
   {
-   "title": "Séismes au Venezuela : plus de 5 000 morts, le FMI débloque des fonds",
-   "url": "https://www.mediapart.fr/journal/international/150726/depasse-par-le-seisme-le-venezuela-engage-une-ouverture-limitee",
-   "n_members": 54,
-   "n_sources": 20,
-   "counts": {
-    "left": 2,
-    "centre": 12,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 5,
-    "opinion": 1
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
    "title": "Coupe du monde 2026 : un adolescent de 13 ans meurt en Espagne pendant les célébrations de la victoire après l’effondrement d’une fontaine",
    "url": "https://www.franceinfo.fr/coupe-du-monde/un-show-digne-du-superbowl-madonna-et-tom-cruise-en-guest-stars-donald-trump-en-tribune-a-quoi-s-attendre-pour-la-finale-de-coupe-du-monde-espagne-argentine_8111357.html",
-   "n_members": 54,
+   "n_members": 55,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -1027,6 +1005,28 @@
     "football",
     "équipe"
    ]
+  },
+  {
+   "title": "Séismes au Venezuela : plus de 5 000 morts, le FMI débloque des fonds",
+   "url": "https://www.mediapart.fr/journal/international/150726/depasse-par-le-seisme-le-venezuela-engage-une-ouverture-limitee",
+   "n_members": 54,
+   "n_sources": 20,
+   "counts": {
+    "left": 2,
+    "centre": 12,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 5,
+    "opinion": 1
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "« La Chine écrase ce marché » : les États-Unis et l’Europe déjà distancés dans les robots humanoïdes",
@@ -1067,7 +1067,7 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.688,
+   "divergence": 0.687,
    "category": "international",
    "terms_left": [
     "groupe",
