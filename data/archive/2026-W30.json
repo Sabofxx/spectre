@@ -1,9 +1,39 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-22T16:16:00+00:00",
+ "generated_at": "2026-07-22T17:48:44+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
+  {
+   "title": "L’interdiction des réseaux sociaux aux mineurs de moins de 15 ans… On vous explique !",
+   "url": "https://www.causeur.fr/voile-islamique-linterdiction-piege-a-cons-le-pen-bardella-rn-330692",
+   "n_members": 111,
+   "n_sources": 37,
+   "counts": {
+    "left": 8,
+    "centre": 17,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 13,
+    "opinion": 7
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.274,
+   "category": "politique",
+   "terms_left": [
+    "adoptée",
+    "mixte",
+    "paritaire"
+   ],
+   "terms_right": [
+    "adopté",
+    "europe",
+    "visant"
+   ]
+  },
   {
    "title": "Le Parlement adopte définitivement la loi d’urgence agricole, avec son volet sur les pesticides",
    "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
@@ -21,7 +51,7 @@
    },
    "blindspot_score": 0.048,
    "blindspot_for": null,
-   "divergence": 0.226,
+   "divergence": 0.224,
    "category": "politique",
    "terms_left": [
     "duplomb",
@@ -65,36 +95,6 @@
    ]
   },
   {
-   "title": "L’interdiction des réseaux sociaux aux mineurs de moins de 15 ans… On vous explique !",
-   "url": "https://www.causeur.fr/voile-islamique-linterdiction-piege-a-cons-le-pen-bardella-rn-330692",
-   "n_members": 104,
-   "n_sources": 35,
-   "counts": {
-    "left": 7,
-    "centre": 17,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 13,
-    "opinion": 5
-   },
-   "blindspot_score": 0.222,
-   "blindspot_for": null,
-   "divergence": 0.297,
-   "category": "politique",
-   "terms_left": [
-    "adoptée",
-    "mixte",
-    "paritaire"
-   ],
-   "terms_right": [
-    "adopté",
-    "visant",
-    "interdisant"
-   ]
-  },
-  {
    "title": "Andy Burnham à Downing Street : le nouveau Premier ministre britannique prend ses fonctions et promet \"une nouvelle politique\" pour tenter de redresser un Royaume-Uni en pleine crise",
    "url": "https://information.tv5monde.com/international/royaume-uni-andy-burnham-plebiscite-au-debut-de-la-course-la-succession-de-keir-starmer-2829528",
    "n_members": 118,
@@ -127,7 +127,7 @@
   {
    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce un remaniement à la tête de l’armée ukrainienne après plusieurs jours de manifestations",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 206,
+   "n_members": 207,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -157,7 +157,7 @@
   {
    "title": "La ministre de la Transition écologique Monique Barbut va présenter sa démission d’ici le Conseil des ministres mercredi",
    "url": "https://www.lemonde.fr/planete/article/2026/07/20/loi-d-urgence-agricole-ce-texte-consacre-la-primaute-absolue-des-usages-agricoles-de-l-eau-sur-les-besoins-des-autres-usagers_6726706_3244.html",
-   "n_members": 93,
+   "n_members": 103,
    "n_sources": 30,
    "counts": {
     "left": 8,
@@ -171,17 +171,17 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.173,
+   "divergence": 0.167,
    "category": "politique",
    "terms_left": [
+    "désaccord loi",
     "reste",
-    "vote",
-    "acétamipride"
+    "vote"
    ],
    "terms_right": [
     "écologique monique",
-    "annoncé",
-    "france"
+    "adoption",
+    "annoncé"
    ]
   },
   {
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.345,
+   "divergence": 0.346,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -247,7 +247,7 @@
   {
    "title": "Grenoble : un concert de Barbara Butch interrompu par des militants propalestiniens, dont certains membres de LFI",
    "url": "https://www.europe1.fr/international/un-homme-a-failli-etre-aspire-hors-dun-vol-ryanair-au-depart-de-grece-970086",
-   "n_members": 117,
+   "n_members": 120,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -261,23 +261,23 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.243,
+   "divergence": 0.226,
    "category": "culture",
    "terms_left": [
-    "extrême",
     "concert grenoble",
+    "extrême",
     "insoumis"
    ],
    "terms_right": [
     "butch interrompu",
-    "concert barbara",
+    "pro-palestiniens",
     "dj barbara"
    ]
   },
   {
    "title": "Narcotrafic : le maire d'Alès exfiltré après une série de menaces",
    "url": "https://www.leprogres.fr/faits-divers-justice/2026/07/16/le-maire-d-ales-recoit-deux-balles-de-9-mm-signees-dz-mafia",
-   "n_members": 96,
+   "n_members": 98,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.178,
+   "divergence": 0.177,
    "category": "société",
    "terms_left": [
     "voiture",
@@ -321,17 +321,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.267,
+   "divergence": 0.265,
    "category": "faits-divers",
    "terms_left": [
     "delphine aussaguel",
-    "aussaguel",
-    "analyses"
+    "analyses",
+    "aussaguel"
    ],
    "terms_right": [
     "jubillar",
     "cédric",
-    "corps"
+    "cédric jubillar"
    ]
   },
   {
@@ -493,7 +493,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.496,
+   "divergence": 0.495,
    "category": "sport",
    "terms_left": [
     "monde angleterre",
@@ -614,8 +614,8 @@
    ],
    "terms_right": [
     "trump accuse",
-    "donald trump",
-    "donald"
+    "donald",
+    "donald trump"
    ]
   },
   {
@@ -635,12 +635,12 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.719,
+   "divergence": 0.71,
    "category": "international",
    "terms_left": [
     "inde",
-    "new delhi",
-    "delhi"
+    "manifestation",
+    "ministre"
    ],
    "terms_right": [
     "marine pen",
@@ -687,7 +687,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.753,
+   "divergence": 0.754,
    "category": "économie",
    "terms_left": [
     "canicule",
@@ -717,7 +717,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.783,
+   "divergence": 0.782,
    "category": "sport",
    "terms_left": [
     "questions",
@@ -817,13 +817,13 @@
    "terms_right": [
     "grippe",
     "autorité",
-    "haute autorité"
+    "autorité santé"
    ]
   },
   {
-   "title": "Incendie dans le Var: le feu progresse toujours, 200 hectares ont été brûlés",
+   "title": "Incendie dans le Var: le feu progresse à \"une vitesse très importante\", près de 900 pompiers sont mobilisés",
    "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
-   "n_members": 187,
+   "n_members": 190,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -837,12 +837,12 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.526,
+   "divergence": 0.514,
    "category": "environnement",
    "terms_left": [
-    "incendies",
+    "journée",
     "hectares brûlés",
-    "journée"
+    "incendies"
    ],
    "terms_right": [
     "feu",
@@ -1039,7 +1039,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.651,
+   "divergence": 0.652,
    "category": "politique",
    "terms_left": [
     "candidat",
@@ -1049,13 +1049,13 @@
    "terms_right": [
     "français",
     "nouveau",
-    "retour"
+    "nucléaire"
    ]
   },
   {
    "title": "Deux pompiers morts \"piégés\" par les flammes, feu fixé... Ce que l'on sait de l'incendie de Mérignac en Gironde",
    "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/en-images-un-violent-incendie-se-declare-pres-de-l-aeroport-de-bordeaux-merignac-3389914.html",
-   "n_members": 58,
+   "n_members": 61,
    "n_sources": 23,
    "counts": {
     "left": 3,
@@ -1083,6 +1083,28 @@
    ]
   },
   {
+   "title": "Guerre au Moyen-Orient : TotalEnergies relance son opération de plafonnement du prix des carburants",
+   "url": "https://information.tv5monde.com/international/plus-dessence-pas-de-patience-dans-la-province-russe-lhorrible-penurie-de-carburants-2830668",
+   "n_members": 44,
+   "n_sources": 23,
+   "counts": {
+    "left": 2,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 6,
+    "opinion": 1
+   },
+   "blindspot_score": 0.636,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "économie",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Coupe du monde 2026 : Donald Trump s’est invité aux côtés des Espagnols au moment de soulever le trophée",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-les-images-etonnantes-de-la-ferveur-des-fans-argentins-qui-recreent-buenos-aires-a-atlanta-avant-la-demi-finale-15-07-2026-3NXTLG5VAJHHBO4F7ZUD7EBXPU.php",
    "n_members": 85,
@@ -1099,7 +1121,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.504,
+   "divergence": 0.503,
    "category": "sport",
    "terms_left": [
     "monde donald",
@@ -1108,8 +1130,8 @@
    ],
    "terms_right": [
     "finale",
-    "york",
-    "new york"
+    "new york",
+    "york"
    ]
   },
   {
@@ -1133,43 +1155,13 @@
    "category": "international",
    "terms_left": [
     "violente",
-    "bilan double",
-    "violente tempête"
+    "violente tempête",
+    "bilan double"
    ],
    "terms_right": [
     "espagne",
     "finale",
     "coupe monde"
-   ]
-  },
-  {
-   "title": "\"Tu songes à t'évader? Réfléchis-y à deux fois\" : Israël autorise l'utilisation de crocodiles pour dissuader d'éventuelles évasions de prisons",
-   "url": "https://www.rfi.fr/fr/moyen-orient/20260711-%C3%A9lections-l%C3%A9gislatives-en-palestine-fix%C3%A9-en-novembre-le-scrutin-n-en-demeure-pas-moins-incertain",
-   "n_members": 61,
-   "n_sources": 22,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": -0.111,
-   "blindspot_for": null,
-   "divergence": 0.812,
-   "category": "international",
-   "terms_left": [
-    "détenus",
-    "violences",
-    "cesser violences"
-   ],
-   "terms_right": [
-    "ans",
-    "réseaux",
-    "sociaux"
    ]
   }
  ]
