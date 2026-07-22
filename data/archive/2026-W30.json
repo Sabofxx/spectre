@@ -1,6 +1,6 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-22T05:00:06+00:00",
+ "generated_at": "2026-07-22T07:35:31+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.048,
    "blindspot_for": null,
-   "divergence": 0.229,
+   "divergence": 0.232,
    "category": "politique",
    "terms_left": [
     "droite",
@@ -95,9 +95,39 @@
    ]
   },
   {
+   "title": "Le Parlement proche d'interdire les réseaux sociaux aux moins de 15 ans",
+   "url": "https://www.causeur.fr/voile-islamique-linterdiction-piege-a-cons-le-pen-bardella-rn-330692",
+   "n_members": 91,
+   "n_sources": 31,
+   "counts": {
+    "left": 6,
+    "centre": 16,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 10,
+    "opinion": 5
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.32,
+   "category": "politique",
+   "terms_left": [
+    "adoptée",
+    "mixte",
+    "paritaire"
+   ],
+   "terms_right": [
+    "adopté",
+    "visant",
+    "interdisant"
+   ]
+  },
+  {
    "title": "Guerre en Ukraine : Zelensky limoge le commandant en chef de l'armée Oleksandre Syrsky",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 184,
+   "n_members": 189,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -111,7 +141,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.58,
+   "divergence": 0.579,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -125,39 +155,9 @@
    ]
   },
   {
-   "title": "Le Parlement proche d'interdire les réseaux sociaux aux moins de 15 ans",
-   "url": "https://www.causeur.fr/voile-islamique-linterdiction-piege-a-cons-le-pen-bardella-rn-330692",
-   "n_members": 88,
-   "n_sources": 30,
-   "counts": {
-    "left": 6,
-    "centre": 15,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 10,
-    "opinion": 5
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.329,
-   "category": "politique",
-   "terms_left": [
-    "adoptée",
-    "mixte",
-    "texte"
-   ],
-   "terms_right": [
-    "adopté",
-    "visant",
-    "interdisant"
-   ]
-  },
-  {
    "title": "EN DIRECT - Guerre au Moyen-Orient : dixième nuit de frappes en Iran",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 391,
+   "n_members": 394,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -171,23 +171,23 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.347,
+   "divergence": 0.346,
    "category": "international",
    "terms_left": [
     "bombardements",
-    "téhéran",
-    "etats-unis"
+    "etats-unis",
+    "conflit"
    ],
    "terms_right": [
     "américains",
-    "frappes",
-    "militaires"
+    "militaires",
+    "états-unis"
    ]
   },
   {
    "title": "Canicule : voici les 6 départements placés en vigilance orange ce mardi",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 315,
+   "n_members": 319,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,23 +201,23 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.341,
+   "divergence": 0.327,
    "category": "environnement",
    "terms_left": [
     "direct",
     "direct canicule",
-    "troisième"
+    "rouge"
    ],
    "terms_right": [
-    "départements",
-    "sud",
-    "incendie"
+    "placés",
+    "placés vigilance",
+    "départements placés"
    ]
   },
   {
    "title": "Grenoble : un concert de Barbara Butch interrompu par des militants propalestiniens, dont certains membres de LFI",
    "url": "https://www.europe1.fr/international/un-homme-a-failli-etre-aspire-hors-dun-vol-ryanair-au-depart-de-grece-970086",
-   "n_members": 107,
+   "n_members": 110,
    "n_sources": 28,
    "counts": {
     "left": 8,
@@ -231,23 +231,23 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.277,
+   "divergence": 0.274,
    "category": "culture",
    "terms_left": [
     "concert grenoble",
-    "maire",
-    "tribune"
+    "extrême",
+    "maire"
    ],
    "terms_right": [
-    "butch interrompu",
     "concert barbara",
+    "butch interrompu",
     "grenoble militants"
    ]
   },
   {
    "title": "Alès : le maire exfiltré de son domicile après une menace de la DZ Mafia",
    "url": "https://www.leprogres.fr/faits-divers-justice/2026/07/16/le-maire-d-ales-recoit-deux-balles-de-9-mm-signees-dz-mafia",
-   "n_members": 80,
+   "n_members": 83,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.172,
+   "divergence": 0.175,
    "category": "société",
    "terms_left": [
     "voiture",
@@ -321,17 +321,17 @@
    },
    "blindspot_score": -0.2,
    "blindspot_for": null,
-   "divergence": 0.289,
+   "divergence": 0.28,
    "category": "culture",
    "terms_left": [
-    "odyssée",
     "voir",
+    "odyssée",
     "semaine"
    ],
    "terms_right": [
-    "nouveau",
     "millions",
-    "ans"
+    "nouveau",
+    "euros"
    ]
   },
   {
@@ -373,7 +373,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.744,
+   "divergence": 0.745,
    "category": "environnement",
    "terms_left": [
     "paris",
@@ -383,13 +383,13 @@
    "terms_right": [
     "france",
     "pays",
-    "orages"
+    "chaleur"
    ]
   },
   {
    "title": "Affaire Jubillar : les ossements retrouvés après les aveux de son mari Cédric sont bien ceux de Delphine Aussaguel",
    "url": "https://www.leparisien.fr/video/actualites/faits-divers/affaire-delphine-jubillar-des-ossements-non-identifies-decouverts-16-07-2026-CDYSBQ7GCBEYZPOQF6DFVKENUQ.php",
-   "n_members": 295,
+   "n_members": 296,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -403,7 +403,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.268,
+   "divergence": 0.269,
    "category": "faits-divers",
    "terms_left": [
     "delphine aussaguel",
@@ -419,7 +419,7 @@
   {
    "title": "EN DIRECT - Coupe du monde 2026: suivez la finale entre l'Espagne et l'Argentine",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/norvege-angleterre-la-composition-des-equipes-pour-le-quart-de-finale-de-la-coupe-du-monde-11-07-2026-CVUMVWWP7ZDS3PSSYZQOX3TZSU.php",
-   "n_members": 261,
+   "n_members": 262,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -433,7 +433,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.505,
+   "divergence": 0.503,
    "category": "sport",
    "terms_left": [
     "monde angleterre",
@@ -463,7 +463,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.498,
+   "divergence": 0.499,
    "category": "international",
    "terms_left": [
     "toronto",
@@ -472,7 +472,7 @@
    ],
    "terms_right": [
     "trump",
-    "incendies",
+    "états-unis",
     "donald"
    ]
   },
@@ -497,6 +497,36 @@
    "category": "international",
    "terms_left": [],
    "terms_right": []
+  },
+  {
+   "title": "Le Livret A jamais autant boudé au premier semestre depuis 2008",
+   "url": "https://www.liberation.fr/politique/presidentielle-les-ecologistes-rafraichissent-les-idees-dans-un-nouveau-programme-20260713_HLF46E75PVHLLDYAZTTQCARLLE/",
+   "n_members": 67,
+   "n_sources": 25,
+   "counts": {
+    "left": 6,
+    "centre": 10,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.708,
+   "category": "économie",
+   "terms_left": [
+    "protection",
+    "loi",
+    "présidentielle"
+   ],
+   "terms_right": [
+    "livret",
+    "taux",
+    "français"
+   ]
   },
   {
    "title": "Midterms : le plan de Donald Trump pour voler le scrutin",
@@ -526,36 +556,6 @@
     "trump accuse",
     "donald",
     "donald trump"
-   ]
-  },
-  {
-   "title": "Économie. Près de 6 milliards de décollecte : le Livret A jamais autant boudé au premier semestre depuis 2008",
-   "url": "https://www.liberation.fr/politique/presidentielle-les-ecologistes-rafraichissent-les-idees-dans-un-nouveau-programme-20260713_HLF46E75PVHLLDYAZTTQCARLLE/",
-   "n_members": 62,
-   "n_sources": 25,
-   "counts": {
-    "left": 6,
-    "centre": 10,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 10,
-    "opinion": 3
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.694,
-   "category": "économie",
-   "terms_left": [
-    "protection",
-    "présidentielle",
-    "programme"
-   ],
-   "terms_right": [
-    "livret",
-    "taux",
-    "er"
    ]
   },
   {
@@ -608,6 +608,36 @@
     "marine pen",
     "pen",
     "marine"
+   ]
+  },
+  {
+   "title": "Le sénateur LR François-Noël Buffet nommé Défenseur des droits, sur proposition d’Emmanuel Macron",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/la-proposition-de-francois-noel-buffet-comme-defenseur-des-droits-est-une-provocation-deplore-le-planning-familial-7354423",
+   "n_members": 38,
+   "n_sources": 25,
+   "counts": {
+    "left": 8,
+    "centre": 11,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": -0.143,
+   "blindspot_for": null,
+   "divergence": 0.255,
+   "category": "politique",
+   "terms_left": [
+    "nouveau",
+    "nomination",
+    "personnes"
+   ],
+   "terms_right": [
+    "proposé emmanuel",
+    "proposé",
+    "ancien"
    ]
   },
   {
@@ -687,7 +717,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.788,
+   "divergence": 0.785,
    "category": "international",
    "terms_left": [
     "millions",
@@ -717,7 +747,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.801,
+   "divergence": 0.802,
    "category": "société",
    "terms_left": [
     "projet",
@@ -731,33 +761,33 @@
    ]
   },
   {
-   "title": "Le sénateur LR François-Noël Buffet nommé Défenseur des droits, sur proposition d’Emmanuel Macron",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/la-proposition-de-francois-noel-buffet-comme-defenseur-des-droits-est-une-provocation-deplore-le-planning-familial-7354423",
-   "n_members": 36,
-   "n_sources": 24,
+   "title": "Incendie dans le Var: le feu progresse toujours, 200 hectares ont été brûlés",
+   "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
+   "n_members": 157,
+   "n_sources": 23,
    "counts": {
-    "left": 7,
-    "centre": 11,
-    "right": 6
+    "left": 4,
+    "centre": 12,
+    "right": 7
    },
    "style_counts": {
-    "factuel": 12,
-    "mixte": 9,
+    "factuel": 14,
+    "mixte": 6,
     "opinion": 3
    },
-   "blindspot_score": -0.077,
+   "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.273,
-   "category": "politique",
+   "divergence": 0.611,
+   "category": "environnement",
    "terms_left": [
-    "nouveau",
-    "personnes",
-    "nomination françois-noël"
+    "incendies",
+    "saison",
+    "corse"
    ],
    "terms_right": [
-    "proposé emmanuel",
-    "proposé",
-    "ancien"
+    "var",
+    "incendie",
+    "feu"
    ]
   },
   {
@@ -777,12 +807,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.604,
+   "divergence": 0.616,
    "category": "sport",
    "terms_left": [
     "foot",
     "monde",
-    "qu"
+    "france"
    ],
    "terms_right": [
     "deschamps",
@@ -793,7 +823,7 @@
   {
    "title": "L’Espagne remporte sa deuxième Coupe du monde après une victoire “amplement méritée” face à l’Argentine",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/pour-les-malouines-40-ans-apres-la-guerre-encore-source-de-tensions-avant-la-demi-finale-angleterre-argentine-12-07-2026-HBFWGZHZEFDUZENYFGSPTQN4FI.php",
-   "n_members": 139,
+   "n_members": 140,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -807,17 +837,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.616,
+   "divergence": 0.613,
    "category": "sport",
    "terms_left": [
     "angleterre",
     "qu",
-    "rêve"
+    "roja"
    ],
    "terms_right": [
+    "messi",
     "lionel messi",
-    "lionel",
-    "messi"
+    "lionel"
    ]
   },
   {
@@ -859,17 +889,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.828,
+   "divergence": 0.825,
    "category": "sport",
    "terms_left": [
     "ans",
-    "guerre",
-    "espagne"
+    "espagne",
+    "guerre"
    ],
    "terms_right": [
     "espagne-argentine",
-    "gibraltar",
-    "finale coupe"
+    "mondial",
+    "finale"
    ]
   },
   {
@@ -935,7 +965,7 @@
   {
    "title": "Coupe du monde 2030 : vers un mondial à 64 équipes ?",
    "url": "https://www.cnews.fr/france/2026-07-18/unesco-comment-labsence-du-mot-cathare-perturbe-la-candidature-des-7",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 23,
    "counts": {
     "left": 3,
@@ -951,46 +981,8 @@
    "blindspot_for": null,
    "divergence": 0.833,
    "category": "sport",
-   "terms_left": [
-    "questions",
-    "infantino",
-    "équipes"
-   ],
-   "terms_right": [
-    "mondial",
-    "football",
-    "deschamps"
-   ]
-  },
-  {
-   "title": "Incendie dans le Var: le feu progresse toujours, 200 hectares ont été brûlés",
-   "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
-   "n_members": 149,
-   "n_sources": 22,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.674,
-   "category": "environnement",
-   "terms_left": [
-    "incendies",
-    "pays",
-    "saison"
-   ],
-   "terms_right": [
-    "var",
-    "incendie",
-    "feu"
-   ]
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Coupe du monde 2026 : Donald Trump s’est invité aux côtés des Espagnols au moment de soulever le trophée",
@@ -1009,12 +1001,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.511,
+   "divergence": 0.498,
    "category": "sport",
    "terms_left": [
     "monde donald",
     "face",
-    "show"
+    "monde trump"
    ],
    "terms_right": [
     "finale",
@@ -1023,9 +1015,9 @@
    ]
   },
   {
-   "title": "Coupe du monde 2026 : avec 22 buts, Kylian Mbappé devient le meilleur buteur de l'histoire de la compétition",
+   "title": "Mondial 2026 : L'Espagne décroche sa deuxième étoile",
    "url": "https://www.sudradio.fr/emission/les-tontons-du-mondial-21",
-   "n_members": 63,
+   "n_members": 64,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -1039,17 +1031,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.789,
+   "divergence": 0.768,
    "category": "sport",
    "terms_left": [
     "qu",
     "week-end",
-    "compétition"
+    "bonnes"
    ],
    "terms_right": [
     "mbappé",
     "monde",
-    "messi"
+    "coupe monde"
    ]
   },
   {
@@ -1069,7 +1061,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.816,
+   "divergence": 0.815,
    "category": "international",
    "terms_left": [
     "détenus",
@@ -1121,12 +1113,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.438,
+   "divergence": 0.437,
    "category": "faits-divers",
    "terms_left": [
     "reprochés jacqueline",
-    "reprochés",
-    "faits reprochés"
+    "faits reprochés",
+    "reprochés"
    ],
    "terms_right": [
     "filmés",
