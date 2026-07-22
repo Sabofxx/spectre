@@ -1,13 +1,13 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-22T01:31:55+00:00",
+ "generated_at": "2026-07-22T05:00:06+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "Le Parlement adopte définitivement la loi d’urgence agricole, avec son volet sur les pesticides",
+   "title": "Politique. Loi d'urgence agricole : les députés valident la réintroduction de pesticides",
    "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
-   "n_members": 174,
+   "n_members": 177,
    "n_sources": 36,
    "counts": {
     "left": 10,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.048,
    "blindspot_for": null,
-   "divergence": 0.23,
+   "divergence": 0.229,
    "category": "politique",
    "terms_left": [
     "droite",
@@ -97,7 +97,7 @@
   {
    "title": "Guerre en Ukraine : Zelensky limoge le commandant en chef de l'armée Oleksandre Syrsky",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 183,
+   "n_members": 184,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -127,7 +127,7 @@
   {
    "title": "Le Parlement proche d'interdire les réseaux sociaux aux moins de 15 ans",
    "url": "https://www.causeur.fr/voile-islamique-linterdiction-piege-a-cons-le-pen-bardella-rn-330692",
-   "n_members": 85,
+   "n_members": 88,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -141,23 +141,23 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.336,
+   "divergence": 0.329,
    "category": "politique",
    "terms_left": [
+    "adoptée",
     "mixte",
-    "texte",
-    "paritaire"
+    "texte"
    ],
    "terms_right": [
-    "europe",
+    "adopté",
     "visant",
-    "adopté"
+    "interdisant"
    ]
   },
   {
    "title": "EN DIRECT - Guerre au Moyen-Orient : dixième nuit de frappes en Iran",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 386,
+   "n_members": 391,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -171,23 +171,23 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.355,
+   "divergence": 0.347,
    "category": "international",
    "terms_left": [
-    "téhéran",
     "bombardements",
+    "téhéran",
     "etats-unis"
    ],
    "terms_right": [
+    "américains",
     "frappes",
-    "militaires",
-    "américains"
+    "militaires"
    ]
   },
   {
    "title": "Canicule : voici les 6 départements placés en vigilance orange ce mardi",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 314,
+   "n_members": 315,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,16 +201,16 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.345,
+   "divergence": 0.341,
    "category": "environnement",
    "terms_left": [
     "direct",
     "direct canicule",
-    "rouge"
+    "troisième"
    ],
    "terms_right": [
-    "sud",
     "départements",
+    "sud",
     "incendie"
    ]
   },
@@ -247,7 +247,7 @@
   {
    "title": "Alès : le maire exfiltré de son domicile après une menace de la DZ Mafia",
    "url": "https://www.leprogres.fr/faits-divers-justice/2026/07/16/le-maire-d-ales-recoit-deux-balles-de-9-mm-signees-dz-mafia",
-   "n_members": 78,
+   "n_members": 80,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.168,
+   "divergence": 0.172,
    "category": "société",
    "terms_left": [
     "voiture",
@@ -277,7 +277,7 @@
   {
    "title": "L'Assemblée nationale approuve la perpétuité pour les viols en série sur les moins de 15 ans",
    "url": "https://www.leprogres.fr/economie/2026/07/15/logements-bouilloires-la-confederation-nationale-du-logement-entend-porter-plainte-contre-l-etat",
-   "n_members": 105,
+   "n_members": 106,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -291,17 +291,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.399,
+   "divergence": 0.396,
    "category": "politique",
    "terms_left": [
-    "nationale",
-    "assemblée nationale",
-    "sénat"
+    "crimes",
+    "sénat",
+    "nationale"
    ],
    "terms_right": [
     "ans",
     "députés",
-    "série"
+    "mineurs ans"
    ]
   },
   {
@@ -389,7 +389,7 @@
   {
    "title": "Affaire Jubillar : les ossements retrouvés après les aveux de son mari Cédric sont bien ceux de Delphine Aussaguel",
    "url": "https://www.leparisien.fr/video/actualites/faits-divers/affaire-delphine-jubillar-des-ossements-non-identifies-decouverts-16-07-2026-CDYSBQ7GCBEYZPOQF6DFVKENUQ.php",
-   "n_members": 294,
+   "n_members": 295,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -403,7 +403,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.267,
+   "divergence": 0.268,
    "category": "faits-divers",
    "terms_left": [
     "delphine aussaguel",
@@ -433,7 +433,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.507,
+   "divergence": 0.505,
    "category": "sport",
    "terms_left": [
     "monde angleterre",
@@ -529,6 +529,36 @@
    ]
   },
   {
+   "title": "Économie. Près de 6 milliards de décollecte : le Livret A jamais autant boudé au premier semestre depuis 2008",
+   "url": "https://www.liberation.fr/politique/presidentielle-les-ecologistes-rafraichissent-les-idees-dans-un-nouveau-programme-20260713_HLF46E75PVHLLDYAZTTQCARLLE/",
+   "n_members": 62,
+   "n_sources": 25,
+   "counts": {
+    "left": 6,
+    "centre": 10,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.694,
+   "category": "économie",
+   "terms_left": [
+    "protection",
+    "présidentielle",
+    "programme"
+   ],
+   "terms_right": [
+    "livret",
+    "taux",
+    "er"
+   ]
+  },
+  {
    "title": "Polymarket : le site de paris sur l'actualité désormais interdit en France",
    "url": "https://lcp.fr/actualites/une-frontiere-francaise-va-etre-modifiee-pour-la-premiere-fois-depuis-pres-de-400-ans",
    "n_members": 61,
@@ -551,39 +581,9 @@
    "terms_right": []
   },
   {
-   "title": "\"Le revenu horaire avait fortement chuté entre 2021 et 2024\" : les livreurs de repas seront un peu mieux payés à partir du 1ᵉʳ septembre",
-   "url": "https://www.liberation.fr/politique/presidentielle-les-ecologistes-rafraichissent-les-idees-dans-un-nouveau-programme-20260713_HLF46E75PVHLLDYAZTTQCARLLE/",
-   "n_members": 59,
-   "n_sources": 25,
-   "counts": {
-    "left": 6,
-    "centre": 10,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 10,
-    "opinion": 3
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.692,
-   "category": "économie",
-   "terms_left": [
-    "protection",
-    "présidentielle",
-    "programme"
-   ],
-   "terms_right": [
-    "livret",
-    "taux",
-    "er"
-   ]
-  },
-  {
    "title": "Inde: le «Parti des cafards» défie l’interdiction de manifester à New Delhi, la police disperse le cortège",
    "url": "https://www.lejdd.fr/International/royaume-uni-nigel-farage-face-au-comte-tete-de-poubelle-lors-dune-legislative-partielle-178632",
-   "n_members": 57,
+   "n_members": 58,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -597,7 +597,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.716,
+   "divergence": 0.717,
    "category": "international",
    "terms_left": [
     "inde",
@@ -605,9 +605,9 @@
     "delhi"
    ],
    "terms_right": [
-    "nigel farage",
-    "nigel",
-    "farage"
+    "marine pen",
+    "pen",
+    "marine"
    ]
   },
   {
@@ -627,7 +627,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.749,
+   "divergence": 0.751,
    "category": "économie",
    "terms_left": [
     "feux",
@@ -667,7 +667,7 @@
    "terms_right": [
     "canadair",
     "présidentielle",
-    "qu"
+    "incendies"
    ]
   },
   {
@@ -687,12 +687,12 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.793,
+   "divergence": 0.788,
    "category": "international",
    "terms_left": [
     "millions",
     "millions dollars",
-    "américains"
+    "dollars"
    ],
    "terms_right": [
     "président",
@@ -777,7 +777,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.593,
+   "divergence": 0.604,
    "category": "sport",
    "terms_left": [
     "foot",
@@ -786,8 +786,8 @@
    ],
    "terms_right": [
     "deschamps",
-    "équipe",
-    "didier"
+    "didier",
+    "didier deschamps"
    ]
   },
   {
@@ -807,7 +807,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.617,
+   "divergence": 0.616,
    "category": "sport",
    "terms_left": [
     "angleterre",
@@ -859,17 +859,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.822,
+   "divergence": 0.828,
    "category": "sport",
    "terms_left": [
     "ans",
     "guerre",
-    "milieu"
+    "espagne"
    ],
    "terms_right": [
     "espagne-argentine",
     "gibraltar",
-    "show"
+    "finale coupe"
    ]
   },
   {
@@ -933,6 +933,66 @@
    ]
   },
   {
+   "title": "Coupe du monde 2030 : vers un mondial à 64 équipes ?",
+   "url": "https://www.cnews.fr/france/2026-07-18/unesco-comment-labsence-du-mot-cathare-perturbe-la-candidature-des-7",
+   "n_members": 59,
+   "n_sources": 23,
+   "counts": {
+    "left": 3,
+    "centre": 11,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.833,
+   "category": "sport",
+   "terms_left": [
+    "questions",
+    "infantino",
+    "équipes"
+   ],
+   "terms_right": [
+    "mondial",
+    "football",
+    "deschamps"
+   ]
+  },
+  {
+   "title": "Incendie dans le Var: le feu progresse toujours, 200 hectares ont été brûlés",
+   "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
+   "n_members": 149,
+   "n_sources": 22,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 5,
+    "opinion": 3
+   },
+   "blindspot_score": 0.4,
+   "blindspot_for": null,
+   "divergence": 0.674,
+   "category": "environnement",
+   "terms_left": [
+    "incendies",
+    "pays",
+    "saison"
+   ],
+   "terms_right": [
+    "var",
+    "incendie",
+    "feu"
+   ]
+  },
+  {
    "title": "Coupe du monde 2026 : Donald Trump s’est invité aux côtés des Espagnols au moment de soulever le trophée",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-les-images-etonnantes-de-la-ferveur-des-fans-argentins-qui-recreent-buenos-aires-a-atlanta-avant-la-demi-finale-15-07-2026-3NXTLG5VAJHHBO4F7ZUD7EBXPU.php",
    "n_members": 85,
@@ -949,7 +1009,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.508,
+   "divergence": 0.511,
    "category": "sport",
    "terms_left": [
     "monde donald",
@@ -979,7 +1039,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.788,
+   "divergence": 0.789,
    "category": "sport",
    "terms_left": [
     "qu",
@@ -989,7 +1049,7 @@
    "terms_right": [
     "mbappé",
     "monde",
-    "coupe monde"
+    "messi"
    ]
   },
   {
@@ -1023,39 +1083,9 @@
    ]
   },
   {
-   "title": "Incendie dans le Var: le feu progresse toujours, 200 hectares ont été brûlés",
-   "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
-   "n_members": 136,
-   "n_sources": 21,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 4,
-    "opinion": 3
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.674,
-   "category": "environnement",
-   "terms_left": [
-    "incendies",
-    "pays",
-    "saison"
-   ],
-   "terms_right": [
-    "var",
-    "incendie",
-    "feu"
-   ]
-  },
-  {
    "title": "Séisme au Venezuela : le bilan s’élève à 5 119 morts après les deux puissantes secousses du 24 juin",
    "url": "https://www.mediapart.fr/journal/international/150726/depasse-par-le-seisme-le-venezuela-engage-une-ouverture-limitee",
-   "n_members": 62,
+   "n_members": 63,
    "n_sources": 21,
    "counts": {
     "left": 2,
@@ -1132,36 +1162,6 @@
     "électricité",
     "amende",
     "loi"
-   ]
-  },
-  {
-   "title": "Au cœur du Mondial : Infantino, la Fifa et Trump cassent notre jouet",
-   "url": "https://www.cnews.fr/sport/2026-07-18/football-gianni-infantino-soutenu-par-pres-de-200-pays-en-vue-de-sa-reelection-la",
-   "n_members": 47,
-   "n_sources": 21,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.812,
-   "category": "sport",
-   "terms_left": [
-    "questions",
-    "infantino",
-    "équipes"
-   ],
-   "terms_right": [
-    "football",
-    "deschamps",
-    "finale"
    ]
   }
  ]
