@@ -1,6 +1,6 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-22T12:11:48+00:00",
+ "generated_at": "2026-07-22T14:34:04+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,11 +21,11 @@
    },
    "blindspot_score": 0.048,
    "blindspot_for": null,
-   "divergence": 0.227,
+   "divergence": 0.228,
    "category": "politique",
    "terms_left": [
-    "duplomb",
     "droite",
+    "duplomb",
     "loi duplomb"
    ],
    "terms_right": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.28,
+   "divergence": 0.279,
    "category": "environnement",
    "terms_left": [
     "direct canicule",
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.301,
+   "divergence": 0.302,
    "category": "politique",
    "terms_left": [
     "adoptée",
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.239,
+   "divergence": 0.24,
    "category": "international",
    "terms_left": [
     "gauche",
@@ -125,9 +125,9 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine : Zelensky limoge le commandant en chef de l'armée Oleksandre Syrsky",
+   "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce un remaniement à la tête de l’armée ukrainienne après plusieurs jours de manifestations",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 198,
+   "n_members": 202,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.514,
+   "divergence": 0.507,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -155,9 +155,39 @@
    ]
   },
   {
+   "title": "La ministre de la Transition écologique Monique Barbut va présenter sa démission d’ici le Conseil des ministres mercredi",
+   "url": "https://www.lemonde.fr/planete/article/2026/07/20/loi-d-urgence-agricole-ce-texte-consacre-la-primaute-absolue-des-usages-agricoles-de-l-eau-sur-les-besoins-des-autres-usagers_6726706_3244.html",
+   "n_members": 89,
+   "n_sources": 30,
+   "counts": {
+    "left": 8,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 11,
+    "opinion": 4
+   },
+   "blindspot_score": 0.059,
+   "blindspot_for": null,
+   "divergence": 0.187,
+   "category": "politique",
+   "terms_left": [
+    "reste",
+    "acétamipride",
+    "désaccord loi"
+   ],
+   "terms_right": [
+    "écologique monique",
+    "annoncé",
+    "agricole ministre"
+   ]
+  },
+  {
    "title": "EN DIRECT - Guerre au Moyen-Orient : dixième nuit de frappes en Iran",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 395,
+   "n_members": 399,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -171,16 +201,16 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.349,
+   "divergence": 0.346,
    "category": "international",
    "terms_left": [
-    "bombardements",
     "etats-unis",
+    "bombardements",
     "conflit"
    ],
    "terms_right": [
     "américains",
-    "frappes",
+    "soldats",
     "états-unis"
    ]
   },
@@ -201,7 +231,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.326,
+   "divergence": 0.327,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -217,7 +247,7 @@
   {
    "title": "Grenoble : un concert de Barbara Butch interrompu par des militants propalestiniens, dont certains membres de LFI",
    "url": "https://www.europe1.fr/international/un-homme-a-failli-etre-aspire-hors-dun-vol-ryanair-au-depart-de-grece-970086",
-   "n_members": 112,
+   "n_members": 114,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -231,7 +261,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.265,
+   "divergence": 0.258,
    "category": "culture",
    "terms_left": [
     "extrême",
@@ -239,15 +269,15 @@
     "maire"
    ],
    "terms_right": [
-    "concert barbara",
     "butch interrompu",
+    "concert barbara",
     "grenoble militants"
    ]
   },
   {
    "title": "Narcotrafic : le maire d'Alès exfiltré après une série de menaces",
    "url": "https://www.leprogres.fr/faits-divers-justice/2026/07/16/le-maire-d-ales-recoit-deux-balles-de-9-mm-signees-dz-mafia",
-   "n_members": 93,
+   "n_members": 95,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -261,7 +291,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.181,
+   "divergence": 0.183,
    "category": "société",
    "terms_left": [
     "voiture",
@@ -269,9 +299,9 @@
     "voiture piégée"
    ],
    "terms_right": [
-    "domicile raid",
     "nuit",
-    "exfiltré domicile"
+    "domicile raid",
+    "exfiltré"
    ]
   },
   {
@@ -291,7 +321,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.269,
+   "divergence": 0.268,
    "category": "faits-divers",
    "terms_left": [
     "delphine aussaguel",
@@ -335,36 +365,6 @@
    ]
   },
   {
-   "title": "La ministre de la Transition écologique Monique Barbut va présenter sa démission d’ici le Conseil des ministres mercredi",
-   "url": "https://www.lemonde.fr/planete/article/2026/07/20/loi-d-urgence-agricole-ce-texte-consacre-la-primaute-absolue-des-usages-agricoles-de-l-eau-sur-les-besoins-des-autres-usagers_6726706_3244.html",
-   "n_members": 84,
-   "n_sources": 27,
-   "counts": {
-    "left": 8,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": -0.143,
-   "blindspot_for": null,
-   "divergence": 0.212,
-   "category": "politique",
-   "terms_left": [
-    "reste",
-    "départ",
-    "vote"
-   ],
-   "terms_right": [
-    "écologique monique",
-    "annoncé",
-    "france"
-   ]
-  },
-  {
    "title": "«L'Odyssée» : la fresque historique de Christopher Nolan se hisse en tête du box-office nord-américain",
    "url": "https://www.mediapart.fr/journal/culture-et-idees/110726/l-odyssee-sort-au-cinema-et-ravive-la-question-de-la-race-sous-l-antiquite",
    "n_members": 74,
@@ -381,7 +381,7 @@
    },
    "blindspot_score": -0.2,
    "blindspot_for": null,
-   "divergence": 0.28,
+   "divergence": 0.281,
    "category": "culture",
    "terms_left": [
     "voir",
@@ -493,7 +493,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.498,
+   "divergence": 0.496,
    "category": "sport",
    "terms_left": [
     "monde angleterre",
@@ -561,7 +561,7 @@
   {
    "title": "Le Livret A jamais autant boudé au premier semestre depuis 2008",
    "url": "https://www.liberation.fr/politique/presidentielle-les-ecologistes-rafraichissent-les-idees-dans-un-nouveau-programme-20260713_HLF46E75PVHLLDYAZTTQCARLLE/",
-   "n_members": 69,
+   "n_members": 70,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -580,7 +580,7 @@
    "terms_left": [
     "protection",
     "loi",
-    "présidentielle"
+    "projet"
    ],
    "terms_right": [
     "livret",
@@ -614,8 +614,38 @@
    ],
    "terms_right": [
     "trump accuse",
-    "donald",
-    "donald trump"
+    "donald trump",
+    "donald"
+   ]
+  },
+  {
+   "title": "Inde: le «Parti des cafards» défie l’interdiction de manifester à New Delhi, la police disperse le cortège",
+   "url": "https://www.lejdd.fr/International/royaume-uni-nigel-farage-face-au-comte-tete-de-poubelle-lors-dune-legislative-partielle-178632",
+   "n_members": 61,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 14,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.719,
+   "category": "international",
+   "terms_left": [
+    "inde",
+    "new delhi",
+    "delhi"
+   ],
+   "terms_right": [
+    "marine pen",
+    "pen",
+    "marine"
    ]
   },
   {
@@ -641,36 +671,6 @@
    "terms_right": []
   },
   {
-   "title": "Inde: le «Parti des cafards» défie l’interdiction de manifester à New Delhi, la police disperse le cortège",
-   "url": "https://www.lejdd.fr/International/royaume-uni-nigel-farage-face-au-comte-tete-de-poubelle-lors-dune-legislative-partielle-178632",
-   "n_members": 59,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 14,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.718,
-   "category": "international",
-   "terms_left": [
-    "inde",
-    "new delhi",
-    "delhi"
-   ],
-   "terms_right": [
-    "marine pen",
-    "pen",
-    "marine"
-   ]
-  },
-  {
    "title": "Incendies en France : près de 40.000 hectares brûlés en 2026",
    "url": "https://www.nicematin.com/societe/vie-locale/ou-est-l-inflexion-promise-pourquoi-le-budget-supplementaire-de-la-ville-d-antibes-a-fait-debat-10689044",
    "n_members": 65,
@@ -687,7 +687,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.752,
+   "divergence": 0.753,
    "category": "économie",
    "terms_left": [
     "feux",
@@ -698,6 +698,36 @@
     "hectares",
     "année",
     "face"
+   ]
+  },
+  {
+   "title": "Coupe du monde 2030 : vers un mondial à 64 équipes ?",
+   "url": "https://www.cnews.fr/france/2026-07-18/unesco-comment-labsence-du-mot-cathare-perturbe-la-candidature-des-7",
+   "n_members": 62,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.783,
+   "category": "sport",
+   "terms_left": [
+    "questions",
+    "équipes",
+    "infantino"
+   ],
+   "terms_right": [
+    "football",
+    "histoire",
+    "deschamps"
    ]
   },
   {
@@ -717,11 +747,11 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.864,
+   "divergence": 0.865,
    "category": "politique",
    "terms_left": [
-    "loi",
     "ans",
+    "loi",
     "urgence"
    ],
    "terms_right": [
@@ -747,7 +777,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.785,
+   "divergence": 0.786,
    "category": "international",
    "terms_left": [
     "millions",
@@ -777,7 +807,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.802,
+   "divergence": 0.803,
    "category": "société",
    "terms_left": [
     "projet",
@@ -793,7 +823,7 @@
   {
    "title": "Incendie dans le Var: le feu progresse toujours, 200 hectares ont été brûlés",
    "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
-   "n_members": 173,
+   "n_members": 184,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -807,17 +837,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.605,
+   "divergence": 0.548,
    "category": "environnement",
    "terms_left": [
     "incendies",
-    "pays",
-    "saison"
+    "journée",
+    "hectares brûlés"
    ],
    "terms_right": [
     "var",
-    "feu",
-    "incendie"
+    "incendie",
+    "feu"
    ]
   },
   {
@@ -837,7 +867,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.624,
+   "divergence": 0.623,
    "category": "sport",
    "terms_left": [
     "foot",
@@ -919,7 +949,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.824,
+   "divergence": 0.833,
    "category": "sport",
    "terms_left": [
     "ans",
@@ -929,7 +959,37 @@
    "terms_right": [
     "espagne-argentine",
     "mondial",
-    "finale"
+    "gibraltar"
+   ]
+  },
+  {
+   "title": "Le classement final des buteurs et des passeurs de la Coupe du monde : Mbappé et Olise au sommet !",
+   "url": "https://www.sudradio.fr/emission/les-tontons-du-mondial-21",
+   "n_members": 65,
+   "n_sources": 23,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.721,
+   "category": "sport",
+   "terms_left": [
+    "qu",
+    "week-end",
+    "fc"
+   ],
+   "terms_right": [
+    "monde",
+    "coupe monde",
+    "coupe"
    ]
   },
   {
@@ -993,28 +1053,6 @@
    ]
   },
   {
-   "title": "Coupe du monde 2030 : vers un mondial à 64 équipes ?",
-   "url": "https://www.cnews.fr/france/2026-07-18/unesco-comment-labsence-du-mot-cathare-perturbe-la-candidature-des-7",
-   "n_members": 61,
-   "n_sources": 23,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.833,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
    "title": "Coupe du monde 2026 : Donald Trump s’est invité aux côtés des Espagnols au moment de soulever le trophée",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-les-images-etonnantes-de-la-ferveur-des-fans-argentins-qui-recreent-buenos-aires-a-atlanta-avant-la-demi-finale-15-07-2026-3NXTLG5VAJHHBO4F7ZUD7EBXPU.php",
    "n_members": 85,
@@ -1040,8 +1078,8 @@
    ],
    "terms_right": [
     "finale",
-    "new york",
-    "york"
+    "york",
+    "new york"
    ]
   },
   {
@@ -1075,28 +1113,6 @@
    ]
   },
   {
-   "title": "Mondial 2026 : L'Espagne décroche sa deuxième étoile",
-   "url": "https://www.sudradio.fr/emission/les-tontons-du-mondial-21",
-   "n_members": 64,
-   "n_sources": 22,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.768,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
    "title": "\"Tu songes à t'évader? Réfléchis-y à deux fois\" : Israël autorise l'utilisation de crocodiles pour dissuader d'éventuelles évasions de prisons",
    "url": "https://www.rfi.fr/fr/moyen-orient/20260711-%C3%A9lections-l%C3%A9gislatives-en-palestine-fix%C3%A9-en-novembre-le-scrutin-n-en-demeure-pas-moins-incertain",
    "n_members": 61,
@@ -1113,7 +1129,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.813,
+   "divergence": 0.812,
    "category": "international",
    "terms_left": [
     "détenus",
@@ -1129,7 +1145,7 @@
   {
    "title": "Deux pompiers morts \"piégés\" par les flammes, feu fixé... Ce que l'on sait de l'incendie de Mérignac en Gironde",
    "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/en-images-un-violent-incendie-se-declare-pres-de-l-aeroport-de-bordeaux-merignac-3389914.html",
-   "n_members": 51,
+   "n_members": 52,
    "n_sources": 22,
    "counts": {
     "left": 2,
