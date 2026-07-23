@@ -1,13 +1,13 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-23T20:12:35+00:00",
+ "generated_at": "2026-07-23T21:34:32+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "L’interdiction des réseaux sociaux aux mineurs de moins de 15 ans… On vous explique !",
    "url": "https://www.causeur.fr/voile-islamique-linterdiction-piege-a-cons-le-pen-bardella-rn-330692",
-   "n_members": 126,
+   "n_members": 127,
    "n_sources": 42,
    "counts": {
     "left": 10,
@@ -21,17 +21,17 @@
    },
    "blindspot_score": 0.13,
    "blindspot_for": null,
-   "divergence": 0.216,
+   "divergence": 0.213,
    "category": "politique",
    "terms_left": [
     "mixte",
     "interdiction réseaux",
-    "adoptée"
+    "paritaire"
    ],
    "terms_right": [
+    "loi interdisant",
     "définitivement",
-    "enfants",
-    "europe"
+    "interdisant"
    ]
   },
   {
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.325,
+   "divergence": 0.326,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -210,8 +210,8 @@
    ],
    "terms_right": [
     "états-unis",
-    "soldats",
-    "américaine"
+    "américaine",
+    "trump"
    ]
   },
   {
@@ -365,6 +365,36 @@
    ]
   },
   {
+   "title": "Union européenne : 890 millions d'euros d'amendes infligées à Google, au risque d'irriter Trump",
+   "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/le-club-de-la-bourse-alphabet-google-publie-ses-resultats-ce-soir-22-07_EN-202607220223.html",
+   "n_members": 65,
+   "n_sources": 28,
+   "counts": {
+    "left": 5,
+    "centre": 14,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.626,
+   "category": "sciences-tech",
+   "terms_left": [
+    "géant",
+    "france",
+    "total"
+   ],
+   "terms_right": [
+    "émission",
+    "américains",
+    "kimi"
+   ]
+  },
+  {
    "title": "Tarn. Mort de Delphine Aussaguel : le procès en appel de Cédric Jubillar renvoyé au « premier semestre 2027 »",
    "url": "https://www.leparisien.fr/video/actualites/faits-divers/affaire-delphine-jubillar-des-ossements-non-identifies-decouverts-16-07-2026-CDYSBQ7GCBEYZPOQF6DFVKENUQ.php",
    "n_members": 305,
@@ -384,8 +414,8 @@
    "divergence": 0.285,
    "category": "faits-divers",
    "terms_left": [
-    "delphine aussaguel",
     "aussaguel",
+    "delphine aussaguel",
     "tarn"
    ],
    "terms_right": [
@@ -415,36 +445,6 @@
    "category": "environnement",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "L’UE inflige 890 millions d’euros d’amendes à Google",
-   "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/le-club-de-la-bourse-alphabet-google-publie-ses-resultats-ce-soir-22-07_EN-202607220223.html",
-   "n_members": 64,
-   "n_sources": 27,
-   "counts": {
-    "left": 5,
-    "centre": 14,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.663,
-   "category": "sciences-tech",
-   "terms_left": [
-    "france",
-    "amendes",
-    "recherche"
-   ],
-   "terms_right": [
-    "émission",
-    "kimi",
-    "américains"
-   ]
   },
   {
    "title": "Canicule : des véhicules électriques explosent-ils en France à cause de la chaleur ?",
@@ -588,7 +588,7 @@
    "terms_left": [
     "morts",
     "personnes",
-    "chaleurs"
+    "données"
    ],
    "terms_right": [
     "ans",
@@ -613,7 +613,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.483,
+   "divergence": 0.482,
    "category": "sport",
    "terms_left": [
     "monde angleterre",
@@ -624,6 +624,36 @@
     "finale",
     "millions",
     "pays"
+   ]
+  },
+  {
+   "title": "Incendie en Gironde: le feu a parcouru au moins 3.400 hectares",
+   "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
+   "n_members": 115,
+   "n_sources": 25,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.443,
+   "category": "environnement",
+   "terms_left": [
+    "france",
+    "touristes",
+    "hectares brûlés"
+   ],
+   "terms_right": [
+    "feu",
+    "lège-cap-ferret",
+    "images"
    ]
   },
   {
@@ -764,8 +794,8 @@
    ],
    "terms_right": [
     "trump accuse",
-    "donald trump",
-    "donald"
+    "donald",
+    "donald trump"
    ]
   },
   {
@@ -791,36 +821,6 @@
    "terms_right": []
   },
   {
-   "title": "Incendie en Gironde: le feu a parcouru au moins 3.400 hectares",
-   "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 106,
-   "n_sources": 24,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.447,
-   "category": "environnement",
-   "terms_left": [
-    "france",
-    "hectares brûlés",
-    "feux"
-   ],
-   "terms_right": [
-    "feu",
-    "lège-cap-ferret",
-    "images"
-   ]
-  },
-  {
    "title": "Coupe du monde 2030 : vers un mondial à 64 équipes ?",
    "url": "https://www.cnews.fr/france/2026-07-18/unesco-comment-labsence-du-mot-cathare-perturbe-la-candidature-des-7",
    "n_members": 62,
@@ -837,7 +837,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.78,
+   "divergence": 0.782,
    "category": "sport",
    "terms_left": [
     "équipes",
@@ -846,8 +846,8 @@
    ],
    "terms_right": [
     "mondial",
-    "football",
-    "sud"
+    "sud",
+    "football"
    ]
   },
   {
@@ -897,7 +897,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.747,
+   "divergence": 0.75,
    "category": "société",
    "terms_left": [
     "projet",
@@ -973,7 +973,7 @@
   {
    "title": "Incendie dans le Var: le feu progresse à \"une vitesse très importante\", près de 900 pompiers sont mobilisés",
    "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
-   "n_members": 228,
+   "n_members": 229,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -987,7 +987,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.482,
+   "divergence": 0.484,
    "category": "environnement",
    "terms_left": [
     "hectares brûlés",
@@ -1047,12 +1047,12 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.638,
+   "divergence": 0.64,
    "category": "sport",
    "terms_left": [
+    "monde",
     "argentines",
-    "malouines argentines",
-    "monde"
+    "malouines argentines"
    ],
    "terms_right": [
     "messi",
