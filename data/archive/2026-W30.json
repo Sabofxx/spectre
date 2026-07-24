@@ -1,13 +1,13 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-24T05:02:34+00:00",
+ "generated_at": "2026-07-24T07:45:42+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "L’interdiction des réseaux sociaux aux mineurs de moins de 15 ans… On vous explique !",
    "url": "https://www.causeur.fr/voile-islamique-linterdiction-piege-a-cons-le-pen-bardella-rn-330692",
-   "n_members": 129,
+   "n_members": 132,
    "n_sources": 42,
    "counts": {
     "left": 10,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.13,
    "blindspot_for": null,
-   "divergence": 0.211,
+   "divergence": 0.207,
    "category": "politique",
    "terms_left": [
     "qu",
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.048,
    "blindspot_for": null,
-   "divergence": 0.204,
+   "divergence": 0.207,
    "category": "politique",
    "terms_left": [
     "duplomb",
-    "droite",
-    "loi duplomb"
+    "texte",
+    "parlementaires"
    ],
    "terms_right": [
     "projet loi",
@@ -81,16 +81,16 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.283,
+   "divergence": 0.276,
    "category": "environnement",
    "terms_left": [
     "direct canicule",
     "canicule",
-    "faune"
+    "qu"
    ],
    "terms_right": [
-    "incendie",
     "incendie forêt",
+    "incendie",
     "incendie fontainebleau"
    ]
   },
@@ -115,8 +115,8 @@
    "category": "international",
    "terms_left": [
     "street",
-    "downing street",
-    "downing"
+    "downing",
+    "downing street"
    ],
    "terms_right": [
     "britannique",
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.15,
+   "divergence": 0.149,
    "category": "politique",
    "terms_left": [
     "désaccord loi",
@@ -187,7 +187,7 @@
   {
    "title": "EN DIRECT – Moyen-Orient: les États-Unis bombardent l'Iran, la défense antiaérienne activée à Téhéran",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 429,
+   "n_members": 432,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -215,9 +215,9 @@
    ]
   },
   {
-   "title": "Canicule : voici les 4 départements placés en vigilance orange ce mercredi",
+   "title": "Canicule : voici les 14 départements placés en vigilance jaune ce mercredi",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 324,
+   "n_members": 328,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -231,12 +231,12 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.338,
+   "divergence": 0.346,
    "category": "environnement",
    "terms_left": [
     "direct",
-    "direct canicule",
-    "troisième"
+    "rouge",
+    "direct canicule"
    ],
    "terms_right": [
     "placés",
@@ -247,7 +247,7 @@
   {
    "title": "LFI : Barbara Butch porte plainte après l'interruption de son concert à Grenoble",
    "url": "https://www.europe1.fr/international/un-homme-a-failli-etre-aspire-hors-dun-vol-ryanair-au-depart-de-grece-970086",
-   "n_members": 157,
+   "n_members": 160,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -261,12 +261,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.195,
+   "divergence": 0.197,
    "category": "culture",
    "terms_left": [
     "boycott",
-    "interrompre",
-    "droite"
+    "droite",
+    "interrompu barbara"
    ],
    "terms_right": [
     "dj barbara",
@@ -277,7 +277,7 @@
   {
    "title": "Narcotrafic : le maire d'Alès exfiltré après une série de menaces",
    "url": "https://www.leprogres.fr/faits-divers-justice/2026/07/16/le-maire-d-ales-recoit-deux-balles-de-9-mm-signees-dz-mafia",
-   "n_members": 117,
+   "n_members": 119,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -307,7 +307,7 @@
   {
    "title": "DÉCRYPTAGE. \"L'Odyssée\" : pourquoi le film de Christopher Nolan est le phénomène cinéma de l'été que tous les Français veulent voir",
    "url": "https://www.mediapart.fr/journal/culture-et-idees/110726/l-odyssee-sort-au-cinema-et-ravive-la-question-de-la-race-sous-l-antiquite",
-   "n_members": 78,
+   "n_members": 79,
    "n_sources": 29,
    "counts": {
     "left": 10,
@@ -321,17 +321,47 @@
    },
    "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.28,
+   "divergence": 0.279,
    "category": "culture",
    "terms_left": [
-    "voir",
+    "odyssée",
     "cinéma",
-    "public"
+    "voir"
    ],
    "terms_right": [
+    "france",
     "meilleur démarrage",
-    "démarrage",
-    "meilleur"
+    "entrées"
+   ]
+  },
+  {
+   "title": "EN DIRECT - Incendies : en Gironde, évacuation en cours de la presqu’île du Cap Ferret face au feu qui a parcouru 8 700 hectares",
+   "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
+   "n_members": 145,
+   "n_sources": 28,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.384,
+   "category": "environnement",
+   "terms_left": [
+    "reportage",
+    "intense",
+    "hectares"
+   ],
+   "terms_right": [
+    "feu",
+    "lège-cap-ferret",
+    "images"
    ]
   },
   {
@@ -351,23 +381,23 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.396,
+   "divergence": 0.399,
    "category": "politique",
    "terms_left": [
     "sénat",
-    "crimes",
-    "assemblée nationale"
+    "rejetée",
+    "crimes"
    ],
    "terms_right": [
-    "ans",
     "députés",
+    "ans",
     "mineurs ans"
    ]
   },
   {
    "title": "Union européenne : 890 millions d'euros d'amendes infligées à Google, au risque d'irriter Trump",
    "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/le-club-de-la-bourse-alphabet-google-publie-ses-resultats-ce-soir-22-07_EN-202607220223.html",
-   "n_members": 65,
+   "n_members": 66,
    "n_sources": 28,
    "counts": {
     "left": 5,
@@ -381,7 +411,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.625,
+   "divergence": 0.616,
    "category": "sciences-tech",
    "terms_left": [
     "géant",
@@ -391,13 +421,13 @@
    "terms_right": [
     "émission",
     "américains",
-    "kimi"
+    "club"
    ]
   },
   {
    "title": "Tarn. Mort de Delphine Aussaguel : le procès en appel de Cédric Jubillar renvoyé au « premier semestre 2027 »",
    "url": "https://www.leparisien.fr/video/actualites/faits-divers/affaire-delphine-jubillar-des-ossements-non-identifies-decouverts-16-07-2026-CDYSBQ7GCBEYZPOQF6DFVKENUQ.php",
-   "n_members": 305,
+   "n_members": 306,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -411,12 +441,12 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.285,
+   "divergence": 0.284,
    "category": "faits-divers",
    "terms_left": [
+    "tarn",
     "delphine aussaguel",
-    "aussaguel",
-    "tarn"
+    "aussaguel"
    ],
    "terms_right": [
     "jubillar",
@@ -477,6 +507,36 @@
    ]
   },
   {
+   "title": "Fronde étudiante en Inde: Modi promet de punir les fraudeurs, les manifestants persistent",
+   "url": "https://www.lejdd.fr/International/royaume-uni-nigel-farage-face-au-comte-tete-de-poubelle-lors-dune-legislative-partielle-178632",
+   "n_members": 77,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.681,
+   "category": "international",
+   "terms_left": [
+    "inde",
+    "delhi",
+    "ministre"
+   ],
+   "terms_right": [
+    "national",
+    "marine pen",
+    "pen"
+   ]
+  },
+  {
    "title": "Incendies : jamais, en 20 ans de mesures, autant de surfaces n’ont brûlé en France à la mi-juillet",
    "url": "https://www.nicematin.com/societe/vie-locale/ou-est-l-inflexion-promise-pourquoi-le-budget-supplementaire-de-la-ville-d-antibes-a-fait-debat-10689044",
    "n_members": 72,
@@ -523,7 +583,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.703,
+   "divergence": 0.698,
    "category": "économie",
    "terms_left": [
     "guerre moyen-orient",
@@ -532,8 +592,8 @@
    ],
    "terms_right": [
     "carburants",
-    "prix carburants",
-    "hausse"
+    "hausse",
+    "face"
    ]
   },
   {
@@ -553,7 +613,7 @@
    },
    "blindspot_score": -0.2,
    "blindspot_for": null,
-   "divergence": 0.231,
+   "divergence": 0.239,
    "category": "politique",
    "terms_left": [
     "nouveau",
@@ -561,9 +621,9 @@
     "personnes"
    ],
    "terms_right": [
-    "proposé",
     "emmanuel macron",
-    "emmanuel"
+    "emmanuel",
+    "macron"
    ]
   },
   {
@@ -613,7 +673,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.482,
+   "divergence": 0.481,
    "category": "sport",
    "terms_left": [
     "monde angleterre",
@@ -624,36 +684,6 @@
     "finale",
     "millions",
     "pays"
-   ]
-  },
-  {
-   "title": "Incendie en Gironde: le feu a parcouru au moins 3.400 hectares",
-   "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 127,
-   "n_sources": 25,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.425,
-   "category": "environnement",
-   "terms_left": [
-    "france",
-    "touristes",
-    "heures"
-   ],
-   "terms_right": [
-    "feu",
-    "lège-cap-ferret",
-    "images"
    ]
   },
   {
@@ -707,36 +737,6 @@
    "category": "international",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Inde: le \"parti des cafards\" poursuit sa mobilisation pour obtenir le renvoi du ministre de l'Education",
-   "url": "https://www.lejdd.fr/International/royaume-uni-nigel-farage-face-au-comte-tete-de-poubelle-lors-dune-legislative-partielle-178632",
-   "n_members": 73,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 14,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.693,
-   "category": "international",
-   "terms_left": [
-    "inde",
-    "delhi",
-    "manifestation"
-   ],
-   "terms_right": [
-    "national",
-    "marine pen",
-    "pen"
-   ]
   },
   {
    "title": "Le Livret A jamais autant boudé au premier semestre depuis 2008",
@@ -799,6 +799,36 @@
    ]
   },
   {
+   "title": "Incendies : la France sollicite l'aide de l'UE face à des feux hors de contrôle",
+   "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/capacites-de-largage-importantes-pilotage-difficile-on-vous-presente-l-a400m-avion-militaire-transforme-pour-lutter-contre-les-incendies_8114822.html",
+   "n_members": 66,
+   "n_sources": 25,
+   "counts": {
+    "left": 3,
+    "centre": 15,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 5,
+    "opinion": 4
+   },
+   "blindspot_score": 0.4,
+   "blindspot_for": null,
+   "divergence": 0.795,
+   "category": "environnement",
+   "terms_left": [
+    "bilan",
+    "mapbiomas",
+    "fontainebleau"
+   ],
+   "terms_right": [
+    "france",
+    "face",
+    "feux"
+   ]
+  },
+  {
    "title": "Polymarket : le site de paris sur l'actualité désormais interdit en France",
    "url": "https://lcp.fr/actualites/une-frontiere-francaise-va-etre-modifiee-pour-la-premiere-fois-depuis-pres-de-400-ans",
    "n_members": 61,
@@ -821,6 +851,28 @@
    "terms_right": []
   },
   {
+   "title": "États-Unis - Arabie saoudite : un accord sur le nucléaire civil",
+   "url": "http://fr.euronews.com/my-europe/2026/07/20/impact-imprevu-selon-la-nasa-des-debris-de-fusee-spacex-pourraient-heurter-la-lune",
+   "n_members": 66,
+   "n_sources": 24,
+   "counts": {
+    "left": 2,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 6,
+    "opinion": 1
+   },
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Coupe du monde 2030 : vers un mondial à 64 équipes ?",
    "url": "https://www.cnews.fr/france/2026-07-18/unesco-comment-labsence-du-mot-cathare-perturbe-la-candidature-des-7",
    "n_members": 62,
@@ -837,17 +889,17 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.782,
+   "divergence": 0.783,
    "category": "sport",
    "terms_left": [
-    "équipes",
     "questions",
+    "équipes",
     "infantino"
    ],
    "terms_right": [
     "mondial",
     "sud",
-    "ans"
+    "qu"
    ]
   },
   {
@@ -878,36 +930,6 @@
     "canadair",
     "présidentielle",
     "qu"
-   ]
-  },
-  {
-   "title": "Incendies de forêt : la France, l'Espagne et l'Italie en proie aux flammes",
-   "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/capacites-de-largage-importantes-pilotage-difficile-on-vous-presente-l-a400m-avion-militaire-transforme-pour-lutter-contre-les-incendies_8114822.html",
-   "n_members": 60,
-   "n_sources": 24,
-   "counts": {
-    "left": 3,
-    "centre": 15,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.83,
-   "category": "environnement",
-   "terms_left": [
-    "pays",
-    "macron",
-    "européenne"
-   ],
-   "terms_right": [
-    "france",
-    "face",
-    "feux"
    ]
   },
   {
@@ -1003,7 +1025,7 @@
   {
    "title": "Incendie dans le Var: le feu progresse à \"une vitesse très importante\", près de 900 pompiers sont mobilisés",
    "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
-   "n_members": 235,
+   "n_members": 237,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1017,7 +1039,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.483,
+   "divergence": 0.484,
    "category": "environnement",
    "terms_left": [
     "hectares brûlés",
@@ -1061,9 +1083,9 @@
    ]
   },
   {
-   "title": "L’Espagne remporte sa deuxième Coupe du monde après une victoire “amplement méritée” face à l’Argentine",
+   "title": "« Seuls les lâches jouent en reculant » : le discours marquant de Messi et Martinez lors de la finale contre l’Espagne",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/pour-les-malouines-40-ans-apres-la-guerre-encore-source-de-tensions-avant-la-demi-finale-angleterre-argentine-12-07-2026-HBFWGZHZEFDUZENYFGSPTQN4FI.php",
-   "n_members": 141,
+   "n_members": 142,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -1077,7 +1099,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.639,
+   "divergence": 0.638,
    "category": "sport",
    "terms_left": [
     "argentines",
@@ -1115,7 +1137,7 @@
   {
    "title": "Deux pompiers morts \"piégés\" par les flammes, feu fixé... Ce que l'on sait de l'incendie de Mérignac en Gironde",
    "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/en-images-un-violent-incendie-se-declare-pres-de-l-aeroport-de-bordeaux-merignac-3389914.html",
-   "n_members": 74,
+   "n_members": 76,
    "n_sources": 23,
    "counts": {
     "left": 3,
@@ -1129,7 +1151,7 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.658,
+   "divergence": 0.659,
    "category": "environnement",
    "terms_left": [
     "moyens",
@@ -1140,36 +1162,6 @@
     "mérignac",
     "incendie",
     "sapeurs-pompiers"
-   ]
-  },
-  {
-   "title": "Coupe du monde : “lisse” et “surchargé”, le concert de la mi-temps n’a pas fait l’unanimité",
-   "url": "https://information.tv5monde.com/international/gibraltar-la-fin-des-controles-la-frontiere-marque-une-nouvelle-ere-2830154",
-   "n_members": 67,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.848,
-   "category": "sport",
-   "terms_left": [
-    "ans",
-    "guerre",
-    "espagne"
-   ],
-   "terms_right": [
-    "espagne-argentine",
-    "gibraltar",
-    "mondial"
    ]
   }
  ]
