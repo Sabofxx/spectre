@@ -1,13 +1,13 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-24T10:09:36+00:00",
+ "generated_at": "2026-07-24T12:01:05+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "L’interdiction des réseaux sociaux aux mineurs de moins de 15 ans… On vous explique !",
    "url": "https://www.causeur.fr/voile-islamique-linterdiction-piege-a-cons-le-pen-bardella-rn-330692",
-   "n_members": 137,
+   "n_members": 138,
    "n_sources": 43,
    "counts": {
     "left": 11,
@@ -21,11 +21,11 @@
    },
    "blindspot_score": 0.083,
    "blindspot_for": null,
-   "divergence": 0.192,
+   "divergence": 0.188,
    "category": "politique",
    "terms_left": [
-    "interdiction réseaux",
     "qu",
+    "interdiction réseaux",
     "partir"
    ],
    "terms_right": [
@@ -37,30 +37,30 @@
   {
    "title": "Le Parlement adopte définitivement la loi d’urgence agricole, avec son volet sur les pesticides",
    "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
-   "n_members": 190,
-   "n_sources": 36,
+   "n_members": 195,
+   "n_sources": 37,
    "counts": {
-    "left": 10,
+    "left": 11,
     "centre": 15,
     "right": 11
    },
    "style_counts": {
     "factuel": 18,
-    "mixte": 13,
+    "mixte": 14,
     "opinion": 5
    },
-   "blindspot_score": 0.048,
+   "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.208,
+   "divergence": 0.213,
    "category": "politique",
    "terms_left": [
-    "parlementaires",
     "duplomb",
-    "loi"
+    "conseil constitutionnel",
+    "constitutionnel"
    ],
    "terms_right": [
-    "projet loi",
-    "projet",
+    "shemseddine",
+    "mort",
     "agriculteurs"
    ]
   },
@@ -111,12 +111,12 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.232,
+   "divergence": 0.231,
    "category": "international",
    "terms_left": [
     "street",
-    "downing street",
-    "downing"
+    "downing",
+    "downing street"
    ],
    "terms_right": [
     "britannique",
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.152,
+   "divergence": 0.146,
    "category": "politique",
    "terms_left": [
     "désaccord loi",
@@ -181,13 +181,13 @@
    "terms_right": [
     "écologique monique",
     "annoncé",
-    "projet"
+    "adoption"
    ]
   },
   {
    "title": "EN DIRECT – Moyen-Orient: les États-Unis bombardent l'Iran, la défense antiaérienne activée à Téhéran",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 433,
+   "n_members": 438,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.322,
+   "divergence": 0.319,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -209,9 +209,9 @@
     "conflit"
    ],
    "terms_right": [
-    "états-unis",
     "trump",
-    "donald trump"
+    "donald trump",
+    "donald"
    ]
   },
   {
@@ -247,7 +247,7 @@
   {
    "title": "LFI : Barbara Butch porte plainte après l'interruption de son concert à Grenoble",
    "url": "https://www.europe1.fr/international/un-homme-a-failli-etre-aspire-hors-dun-vol-ryanair-au-depart-de-grece-970086",
-   "n_members": 165,
+   "n_members": 171,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -261,16 +261,16 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.191,
+   "divergence": 0.177,
    "category": "culture",
    "terms_left": [
     "boycott",
-    "interrompu barbara",
-    "droite"
+    "droite",
+    "extrême"
    ],
    "terms_right": [
     "dj barbara",
-    "butch interrompu",
+    "jours",
     "scène"
    ]
   },
@@ -291,17 +291,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.144,
+   "divergence": 0.142,
    "category": "société",
    "terms_left": [
-    "reçu",
     "réclamant",
-    "réclamant dz"
+    "réclamant dz",
+    "ville"
    ],
    "terms_right": [
     "nuit",
     "domicile raid",
-    "exfiltré domicile"
+    "raid"
    ]
   },
   {
@@ -337,7 +337,7 @@
   {
    "title": "EN DIRECT - Incendies : en Gironde, évacuation en cours de la presqu’île du Cap Ferret face au feu qui a parcouru 8 700 hectares",
    "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 160,
+   "n_members": 166,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.369,
+   "divergence": 0.37,
    "category": "environnement",
    "terms_left": [
     "hectares",
@@ -381,23 +381,23 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.399,
+   "divergence": 0.409,
    "category": "politique",
    "terms_left": [
     "sénat",
-    "rejetée",
-    "crimes"
+    "crimes",
+    "imprescriptibilité"
    ],
    "terms_right": [
-    "députés",
     "ans",
+    "députés",
     "mineurs ans"
    ]
   },
   {
    "title": "Union européenne : 890 millions d'euros d'amendes infligées à Google, au risque d'irriter Trump",
    "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/le-club-de-la-bourse-alphabet-google-publie-ses-resultats-ce-soir-22-07_EN-202607220223.html",
-   "n_members": 66,
+   "n_members": 67,
    "n_sources": 28,
    "counts": {
     "left": 5,
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.617,
+   "divergence": 0.618,
    "category": "sciences-tech",
    "terms_left": [
     "géant",
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.284,
+   "divergence": 0.283,
    "category": "faits-divers",
    "terms_left": [
     "tarn",
@@ -452,6 +452,66 @@
     "jubillar",
     "cédric",
     "cédric jubillar"
+   ]
+  },
+  {
+   "title": "Fronde étudiante en Inde: Modi promet de punir les fraudeurs, les manifestants persistent",
+   "url": "https://www.lejdd.fr/International/royaume-uni-nigel-farage-face-au-comte-tete-de-poubelle-lors-dune-legislative-partielle-178632",
+   "n_members": 79,
+   "n_sources": 27,
+   "counts": {
+    "left": 6,
+    "centre": 15,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.672,
+   "category": "international",
+   "terms_left": [
+    "inde",
+    "cafards",
+    "mouvement"
+   ],
+   "terms_right": [
+    "marine",
+    "pen",
+    "marine pen"
+   ]
+  },
+  {
+   "title": "États-Unis - Arabie saoudite : un accord sur le nucléaire civil",
+   "url": "http://fr.euronews.com/my-europe/2026/07/20/impact-imprevu-selon-la-nasa-des-debris-de-fusee-spacex-pourraient-heurter-la-lune",
+   "n_members": 72,
+   "n_sources": 27,
+   "counts": {
+    "left": 4,
+    "centre": 14,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.596,
+   "category": "international",
+   "terms_left": [
+    "président",
+    "nouveaux",
+    "nouveaux droits"
+   ],
+   "terms_right": [
+    "états-unis",
+    "iran",
+    "washington"
    ]
   },
   {
@@ -523,7 +583,7 @@
    },
    "blindspot_score": -0.125,
    "blindspot_for": null,
-   "divergence": 0.223,
+   "divergence": 0.211,
    "category": "politique",
    "terms_left": [
     "poste défenseur",
@@ -534,36 +594,6 @@
     "macron",
     "emmanuel",
     "emmanuel macron"
-   ]
-  },
-  {
-   "title": "Fronde étudiante en Inde: Modi promet de punir les fraudeurs, les manifestants persistent",
-   "url": "https://www.lejdd.fr/International/royaume-uni-nigel-farage-face-au-comte-tete-de-poubelle-lors-dune-legislative-partielle-178632",
-   "n_members": 78,
-   "n_sources": 26,
-   "counts": {
-    "left": 6,
-    "centre": 14,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.675,
-   "category": "international",
-   "terms_left": [
-    "inde",
-    "delhi",
-    "ministre"
-   ],
-   "terms_right": [
-    "national",
-    "marine pen",
-    "pen"
    ]
   },
   {
@@ -583,7 +613,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.688,
+   "divergence": 0.702,
    "category": "environnement",
    "terms_left": [
     "canicule",
@@ -593,7 +623,7 @@
    "terms_right": [
     "face",
     "fin",
-    "hectares"
+    "état"
    ]
   },
   {
@@ -613,47 +643,17 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.696,
+   "divergence": 0.706,
    "category": "économie",
    "terms_left": [
     "guerre moyen-orient",
-    "guerre",
-    "etats-unis"
+    "etats-unis",
+    "hostilités"
    ],
    "terms_right": [
     "carburants",
-    "hausse",
+    "conflit",
     "prix carburants"
-   ]
-  },
-  {
-   "title": "États-Unis - Arabie saoudite : un accord sur le nucléaire civil",
-   "url": "http://fr.euronews.com/my-europe/2026/07/20/impact-imprevu-selon-la-nasa-des-debris-de-fusee-spacex-pourraient-heurter-la-lune",
-   "n_members": 69,
-   "n_sources": 26,
-   "counts": {
-    "left": 3,
-    "centre": 14,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.618,
-   "category": "international",
-   "terms_left": [
-    "surtaxes",
-    "pays",
-    "trump"
-   ],
-   "terms_right": [
-    "américain",
-    "iran",
-    "washington"
    ]
   },
   {
@@ -703,7 +703,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.481,
+   "divergence": 0.483,
    "category": "sport",
    "terms_left": [
     "monde angleterre",
@@ -785,7 +785,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.72,
+   "divergence": 0.719,
    "category": "économie",
    "terms_left": [
     "protection",
@@ -796,6 +796,36 @@
     "livret",
     "taux",
     "français"
+   ]
+  },
+  {
+   "title": "Incendies : la France sollicite l'aide de l'UE face à des feux hors de contrôle",
+   "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/capacites-de-largage-importantes-pilotage-difficile-on-vous-presente-l-a400m-avion-militaire-transforme-pour-lutter-contre-les-incendies_8114822.html",
+   "n_members": 69,
+   "n_sources": 25,
+   "counts": {
+    "left": 3,
+    "centre": 15,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 5,
+    "opinion": 4
+   },
+   "blindspot_score": 0.4,
+   "blindspot_for": null,
+   "divergence": 0.783,
+   "category": "environnement",
+   "terms_left": [
+    "fontainebleau",
+    "brésilienne",
+    "amazonie"
+   ],
+   "terms_right": [
+    "france",
+    "incendies",
+    "face"
    ]
   },
   {
@@ -826,36 +856,6 @@
     "trump accuse",
     "donald trump",
     "donald"
-   ]
-  },
-  {
-   "title": "Incendies : la France sollicite l'aide de l'UE face à des feux hors de contrôle",
-   "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/capacites-de-largage-importantes-pilotage-difficile-on-vous-presente-l-a400m-avion-militaire-transforme-pour-lutter-contre-les-incendies_8114822.html",
-   "n_members": 67,
-   "n_sources": 25,
-   "counts": {
-    "left": 3,
-    "centre": 15,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 5,
-    "opinion": 4
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.791,
-   "category": "environnement",
-   "terms_left": [
-    "brésilienne",
-    "bilan",
-    "fontainebleau"
-   ],
-   "terms_right": [
-    "france",
-    "face",
-    "incendies"
    ]
   },
   {
@@ -979,7 +979,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.772,
+   "divergence": 0.773,
    "category": "société",
    "terms_left": [
     "projet",
@@ -1025,7 +1025,7 @@
   {
    "title": "Affaire Epstein : Daniel Siad, rabatteur présumé du pédocriminel et accusé de viols à Cannes, retrouvé mort chez lui près de Paris",
    "url": "https://www.leprogres.fr/carnet-du-jour/2026/07/22/daniel-siad-rabatteur-presume-de-mannequins-pour-jeffrey-epstein-retrouve-mort-chez-lui",
-   "n_members": 51,
+   "n_members": 55,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -1039,7 +1039,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.325,
+   "divergence": 0.327,
    "category": "international",
    "terms_left": [
     "visé",
