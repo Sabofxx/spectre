@@ -1,6 +1,6 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-24T20:11:59+00:00",
+ "generated_at": "2026-07-24T21:35:40+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,17 +21,17 @@
    },
    "blindspot_score": 0.083,
    "blindspot_for": null,
-   "divergence": 0.139,
+   "divergence": 0.138,
    "category": "politique",
    "terms_left": [
-    "interdiction réseaux",
     "qu",
-    "mixte"
+    "vote",
+    "interdiction réseaux"
    ],
    "terms_right": [
+    "mineurs",
     "loi interdisant",
-    "interdisant",
-    "mineurs"
+    "interdisant"
    ]
   },
   {
@@ -97,7 +97,7 @@
   {
    "title": "Andy Burnham installe son Downing Street \"du Nord\" à Manchester",
    "url": "https://information.tv5monde.com/international/royaume-uni-andy-burnham-plebiscite-au-debut-de-la-course-la-succession-de-keir-starmer-2829528",
-   "n_members": 119,
+   "n_members": 120,
    "n_sources": 32,
    "counts": {
     "left": 8,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.23,
+   "divergence": 0.235,
    "category": "international",
    "terms_left": [
     "street",
@@ -151,13 +151,13 @@
    "terms_right": [
     "ukraine volodymyr",
     "morts",
-    "zelensky annonce"
+    "ukraine"
    ]
   },
   {
    "title": "EN DIRECT - Incendies : en Gironde, évacuation en cours de la presqu’île du Cap Ferret face au feu qui a parcouru 8 700 hectares",
    "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 228,
+   "n_members": 237,
    "n_sources": 30,
    "counts": {
     "left": 8,
@@ -171,12 +171,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.384,
+   "divergence": 0.399,
    "category": "environnement",
    "terms_left": [
     "touristes",
     "sud-ouest",
-    "hectares"
+    "reportage"
    ],
    "terms_right": [
     "feu",
@@ -247,7 +247,7 @@
   {
    "title": "EN DIRECT – Moyen-Orient: les États-Unis bombardent l'Iran, la défense antiaérienne activée à Téhéran",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 441,
+   "n_members": 442,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.315,
+   "divergence": 0.316,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.129,
+   "divergence": 0.13,
    "category": "société",
    "terms_left": [
     "ville",
@@ -422,6 +422,36 @@
     "ans",
     "députés",
     "série"
+   ]
+  },
+  {
+   "title": "Fraude aux examens, chômeurs stigmatisés... L'origine de la colère des jeunes membres du \"Parti des cafards\" en Inde",
+   "url": "https://www.lejdd.fr/International/royaume-uni-nigel-farage-face-au-comte-tete-de-poubelle-lors-dune-legislative-partielle-178632",
+   "n_members": 80,
+   "n_sources": 28,
+   "counts": {
+    "left": 6,
+    "centre": 15,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.659,
+   "category": "international",
+   "terms_left": [
+    "ministre",
+    "police",
+    "inde"
+   ],
+   "terms_right": [
+    "nigel farage",
+    "nigel",
+    "farage"
    ]
   },
   {
@@ -504,8 +534,8 @@
    "divergence": 0.285,
    "category": "faits-divers",
    "terms_left": [
-    "delphine aussaguel",
     "aussaguel",
+    "delphine aussaguel",
     "tarn"
    ],
    "terms_right": [
@@ -542,36 +572,6 @@
     "annonce",
     "face",
     "fin"
-   ]
-  },
-  {
-   "title": "Fronde étudiante en Inde: Modi promet de punir les fraudeurs, les manifestants persistent",
-   "url": "https://www.lejdd.fr/International/royaume-uni-nigel-farage-face-au-comte-tete-de-poubelle-lors-dune-legislative-partielle-178632",
-   "n_members": 79,
-   "n_sources": 27,
-   "counts": {
-    "left": 6,
-    "centre": 15,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.696,
-   "category": "international",
-   "terms_left": [
-    "inde",
-    "mouvement",
-    "cafards"
-   ],
-   "terms_right": [
-    "farage",
-    "nigel",
-    "nigel farage"
    ]
   },
   {
