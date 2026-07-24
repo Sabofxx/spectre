@@ -1,13 +1,13 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-24T12:01:05+00:00",
+ "generated_at": "2026-07-24T13:46:13+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "L’interdiction des réseaux sociaux aux mineurs de moins de 15 ans… On vous explique !",
    "url": "https://www.causeur.fr/voile-islamique-linterdiction-piege-a-cons-le-pen-bardella-rn-330692",
-   "n_members": 138,
+   "n_members": 139,
    "n_sources": 43,
    "counts": {
     "left": 11,
@@ -37,7 +37,7 @@
   {
    "title": "Le Parlement adopte définitivement la loi d’urgence agricole, avec son volet sur les pesticides",
    "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
-   "n_members": 195,
+   "n_members": 198,
    "n_sources": 37,
    "counts": {
     "left": 11,
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.213,
+   "divergence": 0.207,
    "category": "politique",
    "terms_left": [
     "duplomb",
-    "conseil constitutionnel",
-    "constitutionnel"
+    "devant",
+    "parlementaires"
    ],
    "terms_right": [
     "shemseddine",
@@ -115,8 +115,8 @@
    "category": "international",
    "terms_left": [
     "street",
-    "downing",
-    "downing street"
+    "downing street",
+    "downing"
    ],
    "terms_right": [
     "britannique",
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.49,
+   "divergence": 0.489,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -187,7 +187,7 @@
   {
    "title": "EN DIRECT – Moyen-Orient: les États-Unis bombardent l'Iran, la défense antiaérienne activée à Téhéran",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 438,
+   "n_members": 439,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.319,
+   "divergence": 0.314,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -209,15 +209,15 @@
     "conflit"
    ],
    "terms_right": [
-    "trump",
-    "donald trump",
-    "donald"
+    "états-unis",
+    "guerre moyen-orient",
+    "américaine"
    ]
   },
   {
    "title": "Canicule : voici les 14 départements placés en vigilance jaune ce mercredi",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 328,
+   "n_members": 329,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -245,9 +245,39 @@
    ]
   },
   {
+   "title": "EN DIRECT - Incendies : en Gironde, évacuation en cours de la presqu’île du Cap Ferret face au feu qui a parcouru 8 700 hectares",
+   "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
+   "n_members": 180,
+   "n_sources": 29,
+   "counts": {
+    "left": 8,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 11,
+    "opinion": 4
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.359,
+   "category": "environnement",
+   "terms_left": [
+    "touristes",
+    "hectares",
+    "reportage"
+   ],
+   "terms_right": [
+    "feu",
+    "lège-cap-ferret",
+    "nuit"
+   ]
+  },
+  {
    "title": "LFI : Barbara Butch porte plainte après l'interruption de son concert à Grenoble",
    "url": "https://www.europe1.fr/international/un-homme-a-failli-etre-aspire-hors-dun-vol-ryanair-au-depart-de-grece-970086",
-   "n_members": 171,
+   "n_members": 174,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -261,17 +291,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.177,
+   "divergence": 0.171,
    "category": "culture",
    "terms_left": [
-    "boycott",
     "droite",
-    "extrême"
+    "extrême",
+    "extrême droite"
    ],
    "terms_right": [
     "dj barbara",
     "jours",
-    "scène"
+    "qu"
    ]
   },
   {
@@ -291,12 +321,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.142,
+   "divergence": 0.131,
    "category": "société",
    "terms_left": [
     "réclamant",
     "réclamant dz",
-    "ville"
+    "habitants"
    ],
    "terms_right": [
     "nuit",
@@ -321,7 +351,7 @@
    },
    "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.279,
+   "divergence": 0.282,
    "category": "culture",
    "terms_left": [
     "odyssée",
@@ -330,38 +360,8 @@
    ],
    "terms_right": [
     "france",
-    "meilleur démarrage",
-    "entrées"
-   ]
-  },
-  {
-   "title": "EN DIRECT - Incendies : en Gironde, évacuation en cours de la presqu’île du Cap Ferret face au feu qui a parcouru 8 700 hectares",
-   "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 166,
-   "n_sources": 28,
-   "counts": {
-    "left": 7,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 10,
-    "opinion": 4
-   },
-   "blindspot_score": 0.067,
-   "blindspot_for": null,
-   "divergence": 0.37,
-   "category": "environnement",
-   "terms_left": [
-    "hectares",
-    "touristes",
-    "reportage"
-   ],
-   "terms_right": [
-    "feu",
-    "lège-cap-ferret",
-    "images"
+    "démarrage",
+    "meilleur"
    ]
   },
   {
@@ -397,7 +397,7 @@
   {
    "title": "Union européenne : 890 millions d'euros d'amendes infligées à Google, au risque d'irriter Trump",
    "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/le-club-de-la-bourse-alphabet-google-publie-ses-resultats-ce-soir-22-07_EN-202607220223.html",
-   "n_members": 67,
+   "n_members": 68,
    "n_sources": 28,
    "counts": {
     "left": 5,
@@ -441,17 +441,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.283,
+   "divergence": 0.285,
    "category": "faits-divers",
    "terms_left": [
-    "tarn",
     "delphine aussaguel",
-    "aussaguel"
+    "aussaguel",
+    "tarn"
    ],
    "terms_right": [
     "jubillar",
     "cédric",
-    "cédric jubillar"
+    "avocat"
    ]
   },
   {
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.672,
+   "divergence": 0.677,
    "category": "international",
    "terms_left": [
     "inde",
@@ -485,9 +485,39 @@
    ]
   },
   {
+   "title": "Incendies de forêt : 2026 s’annonce déjà comme une année record en France",
+   "url": "https://www.nicematin.com/societe/vie-locale/ou-est-l-inflexion-promise-pourquoi-le-budget-supplementaire-de-la-ville-d-antibes-a-fait-debat-10689044",
+   "n_members": 79,
+   "n_sources": 27,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.696,
+   "category": "environnement",
+   "terms_left": [
+    "canicule",
+    "risque",
+    "début"
+   ],
+   "terms_right": [
+    "face",
+    "fin",
+    "fois"
+   ]
+  },
+  {
    "title": "États-Unis - Arabie saoudite : un accord sur le nucléaire civil",
    "url": "http://fr.euronews.com/my-europe/2026/07/20/impact-imprevu-selon-la-nasa-des-debris-de-fusee-spacex-pourraient-heurter-la-lune",
-   "n_members": 72,
+   "n_members": 73,
    "n_sources": 27,
    "counts": {
     "left": 4,
@@ -583,47 +613,17 @@
    },
    "blindspot_score": -0.125,
    "blindspot_for": null,
-   "divergence": 0.211,
+   "divergence": 0.2,
    "category": "politique",
    "terms_left": [
-    "poste défenseur",
-    "inquiète",
-    "nouveau"
+    "nomination",
+    "nouveau",
+    "inquiète"
    ],
    "terms_right": [
-    "macron",
-    "emmanuel",
-    "emmanuel macron"
-   ]
-  },
-  {
-   "title": "Incendies : jamais, en 20 ans de mesures, autant de surfaces n’ont brûlé en France à la mi-juillet",
-   "url": "https://www.nicematin.com/societe/vie-locale/ou-est-l-inflexion-promise-pourquoi-le-budget-supplementaire-de-la-ville-d-antibes-a-fait-debat-10689044",
-   "n_members": 76,
-   "n_sources": 26,
-   "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.702,
-   "category": "environnement",
-   "terms_left": [
-    "canicule",
-    "risque",
-    "départements"
-   ],
-   "terms_right": [
-    "face",
-    "fin",
-    "état"
+    "nommé",
+    "nommé défenseur",
+    "macron"
    ]
   },
   {
@@ -648,7 +648,7 @@
    "terms_left": [
     "guerre moyen-orient",
     "etats-unis",
-    "hostilités"
+    "doublé"
    ],
    "terms_right": [
     "carburants",
@@ -703,7 +703,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.483,
+   "divergence": 0.482,
    "category": "sport",
    "terms_left": [
     "monde angleterre",
@@ -801,7 +801,7 @@
   {
    "title": "Incendies : la France sollicite l'aide de l'UE face à des feux hors de contrôle",
    "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/capacites-de-largage-importantes-pilotage-difficile-on-vous-presente-l-a400m-avion-militaire-transforme-pour-lutter-contre-les-incendies_8114822.html",
-   "n_members": 69,
+   "n_members": 70,
    "n_sources": 25,
    "counts": {
     "left": 3,
@@ -989,7 +989,7 @@
    "terms_right": [
     "grippe",
     "autorité",
-    "mesure"
+    "autorité santé"
    ]
   },
   {
@@ -1023,9 +1023,9 @@
    ]
   },
   {
-   "title": "Affaire Epstein : Daniel Siad, rabatteur présumé du pédocriminel et accusé de viols à Cannes, retrouvé mort chez lui près de Paris",
+   "title": "Daniel Siad, rabatteur présumé du pédocriminel Jeffrey Epstein, retrouvé mort chez lui dans les Hauts-de-Seine",
    "url": "https://www.leprogres.fr/carnet-du-jour/2026/07/22/daniel-siad-rabatteur-presume-de-mannequins-pour-jeffrey-epstein-retrouve-mort-chez-lui",
-   "n_members": 55,
+   "n_members": 56,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -1039,12 +1039,12 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.327,
+   "divergence": 0.322,
    "category": "international",
    "terms_left": [
     "visé",
     "viols",
-    "pédocriminel jeffrey"
+    "ancien"
    ],
    "terms_right": [
     "femmes",
@@ -1069,7 +1069,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.485,
+   "divergence": 0.486,
    "category": "environnement",
    "terms_left": [
     "hectares brûlés",
