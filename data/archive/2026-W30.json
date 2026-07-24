@@ -1,6 +1,6 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-24T13:46:13+00:00",
+ "generated_at": "2026-07-24T15:22:36+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.083,
    "blindspot_for": null,
-   "divergence": 0.188,
+   "divergence": 0.18,
    "category": "politique",
    "terms_left": [
     "qu",
     "interdiction réseaux",
-    "partir"
+    "plateformes"
    ],
    "terms_right": [
     "loi interdisant",
@@ -37,7 +37,7 @@
   {
    "title": "Le Parlement adopte définitivement la loi d’urgence agricole, avec son volet sur les pesticides",
    "url": "https://www.europe1.fr/police-justice/info-europe-1-mort-de-shemseddine-a-viry-chatillon-sur-fond-de-vide-juridique-les-deux-derniers-suspects-incarceres-remis-en-liberte-970218",
-   "n_members": 198,
+   "n_members": 199,
    "n_sources": 37,
    "counts": {
     "left": 11,
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.207,
+   "divergence": 0.197,
    "category": "politique",
    "terms_left": [
     "duplomb",
-    "devant",
-    "parlementaires"
+    "parlementaires",
+    "agricole adoptée"
    ],
    "terms_right": [
     "shemseddine",
@@ -115,8 +115,8 @@
    "category": "international",
    "terms_left": [
     "street",
-    "downing street",
-    "downing"
+    "downing",
+    "downing street"
    ],
    "terms_right": [
     "britannique",
@@ -155,6 +155,36 @@
    ]
   },
   {
+   "title": "EN DIRECT - Incendies : en Gironde, évacuation en cours de la presqu’île du Cap Ferret face au feu qui a parcouru 8 700 hectares",
+   "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
+   "n_members": 190,
+   "n_sources": 30,
+   "counts": {
+    "left": 8,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 11,
+    "opinion": 4
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.355,
+   "category": "environnement",
+   "terms_left": [
+    "touristes",
+    "intense",
+    "hectares"
+   ],
+   "terms_right": [
+    "feu",
+    "lège-cap-ferret",
+    "nuit"
+   ]
+  },
+  {
    "title": "La ministre de la Transition écologique Monique Barbut va présenter sa démission d’ici le Conseil des ministres mercredi",
    "url": "https://www.lemonde.fr/planete/article/2026/07/20/loi-d-urgence-agricole-ce-texte-consacre-la-primaute-absolue-des-usages-agricoles-de-l-eau-sur-les-besoins-des-autres-usagers_6726706_3244.html",
    "n_members": 123,
@@ -171,7 +201,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.146,
+   "divergence": 0.144,
    "category": "politique",
    "terms_left": [
     "désaccord loi",
@@ -231,7 +261,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.346,
+   "divergence": 0.35,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -245,39 +275,9 @@
    ]
   },
   {
-   "title": "EN DIRECT - Incendies : en Gironde, évacuation en cours de la presqu’île du Cap Ferret face au feu qui a parcouru 8 700 hectares",
-   "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 180,
-   "n_sources": 29,
-   "counts": {
-    "left": 8,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 11,
-    "opinion": 4
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.359,
-   "category": "environnement",
-   "terms_left": [
-    "touristes",
-    "hectares",
-    "reportage"
-   ],
-   "terms_right": [
-    "feu",
-    "lège-cap-ferret",
-    "nuit"
-   ]
-  },
-  {
    "title": "LFI : Barbara Butch porte plainte après l'interruption de son concert à Grenoble",
    "url": "https://www.europe1.fr/international/un-homme-a-failli-etre-aspire-hors-dun-vol-ryanair-au-depart-de-grece-970086",
-   "n_members": 174,
+   "n_members": 175,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.171,
+   "divergence": 0.17,
    "category": "culture",
    "terms_left": [
     "droite",
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.131,
+   "divergence": 0.13,
    "category": "société",
    "terms_left": [
     "réclamant",
@@ -351,7 +351,7 @@
    },
    "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.282,
+   "divergence": 0.283,
    "category": "culture",
    "terms_left": [
     "odyssée",
@@ -362,6 +362,36 @@
     "france",
     "démarrage",
     "meilleur"
+   ]
+  },
+  {
+   "title": "Union européenne : 890 millions d'euros d'amendes infligées à Google, au risque d'irriter Trump",
+   "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/le-club-de-la-bourse-alphabet-google-publie-ses-resultats-ce-soir-22-07_EN-202607220223.html",
+   "n_members": 69,
+   "n_sources": 29,
+   "counts": {
+    "left": 5,
+    "centre": 14,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.609,
+   "category": "économie",
+   "terms_left": [
+    "géant",
+    "france",
+    "commission"
+   ],
+   "terms_right": [
+    "émission",
+    "américains",
+    "europe"
    ]
   },
   {
@@ -381,47 +411,17 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.409,
+   "divergence": 0.41,
    "category": "politique",
    "terms_left": [
     "sénat",
     "crimes",
-    "imprescriptibilité"
+    "perpétuité viols"
    ],
    "terms_right": [
     "ans",
     "députés",
     "mineurs ans"
-   ]
-  },
-  {
-   "title": "Union européenne : 890 millions d'euros d'amendes infligées à Google, au risque d'irriter Trump",
-   "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/le-club-de-la-bourse-alphabet-google-publie-ses-resultats-ce-soir-22-07_EN-202607220223.html",
-   "n_members": 68,
-   "n_sources": 28,
-   "counts": {
-    "left": 5,
-    "centre": 14,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.618,
-   "category": "sciences-tech",
-   "terms_left": [
-    "géant",
-    "france",
-    "total"
-   ],
-   "terms_right": [
-    "émission",
-    "américains",
-    "club"
    ]
   },
   {
@@ -455,6 +455,36 @@
    ]
   },
   {
+   "title": "Incendies de forêt : 2026 s’annonce déjà comme une année record en France",
+   "url": "https://www.nicematin.com/societe/vie-locale/ou-est-l-inflexion-promise-pourquoi-le-budget-supplementaire-de-la-ville-d-antibes-a-fait-debat-10689044",
+   "n_members": 80,
+   "n_sources": 27,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.689,
+   "category": "environnement",
+   "terms_left": [
+    "canicule",
+    "risque",
+    "wauquiez"
+   ],
+   "terms_right": [
+    "face",
+    "fois",
+    "fin"
+   ]
+  },
+  {
    "title": "Fronde étudiante en Inde: Modi promet de punir les fraudeurs, les manifestants persistent",
    "url": "https://www.lejdd.fr/International/royaume-uni-nigel-farage-face-au-comte-tete-de-poubelle-lors-dune-legislative-partielle-178632",
    "n_members": 79,
@@ -471,7 +501,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.677,
+   "divergence": 0.691,
    "category": "international",
    "terms_left": [
     "inde",
@@ -479,39 +509,9 @@
     "mouvement"
    ],
    "terms_right": [
-    "marine",
     "pen",
+    "marine",
     "marine pen"
-   ]
-  },
-  {
-   "title": "Incendies de forêt : 2026 s’annonce déjà comme une année record en France",
-   "url": "https://www.nicematin.com/societe/vie-locale/ou-est-l-inflexion-promise-pourquoi-le-budget-supplementaire-de-la-ville-d-antibes-a-fait-debat-10689044",
-   "n_members": 79,
-   "n_sources": 27,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.696,
-   "category": "environnement",
-   "terms_left": [
-    "canicule",
-    "risque",
-    "début"
-   ],
-   "terms_right": [
-    "face",
-    "fin",
-    "fois"
    ]
   },
   {
@@ -531,7 +531,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.596,
+   "divergence": 0.599,
    "category": "international",
    "terms_left": [
     "président",
@@ -542,6 +542,36 @@
     "états-unis",
     "iran",
     "washington"
+   ]
+  },
+  {
+   "title": "Guerre au Moyen-Orient : TotalEnergies relance son opération de plafonnement du prix des carburants",
+   "url": "https://information.tv5monde.com/international/plus-dessence-pas-de-patience-dans-la-province-russe-lhorrible-penurie-de-carburants-2830668",
+   "n_members": 70,
+   "n_sources": 27,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 9,
+    "opinion": 1
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.699,
+   "category": "économie",
+   "terms_left": [
+    "bénéfices",
+    "guerre moyen-orient",
+    "guerre"
+   ],
+   "terms_right": [
+    "carburants",
+    "conflit",
+    "prix carburants"
    ]
   },
   {
@@ -613,47 +643,17 @@
    },
    "blindspot_score": -0.125,
    "blindspot_for": null,
-   "divergence": 0.2,
+   "divergence": 0.202,
    "category": "politique",
    "terms_left": [
-    "nomination",
     "nouveau",
-    "inquiète"
+    "nomination",
+    "urgence"
    ],
    "terms_right": [
     "nommé",
     "nommé défenseur",
     "macron"
-   ]
-  },
-  {
-   "title": "Guerre au Moyen-Orient : TotalEnergies relance son opération de plafonnement du prix des carburants",
-   "url": "https://information.tv5monde.com/international/plus-dessence-pas-de-patience-dans-la-province-russe-lhorrible-penurie-de-carburants-2830668",
-   "n_members": 69,
-   "n_sources": 26,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 8,
-    "opinion": 1
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.706,
-   "category": "économie",
-   "terms_left": [
-    "guerre moyen-orient",
-    "etats-unis",
-    "doublé"
-   ],
-   "terms_right": [
-    "carburants",
-    "conflit",
-    "prix carburants"
    ]
   },
   {
@@ -712,8 +712,8 @@
    ],
    "terms_right": [
     "finale",
-    "pays",
-    "direct"
+    "direct",
+    "finale coupe"
    ]
   },
   {
@@ -769,6 +769,36 @@
    "terms_right": []
   },
   {
+   "title": "Incendies : la France sollicite l'aide de l'UE face à des feux hors de contrôle",
+   "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/capacites-de-largage-importantes-pilotage-difficile-on-vous-presente-l-a400m-avion-militaire-transforme-pour-lutter-contre-les-incendies_8114822.html",
+   "n_members": 71,
+   "n_sources": 25,
+   "counts": {
+    "left": 3,
+    "centre": 15,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 5,
+    "opinion": 4
+   },
+   "blindspot_score": 0.4,
+   "blindspot_for": null,
+   "divergence": 0.78,
+   "category": "environnement",
+   "terms_left": [
+    "brésilienne",
+    "amazonie",
+    "amazonie brésilienne"
+   ],
+   "terms_right": [
+    "france",
+    "face",
+    "incendies"
+   ]
+  },
+  {
    "title": "Le Livret A jamais autant boudé au premier semestre depuis 2008",
    "url": "https://www.liberation.fr/politique/presidentielle-les-ecologistes-rafraichissent-les-idees-dans-un-nouveau-programme-20260713_HLF46E75PVHLLDYAZTTQCARLLE/",
    "n_members": 70,
@@ -796,36 +826,6 @@
     "livret",
     "taux",
     "français"
-   ]
-  },
-  {
-   "title": "Incendies : la France sollicite l'aide de l'UE face à des feux hors de contrôle",
-   "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/capacites-de-largage-importantes-pilotage-difficile-on-vous-presente-l-a400m-avion-militaire-transforme-pour-lutter-contre-les-incendies_8114822.html",
-   "n_members": 70,
-   "n_sources": 25,
-   "counts": {
-    "left": 3,
-    "centre": 15,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 5,
-    "opinion": 4
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.783,
-   "category": "environnement",
-   "terms_left": [
-    "fontainebleau",
-    "brésilienne",
-    "amazonie"
-   ],
-   "terms_right": [
-    "france",
-    "incendies",
-    "face"
    ]
   },
   {
@@ -908,6 +908,36 @@
     "monde",
     "coupe",
     "coupe monde"
+   ]
+  },
+  {
+   "title": "TOUT COMPRENDRE. Ça va coûter jusqu'à 200 euros par an aux patients: c'est quoi ces plafonds de franchises médicales que le gouvernement va doubler et qu'est-ce que ça va changer concrètement?",
+   "url": "https://www.20minutes.fr/arts-stars/medias/4235383-20260720-radio-pourquoi-frequences-fm-vont-elles-changer-semaine",
+   "n_members": 68,
+   "n_sources": 24,
+   "counts": {
+    "left": 6,
+    "centre": 9,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.551,
+   "category": "société",
+   "terms_left": [
+    "budget",
+    "plafond franchises",
+    "plafonds"
+   ],
+   "terms_right": [
+    "euros",
+    "annuel",
+    "médicaments"
    ]
   },
   {
@@ -1023,9 +1053,9 @@
    ]
   },
   {
-   "title": "Daniel Siad, rabatteur présumé du pédocriminel Jeffrey Epstein, retrouvé mort chez lui dans les Hauts-de-Seine",
+   "title": "Affaire Epstein : Daniel Siad, rabatteur présumé du pédocriminel et accusé de viols à Cannes, retrouvé mort chez lui près de Paris",
    "url": "https://www.leprogres.fr/carnet-du-jour/2026/07/22/daniel-siad-rabatteur-presume-de-mannequins-pour-jeffrey-epstein-retrouve-mort-chez-lui",
-   "n_members": 56,
+   "n_members": 57,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -1039,7 +1069,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.322,
+   "divergence": 0.323,
    "category": "international",
    "terms_left": [
     "visé",
@@ -1055,7 +1085,7 @@
   {
    "title": "Incendie dans le Var: le feu progresse à \"une vitesse très importante\", près de 900 pompiers sont mobilisés",
    "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
-   "n_members": 237,
+   "n_members": 239,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1069,7 +1099,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.486,
+   "divergence": 0.485,
    "category": "environnement",
    "terms_left": [
     "hectares brûlés",
@@ -1129,40 +1159,18 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.629,
+   "divergence": 0.63,
    "category": "sport",
    "terms_left": [
     "argentines",
     "malouines argentines",
-    "angleterre"
+    "trump"
    ],
    "terms_right": [
-    "argentins",
     "messi",
+    "argentins",
     "finale coupe"
    ]
-  },
-  {
-   "title": "Canicule de juin : la mortalité a plus que doublé par rapport à la normale en Île-de-France",
-   "url": "https://www.ladepeche.fr/2026/07/11/elle-prenait-lair-a-cause-de-la-chaleur-une-etudiante-de-21-ans-a-ete-enlevee-et-violee-sous-la-menace-dun-couteau-le-suspect-est-un-violeur-en-serie-13464920.php",
-   "n_members": 79,
-   "n_sources": 23,
-   "counts": {
-    "left": 3,
-    "centre": 14,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 1
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.659,
-   "category": "environnement",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
