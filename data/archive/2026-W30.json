@@ -1,6 +1,6 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-25T11:58:40+00:00",
+ "generated_at": "2026-07-25T13:09:55+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -97,7 +97,7 @@
   {
    "title": "EN DIRECT - Incendies : le feu qui sévit en Gironde se dirige vers Bordeaux, sept nouvelles communes évacuées",
    "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 318,
+   "n_members": 331,
    "n_sources": 32,
    "counts": {
     "left": 8,
@@ -111,16 +111,16 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.396,
+   "divergence": 0.404,
    "category": "environnement",
    "terms_left": [
-    "touristes",
     "milliers",
-    "feux"
+    "touristes",
+    "ravagent"
    ],
    "terms_right": [
     "feu",
-    "bordeaux",
+    "pompiers",
     "var"
    ]
   },
@@ -145,8 +145,8 @@
    "category": "international",
    "terms_left": [
     "street",
-    "downing",
-    "downing street"
+    "downing street",
+    "downing"
    ],
    "terms_right": [
     "britannique",
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.487,
+   "divergence": 0.493,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -201,17 +201,17 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.151,
+   "divergence": 0.156,
    "category": "politique",
    "terms_left": [
     "barbut reste",
-    "exécutif",
-    "démission ministre"
+    "démission ministre",
+    "qu"
    ],
    "terms_right": [
     "macron",
-    "adoption",
-    "marine"
+    "marine",
+    "écologique monique"
    ]
   },
   {
@@ -241,13 +241,13 @@
    "terms_right": [
     "donald",
     "donald trump",
-    "américains"
+    "émission"
    ]
   },
   {
    "title": "EN DIRECT - Guerre au Moyen-Orient : «13e nuit consécutive» de bombardements américains en Iran, le pétrole au-dessus des 100 dollars",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 449,
+   "n_members": 450,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -271,7 +271,7 @@
    "terms_right": [
     "états-unis",
     "guerre moyen-orient",
-    "américaine"
+    "moyen-orient"
    ]
   },
   {
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.161,
+   "divergence": 0.16,
    "category": "culture",
    "terms_left": [
     "droite",
@@ -367,7 +367,7 @@
   {
    "title": "Incendies de forêt : 2026 s’annonce déjà comme une année record en France",
    "url": "https://www.nicematin.com/societe/vie-locale/ou-est-l-inflexion-promise-pourquoi-le-budget-supplementaire-de-la-ville-d-antibes-a-fait-debat-10689044",
-   "n_members": 89,
+   "n_members": 90,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -411,7 +411,7 @@
    },
    "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.282,
+   "divergence": 0.283,
    "category": "culture",
    "terms_left": [
     "odyssée",
@@ -480,8 +480,8 @@
    ],
    "terms_right": [
     "farage",
-    "nigel farage",
-    "nigel"
+    "nigel",
+    "nigel farage"
    ]
   },
   {
@@ -511,7 +511,7 @@
    "terms_right": [
     "états-unis",
     "iran",
-    "arabie saoudite"
+    "saoudite"
    ]
   },
   {
@@ -565,8 +565,8 @@
    "category": "faits-divers",
    "terms_left": [
     "tarn",
-    "delphine aussaguel",
-    "aussaguel"
+    "aussaguel",
+    "delphine aussaguel"
    ],
    "terms_right": [
     "jubillar",
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.776,
+   "divergence": 0.793,
    "category": "environnement",
    "terms_left": [
     "brésilienne",
@@ -601,7 +601,7 @@
    "terms_right": [
     "france",
     "face",
-    "feux"
+    "fin"
    ]
   },
   {
@@ -714,6 +714,35 @@
     "nommé",
     "macron",
     "emmanuel"
+   ]
+  },
+  {
+   "title": "INFO BFMTV. Le Premier ministre a demandé aux armées de faire opérer l’A400M aujourd’hui pour lutter contre les incendies en Gironde",
+   "url": "https://www.nicematin.com/sante/il-sera-peut-etre-interdit-de-fumer-et-vapoter-en-terrasse-ou-sur-les-plages-un-projet-de-loi-porte-par-le-gouvernement-en-espagne-10693028",
+   "n_members": 56,
+   "n_sources": 26,
+   "counts": {
+    "left": 2,
+    "centre": 13,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 6,
+    "opinion": 4
+   },
+   "blindspot_score": 0.692,
+   "blindspot_for": "gauche",
+   "divergence": 0.685,
+   "category": "politique",
+   "terms_left": [
+    "budget",
+    "budget sébastien"
+   ],
+   "terms_right": [
+    "lecornu",
+    "gironde",
+    "ministre"
    ]
   },
   {
@@ -881,9 +910,39 @@
    "terms_right": []
   },
   {
-   "title": "Séisme au Venezuela : minute de silence au milieu des ruines, un mois après la catastrophe",
+   "title": "« Une guerre d’agression » : l’Allemagne autorise un projet nucléaire controversé impliquant la Russie et la France",
+   "url": "https://www.ouest-france.fr/politique/institutions/assemblee-nationale/loi-ripost-majorite-numerique-loi-agricole-quels-textes-doivent-etre-examines-cette-semaine-f02c0b0a-841a-11f1-8650-d79ccbde952a",
+   "n_members": 44,
+   "n_sources": 25,
+   "counts": {
+    "left": 3,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.455,
+   "blindspot_for": null,
+   "divergence": 0.636,
+   "category": "politique",
+   "terms_left": [
+    "adoptée",
+    "santé",
+    "risque"
+   ],
+   "terms_right": [
+    "projet",
+    "sarcelles",
+    "hommes"
+   ]
+  },
+  {
+   "title": "Un mois après les séismes au Venezuela, la vie s'organise dans des campements précaires près des immeubles en ruines",
    "url": "https://www.mediapart.fr/journal/international/150726/depasse-par-le-seisme-le-venezuela-engage-une-ouverture-limitee",
-   "n_members": 73,
+   "n_members": 74,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -897,17 +956,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.503,
+   "divergence": 0.505,
    "category": "international",
    "terms_left": [
-    "personnes",
-    "mois",
-    "bilan"
+    "bilan",
+    "venezuela bilan",
+    "personnes"
    ],
    "terms_right": [
-    "venezuela",
     "monde",
-    "coupe"
+    "coupe",
+    "coupe monde"
    ]
   },
   {
@@ -1019,7 +1078,7 @@
    "terms_right": [
     "grippe",
     "autorité",
-    "autorité santé"
+    "haute autorité"
    ]
   },
   {
@@ -1072,8 +1131,8 @@
    "divergence": 0.207,
    "category": "international",
    "terms_left": [
-    "pédocriminel",
     "pédocriminel américain",
+    "pédocriminel",
     "présumé pédocriminel"
    ],
    "terms_right": [
@@ -1083,39 +1142,9 @@
    ]
   },
   {
-   "title": "Protoxyde d'azote, rodéos urbains, free parties... Le Parlement adopte définitivement le projet de loi Ripost de Laurent Nuñez",
-   "url": "https://www.ouest-france.fr/politique/institutions/assemblee-nationale/loi-ripost-majorite-numerique-loi-agricole-quels-textes-doivent-etre-examines-cette-semaine-f02c0b0a-841a-11f1-8650-d79ccbde952a",
-   "n_members": 38,
-   "n_sources": 24,
-   "counts": {
-    "left": 3,
-    "centre": 14,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.657,
-   "category": "politique",
-   "terms_left": [
-    "adoptée",
-    "santé",
-    "risque"
-   ],
-   "terms_right": [
-    "projet",
-    "ministre",
-    "gouvernement"
-   ]
-  },
-  {
    "title": "EN DIRECT - Incendies : 2.000 hectares brûlés en Gironde, au moins 12.000 personnes évacuées au total",
    "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
-   "n_members": 241,
+   "n_members": 242,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1129,7 +1158,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.463,
+   "divergence": 0.461,
    "category": "environnement",
    "terms_left": [
     "hectares brûlés",
@@ -1140,36 +1169,6 @@
     "feu",
     "incendie var",
     "var"
-   ]
-  },
-  {
-   "title": "Didier Deschamps quitte l'équipe de France après une défaite",
-   "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/france-espagne-ces-statistiques-qui-ne-plaident-pas-en-faveur-des-bleus-avant-la-demi-finale-de-coupe-du-monde-11-07-2026-FFZKRR2HU5E6TCVYGHBS25YQ74.php",
-   "n_members": 156,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.619,
-   "category": "sport",
-   "terms_left": [
-    "foot",
-    "monde",
-    "qu"
-   ],
-   "terms_right": [
-    "deschamps",
-    "didier",
-    "didier deschamps"
    ]
   }
  ]
