@@ -1,6 +1,6 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-25T09:18:41+00:00",
+ "generated_at": "2026-07-25T10:53:05+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,17 +21,17 @@
    },
    "blindspot_score": 0.083,
    "blindspot_for": null,
-   "divergence": 0.128,
+   "divergence": 0.125,
    "category": "politique",
    "terms_left": [
     "qu",
-    "vote",
-    "monde"
+    "monde",
+    "vote"
    ],
    "terms_right": [
-    "mineurs",
     "loi interdisant",
-    "sociaux mineurs"
+    "mineurs",
+    "interdisant"
    ]
   },
   {
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.194,
+   "divergence": 0.188,
    "category": "politique",
    "terms_left": [
     "duplomb",
@@ -61,7 +61,7 @@
    "terms_right": [
     "mort",
     "shemseddine",
-    "définitivement"
+    "agriculteurs"
    ]
   },
   {
@@ -95,6 +95,36 @@
    ]
   },
   {
+   "title": "EN DIRECT - Incendies : le feu qui sévit en Gironde se dirige vers Bordeaux, sept nouvelles communes évacuées",
+   "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
+   "n_members": 311,
+   "n_sources": 32,
+   "counts": {
+    "left": 8,
+    "centre": 16,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 11,
+    "opinion": 4
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.395,
+   "category": "environnement",
+   "terms_left": [
+    "touristes",
+    "milliers",
+    "landes"
+   ],
+   "terms_right": [
+    "feu",
+    "bordeaux",
+    "feu gironde"
+   ]
+  },
+  {
    "title": "Andy Burnham installe son Downing Street \"du Nord\" à Manchester",
    "url": "https://information.tv5monde.com/international/royaume-uni-andy-burnham-plebiscite-au-debut-de-la-course-la-succession-de-keir-starmer-2829528",
    "n_members": 120,
@@ -125,39 +155,9 @@
    ]
   },
   {
-   "title": "EN DIRECT - Incendies : en Gironde, évacuation en cours de la presqu’île du Cap Ferret face au feu qui a parcouru 8 700 hectares",
-   "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 294,
-   "n_sources": 31,
-   "counts": {
-    "left": 8,
-    "centre": 15,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 11,
-    "opinion": 4
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.379,
-   "category": "environnement",
-   "terms_left": [
-    "touristes",
-    "milliers",
-    "landes"
-   ],
-   "terms_right": [
-    "feu",
-    "feu gironde",
-    "contenu"
-   ]
-  },
-  {
-   "title": "Ukraine : sous pression, Zelensky limoge le commandant en chef de son armée",
+   "title": "Qui est Mykhaïlo Drapaty, nouveau commandant en chef de l'armée ukrainienne ?",
    "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-   "n_members": 216,
+   "n_members": 217,
    "n_sources": 31,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.484,
+   "divergence": 0.483,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -201,23 +201,23 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.137,
+   "divergence": 0.147,
    "category": "politique",
    "terms_left": [
+    "vote loi",
     "démission ministre",
-    "désaccord loi",
-    "vote loi"
+    "exécutif"
    ],
    "terms_right": [
+    "macron",
     "mission",
-    "adoption",
     "poursuivre mission"
    ]
   },
   {
    "title": "Union européenne : 890 millions d'euros d'amendes infligées à Google, au risque d'irriter Trump",
    "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/le-club-de-la-bourse-alphabet-google-publie-ses-resultats-ce-soir-22-07_EN-202607220223.html",
-   "n_members": 77,
+   "n_members": 79,
    "n_sources": 30,
    "counts": {
     "left": 5,
@@ -239,15 +239,15 @@
     "géant"
    ],
    "terms_right": [
-    "donald trump",
     "donald",
-    "américains"
+    "donald trump",
+    "émission"
    ]
   },
   {
    "title": "EN DIRECT - Guerre au Moyen-Orient : «13e nuit consécutive» de bombardements américains en Iran, le pétrole au-dessus des 100 dollars",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 448,
+   "n_members": 449,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -261,12 +261,12 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.316,
+   "divergence": 0.315,
    "category": "international",
    "terms_left": [
     "etats-unis",
     "bombardements",
-    "conflit"
+    "conflit moyen-orient"
    ],
    "terms_right": [
     "états-unis",
@@ -277,7 +277,7 @@
   {
    "title": "Orages : voici les 26 départements placés en vigilance jaune ce vendredi",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 336,
+   "n_members": 338,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.343,
+   "divergence": 0.342,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -307,7 +307,7 @@
   {
    "title": "LFI : Barbara Butch porte plainte après l'interruption de son concert à Grenoble",
    "url": "https://www.europe1.fr/international/un-homme-a-failli-etre-aspire-hors-dun-vol-ryanair-au-depart-de-grece-970086",
-   "n_members": 180,
+   "n_members": 182,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -321,11 +321,11 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.163,
+   "divergence": 0.161,
    "category": "culture",
    "terms_left": [
-    "boycott",
     "droite",
+    "boycott",
     "extrême"
    ],
    "terms_right": [
@@ -351,17 +351,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.14,
+   "divergence": 0.143,
    "category": "société",
    "terms_left": [
-    "ville",
-    "réclamant",
-    "réclamant dz"
+    "christophe",
+    "rivenq",
+    "christophe rivenq"
    ],
    "terms_right": [
     "nuit",
-    "domicile raid",
-    "mort dz"
+    "menacé",
+    "domicile raid"
    ]
   },
   {
@@ -381,7 +381,7 @@
    },
    "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.283,
+   "divergence": 0.282,
    "category": "culture",
    "terms_left": [
     "odyssée",
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.407,
+   "divergence": 0.406,
    "category": "politique",
    "terms_left": [
     "assemblée nationale",
@@ -427,7 +427,7 @@
   {
    "title": "Incendies de forêt : 2026 s’annonce déjà comme une année record en France",
    "url": "https://www.nicematin.com/societe/vie-locale/ou-est-l-inflexion-promise-pourquoi-le-budget-supplementaire-de-la-ville-d-antibes-a-fait-debat-10689044",
-   "n_members": 85,
+   "n_members": 88,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -441,23 +441,23 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.661,
+   "divergence": 0.645,
    "category": "environnement",
    "terms_left": [
     "début",
     "début année",
-    "france"
+    "canicule"
    ],
    "terms_right": [
-    "face",
-    "feux",
-    "brûlé"
+    "record",
+    "surfaces",
+    "feux"
    ]
   },
   {
    "title": "Fraude aux examens, chômeurs stigmatisés... L'origine de la colère des jeunes membres du \"Parti des cafards\" en Inde",
    "url": "https://www.lejdd.fr/International/royaume-uni-nigel-farage-face-au-comte-tete-de-poubelle-lors-dune-legislative-partielle-178632",
-   "n_members": 83,
+   "n_members": 85,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -471,12 +471,12 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.662,
+   "divergence": 0.665,
    "category": "international",
    "terms_left": [
     "ministre",
     "police",
-    "inde"
+    "cafards"
    ],
    "terms_right": [
     "farage",
@@ -501,17 +501,17 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.576,
+   "divergence": 0.583,
    "category": "international",
    "terms_left": [
+    "surtaxes",
     "douanière",
-    "président",
-    "nouveaux"
+    "président"
    ],
    "terms_right": [
     "états-unis",
     "iran",
-    "washington"
+    "saoudite"
    ]
   },
   {
@@ -565,13 +565,13 @@
    "category": "faits-divers",
    "terms_left": [
     "tarn",
-    "delphine aussaguel",
-    "aussaguel"
+    "aussaguel",
+    "delphine aussaguel"
    ],
    "terms_right": [
     "jubillar",
-    "avocat",
-    "cédric"
+    "cédric",
+    "avocat"
    ]
   },
   {
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.789,
+   "divergence": 0.791,
    "category": "environnement",
    "terms_left": [
     "brésilienne",
@@ -601,7 +601,7 @@
    "terms_right": [
     "france",
     "face",
-    "feux"
+    "incendies"
    ]
   },
   {
@@ -825,7 +825,7 @@
    "terms_right": [
     "livret",
     "taux",
-    "français"
+    "taux livret"
    ]
   },
   {
@@ -1019,7 +1019,7 @@
    "terms_right": [
     "grippe",
     "autorité",
-    "haute autorité"
+    "autorité santé"
    ]
   },
   {
@@ -1069,17 +1069,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.323,
+   "divergence": 0.234,
    "category": "international",
    "terms_left": [
-    "viols",
-    "visé",
-    "ancien"
+    "pédocriminel",
+    "pédocriminel américain",
+    "présumé pédocriminel"
    ],
    "terms_right": [
-    "femmes",
     "recruteur mannequins",
-    "domicile colombes"
+    "mannequins",
+    "femmes"
    ]
   },
   {
@@ -1099,17 +1099,17 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.681,
+   "divergence": 0.659,
    "category": "politique",
    "terms_left": [
-    "associations",
     "santé",
-    "risque"
+    "risque",
+    "adoptée"
    ],
    "terms_right": [
     "projet",
-    "définitivement",
-    "parlement"
+    "gouvernement",
+    "ministre"
    ]
   },
   {
@@ -1129,7 +1129,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.466,
+   "divergence": 0.465,
    "category": "environnement",
    "terms_left": [
     "hectares brûlés",
