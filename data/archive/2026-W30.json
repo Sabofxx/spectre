@@ -1,6 +1,6 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-25T01:47:46+00:00",
+ "generated_at": "2026-07-25T04:58:34+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,17 +21,17 @@
    },
    "blindspot_score": 0.083,
    "blindspot_for": null,
-   "divergence": 0.138,
+   "divergence": 0.133,
    "category": "politique",
    "terms_left": [
     "qu",
-    "vote",
-    "interdiction réseaux"
+    "interdiction réseaux",
+    "vote"
    ],
    "terms_right": [
     "mineurs",
     "loi interdisant",
-    "interdisant"
+    "sociaux mineurs"
    ]
   },
   {
@@ -51,17 +51,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.198,
+   "divergence": 0.196,
    "category": "politique",
    "terms_left": [
     "duplomb",
-    "parlementaires",
-    "retour"
+    "retour",
+    "anses"
    ],
    "terms_right": [
     "mort",
     "shemseddine",
-    "vide"
+    "définitivement"
    ]
   },
   {
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.489,
+   "divergence": 0.485,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -151,13 +151,13 @@
    "terms_right": [
     "ukraine volodymyr",
     "morts",
-    "ukraine"
+    "zelensky"
    ]
   },
   {
    "title": "EN DIRECT - Incendies : en Gironde, évacuation en cours de la presqu’île du Cap Ferret face au feu qui a parcouru 8 700 hectares",
    "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 241,
+   "n_members": 255,
    "n_sources": 30,
    "counts": {
     "left": 8,
@@ -171,12 +171,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.407,
+   "divergence": 0.398,
    "category": "environnement",
    "terms_left": [
     "touristes",
-    "sud-ouest",
-    "reportage"
+    "reportage",
+    "incendies ravagent"
    ],
    "terms_right": [
     "feu",
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.139,
+   "divergence": 0.136,
    "category": "politique",
    "terms_left": [
     "suite",
@@ -210,8 +210,8 @@
    ],
    "terms_right": [
     "écologique monique",
-    "annoncé",
-    "adoption"
+    "adoption",
+    "annoncé"
    ]
   },
   {
@@ -231,23 +231,23 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.603,
+   "divergence": 0.602,
    "category": "économie",
    "terms_left": [
     "géant",
     "france",
-    "total"
+    "recherche"
    ],
    "terms_right": [
     "émission",
-    "donald",
-    "donald trump"
+    "donald trump",
+    "donald"
    ]
   },
   {
-   "title": "EN DIRECT – Moyen-Orient: les États-Unis bombardent l'Iran, la défense antiaérienne activée à Téhéran",
+   "title": "EN DIRECT - Guerre au Moyen-Orient : «13e nuit consécutive» de bombardements américains en Iran, le pétrole au-dessus des 100 dollars",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 443,
+   "n_members": 444,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.316,
+   "divergence": 0.315,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -277,7 +277,7 @@
   {
    "title": "Orages : voici les 26 départements placés en vigilance jaune ce vendredi",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 331,
+   "n_members": 333,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.35,
+   "divergence": 0.352,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -307,7 +307,7 @@
   {
    "title": "LFI : Barbara Butch porte plainte après l'interruption de son concert à Grenoble",
    "url": "https://www.europe1.fr/international/un-homme-a-failli-etre-aspire-hors-dun-vol-ryanair-au-depart-de-grece-970086",
-   "n_members": 179,
+   "n_members": 180,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.163,
+   "divergence": 0.162,
    "category": "culture",
    "terms_left": [
     "boycott",
@@ -329,8 +329,8 @@
     "extrême"
    ],
    "terms_right": [
-    "jours",
     "qu",
+    "jours",
     "dj barbara"
    ]
   },
@@ -351,16 +351,16 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.13,
+   "divergence": 0.133,
    "category": "société",
    "terms_left": [
     "ville",
-    "drogue",
-    "réclamant"
+    "réclamant",
+    "réclamant dz"
    ],
    "terms_right": [
     "nuit",
-    "raid",
+    "menacé",
     "domicile raid"
    ]
   },
@@ -411,12 +411,12 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.403,
+   "divergence": 0.407,
    "category": "politique",
    "terms_left": [
-    "loi protection",
-    "protection enfants",
-    "assemblée nationale"
+    "assemblée nationale",
+    "adopté",
+    "loi protection"
    ],
    "terms_right": [
     "ans",
@@ -427,7 +427,7 @@
   {
    "title": "Fraude aux examens, chômeurs stigmatisés... L'origine de la colère des jeunes membres du \"Parti des cafards\" en Inde",
    "url": "https://www.lejdd.fr/International/royaume-uni-nigel-farage-face-au-comte-tete-de-poubelle-lors-dune-legislative-partielle-178632",
-   "n_members": 80,
+   "n_members": 81,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -449,8 +449,8 @@
     "inde"
    ],
    "terms_right": [
-    "nigel",
     "nigel farage",
+    "nigel",
     "farage"
    ]
   },
@@ -471,11 +471,11 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.572,
+   "divergence": 0.576,
    "category": "international",
    "terms_left": [
-    "président",
     "douanière",
+    "président",
     "nouveaux"
    ],
    "terms_right": [
@@ -531,12 +531,12 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.285,
+   "divergence": 0.286,
    "category": "faits-divers",
    "terms_left": [
-    "aussaguel",
+    "tarn",
     "delphine aussaguel",
-    "tarn"
+    "aussaguel"
    ],
    "terms_right": [
     "jubillar",
@@ -815,7 +815,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.719,
+   "divergence": 0.718,
    "category": "économie",
    "terms_left": [
     "protection",
@@ -881,9 +881,9 @@
    "terms_right": []
   },
   {
-   "title": "La barre des 5.300 morts dépassée, près de 17.000 blessés : dernier bilan du double séisme au Venezuela où il reste des milliers de disparus",
+   "title": "Séisme au Venezuela : minute de silence au milieu des ruines, un mois après la catastrophe",
    "url": "https://www.mediapart.fr/journal/international/150726/depasse-par-le-seisme-le-venezuela-engage-une-ouverture-limitee",
-   "n_members": 72,
+   "n_members": 73,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -897,7 +897,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.537,
+   "divergence": 0.499,
    "category": "international",
    "terms_left": [
     "mois",
@@ -1019,7 +1019,7 @@
    "terms_right": [
     "grippe",
     "autorité",
-    "autorité santé"
+    "haute autorité"
    ]
   },
   {
@@ -1099,7 +1099,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.483,
+   "divergence": 0.481,
    "category": "environnement",
    "terms_left": [
     "hectares brûlés",
@@ -1159,7 +1159,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.63,
+   "divergence": 0.629,
    "category": "sport",
    "terms_left": [
     "argentines",
