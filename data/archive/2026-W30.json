@@ -1,6 +1,6 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-25T10:53:05+00:00",
+ "generated_at": "2026-07-25T11:58:40+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.188,
+   "divergence": 0.187,
    "category": "politique",
    "terms_left": [
     "duplomb",
@@ -97,7 +97,7 @@
   {
    "title": "EN DIRECT - Incendies : le feu qui sévit en Gironde se dirige vers Bordeaux, sept nouvelles communes évacuées",
    "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 311,
+   "n_members": 318,
    "n_sources": 32,
    "counts": {
     "left": 8,
@@ -111,17 +111,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.395,
+   "divergence": 0.396,
    "category": "environnement",
    "terms_left": [
     "touristes",
     "milliers",
-    "landes"
+    "feux"
    ],
    "terms_right": [
     "feu",
     "bordeaux",
-    "feu gironde"
+    "var"
    ]
   },
   {
@@ -141,12 +141,12 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.235,
+   "divergence": 0.234,
    "category": "international",
    "terms_left": [
     "street",
-    "downing street",
-    "downing"
+    "downing",
+    "downing street"
    ],
    "terms_right": [
     "britannique",
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.483,
+   "divergence": 0.487,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -201,17 +201,17 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.147,
+   "divergence": 0.151,
    "category": "politique",
    "terms_left": [
-    "vote loi",
-    "démission ministre",
-    "exécutif"
+    "barbut reste",
+    "exécutif",
+    "démission ministre"
    ],
    "terms_right": [
     "macron",
-    "mission",
-    "poursuivre mission"
+    "adoption",
+    "marine"
    ]
   },
   {
@@ -241,7 +241,7 @@
    "terms_right": [
     "donald",
     "donald trump",
-    "émission"
+    "américains"
    ]
   },
   {
@@ -351,17 +351,47 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.143,
+   "divergence": 0.141,
    "category": "société",
    "terms_left": [
+    "alès christophe",
     "christophe",
-    "rivenq",
     "christophe rivenq"
    ],
    "terms_right": [
-    "nuit",
-    "menacé",
-    "domicile raid"
+    "domicile raid",
+    "mort dz",
+    "raid"
+   ]
+  },
+  {
+   "title": "Incendies de forêt : 2026 s’annonce déjà comme une année record en France",
+   "url": "https://www.nicematin.com/societe/vie-locale/ou-est-l-inflexion-promise-pourquoi-le-budget-supplementaire-de-la-ville-d-antibes-a-fait-debat-10689044",
+   "n_members": 89,
+   "n_sources": 29,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.645,
+   "category": "environnement",
+   "terms_left": [
+    "début",
+    "début année",
+    "canicule"
+   ],
+   "terms_right": [
+    "record",
+    "surfaces",
+    "feux"
    ]
   },
   {
@@ -425,39 +455,9 @@
    ]
   },
   {
-   "title": "Incendies de forêt : 2026 s’annonce déjà comme une année record en France",
-   "url": "https://www.nicematin.com/societe/vie-locale/ou-est-l-inflexion-promise-pourquoi-le-budget-supplementaire-de-la-ville-d-antibes-a-fait-debat-10689044",
-   "n_members": 88,
-   "n_sources": 28,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 4
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.645,
-   "category": "environnement",
-   "terms_left": [
-    "début",
-    "début année",
-    "canicule"
-   ],
-   "terms_right": [
-    "record",
-    "surfaces",
-    "feux"
-   ]
-  },
-  {
    "title": "Fraude aux examens, chômeurs stigmatisés... L'origine de la colère des jeunes membres du \"Parti des cafards\" en Inde",
    "url": "https://www.lejdd.fr/International/royaume-uni-nigel-farage-face-au-comte-tete-de-poubelle-lors-dune-legislative-partielle-178632",
-   "n_members": 85,
+   "n_members": 86,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -475,13 +475,13 @@
    "category": "international",
    "terms_left": [
     "ministre",
-    "police",
-    "cafards"
+    "cafards",
+    "police"
    ],
    "terms_right": [
     "farage",
-    "nigel",
-    "nigel farage"
+    "nigel farage",
+    "nigel"
    ]
   },
   {
@@ -511,7 +511,7 @@
    "terms_right": [
     "états-unis",
     "iran",
-    "saoudite"
+    "arabie saoudite"
    ]
   },
   {
@@ -565,8 +565,8 @@
    "category": "faits-divers",
    "terms_left": [
     "tarn",
-    "aussaguel",
-    "delphine aussaguel"
+    "delphine aussaguel",
+    "aussaguel"
    ],
    "terms_right": [
     "jubillar",
@@ -577,7 +577,7 @@
   {
    "title": "Incendies : la France sollicite l'aide de l'UE face à des feux hors de contrôle",
    "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/capacites-de-largage-importantes-pilotage-difficile-on-vous-presente-l-a400m-avion-militaire-transforme-pour-lutter-contre-les-incendies_8114822.html",
-   "n_members": 81,
+   "n_members": 82,
    "n_sources": 27,
    "counts": {
     "left": 3,
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.791,
+   "divergence": 0.776,
    "category": "environnement",
    "terms_left": [
     "brésilienne",
@@ -601,7 +601,7 @@
    "terms_right": [
     "france",
     "face",
-    "incendies"
+    "feux"
    ]
   },
   {
@@ -897,17 +897,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.499,
+   "divergence": 0.503,
    "category": "international",
    "terms_left": [
-    "mois",
     "personnes",
+    "mois",
     "bilan"
    ],
    "terms_right": [
+    "venezuela",
     "monde",
-    "coupe",
-    "coupe monde"
+    "coupe"
    ]
   },
   {
@@ -927,7 +927,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.56,
+   "divergence": 0.558,
    "category": "société",
    "terms_left": [
     "budget",
@@ -936,8 +936,8 @@
    ],
    "terms_right": [
     "euros",
-    "annuel",
-    "maladie"
+    "médicaments",
+    "annuel"
    ]
   },
   {
@@ -1069,7 +1069,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.234,
+   "divergence": 0.207,
    "category": "international",
    "terms_left": [
     "pédocriminel",
@@ -1099,23 +1099,23 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.659,
+   "divergence": 0.657,
    "category": "politique",
    "terms_left": [
+    "adoptée",
     "santé",
-    "risque",
-    "adoptée"
+    "risque"
    ],
    "terms_right": [
     "projet",
-    "gouvernement",
-    "ministre"
+    "ministre",
+    "gouvernement"
    ]
   },
   {
    "title": "EN DIRECT - Incendies : 2.000 hectares brûlés en Gironde, au moins 12.000 personnes évacuées au total",
    "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
-   "n_members": 240,
+   "n_members": 241,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1129,12 +1129,12 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.465,
+   "divergence": 0.463,
    "category": "environnement",
    "terms_left": [
     "hectares brûlés",
     "brûlés",
-    "brûlés personnes"
+    "journée"
    ],
    "terms_right": [
     "feu",
