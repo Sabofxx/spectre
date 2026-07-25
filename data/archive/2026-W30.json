@@ -1,13 +1,13 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-25T15:57:54+00:00",
+ "generated_at": "2026-07-25T16:48:59+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "L’interdiction des réseaux sociaux aux mineurs de moins de 15 ans… On vous explique !",
+   "title": "Interdiction des réseaux sociaux aux moins de 15 ans : 69% des 10-14 ans y sont favorables, révèle une étude de l’Arcom",
    "url": "https://www.causeur.fr/voile-islamique-linterdiction-piege-a-cons-le-pen-bardella-rn-330692",
-   "n_members": 140,
+   "n_members": 141,
    "n_sources": 43,
    "counts": {
     "left": 11,
@@ -25,13 +25,13 @@
    "category": "politique",
    "terms_left": [
     "monde",
-    "vote",
-    "mixte"
+    "mixte paritaire",
+    "commission mixte"
    ],
    "terms_right": [
     "mineurs",
-    "loi interdisant",
-    "sociaux mineurs"
+    "sociaux mineurs",
+    "loi interdisant"
    ]
   },
   {
@@ -97,7 +97,7 @@
   {
    "title": "EN DIRECT - Incendies : le feu qui sévit en Gironde se dirige vers Bordeaux, sept nouvelles communes évacuées",
    "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 351,
+   "n_members": 358,
    "n_sources": 32,
    "counts": {
     "left": 8,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.427,
+   "divergence": 0.436,
    "category": "environnement",
    "terms_left": [
     "milliers",
@@ -119,8 +119,8 @@
     "ravagent"
    ],
    "terms_right": [
-    "feu",
     "pompiers",
+    "feu",
     "sud"
    ]
   },
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.162,
+   "divergence": 0.158,
    "category": "politique",
    "terms_left": [
     "eau",
@@ -239,15 +239,15 @@
     "géant"
    ],
    "terms_right": [
-    "donald",
     "donald trump",
+    "donald",
     "américains"
    ]
   },
   {
    "title": "EN DIRECT - Guerre au Moyen-Orient : «13e nuit consécutive» de bombardements américains en Iran, le pétrole au-dessus des 100 dollars",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 450,
+   "n_members": 451,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.314,
+   "divergence": 0.313,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.161,
+   "divergence": 0.157,
    "category": "culture",
    "terms_left": [
     "droite",
@@ -367,7 +367,7 @@
   {
    "title": "Incendies de forêt : 2026 s’annonce déjà comme une année record en France",
    "url": "https://www.nicematin.com/societe/vie-locale/ou-est-l-inflexion-promise-pourquoi-le-budget-supplementaire-de-la-ville-d-antibes-a-fait-debat-10689044",
-   "n_members": 92,
+   "n_members": 94,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -381,17 +381,47 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.649,
+   "divergence": 0.636,
    "category": "environnement",
    "terms_left": [
     "début",
-    "début année",
-    "canicule"
+    "canicule",
+    "météo"
    ],
    "terms_right": [
-    "surfaces",
     "record",
+    "surfaces",
     "face"
+   ]
+  },
+  {
+   "title": "Fronde étudiante en Inde: Modi promet de punir les fraudeurs, les manifestants persistent",
+   "url": "https://www.lejdd.fr/International/royaume-uni-nigel-farage-face-au-comte-tete-de-poubelle-lors-dune-legislative-partielle-178632",
+   "n_members": 89,
+   "n_sources": 29,
+   "counts": {
+    "left": 7,
+    "centre": 15,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.667,
+   "category": "international",
+   "terms_left": [
+    "ministre",
+    "cafards",
+    "police"
+   ],
+   "terms_right": [
+    "farage",
+    "nigel farage",
+    "nigel"
    ]
   },
   {
@@ -411,7 +441,7 @@
    },
    "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.281,
+   "divergence": 0.282,
    "category": "culture",
    "terms_left": [
     "cinéma",
@@ -441,7 +471,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.407,
+   "divergence": 0.406,
    "category": "politique",
    "terms_left": [
     "assemblée nationale",
@@ -452,36 +482,6 @@
     "ans",
     "députés",
     "série"
-   ]
-  },
-  {
-   "title": "Fronde étudiante en Inde: Modi promet de punir les fraudeurs, les manifestants persistent",
-   "url": "https://www.lejdd.fr/International/royaume-uni-nigel-farage-face-au-comte-tete-de-poubelle-lors-dune-legislative-partielle-178632",
-   "n_members": 87,
-   "n_sources": 28,
-   "counts": {
-    "left": 6,
-    "centre": 15,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.666,
-   "category": "international",
-   "terms_left": [
-    "ministre",
-    "police",
-    "cafards"
-   ],
-   "terms_right": [
-    "farage",
-    "nigel",
-    "nigel farage"
    ]
   },
   {
@@ -565,8 +565,8 @@
    "category": "faits-divers",
    "terms_left": [
     "tarn",
-    "delphine aussaguel",
-    "aussaguel"
+    "aussaguel",
+    "delphine aussaguel"
    ],
    "terms_right": [
     "jubillar",
@@ -689,7 +689,7 @@
   {
    "title": "Soupçons de projet d’attaque visant une synagogue à Sarcelles : six hommes présentés à la justice ce samedi",
    "url": "https://www.ladepeche.fr/2026/07/20/reportage-cest-une-honte-je-ne-trouve-pas-ca-normal-pourquoi-le-debat-sur-le-burkini-refait-surface-cet-ete-dans-cette-commune-pres-de-toulouse-13476329.php",
-   "n_members": 57,
+   "n_members": 58,
    "n_sources": 27,
    "counts": {
     "left": 3,
@@ -749,7 +749,7 @@
   {
    "title": "INFO BFMTV. Le Premier ministre a demandé aux armées de faire opérer l’A400M aujourd’hui pour lutter contre les incendies en Gironde",
    "url": "https://www.nicematin.com/sante/il-sera-peut-etre-interdit-de-fumer-et-vapoter-en-terrasse-ou-sur-les-plages-un-projet-de-loi-porte-par-le-gouvernement-en-espagne-10693028",
-   "n_members": 63,
+   "n_members": 66,
    "n_sources": 26,
    "counts": {
     "left": 2,
@@ -763,7 +763,7 @@
    },
    "blindspot_score": 0.692,
    "blindspot_for": "gauche",
-   "divergence": 0.68,
+   "divergence": 0.676,
    "category": "politique",
    "terms_left": [
     "budget",
@@ -771,8 +771,8 @@
    ],
    "terms_right": [
     "gironde",
-    "lecornu",
-    "ministre"
+    "incendies",
+    "lecornu"
    ]
   },
   {
@@ -940,9 +940,9 @@
    "terms_right": []
   },
   {
-   "title": "Un mois après les séismes au Venezuela, la vie s'organise dans des campements précaires près des immeubles en ruines",
+   "title": "Double séisme au Venezuela : le bilan un mois après",
    "url": "https://www.mediapart.fr/journal/international/150726/depasse-par-le-seisme-le-venezuela-engage-une-ouverture-limitee",
-   "n_members": 74,
+   "n_members": 75,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -1068,7 +1068,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.772,
+   "divergence": 0.773,
    "category": "société",
    "terms_left": [
     "projet",
@@ -1128,23 +1128,23 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.201,
+   "divergence": 0.199,
    "category": "international",
    "terms_left": [
-    "pédocriminel",
-    "présumé pédocriminel",
-    "pédocriminel américain"
+    "pédocriminel américain",
+    "siad recruteur",
+    "pédocriminel"
    ],
    "terms_right": [
-    "justice",
-    "mort domicile",
-    "domicile"
+    "siad",
+    "daniel siad",
+    "daniel"
    ]
   },
   {
    "title": "EN DIRECT - Incendies : 2.000 hectares brûlés en Gironde, au moins 12.000 personnes évacuées au total",
    "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
-   "n_members": 242,
+   "n_members": 243,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1158,7 +1158,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.447,
+   "divergence": 0.448,
    "category": "environnement",
    "terms_left": [
     "hectares brûlés",
