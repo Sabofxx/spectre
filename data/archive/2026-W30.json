@@ -1,6 +1,6 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-25T07:12:59+00:00",
+ "generated_at": "2026-07-25T09:18:41+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.083,
    "blindspot_for": null,
-   "divergence": 0.129,
+   "divergence": 0.128,
    "category": "politique",
    "terms_left": [
     "qu",
     "vote",
-    "sénateurs"
+    "monde"
    ],
    "terms_right": [
     "mineurs",
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.196,
+   "divergence": 0.194,
    "category": "politique",
    "terms_left": [
     "duplomb",
@@ -115,13 +115,43 @@
    "category": "international",
    "terms_left": [
     "street",
-    "downing",
-    "downing street"
+    "downing street",
+    "downing"
    ],
    "terms_right": [
     "britannique",
     "ministre",
     "nouveau ministre"
+   ]
+  },
+  {
+   "title": "EN DIRECT - Incendies : en Gironde, évacuation en cours de la presqu’île du Cap Ferret face au feu qui a parcouru 8 700 hectares",
+   "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
+   "n_members": 294,
+   "n_sources": 31,
+   "counts": {
+    "left": 8,
+    "centre": 15,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 11,
+    "opinion": 4
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.379,
+   "category": "environnement",
+   "terms_left": [
+    "touristes",
+    "milliers",
+    "landes"
+   ],
+   "terms_right": [
+    "feu",
+    "feu gironde",
+    "contenu"
    ]
   },
   {
@@ -141,47 +171,17 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.482,
+   "divergence": 0.484,
    "category": "international",
    "terms_left": [
     "guerre",
     "espagne",
-    "manifestations"
+    "rue"
    ],
    "terms_right": [
     "ukraine volodymyr",
     "morts",
-    "zelensky annonce"
-   ]
-  },
-  {
-   "title": "EN DIRECT - Incendies : en Gironde, évacuation en cours de la presqu’île du Cap Ferret face au feu qui a parcouru 8 700 hectares",
-   "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 273,
-   "n_sources": 30,
-   "counts": {
-    "left": 8,
-    "centre": 14,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 11,
-    "opinion": 4
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.403,
-   "category": "environnement",
-   "terms_left": [
-    "touristes",
-    "reportage",
-    "intense"
-   ],
-   "terms_right": [
-    "feu",
-    "feu gironde",
-    "contenu"
+    "annonce"
    ]
   },
   {
@@ -201,17 +201,17 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.136,
+   "divergence": 0.137,
    "category": "politique",
    "terms_left": [
     "démission ministre",
-    "suite",
+    "désaccord loi",
     "vote loi"
    ],
    "terms_right": [
-    "écologique monique",
+    "mission",
     "adoption",
-    "annoncé"
+    "poursuivre mission"
    ]
   },
   {
@@ -231,23 +231,23 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.582,
+   "divergence": 0.583,
    "category": "économie",
    "terms_left": [
-    "géant",
-    "france",
-    "total"
+    "amendes google",
+    "total",
+    "géant"
    ],
    "terms_right": [
     "donald trump",
     "donald",
-    "émission"
+    "américains"
    ]
   },
   {
    "title": "EN DIRECT - Guerre au Moyen-Orient : «13e nuit consécutive» de bombardements américains en Iran, le pétrole au-dessus des 100 dollars",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 446,
+   "n_members": 448,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.313,
+   "divergence": 0.316,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.137,
+   "divergence": 0.14,
    "category": "société",
    "terms_left": [
     "ville",
@@ -360,8 +360,8 @@
    ],
    "terms_right": [
     "nuit",
-    "menacé",
-    "domicile raid"
+    "domicile raid",
+    "mort dz"
    ]
   },
   {
@@ -425,9 +425,39 @@
    ]
   },
   {
+   "title": "Incendies de forêt : 2026 s’annonce déjà comme une année record en France",
+   "url": "https://www.nicematin.com/societe/vie-locale/ou-est-l-inflexion-promise-pourquoi-le-budget-supplementaire-de-la-ville-d-antibes-a-fait-debat-10689044",
+   "n_members": 85,
+   "n_sources": 28,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.661,
+   "category": "environnement",
+   "terms_left": [
+    "début",
+    "début année",
+    "france"
+   ],
+   "terms_right": [
+    "face",
+    "feux",
+    "brûlé"
+   ]
+  },
+  {
    "title": "Fraude aux examens, chômeurs stigmatisés... L'origine de la colère des jeunes membres du \"Parti des cafards\" en Inde",
    "url": "https://www.lejdd.fr/International/royaume-uni-nigel-farage-face-au-comte-tete-de-poubelle-lors-dune-legislative-partielle-178632",
-   "n_members": 82,
+   "n_members": 83,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -441,7 +471,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.659,
+   "divergence": 0.662,
    "category": "international",
    "terms_left": [
     "ministre",
@@ -449,9 +479,9 @@
     "inde"
    ],
    "terms_right": [
-    "nigel farage",
+    "farage",
     "nigel",
-    "farage"
+    "nigel farage"
    ]
   },
   {
@@ -487,7 +517,7 @@
   {
    "title": "Canicule : plus de 5 700 décès en excès recensés en juin",
    "url": "https://www.tf1info.fr/meteo/orages-comment-le-16-juillet-est-elle-devenue-la-journee-la-plus-foudroyee-de-l-annee-2453681.html",
-   "n_members": 46,
+   "n_members": 47,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -506,7 +536,7 @@
    "terms_left": [
     "morts",
     "personnes",
-    "données"
+    "chaleurs"
    ],
    "terms_right": [
     "ans",
@@ -531,53 +561,53 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.287,
+   "divergence": 0.289,
    "category": "faits-divers",
    "terms_left": [
     "tarn",
-    "aussaguel",
-    "delphine aussaguel"
+    "delphine aussaguel",
+    "aussaguel"
    ],
    "terms_right": [
     "jubillar",
-    "cédric",
-    "avocat"
+    "avocat",
+    "cédric"
    ]
   },
   {
-   "title": "Incendies de forêt : 2026 s’annonce déjà comme une année record en France",
-   "url": "https://www.nicematin.com/societe/vie-locale/ou-est-l-inflexion-promise-pourquoi-le-budget-supplementaire-de-la-ville-d-antibes-a-fait-debat-10689044",
-   "n_members": 83,
+   "title": "Incendies : la France sollicite l'aide de l'UE face à des feux hors de contrôle",
+   "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/capacites-de-largage-importantes-pilotage-difficile-on-vous-presente-l-a400m-avion-militaire-transforme-pour-lutter-contre-les-incendies_8114822.html",
+   "n_members": 81,
    "n_sources": 27,
    "counts": {
-    "left": 6,
-    "centre": 12,
+    "left": 3,
+    "centre": 15,
     "right": 9
    },
    "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 3
+    "factuel": 16,
+    "mixte": 6,
+    "opinion": 5
    },
-   "blindspot_score": 0.2,
+   "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.684,
+   "divergence": 0.789,
    "category": "environnement",
    "terms_left": [
-    "début",
-    "espagne",
-    "canicule"
+    "brésilienne",
+    "amazonie",
+    "amazonie brésilienne"
    ],
    "terms_right": [
-    "annonce",
+    "france",
     "face",
-    "fin"
+    "feux"
    ]
   },
   {
    "title": "Guerre au Moyen-Orient : TotalEnergies relance son opération de plafonnement du prix des carburants",
    "url": "https://information.tv5monde.com/international/plus-dessence-pas-de-patience-dans-la-province-russe-lhorrible-penurie-de-carburants-2830668",
-   "n_members": 70,
+   "n_members": 71,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -591,17 +621,17 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.699,
+   "divergence": 0.697,
    "category": "économie",
    "terms_left": [
     "bénéfices",
     "guerre moyen-orient",
-    "guerre"
+    "milliards"
    ],
    "terms_right": [
     "carburants",
-    "conflit",
-    "prix carburants"
+    "prix carburants",
+    "conflit"
    ]
   },
   {
@@ -673,7 +703,7 @@
    },
    "blindspot_score": -0.125,
    "blindspot_for": null,
-   "divergence": 0.202,
+   "divergence": 0.201,
    "category": "politique",
    "terms_left": [
     "nouveau",
@@ -684,36 +714,6 @@
     "nommé",
     "macron",
     "emmanuel"
-   ]
-  },
-  {
-   "title": "Incendies : la France sollicite l'aide de l'UE face à des feux hors de contrôle",
-   "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/capacites-de-largage-importantes-pilotage-difficile-on-vous-presente-l-a400m-avion-militaire-transforme-pour-lutter-contre-les-incendies_8114822.html",
-   "n_members": 77,
-   "n_sources": 26,
-   "counts": {
-    "left": 3,
-    "centre": 15,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 5,
-    "opinion": 5
-   },
-   "blindspot_score": 0.455,
-   "blindspot_for": null,
-   "divergence": 0.788,
-   "category": "environnement",
-   "terms_left": [
-    "brésilienne",
-    "amazonie",
-    "amazonie brésilienne"
-   ],
-   "terms_right": [
-    "france",
-    "face",
-    "incendies"
    ]
   },
   {
@@ -927,7 +927,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.55,
+   "divergence": 0.56,
    "category": "société",
    "terms_left": [
     "budget",
@@ -936,8 +936,8 @@
    ],
    "terms_right": [
     "euros",
-    "médicaments",
-    "annuel"
+    "annuel",
+    "maladie"
    ]
   },
   {
@@ -1069,11 +1069,11 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.322,
+   "divergence": 0.323,
    "category": "international",
    "terms_left": [
-    "visé",
     "viols",
+    "visé",
     "ancien"
    ],
    "terms_right": [
@@ -1083,9 +1083,39 @@
    ]
   },
   {
-   "title": "Incendie dans le Var: le feu progresse à \"une vitesse très importante\", près de 900 pompiers sont mobilisés",
+   "title": "Protoxyde d'azote, rodéos urbains, free parties... Le Parlement adopte définitivement le projet de loi Ripost de Laurent Nuñez",
+   "url": "https://www.ouest-france.fr/politique/institutions/assemblee-nationale/loi-ripost-majorite-numerique-loi-agricole-quels-textes-doivent-etre-examines-cette-semaine-f02c0b0a-841a-11f1-8650-d79ccbde952a",
+   "n_members": 38,
+   "n_sources": 24,
+   "counts": {
+    "left": 3,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.4,
+   "blindspot_for": null,
+   "divergence": 0.681,
+   "category": "politique",
+   "terms_left": [
+    "associations",
+    "santé",
+    "risque"
+   ],
+   "terms_right": [
+    "projet",
+    "définitivement",
+    "parlement"
+   ]
+  },
+  {
+   "title": "EN DIRECT - Incendies : 2.000 hectares brûlés en Gironde, au moins 12.000 personnes évacuées au total",
    "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
-   "n_members": 239,
+   "n_members": 240,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1099,7 +1129,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.465,
+   "divergence": 0.466,
    "category": "environnement",
    "terms_left": [
     "hectares brûlés",
@@ -1140,36 +1170,6 @@
     "deschamps",
     "didier",
     "didier deschamps"
-   ]
-  },
-  {
-   "title": "« Seuls les lâches jouent en reculant » : le discours marquant de Messi et Martinez lors de la finale contre l’Espagne",
-   "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/pour-les-malouines-40-ans-apres-la-guerre-encore-source-de-tensions-avant-la-demi-finale-angleterre-argentine-12-07-2026-HBFWGZHZEFDUZENYFGSPTQN4FI.php",
-   "n_members": 144,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 1
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.629,
-   "category": "sport",
-   "terms_left": [
-    "argentines",
-    "malouines argentines",
-    "trump"
-   ],
-   "terms_right": [
-    "messi",
-    "argentins",
-    "finale coupe"
    ]
   }
  ]
