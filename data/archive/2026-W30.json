@@ -1,6 +1,6 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-25T17:51:53+00:00",
+ "generated_at": "2026-07-25T18:53:44+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -29,9 +29,9 @@
     "mixte"
    ],
    "terms_right": [
-    "mineurs",
-    "sociaux mineurs",
-    "loi interdisant"
+    "loi interdisant",
+    "interdisant",
+    "enfants"
    ]
   },
   {
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.186,
+   "divergence": 0.185,
    "category": "politique",
    "terms_left": [
     "duplomb",
@@ -97,7 +97,7 @@
   {
    "title": "EN DIRECT - Incendies : le feu qui sévit en Gironde se dirige vers Bordeaux, sept nouvelles communes évacuées",
    "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 367,
+   "n_members": 376,
    "n_sources": 32,
    "counts": {
     "left": 8,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.449,
+   "divergence": 0.462,
    "category": "environnement",
    "terms_left": [
     "milliers",
@@ -120,8 +120,8 @@
    ],
    "terms_right": [
     "pompiers",
-    "feu",
-    "sud"
+    "sud",
+    "var"
    ]
   },
   {
@@ -141,12 +141,12 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.234,
+   "divergence": 0.233,
    "category": "international",
    "terms_left": [
     "street",
-    "downing",
-    "downing street"
+    "downing street",
+    "downing"
    ],
    "terms_right": [
     "britannique",
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.484,
+   "divergence": 0.483,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -206,12 +206,42 @@
    "terms_left": [
     "eau",
     "écologique",
-    "transition écologique"
+    "barbut reste"
    ],
    "terms_right": [
-    "marine",
+    "macron",
     "écologie",
-    "écologique monique"
+    "marine"
+   ]
+  },
+  {
+   "title": "Incendies de forêt : 2026 s’annonce déjà comme une année record en France",
+   "url": "https://www.nicematin.com/societe/vie-locale/ou-est-l-inflexion-promise-pourquoi-le-budget-supplementaire-de-la-ville-d-antibes-a-fait-debat-10689044",
+   "n_members": 95,
+   "n_sources": 30,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.635,
+   "category": "environnement",
+   "terms_left": [
+    "début",
+    "canicule",
+    "météo"
+   ],
+   "terms_right": [
+    "record",
+    "surfaces",
+    "face"
    ]
   },
   {
@@ -247,7 +277,7 @@
   {
    "title": "EN DIRECT - Guerre au Moyen-Orient : «13e nuit consécutive» de bombardements américains en Iran, le pétrole au-dessus des 100 dollars",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 451,
+   "n_members": 452,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -321,23 +351,23 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.158,
+   "divergence": 0.142,
    "category": "culture",
    "terms_left": [
-    "droite",
     "boycott",
+    "droite",
     "extrême"
    ],
    "terms_right": [
-    "jours",
+    "butch interrompu",
     "violence",
-    "butch interrompu"
+    "dj barbara"
    ]
   },
   {
    "title": "Des personnes se revendiquant de la DZ Mafia \"condamnent\" les menaces contre le maire d’Alès et nient toute implication",
    "url": "https://www.leprogres.fr/faits-divers-justice/2026/07/16/le-maire-d-ales-recoit-deux-balles-de-9-mm-signees-dz-mafia",
-   "n_members": 120,
+   "n_members": 121,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -365,36 +395,6 @@
    ]
   },
   {
-   "title": "Incendies de forêt : 2026 s’annonce déjà comme une année record en France",
-   "url": "https://www.nicematin.com/societe/vie-locale/ou-est-l-inflexion-promise-pourquoi-le-budget-supplementaire-de-la-ville-d-antibes-a-fait-debat-10689044",
-   "n_members": 94,
-   "n_sources": 29,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 9,
-    "opinion": 4
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.635,
-   "category": "environnement",
-   "terms_left": [
-    "début",
-    "canicule",
-    "météo"
-   ],
-   "terms_right": [
-    "record",
-    "surfaces",
-    "face"
-   ]
-  },
-  {
    "title": "Fronde étudiante en Inde: Modi promet de punir les fraudeurs, les manifestants persistent",
    "url": "https://www.lejdd.fr/International/royaume-uni-nigel-farage-face-au-comte-tete-de-poubelle-lors-dune-legislative-partielle-178632",
    "n_members": 89,
@@ -416,12 +416,12 @@
    "terms_left": [
     "ministre",
     "cafards",
-    "police"
+    "inde"
    ],
    "terms_right": [
     "farage",
-    "nigel",
-    "nigel farage"
+    "nigel farage",
+    "nigel"
    ]
   },
   {
@@ -531,17 +531,17 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.482,
+   "divergence": 0.489,
    "category": "environnement",
    "terms_left": [
     "morts",
     "personnes",
-    "face"
+    "canicule morts"
    ],
    "terms_right": [
     "ans",
     "sud",
-    "épisode"
+    "radio"
    ]
   },
   {
@@ -561,12 +561,12 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.289,
+   "divergence": 0.288,
    "category": "faits-divers",
    "terms_left": [
     "tarn",
-    "aussaguel",
-    "delphine aussaguel"
+    "delphine aussaguel",
+    "aussaguel"
    ],
    "terms_right": [
     "jubillar",
@@ -689,7 +689,7 @@
   {
    "title": "Soupçons de projet d’attaque visant une synagogue à Sarcelles : six hommes présentés à la justice ce samedi",
    "url": "https://www.ladepeche.fr/2026/07/20/reportage-cest-une-honte-je-ne-trouve-pas-ca-normal-pourquoi-le-debat-sur-le-burkini-refait-surface-cet-ete-dans-cette-commune-pres-de-toulouse-13476329.php",
-   "n_members": 58,
+   "n_members": 59,
    "n_sources": 27,
    "counts": {
     "left": 3,
@@ -703,7 +703,7 @@
    },
    "blindspot_score": 0.538,
    "blindspot_for": null,
-   "divergence": 0.67,
+   "divergence": 0.674,
    "category": "politique",
    "terms_left": [
     "adoptée",
@@ -711,9 +711,9 @@
     "loi ripost"
    ],
    "terms_right": [
+    "projet",
     "justice",
-    "sarcelles",
-    "hommes"
+    "sarcelles"
    ]
   },
   {
@@ -749,7 +749,7 @@
   {
    "title": "INFO BFMTV. Le Premier ministre a demandé aux armées de faire opérer l’A400M aujourd’hui pour lutter contre les incendies en Gironde",
    "url": "https://www.nicematin.com/sante/il-sera-peut-etre-interdit-de-fumer-et-vapoter-en-terrasse-ou-sur-les-plages-un-projet-de-loi-porte-par-le-gouvernement-en-espagne-10693028",
-   "n_members": 66,
+   "n_members": 68,
    "n_sources": 26,
    "counts": {
     "left": 2,
@@ -763,7 +763,7 @@
    },
    "blindspot_score": 0.692,
    "blindspot_for": "gauche",
-   "divergence": 0.676,
+   "divergence": 0.675,
    "category": "politique",
    "terms_left": [
     "budget",
@@ -772,7 +772,7 @@
    "terms_right": [
     "gironde",
     "incendies",
-    "lecornu"
+    "avion"
    ]
   },
   {
@@ -1078,7 +1078,7 @@
    "terms_right": [
     "grippe",
     "autorité",
-    "haute autorité"
+    "autorité santé"
    ]
   },
   {
@@ -1128,7 +1128,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.199,
+   "divergence": 0.2,
    "category": "international",
    "terms_left": [
     "pédocriminel américain",
@@ -1136,8 +1136,8 @@
     "pédocriminel"
    ],
    "terms_right": [
-    "siad",
     "daniel siad",
+    "siad",
     "daniel"
    ]
   },
@@ -1163,11 +1163,11 @@
    "terms_left": [
     "hectares brûlés",
     "brûlés",
-    "partis fumée"
+    "var hectares"
    ],
    "terms_right": [
-    "feu",
     "incendie",
+    "feu",
     "incendie var"
    ]
   }
