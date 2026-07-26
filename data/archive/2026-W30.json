@@ -1,6 +1,6 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-26T17:55:51+00:00",
+ "generated_at": "2026-07-26T18:57:15+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.083,
    "blindspot_for": null,
-   "divergence": 0.124,
+   "divergence": 0.123,
    "category": "politique",
    "terms_left": [
     "vote",
@@ -29,7 +29,7 @@
     "sociaux ans"
    ],
    "terms_right": [
-    "parlement",
+    "enfants",
     "proposition loi",
     "proposition"
    ]
@@ -97,7 +97,7 @@
   {
    "title": "EN DIRECT - Incendies : le feu qui sévit en Gironde se dirige vers Bordeaux, sept nouvelles communes évacuées",
    "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 529,
+   "n_members": 537,
    "n_sources": 34,
    "counts": {
     "left": 8,
@@ -111,17 +111,17 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.456,
+   "divergence": 0.458,
    "category": "environnement",
    "terms_left": [
     "milliers",
-    "landes",
-    "hectares"
+    "hectares",
+    "landes"
    ],
    "terms_right": [
     "pompiers",
-    "var",
-    "communes"
+    "communes",
+    "var"
    ]
   },
   {
@@ -420,8 +420,8 @@
    ],
    "terms_right": [
     "farage",
-    "nigel",
-    "nigel farage"
+    "nigel farage",
+    "nigel"
    ]
   },
   {
@@ -509,9 +509,9 @@
     "douanière"
    ],
    "terms_right": [
+    "arabie",
     "arabie saoudite",
-    "saoudite",
-    "arabie"
+    "saoudite"
    ]
   },
   {
@@ -621,7 +621,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.725,
+   "divergence": 0.729,
    "category": "économie",
    "terms_left": [
     "milliards",
@@ -687,6 +687,36 @@
    ]
   },
   {
+   "title": "Attaque pendant la gay pride de Berlin : suspect de 21 ans recherché, milieu islamiste… Le point sur l’enquête",
+   "url": "http://fr.euronews.com/my-europe/2026/07/23/allemagne-une-attaque-au-couteau-dans-une-banque-de-ratisbonne-fait-un-mort",
+   "n_members": 61,
+   "n_sources": 27,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 5
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.414,
+   "category": "international",
+   "terms_left": [
+    "mort",
+    "terroriste",
+    "mort blessés"
+   ],
+   "terms_right": [
+    "suspect",
+    "gay pride",
+    "gay"
+   ]
+  },
+  {
    "title": "Soupçons de projet d’attaque visant une synagogue à Sarcelles : six hommes présentés à la justice ce samedi",
    "url": "https://www.ladepeche.fr/2026/07/20/reportage-cest-une-honte-je-ne-trouve-pas-ca-normal-pourquoi-le-debat-sur-le-burkini-refait-surface-cet-ete-dans-cette-commune-pres-de-toulouse-13476329.php",
    "n_members": 60,
@@ -714,36 +744,6 @@
     "projet",
     "justice",
     "sarcelles"
-   ]
-  },
-  {
-   "title": "Gay pride de Berlin : une voiture fonce dans la foule, un mort et seize blessés, un suspect lié \"au milieu islamiste\"",
-   "url": "http://fr.euronews.com/my-europe/2026/07/23/allemagne-une-attaque-au-couteau-dans-une-banque-de-ratisbonne-fait-un-mort",
-   "n_members": 57,
-   "n_sources": 27,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 5
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.413,
-   "category": "international",
-   "terms_left": [
-    "mort",
-    "terroriste",
-    "mort blessés"
-   ],
-   "terms_right": [
-    "suspect",
-    "gay pride",
-    "gay"
    ]
   },
   {
@@ -853,12 +853,12 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.583,
+   "divergence": 0.57,
    "category": "international",
    "terms_left": [
     "urgence",
     "point fusionner",
-    "pays"
+    "état urgence"
    ],
    "terms_right": [
     "feu",
@@ -1051,7 +1051,7 @@
    "category": "société",
    "terms_left": [
     "charge",
-    "plafond franchises",
+    "matignon",
     "reste"
    ],
    "terms_right": [
