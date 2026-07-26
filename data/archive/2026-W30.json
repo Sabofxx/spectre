@@ -1,6 +1,6 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-26T20:06:30+00:00",
+ "generated_at": "2026-07-26T21:25:33+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,17 +21,17 @@
    },
    "blindspot_score": 0.083,
    "blindspot_for": null,
-   "divergence": 0.123,
+   "divergence": 0.12,
    "category": "politique",
    "terms_left": [
     "vote",
-    "interdiction réseaux",
-    "sociaux ans"
+    "sociaux ans",
+    "mixte"
    ],
    "terms_right": [
+    "macron",
     "enfants",
-    "proposition loi",
-    "proposition"
+    "emmanuel"
    ]
   },
   {
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.183,
+   "divergence": 0.182,
    "category": "politique",
    "terms_left": [
     "retour",
@@ -97,7 +97,7 @@
   {
    "title": "EN DIRECT - Incendies : le feu qui sévit en Gironde se dirige vers Bordeaux, sept nouvelles communes évacuées",
    "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 547,
+   "n_members": 556,
    "n_sources": 34,
    "counts": {
     "left": 8,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.461,
+   "divergence": 0.463,
    "category": "environnement",
    "terms_left": [
     "milliers",
@@ -121,7 +121,7 @@
    "terms_right": [
     "pompiers",
     "communes",
-    "var"
+    "sud"
    ]
   },
   {
@@ -145,8 +145,8 @@
    "category": "international",
    "terms_left": [
     "street",
-    "downing street",
-    "downing"
+    "downing",
+    "downing street"
    ],
    "terms_right": [
     "britannique",
@@ -515,9 +515,9 @@
    ]
   },
   {
-   "title": "En Tunisie, les coupures d'électricité se multiplient en pleine canicule",
+   "title": "En Tunisie, une canicule et des coupures de courant en série : “l’État s’en lave les mains”",
    "url": "https://www.tf1info.fr/meteo/orages-comment-le-16-juillet-est-elle-devenue-la-journee-la-plus-foudroyee-de-l-annee-2453681.html",
-   "n_members": 55,
+   "n_members": 56,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -531,16 +531,16 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.553,
+   "divergence": 0.556,
    "category": "environnement",
    "terms_left": [
     "morts",
-    "canicule",
-    "canicule morts"
+    "canicule morts",
+    "canicule"
    ],
    "terms_right": [
-    "ans",
     "chaleur",
+    "ans",
     "faut"
    ]
   },
@@ -635,6 +635,36 @@
    ]
   },
   {
+   "title": "Attaque pendant la gay pride de Berlin : suspect de 21 ans recherché, milieu islamiste… Le point sur l’enquête",
+   "url": "http://fr.euronews.com/my-europe/2026/07/23/allemagne-une-attaque-au-couteau-dans-une-banque-de-ratisbonne-fait-un-mort",
+   "n_members": 65,
+   "n_sources": 27,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 5
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.417,
+   "category": "international",
+   "terms_left": [
+    "mort blessés",
+    "terroriste",
+    "mort"
+   ],
+   "terms_right": [
+    "suspect",
+    "gay pride",
+    "gay"
+   ]
+  },
+  {
    "title": "En France, un quart des cours d'eau sont complètement asséchés",
    "url": "https://reporterre.net/Ne-nous-oubliez-pas-apres-les-canicules-des-milliers-de-sinistres-climatiques",
    "n_members": 64,
@@ -684,36 +714,6 @@
     "france",
     "chaleur",
     "canicule"
-   ]
-  },
-  {
-   "title": "Attaque pendant la gay pride de Berlin : suspect de 21 ans recherché, milieu islamiste… Le point sur l’enquête",
-   "url": "http://fr.euronews.com/my-europe/2026/07/23/allemagne-une-attaque-au-couteau-dans-une-banque-de-ratisbonne-fait-un-mort",
-   "n_members": 63,
-   "n_sources": 27,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 5
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.418,
-   "category": "international",
-   "terms_left": [
-    "mort",
-    "mort blessés",
-    "terroriste"
-   ],
-   "terms_right": [
-    "suspect",
-    "gay pride",
-    "gay"
    ]
   },
   {
@@ -779,7 +779,7 @@
   {
    "title": "Incendie en Gironde : appelé en renfort, l'avion militaire A400M a réussi sa première mission de lutte contre les flammes",
    "url": "https://www.nicematin.com/sante/il-sera-peut-etre-interdit-de-fumer-et-vapoter-en-terrasse-ou-sur-les-plages-un-projet-de-loi-porte-par-le-gouvernement-en-espagne-10693028",
-   "n_members": 75,
+   "n_members": 76,
    "n_sources": 26,
    "counts": {
     "left": 2,
@@ -793,7 +793,7 @@
    },
    "blindspot_score": 0.692,
    "blindspot_for": "gauche",
-   "divergence": 0.69,
+   "divergence": 0.692,
    "category": "politique",
    "terms_left": [
     "budget",
