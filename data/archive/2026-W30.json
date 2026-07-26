@@ -1,6 +1,6 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-26T07:32:43+00:00",
+ "generated_at": "2026-07-26T09:52:20+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.083,
    "blindspot_for": null,
-   "divergence": 0.126,
+   "divergence": 0.128,
    "category": "politique",
    "terms_left": [
     "vote",
@@ -29,9 +29,9 @@
     "mixte"
    ],
    "terms_right": [
-    "loi interdisant",
-    "interdisant",
-    "macron"
+    "parlement",
+    "proposition loi",
+    "proposition"
    ]
   },
   {
@@ -51,11 +51,11 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.183,
+   "divergence": 0.184,
    "category": "politique",
    "terms_left": [
-    "duplomb",
     "retour",
+    "duplomb",
     "parlementaires"
    ],
    "terms_right": [
@@ -97,21 +97,21 @@
   {
    "title": "EN DIRECT - Incendies : le feu qui sévit en Gironde se dirige vers Bordeaux, sept nouvelles communes évacuées",
    "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 450,
-   "n_sources": 32,
+   "n_members": 463,
+   "n_sources": 33,
    "counts": {
     "left": 8,
     "centre": 16,
-    "right": 8
+    "right": 9
    },
    "style_counts": {
     "factuel": 17,
-    "mixte": 11,
+    "mixte": 12,
     "opinion": 4
    },
-   "blindspot_score": 0.0,
+   "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.453,
+   "divergence": 0.454,
    "category": "environnement",
    "terms_left": [
     "landes",
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.488,
+   "divergence": 0.487,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.17,
+   "divergence": 0.168,
    "category": "politique",
    "terms_left": [
     "reste",
@@ -211,7 +211,7 @@
    "terms_right": [
     "écologie",
     "marine",
-    "france"
+    "ministère"
    ]
   },
   {
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.57,
+   "divergence": 0.578,
    "category": "économie",
    "terms_left": [
     "total",
@@ -269,15 +269,15 @@
     "commission"
    ],
    "terms_right": [
-    "donald",
-    "donald trump",
-    "union européenne"
+    "union européenne",
+    "union",
+    "donald"
    ]
   },
   {
    "title": "Les Houthis revendiquent une frappe en Arabie saoudite, nouveau front du conflit au Moyen-Orient",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 457,
+   "n_members": 462,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.31,
+   "divergence": 0.301,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -301,7 +301,7 @@
    "terms_right": [
     "états-unis",
     "guerre moyen-orient",
-    "armée"
+    "américaine"
    ]
   },
   {
@@ -351,17 +351,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.141,
+   "divergence": 0.14,
    "category": "culture",
    "terms_left": [
     "extrême",
     "boycott",
-    "action"
+    "interrompu barbara"
    ],
    "terms_right": [
     "butch interrompu",
-    "dj barbara",
-    "qu"
+    "qu",
+    "dj barbara"
    ]
   },
   {
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.139,
+   "divergence": 0.143,
    "category": "société",
    "terms_left": [
     "alès christophe",
@@ -390,14 +390,14 @@
    ],
    "terms_right": [
     "menacé",
-    "domicile raid",
+    "raid",
     "mort dz"
    ]
   },
   {
-   "title": "Fronde étudiante en Inde: Modi promet de punir les fraudeurs, les manifestants persistent",
+   "title": "Inde: face à la grogne des étudiants, Modi sacrifie son ministre de l'Environnement",
    "url": "https://www.lejdd.fr/International/royaume-uni-nigel-farage-face-au-comte-tete-de-poubelle-lors-dune-legislative-partielle-178632",
-   "n_members": 89,
+   "n_members": 90,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -420,8 +420,8 @@
    ],
    "terms_right": [
     "farage",
-    "nigel",
-    "nigel farage"
+    "nigel farage",
+    "nigel"
    ]
   },
   {
@@ -517,7 +517,7 @@
   {
    "title": "En Tunisie, les coupures d'électricité se multiplient en pleine canicule",
    "url": "https://www.tf1info.fr/meteo/orages-comment-le-16-juillet-est-elle-devenue-la-journee-la-plus-foudroyee-de-l-annee-2453681.html",
-   "n_members": 50,
+   "n_members": 54,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -531,7 +531,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.499,
+   "divergence": 0.51,
    "category": "environnement",
    "terms_left": [
     "morts",
@@ -539,8 +539,8 @@
     "personnes"
    ],
    "terms_right": [
-    "sud",
     "faut",
+    "journée",
     "jusqu"
    ]
   },
@@ -565,8 +565,8 @@
    "category": "faits-divers",
    "terms_left": [
     "tarn",
-    "delphine aussaguel",
-    "aussaguel"
+    "aussaguel",
+    "delphine aussaguel"
    ],
    "terms_right": [
     "jubillar",
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.794,
+   "divergence": 0.797,
    "category": "environnement",
    "terms_left": [
     "brésilienne",
@@ -601,7 +601,7 @@
    "terms_right": [
     "face",
     "france",
-    "fin"
+    "forêt"
    ]
   },
   {
@@ -626,7 +626,7 @@
    "terms_left": [
     "bénéfices",
     "guerre moyen-orient",
-    "milliards"
+    "guerre"
    ],
    "terms_right": [
     "carburants",
@@ -733,12 +733,12 @@
    },
    "blindspot_score": -0.125,
    "blindspot_for": null,
-   "divergence": 0.199,
+   "divergence": 0.198,
    "category": "politique",
    "terms_left": [
     "nouveau",
     "nomination",
-    "devant"
+    "buffet défenseur"
    ],
    "terms_right": [
     "lr françois-noël",
@@ -749,7 +749,7 @@
   {
    "title": "INFO BFMTV. Le Premier ministre a demandé aux armées de faire opérer l’A400M aujourd’hui pour lutter contre les incendies en Gironde",
    "url": "https://www.nicematin.com/sante/il-sera-peut-etre-interdit-de-fumer-et-vapoter-en-terrasse-ou-sur-les-plages-un-projet-de-loi-porte-par-le-gouvernement-en-espagne-10693028",
-   "n_members": 70,
+   "n_members": 72,
    "n_sources": 26,
    "counts": {
     "left": 2,
@@ -763,16 +763,17 @@
    },
    "blindspot_score": 0.692,
    "blindspot_for": "gauche",
-   "divergence": 0.68,
+   "divergence": 0.683,
    "category": "politique",
    "terms_left": [
     "budget",
-    "budget sébastien"
+    "budget sébastien",
+    "sébastien"
    ],
    "terms_right": [
     "gironde",
     "avion",
-    "incendies"
+    "militaire"
    ]
   },
   {
@@ -792,7 +793,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.477,
+   "divergence": 0.476,
    "category": "sport",
    "terms_left": [
     "monde angleterre",
@@ -802,7 +803,7 @@
    "terms_right": [
     "finale",
     "direct",
-    "finale coupe"
+    "madrid"
    ]
   },
   {
@@ -940,9 +941,9 @@
    "terms_right": []
   },
   {
-   "title": "Espagne : 19.000 personnes évacuées près de Madrid à cause du \"pire incendie de l'histoire de la région\", l'urgence nationale déclarée",
+   "title": "Espagne : incendie hors de contrôle près de Valence, 15.000 personnes évacués",
    "url": "https://www.ladepeche.fr/2026/07/22/dix-hectares-de-broussailles-brules-a-cornebarrieu-pres-de-laeroport-de-toulouse-blagnac-40-pompiers-mobilises-sauvent-plusieurs-maisons-menacees-13479797.php",
-   "n_members": 84,
+   "n_members": 88,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -956,7 +957,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.594,
+   "divergence": 0.591,
    "category": "international",
    "terms_left": [
     "pays",
@@ -966,7 +967,7 @@
    "terms_right": [
     "feu",
     "hectares",
-    "qu"
+    "ouest"
    ]
   },
   {
@@ -1016,17 +1017,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.557,
+   "divergence": 0.551,
    "category": "société",
    "terms_left": [
-    "budget",
     "plafond franchises",
-    "plafonds"
+    "plafonds",
+    "plafonds franchises"
    ],
    "terms_right": [
-    "euros",
-    "médicaments",
-    "annuel"
+    "assurance maladie",
+    "assurance",
+    "maladie"
    ]
   },
   {
