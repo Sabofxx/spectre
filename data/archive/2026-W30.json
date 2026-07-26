@@ -1,6 +1,6 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-26T14:26:23+00:00",
+ "generated_at": "2026-07-26T15:37:38+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -97,7 +97,7 @@
   {
    "title": "EN DIRECT - Incendies : le feu qui sévit en Gironde se dirige vers Bordeaux, sept nouvelles communes évacuées",
    "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 498,
+   "n_members": 512,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -111,17 +111,17 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.448,
+   "divergence": 0.451,
    "category": "environnement",
    "terms_left": [
-    "milliers",
     "hectares",
+    "milliers",
     "landes"
    ],
    "terms_right": [
     "pompiers",
-    "sud",
-    "communes"
+    "communes",
+    "sud"
    ]
   },
   {
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.667,
+   "divergence": 0.666,
    "category": "environnement",
    "terms_left": [
     "saison",
@@ -269,8 +269,8 @@
     "inflige"
    ],
    "terms_right": [
-    "donald",
     "donald trump",
+    "donald",
     "droits"
    ]
   },
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.345,
+   "divergence": 0.347,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -331,7 +331,7 @@
    "terms_right": [
     "placés",
     "placés vigilance",
-    "jaune"
+    "vigilance jaune"
    ]
   },
   {
@@ -420,8 +420,8 @@
    ],
    "terms_right": [
     "farage",
-    "nigel farage",
-    "nigel"
+    "nigel",
+    "nigel farage"
    ]
   },
   {
@@ -531,12 +531,12 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.509,
+   "divergence": 0.531,
    "category": "environnement",
    "terms_left": [
     "morts",
     "canicule morts",
-    "personnes"
+    "canicule"
    ],
    "terms_right": [
     "faut",
@@ -565,8 +565,8 @@
    "category": "faits-divers",
    "terms_left": [
     "tarn",
-    "aussaguel",
-    "delphine aussaguel"
+    "delphine aussaguel",
+    "aussaguel"
    ],
    "terms_right": [
     "jubillar",
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.802,
+   "divergence": 0.803,
    "category": "environnement",
    "terms_left": [
     "brésilienne",
@@ -747,6 +747,36 @@
    ]
   },
   {
+   "title": "Gay pride de Berlin : une voiture fonce dans la foule, un mort et seize blessés, un suspect lié \"au milieu islamiste\"",
+   "url": "https://www.leprogres.fr/faits-divers-justice/2026/07/25/plusieurs-blesses-en-marge-de-la-gay-pride-a-berlin-apres-un-possible-incident-avec-une-voiture",
+   "n_members": 44,
+   "n_sources": 27,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 5
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.398,
+   "category": "international",
+   "terms_left": [
+    "mort",
+    "mort blessés",
+    "fonce"
+   ],
+   "terms_right": [
+    "suspect",
+    "gay pride",
+    "pride"
+   ]
+  },
+  {
    "title": "Incendie en Gironde : appelé en renfort, l'avion militaire A400M a réussi sa première mission de lutte contre les flammes",
    "url": "https://www.nicematin.com/sante/il-sera-peut-etre-interdit-de-fumer-et-vapoter-en-terrasse-ou-sur-les-plages-un-projet-de-loi-porte-par-le-gouvernement-en-espagne-10693028",
    "n_members": 74,
@@ -763,7 +793,7 @@
    },
    "blindspot_score": 0.692,
    "blindspot_for": "gauche",
-   "divergence": 0.691,
+   "divergence": 0.69,
    "category": "politique",
    "terms_left": [
     "budget",
@@ -774,36 +804,6 @@
     "gironde",
     "avion",
     "militaire"
-   ]
-  },
-  {
-   "title": "Gay pride de Berlin : une voiture fonce dans la foule, un mort et seize blessés, un suspect lié \"au milieu islamiste\"",
-   "url": "https://www.leprogres.fr/faits-divers-justice/2026/07/25/plusieurs-blesses-en-marge-de-la-gay-pride-a-berlin-apres-un-possible-incident-avec-une-voiture",
-   "n_members": 42,
-   "n_sources": 26,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.412,
-   "category": "international",
-   "terms_left": [
-    "mort",
-    "fonce",
-    "fonce foule"
-   ],
-   "terms_right": [
-    "suspect",
-    "personnes",
-    "état"
    ]
   },
   {
@@ -1047,12 +1047,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.562,
+   "divergence": 0.584,
    "category": "société",
    "terms_left": [
-    "doublement",
-    "plafonds",
-    "plafonds franchises"
+    "plafond franchises",
+    "franchises",
+    "comprendre"
    ],
    "terms_right": [
     "médicaments",
