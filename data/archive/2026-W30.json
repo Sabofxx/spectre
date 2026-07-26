@@ -1,6 +1,6 @@
 {
  "week": "2026-W30",
- "generated_at": "2026-07-26T15:37:38+00:00",
+ "generated_at": "2026-07-26T16:48:32+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -97,25 +97,25 @@
   {
    "title": "EN DIRECT - Incendies : le feu qui sévit en Gironde se dirige vers Bordeaux, sept nouvelles communes évacuées",
    "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 512,
-   "n_sources": 33,
+   "n_members": 525,
+   "n_sources": 34,
    "counts": {
     "left": 8,
     "centre": 16,
-    "right": 9
+    "right": 10
    },
    "style_counts": {
     "factuel": 17,
-    "mixte": 12,
+    "mixte": 13,
     "opinion": 4
    },
-   "blindspot_score": 0.059,
+   "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.451,
+   "divergence": 0.448,
    "category": "environnement",
    "terms_left": [
-    "hectares",
     "milliers",
+    "hectares",
     "landes"
    ],
    "terms_right": [
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.666,
+   "divergence": 0.667,
    "category": "environnement",
    "terms_left": [
     "saison",
@@ -269,15 +269,15 @@
     "inflige"
    ],
    "terms_right": [
-    "donald trump",
     "donald",
+    "donald trump",
     "droits"
    ]
   },
   {
    "title": "Les Houthis revendiquent une frappe en Arabie saoudite, nouveau front du conflit au Moyen-Orient",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 464,
+   "n_members": 466,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.14,
+   "divergence": 0.141,
    "category": "culture",
    "terms_left": [
     "extrême",
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.144,
+   "divergence": 0.143,
    "category": "société",
    "terms_left": [
     "alès christophe",
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.661,
+   "divergence": 0.66,
    "category": "international",
    "terms_left": [
     "ministre",
@@ -420,8 +420,8 @@
    ],
    "terms_right": [
     "farage",
-    "nigel",
-    "nigel farage"
+    "nigel farage",
+    "nigel"
    ]
   },
   {
@@ -501,17 +501,17 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.581,
+   "divergence": 0.585,
    "category": "international",
    "terms_left": [
     "annoncé",
     "président",
-    "surtaxes"
+    "douanière"
    ],
    "terms_right": [
-    "droits douane",
-    "douane",
-    "arabie saoudite"
+    "arabie saoudite",
+    "arabie",
+    "saoudite"
    ]
   },
   {
@@ -531,17 +531,17 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.531,
+   "divergence": 0.555,
    "category": "environnement",
    "terms_left": [
     "morts",
-    "canicule morts",
-    "canicule"
+    "canicule",
+    "canicule morts"
    ],
    "terms_right": [
-    "faut",
-    "journée",
-    "jusqu"
+    "ans",
+    "chaleur",
+    "faut"
    ]
   },
   {
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.803,
+   "divergence": 0.798,
    "category": "environnement",
    "terms_left": [
     "brésilienne",
@@ -599,8 +599,8 @@
     "amazonie brésilienne"
    ],
    "terms_right": [
-    "face",
     "france",
+    "face",
     "forêt"
    ]
   },
@@ -621,7 +621,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.711,
+   "divergence": 0.712,
    "category": "économie",
    "terms_left": [
     "milliards",
@@ -717,6 +717,36 @@
    ]
   },
   {
+   "title": "Gay pride de Berlin : une voiture fonce dans la foule, un mort et seize blessés, un suspect lié \"au milieu islamiste\"",
+   "url": "https://www.leprogres.fr/faits-divers-justice/2026/07/25/plusieurs-blesses-en-marge-de-la-gay-pride-a-berlin-apres-un-possible-incident-avec-une-voiture",
+   "n_members": 48,
+   "n_sources": 27,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 5
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.399,
+   "category": "international",
+   "terms_left": [
+    "mort",
+    "mort blessés",
+    "fonce"
+   ],
+   "terms_right": [
+    "gay pride",
+    "gay",
+    "pride"
+   ]
+  },
+  {
    "title": "Malgré les oppositions et son profil réactionnaire, François-Noël Buffet est le nouveau Défenseur des droits",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/la-proposition-de-francois-noel-buffet-comme-defenseur-des-droits-est-une-provocation-deplore-le-planning-familial-7354423",
    "n_members": 44,
@@ -747,39 +777,9 @@
    ]
   },
   {
-   "title": "Gay pride de Berlin : une voiture fonce dans la foule, un mort et seize blessés, un suspect lié \"au milieu islamiste\"",
-   "url": "https://www.leprogres.fr/faits-divers-justice/2026/07/25/plusieurs-blesses-en-marge-de-la-gay-pride-a-berlin-apres-un-possible-incident-avec-une-voiture",
-   "n_members": 44,
-   "n_sources": 27,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 5
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.398,
-   "category": "international",
-   "terms_left": [
-    "mort",
-    "mort blessés",
-    "fonce"
-   ],
-   "terms_right": [
-    "suspect",
-    "gay pride",
-    "pride"
-   ]
-  },
-  {
    "title": "Incendie en Gironde : appelé en renfort, l'avion militaire A400M a réussi sa première mission de lutte contre les flammes",
    "url": "https://www.nicematin.com/sante/il-sera-peut-etre-interdit-de-fumer-et-vapoter-en-terrasse-ou-sur-les-plages-un-projet-de-loi-porte-par-le-gouvernement-en-espagne-10693028",
-   "n_members": 74,
+   "n_members": 75,
    "n_sources": 26,
    "counts": {
     "left": 2,
@@ -834,6 +834,36 @@
     "finale",
     "direct",
     "pays"
+   ]
+  },
+  {
+   "title": "Espagne : incendie hors de contrôle près de Valence, 15.000 personnes évacués",
+   "url": "https://www.ladepeche.fr/2026/07/22/dix-hectares-de-broussailles-brules-a-cornebarrieu-pres-de-laeroport-de-toulouse-blagnac-40-pompiers-mobilises-sauvent-plusieurs-maisons-menacees-13479797.php",
+   "n_members": 97,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.583,
+   "category": "international",
+   "terms_left": [
+    "urgence",
+    "point fusionner",
+    "pays"
+   ],
+   "terms_right": [
+    "feu",
+    "hectares",
+    "qu"
    ]
   },
   {
@@ -971,36 +1001,6 @@
    "terms_right": []
   },
   {
-   "title": "Espagne : incendie hors de contrôle près de Valence, 15.000 personnes évacués",
-   "url": "https://www.ladepeche.fr/2026/07/22/dix-hectares-de-broussailles-brules-a-cornebarrieu-pres-de-laeroport-de-toulouse-blagnac-40-pompiers-mobilises-sauvent-plusieurs-maisons-menacees-13479797.php",
-   "n_members": 95,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.588,
-   "category": "international",
-   "terms_left": [
-    "pays",
-    "urgence",
-    "point fusionner"
-   ],
-   "terms_right": [
-    "feu",
-    "hectares",
-    "qu"
-   ]
-  },
-  {
    "title": "Venezuela : un mois après le double séisme, où en est le bilan ?",
    "url": "https://www.mediapart.fr/journal/international/150726/depasse-par-le-seisme-le-venezuela-engage-une-ouverture-limitee",
    "n_members": 76,
@@ -1047,12 +1047,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.584,
+   "divergence": 0.588,
    "category": "société",
    "terms_left": [
+    "charge",
     "plafond franchises",
-    "franchises",
-    "comprendre"
+    "reste"
    ],
    "terms_right": [
     "médicaments",
