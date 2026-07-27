@@ -1,6 +1,6 @@
 {
  "week": "2026-W31",
- "generated_at": "2026-07-27T12:13:18+00:00",
+ "generated_at": "2026-07-27T15:23:15+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "EN DIRECT - Incendies : le feu qui sévit en Gironde se dirige vers Bordeaux, sept nouvelles communes évacuées",
    "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 600,
+   "n_members": 610,
    "n_sources": 36,
    "counts": {
     "left": 8,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.456,
+   "divergence": 0.451,
    "category": "environnement",
    "terms_left": [
     "milliers",
@@ -81,12 +81,12 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.627,
+   "divergence": 0.628,
    "category": "environnement",
    "terms_left": [
     "saison",
-    "début année",
-    "canicule"
+    "intérieur",
+    "ministre intérieur"
    ],
    "terms_right": [
     "record",
@@ -95,9 +95,39 @@
    ]
   },
   {
+   "title": "\"Mon corps n'est pas encore descendu en température\" : jambes gonflées, fatigue, crises d'angoisse... Ils sont traumatisés par la canicule de juin 2026",
+   "url": "https://www.tf1info.fr/meteo/orages-comment-le-16-juillet-est-elle-devenue-la-journee-la-plus-foudroyee-de-l-annee-2453681.html",
+   "n_members": 60,
+   "n_sources": 30,
+   "counts": {
+    "left": 6,
+    "centre": 16,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 19,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.561,
+   "category": "environnement",
+   "terms_left": [
+    "morts",
+    "canicule morts",
+    "gironde"
+   ],
+   "terms_right": [
+    "ans",
+    "faut",
+    "pompiers"
+   ]
+  },
+  {
    "title": "L'Iran épargné par les bombardements américains pour la deuxième nuit consécutive",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 478,
+   "n_members": 481,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -122,6 +152,36 @@
     "états-unis",
     "guerre moyen-orient",
     "américaine"
+   ]
+  },
+  {
+   "title": "Orages : voici les 13 départements placés en vigilance jaune ce dimanche",
+   "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
+   "n_members": 342,
+   "n_sources": 29,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 11,
+    "opinion": 2
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.357,
+   "category": "environnement",
+   "terms_left": [
+    "direct",
+    "direct canicule",
+    "rouge"
+   ],
+   "terms_right": [
+    "placés",
+    "placés vigilance",
+    "vigilance jaune"
    ]
   },
   {
@@ -150,44 +210,44 @@
    ],
    "terms_right": [
     "farage",
-    "nigel",
-    "nigel farage"
+    "nigel farage",
+    "nigel"
    ]
   },
   {
-   "title": "En Tunisie, une canicule et des coupures de courant en série : “l’État s’en lave les mains”",
-   "url": "https://www.tf1info.fr/meteo/orages-comment-le-16-juillet-est-elle-devenue-la-journee-la-plus-foudroyee-de-l-annee-2453681.html",
-   "n_members": 59,
-   "n_sources": 29,
+   "title": "DIRECT. Incendies : le feu toujours pas maîtrisé en Gironde ; situation « stable » durant la nuit",
+   "url": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-lege-cap-ferret-une-habitation-ravagee-par-le-feu-23-07_VN-202607230679.html",
+   "n_members": 90,
+   "n_sources": 28,
    "counts": {
-    "left": 6,
+    "left": 5,
     "centre": 16,
     "right": 7
    },
    "style_counts": {
-    "factuel": 18,
-    "mixte": 8,
-    "opinion": 3
+    "factuel": 17,
+    "mixte": 9,
+    "opinion": 2
    },
-   "blindspot_score": 0.077,
+   "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.561,
+   "divergence": 0.573,
    "category": "environnement",
    "terms_left": [
-    "morts",
-    "gironde",
-    "canicule morts"
+    "accalmie",
+    "chaleur",
+    "direct"
    ],
    "terms_right": [
-    "ans",
-    "bilan",
-    "chaleur"
+    "gironde",
+    "feux",
+    "fixé"
    ]
   },
   {
    "title": "Attaque pendant la gay pride de Berlin : suspect de 21 ans recherché, milieu islamiste… Le point sur l’enquête",
    "url": "http://fr.euronews.com/my-europe/2026/07/23/allemagne-une-attaque-au-couteau-dans-une-banque-de-ratisbonne-fait-un-mort",
-   "n_members": 71,
+   "n_members": 77,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -201,7 +261,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.399,
+   "divergence": 0.403,
    "category": "international",
    "terms_left": [
     "soir",
@@ -215,9 +275,9 @@
    ]
   },
   {
-   "title": "Décryptage. Incendies : pins, sécheresse... Pourquoi les forêts du Sud-Ouest sont-elles si vulnérables ?",
+   "title": "Incendie en Gironde : ces sites industriels sensibles sous haute surveillance face au feu",
    "url": "https://www.20minutes.fr/societe/4235773-20260722-professionnels-volontaires-combien-touchent-pompiers-sauver-vies-lutter-contre-flammes",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -231,7 +291,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.785,
+   "divergence": 0.786,
    "category": "environnement",
    "terms_left": [
     "algérie",
@@ -242,6 +302,36 @@
     "flammes",
     "pompiers",
     "forêt"
+   ]
+  },
+  {
+   "title": "Canicule : une « nouvelle vague de chaleur » annoncée à partir de mardi",
+   "url": "https://www.valeursactuelles.com/clubvaleurs/societe/quand-la-canicule-met-lecologie-politique-a-lepreuve-du-reel",
+   "n_members": 92,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.771,
+   "category": "environnement",
+   "terms_left": [
+    "canicules",
+    "français",
+    "toulouse"
+   ],
+   "terms_right": [
+    "chaleur",
+    "vague chaleur",
+    "températures"
    ]
   },
   {
@@ -269,7 +359,7 @@
   {
    "title": "Espagne : incendie hors de contrôle près de Valence, 15.000 personnes évacués",
    "url": "https://www.ladepeche.fr/2026/07/22/dix-hectares-de-broussailles-brules-a-cornebarrieu-pres-de-laeroport-de-toulouse-blagnac-40-pompiers-mobilises-sauvent-plusieurs-maisons-menacees-13479797.php",
-   "n_members": 107,
+   "n_members": 111,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -283,23 +373,23 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.545,
+   "divergence": 0.567,
    "category": "international",
    "terms_left": [
-    "point fusionner",
-    "fusionner",
-    "point"
+    "urgence",
+    "état",
+    "autour madrid"
    ],
    "terms_right": [
     "hectares",
     "flammes",
-    "forêt"
+    "feu"
    ]
   },
   {
    "title": "Normandie : les plages du Débarquement inscrites au patrimoine mondial de l'Unesco",
    "url": "https://www.radiofrance.fr/francebleu/podcasts/l-info-d-ici-ici-normandie-calvados-orne/plages-du-debarquement-a-l-unesco-pourquoi-omaha-beach-reste-la-plus-emblematique-4952739",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -323,67 +413,37 @@
    "terms_right": [
     "mondial",
     "plages débarquement",
-    "patrimoine mondial"
+    "plages"
    ]
   },
   {
-   "title": "Un quatrième épisode de fortes chaleurs, et très probablement de canicule, attendu à partir de mardi",
-   "url": "https://www.valeursactuelles.com/clubvaleurs/societe/quand-la-canicule-met-lecologie-politique-a-lepreuve-du-reel",
-   "n_members": 87,
+   "title": "EN DIRECT - Incendie en Gironde : la situation est restée \"globalement stable au cours de la nuit\"",
+   "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
+   "n_members": 266,
    "n_sources": 24,
    "counts": {
     "left": 4,
-    "centre": 13,
-    "right": 7
+    "centre": 12,
+    "right": 8
    },
    "style_counts": {
-    "factuel": 14,
+    "factuel": 15,
     "mixte": 6,
-    "opinion": 4
+    "opinion": 3
    },
-   "blindspot_score": 0.273,
+   "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.85,
+   "divergence": 0.458,
    "category": "environnement",
    "terms_left": [
-    "canicules",
-    "incendies",
-    "français"
+    "hectares brûlés",
+    "brûlés",
+    "pays"
    ],
    "terms_right": [
-    "france",
-    "vague chaleur",
-    "vague"
-   ]
-  },
-  {
-   "title": "REPLAY : Point presse du dimanche 26 juillet de la Préfète de la Gironde sur les incendies",
-   "url": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-lege-cap-ferret-une-habitation-ravagee-par-le-feu-23-07_VN-202607230679.html",
-   "n_members": 67,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.713,
-   "category": "environnement",
-   "terms_left": [
-    "face",
-    "hectares",
-    "chaleur"
-   ],
-   "terms_right": [
-    "pyrocumulonimbus",
-    "orage",
-    "orage feu"
+    "incendie",
+    "feu",
+    "incendie var"
    ]
   },
   {
@@ -403,47 +463,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.401,
+   "divergence": 0.393,
    "category": "société",
    "terms_left": [
-    "retenue",
     "mois",
-    "prison"
+    "prison",
+    "condamné"
    ],
    "terms_right": [
     "thomas",
     "thomas crépol",
-    "crépol"
-   ]
-  },
-  {
-   "title": "EN DIRECT - Incendie en Gironde : la situation est restée \"globalement stable au cours de la nuit\"",
-   "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
-   "n_members": 259,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.457,
-   "category": "environnement",
-   "terms_left": [
-    "hectares brûlés",
-    "brûlés",
-    "pays"
-   ],
-   "terms_right": [
-    "incendie",
-    "incendie var",
-    "feu"
+    "racisme"
    ]
   },
   {
@@ -479,7 +509,7 @@
   {
    "title": "Incendies dans le Var : 4.000 hectares brûlés et 2.000 personnes toujours évacuées à cause de plusieurs reprises de feu",
    "url": "https://www.cnews.fr/france/2026-07-17/incendies-les-pompiers-denoncent-des-rates-lies-des-normes-antipollution",
-   "n_members": 115,
+   "n_members": 116,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -501,7 +531,7 @@
   {
    "title": "Brésil: Flavio Bolsonaro, le fils de l'ancien président, investi candidat à l'élection présidentielle",
    "url": "https://www.20minutes.fr/politique/assemblee_nationale/4234766-20260719-presidentielle-2027-revanchard-francois-hollande-peut-etre-joker-cache-gauche",
-   "n_members": 62,
+   "n_members": 63,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -515,12 +545,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.814,
+   "divergence": 0.787,
    "category": "politique",
    "terms_left": [
     "russe",
     "candidats",
-    "banques"
+    "marine"
    ],
    "terms_right": [
     "président",
@@ -529,9 +559,9 @@
    ]
   },
   {
-   "title": "\"Je trouve ça inhumain\", un concert-hommage à Queen annulé par la mairie d'Orange",
+   "title": "Star Academy : en opposition à la corrida, plusieurs élèves sèchent le concert des arènes de Bayonne",
    "url": "https://www.liberation.fr/idees-et-debats/tribunes/concert-interrompu-de-barbara-butch-agresser-une-dj-juive-ne-liberera-pas-la-palestine-20260721_VGSOVPKEGNHTZAQ7BMMCIIIIOY/",
-   "n_members": 56,
+   "n_members": 57,
    "n_sources": 22,
    "counts": {
     "left": 7,
@@ -545,17 +575,47 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.514,
+   "divergence": 0.518,
    "category": "culture",
    "terms_left": [
     "violences",
-    "visant",
-    "accusations"
+    "sexuelles",
+    "artistes"
    ],
    "terms_right": [
     "concert",
-    "chanteur",
-    "ans"
+    "mosimann",
+    "chanteur"
+   ]
+  },
+  {
+   "title": "\"Un acte honteux\": un maire de la Sarthe victime d'une agression physique et verbale par un automobiliste",
+   "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/un-mauvais-polar-reporters-sans-frontieres-accuse-la-mairie-d-annecy-d-avoir-tente-d-etouffer-une-affaire-de-viol-mettant-en-cause-le-premier-adjoint-au-maire_8114753.html",
+   "n_members": 58,
+   "n_sources": 21,
+   "counts": {
+    "left": 4,
+    "centre": 9,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 6,
+    "opinion": 5
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.816,
+   "category": "faits-divers",
+   "terms_left": [
+    "viol",
+    "annecy",
+    "affaire"
+   ],
+   "terms_right": [
+    "maire",
+    "feu",
+    "nice"
    ]
   },
   {
@@ -575,7 +635,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.895,
+   "divergence": 0.894,
    "category": "environnement",
    "terms_left": [
     "souffrir",
@@ -605,7 +665,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.619,
+   "divergence": 0.618,
    "category": "culture",
    "terms_left": [
     "monde",
@@ -619,9 +679,39 @@
    ]
   },
   {
-   "title": "Conflit Russie-Ukraine : 10 personnes tuées dans des frappes sur des zones occupées et un village frontalier",
+   "title": "Dix ans après, la France rend hommage au père Jacques Hamel tué dans un attentat terroriste",
+   "url": "https://www.ouest-france.fr/societe/faits-divers/attentat/attentat-saint-etienne-du-rouvray/attentat-de-saint-etienne-du-rouvray-ce-qu-il-faut-retenir-du-proces-95a641de-a083-11ec-b494-7a5e63fed517",
+   "n_members": 43,
+   "n_sources": 21,
+   "counts": {
+    "left": 3,
+    "centre": 9,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 5,
+    "opinion": 5
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.477,
+   "category": "société",
+   "terms_left": [
+    "rouen",
+    "islamique",
+    "prêtre"
+   ],
+   "terms_right": [
+    "père jacques",
+    "ans assassinat",
+    "jacques"
+   ]
+  },
+  {
+   "title": "EN DIRECT, guerre en Ukraine : une attaque de drones ukrainiens fait deux morts dans le sud de la Russie, selon les autorités locales",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 142,
+   "n_members": 143,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -635,7 +725,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.405,
+   "divergence": 0.414,
    "category": "international",
    "terms_left": [
     "ukrainienne",
@@ -665,61 +755,31 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.899,
+   "divergence": 0.913,
    "category": "société",
    "terms_left": [
-    "hausse",
     "incendie",
-    "incendies"
+    "incendies",
+    "gironde"
    ],
    "terms_right": [
-    "er",
     "feu",
-    "mortelles"
-   ]
-  },
-  {
-   "title": "Tour de France 2026 : le prodige français Paul Seixas se satisfait d'une première Grande Boucle prometteuse",
-   "url": "https://www.cnews.fr/sport/2026-07-12/tour-de-france-2026-un-ancien-vainqueur-detape-sest-casse-une-dent-avec-un-bidon",
-   "n_members": 132,
-   "n_sources": 19,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.446,
-   "category": "sport",
-   "terms_left": [
-    "lioran",
-    "france étape",
-    "étape pogacar"
-   ],
-   "terms_right": [
-    "français",
-    "paul seixas",
-    "paul"
+    "enfants",
+    "météo"
    ]
   },
   {
    "title": "Tour de France 2026 : Tadej Pogacar décroche son 5e sacre, Mathieu van der Poel s'offre la dernière étape à Paris",
    "url": "https://www.ladepeche.fr/2026/07/23/fallait-il-interdire-le-tour-de-france-a-paul-seixas-la-mise-en-place-dune-limitation-dage-a-21-ans-necessaire-dapres-warren-barguil-13480348.php",
-   "n_members": 49,
-   "n_sources": 19,
+   "n_members": 51,
+   "n_sources": 20,
    "counts": {
     "left": 3,
-    "centre": 11,
+    "centre": 12,
     "right": 5
    },
    "style_counts": {
-    "factuel": 12,
+    "factuel": 13,
     "mixte": 5,
     "opinion": 2
    },
@@ -739,9 +799,39 @@
    ]
   },
   {
+   "title": "Tour de France 2026 : le prodige français Paul Seixas se satisfait d'une première Grande Boucle prometteuse",
+   "url": "https://www.cnews.fr/sport/2026-07-12/tour-de-france-2026-un-ancien-vainqueur-detape-sest-casse-une-dent-avec-un-bidon",
+   "n_members": 133,
+   "n_sources": 19,
+   "counts": {
+    "left": 3,
+    "centre": 11,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 5,
+    "opinion": 3
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.445,
+   "category": "sport",
+   "terms_left": [
+    "lioran",
+    "france étape",
+    "étape pogacar"
+   ],
+   "terms_right": [
+    "français",
+    "paul seixas",
+    "paul"
+   ]
+  },
+  {
    "title": "Guerre en Ukraine : la Roumanie a abattu trois drones en trois jours dans son espace aérien, l’ambassadeur russe convoqué",
    "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-pourquoi-la-visite-de-linfluenceuse-pro-trump-laura-loomer-a-kiev-nest-pas-si-anecdotique-22-07-2026-VJKNFDZX4FAA7E3WIL7ULEZER4.php",
-   "n_members": 46,
+   "n_members": 49,
    "n_sources": 19,
    "counts": {
     "left": 2,
@@ -755,17 +845,47 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.604,
+   "divergence": 0.59,
    "category": "international",
    "terms_left": [
-    "zelensky",
+    "ukrainienne",
     "ukraine russie",
-    "soldats"
+    "zelensky"
    ],
    "terms_right": [
     "guerre",
-    "ukraine",
-    "jours"
+    "jours",
+    "ukraine"
+   ]
+  },
+  {
+   "title": "Les Houthis revendiquent une frappe en Arabie saoudite et poursuivent leur blocus en mer Rouge",
+   "url": "https://www.lexpress.fr/monde/proche-moyen-orient/yemen-les-houthis-annoncent-un-blocus-maritime-de-larabie-saoudite-YJQKNRD64ZC3XNYNQSQQT25WRA/",
+   "n_members": 48,
+   "n_sources": 19,
+   "counts": {
+    "left": 3,
+    "centre": 10,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 4,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.602,
+   "category": "international",
+   "terms_left": [
+    "iran",
+    "pétroliers",
+    "civil"
+   ],
+   "terms_right": [
+    "détroit",
+    "houthis",
+    "bab"
    ]
   },
   {
@@ -790,7 +910,7 @@
    "terms_left": [
     "épidémie ebola",
     "dépasser fois",
-    "fois estimations"
+    "ampleur épidémie"
    ],
    "terms_right": [
     "face",
@@ -799,9 +919,53 @@
    ]
   },
   {
-   "title": "Incendies: un feu hors de contrôle près de Valence, en Espagne, 15.000 personnes évacuées",
+   "title": "« On sort les citernes et les tracteurs » : face aux incendies, les agriculteurs se mobilisent pour apporter de l’eau sur le front",
+   "url": "https://www.tf1info.fr/conso/videos/video-secheresse-vers-une-penurie-de-fruits-et-legumes-42310-2453884.html",
+   "n_members": 37,
+   "n_sources": 18,
+   "counts": {
+    "left": 4,
+    "centre": 8,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 5,
+    "opinion": 3
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.691,
+   "category": "environnement",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Trois blessées dans une attaque aux couteaux à Paris, un suspect interpellé",
+   "url": "https://www.leprogres.fr/faits-divers-justice/2026/07/27/trois-personnes-blessees-dans-une-attaque-au-couteau-le-suspect-interpelle",
+   "n_members": 20,
+   "n_sources": 18,
+   "counts": {
+    "left": 2,
+    "centre": 9,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 3,
+    "opinion": 5
+   },
+   "blindspot_score": 0.556,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "faits-divers",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Mégot, barbecue... Six individus interpellés en Gironde pour des actes susceptibles d'aggraver les incendies",
    "url": "https://www.radiofrance.fr/francebleu/podcasts/l-info-d-ici-ici-drome-ardeche/face-au-risque-de-feux-de-foret-le-train-de-l-ardeche-escorte-par-une-citerne-1123108",
-   "n_members": 46,
+   "n_members": 47,
    "n_sources": 17,
    "counts": {
     "left": 2,
@@ -815,7 +979,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.925,
+   "divergence": 0.922,
    "category": "international",
    "terms_left": [
     "france",
@@ -824,7 +988,37 @@
    "terms_right": [
     "incendies",
     "espagne",
-    "madrid"
+    "qu"
+   ]
+  },
+  {
+   "title": "LeBron James «raciste», troisième mandat... Donald Trump multiplie les blagues à l’occasion d’un diner à la Maison Blanche",
+   "url": "https://www.ladepeche.fr/2026/07/23/video-donald-trump-imite-en-plein-meeting-par-un-participant-les-images-deviennent-virales-13481283.php",
+   "n_members": 42,
+   "n_sources": 17,
+   "counts": {
+    "left": 1,
+    "centre": 12,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 2,
+    "opinion": 1
+   },
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": 0.815,
+   "category": "international",
+   "terms_left": [
+    "face",
+    "nouveau",
+    "président"
+   ],
+   "terms_right": [
+    "donald trump",
+    "donald",
+    "trump"
    ]
   },
   {
@@ -850,9 +1044,53 @@
    "terms_right": []
   },
   {
+   "title": "L'Iran annonce avoir convoqué l'ambassadeur français à Téhéran pour \"ingérence\"",
+   "url": "https://www.lefigaro.fr/international/la-tunisie-convoque-l-ambassadrice-de-france-apres-la-diffusion-d-un-entretien-juge-hostile-par-une-chaine-francaise-20260725",
+   "n_members": 20,
+   "n_sources": 16,
+   "counts": {
+    "left": 1,
+    "centre": 9,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 3,
+    "opinion": 2
+   },
+   "blindspot_score": 0.714,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Football : l'improbable raison du rejet de la nomination d'Andrea Pirlo à la tête de l'Italie ?",
+   "url": "https://www.ouest-france.fr/sport/football/equipe-belgique/belgique-mark-van-bommel-va-devenir-le-nouveau-selectionneur-apres-la-fin-de-lere-rudi-garcia-139dfc1e-853e-11f1-94d8-e478b94a49e4",
+   "n_members": 29,
+   "n_sources": 15,
+   "counts": {
+    "left": 2,
+    "centre": 9,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 3,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "sport",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Le procureur de la CPI Karim Khan relevé de ses fonctions après des accusations d'agression sexuelle",
    "url": "https://www.liberation.fr/international/vote-sur-le-maintien-du-procureur-general-de-la-cour-penale-internationale-linstitution-en-sortira-fragilisee-20260724_ODXLLZQG4VCB5OLDYEC3TMIYJA/",
-   "n_members": 20,
+   "n_members": 21,
    "n_sources": 15,
    "counts": {
     "left": 3,
@@ -880,50 +1118,6 @@
    ]
   },
   {
-   "title": "L'Iran annonce avoir convoqué l'ambassadeur français à Téhéran pour \"ingérence\"",
-   "url": "https://www.lefigaro.fr/international/la-tunisie-convoque-l-ambassadrice-de-france-apres-la-diffusion-d-un-entretien-juge-hostile-par-une-chaine-francaise-20260725",
-   "n_members": 19,
-   "n_sources": 15,
-   "counts": {
-    "left": 1,
-    "centre": 8,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 3,
-    "opinion": 2
-   },
-   "blindspot_score": 0.714,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Trois blessées dans une attaque aux couteaux à Paris, un suspect interpellé",
-   "url": "https://www.leprogres.fr/faits-divers-justice/2026/07/27/trois-personnes-blessees-dans-une-attaque-au-couteau-le-suspect-interpelle",
-   "n_members": 16,
-   "n_sources": 15,
-   "counts": {
-    "left": 2,
-    "centre": 8,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 3,
-    "opinion": 3
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
    "title": "Somme. Un septuagénaire mis en examen et écroué pour des viols et agressions sexuelles sur 17 enfants",
    "url": "https://www.franceinfo.fr/faits-divers/le-responsable-d-un-centre-equestre-du-nord-mis-en-examen-pour-viols-sur-six-personnes_8114093.html",
    "n_members": 63,
@@ -942,176 +1136,6 @@
    "blindspot_for": null,
    "divergence": 0.625,
    "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Guadeloupe : un mort et quatre blessés dans l'explosion d'une distillerie",
-   "url": "https://www.leparisien.fr/faits-divers/jai-fait-ce-que-je-devais-faire-une-americaine-inculpee-pour-meurtre-apres-avoir-abattu-un-type-sous-le-lit-de-son-enfant-19-07-2026-TSWRN4JY6JGRZE2APDEWPEJBJY.php",
-   "n_members": 62,
-   "n_sources": 14,
-   "counts": {
-    "left": 0,
-    "centre": 8,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 2,
-    "opinion": 2
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Météo-France a décidé de placer les Bouches-du-Rhône et le Var en vigilance orange «orages» ce samedi après-midi",
-   "url": "https://www.nicematin.com/societe/social/un-preavis-de-greve-depose-pour-le-22-juillet-sur-le-reseau-de-transports-lignes-d-azur-dans-la-metropole-nicoise-10690373",
-   "n_members": 53,
-   "n_sources": 14,
-   "counts": {
-    "left": 2,
-    "centre": 7,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 3,
-    "opinion": 2
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": 0.81,
-   "category": "environnement",
-   "terms_left": [
-    "semaine prochaine",
-    "semaine",
-    "prochaine"
-   ],
-   "terms_right": [
-    "orages",
-    "incendies",
-    "var"
-   ]
-  },
-  {
-   "title": "Pourquoi les données géographiques du téléphone de Cédric Jubillar relancent la piste d'une possible préméditation du meurtre de son épouse",
-   "url": "https://www.liberation.fr/portraits/pierre-debuisson-avocat-de-cedric-jubillar-ses-aveux-20260719_PDHA3BFUPZD5VO3NXFPVG37UVQ/",
-   "n_members": 39,
-   "n_sources": 14,
-   "counts": {
-    "left": 3,
-    "centre": 5,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 7,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.518,
-   "category": "faits-divers",
-   "terms_left": [
-    "femme delphine",
-    "justice",
-    "delphine aussaguel"
-   ],
-   "terms_right": [
-    "aveux",
-    "jubillar",
-    "qu"
-   ]
-  },
-  {
-   "title": "Football : l'improbable raison du rejet de la nomination d'Andrea Pirlo à la tête de l'Italie ?",
-   "url": "https://www.ouest-france.fr/sport/football/equipe-belgique/belgique-mark-van-bommel-va-devenir-le-nouveau-selectionneur-apres-la-fin-de-lere-rudi-garcia-139dfc1e-853e-11f1-94d8-e478b94a49e4",
-   "n_members": 28,
-   "n_sources": 14,
-   "counts": {
-    "left": 2,
-    "centre": 8,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 3,
-    "opinion": 2
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Syrie : En visite à Damas, Antonio Guterres rappelle \"que le plateau du Golan est un territoire syrien\"",
-   "url": "https://www.bfmtv.com/international/moyen-orient/syrie/video-la-syrie-avance-sur-le-front-de-la-justice-transitionnelle-declare-ibrahim-olabi-representant-de-la-syrie-a-l-onu_VN-202607210659.html",
-   "n_members": 27,
-   "n_sources": 14,
-   "counts": {
-    "left": 1,
-    "centre": 8,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 3,
-    "opinion": 2
-   },
-   "blindspot_score": 0.667,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "États-Unis : trois morts et plusieurs blessés dans des tirs à Seattle, un suspect arrêté",
-   "url": "http://fr.euronews.com/2026/07/27/deux-morts-et-cinq-blesses-dans-une-fusillade-lors-dun-festival-gastronomique-a-seattle",
-   "n_members": 15,
-   "n_sources": 14,
-   "counts": {
-    "left": 1,
-    "centre": 7,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 3,
-    "opinion": 2
-   },
-   "blindspot_score": 0.714,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Incendies en Gironde et dans les Landes : quatre établissements de santé déjà évacués, au moins quatre autres en cours",
-   "url": "https://www.leparisien.fr/environnement/incendie-en-gironde-le-scenario-fou-dune-evacuation-de-la-souriciere-du-cap-ferret-23-07-2026-4YAWPPBT4JGNPPAXKYWLLMZODY.php",
-   "n_members": 40,
-   "n_sources": 12,
-   "counts": {
-    "left": 0,
-    "centre": 8,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 1,
-    "opinion": 1
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "environnement",
    "terms_left": [],
    "terms_right": []
   }
