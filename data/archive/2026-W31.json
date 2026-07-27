@@ -1,6 +1,6 @@
 {
  "week": "2026-W31",
- "generated_at": "2026-07-27T17:16:49+00:00",
+ "generated_at": "2026-07-27T18:54:56+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.451,
+   "divergence": 0.459,
    "category": "environnement",
    "terms_left": [
     "milliers",
@@ -67,31 +67,61 @@
   {
    "title": "Incendies : le record annuel des surfaces brûlées en France déjà battu en 2026, d'après des données satellitaires",
    "url": "https://www.nicematin.com/societe/vie-locale/ou-est-l-inflexion-promise-pourquoi-le-budget-supplementaire-de-la-ville-d-antibes-a-fait-debat-10689044",
-   "n_members": 103,
-   "n_sources": 30,
+   "n_members": 104,
+   "n_sources": 31,
    "counts": {
     "left": 6,
-    "centre": 14,
+    "centre": 15,
     "right": 10
    },
    "style_counts": {
-    "factuel": 17,
+    "factuel": 18,
     "mixte": 9,
     "opinion": 4
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.621,
+   "divergence": 0.636,
    "category": "environnement",
    "terms_left": [
     "saison",
-    "intérieur",
-    "ministre intérieur"
+    "canicule",
+    "intérieur"
    ],
    "terms_right": [
     "record",
     "gironde",
-    "surfaces"
+    "face"
+   ]
+  },
+  {
+   "title": "DIRECT. Incendies : le feu toujours pas maîtrisé en Gironde ; situation « stable » durant la nuit",
+   "url": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-lege-cap-ferret-une-habitation-ravagee-par-le-feu-23-07_VN-202607230679.html",
+   "n_members": 106,
+   "n_sources": 30,
+   "counts": {
+    "left": 7,
+    "centre": 16,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 11,
+    "opinion": 2
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.519,
+   "category": "environnement",
+   "terms_left": [
+    "emmanuel",
+    "emmanuel macron",
+    "retour"
+   ],
+   "terms_right": [
+    "préfète",
+    "feux",
+    "incendies gironde"
    ]
   },
   {
@@ -127,7 +157,7 @@
   {
    "title": "L'Iran épargné par les bombardements américains pour la deuxième nuit consécutive",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 481,
+   "n_members": 485,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -141,7 +171,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.294,
+   "divergence": 0.295,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -185,9 +215,9 @@
    ]
   },
   {
-   "title": "\"On s'en sortira\": le maire d'Alès salue les \"milliers de messages de solidarité\" reçus après les menaces de la DZ Mafia",
+   "title": "\"On s'en sortira\" : menacé de mort par la DZ Mafia, le maire d'Alès Christophe Rivenq salue les messages de solidarité de ses concitoyens",
    "url": "https://www.leprogres.fr/faits-divers-justice/2026/07/16/le-maire-d-ales-recoit-deux-balles-de-9-mm-signees-dz-mafia",
-   "n_members": 123,
+   "n_members": 124,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -212,36 +242,6 @@
     "menacé",
     "mort dz",
     "raid"
-   ]
-  },
-  {
-   "title": "DIRECT. Incendies : le feu toujours pas maîtrisé en Gironde ; situation « stable » durant la nuit",
-   "url": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-lege-cap-ferret-une-habitation-ravagee-par-le-feu-23-07_VN-202607230679.html",
-   "n_members": 100,
-   "n_sources": 29,
-   "counts": {
-    "left": 6,
-    "centre": 16,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 10,
-    "opinion": 2
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.525,
-   "category": "environnement",
-   "terms_left": [
-    "face",
-    "mégafeu",
-    "mégafeu gironde"
-   ],
-   "terms_right": [
-    "préfète",
-    "feux",
-    "incendies gironde"
    ]
   },
   {
@@ -272,6 +272,36 @@
     "farage",
     "nigel farage",
     "nigel"
+   ]
+  },
+  {
+   "title": "Incendie en Gironde : A400M, militaires, Canadair, CRS... Un dispositif sans précédent déployé ce samedi pour empêcher le feu d’atteindre Bordeaux",
+   "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/capacites-de-largage-importantes-pilotage-difficile-on-vous-presente-l-a400m-avion-militaire-transforme-pour-lutter-contre-les-incendies_8114822.html",
+   "n_members": 85,
+   "n_sources": 28,
+   "counts": {
+    "left": 4,
+    "centre": 15,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 5
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.811,
+   "category": "environnement",
+   "terms_left": [
+    "incendies gironde",
+    "macron",
+    "europe"
+   ],
+   "terms_right": [
+    "france",
+    "face",
+    "fin"
    ]
   },
   {
@@ -307,7 +337,7 @@
   {
    "title": "Attaque pendant la gay pride de Berlin : suspect de 21 ans recherché, milieu islamiste… Le point sur l’enquête",
    "url": "http://fr.euronews.com/my-europe/2026/07/23/allemagne-une-attaque-au-couteau-dans-une-banque-de-ratisbonne-fait-un-mort",
-   "n_members": 79,
+   "n_members": 81,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -321,12 +351,12 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.404,
+   "divergence": 0.411,
    "category": "international",
    "terms_left": [
     "soir",
-    "mort blessés",
-    "terroriste"
+    "attentat",
+    "mort blessés"
    ],
    "terms_right": [
     "gay pride",
@@ -351,7 +381,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.796,
+   "divergence": 0.797,
    "category": "environnement",
    "terms_left": [
     "algérie",
@@ -367,7 +397,7 @@
   {
    "title": "Incendie en Gironde : appelé en renfort, l'avion militaire A400M a réussi sa première mission de lutte contre les flammes",
    "url": "https://www.nicematin.com/sante/il-sera-peut-etre-interdit-de-fumer-et-vapoter-en-terrasse-ou-sur-les-plages-un-projet-de-loi-porte-par-le-gouvernement-en-espagne-10693028",
-   "n_members": 77,
+   "n_members": 78,
    "n_sources": 26,
    "counts": {
     "left": 2,
@@ -403,7 +433,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.242,
+   "divergence": 0.243,
    "category": "société",
    "terms_left": [
     "allié",
@@ -412,14 +442,14 @@
    ],
    "terms_right": [
     "désormais",
-    "ans",
-    "article"
+    "mondial",
+    "plages débarquement"
    ]
   },
   {
    "title": "Espagne : incendie hors de contrôle près de Valence, 15.000 personnes évacués",
    "url": "https://www.ladepeche.fr/2026/07/22/dix-hectares-de-broussailles-brules-a-cornebarrieu-pres-de-laeroport-de-toulouse-blagnac-40-pompiers-mobilises-sauvent-plusieurs-maisons-menacees-13479797.php",
-   "n_members": 113,
+   "n_members": 114,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -433,23 +463,23 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.567,
+   "divergence": 0.57,
    "category": "international",
    "terms_left": [
     "urgence",
     "état",
-    "autour madrid"
+    "fusionner"
    ],
    "terms_right": [
     "hectares",
-    "flammes",
-    "feu"
+    "incendie",
+    "flammes"
    ]
   },
   {
-   "title": "Incendies en Gironde: les autorités indiquent qu'il s'agit d'un feu \"jamais vu en France\"",
+   "title": "Incendies en France: Emmanuel Macron assure que le feu dans les Landes est \"fixé\", la situation reste \"très difficile\" en Gironde",
    "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
-   "n_members": 272,
+   "n_members": 284,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -463,7 +493,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.468,
+   "divergence": 0.497,
    "category": "environnement",
    "terms_left": [
     "hectares brûlés",
@@ -471,9 +501,9 @@
     "pays"
    ],
    "terms_right": [
-    "incendie",
     "feu",
-    "incendie var"
+    "france",
+    "gironde"
    ]
   },
   {
@@ -493,12 +523,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.347,
+   "divergence": 0.374,
    "category": "société",
    "terms_left": [
     "mois",
     "prison",
-    "extrême"
+    "condamné"
    ],
    "terms_right": [
     "thomas",
@@ -553,7 +583,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.585,
+   "divergence": 0.583,
    "category": "environnement",
    "terms_left": [
     "points",
@@ -561,8 +591,8 @@
     "points chauds"
    ],
    "terms_right": [
-    "flammes",
     "var",
+    "flammes",
     "feux"
    ]
   },
@@ -659,7 +689,7 @@
   {
    "title": "Les hôpitaux « vont encore souffrir », alerte la Fédération hospitalière de France",
    "url": "https://www.numerama.com/sciences/2286441-eclipse-solaire-du-12-aout-2026-attention-a-ces-fausses-lunettes-vendues-en-france.html",
-   "n_members": 56,
+   "n_members": 57,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -738,7 +768,7 @@
    "terms_left": [
     "monde",
     "odyssée",
-    "matt damon"
+    "matt"
    ],
    "terms_right": [
     "film",
@@ -818,8 +848,8 @@
    "divergence": 0.93,
    "category": "société",
    "terms_left": [
-    "incendie",
     "incendies",
+    "incendie",
     "gironde"
    ],
    "terms_right": [
@@ -831,7 +861,7 @@
   {
    "title": "Guerre en Ukraine: Andy Burnham reçoit Volodymyr Zelensky pour lui assurer le \"soutien indéfectible\" du Royaume-Uni",
    "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-pourquoi-la-visite-de-linfluenceuse-pro-trump-laura-loomer-a-kiev-nest-pas-si-anecdotique-22-07-2026-VJKNFDZX4FAA7E3WIL7ULEZER4.php",
-   "n_members": 54,
+   "n_members": 57,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -845,7 +875,7 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.578,
+   "divergence": 0.593,
    "category": "international",
    "terms_left": [
     "ukrainienne",
@@ -861,7 +891,7 @@
   {
    "title": "Tour de France 2026 : Tadej Pogacar décroche son 5e sacre, Mathieu van der Poel s'offre la dernière étape à Paris",
    "url": "https://www.ladepeche.fr/2026/07/23/fallait-il-interdire-le-tour-de-france-a-paul-seixas-la-mise-en-place-dune-limitation-dage-a-21-ans-necessaire-dapres-warren-barguil-13480348.php",
-   "n_members": 52,
+   "n_members": 53,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -890,8 +920,8 @@
   },
   {
    "title": "Trois blessées dans une attaque aux couteaux à Paris, un suspect interpellé",
-   "url": "http://fr.euronews.com/2026/07/27/deux-morts-et-cinq-blesses-dans-une-fusillade-lors-dun-festival-gastronomique-a-seattle",
-   "n_members": 37,
+   "url": "https://www.ladepeche.fr/2026/07/25/armes-dun-marteau-et-dun-couteau-trois-hommes-se-sont-echarpes-dans-la-rue-epilogue-devant-la-justice-13482859.php",
+   "n_members": 41,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -905,7 +935,7 @@
    },
    "blindspot_score": 0.6,
    "blindspot_for": "gauche",
-   "divergence": 0.606,
+   "divergence": 0.607,
    "category": "international",
    "terms_left": [
     "suspect interpellé",
@@ -935,12 +965,12 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.445,
+   "divergence": 0.446,
    "category": "sport",
    "terms_left": [
     "lioran",
     "france étape",
-    "pogacar"
+    "étape pogacar"
    ],
    "terms_right": [
     "français",
@@ -951,7 +981,7 @@
   {
    "title": "LeBron James «raciste», troisième mandat... Donald Trump multiplie les blagues à l’occasion d’un diner à la Maison Blanche",
    "url": "https://www.ladepeche.fr/2026/07/23/video-donald-trump-imite-en-plein-meeting-par-un-participant-les-images-deviennent-virales-13481283.php",
-   "n_members": 51,
+   "n_members": 52,
    "n_sources": 19,
    "counts": {
     "left": 1,
@@ -965,7 +995,7 @@
    },
    "blindspot_score": 0.714,
    "blindspot_for": "gauche",
-   "divergence": 0.75,
+   "divergence": 0.752,
    "category": "international",
    "terms_left": [
     "face",
@@ -1009,6 +1039,28 @@
    ]
   },
   {
+   "title": "«Tant qu’il y a besoin d’aide, on reste»: les agriculteurs mobilisés aux côté des pompiers dans la lutte contre les incendies en Gironde",
+   "url": "https://www.tf1info.fr/conso/videos/video-secheresse-vers-une-penurie-de-fruits-et-legumes-42310-2453884.html",
+   "n_members": 44,
+   "n_sources": 19,
+   "counts": {
+    "left": 4,
+    "centre": 8,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.691,
+   "category": "environnement",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Un millier de nouveaux cas de Ebola recensés en dix jours en RD Congo",
    "url": "https://www.lemonde.fr/afrique/article/2026/07/10/l-epidemie-d-ebola-toujours-hors-de-controle-se-propage-en-rdc-a-une-vitesse-record_6722502_3212.html",
    "n_members": 54,
@@ -1025,7 +1077,7 @@
    },
    "blindspot_score": -0.429,
    "blindspot_for": null,
-   "divergence": 0.467,
+   "divergence": 0.468,
    "category": "international",
    "terms_left": [
     "épidémie ebola",
@@ -1037,28 +1089,6 @@
     "pays",
     "cas"
    ]
-  },
-  {
-   "title": "« On sort les citernes et les tracteurs » : face aux incendies, les agriculteurs se mobilisent pour apporter de l’eau sur le front",
-   "url": "https://www.tf1info.fr/conso/videos/video-secheresse-vers-une-penurie-de-fruits-et-legumes-42310-2453884.html",
-   "n_members": 41,
-   "n_sources": 18,
-   "counts": {
-    "left": 4,
-    "centre": 8,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.691,
-   "category": "environnement",
-   "terms_left": [],
-   "terms_right": []
   },
   {
    "title": "Mort de Marie-Paule Belle : l'interprète de \"La Parisienne\" décède à 80 ans des suites d’un cancer",
@@ -1112,55 +1142,33 @@
    ]
   },
   {
-   "title": "L'Iran annonce avoir convoqué l'ambassadeur français à Téhéran pour \"ingérence\"",
-   "url": "https://www.lefigaro.fr/international/la-tunisie-convoque-l-ambassadrice-de-france-apres-la-diffusion-d-un-entretien-juge-hostile-par-une-chaine-francaise-20260725",
-   "n_members": 21,
-   "n_sources": 16,
-   "counts": {
-    "left": 1,
-    "centre": 9,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 3,
-    "opinion": 2
-   },
-   "blindspot_score": 0.714,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Affaire Jubillar : pourquoi les données géographiques du téléphone de Cédric peuvent relancer la piste de la préméditation",
-   "url": "https://www.liberation.fr/portraits/pierre-debuisson-avocat-de-cedric-jubillar-ses-aveux-20260719_PDHA3BFUPZD5VO3NXFPVG37UVQ/",
-   "n_members": 40,
-   "n_sources": 15,
+   "title": "Incendies en France : les assureurs prendront en charge les frais de relogement des personnes évacuées",
+   "url": "https://www.sudouest.fr/faits-divers/incendies/incendies-en-gironde/incendies-en-gironde-la-menace-reste-serieuse-il-ne-faut-pas-relacher-la-vigilance-30063111.php",
+   "n_members": 36,
+   "n_sources": 17,
    "counts": {
     "left": 3,
-    "centre": 5,
+    "centre": 7,
     "right": 7
    },
    "style_counts": {
-    "factuel": 7,
+    "factuel": 9,
     "mixte": 6,
     "opinion": 2
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.512,
-   "category": "faits-divers",
+   "divergence": 0.515,
+   "category": "environnement",
    "terms_left": [
-    "femme delphine",
-    "justice",
-    "femme"
+    "gouvernement",
+    "assurances",
+    "mesures soutien"
    ],
    "terms_right": [
-    "aveux",
-    "jubillar",
-    "qu"
+    "sud",
+    "situation",
+    "face"
    ]
   }
  ]
