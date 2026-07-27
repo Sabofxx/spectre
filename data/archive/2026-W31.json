@@ -1,6 +1,6 @@
 {
  "week": "2026-W31",
- "generated_at": "2026-07-27T22:53:09+00:00",
+ "generated_at": "2026-07-27T23:56:34+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -270,8 +270,8 @@
    ],
    "terms_right": [
     "farage",
-    "nigel farage",
-    "nigel"
+    "nigel",
+    "nigel farage"
    ]
   },
   {
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.798,
+   "divergence": 0.797,
    "category": "environnement",
    "terms_left": [
     "algérie",
@@ -564,6 +564,36 @@
     "gironde",
     "feux",
     "ministre"
+   ]
+  },
+  {
+   "title": "« On sort les citernes et les tracteurs » : face aux incendies, les agriculteurs se mobilisent pour apporter de l’eau sur le front",
+   "url": "https://www.tf1info.fr/conso/videos/video-secheresse-vers-une-penurie-de-fruits-et-legumes-42310-2453884.html",
+   "n_members": 56,
+   "n_sources": 23,
+   "counts": {
+    "left": 5,
+    "centre": 10,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.749,
+   "category": "environnement",
+   "terms_left": [
+    "sécheresse",
+    "coordination",
+    "récolte"
+   ],
+   "terms_right": [
+    "agriculteurs",
+    "incendies",
+    "eau"
    ]
   },
   {
@@ -769,36 +799,6 @@
    ]
   },
   {
-   "title": "« On sort les citernes et les tracteurs » : face aux incendies, les agriculteurs se mobilisent pour apporter de l’eau sur le front",
-   "url": "https://www.tf1info.fr/conso/videos/video-secheresse-vers-une-penurie-de-fruits-et-legumes-42310-2453884.html",
-   "n_members": 54,
-   "n_sources": 21,
-   "counts": {
-    "left": 5,
-    "centre": 8,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.749,
-   "category": "environnement",
-   "terms_left": [
-    "sécheresse",
-    "coordination",
-    "récolte"
-   ],
-   "terms_right": [
-    "agriculteurs",
-    "incendies",
-    "eau"
-   ]
-  },
-  {
    "title": "Dix ans après, la France rend hommage au père Jacques Hamel tué dans un attentat terroriste",
    "url": "https://www.ouest-france.fr/societe/faits-divers/attentat/attentat-saint-etienne-du-rouvray/attentat-de-saint-etienne-du-rouvray-ce-qu-il-faut-retenir-du-proces-95a641de-a083-11ec-b494-7a5e63fed517",
    "n_members": 44,
@@ -949,6 +949,36 @@
    ]
   },
   {
+   "title": "Incendie en Gironde : la situation est restée \"stable\" mais les secours craignent la remontée des températures",
+   "url": "https://www.leparisien.fr/landes-40/ils-etaient-en-pleurs-en-panique-a-biscarrosse-ces-milliers-dhabitants-et-vacanciers-livres-a-langoisse-24-07-2026-5RLJIN34LFB3RESBKTXYL3CFPY.php",
+   "n_members": 57,
+   "n_sources": 20,
+   "counts": {
+    "left": 6,
+    "centre": 8,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.787,
+   "category": "environnement",
+   "terms_left": [
+    "plage",
+    "lacanau",
+    "partie"
+   ],
+   "terms_right": [
+    "forêt",
+    "france",
+    "ans"
+   ]
+  },
+  {
    "title": "Tour de France 2026 : Tadej Pogacar décroche son 5e sacre, Mathieu van der Poel s'offre la dernière étape à Paris",
    "url": "https://www.ladepeche.fr/2026/07/23/fallait-il-interdire-le-tour-de-france-a-paul-seixas-la-mise-en-place-dune-limitation-dage-a-21-ans-necessaire-dapres-warren-barguil-13480348.php",
    "n_members": 53,
@@ -1041,7 +1071,7 @@
   {
    "title": "Incendies en France : les assureurs prendront en charge les frais de relogement des personnes évacuées",
    "url": "https://www.ladepeche.fr/2026/07/25/incendies-demarchage-indemnisation-que-prevoient-les-assurances-si-votre-maison-a-ete-endommagee-ou-detruite-par-les-flammes-13483699.php",
-   "n_members": 57,
+   "n_members": 58,
    "n_sources": 19,
    "counts": {
     "left": 4,
@@ -1055,7 +1085,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.602,
+   "divergence": 0.605,
    "category": "société",
    "terms_left": [
     "face",
@@ -1063,9 +1093,9 @@
     "face incendies"
    ],
    "terms_right": [
-    "tourisme",
+    "gironde",
     "feu",
-    "gironde"
+    "tourisme"
    ]
   },
   {
@@ -1099,9 +1129,9 @@
    ]
   },
   {
-   "title": "Un millier de nouveaux cas de Ebola recensés en dix jours en RD Congo",
+   "title": "Ebola : un millier de nouveaux cas recensés en dix jours en RDC",
    "url": "https://www.lemonde.fr/afrique/article/2026/07/10/l-epidemie-d-ebola-toujours-hors-de-controle-se-propage-en-rdc-a-une-vitesse-record_6722502_3212.html",
-   "n_members": 54,
+   "n_members": 55,
    "n_sources": 18,
    "counts": {
     "left": 5,
@@ -1120,7 +1150,7 @@
    "terms_left": [
     "épidémie ebola",
     "dépasser fois",
-    "fois estimations"
+    "ampleur épidémie"
    ],
    "terms_right": [
     "face",
@@ -1149,34 +1179,6 @@
    "category": "culture",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Mégot, barbecue... Six individus interpellés en Gironde pour des actes susceptibles d'aggraver les incendies",
-   "url": "https://www.radiofrance.fr/francebleu/podcasts/l-info-d-ici-ici-drome-ardeche/face-au-risque-de-feux-de-foret-le-train-de-l-ardeche-escorte-par-une-citerne-1123108",
-   "n_members": 47,
-   "n_sources": 17,
-   "counts": {
-    "left": 2,
-    "centre": 9,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 3,
-    "opinion": 3
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.919,
-   "category": "international",
-   "terms_left": [
-    "france"
-   ],
-   "terms_right": [
-    "incendies",
-    "espagne",
-    "personnes"
-   ]
   }
  ]
 }
