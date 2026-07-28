@@ -1,6 +1,6 @@
 {
  "week": "2026-W31",
- "generated_at": "2026-07-28T14:58:47+00:00",
+ "generated_at": "2026-07-28T16:31:13+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Incendie en Gironde: alors que la nuit est en train de tomber, le feu s'intensifie",
    "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 623,
+   "n_members": 624,
    "n_sources": 36,
    "counts": {
     "left": 8,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.44,
+   "divergence": 0.433,
    "category": "environnement",
    "terms_left": [
     "hectares",
@@ -67,7 +67,7 @@
   {
    "title": "DIRECT. Incendies : le mégafeu en Gironde toujours « stabilisé »",
    "url": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-lege-cap-ferret-une-habitation-ravagee-par-le-feu-23-07_VN-202607230679.html",
-   "n_members": 151,
+   "n_members": 158,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -81,12 +81,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.398,
+   "divergence": 0.386,
    "category": "environnement",
    "terms_left": [
     "mégafeu",
-    "canicule",
-    "mégafeu gironde"
+    "mégafeu gironde",
+    "direct"
    ],
    "terms_right": [
     "feux",
@@ -111,17 +111,17 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.606,
+   "divergence": 0.609,
    "category": "environnement",
    "terms_left": [
     "saison",
-    "canicule",
-    "intérieur"
+    "début année",
+    "canicule"
    ],
    "terms_right": [
-    "record",
     "gironde",
-    "face"
+    "record",
+    "surfaces"
    ]
   },
   {
@@ -187,7 +187,7 @@
   {
    "title": "Météo. Canicule : 16 départements passeront en vigilance orange mercredi",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 353,
+   "n_members": 359,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,12 +201,12 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.36,
+   "divergence": 0.353,
    "category": "environnement",
    "terms_left": [
     "direct",
-    "orange canicule",
-    "direct canicule"
+    "météo france",
+    "orange canicule"
    ],
    "terms_right": [
     "placés",
@@ -261,17 +261,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.663,
+   "divergence": 0.661,
    "category": "international",
    "terms_left": [
     "inde",
     "ministre",
-    "mouvement"
+    "cafards"
    ],
    "terms_right": [
     "farage",
-    "nigel",
-    "nigel farage"
+    "nigel farage",
+    "nigel"
    ]
   },
   {
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.822,
+   "divergence": 0.823,
    "category": "environnement",
    "terms_left": [
     "macron",
@@ -357,6 +357,36 @@
    "terms_right": []
   },
   {
+   "title": "Équipe de France : Zinédine Zidane officiellement nommé sélectionneur des Bleus",
+   "url": "https://www.leparisien.fr/video/actualites/sports/deschamps-larbitre-etait-il-au-niveau-15-07-2026-3MC6TJKRCRBYHNUQ56SVZKG25I.php",
+   "n_members": 151,
+   "n_sources": 27,
+   "counts": {
+    "left": 5,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.331,
+   "category": "sport",
+   "terms_left": [
+    "immense",
+    "nommé tête",
+    "meneur jeu"
+   ],
+   "terms_right": [
+    "qu",
+    "zidane",
+    "entraîneur"
+   ]
+  },
+  {
    "title": "Un quatrième épisode de fortes chaleurs, et très probablement de canicule, attendu à partir de mardi",
    "url": "https://www.valeursactuelles.com/clubvaleurs/societe/quand-la-canicule-met-lecologie-politique-a-lepreuve-du-reel",
    "n_members": 106,
@@ -384,6 +414,36 @@
     "chaleur",
     "vague chaleur",
     "météo-france"
+   ]
+  },
+  {
+   "title": "Agriculteurs, bénévoles... Ils viennent en aide aux pompiers sur les incendies en Gironde",
+   "url": "https://www.tf1info.fr/conso/videos/video-secheresse-vers-une-penurie-de-fruits-et-legumes-42310-2453884.html",
+   "n_members": 68,
+   "n_sources": 27,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.764,
+   "category": "environnement",
+   "terms_left": [
+    "sécheresse",
+    "appelle",
+    "coordination"
+   ],
+   "terms_right": [
+    "agriculteurs",
+    "face",
+    "incendies"
    ]
   },
   {
@@ -417,39 +477,9 @@
    ]
   },
   {
-   "title": "Équipe de France : Zinédine Zidane officiellement nommé sélectionneur des Bleus",
-   "url": "https://www.leparisien.fr/video/actualites/sports/deschamps-larbitre-etait-il-au-niveau-15-07-2026-3MC6TJKRCRBYHNUQ56SVZKG25I.php",
-   "n_members": 147,
-   "n_sources": 26,
-   "counts": {
-    "left": 5,
-    "centre": 14,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.333,
-   "category": "sport",
-   "terms_left": [
-    "immense",
-    "nommé tête",
-    "meneur"
-   ],
-   "terms_right": [
-    "qu",
-    "zidane",
-    "didier"
-   ]
-  },
-  {
    "title": "Espagne : incendie hors de contrôle près de Valence, 15.000 personnes évacués",
    "url": "https://www.ladepeche.fr/2026/07/22/dix-hectares-de-broussailles-brules-a-cornebarrieu-pres-de-laeroport-de-toulouse-blagnac-40-pompiers-mobilises-sauvent-plusieurs-maisons-menacees-13479797.php",
-   "n_members": 128,
+   "n_members": 130,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -463,17 +493,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.554,
+   "divergence": 0.553,
    "category": "international",
    "terms_left": [
-    "nouvelle",
     "partir",
+    "nouvelle",
     "vague"
    ],
    "terms_right": [
     "incendie",
     "feu",
-    "hectares"
+    "valence"
    ]
   },
   {
@@ -497,36 +527,6 @@
    "category": "politique",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Agriculteurs, bénévoles... Ils viennent en aide aux pompiers sur les incendies en Gironde",
-   "url": "https://www.tf1info.fr/conso/videos/video-secheresse-vers-une-penurie-de-fruits-et-legumes-42310-2453884.html",
-   "n_members": 67,
-   "n_sources": 26,
-   "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 5
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.764,
-   "category": "environnement",
-   "terms_left": [
-    "sécheresse",
-    "appelle",
-    "coordination"
-   ],
-   "terms_right": [
-    "agriculteurs",
-    "face",
-    "incendies"
-   ]
   },
   {
    "title": "Normandie : les plages du Débarquement inscrites au patrimoine mondial de l'Unesco",
@@ -561,7 +561,7 @@
   {
    "title": "Incendies en France: Emmanuel Macron assure que le feu dans les Landes est \"fixé\", la situation reste \"très difficile\" en Gironde",
    "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
-   "n_members": 318,
+   "n_members": 323,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -575,7 +575,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.552,
+   "divergence": 0.563,
    "category": "environnement",
    "terms_left": [
     "hectares brûlés",
@@ -643,7 +643,7 @@
   {
    "title": "Brésil : Flávio Bolsonaro lance sa campagne face à Lula",
    "url": "https://www.20minutes.fr/politique/assemblee_nationale/4234766-20260719-presidentielle-2027-revanchard-francois-hollande-peut-etre-joker-cache-gauche",
-   "n_members": 64,
+   "n_members": 65,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -701,9 +701,39 @@
    ]
   },
   {
+   "title": "La France et les États-Unis s'écharpent au Conseil de sécurité de l'ONU",
+   "url": "https://information.tv5monde.com/international/coupures-de-courant-menaces-des-etats-unis-impasse-economique-la-profonde-crise-humanitaire-cuba-saggrave-2831020",
+   "n_members": 56,
+   "n_sources": 23,
+   "counts": {
+    "left": 5,
+    "centre": 14,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 5,
+    "opinion": 2
+   },
+   "blindspot_score": -0.111,
+   "blindspot_for": null,
+   "divergence": 0.734,
+   "category": "international",
+   "terms_left": [
+    "rougeole",
+    "épidémie",
+    "etats-unis"
+   ],
+   "terms_right": [
+    "iran",
+    "milliards",
+    "dollars"
+   ]
+  },
+  {
    "title": "Incendies dans le Var : 4.000 hectares brûlés et 2.000 personnes toujours évacuées à cause de plusieurs reprises de feu",
    "url": "https://www.cnews.fr/france/2026-07-17/incendies-les-pompiers-denoncent-des-rates-lies-des-normes-antipollution",
-   "n_members": 125,
+   "n_members": 126,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -717,7 +747,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.571,
+   "divergence": 0.534,
    "category": "environnement",
    "terms_left": [
     "points",
@@ -731,9 +761,9 @@
    ]
   },
   {
-   "title": "Incendies en France : les assureurs prendront en charge les frais de relogement des personnes évacuées",
+   "title": "Incendie en Gironde : Bercy annonce «13.000 entreprises» évacuées et des aides pour les sinistrés",
    "url": "https://www.20minutes.fr/planete/4236181-20260724-incendies-evacuations-gironde-var-toujours-inquiet-point-brasiers-ravagent-france",
-   "n_members": 77,
+   "n_members": 79,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -747,7 +777,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.61,
+   "divergence": 0.613,
    "category": "société",
    "terms_left": [
     "gouvernement",
@@ -756,14 +786,14 @@
    ],
    "terms_right": [
     "tourisme",
-    "feu",
-    "sud"
+    "évacuées",
+    "feu"
    ]
   },
   {
-   "title": "Star Academy : en opposition à la corrida, plusieurs élèves sèchent le concert des arènes de Bayonne",
+   "title": "Musique. « Fuck la corrida » : des élèves de la Star Academy refusent de chanter aux arènes de Bayonne",
    "url": "https://www.liberation.fr/idees-et-debats/tribunes/concert-interrompu-de-barbara-butch-agresser-une-dj-juive-ne-liberera-pas-la-palestine-20260721_VGSOVPKEGNHTZAQ7BMMCIIIIOY/",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 22,
    "counts": {
     "left": 7,
@@ -791,9 +821,9 @@
    ]
   },
   {
-   "title": "Zelensky attendu à la Maison Blanche pour décrocher le soutien de Trump",
+   "title": "Zelensky attendu à la Maison Blanche pour obtenir de Trump des missiles Patriot",
    "url": "https://www.ladepeche.fr/2026/07/23/video-donald-trump-imite-en-plein-meeting-par-un-participant-les-images-deviennent-virales-13481283.php",
-   "n_members": 62,
+   "n_members": 63,
    "n_sources": 21,
    "counts": {
     "left": 2,
@@ -807,17 +837,47 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.747,
+   "divergence": 0.739,
    "category": "international",
    "terms_left": [
     "etats-unis",
     "américains",
-    "qu"
+    "intercepteurs"
    ],
    "terms_right": [
     "donald trump",
     "donald",
     "trump"
+   ]
+  },
+  {
+   "title": "Incendie en Gironde : la situation est restée \"stable\" mais les secours craignent la remontée des températures",
+   "url": "https://www.leparisien.fr/landes-40/ils-etaient-en-pleurs-en-panique-a-biscarrosse-ces-milliers-dhabitants-et-vacanciers-livres-a-langoisse-24-07-2026-5RLJIN34LFB3RESBKTXYL3CFPY.php",
+   "n_members": 61,
+   "n_sources": 21,
+   "counts": {
+    "left": 6,
+    "centre": 9,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.786,
+   "category": "environnement",
+   "terms_left": [
+    "plage",
+    "lacanau",
+    "partie"
+   ],
+   "terms_right": [
+    "forêt",
+    "france",
+    "ans"
    ]
   },
   {
@@ -851,9 +911,39 @@
    ]
   },
   {
+   "title": "Tour de France 2026 : Tadej Pogacar décroche son 5e sacre, Mathieu van der Poel s'offre la dernière étape à Paris",
+   "url": "https://www.ladepeche.fr/2026/07/23/fallait-il-interdire-le-tour-de-france-a-paul-seixas-la-mise-en-place-dune-limitation-dage-a-21-ans-necessaire-dapres-warren-barguil-13480348.php",
+   "n_members": 55,
+   "n_sources": 21,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.642,
+   "category": "sport",
+   "terms_left": [
+    "uae",
+    "seixas",
+    "slovène"
+   ],
+   "terms_right": [
+    "étape",
+    "tadej pogacar",
+    "tadej"
+   ]
+  },
+  {
    "title": "Montpellier peut dire merci à \"L'Odyssée\" !",
    "url": "https://www.numerama.com/pop-culture/2297489-imax-ou-sasseoir-pour-ne-pas-gacher-lodyssee-de-nolan-mon-experience-au-pathe-ile-seguin.html",
-   "n_members": 50,
+   "n_members": 51,
    "n_sources": 21,
    "counts": {
     "left": 6,
@@ -867,12 +957,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.587,
+   "divergence": 0.59,
    "category": "culture",
    "terms_left": [
     "monde",
-    "qu",
-    "spectateurs"
+    "spectateurs",
+    "odyssée"
    ],
    "terms_right": [
     "film",
@@ -897,7 +987,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.424,
+   "divergence": 0.422,
    "category": "société",
    "terms_left": [
     "islamique",
@@ -908,6 +998,36 @@
     "père jacques",
     "ans assassinat",
     "père"
+   ]
+  },
+  {
+   "title": "Japon : un séisme de très forte intensité secoue le sud du pays, plusieurs dizaines de blessés et des personnes piégées dans un centre commercial",
+   "url": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-7-1-frappe-le-sud-du-japon-une-alerte-au-tsunami-emise_8125079.html",
+   "n_members": 38,
+   "n_sources": 21,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 5,
+    "opinion": 2
+   },
+   "blindspot_score": 0.111,
+   "blindspot_for": null,
+   "divergence": 0.432,
+   "category": "international",
+   "terms_left": [
+    "effondré",
+    "piégées centre",
+    "centre"
+   ],
+   "terms_right": [
+    "sud-ouest",
+    "sud-ouest japon",
+    "séisme"
    ]
   },
   {
@@ -943,7 +1063,7 @@
   {
    "title": "Guerre en Ukraine: Andy Burnham reçoit Volodymyr Zelensky pour lui assurer le \"soutien indéfectible\" du Royaume-Uni",
    "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-pourquoi-la-visite-de-linfluenceuse-pro-trump-laura-loomer-a-kiev-nest-pas-si-anecdotique-22-07-2026-VJKNFDZX4FAA7E3WIL7ULEZER4.php",
-   "n_members": 65,
+   "n_members": 67,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -968,36 +1088,6 @@
     "trump",
     "donald",
     "donald trump"
-   ]
-  },
-  {
-   "title": "Incendie en Gironde : la situation est restée \"stable\" mais les secours craignent la remontée des températures",
-   "url": "https://www.leparisien.fr/landes-40/ils-etaient-en-pleurs-en-panique-a-biscarrosse-ces-milliers-dhabitants-et-vacanciers-livres-a-langoisse-24-07-2026-5RLJIN34LFB3RESBKTXYL3CFPY.php",
-   "n_members": 60,
-   "n_sources": 20,
-   "counts": {
-    "left": 6,
-    "centre": 8,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.785,
-   "category": "environnement",
-   "terms_left": [
-    "plage",
-    "lacanau",
-    "partie"
-   ],
-   "terms_right": [
-    "forêt",
-    "france",
-    "ans"
    ]
   },
   {
@@ -1031,39 +1121,9 @@
    ]
   },
   {
-   "title": "Tour de France 2026 : Tadej Pogacar décroche son 5e sacre, Mathieu van der Poel s'offre la dernière étape à Paris",
-   "url": "https://www.ladepeche.fr/2026/07/23/fallait-il-interdire-le-tour-de-france-a-paul-seixas-la-mise-en-place-dune-limitation-dage-a-21-ans-necessaire-dapres-warren-barguil-13480348.php",
-   "n_members": 53,
-   "n_sources": 20,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.676,
-   "category": "sport",
-   "terms_left": [
-    "français",
-    "seixas",
-    "podium"
-   ],
-   "terms_right": [
-    "tour france",
-    "france",
-    "tadej pogacar"
-   ]
-  },
-  {
    "title": "Trois blessées dans une attaque aux couteaux à Paris, un suspect interpellé",
    "url": "https://www.ladepeche.fr/2026/07/25/armes-dun-marteau-et-dun-couteau-trois-hommes-se-sont-echarpes-dans-la-rue-epilogue-devant-la-justice-13482859.php",
-   "n_members": 44,
+   "n_members": 52,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -1077,7 +1137,7 @@
    },
    "blindspot_score": 0.6,
    "blindspot_for": "gauche",
-   "divergence": 0.61,
+   "divergence": 0.606,
    "category": "international",
    "terms_left": [
     "suspect interpellé",
@@ -1086,38 +1146,8 @@
    ],
    "terms_right": [
     "seattle",
-    "blessés",
-    "femmes"
-   ]
-  },
-  {
-   "title": "Japon : un séisme de très forte intensité secoue le sud du pays, plusieurs dizaines de blessés et des personnes piégées dans un centre commercial",
-   "url": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-7-1-frappe-le-sud-du-japon-une-alerte-au-tsunami-emise_8125079.html",
-   "n_members": 35,
-   "n_sources": 20,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.111,
-   "blindspot_for": null,
-   "divergence": 0.418,
-   "category": "international",
-   "terms_left": [
-    "piégées centre",
-    "piégées",
-    "personnes piégées"
-   ],
-   "terms_right": [
-    "sud-ouest",
-    "sud-ouest japon",
-    "séisme"
+    "femmes",
+    "police"
    ]
   },
   {
@@ -1142,35 +1172,13 @@
    "terms_left": [
     "lioran",
     "france étape",
-    "pogacar"
+    "étape pogacar"
    ],
    "terms_right": [
     "français",
-    "paul seixas",
-    "paul"
+    "ans",
+    "jours"
    ]
-  },
-  {
-   "title": "Les Houthis revendiquent une frappe en Arabie saoudite et poursuivent leur blocus en mer Rouge",
-   "url": "https://www.lexpress.fr/monde/proche-moyen-orient/yemen-les-houthis-annoncent-un-blocus-maritime-de-larabie-saoudite-YJQKNRD64ZC3XNYNQSQQT25WRA/",
-   "n_members": 48,
-   "n_sources": 19,
-   "counts": {
-    "left": 3,
-    "centre": 10,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 4,
-    "opinion": 2
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.601,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
