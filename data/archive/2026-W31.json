@@ -1,6 +1,6 @@
 {
  "week": "2026-W31",
- "generated_at": "2026-07-28T04:44:51+00:00",
+ "generated_at": "2026-07-28T07:33:46+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -35,9 +35,9 @@
    ]
   },
   {
-   "title": "EN DIRECT - Incendies : le feu qui sévit en Gironde se dirige vers Bordeaux, sept nouvelles communes évacuées",
+   "title": "Incendie en Gironde: alors que la nuit est en train de tomber, le feu s'intensifie",
    "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 618,
+   "n_members": 619,
    "n_sources": 36,
    "counts": {
     "left": 8,
@@ -51,17 +51,47 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.456,
+   "divergence": 0.447,
    "category": "environnement",
    "terms_left": [
     "milliers",
-    "préfecture",
-    "hectares"
+    "hectares",
+    "préfecture"
    ],
    "terms_right": [
     "communes",
     "pompiers",
     "nouvelles"
+   ]
+  },
+  {
+   "title": "EN DIRECT - Incendies en France : en Gironde, le feu toujours «stabilisé» après une «nuit calme»",
+   "url": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-lege-cap-ferret-une-habitation-ravagee-par-le-feu-23-07_VN-202607230679.html",
+   "n_members": 132,
+   "n_sources": 32,
+   "counts": {
+    "left": 8,
+    "centre": 16,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 12,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.43,
+   "category": "environnement",
+   "terms_left": [
+    "mégafeu",
+    "mégafeu gironde",
+    "canicule"
+   ],
+   "terms_right": [
+    "incendies gironde",
+    "feux",
+    "rester"
    ]
   },
   {
@@ -81,7 +111,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.608,
+   "divergence": 0.609,
    "category": "environnement",
    "terms_left": [
     "saison",
@@ -92,36 +122,6 @@
     "record",
     "gironde",
     "face"
-   ]
-  },
-  {
-   "title": "DIRECT. Incendies : le feu toujours pas maîtrisé en Gironde ; situation « stable » durant la nuit",
-   "url": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-lege-cap-ferret-une-habitation-ravagee-par-le-feu-23-07_VN-202607230679.html",
-   "n_members": 122,
-   "n_sources": 30,
-   "counts": {
-    "left": 7,
-    "centre": 16,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 11,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.471,
-   "category": "environnement",
-   "terms_left": [
-    "canicule",
-    "mégafeu",
-    "mégafeu gironde"
-   ],
-   "terms_right": [
-    "incendies gironde",
-    "feux",
-    "rester"
    ]
   },
   {
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.568,
+   "divergence": 0.567,
    "category": "environnement",
    "terms_left": [
     "morts",
@@ -149,7 +149,7 @@
     "canicule morts"
    ],
    "terms_right": [
-    "bilan",
+    "chaleur",
     "faut",
     "pompiers"
    ]
@@ -187,7 +187,7 @@
   {
    "title": "Orages : voici les 13 départements placés en vigilance jaune ce dimanche",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 342,
+   "n_members": 344,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,17 +201,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.363,
+   "divergence": 0.366,
    "category": "environnement",
    "terms_left": [
     "direct",
     "direct canicule",
-    "alerte"
+    "rouge"
    ],
    "terms_right": [
     "placés",
     "placés vigilance",
-    "vigilance jaune"
+    "départements"
    ]
   },
   {
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.812,
+   "divergence": 0.815,
    "category": "environnement",
    "terms_left": [
     "incendies gironde",
@@ -302,6 +302,36 @@
     "france",
     "face",
     "fin"
+   ]
+  },
+  {
+   "title": "Attaque pendant la gay pride de Berlin : suspect de 21 ans recherché, milieu islamiste… Le point sur l’enquête",
+   "url": "http://fr.euronews.com/my-europe/2026/07/23/allemagne-une-attaque-au-couteau-dans-une-banque-de-ratisbonne-fait-un-mort",
+   "n_members": 84,
+   "n_sources": 28,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.415,
+   "category": "international",
+   "terms_left": [
+    "terroriste",
+    "attentat",
+    "mort blessés"
+   ],
+   "terms_right": [
+    "gay pride",
+    "gay",
+    "pride"
    ]
   },
   {
@@ -335,36 +365,6 @@
    ]
   },
   {
-   "title": "Attaque pendant la gay pride de Berlin : suspect de 21 ans recherché, milieu islamiste… Le point sur l’enquête",
-   "url": "http://fr.euronews.com/my-europe/2026/07/23/allemagne-une-attaque-au-couteau-dans-une-banque-de-ratisbonne-fait-un-mort",
-   "n_members": 83,
-   "n_sources": 27,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 5
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.412,
-   "category": "international",
-   "terms_left": [
-    "soir",
-    "attentat",
-    "mort blessés"
-   ],
-   "terms_right": [
-    "gay pride",
-    "gay",
-    "pride"
-   ]
-  },
-  {
    "title": "Incendie en Gironde : ces sites industriels sensibles sous haute surveillance face au feu",
    "url": "https://www.20minutes.fr/societe/4235773-20260722-professionnels-volontaires-combien-touchent-pompiers-sauver-vies-lutter-contre-flammes",
    "n_members": 62,
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.799,
+   "divergence": 0.8,
    "category": "environnement",
    "terms_left": [
     "algérie",
@@ -392,6 +392,36 @@
     "pompiers",
     "flammes",
     "forêt"
+   ]
+  },
+  {
+   "title": "Espagne : incendie hors de contrôle près de Valence, 15.000 personnes évacués",
+   "url": "https://www.ladepeche.fr/2026/07/22/dix-hectares-de-broussailles-brules-a-cornebarrieu-pres-de-laeroport-de-toulouse-blagnac-40-pompiers-mobilises-sauvent-plusieurs-maisons-menacees-13479797.php",
+   "n_members": 118,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.569,
+   "category": "international",
+   "terms_left": [
+    "urgence",
+    "état",
+    "chaleur"
+   ],
+   "terms_right": [
+    "hectares",
+    "incendie",
+    "flammes"
    ]
   },
   {
@@ -433,7 +463,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.243,
+   "divergence": 0.244,
    "category": "société",
    "terms_left": [
     "allié",
@@ -441,45 +471,15 @@
     "préservation"
    ],
    "terms_right": [
-    "désormais",
-    "mondial",
-    "plages débarquement"
-   ]
-  },
-  {
-   "title": "Espagne : incendie hors de contrôle près de Valence, 15.000 personnes évacués",
-   "url": "https://www.ladepeche.fr/2026/07/22/dix-hectares-de-broussailles-brules-a-cornebarrieu-pres-de-laeroport-de-toulouse-blagnac-40-pompiers-mobilises-sauvent-plusieurs-maisons-menacees-13479797.php",
-   "n_members": 116,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.567,
-   "category": "international",
-   "terms_left": [
-    "urgence",
-    "état",
-    "chaleur"
-   ],
-   "terms_right": [
-    "hectares",
-    "incendie",
-    "flammes"
+    "patrimoine mondial",
+    "plages débarquement",
+    "mondial"
    ]
   },
   {
    "title": "A Bordeaux, Emmanuel Macron appelle à l’unité « pour gagner la bataille » contre l’incendie",
    "url": "https://www.tf1info.fr/conso/videos/video-secheresse-vers-une-penurie-de-fruits-et-legumes-42310-2453884.html",
-   "n_members": 61,
+   "n_members": 62,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -493,7 +493,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.764,
+   "divergence": 0.766,
    "category": "environnement",
    "terms_left": [
     "sécheresse",
@@ -509,7 +509,7 @@
   {
    "title": "Incendies en France: Emmanuel Macron assure que le feu dans les Landes est \"fixé\", la situation reste \"très difficile\" en Gironde",
    "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
-   "n_members": 298,
+   "n_members": 307,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -523,7 +523,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.526,
+   "divergence": 0.534,
    "category": "environnement",
    "terms_left": [
     "hectares brûlés",
@@ -583,7 +583,7 @@
    },
    "blindspot_score": 0.667,
    "blindspot_for": "gauche",
-   "divergence": 0.717,
+   "divergence": 0.718,
    "category": "sport",
    "terms_left": [
     "modifiée",
@@ -599,7 +599,7 @@
   {
    "title": "Incendies dans le Var : 4.000 hectares brûlés et 2.000 personnes toujours évacuées à cause de plusieurs reprises de feu",
    "url": "https://www.cnews.fr/france/2026-07-17/incendies-les-pompiers-denoncent-des-rates-lies-des-normes-antipollution",
-   "n_members": 123,
+   "n_members": 124,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -652,8 +652,38 @@
    ],
    "terms_right": [
     "ancien",
-    "face",
-    "ministre"
+    "ministre",
+    "face"
+   ]
+  },
+  {
+   "title": "Les hôpitaux « vont encore souffrir », alerte la Fédération hospitalière de France",
+   "url": "https://www.numerama.com/sciences/2286441-eclipse-solaire-du-12-aout-2026-attention-a-ces-fausses-lunettes-vendues-en-france.html",
+   "n_members": 59,
+   "n_sources": 22,
+   "counts": {
+    "left": 3,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 5,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.898,
+   "category": "environnement",
+   "terms_left": [
+    "souffrir",
+    "france",
+    "hôpitaux"
+   ],
+   "terms_right": [
+    "feu",
+    "pompiers",
+    "chaleur"
    ]
   },
   {
@@ -689,7 +719,7 @@
   {
    "title": "Zinédine Zidane nommé sélectionneur de l'équipe de France",
    "url": "https://www.leparisien.fr/video/actualites/sports/deschamps-larbitre-etait-il-au-niveau-15-07-2026-3MC6TJKRCRBYHNUQ56SVZKG25I.php",
-   "n_members": 88,
+   "n_members": 94,
    "n_sources": 21,
    "counts": {
     "left": 2,
@@ -703,10 +733,48 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.761,
+   "divergence": 0.707,
    "category": "sport",
-   "terms_left": [],
-   "terms_right": []
+   "terms_left": [
+    "monde",
+    "coupe",
+    "coupe monde"
+   ],
+   "terms_right": [
+    "équipe",
+    "équipe france",
+    "zidane"
+   ]
+  },
+  {
+   "title": "\"Trump 2028\", \"Syndrome anti-Trump\": les provocations et accusations du président américain au dîner des correspondants de presse",
+   "url": "https://www.ladepeche.fr/2026/07/23/video-donald-trump-imite-en-plein-meeting-par-un-participant-les-images-deviennent-virales-13481283.php",
+   "n_members": 60,
+   "n_sources": 21,
+   "counts": {
+    "left": 2,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 5,
+    "opinion": 2
+   },
+   "blindspot_score": 0.556,
+   "blindspot_for": null,
+   "divergence": 0.747,
+   "category": "international",
+   "terms_left": [
+    "américains",
+    "etats-unis",
+    "qu"
+   ],
+   "terms_right": [
+    "donald trump",
+    "donald",
+    "trump"
+   ]
   },
   {
    "title": "\"Un acte honteux\": un maire de la Sarthe victime d'une agression physique et verbale par un automobiliste",
@@ -739,63 +807,33 @@
    ]
   },
   {
-   "title": "Les hôpitaux « vont encore souffrir », alerte la Fédération hospitalière de France",
-   "url": "https://www.numerama.com/sciences/2286441-eclipse-solaire-du-12-aout-2026-attention-a-ces-fausses-lunettes-vendues-en-france.html",
-   "n_members": 57,
+   "title": "«L’Odyssée» au service d’une mélancolie néolibérale",
+   "url": "https://www.numerama.com/pop-culture/2297489-imax-ou-sasseoir-pour-ne-pas-gacher-lodyssee-de-nolan-mon-experience-au-pathe-ile-seguin.html",
+   "n_members": 44,
    "n_sources": 21,
    "counts": {
-    "left": 3,
-    "centre": 12,
+    "left": 6,
+    "centre": 9,
     "right": 6
    },
    "style_counts": {
-    "factuel": 14,
-    "mixte": 5,
-    "opinion": 2
+    "factuel": 10,
+    "mixte": 8,
+    "opinion": 3
    },
-   "blindspot_score": 0.333,
+   "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.898,
-   "category": "environnement",
+   "divergence": 0.615,
+   "category": "culture",
    "terms_left": [
-    "souffrir",
+    "monde",
+    "odyssée",
+    "christopher"
+   ],
+   "terms_right": [
+    "film",
     "france",
-    "hôpitaux"
-   ],
-   "terms_right": [
-    "feu",
-    "pompiers",
-    "chaleur"
-   ]
-  },
-  {
-   "title": "LeBron James «raciste», troisième mandat... Donald Trump multiplie les blagues à l’occasion d’un diner à la Maison Blanche",
-   "url": "https://www.ladepeche.fr/2026/07/23/video-donald-trump-imite-en-plein-meeting-par-un-participant-les-images-deviennent-virales-13481283.php",
-   "n_members": 57,
-   "n_sources": 21,
-   "counts": {
-    "left": 2,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.556,
-   "blindspot_for": null,
-   "divergence": 0.754,
-   "category": "international",
-   "terms_left": [
-    "américains",
-    "etats-unis",
-    "face"
-   ],
-   "terms_right": [
-    "donald trump",
-    "donald",
-    "trump"
+    "imax mm"
    ]
   },
   {
@@ -815,47 +853,17 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.453,
+   "divergence": 0.424,
    "category": "société",
    "terms_left": [
+    "islamique",
     "rouen",
-    "prêtre",
-    "islamique"
+    "prêtre"
    ],
    "terms_right": [
     "père jacques",
-    "père",
-    "ans"
-   ]
-  },
-  {
-   "title": "\"L’Odyssée c’est un récit d’aventures, un roman d’amour, un polar\": comment le film de Christopher Nolan dope les ventes du texte d'Homère",
-   "url": "https://www.numerama.com/pop-culture/2297489-imax-ou-sasseoir-pour-ne-pas-gacher-lodyssee-de-nolan-mon-experience-au-pathe-ile-seguin.html",
-   "n_members": 43,
-   "n_sources": 21,
-   "counts": {
-    "left": 6,
-    "centre": 9,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.618,
-   "category": "culture",
-   "terms_left": [
-    "monde",
-    "odyssée",
-    "christopher"
-   ],
-   "terms_right": [
-    "film",
-    "france",
-    "français"
+    "ans assassinat",
+    "père"
    ]
   },
   {
@@ -883,15 +891,15 @@
     "russe e-commerce"
    ],
    "terms_right": [
+    "russie",
     "personnes",
-    "kiev",
-    "mort"
+    "kiev"
    ]
   },
   {
    "title": "Guerre en Ukraine: Andy Burnham reçoit Volodymyr Zelensky pour lui assurer le \"soutien indéfectible\" du Royaume-Uni",
    "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-pourquoi-la-visite-de-linfluenceuse-pro-trump-laura-loomer-a-kiev-nest-pas-si-anecdotique-22-07-2026-VJKNFDZX4FAA7E3WIL7ULEZER4.php",
-   "n_members": 60,
+   "n_members": 63,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -905,7 +913,7 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.602,
+   "divergence": 0.598,
    "category": "international",
    "terms_left": [
     "soldats",
@@ -913,9 +921,9 @@
     "supplémentaires"
    ],
    "terms_right": [
-    "ukraine",
-    "jours",
-    "ministre"
+    "trump",
+    "donald",
+    "donald trump"
    ]
   },
   {
@@ -995,7 +1003,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.678,
+   "divergence": 0.677,
    "category": "sport",
    "terms_left": [
     "français",
@@ -1071,7 +1079,7 @@
   {
    "title": "Incendies en France : les assureurs prendront en charge les frais de relogement des personnes évacuées",
    "url": "https://www.20minutes.fr/planete/4236181-20260724-incendies-evacuations-gironde-var-toujours-inquiet-point-brasiers-ravagent-france",
-   "n_members": 60,
+   "n_members": 62,
    "n_sources": 19,
    "counts": {
     "left": 4,
@@ -1085,17 +1093,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.614,
+   "divergence": 0.613,
    "category": "société",
    "terms_left": [
     "face",
-    "urgence",
-    "gouvernement"
+    "gouvernement",
+    "urgence"
    ],
    "terms_right": [
-    "tourisme",
     "feu",
-    "sud"
+    "sud",
+    "tourisme"
    ]
   },
   {
@@ -1117,16 +1125,8 @@
    "blindspot_for": null,
    "divergence": 0.601,
    "category": "international",
-   "terms_left": [
-    "iran",
-    "pétroliers",
-    "civil"
-   ],
-   "terms_right": [
-    "détroit",
-    "houthis",
-    "bab"
-   ]
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Ebola : un millier de nouveaux cas recensés en dix jours en RDC",
@@ -1145,7 +1145,7 @@
    },
    "blindspot_score": -0.429,
    "blindspot_for": null,
-   "divergence": 0.468,
+   "divergence": 0.467,
    "category": "international",
    "terms_left": [
     "épidémie ebola",
