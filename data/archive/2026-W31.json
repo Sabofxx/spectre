@@ -1,6 +1,6 @@
 {
  "week": "2026-W31",
- "generated_at": "2026-07-28T22:52:29+00:00",
+ "generated_at": "2026-07-28T23:52:44+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -56,7 +56,7 @@
    "terms_left": [
     "hectares",
     "préfecture",
-    "cause"
+    "milliers"
    ],
    "terms_right": [
     "nouvelles",
@@ -149,15 +149,15 @@
     "canicule morts"
    ],
    "terms_right": [
-    "pompiers",
     "ministre",
+    "pompiers",
     "faut"
    ]
   },
   {
    "title": "L'Iran épargné par les bombardements américains pour la deuxième nuit consécutive",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 496,
+   "n_members": 498,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -171,23 +171,23 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.288,
+   "divergence": 0.28,
    "category": "international",
    "terms_left": [
     "etats-unis",
     "bombardements",
-    "médias"
+    "état"
    ],
    "terms_right": [
     "états-unis",
     "guerre moyen-orient",
-    "moyen-orient"
+    "frappes"
    ]
   },
   {
    "title": "Météo. Canicule : 16 départements passeront en vigilance orange mercredi",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 359,
+   "n_members": 360,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,17 +201,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.353,
+   "divergence": 0.351,
    "category": "environnement",
    "terms_left": [
     "direct",
-    "météo france",
-    "orange canicule"
+    "orange canicule",
+    "proie"
    ],
    "terms_right": [
     "placés",
     "placés vigilance",
-    "départements"
+    "orages"
    ]
   },
   {
@@ -300,8 +300,8 @@
    ],
    "terms_right": [
     "farage",
-    "nigel farage",
-    "nigel"
+    "nigel",
+    "nigel farage"
    ]
   },
   {
@@ -407,8 +407,8 @@
    "category": "sport",
    "terms_left": [
     "immense",
-    "meneur jeu",
-    "ancien meneur"
+    "meneur",
+    "meneur jeu"
    ],
    "terms_right": [
     "qu",
@@ -586,6 +586,36 @@
     "patrimoine mondial",
     "mondial",
     "désormais"
+   ]
+  },
+  {
+   "title": "Guerre en Iran, Gaza, Liban: les enjeux de la rencontre entre Donald Trump et Benjamin Netanyahu à Washington",
+   "url": "https://www.lefigaro.fr/international/la-tunisie-convoque-l-ambassadrice-de-france-apres-la-diffusion-d-un-entretien-juge-hostile-par-une-chaine-francaise-20260725",
+   "n_members": 51,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.788,
+   "category": "international",
+   "terms_left": [
+    "cessez-le-feu",
+    "gaza",
+    "ministre"
+   ],
+   "terms_right": [
+    "iran",
+    "monde",
+    "moyen-orient"
    ]
   },
   {
@@ -777,7 +807,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.532,
+   "divergence": 0.533,
    "category": "environnement",
    "terms_left": [
     "points",
@@ -823,7 +853,7 @@
   {
    "title": "Guerre en Ukraine : Volodymyr Zelensky et Donald Trump ont échangé autour de la production ukrainienne de missiles Patriot lors d'une \"bonne rencontre\" à la Maison Blanche",
    "url": "https://www.ladepeche.fr/2026/07/23/video-donald-trump-imite-en-plein-meeting-par-un-participant-les-images-deviennent-virales-13481283.php",
-   "n_members": 73,
+   "n_members": 74,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -837,12 +867,12 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.664,
+   "divergence": 0.628,
    "category": "international",
    "terms_left": [
+    "intercepteurs",
     "etats-unis",
-    "qu",
-    "intercepteurs"
+    "aider"
    ],
    "terms_right": [
     "trump",
@@ -883,7 +913,7 @@
   {
    "title": "Incendies : pendant que le gouvernement se gargarise de mettre les moyens, les pompiers manquent de tout",
    "url": "https://www.nicematin.com/faits-divers/incendie-dans-le-var/on-n-est-pas-des-sur-hommes-apres-trois-vehicules-brules-le-patron-des-pompiers-du-var-appelle-a-une-prise-de-conscience-sur-les-feux-de-foret-10694533",
-   "n_members": 52,
+   "n_members": 53,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -1148,36 +1178,6 @@
     "personnes",
     "kiev",
     "mort"
-   ]
-  },
-  {
-   "title": "Guerre en Ukraine: Andy Burnham reçoit Volodymyr Zelensky pour lui assurer le \"soutien indéfectible\" du Royaume-Uni",
-   "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-pourquoi-la-visite-de-linfluenceuse-pro-trump-laura-loomer-a-kiev-nest-pas-si-anecdotique-22-07-2026-VJKNFDZX4FAA7E3WIL7ULEZER4.php",
-   "n_members": 68,
-   "n_sources": 20,
-   "counts": {
-    "left": 2,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 4,
-    "opinion": 2
-   },
-   "blindspot_score": 0.556,
-   "blindspot_for": null,
-   "divergence": 0.625,
-   "category": "international",
-   "terms_left": [
-    "week-end",
-    "russe",
-    "soldats"
-   ],
-   "terms_right": [
-    "trump",
-    "volodymyr zelensky",
-    "volodymyr"
    ]
   }
  ]
