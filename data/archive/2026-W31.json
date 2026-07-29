@@ -1,6 +1,6 @@
 {
  "week": "2026-W31",
- "generated_at": "2026-07-29T22:28:43+00:00",
+ "generated_at": "2026-07-29T23:31:21+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -67,7 +67,7 @@
   {
    "title": "DIRECT. Incendies : le mégafeu en Gironde toujours « stabilisé »",
    "url": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-lege-cap-ferret-une-habitation-ravagee-par-le-feu-23-07_VN-202607230679.html",
-   "n_members": 223,
+   "n_members": 224,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.564,
+   "divergence": 0.563,
    "category": "environnement",
    "terms_left": [
     "gironde",
@@ -157,7 +157,7 @@
   {
    "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump promet que les Etats-Unis vont frapper « fort » en Iran après les attaques sur une base américaine en Jordanie",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 532,
+   "n_members": 533,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -300,8 +300,8 @@
    ],
    "terms_right": [
     "farage",
-    "nigel farage",
-    "nigel"
+    "nigel",
+    "nigel farage"
    ]
   },
   {
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.433,
+   "divergence": 0.434,
    "category": "international",
    "terms_left": [
     "attentat",
@@ -407,8 +407,8 @@
    "category": "sport",
    "terms_left": [
     "immense",
-    "ancien meneur",
-    "meneur jeu"
+    "meneur jeu",
+    "ancien meneur"
    ],
    "terms_right": [
     "qu",
@@ -1017,7 +1017,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.528,
+   "divergence": 0.529,
    "category": "international",
    "terms_left": [
     "ministre",
@@ -1121,6 +1121,36 @@
    ]
   },
   {
+   "title": "\"Dorénavant, je passerai loin\" : des baies vitrées chutent des étages de la tour Montparnasse à Paris, relançant le débat autour de sa rénovation",
+   "url": "https://immobilier.lefigaro.fr/article/tour-montparnasse-le-principal-coproprietaire-reclame-et-obtient-l-abandon-du-mega-projet-de-renovation-20260721",
+   "n_members": 51,
+   "n_sources": 22,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.675,
+   "category": "international",
+   "terms_left": [
+    "adjoint",
+    "forêt",
+    "sites"
+   ],
+   "terms_right": [
+    "maire",
+    "maire paris",
+    "ans"
+   ]
+  },
+  {
    "title": "Guérande : après 9 heures de traque, l’État cède face à 280 caravanes de gens du voyage, le maire s’estime abandonné",
    "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/un-mauvais-polar-reporters-sans-frontieres-accuse-la-mairie-d-annecy-d-avoir-tente-d-etouffer-une-affaire-de-viol-mettant-en-cause-le-premier-adjoint-au-maire_8114753.html",
    "n_members": 62,
@@ -1148,36 +1178,6 @@
     "maire",
     "état",
     "nice"
-   ]
-  },
-  {
-   "title": "Incendies dans le Var : ce que l'on sait sur le suspect mis en examen après une dizaine de départs de feu volontaires",
-   "url": "https://www.telerama.fr/arts-expositions/vol-en-plein-jour-d-un-bijou-majeur-de-l-orfevre-celte-dans-un-musee-de-bourgogne-7032192.php",
-   "n_members": 59,
-   "n_sources": 21,
-   "counts": {
-    "left": 5,
-    "centre": 8,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 6,
-    "opinion": 5
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.631,
-   "category": "faits-divers",
-   "terms_left": [
-    "placé détention",
-    "détention",
-    "hectares"
-   ],
-   "terms_right": [
-    "incendies",
-    "mis",
-    "feux"
    ]
   }
  ]
