@@ -1,6 +1,6 @@
 {
  "week": "2026-W31",
- "generated_at": "2026-07-28T23:52:44+00:00",
+ "generated_at": "2026-07-29T01:32:00+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -149,8 +149,8 @@
     "canicule morts"
    ],
    "terms_right": [
-    "ministre",
     "pompiers",
+    "ministre",
     "faut"
    ]
   },
@@ -389,7 +389,7 @@
   {
    "title": "Équipe de France : Zinédine Zidane officiellement nommé sélectionneur des Bleus",
    "url": "https://www.leparisien.fr/video/actualites/sports/deschamps-larbitre-etait-il-au-niveau-15-07-2026-3MC6TJKRCRBYHNUQ56SVZKG25I.php",
-   "n_members": 158,
+   "n_members": 159,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -413,7 +413,7 @@
    "terms_right": [
     "qu",
     "zidane",
-    "sud"
+    "france zinédine"
    ]
   },
   {
@@ -591,7 +591,7 @@
   {
    "title": "Guerre en Iran, Gaza, Liban: les enjeux de la rencontre entre Donald Trump et Benjamin Netanyahu à Washington",
    "url": "https://www.lefigaro.fr/international/la-tunisie-convoque-l-ambassadrice-de-france-apres-la-diffusion-d-un-entretien-juge-hostile-par-une-chaine-francaise-20260725",
-   "n_members": 51,
+   "n_members": 53,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -791,6 +791,36 @@
    ]
   },
   {
+   "title": "Incendies : pendant que le gouvernement se gargarise de mettre les moyens, les pompiers manquent de tout",
+   "url": "https://www.nicematin.com/faits-divers/incendie-dans-le-var/on-n-est-pas-des-sur-hommes-apres-trois-vehicules-brules-le-patron-des-pompiers-du-var-appelle-a-une-prise-de-conscience-sur-les-feux-de-foret-10694533",
+   "n_members": 55,
+   "n_sources": 23,
+   "counts": {
+    "left": 6,
+    "centre": 8,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.78,
+   "category": "société",
+   "terms_left": [
+    "gouvernement",
+    "climatique",
+    "urgence"
+   ],
+   "terms_right": [
+    "forêt",
+    "sud",
+    "feu"
+   ]
+  },
+  {
    "title": "Incendies dans le Var : 4.000 hectares brûlés et 2.000 personnes toujours évacuées à cause de plusieurs reprises de feu",
    "url": "https://www.cnews.fr/france/2026-07-17/incendies-les-pompiers-denoncent-des-rates-lies-des-normes-antipollution",
    "n_members": 129,
@@ -807,7 +837,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.533,
+   "divergence": 0.532,
    "category": "environnement",
    "terms_left": [
     "points",
@@ -853,7 +883,7 @@
   {
    "title": "Guerre en Ukraine : Volodymyr Zelensky et Donald Trump ont échangé autour de la production ukrainienne de missiles Patriot lors d'une \"bonne rencontre\" à la Maison Blanche",
    "url": "https://www.ladepeche.fr/2026/07/23/video-donald-trump-imite-en-plein-meeting-par-un-participant-les-images-deviennent-virales-13481283.php",
-   "n_members": 74,
+   "n_members": 75,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -911,39 +941,9 @@
    ]
   },
   {
-   "title": "Incendies : pendant que le gouvernement se gargarise de mettre les moyens, les pompiers manquent de tout",
-   "url": "https://www.nicematin.com/faits-divers/incendie-dans-le-var/on-n-est-pas-des-sur-hommes-apres-trois-vehicules-brules-le-patron-des-pompiers-du-var-appelle-a-une-prise-de-conscience-sur-les-feux-de-foret-10694533",
-   "n_members": 53,
-   "n_sources": 22,
-   "counts": {
-    "left": 5,
-    "centre": 8,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 7,
-    "opinion": 5
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.79,
-   "category": "société",
-   "terms_left": [
-    "gouvernement",
-    "urgence",
-    "climatique"
-   ],
-   "terms_right": [
-    "forêt",
-    "sud",
-    "français"
-   ]
-  },
-  {
    "title": "Japon : un séisme de très forte intensité secoue le sud du pays, plusieurs dizaines de blessés et des personnes piégées dans un centre commercial",
    "url": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-7-1-frappe-le-sud-du-japon-une-alerte-au-tsunami-emise_8125079.html",
-   "n_members": 44,
+   "n_members": 45,
    "n_sources": 22,
    "counts": {
     "left": 5,
