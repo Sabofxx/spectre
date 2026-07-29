@@ -1,6 +1,6 @@
 {
  "week": "2026-W31",
- "generated_at": "2026-07-29T18:58:24+00:00",
+ "generated_at": "2026-07-29T20:10:08+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Incendie en Gironde: 220.000 personnes ont été évacuées de leur domicile jusqu'à présent, c'est la plus vaste évacuation de population jamais organisée",
    "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 635,
+   "n_members": 636,
    "n_sources": 36,
    "counts": {
     "left": 8,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.321,
+   "divergence": 0.319,
    "category": "environnement",
    "terms_left": [
     "milliers",
@@ -67,7 +67,7 @@
   {
    "title": "DIRECT. Incendies : le mégafeu en Gironde toujours « stabilisé »",
    "url": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-lege-cap-ferret-une-habitation-ravagee-par-le-feu-23-07_VN-202607230679.html",
-   "n_members": 217,
+   "n_members": 220,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.352,
+   "divergence": 0.351,
    "category": "environnement",
    "terms_left": [
     "mégafeu",
@@ -90,14 +90,14 @@
    ],
    "terms_right": [
     "lutte",
-    "incendies gironde",
+    "vent",
     "sud"
    ]
   },
   {
    "title": "Gironde, Corse, Landes… Le point sur les incendies en France",
    "url": "https://www.nicematin.com/societe/vie-locale/ou-est-l-inflexion-promise-pourquoi-le-budget-supplementaire-de-la-ville-d-antibes-a-fait-debat-10689044",
-   "n_members": 112,
+   "n_members": 113,
    "n_sources": 31,
    "counts": {
     "left": 6,
@@ -157,7 +157,7 @@
   {
    "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump promet que les Etats-Unis vont frapper « fort » en Iran après les attaques sur une base américaine en Jordanie",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 531,
+   "n_members": 532,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -300,8 +300,8 @@
    ],
    "terms_right": [
     "farage",
-    "nigel farage",
-    "nigel"
+    "nigel",
+    "nigel farage"
    ]
   },
   {
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.824,
+   "divergence": 0.825,
    "category": "environnement",
    "terms_left": [
     "macron",
@@ -463,7 +463,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.608,
+   "divergence": 0.609,
    "category": "environnement",
    "terms_left": [
     "sécheresse",
@@ -523,17 +523,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.781,
+   "divergence": 0.789,
    "category": "environnement",
    "terms_left": [
     "moyens",
-    "bordelaise",
-    "incendies gironde"
+    "incendies gironde",
+    "sécurité"
    ],
    "terms_right": [
     "forêt",
-    "pompiers",
-    "incendie"
+    "incendie",
+    "pompiers"
    ]
   },
   {
@@ -557,6 +557,36 @@
    "category": "politique",
    "terms_left": [],
    "terms_right": []
+  },
+  {
+   "title": "Guerre au Moyen-Orient : une rencontre «positive et productive» entre Donald Trump et Benjamin Netanyahu",
+   "url": "https://www.lefigaro.fr/international/la-tunisie-convoque-l-ambassadrice-de-france-apres-la-diffusion-d-un-entretien-juge-hostile-par-une-chaine-francaise-20260725",
+   "n_members": 64,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.754,
+   "category": "international",
+   "terms_left": [
+    "cessez-le-feu",
+    "fois",
+    "maison-blanche"
+   ],
+   "terms_right": [
+    "iran",
+    "monde",
+    "rencontre"
+   ]
   },
   {
    "title": "Normandie : les plages du Débarquement inscrites au patrimoine mondial de l'Unesco",
@@ -586,36 +616,6 @@
     "normandie",
     "sud",
     "plages débarquement"
-   ]
-  },
-  {
-   "title": "Guerre au Moyen-Orient : une rencontre «positive et productive» entre Donald Trump et Benjamin Netanyahu",
-   "url": "https://www.lefigaro.fr/international/la-tunisie-convoque-l-ambassadrice-de-france-apres-la-diffusion-d-un-entretien-juge-hostile-par-une-chaine-francaise-20260725",
-   "n_members": 63,
-   "n_sources": 26,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.754,
-   "category": "international",
-   "terms_left": [
-    "cessez-le-feu",
-    "fois",
-    "maison-blanche"
-   ],
-   "terms_right": [
-    "iran",
-    "monde",
-    "rencontre"
    ]
   },
   {
@@ -651,21 +651,21 @@
   {
    "title": "La chroniqueuse pro-russe Xenia Fedorova visée par un arrêté d’expulsion du territoire français",
    "url": "https://www.lemonde.fr/international/article/2026/07/29/la-propagandiste-prorusse-xenia-fedorova-visee-par-un-arrete-d-expulsion-annonce-le-ministere-de-l-interieur-francais_6736367_3210.html",
-   "n_members": 39,
-   "n_sources": 25,
+   "n_members": 40,
+   "n_sources": 26,
    "counts": {
-    "left": 7,
+    "left": 8,
     "centre": 12,
     "right": 6
    },
    "style_counts": {
     "factuel": 14,
-    "mixte": 8,
+    "mixte": 9,
     "opinion": 3
    },
-   "blindspot_score": -0.077,
+   "blindspot_score": -0.143,
    "blindspot_for": null,
-   "divergence": 0.279,
+   "divergence": 0.272,
    "category": "international",
    "terms_left": [
     "bolloré",
@@ -674,8 +674,8 @@
    ],
    "terms_right": [
     "lagardère",
-    "canal",
-    "chroniqueuse"
+    "accusée",
+    "canal"
    ]
   },
   {
@@ -725,7 +725,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.761,
+   "divergence": 0.762,
    "category": "politique",
    "terms_left": [
     "russe",
@@ -771,7 +771,7 @@
   {
    "title": "Incendie en Gironde : Bercy annonce «13.000 entreprises» évacuées et des aides pour les sinistrés",
    "url": "https://www.20minutes.fr/planete/4236181-20260724-incendies-evacuations-gironde-var-toujours-inquiet-point-brasiers-ravagent-france",
-   "n_members": 90,
+   "n_members": 93,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -785,8 +785,8 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.63,
-   "category": "société",
+   "divergence": 0.629,
+   "category": "économie",
    "terms_left": [
     "gouvernement",
     "face",
@@ -794,8 +794,8 @@
    ],
    "terms_right": [
     "landes",
-    "incendies",
-    "évacuées"
+    "évacuées",
+    "incendies"
    ]
   },
   {
@@ -837,23 +837,23 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.775,
+   "divergence": 0.796,
    "category": "environnement",
    "terms_left": [
-    "plage",
-    "lacanau",
-    "couple"
+    "fumée",
+    "tour",
+    "habitants"
    ],
    "terms_right": [
-    "feux",
     "hectares",
-    "france"
+    "feux",
+    "forêt"
    ]
   },
   {
    "title": "Séisme au Japon : au moins 13 morts, des personnes toujours piégées dans un centre commercial effondré",
    "url": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-7-1-frappe-le-sud-du-japon-une-alerte-au-tsunami-emise_8125079.html",
-   "n_members": 66,
+   "n_members": 67,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -911,39 +911,9 @@
    ]
   },
   {
-   "title": "Incendies : «500 entreprises touchées ont déjà fait appel au dispositif d'activité partielle», annonce Jean-Pierre Farandou",
-   "url": "https://www.nicematin.com/faits-divers/incendie-dans-le-var/on-n-est-pas-des-sur-hommes-apres-trois-vehicules-brules-le-patron-des-pompiers-du-var-appelle-a-une-prise-de-conscience-sur-les-feux-de-foret-10694533",
-   "n_members": 61,
-   "n_sources": 23,
-   "counts": {
-    "left": 6,
-    "centre": 8,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 8,
-    "opinion": 5
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.771,
-   "category": "société",
-   "terms_left": [
-    "gouvernement",
-    "urgence",
-    "climatique"
-   ],
-   "terms_right": [
-    "forêt",
-    "sud",
-    "euros"
-   ]
-  },
-  {
    "title": "La France et les États-Unis s'écharpent au Conseil de sécurité de l'ONU",
    "url": "https://information.tv5monde.com/international/coupures-de-courant-menaces-des-etats-unis-impasse-economique-la-profonde-crise-humanitaire-cuba-saggrave-2831020",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -971,9 +941,39 @@
    ]
   },
   {
+   "title": "Incendies : «500 entreprises touchées ont déjà fait appel au dispositif d'activité partielle», annonce Jean-Pierre Farandou",
+   "url": "https://www.nicematin.com/faits-divers/incendie-dans-le-var/on-n-est-pas-des-sur-hommes-apres-trois-vehicules-brules-le-patron-des-pompiers-du-var-appelle-a-une-prise-de-conscience-sur-les-feux-de-foret-10694533",
+   "n_members": 61,
+   "n_sources": 23,
+   "counts": {
+    "left": 6,
+    "centre": 8,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.767,
+   "category": "société",
+   "terms_left": [
+    "gouvernement",
+    "urgence",
+    "climatique"
+   ],
+   "terms_right": [
+    "sud",
+    "forêt",
+    "euros"
+   ]
+  },
+  {
    "title": "Un feu toujours incontrôlé dans le Var",
    "url": "https://www.cnews.fr/france/2026-07-17/incendies-les-pompiers-denoncent-des-rates-lies-des-normes-antipollution",
-   "n_members": 137,
+   "n_members": 138,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -987,7 +987,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.527,
+   "divergence": 0.528,
    "category": "environnement",
    "terms_left": [
     "points",
@@ -1003,7 +1003,7 @@
   {
    "title": "Guerre en Ukraine : Volodymyr Zelensky et Donald Trump ont échangé autour de la production ukrainienne de missiles Patriot lors d'une \"bonne rencontre\" à la Maison Blanche",
    "url": "https://www.ladepeche.fr/2026/07/23/video-donald-trump-imite-en-plein-meeting-par-un-participant-les-images-deviennent-virales-13481283.php",
-   "n_members": 84,
+   "n_members": 85,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -1017,7 +1017,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.527,
+   "divergence": 0.528,
    "category": "international",
    "terms_left": [
     "ministre",
