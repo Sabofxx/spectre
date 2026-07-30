@@ -1,6 +1,6 @@
 {
  "week": "2026-W31",
- "generated_at": "2026-07-30T00:56:31+00:00",
+ "generated_at": "2026-07-30T03:51:57+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.318,
+   "divergence": 0.317,
    "category": "environnement",
    "terms_left": [
     "milliers",
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.563,
+   "divergence": 0.564,
    "category": "environnement",
    "terms_left": [
     "gironde",
@@ -157,7 +157,7 @@
   {
    "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump promet que les Etats-Unis vont frapper « fort » en Iran après les attaques sur une base américaine en Jordanie",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 533,
+   "n_members": 536,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.262,
+   "divergence": 0.263,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -187,7 +187,7 @@
   {
    "title": "Vigilance canicule : 16 départements en orange mercredi, jusqu'à 42°C annoncés en Gironde et dans les Landes",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 378,
+   "n_members": 379,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,12 +201,12 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.313,
+   "divergence": 0.311,
    "category": "environnement",
    "terms_left": [
     "gironde",
-    "direct",
-    "landes"
+    "landes",
+    "direct"
    ],
    "terms_right": [
     "départements placés",
@@ -300,8 +300,8 @@
    ],
    "terms_right": [
     "farage",
-    "nigel farage",
-    "nigel"
+    "nigel",
+    "nigel farage"
    ]
   },
   {
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.434,
+   "divergence": 0.441,
    "category": "international",
    "terms_left": [
     "attentat",
@@ -407,7 +407,7 @@
    "category": "sport",
    "terms_left": [
     "immense",
-    "meneur jeu",
+    "ancien meneur",
     "meneur"
    ],
    "terms_right": [
@@ -523,17 +523,47 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.79,
+   "divergence": 0.795,
    "category": "environnement",
    "terms_left": [
-    "moyens",
     "incendies gironde",
-    "sécurité"
+    "incendies",
+    "risque"
    ],
    "terms_right": [
     "forêt",
-    "incendie",
-    "pompiers"
+    "feux",
+    "incendie"
+   ]
+  },
+  {
+   "title": "La chroniqueuse pro-russe Xenia Fedorova visée par un arrêté d’expulsion du territoire français",
+   "url": "https://www.lemonde.fr/international/article/2026/07/29/la-propagandiste-prorusse-xenia-fedorova-visee-par-un-arrete-d-expulsion-annonce-le-ministere-de-l-interieur-francais_6736367_3210.html",
+   "n_members": 41,
+   "n_sources": 27,
+   "counts": {
+    "left": 8,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": -0.143,
+   "blindspot_for": null,
+   "divergence": 0.273,
+   "category": "international",
+   "terms_left": [
+    "bolloré",
+    "propagandiste",
+    "propagande"
+   ],
+   "terms_right": [
+    "lagardère",
+    "accusée",
+    "canal"
    ]
   },
   {
@@ -575,7 +605,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.753,
+   "divergence": 0.754,
    "category": "international",
    "terms_left": [
     "cessez-le-feu",
@@ -649,36 +679,6 @@
    ]
   },
   {
-   "title": "La chroniqueuse pro-russe Xenia Fedorova visée par un arrêté d’expulsion du territoire français",
-   "url": "https://www.lemonde.fr/international/article/2026/07/29/la-propagandiste-prorusse-xenia-fedorova-visee-par-un-arrete-d-expulsion-annonce-le-ministere-de-l-interieur-francais_6736367_3210.html",
-   "n_members": 40,
-   "n_sources": 26,
-   "counts": {
-    "left": 8,
-    "centre": 12,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": -0.143,
-   "blindspot_for": null,
-   "divergence": 0.272,
-   "category": "international",
-   "terms_left": [
-    "bolloré",
-    "propagandiste",
-    "propagande"
-   ],
-   "terms_right": [
-    "lagardère",
-    "accusée",
-    "canal"
-   ]
-  },
-  {
    "title": "Incendies en France: Emmanuel Macron assure que le feu dans les Landes est \"fixé\", la situation reste \"très difficile\" en Gironde",
    "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
    "n_members": 331,
@@ -725,7 +725,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.762,
+   "divergence": 0.761,
    "category": "politique",
    "terms_left": [
     "russe",
@@ -799,6 +799,36 @@
    ]
   },
   {
+   "title": "Séisme au Japon: plusieurs dizaines de blessés, des personnes piégées dans un centre commercial",
+   "url": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-7-1-frappe-le-sud-du-japon-une-alerte-au-tsunami-emise_8125079.html",
+   "n_members": 71,
+   "n_sources": 23,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.364,
+   "category": "international",
+   "terms_left": [
+    "centre",
+    "centre commercial",
+    "commercial"
+   ],
+   "terms_right": [
+    "frappé",
+    "séisme magnitude",
+    "ministre"
+   ]
+  },
+  {
    "title": "Tour de France 2026 : pour soulager les services de secours pris sur les incendies, le parcours de la dernière étape modifiée",
    "url": "https://www.tf1info.fr/societe/videos/video-incendies-le-debroussaillement-pas-toujours-respecte-13307-2454136.html",
    "n_members": 69,
@@ -837,47 +867,17 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.796,
+   "divergence": 0.807,
    "category": "environnement",
    "terms_left": [
     "fumée",
-    "tour",
-    "habitants"
+    "habitants",
+    "évacués"
    ],
    "terms_right": [
-    "hectares",
     "feux",
-    "forêt"
-   ]
-  },
-  {
-   "title": "Séisme au Japon : au moins 13 morts, des personnes toujours piégées dans un centre commercial effondré",
-   "url": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-7-1-frappe-le-sud-du-japon-une-alerte-au-tsunami-emise_8125079.html",
-   "n_members": 67,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.361,
-   "category": "international",
-   "terms_left": [
-    "centre",
-    "centre commercial",
-    "commercial"
-   ],
-   "terms_right": [
-    "frappé",
-    "séisme magnitude",
-    "ministre"
+    "hectares",
+    "france"
    ]
   },
   {
@@ -960,20 +960,50 @@
    "divergence": 0.767,
    "category": "société",
    "terms_left": [
-    "gouvernement",
     "urgence",
+    "gouvernement",
     "climatique"
    ],
    "terms_right": [
     "sud",
-    "forêt",
-    "euros"
+    "euros",
+    "français"
    ]
   },
   {
-   "title": "Un feu toujours incontrôlé dans le Var",
+   "title": "\"Dorénavant, je passerai loin\" : des baies vitrées chutent des étages de la tour Montparnasse à Paris, relançant le débat autour de sa rénovation",
+   "url": "https://immobilier.lefigaro.fr/article/tour-montparnasse-le-principal-coproprietaire-reclame-et-obtient-l-abandon-du-mega-projet-de-renovation-20260721",
+   "n_members": 58,
+   "n_sources": 23,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.747,
+   "category": "international",
+   "terms_left": [
+    "adjoint",
+    "forêt",
+    "sites"
+   ],
+   "terms_right": [
+    "incendies",
+    "maire",
+    "sud"
+   ]
+  },
+  {
+   "title": "Incendies dans le Var : la colère monte après de nouveaux départs de feu suspects",
    "url": "https://www.cnews.fr/france/2026-07-17/incendies-les-pompiers-denoncent-des-rates-lies-des-normes-antipollution",
-   "n_members": 139,
+   "n_members": 140,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -1118,36 +1148,6 @@
     "film",
     "france",
     "ia"
-   ]
-  },
-  {
-   "title": "\"Dorénavant, je passerai loin\" : des baies vitrées chutent des étages de la tour Montparnasse à Paris, relançant le débat autour de sa rénovation",
-   "url": "https://immobilier.lefigaro.fr/article/tour-montparnasse-le-principal-coproprietaire-reclame-et-obtient-l-abandon-du-mega-projet-de-renovation-20260721",
-   "n_members": 52,
-   "n_sources": 22,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.678,
-   "category": "international",
-   "terms_left": [
-    "adjoint",
-    "forêt",
-    "sites"
-   ],
-   "terms_right": [
-    "maire",
-    "maire paris",
-    "euros"
    ]
   },
   {
