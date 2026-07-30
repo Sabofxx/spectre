@@ -1,6 +1,6 @@
 {
  "week": "2026-W31",
- "generated_at": "2026-07-30T15:32:06+00:00",
+ "generated_at": "2026-07-30T17:02:24+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -35,9 +35,9 @@
    ]
   },
   {
-   "title": "Incendie en Gironde \"stabilisé\" : des évacutations préventives dans trois communes",
+   "title": "Incendie en Gironde : pas totalement rassurés, certains habitants évacués retrouvent enfin leurs maisons",
    "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 646,
+   "n_members": 649,
    "n_sources": 36,
    "counts": {
     "left": 8,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.283,
+   "divergence": 0.287,
    "category": "environnement",
    "terms_left": [
     "milliers",
@@ -67,7 +67,7 @@
   {
    "title": "DIRECT. Incendies : le mégafeu en Gironde toujours « stabilisé »",
    "url": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-lege-cap-ferret-une-habitation-ravagee-par-le-feu-23-07_VN-202607230679.html",
-   "n_members": 256,
+   "n_members": 259,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -86,12 +86,12 @@
    "terms_left": [
     "stabilisé",
     "direct",
-    "retour"
+    "mégafeu"
    ],
    "terms_right": [
     "lutte",
-    "incendies gironde",
-    "explique"
+    "feux",
+    "flammes"
    ]
   },
   {
@@ -111,17 +111,17 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.589,
+   "divergence": 0.596,
    "category": "environnement",
    "terms_left": [
     "canicule",
-    "saison",
-    "rapport"
+    "rapport",
+    "début année"
    ],
    "terms_right": [
-    "gironde",
+    "surfaces",
     "record",
-    "surfaces"
+    "face"
    ]
   },
   {
@@ -141,23 +141,23 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.566,
+   "divergence": 0.572,
    "category": "environnement",
    "terms_left": [
     "morts",
-    "pays",
-    "coupures"
+    "canicule morts",
+    "tunisie"
    ],
    "terms_right": [
+    "ans",
     "france",
-    "publique france",
-    "santé publique"
+    "publique france"
    ]
   },
   {
    "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump promet que les Etats-Unis vont frapper « fort » en Iran après les attaques sur une base américaine en Jordanie",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 559,
+   "n_members": 560,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -187,7 +187,7 @@
   {
    "title": "Vigilance canicule : 16 départements en orange mercredi, jusqu'à 42°C annoncés en Gironde et dans les Landes",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 386,
+   "n_members": 387,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.314,
+   "divergence": 0.312,
    "category": "environnement",
    "terms_left": [
     "gironde",
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.142,
+   "divergence": 0.141,
    "category": "culture",
    "terms_left": [
     "plainte",
@@ -261,17 +261,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.137,
+   "divergence": 0.138,
    "category": "société",
    "terms_left": [
     "vidéo",
     "personnes",
-    "ville"
+    "christophe"
    ],
    "terms_right": [
     "menacé",
     "mort dz",
-    "domicile"
+    "mort"
    ]
   },
   {
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.654,
+   "divergence": 0.655,
    "category": "international",
    "terms_left": [
     "inde",
@@ -335,6 +335,36 @@
    ]
   },
   {
+   "title": "La chroniqueuse pro-russe Xenia Fedorova visée par un arrêté d’expulsion du territoire français",
+   "url": "https://www.bvoltaire.fr/entretien-je-ne-vais-pas-marreter-et-me-censurer/",
+   "n_members": 56,
+   "n_sources": 29,
+   "counts": {
+    "left": 8,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": -0.067,
+   "blindspot_for": null,
+   "divergence": 0.276,
+   "category": "culture",
+   "terms_left": [
+    "propagandiste",
+    "bolloré",
+    "propagande"
+   ],
+   "terms_right": [
+    "lagardère",
+    "liberté",
+    "liberté expression"
+   ]
+  },
+  {
    "title": "Incendie en Gironde : A400M, militaires, Canadair, CRS... Un dispositif sans précédent déployé ce samedi pour empêcher le feu d’atteindre Bordeaux",
    "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/capacites-de-largage-importantes-pilotage-difficile-on-vous-presente-l-a400m-avion-militaire-transforme-pour-lutter-contre-les-incendies_8114822.html",
    "n_members": 85,
@@ -351,7 +381,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.825,
+   "divergence": 0.826,
    "category": "environnement",
    "terms_left": [
     "macron",
@@ -385,36 +415,6 @@
    "category": "international",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "La chroniqueuse pro-russe Xenia Fedorova visée par un arrêté d’expulsion du territoire français",
-   "url": "https://www.bvoltaire.fr/entretien-je-ne-vais-pas-marreter-et-me-censurer/",
-   "n_members": 54,
-   "n_sources": 28,
-   "counts": {
-    "left": 8,
-    "centre": 14,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": -0.143,
-   "blindspot_for": null,
-   "divergence": 0.289,
-   "category": "culture",
-   "terms_left": [
-    "bolloré",
-    "propagandiste",
-    "propagande"
-   ],
-   "terms_right": [
-    "lagardère",
-    "canal",
-    "sud"
-   ]
   },
   {
    "title": "Équipe de France : Zinédine Zidane officiellement nommé sélectionneur des Bleus",
@@ -493,17 +493,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.659,
+   "divergence": 0.667,
    "category": "environnement",
    "terms_left": [
-    "incendies",
     "partir",
-    "connaître"
+    "connaître",
+    "quatrième canicule"
    ],
    "terms_right": [
     "chaleur",
-    "canicule",
-    "départements"
+    "vague chaleur",
+    "vague"
    ]
   },
   {
@@ -523,7 +523,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.749,
+   "divergence": 0.756,
    "category": "environnement",
    "terms_left": [
     "sécheresse",
@@ -533,7 +533,7 @@
    "terms_right": [
     "agriculteurs",
     "face",
-    "qu"
+    "incendies"
    ]
   },
   {
@@ -614,8 +614,8 @@
    ],
    "terms_right": [
     "iran",
-    "rencontre",
-    "donald trump"
+    "donald trump",
+    "donald"
    ]
   },
   {
@@ -679,6 +679,36 @@
    ]
   },
   {
+   "title": "Les dessous du projet de Gianni Infantino d’ouvrir la FIFA aux investisseurs privés",
+   "url": "https://www.ladepeche.fr/2026/07/28/il-franchit-une-limite-gianni-infantino-serait-pret-a-ceder-des-parts-de-la-fifa-pour-plusieurs-milliards-deuros-a-des-proches-de-donald-trump-13487502.php",
+   "n_members": 82,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.406,
+   "category": "sport",
+   "terms_left": [
+    "internationale",
+    "annoncé",
+    "ouvrir"
+   ],
+   "terms_right": [
+    "parts",
+    "coupe monde",
+    "coupe"
+   ]
+  },
+  {
    "title": "Incendies en France: Emmanuel Macron assure que le feu dans les Landes est \"fixé\", la situation reste \"très difficile\" en Gironde",
    "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-incendie-pres-de-saragosse-a-deja-ravage-7-600-hectares-et-mettra-des-jours-a-etre-maitrise_8110877.html",
    "n_members": 332,
@@ -695,7 +725,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.569,
+   "divergence": 0.562,
    "category": "environnement",
    "terms_left": [
     "hectares brûlés",
@@ -706,36 +736,6 @@
     "gironde",
     "feu",
     "france"
-   ]
-  },
-  {
-   "title": "Les dessous du projet de Gianni Infantino d’ouvrir la FIFA aux investisseurs privés",
-   "url": "https://www.ladepeche.fr/2026/07/28/il-franchit-une-limite-gianni-infantino-serait-pret-a-ceder-des-parts-de-la-fifa-pour-plusieurs-milliards-deuros-a-des-proches-de-donald-trump-13487502.php",
-   "n_members": 71,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.409,
-   "category": "sport",
-   "terms_left": [
-    "internationale",
-    "annoncé",
-    "ouvrir"
-   ],
-   "terms_right": [
-    "parts",
-    "annonce",
-    "fédérations"
    ]
   },
   {
@@ -755,7 +755,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.737,
+   "divergence": 0.736,
    "category": "international",
    "terms_left": [
     "adjoint",
@@ -785,7 +785,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.757,
+   "divergence": 0.758,
    "category": "politique",
    "terms_left": [
     "russe",
@@ -815,23 +815,53 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.343,
+   "divergence": 0.332,
    "category": "société",
    "terms_left": [
-    "instruction",
-    "juges instruction",
-    "ans"
+    "ans",
+    "mois",
+    "prison"
    ],
    "terms_right": [
-    "thomas crépol",
     "thomas",
+    "thomas crépol",
     "crépol"
+   ]
+  },
+  {
+   "title": "Critique ciné 🎥 L’Odyssée de Nolan : un BON FILM de droite ?",
+   "url": "https://www.numerama.com/pop-culture/2297489-imax-ou-sasseoir-pour-ne-pas-gacher-lodyssee-de-nolan-mon-experience-au-pathe-ile-seguin.html",
+   "n_members": 59,
+   "n_sources": 24,
+   "counts": {
+    "left": 7,
+    "centre": 9,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.524,
+   "category": "culture",
+   "terms_left": [
+    "millions",
+    "monde",
+    "politique"
+   ],
+   "terms_right": [
+    "homère",
+    "film",
+    "imax mm"
    ]
   },
   {
    "title": "\"On est en attente\" : les entreprises à l'arrêt dans les Landes et en Gironde, de l'inquiétude autour de l'avenir",
    "url": "https://www.20minutes.fr/planete/4236181-20260724-incendies-evacuations-gironde-var-toujours-inquiet-point-brasiers-ravagent-france",
-   "n_members": 100,
+   "n_members": 101,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -845,17 +875,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.664,
+   "divergence": 0.661,
    "category": "économie",
    "terms_left": [
+    "réunion",
     "gouvernement",
-    "face",
-    "réunion"
+    "face incendies"
    ],
    "terms_right": [
+    "incendies",
     "évacuées",
-    "euros",
-    "gironde"
+    "euros"
    ]
   },
   {
@@ -957,7 +987,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.619,
+   "divergence": 0.616,
    "category": "faits-divers",
    "terms_left": [
     "placé détention",
@@ -1053,36 +1083,6 @@
    ]
   },
   {
-   "title": "Critique ciné 🎥 L’Odyssée de Nolan : un BON FILM de droite ?",
-   "url": "https://www.numerama.com/pop-culture/2297489-imax-ou-sasseoir-pour-ne-pas-gacher-lodyssee-de-nolan-mon-experience-au-pathe-ile-seguin.html",
-   "n_members": 58,
-   "n_sources": 23,
-   "counts": {
-    "left": 7,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 8,
-    "opinion": 5
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.541,
-   "category": "culture",
-   "terms_left": [
-    "odyssée christopher",
-    "millions",
-    "monde"
-   ],
-   "terms_right": [
-    "imax mm",
-    "imax",
-    "mm"
-   ]
-  },
-  {
    "title": "Guerre en Ukraine : au moins huit morts, dont deux enfants, après des frappes russes à Kiev et dans le centre du pays",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
    "n_members": 171,
@@ -1115,7 +1115,7 @@
   {
    "title": "Incendie dans le Var: quatre personnes blessées pendant le feu de Brignoles qui a parcouru 130 hectares",
    "url": "https://www.cnews.fr/france/2026-07-17/incendies-les-pompiers-denoncent-des-rates-lies-des-normes-antipollution",
-   "n_members": 145,
+   "n_members": 146,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -1129,7 +1129,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.523,
+   "divergence": 0.525,
    "category": "environnement",
    "terms_left": [
     "contenu",
@@ -1159,7 +1159,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.521,
+   "divergence": 0.52,
    "category": "international",
    "terms_left": [
     "ministre",
