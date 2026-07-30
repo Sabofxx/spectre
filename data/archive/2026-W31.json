@@ -1,6 +1,6 @@
 {
  "week": "2026-W31",
- "generated_at": "2026-07-30T21:40:55+00:00",
+ "generated_at": "2026-07-30T22:57:39+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Incendie en Gironde: 10 communes toujours concernées par les évacuations",
    "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 661,
+   "n_members": 662,
    "n_sources": 36,
    "counts": {
     "left": 8,
@@ -569,7 +569,7 @@
   {
    "title": "Les dessous du projet de Gianni Infantino d’ouvrir la FIFA aux investisseurs privés",
    "url": "https://www.ladepeche.fr/2026/07/28/il-franchit-une-limite-gianni-infantino-serait-pret-a-ceder-des-parts-de-la-fifa-pour-plusieurs-milliards-deuros-a-des-proches-de-donald-trump-13487502.php",
-   "n_members": 94,
+   "n_members": 95,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -583,7 +583,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.377,
+   "divergence": 0.371,
    "category": "sport",
    "terms_left": [
     "internationale",
@@ -591,9 +591,9 @@
     "attirer"
    ],
    "terms_right": [
+    "parts",
     "coupe monde",
-    "coupe",
-    "parts"
+    "coupe"
    ]
   },
   {
@@ -755,7 +755,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.734,
+   "divergence": 0.723,
    "category": "international",
    "terms_left": [
     "adjoint",
@@ -764,8 +764,8 @@
    ],
    "terms_right": [
     "incendies",
-    "crète",
-    "grèce"
+    "personnes",
+    "crète"
    ]
   },
   {
@@ -1083,9 +1083,39 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine : au moins huit morts, dont deux enfants, après des frappes russes à Kiev et dans le centre du pays",
+   "title": "Espagne: 9 personnes meurent en tentant de rejoindre Ceuta, l'armée mobilisée face à l'afflux de migrants",
+   "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
+   "n_members": 57,
+   "n_sources": 23,
+   "counts": {
+    "left": 2,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": 0.636,
+   "category": "international",
+   "terms_left": [
+    "pic",
+    "annoncent",
+    "mortes"
+   ],
+   "terms_right": [
+    "ceuta",
+    "espagnole",
+    "enclave"
+   ]
+  },
+  {
+   "title": "Guerre en Ukraine : Volodymyr Zelensky accuse la Corée du Nord d'avoir fourni à Moscou le missile ayant décimé une famille",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 175,
+   "n_members": 176,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -1140,36 +1170,6 @@
     "var",
     "face",
     "personnes"
-   ]
-  },
-  {
-   "title": "Guerre en Ukraine : Volodymyr Zelensky et Donald Trump ont échangé autour de la production ukrainienne de missiles Patriot lors d'une \"bonne rencontre\" à la Maison Blanche",
-   "url": "https://www.ladepeche.fr/2026/07/23/video-donald-trump-imite-en-plein-meeting-par-un-participant-les-images-deviennent-virales-13481283.php",
-   "n_members": 85,
-   "n_sources": 22,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.52,
-   "category": "international",
-   "terms_left": [
-    "ministre",
-    "etats-unis",
-    "direct"
-   ],
-   "terms_right": [
-    "trump",
-    "donald trump",
-    "trump maison"
    ]
   }
  ]
