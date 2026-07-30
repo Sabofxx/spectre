@@ -1,6 +1,6 @@
 {
  "week": "2026-W31",
- "generated_at": "2026-07-30T03:51:57+00:00",
+ "generated_at": "2026-07-30T06:20:14+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.317,
+   "divergence": 0.319,
    "category": "environnement",
    "terms_left": [
     "milliers",
@@ -67,7 +67,7 @@
   {
    "title": "DIRECT. Incendies : le mégafeu en Gironde toujours « stabilisé »",
    "url": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-lege-cap-ferret-une-habitation-ravagee-par-le-feu-23-07_VN-202607230679.html",
-   "n_members": 224,
+   "n_members": 234,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -81,16 +81,16 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.35,
+   "divergence": 0.333,
    "category": "environnement",
    "terms_left": [
-    "mégafeu",
     "direct",
-    "mégafeu gironde"
+    "mégafeu",
+    "canicule"
    ],
    "terms_right": [
     "lutte",
-    "vent",
+    "feux",
     "sud"
    ]
   },
@@ -157,7 +157,7 @@
   {
    "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump promet que les Etats-Unis vont frapper « fort » en Iran après les attaques sur une base américaine en Jordanie",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 536,
+   "n_members": 551,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.263,
+   "divergence": 0.259,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -181,13 +181,13 @@
    "terms_right": [
     "états-unis",
     "guerre moyen-orient",
-    "guerre"
+    "moyen-orient"
    ]
   },
   {
    "title": "Vigilance canicule : 16 départements en orange mercredi, jusqu'à 42°C annoncés en Gironde et dans les Landes",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 379,
+   "n_members": 381,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -205,13 +205,13 @@
    "category": "environnement",
    "terms_left": [
     "gironde",
-    "landes",
-    "direct"
+    "direct",
+    "landes"
    ],
    "terms_right": [
     "départements placés",
     "placés",
-    "placés vigilance"
+    "jaune"
    ]
   },
   {
@@ -277,7 +277,7 @@
   {
    "title": "Inde : des “cafards” racontent comment ils ont fait tomber un ministre, leur “plus grande victoire”",
    "url": "https://www.lejdd.fr/International/royaume-uni-nigel-farage-face-au-comte-tete-de-poubelle-lors-dune-legislative-partielle-178632",
-   "n_members": 95,
+   "n_members": 96,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.651,
+   "divergence": 0.652,
    "category": "international",
    "terms_left": [
     "inde",
@@ -387,6 +387,36 @@
    "terms_right": []
   },
   {
+   "title": "La chroniqueuse pro-russe Xenia Fedorova visée par un arrêté d’expulsion du territoire français",
+   "url": "https://www.lemonde.fr/international/article/2026/07/29/la-propagandiste-prorusse-xenia-fedorova-visee-par-un-arrete-d-expulsion-annonce-le-ministere-de-l-interieur-francais_6736367_3210.html",
+   "n_members": 42,
+   "n_sources": 28,
+   "counts": {
+    "left": 8,
+    "centre": 14,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": -0.143,
+   "blindspot_for": null,
+   "divergence": 0.273,
+   "category": "international",
+   "terms_left": [
+    "bolloré",
+    "propagandiste",
+    "propagande"
+   ],
+   "terms_right": [
+    "lagardère",
+    "accusée",
+    "canal"
+   ]
+  },
+  {
    "title": "Équipe de France : Zinédine Zidane officiellement nommé sélectionneur des Bleus",
    "url": "https://www.leparisien.fr/video/actualites/sports/deschamps-larbitre-etait-il-au-niveau-15-07-2026-3MC6TJKRCRBYHNUQ56SVZKG25I.php",
    "n_members": 173,
@@ -407,7 +437,7 @@
    "category": "sport",
    "terms_left": [
     "immense",
-    "ancien meneur",
+    "meneur jeu",
     "meneur"
    ],
    "terms_right": [
@@ -449,7 +479,7 @@
   {
    "title": "Un quatrième épisode de fortes chaleurs, et très probablement de canicule, attendu à partir de mardi",
    "url": "https://www.valeursactuelles.com/clubvaleurs/societe/quand-la-canicule-met-lecologie-politique-a-lepreuve-du-reel",
-   "n_members": 122,
+   "n_members": 124,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -473,7 +503,7 @@
    "terms_right": [
     "chaleur",
     "vague chaleur",
-    "vague"
+    "départements"
    ]
   },
   {
@@ -523,47 +553,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.795,
+   "divergence": 0.783,
    "category": "environnement",
    "terms_left": [
-    "incendies gironde",
     "incendies",
-    "risque"
+    "incendies gironde",
+    "face"
    ],
    "terms_right": [
-    "forêt",
     "feux",
+    "forêt",
     "incendie"
-   ]
-  },
-  {
-   "title": "La chroniqueuse pro-russe Xenia Fedorova visée par un arrêté d’expulsion du territoire français",
-   "url": "https://www.lemonde.fr/international/article/2026/07/29/la-propagandiste-prorusse-xenia-fedorova-visee-par-un-arrete-d-expulsion-annonce-le-ministere-de-l-interieur-francais_6736367_3210.html",
-   "n_members": 41,
-   "n_sources": 27,
-   "counts": {
-    "left": 8,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": -0.143,
-   "blindspot_for": null,
-   "divergence": 0.273,
-   "category": "international",
-   "terms_left": [
-    "bolloré",
-    "propagandiste",
-    "propagande"
-   ],
-   "terms_right": [
-    "lagardère",
-    "accusée",
-    "canal"
    ]
   },
   {
@@ -605,7 +605,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.754,
+   "divergence": 0.753,
    "category": "international",
    "terms_left": [
     "cessez-le-feu",
@@ -635,7 +635,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.177,
+   "divergence": 0.178,
    "category": "société",
    "terms_left": [
     "inscrites patrimoine",
@@ -695,7 +695,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.576,
+   "divergence": 0.577,
    "category": "environnement",
    "terms_left": [
     "hectares brûlés",
@@ -755,7 +755,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.343,
+   "divergence": 0.342,
    "category": "société",
    "terms_left": [
     "instruction",
@@ -769,9 +769,9 @@
    ]
   },
   {
-   "title": "Incendie en Gironde : Bercy annonce «13.000 entreprises» évacuées et des aides pour les sinistrés",
+   "title": "\"On est en attente\" : les entreprises à l'arrêt dans les Landes et en Gironde, de l'inquiétude autour de l'avenir",
    "url": "https://www.20minutes.fr/planete/4236181-20260724-incendies-evacuations-gironde-var-toujours-inquiet-point-brasiers-ravagent-france",
-   "n_members": 94,
+   "n_members": 96,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -785,7 +785,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.627,
+   "divergence": 0.619,
    "category": "économie",
    "terms_left": [
     "gouvernement",
@@ -794,14 +794,14 @@
    ],
    "terms_right": [
     "landes",
-    "évacuées",
-    "incendies"
+    "gironde",
+    "feu"
    ]
   },
   {
-   "title": "Séisme au Japon: plusieurs dizaines de blessés, des personnes piégées dans un centre commercial",
+   "title": "Séisme au Japon : au moins 13 morts, des personnes toujours piégées dans un centre commercial effondré",
    "url": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-7-1-frappe-le-sud-du-japon-une-alerte-au-tsunami-emise_8125079.html",
-   "n_members": 71,
+   "n_members": 78,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -815,7 +815,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.364,
+   "divergence": 0.363,
    "category": "international",
    "terms_left": [
     "centre",
@@ -824,8 +824,8 @@
    ],
    "terms_right": [
     "frappé",
-    "séisme magnitude",
-    "ministre"
+    "sud-ouest japon",
+    "séisme magnitude"
    ]
   },
   {
@@ -853,7 +853,7 @@
   {
    "title": "\"Mon cœur saigne\" : avant et après, les images de paysages devenus méconnaissables en l'espace d'une semaine",
    "url": "https://www.leparisien.fr/landes-40/ils-etaient-en-pleurs-en-panique-a-biscarrosse-ces-milliers-dhabitants-et-vacanciers-livres-a-langoisse-24-07-2026-5RLJIN34LFB3RESBKTXYL3CFPY.php",
-   "n_members": 68,
+   "n_members": 69,
    "n_sources": 23,
    "counts": {
     "left": 7,
@@ -867,7 +867,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.807,
+   "divergence": 0.806,
    "category": "environnement",
    "terms_left": [
     "fumée",
@@ -897,12 +897,12 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.9,
+   "divergence": 0.905,
    "category": "environnement",
    "terms_left": [
     "souffrir",
-    "france",
-    "hôpitaux"
+    "hospitalière france",
+    "france"
    ],
    "terms_right": [
     "feu",
@@ -957,7 +957,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.767,
+   "divergence": 0.774,
    "category": "société",
    "terms_left": [
     "urgence",
@@ -965,9 +965,9 @@
     "climatique"
    ],
    "terms_right": [
+    "feu",
     "sud",
-    "euros",
-    "français"
+    "euros"
    ]
   },
   {
@@ -1003,7 +1003,7 @@
   {
    "title": "Incendies dans le Var : la colère monte après de nouveaux départs de feu suspects",
    "url": "https://www.cnews.fr/france/2026-07-17/incendies-les-pompiers-denoncent-des-rates-lies-des-normes-antipollution",
-   "n_members": 140,
+   "n_members": 142,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -1017,7 +1017,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.527,
+   "divergence": 0.525,
    "category": "environnement",
    "terms_left": [
     "points",
@@ -1047,12 +1047,12 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.529,
+   "divergence": 0.52,
    "category": "international",
    "terms_left": [
     "ministre",
     "etats-unis",
-    "direct"
+    "ukraine volodymyr"
    ],
    "terms_right": [
     "trump",
@@ -1063,7 +1063,7 @@
   {
    "title": "Orange : cinq corps de bébés retrouvés au domicile d'un couple",
    "url": "https://www.nicematin.com/faits-divers/militaires-disparus-dans-le-var-les-ossements-decouverts-dans-les-bouches-du-rhone-sont-bien-ceux-de-jacques-pakeso-et-de-mike-gineste-10694314",
-   "n_members": 62,
+   "n_members": 63,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -1107,12 +1107,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.534,
+   "divergence": 0.53,
    "category": "culture",
    "terms_left": [
     "violences",
-    "orange",
-    "organisateur"
+    "sexuelles",
+    "artistes"
    ],
    "terms_right": [
     "concert",
