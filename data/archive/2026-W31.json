@@ -1,6 +1,6 @@
 {
  "week": "2026-W31",
- "generated_at": "2026-07-31T11:05:41+00:00",
+ "generated_at": "2026-07-31T13:13:31+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.083,
    "blindspot_for": null,
-   "divergence": 0.123,
+   "divergence": 0.122,
    "category": "politique",
    "terms_left": [
     "vote",
@@ -30,14 +30,14 @@
    ],
    "terms_right": [
     "macron",
-    "parlement",
-    "définitivement"
+    "définitivement",
+    "parlement"
    ]
   },
   {
    "title": "Incendie en Gironde : pas totalement rassurés, certains habitants évacués retrouvent enfin leurs maisons",
    "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 678,
+   "n_members": 682,
    "n_sources": 36,
    "counts": {
     "left": 8,
@@ -67,7 +67,7 @@
   {
    "title": "Le mégafeu en Gironde est \"stabilisé\" mais un nouveau \"pic de chaleur\" arrive",
    "url": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-lege-cap-ferret-une-habitation-ravagee-par-le-feu-23-07_VN-202607230679.html",
-   "n_members": 289,
+   "n_members": 293,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -81,11 +81,11 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.319,
+   "divergence": 0.321,
    "category": "environnement",
    "terms_left": [
-    "stabilisé",
     "retour",
+    "stabilisé",
     "direct"
    ],
    "terms_right": [
@@ -97,7 +97,7 @@
   {
    "title": "Gironde, Corse, Landes… Le point sur les incendies en France",
    "url": "https://www.nicematin.com/societe/vie-locale/ou-est-l-inflexion-promise-pourquoi-le-budget-supplementaire-de-la-ville-d-antibes-a-fait-debat-10689044",
-   "n_members": 115,
+   "n_members": 116,
    "n_sources": 31,
    "counts": {
     "left": 6,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.595,
+   "divergence": 0.59,
    "category": "environnement",
    "terms_left": [
     "canicule",
@@ -125,9 +125,39 @@
    ]
   },
   {
+   "title": "Les dessous du projet de Gianni Infantino d’ouvrir la FIFA aux investisseurs privés",
+   "url": "https://www.ladepeche.fr/2026/07/28/il-franchit-une-limite-gianni-infantino-serait-pret-a-ceder-des-parts-de-la-fifa-pour-plusieurs-milliards-deuros-a-des-proches-de-donald-trump-13487502.php",
+   "n_members": 128,
+   "n_sources": 30,
+   "counts": {
+    "left": 6,
+    "centre": 15,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 19,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.282,
+   "category": "sport",
+   "terms_left": [
+    "internationale",
+    "internationale football",
+    "attirer"
+   ],
+   "terms_right": [
+    "parts",
+    "annonce",
+    "ouverte"
+   ]
+  },
+  {
    "title": "La chroniqueuse pro-russe Xenia Fedorova visée par un arrêté d’expulsion du territoire français",
    "url": "https://www.bvoltaire.fr/entretien-je-ne-vais-pas-marreter-et-me-censurer/",
-   "n_members": 80,
+   "n_members": 81,
    "n_sources": 30,
    "counts": {
     "left": 8,
@@ -141,7 +171,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.239,
+   "divergence": 0.242,
    "category": "international",
    "terms_left": [
     "propagandiste",
@@ -149,9 +179,9 @@
     "propagande"
    ],
    "terms_right": [
+    "accusée",
     "expulsion xenia",
-    "canal lagardère",
-    "qu"
+    "canal lagardère"
    ]
   },
   {
@@ -171,7 +201,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.575,
+   "divergence": 0.574,
    "category": "environnement",
    "terms_left": [
     "morts",
@@ -187,7 +217,7 @@
   {
    "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump promet que les Etats-Unis vont frapper « fort » en Iran après les attaques sur une base américaine en Jordanie",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 566,
+   "n_members": 567,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,7 +231,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.246,
+   "divergence": 0.247,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -305,6 +335,36 @@
    ]
   },
   {
+   "title": "EN DIRECT - Ceuta : 49.000 migrants seraient entrés dans l’enclave espagnole ces dernières 24 heures, la France renforce ses contrôles",
+   "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
+   "n_members": 124,
+   "n_sources": 29,
+   "counts": {
+    "left": 6,
+    "centre": 15,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.412,
+   "category": "international",
+   "terms_left": [
+    "place",
+    "adolescents",
+    "hommes adolescents"
+   ],
+   "terms_right": [
+    "espagnole ceuta",
+    "centaines",
+    "migrants"
+   ]
+  },
+  {
    "title": "Inde : des “cafards” racontent comment ils ont fait tomber un ministre, leur “plus grande victoire”",
    "url": "https://www.lejdd.fr/International/royaume-uni-nigel-farage-face-au-comte-tete-de-poubelle-lors-dune-legislative-partielle-178632",
    "n_members": 96,
@@ -351,47 +411,17 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.434,
+   "divergence": 0.433,
    "category": "international",
    "terms_left": [
     "mort blessés",
     "terroriste",
-    "marche"
+    "attentat"
    ],
    "terms_right": [
     "gay pride",
     "gay",
     "pride"
-   ]
-  },
-  {
-   "title": "Les dessous du projet de Gianni Infantino d’ouvrir la FIFA aux investisseurs privés",
-   "url": "https://www.ladepeche.fr/2026/07/28/il-franchit-une-limite-gianni-infantino-serait-pret-a-ceder-des-parts-de-la-fifa-pour-plusieurs-milliards-deuros-a-des-proches-de-donald-trump-13487502.php",
-   "n_members": 120,
-   "n_sources": 28,
-   "counts": {
-    "left": 5,
-    "centre": 14,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 18,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.309,
-   "category": "sport",
-   "terms_left": [
-    "internationale",
-    "internationale football",
-    "annoncé"
-   ],
-   "terms_right": [
-    "parts",
-    "annonce",
-    "privés fifa"
    ]
   },
   {
@@ -467,13 +497,13 @@
    "category": "sport",
    "terms_left": [
     "nommé",
-    "part",
-    "immense"
+    "ancien",
+    "part"
    ],
    "terms_right": [
+    "zidane",
     "qu",
-    "football",
-    "zidane"
+    "football"
    ]
   },
   {
@@ -493,12 +523,12 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.562,
+   "divergence": 0.564,
    "category": "international",
    "terms_left": [
-    "partir",
     "ordre",
-    "ordre évacuation"
+    "ordre évacuation",
+    "région madrid"
    ],
    "terms_right": [
     "incendie",
@@ -523,7 +553,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.692,
+   "divergence": 0.691,
    "category": "environnement",
    "terms_left": [
     "canicules",
@@ -534,36 +564,6 @@
     "vague chaleur",
     "nouvelle",
     "chaleur"
-   ]
-  },
-  {
-   "title": "EN DIRECT - Ceuta : 49.000 migrants seraient entrés dans l’enclave espagnole ces dernières 24 heures, la France renforce ses contrôles",
-   "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
-   "n_members": 101,
-   "n_sources": 27,
-   "counts": {
-    "left": 5,
-    "centre": 14,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.446,
-   "category": "international",
-   "terms_left": [
-    "place",
-    "hommes",
-    "adolescents"
-   ],
-   "terms_right": [
-    "espagnole ceuta",
-    "centaines",
-    "migrants"
    ]
   },
   {
@@ -583,7 +583,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.769,
+   "divergence": 0.771,
    "category": "environnement",
    "terms_left": [
     "sécheresse",
@@ -591,8 +591,8 @@
     "appelle"
    ],
    "terms_right": [
-    "agriculteurs",
     "incendies",
+    "agriculteurs",
     "forêts"
    ]
   },
@@ -665,17 +665,17 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.748,
+   "divergence": 0.741,
    "category": "international",
    "terms_left": [
-    "fois",
     "gouvernement",
-    "huitième"
+    "enfants",
+    "ministre"
    ],
    "terms_right": [
     "iran",
-    "donald trump",
-    "donald"
+    "monde",
+    "donald trump"
    ]
   },
   {
@@ -739,9 +739,39 @@
    ]
   },
   {
+   "title": "Donald Trump annonce un accord pour le désarmement du Hamas et le retrait d’Israël de la bande de Gaza",
+   "url": "https://www.sudouest.fr/international/moyen-orient/gaza/gaza-quatre-morts-dont-deux-enfants-dans-des-frappes-israeliennes-30117437.php",
+   "n_members": 50,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.299,
+   "category": "international",
+   "terms_left": [
+    "israélienne",
+    "annonce",
+    "cessez-le-feu"
+   ],
+   "terms_right": [
+    "annoncé",
+    "retrait progressif",
+    "progressif"
+   ]
+  },
+  {
    "title": "«Le Canadair reste un marché de niche» : après la polémique, le PDG du groupe qui assure la maintenance de l'avion sort du silence",
    "url": "https://www.ladepeche.fr/2026/07/27/incendies-ce-bombardier-deau-amphibie-francais-promet-detre-deux-fois-plus-efficace-quun-canadair-13485414.php",
-   "n_members": 54,
+   "n_members": 55,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -755,7 +785,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.793,
+   "divergence": 0.792,
    "category": "économie",
    "terms_left": [
     "secteurs",
@@ -763,39 +793,9 @@
     "situation"
    ],
    "terms_right": [
-    "maintenance",
+    "eau",
     "canadair",
-    "eau"
-   ]
-  },
-  {
-   "title": "Donald Trump annonce un accord pour le désarmement du Hamas et le retrait d’Israël de la bande de Gaza",
-   "url": "https://www.sudouest.fr/international/moyen-orient/gaza/gaza-quatre-morts-dont-deux-enfants-dans-des-frappes-israeliennes-30117437.php",
-   "n_members": 46,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.295,
-   "category": "international",
-   "terms_left": [
-    "israélienne",
-    "annonce",
-    "cessez-le-feu"
-   ],
-   "terms_right": [
-    "annoncé",
-    "trêve",
-    "gaza"
+    "maintenance"
    ]
   },
   {
@@ -815,7 +815,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.521,
+   "divergence": 0.502,
    "category": "environnement",
    "terms_left": [
     "hectares brûlés",
@@ -825,7 +825,7 @@
    "terms_right": [
     "gironde",
     "feu",
-    "france"
+    "incendie"
    ]
   },
   {
@@ -905,16 +905,16 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.773,
+   "divergence": 0.776,
    "category": "société",
    "terms_left": [
     "gouvernement",
-    "incendie",
-    "climatique"
+    "climatique",
+    "urgence"
    ],
    "terms_right": [
     "entreprises",
-    "forêts",
+    "euros",
     "annonce"
    ]
   },
@@ -981,7 +981,7 @@
   {
    "title": "Guerre en Ukraine : Volodymyr Zelensky accuse la Corée du Nord d'avoir fourni à Moscou le missile ayant décimé une famille",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 179,
+   "n_members": 180,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1025,16 +1025,16 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.686,
+   "divergence": 0.684,
    "category": "économie",
    "terms_left": [
     "réunion",
-    "face incendies",
-    "salariés"
+    "incendie gironde",
+    "face incendies"
    ],
    "terms_right": [
+    "gironde",
     "feu",
-    "feux",
     "euros"
    ]
   },
@@ -1055,23 +1055,23 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.335,
+   "divergence": 0.339,
    "category": "international",
    "terms_left": [
-    "provoqué",
     "terre",
-    "tremblement terre"
+    "tremblement terre",
+    "tremblement"
    ],
    "terms_right": [
+    "séisme",
     "sud-ouest japon",
-    "sud-ouest",
-    "séisme"
+    "japon"
    ]
   },
   {
    "title": "Feu de Biscarrosse \"maîtrisé\" : \"Tous les quartiers vont rouvrir, la circulation va être rétablie\"",
    "url": "https://www.leparisien.fr/landes-40/ils-etaient-en-pleurs-en-panique-a-biscarrosse-ces-milliers-dhabitants-et-vacanciers-livres-a-langoisse-24-07-2026-5RLJIN34LFB3RESBKTXYL3CFPY.php",
-   "n_members": 73,
+   "n_members": 74,
    "n_sources": 23,
    "counts": {
     "left": 7,
@@ -1121,6 +1121,36 @@
    "terms_right": []
   },
   {
+   "title": "Livret A, démarchage téléphonique, prix du gaz… Ce qui change au 1er août",
+   "url": "https://www.liberation.fr/economie/conso/demarchage-telephonique-des-le-11-aout-les-entreprises-devront-obtenir-le-consentement-des-consommateurs-20260725_FH6Y2DNCZVAMPO7ZLYZZOWIHRM/",
+   "n_members": 65,
+   "n_sources": 23,
+   "counts": {
+    "left": 3,
+    "centre": 11,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.616,
+   "category": "économie",
+   "terms_left": [
+    "obtenir",
+    "devront",
+    "obtenir consentement"
+   ],
+   "terms_right": [
+    "prix",
+    "français",
+    "an"
+   ]
+  },
+  {
    "title": "Incendies dans le Var : ce que l'on sait sur le suspect mis en examen après une dizaine de départs de feu volontaires",
    "url": "https://www.telerama.fr/arts-expositions/vol-en-plein-jour-d-un-bijou-majeur-de-l-orfevre-celte-dans-un-musee-de-bourgogne-7032192.php",
    "n_members": 64,
@@ -1137,7 +1167,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.636,
+   "divergence": 0.626,
    "category": "faits-divers",
    "terms_left": [
     "feu var",
@@ -1145,39 +1175,9 @@
     "commis"
    ],
    "terms_right": [
-    "incendie",
     "mis",
+    "incendie",
     "homme"
-   ]
-  },
-  {
-   "title": "L’inflation dépasse les 2 % : pourquoi les prix à la consommation augmentent encore en juillet 2026 en France",
-   "url": "https://www.liberation.fr/economie/conso/demarchage-telephonique-des-le-11-aout-les-entreprises-devront-obtenir-le-consentement-des-consommateurs-20260725_FH6Y2DNCZVAMPO7ZLYZZOWIHRM/",
-   "n_members": 64,
-   "n_sources": 23,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.627,
-   "category": "économie",
-   "terms_left": [
-    "obtenir",
-    "devront",
-    "obtenir consentement"
-   ],
-   "terms_right": [
-    "prix",
-    "français",
-    "an"
    ]
   }
  ]
