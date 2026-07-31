@@ -1,6 +1,6 @@
 {
  "week": "2026-W31",
- "generated_at": "2026-07-31T13:13:31+00:00",
+ "generated_at": "2026-07-31T15:37:04+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Incendie en Gironde : pas totalement rassurés, certains habitants évacués retrouvent enfin leurs maisons",
    "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 682,
+   "n_members": 683,
    "n_sources": 36,
    "counts": {
     "left": 8,
@@ -67,7 +67,7 @@
   {
    "title": "Le mégafeu en Gironde est \"stabilisé\" mais un nouveau \"pic de chaleur\" arrive",
    "url": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-lege-cap-ferret-une-habitation-ravagee-par-le-feu-23-07_VN-202607230679.html",
-   "n_members": 293,
+   "n_members": 296,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -81,17 +81,47 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.321,
+   "divergence": 0.322,
    "category": "environnement",
    "terms_left": [
     "retour",
-    "stabilisé",
-    "direct"
+    "direct",
+    "stabilisé"
    ],
    "terms_right": [
     "lutte",
     "flammes",
-    "feux"
+    "travail"
+   ]
+  },
+  {
+   "title": "EN DIRECT - Ceuta : 49.000 migrants seraient entrés dans l’enclave espagnole ces dernières 24 heures, la France renforce ses contrôles",
+   "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
+   "n_members": 156,
+   "n_sources": 31,
+   "counts": {
+    "left": 7,
+    "centre": 16,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.356,
+   "category": "international",
+   "terms_left": [
+    "place",
+    "personnes",
+    "hommes"
+   ],
+   "terms_right": [
+    "espagnole ceuta",
+    "centaines",
+    "situation"
    ]
   },
   {
@@ -127,7 +157,7 @@
   {
    "title": "Les dessous du projet de Gianni Infantino d’ouvrir la FIFA aux investisseurs privés",
    "url": "https://www.ladepeche.fr/2026/07/28/il-franchit-une-limite-gianni-infantino-serait-pret-a-ceder-des-parts-de-la-fifa-pour-plusieurs-milliards-deuros-a-des-proches-de-donald-trump-13487502.php",
-   "n_members": 128,
+   "n_members": 134,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -141,23 +171,23 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.282,
+   "divergence": 0.266,
    "category": "sport",
    "terms_left": [
     "internationale",
     "internationale football",
-    "attirer"
+    "annoncé"
    ],
    "terms_right": [
     "parts",
-    "annonce",
-    "ouverte"
+    "privés fifa",
+    "parts coupe"
    ]
   },
   {
    "title": "La chroniqueuse pro-russe Xenia Fedorova visée par un arrêté d’expulsion du territoire français",
    "url": "https://www.bvoltaire.fr/entretien-je-ne-vais-pas-marreter-et-me-censurer/",
-   "n_members": 81,
+   "n_members": 82,
    "n_sources": 30,
    "counts": {
     "left": 8,
@@ -217,7 +247,7 @@
   {
    "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump promet que les Etats-Unis vont frapper « fort » en Iran après les attaques sur une base américaine en Jordanie",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 567,
+   "n_members": 568,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -231,12 +261,12 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.247,
+   "divergence": 0.246,
    "category": "international",
    "terms_left": [
     "etats-unis",
     "bombardements",
-    "iraniens"
+    "arabie"
    ],
    "terms_right": [
     "états-unis",
@@ -245,9 +275,9 @@
    ]
   },
   {
-   "title": "Vigilance canicule : 16 départements en orange mercredi, jusqu'à 42°C annoncés en Gironde et dans les Landes",
+   "title": "Canicule : seize départements placés en vigilance orange",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 401,
+   "n_members": 404,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -261,7 +291,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.288,
+   "divergence": 0.28,
    "category": "environnement",
    "terms_left": [
     "gironde",
@@ -335,36 +365,6 @@
    ]
   },
   {
-   "title": "EN DIRECT - Ceuta : 49.000 migrants seraient entrés dans l’enclave espagnole ces dernières 24 heures, la France renforce ses contrôles",
-   "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
-   "n_members": 124,
-   "n_sources": 29,
-   "counts": {
-    "left": 6,
-    "centre": 15,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 9,
-    "opinion": 4
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.412,
-   "category": "international",
-   "terms_left": [
-    "place",
-    "adolescents",
-    "hommes adolescents"
-   ],
-   "terms_right": [
-    "espagnole ceuta",
-    "centaines",
-    "migrants"
-   ]
-  },
-  {
    "title": "Inde : des “cafards” racontent comment ils ont fait tomber un ministre, leur “plus grande victoire”",
    "url": "https://www.lejdd.fr/International/royaume-uni-nigel-farage-face-au-comte-tete-de-poubelle-lors-dune-legislative-partielle-178632",
    "n_members": 96,
@@ -389,8 +389,8 @@
     "ministre"
    ],
    "terms_right": [
-    "nigel farage",
     "nigel",
+    "nigel farage",
     "farage"
    ]
   },
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.433,
+   "divergence": 0.429,
    "category": "international",
    "terms_left": [
     "mort blessés",
@@ -493,17 +493,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.299,
+   "divergence": 0.306,
    "category": "sport",
    "terms_left": [
     "nommé",
-    "ancien",
-    "part"
+    "monde",
+    "coupe"
    ],
    "terms_right": [
-    "zidane",
-    "qu",
-    "football"
+    "france",
+    "équipe",
+    "équipe france"
    ]
   },
   {
@@ -523,23 +523,23 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.564,
+   "divergence": 0.563,
    "category": "international",
    "terms_left": [
-    "ordre",
-    "ordre évacuation",
-    "région madrid"
+    "région madrid",
+    "annoncé",
+    "évacués"
    ],
    "terms_right": [
     "incendie",
     "feu",
-    "incendies espagne"
+    "hectares"
    ]
   },
   {
-   "title": "Retour de la canicule : jusqu'à 40°C attendus dès demain",
+   "title": "Jusqu'à 42°C: où fera-t-il le plus chaud ce mercredi alors qu'une nouvelle canicule s'installe en France?",
    "url": "https://www.valeursactuelles.com/clubvaleurs/societe/quand-la-canicule-met-lecologie-politique-a-lepreuve-du-reel",
-   "n_members": 130,
+   "n_members": 131,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -613,7 +613,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.775,
+   "divergence": 0.774,
    "category": "environnement",
    "terms_left": [
     "militaire",
@@ -665,17 +665,17 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.741,
+   "divergence": 0.742,
    "category": "international",
    "terms_left": [
     "gouvernement",
-    "enfants",
-    "ministre"
+    "gaza",
+    "enfants"
    ],
    "terms_right": [
     "iran",
-    "monde",
-    "donald trump"
+    "donald trump",
+    "donald"
    ]
   },
   {
@@ -709,6 +709,36 @@
    ]
   },
   {
+   "title": "Donald Trump annonce un accord pour le désarmement du Hamas et le retrait d’Israël de la bande de Gaza",
+   "url": "https://www.sudouest.fr/international/moyen-orient/gaza/gaza-quatre-morts-dont-deux-enfants-dans-des-frappes-israeliennes-30117437.php",
+   "n_members": 53,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.281,
+   "category": "international",
+   "terms_left": [
+    "israélienne",
+    "annonce",
+    "cessez-le-feu"
+   ],
+   "terms_right": [
+    "annoncé",
+    "retrait progressif",
+    "progressif"
+   ]
+  },
+  {
    "title": "Le DJ français Kavinsky retrouvé m0rt chez lui à Paris",
    "url": "https://www.cnews.fr/faits-divers/2026-07-29/le-dj-kavinsky-retrouve-mort-chez-lui-paris-lage-de-50-ans-1897731",
    "n_members": 51,
@@ -739,36 +769,6 @@
    ]
   },
   {
-   "title": "Donald Trump annonce un accord pour le désarmement du Hamas et le retrait d’Israël de la bande de Gaza",
-   "url": "https://www.sudouest.fr/international/moyen-orient/gaza/gaza-quatre-morts-dont-deux-enfants-dans-des-frappes-israeliennes-30117437.php",
-   "n_members": 50,
-   "n_sources": 26,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.299,
-   "category": "international",
-   "terms_left": [
-    "israélienne",
-    "annonce",
-    "cessez-le-feu"
-   ],
-   "terms_right": [
-    "annoncé",
-    "retrait progressif",
-    "progressif"
-   ]
-  },
-  {
    "title": "«Le Canadair reste un marché de niche» : après la polémique, le PDG du groupe qui assure la maintenance de l'avion sort du silence",
    "url": "https://www.ladepeche.fr/2026/07/27/incendies-ce-bombardier-deau-amphibie-francais-promet-detre-deux-fois-plus-efficace-quun-canadair-13485414.php",
    "n_members": 55,
@@ -785,7 +785,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.792,
+   "divergence": 0.793,
    "category": "économie",
    "terms_left": [
     "secteurs",
@@ -795,7 +795,7 @@
    "terms_right": [
     "eau",
     "canadair",
-    "maintenance"
+    "pompiers"
    ]
   },
   {
@@ -815,7 +815,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.502,
+   "divergence": 0.493,
    "category": "environnement",
    "terms_left": [
     "hectares brûlés",
@@ -824,8 +824,8 @@
    ],
    "terms_right": [
     "gironde",
-    "feu",
-    "incendie"
+    "incendie",
+    "feu"
    ]
   },
   {
@@ -859,9 +859,9 @@
    ]
   },
   {
-   "title": "Présidentielle au Brésil: Flavio Bolsonaro lance sa campagne contre le président Lula",
+   "title": "Brésil : à trois mois de la présidentielle, Flávio Bolsonaro “n’a rien d’autre à offrir que son nom”",
    "url": "https://www.20minutes.fr/politique/assemblee_nationale/4234766-20260719-presidentielle-2027-revanchard-francois-hollande-peut-etre-joker-cache-gauche",
-   "n_members": 66,
+   "n_members": 67,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -875,7 +875,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.757,
+   "divergence": 0.762,
    "category": "politique",
    "terms_left": [
     "russe",
@@ -905,16 +905,16 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.776,
+   "divergence": 0.784,
    "category": "société",
    "terms_left": [
+    "urgence",
     "gouvernement",
-    "climatique",
-    "urgence"
+    "climatique"
    ],
    "terms_right": [
-    "entreprises",
     "euros",
+    "français",
     "annonce"
    ]
   },
@@ -965,7 +965,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.517,
+   "divergence": 0.504,
    "category": "culture",
    "terms_left": [
     "millions",
@@ -975,13 +975,43 @@
    "terms_right": [
     "homère",
     "qu",
-    "imax mm"
+    "français"
+   ]
+  },
+  {
+   "title": "Adaptation au changement climatique: Monique Barbut chargée de présenter des \"mesures concrètes\" d'ici \"octobre\"",
+   "url": "https://www.numerama.com/sciences/2302189-incendies-en-gironde-recordpy-propose-une-carte-mise-a-jour-toutes-les-10-minutes-pour-suivre-les-feux.html",
+   "n_members": 42,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 5,
+    "opinion": 6
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.805,
+   "category": "environnement",
+   "terms_left": [
+    "climatique",
+    "extrêmes",
+    "france"
+   ],
+   "terms_right": [
+    "ministre",
+    "gironde",
+    "monique barbut"
    ]
   },
   {
    "title": "Guerre en Ukraine : Volodymyr Zelensky accuse la Corée du Nord d'avoir fourni à Moscou le missile ayant décimé une famille",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 180,
+   "n_members": 181,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1009,9 +1039,9 @@
    ]
   },
   {
-   "title": "\"On est en attente\" : les entreprises à l'arrêt dans les Landes et en Gironde, de l'inquiétude autour de l'avenir",
+   "title": "Décryptage. Incendies : quelles conséquences pour le tourisme en Gironde et dans les Landes ?",
    "url": "https://www.20minutes.fr/planete/4236181-20260724-incendies-evacuations-gironde-var-toujours-inquiet-point-brasiers-ravagent-france",
-   "n_members": 105,
+   "n_members": 106,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1025,23 +1055,23 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.684,
+   "divergence": 0.685,
    "category": "économie",
    "terms_left": [
     "réunion",
-    "incendie gironde",
-    "face incendies"
+    "face incendies",
+    "salariés"
    ],
    "terms_right": [
-    "gironde",
     "feu",
+    "gironde",
     "euros"
    ]
   },
   {
    "title": "Séisme au Japon : au moins 13 morts, des personnes toujours piégées dans un centre commercial effondré",
    "url": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-7-1-frappe-le-sud-du-japon-une-alerte-au-tsunami-emise_8125079.html",
-   "n_members": 90,
+   "n_members": 91,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -1055,16 +1085,16 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.339,
+   "divergence": 0.331,
    "category": "international",
    "terms_left": [
     "terre",
-    "tremblement terre",
-    "tremblement"
+    "tremblement",
+    "tremblement terre"
    ],
    "terms_right": [
+    "morts",
     "séisme",
-    "sud-ouest japon",
     "japon"
    ]
   },
@@ -1140,44 +1170,14 @@
    "divergence": 0.616,
    "category": "économie",
    "terms_left": [
+    "démarchage",
     "obtenir",
-    "devront",
     "obtenir consentement"
    ],
    "terms_right": [
     "prix",
     "français",
     "an"
-   ]
-  },
-  {
-   "title": "Incendies dans le Var : ce que l'on sait sur le suspect mis en examen après une dizaine de départs de feu volontaires",
-   "url": "https://www.telerama.fr/arts-expositions/vol-en-plein-jour-d-un-bijou-majeur-de-l-orfevre-celte-dans-un-musee-de-bourgogne-7032192.php",
-   "n_members": 64,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 9,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 5
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.626,
-   "category": "faits-divers",
-   "terms_left": [
-    "feu var",
-    "suspect placé",
-    "commis"
-   ],
-   "terms_right": [
-    "mis",
-    "incendie",
-    "homme"
    ]
   }
  ]
