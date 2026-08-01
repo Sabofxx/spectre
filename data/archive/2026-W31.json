@@ -1,6 +1,6 @@
 {
  "week": "2026-W31",
- "generated_at": "2026-08-01T22:25:42+00:00",
+ "generated_at": "2026-08-01T23:29:00+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -97,7 +97,7 @@
   {
    "title": "EN DIRECT - Incendies en France: le mégafeu reste «stabilisé» en Gironde, une météo «favorable» attendue",
    "url": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-lege-cap-ferret-une-habitation-ravagee-par-le-feu-23-07_VN-202607230679.html",
-   "n_members": 324,
+   "n_members": 325,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -111,17 +111,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.303,
+   "divergence": 0.301,
    "category": "environnement",
    "terms_left": [
     "retour",
     "direct",
-    "mégafeu gironde"
+    "var"
    ],
    "terms_right": [
     "fixé",
     "préfète",
-    "feux"
+    "feu fixé"
    ]
   },
   {
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.223,
+   "divergence": 0.222,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -829,9 +829,9 @@
    ]
   },
   {
-   "title": "Incendies : le feu repart dans le Var et progresse «plus vite qu'un cheval au galop», la Gironde reste sous contrôle",
+   "title": "Incendies : le lourd tribut des pompiers, victimes des flammes et de cancers à long terme",
    "url": "https://www.leparisien.fr/societe/incendie-en-gironde-zidane-nomme-a-la-tete-des-bleus-et-des-bebes-retrouves-morts-a-orange-les-infos-a-retenir-ce-midi-28-07-2026-RFDHWRDFMRGY5LGHT7KRTS56IQ.php",
-   "n_members": 55,
+   "n_members": 57,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -845,7 +845,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.798,
+   "divergence": 0.797,
    "category": "société",
    "terms_left": [
     "pompiers",
@@ -853,8 +853,8 @@
     "passer"
    ],
    "terms_right": [
-    "flammes",
     "qu",
+    "flammes",
     "évacuées"
    ]
   },
@@ -875,7 +875,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.489,
+   "divergence": 0.49,
    "category": "environnement",
    "terms_left": [
     "hectares brûlés",
@@ -1025,7 +1025,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.8,
+   "divergence": 0.801,
    "category": "société",
    "terms_left": [
     "espagne",
@@ -1099,9 +1099,9 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine : Volodymyr Zelensky accuse la Corée du Nord d'avoir fourni à Moscou le missile ayant décimé une famille",
+   "title": "EN DIRECT, guerre en Ukraine : après l’attaque qui a fait 9 morts à Kiev, Volodymyr Zelensky dénonce des dégâts dans dix-huit immeubles d’habitation",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 199,
+   "n_members": 200,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1115,17 +1115,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.362,
+   "divergence": 0.367,
    "category": "international",
    "terms_left": [
     "zelensky",
     "président",
-    "direct"
+    "président ukrainien"
    ],
    "terms_right": [
     "russie",
-    "frappes",
-    "drones"
+    "drones",
+    "frappes"
    ]
   },
   {
@@ -1148,8 +1148,8 @@
    "divergence": 0.295,
    "category": "international",
    "terms_left": [
-    "tremblement",
     "tremblement terre",
+    "tremblement",
     "terre"
    ],
    "terms_right": [
