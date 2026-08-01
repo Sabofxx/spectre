@@ -28,6 +28,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # La base ne vit plus dans git : un binaire de ~96 Mo recommitté à chaque
+      # run faisait grossir le dépôt sans limite (490 Mo atteints, plafond dur
+      # GitHub à 100 Mo par fichier). Elle est portée par la release
+      # `db-latest`, téléchargée ici et re-publiée en fin de job.
+      # Si la release est absente (premier run, purge), le pipeline repart
+      # d'une base vide : dégradé mais jamais cassé.
+      - name: Restore database from release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release download db-latest --repo "$GITHUB_REPOSITORY" \
+               --pattern spectre.db --clobber; then
+            echo "base restaurée: $(du -h spectre.db | cut -f1)"
+          else
+            echo "aucune base publiée — démarrage à vide"
+          fi
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -63,34 +80,44 @@ jobs:
       - name: Check no RSS summary leaked into HTML
         run: python run.py check-leaks
 
-      # La base change à CHAQUE run (fetch_log) ; committer ce bruit ferait
-      # gonfler l'historique pour rien. On ne committe que si le run a apporté
-      # du contenu (nouveaux articles) — les à-côtés voyageront avec le
-      # prochain commit utile.
-      # Best-effort : la base est un binaire régénéré à chaque run. En cas de
-      # course avec un autre run (le distant a avancé), on N'ESSAIE PAS de
-      # rebaser un binaire — ça produit un conflit qui casserait le job AVANT
-      # le déploiement. On ne pousse que si un fast-forward est possible ;
-      # sinon on saute le commit (la base repartira au prochain run). Le site
-      # déployé vient du site/ fraîchement construit, il reste correct.
-      - name: Commit database if new content
+      # La base repart vers la release `db-latest` ; seules les archives
+      # hebdomadaires (JSON, quelques Ko) restent versionnées dans git.
+      # On ne publie que si le run a apporté du contenu : la base change à
+      # CHAQUE run (fetch_log), republier ce bruit n'apporte rien.
+      # Best-effort : si l'upload échoue, la base repartira au prochain run et
+      # le site déployé, construit depuis site/ fraîchement généré, reste correct.
+      - name: Publish database to release
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          NEW=$(python -c "import json;print(json.load(open('/tmp/pipeline-stats.json'))['new_articles'])")
+          echo "nouveaux articles: $NEW"
+          if [ "$NEW" -gt 0 ]; then
+            gh release upload db-latest spectre.db --repo "$GITHUB_REPOSITORY" --clobber
+            echo "base publiée: $(du -h spectre.db | cut -f1)"
+          else
+            echo "Base inchangée, pas de publication."
+          fi
+
+      # Les archives hebdomadaires restent dans git : petites, lisibles,
+      # et elles font l'historique public du projet.
+      - name: Commit weekly archives
         continue-on-error: true
         run: |
           git config user.name "spectre-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          NEW=$(python -c "import json;print(json.load(open('/tmp/pipeline-stats.json'))['new_articles'])")
-          echo "nouveaux articles: $NEW"
-          if [ "$NEW" -gt 0 ] && [ -n "$(git status --porcelain spectre.db data/archive)" ]; then
-            git add spectre.db data/archive
-            git commit -m "chore: update database [skip ci]"
+          if [ -n "$(git status --porcelain data/archive)" ]; then
+            git add data/archive
+            git commit -m "chore: update weekly archives [skip ci]"
             git fetch origin "${GITHUB_REF_NAME}"
             if [ "$(git rev-parse origin/${GITHUB_REF_NAME})" = "$(git rev-parse HEAD~1)" ]; then
               git push
             else
-              echo "Le distant a avancé — commit de base sauté (repart au prochain run)."
+              echo "Le distant a avancé — commit d'archives sauté."
             fi
           else
-            echo "Base inchangée, pas de commit."
+            echo "Archives inchangées."
           fi
 
       # Le HTML ne passe jamais par git : artifact Pages direct.
