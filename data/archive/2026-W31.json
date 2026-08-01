@@ -1,6 +1,6 @@
 {
  "week": "2026-W31",
- "generated_at": "2026-08-01T21:16:29+00:00",
+ "generated_at": "2026-08-01T22:25:42+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.229,
+   "divergence": 0.23,
    "category": "international",
    "terms_left": [
     "personnes",
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.304,
+   "divergence": 0.303,
    "category": "environnement",
    "terms_left": [
     "retour",
@@ -389,8 +389,8 @@
     "ministre"
    ],
    "terms_right": [
-    "nigel",
     "nigel farage",
+    "nigel",
     "farage"
    ]
   },
@@ -659,7 +659,7 @@
   {
    "title": "\"En 43 ans, c'est la première fois que je vendange en juillet\": en Occitanie, le changement climatique transforme les cultivateurs de vignes en \"cultivateurs d'eau\"",
    "url": "https://www.numerama.com/sciences/2302189-incendies-en-gironde-recordpy-propose-une-carte-mise-a-jour-toutes-les-10-minutes-pour-suivre-les-feux.html",
-   "n_members": 53,
+   "n_members": 54,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -682,8 +682,8 @@
    ],
    "terms_right": [
     "monique barbut",
-    "barbut",
-    "monique"
+    "monique",
+    "barbut"
    ]
   },
   {
@@ -826,6 +826,36 @@
     "paris",
     "macron",
     "emmanuel"
+   ]
+  },
+  {
+   "title": "Incendies : le feu repart dans le Var et progresse «plus vite qu'un cheval au galop», la Gironde reste sous contrôle",
+   "url": "https://www.leparisien.fr/societe/incendie-en-gironde-zidane-nomme-a-la-tete-des-bleus-et-des-bebes-retrouves-morts-a-orange-les-infos-a-retenir-ce-midi-28-07-2026-RFDHWRDFMRGY5LGHT7KRTS56IQ.php",
+   "n_members": 55,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.798,
+   "category": "société",
+   "terms_left": [
+    "pompiers",
+    "sapeurs-pompiers",
+    "passer"
+   ],
+   "terms_right": [
+    "flammes",
+    "qu",
+    "évacuées"
    ]
   },
   {
@@ -1085,7 +1115,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.361,
+   "divergence": 0.362,
    "category": "international",
    "terms_left": [
     "zelensky",
@@ -1156,36 +1186,6 @@
     "incendie",
     "landes",
     "forêt"
-   ]
-  },
-  {
-   "title": "Livret A, démarchage téléphonique, prix du gaz… Ce qui change au 1er août",
-   "url": "https://www.liberation.fr/economie/conso/demarchage-telephonique-des-le-11-aout-les-entreprises-devront-obtenir-le-consentement-des-consommateurs-20260725_FH6Y2DNCZVAMPO7ZLYZZOWIHRM/",
-   "n_members": 70,
-   "n_sources": 23,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.588,
-   "category": "économie",
-   "terms_left": [
-    "consentement",
-    "obtenir",
-    "obtenir consentement"
-   ],
-   "terms_right": [
-    "prix",
-    "français",
-    "an"
    ]
   }
  ]
