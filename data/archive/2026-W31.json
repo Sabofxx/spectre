@@ -1,6 +1,6 @@
 {
  "week": "2026-W31",
- "generated_at": "2026-08-01T12:33:41+00:00",
+ "generated_at": "2026-08-01T14:24:22+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Incendie en Gironde : pas totalement rassurés, certains habitants évacués retrouvent enfin leurs maisons",
    "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 701,
+   "n_members": 703,
    "n_sources": 36,
    "counts": {
     "left": 8,
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.29,
+   "divergence": 0.291,
    "category": "environnement",
    "terms_left": [
-    "gironde landes",
-    "face",
-    "hectares brûlés"
+    "hectares brûlés",
+    "hectares",
+    "milliers"
    ],
    "terms_right": [
     "maire",
@@ -67,21 +67,21 @@
   {
    "title": "Vague migratoire à Ceuta : ce que l'on sait de l'afflux sans précédent de 60.000 personnes entre le Maroc et l'Espagne",
    "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
-   "n_members": 244,
-   "n_sources": 34,
+   "n_members": 254,
+   "n_sources": 35,
    "counts": {
     "left": 7,
     "centre": 17,
-    "right": 10
+    "right": 11
    },
    "style_counts": {
     "factuel": 19,
-    "mixte": 10,
+    "mixte": 11,
     "opinion": 5
    },
-   "blindspot_score": 0.176,
+   "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.241,
+   "divergence": 0.238,
    "category": "international",
    "terms_left": [
     "personnes",
@@ -97,7 +97,7 @@
   {
    "title": "EN DIRECT - Incendies en France: le mégafeu reste «stabilisé» en Gironde, une météo «favorable» attendue",
    "url": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-lege-cap-ferret-une-habitation-ravagee-par-le-feu-23-07_VN-202607230679.html",
-   "n_members": 321,
+   "n_members": 322,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.315,
+   "divergence": 0.309,
    "category": "environnement",
    "terms_left": [
     "retour",
@@ -125,9 +125,9 @@
    ]
   },
   {
-   "title": "Les dessous du projet de Gianni Infantino d’ouvrir la FIFA aux investisseurs privés",
+   "title": "Investisseurs privés à la Fifa : face au projet de Gianni Infantino, l’UEFA menace «à l’unanimité» de boycotter les prochaines Coupes du monde",
    "url": "https://www.ladepeche.fr/2026/07/28/il-franchit-une-limite-gianni-infantino-serait-pret-a-ceder-des-parts-de-la-fifa-pour-plusieurs-milliards-deuros-a-des-proches-de-donald-trump-13487502.php",
-   "n_members": 173,
+   "n_members": 175,
    "n_sources": 31,
    "counts": {
     "left": 6,
@@ -146,12 +146,12 @@
    "terms_left": [
     "internationale",
     "fédération",
-    "fédération internationale"
+    "plan"
    ],
    "terms_right": [
     "privés fifa",
-    "investissements",
-    "ouverte"
+    "critiques",
+    "investissements"
    ]
   },
   {
@@ -201,17 +201,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.243,
+   "divergence": 0.239,
    "category": "international",
    "terms_left": [
     "propagandiste",
-    "bolloré",
-    "france"
+    "france",
+    "russe"
    ],
    "terms_right": [
     "expulsion xenia",
-    "accusée",
-    "canal lagardère"
+    "canal lagardère",
+    "qu"
    ]
   },
   {
@@ -245,9 +245,9 @@
    ]
   },
   {
-   "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump promet que les Etats-Unis vont frapper « fort » en Iran après les attaques sur une base américaine en Jordanie",
+   "title": "EN DIRECT - Guerre au Moyen-Orient: les États-Unis reprennent leurs bombardements sur l'Iran",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 580,
+   "n_members": 583,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -261,17 +261,17 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.227,
+   "divergence": 0.224,
    "category": "international",
    "terms_left": [
     "etats-unis",
-    "bombardements",
-    "direct guerre"
+    "direct guerre",
+    "bombardements"
    ],
    "terms_right": [
     "états-unis",
     "guerre moyen-orient",
-    "moyen-orient"
+    "frappes"
    ]
   },
   {
@@ -389,8 +389,8 @@
     "ministre"
    ],
    "terms_right": [
-    "nigel farage",
     "nigel",
+    "nigel farage",
     "farage"
    ]
   },
@@ -523,7 +523,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.577,
+   "divergence": 0.576,
    "category": "international",
    "terms_left": [
     "face",
@@ -553,12 +553,12 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.702,
+   "divergence": 0.705,
    "category": "environnement",
    "terms_left": [
     "année",
     "canicules",
-    "proie"
+    "sud-ouest"
    ],
    "terms_right": [
     "canicule",
@@ -725,17 +725,17 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.762,
+   "divergence": 0.748,
    "category": "international",
    "terms_left": [
     "gaza",
-    "fois",
-    "maison-blanche"
+    "nétanyahou",
+    "guerre gaza"
    ],
    "terms_right": [
+    "iran",
     "donald trump",
-    "donald",
-    "iran"
+    "donald"
    ]
   },
   {
@@ -793,8 +793,8 @@
     "face"
    ],
    "terms_right": [
-    "eau",
     "français",
+    "eau",
     "pompiers"
    ]
   },
@@ -815,17 +815,17 @@
    },
    "blindspot_score": -0.2,
    "blindspot_for": null,
-   "divergence": 0.247,
+   "divergence": 0.241,
    "category": "culture",
    "terms_left": [
-    "titre",
     "titre nightcall",
+    "titre",
     "french touch"
    ],
    "terms_right": [
     "paris",
-    "kavinsky retrouvé",
-    "macron"
+    "macron",
+    "emmanuel"
    ]
   },
   {
@@ -861,7 +861,7 @@
   {
    "title": "Incendie dans le Var: une importante reprise de feu, plus de 1.000 hectares parcourus par les flammes",
    "url": "https://www.cnews.fr/france/2026-07-17/incendies-les-pompiers-denoncent-des-rates-lies-des-normes-antipollution",
-   "n_members": 215,
+   "n_members": 216,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -875,7 +875,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.435,
+   "divergence": 0.434,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -905,23 +905,23 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.687,
+   "divergence": 0.688,
    "category": "économie",
    "terms_left": [
     "réunion",
-    "face",
-    "crise"
+    "crise",
+    "face incendies"
    ],
    "terms_right": [
+    "gironde",
     "feu",
-    "sud",
-    "euros"
+    "entreprises"
    ]
   },
   {
-   "title": "Incendie en Grèce : 8.000 personnes évacuées en Crète, deux pompiers tués",
+   "title": "Incendies en Grèce: la Crète frappées par de violents feux de forêt, 8000 personnes évacuées",
    "url": "https://immobilier.lefigaro.fr/article/tour-montparnasse-le-principal-coproprietaire-reclame-et-obtient-l-abandon-du-mega-projet-de-renovation-20260721",
-   "n_members": 80,
+   "n_members": 81,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -935,17 +935,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.704,
+   "divergence": 0.709,
    "category": "international",
    "terms_left": [
-    "sites",
     "forêt",
-    "cours"
+    "cours",
+    "sites"
    ],
    "terms_right": [
     "incendies",
     "personnes",
-    "crète"
+    "maire"
    ]
   },
   {
@@ -1041,7 +1041,7 @@
   {
    "title": "Critique ciné 🎥 L’Odyssée de Nolan : un BON FILM de droite ?",
    "url": "https://www.numerama.com/pop-culture/2297489-imax-ou-sasseoir-pour-ne-pas-gacher-lodyssee-de-nolan-mon-experience-au-pathe-ile-seguin.html",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 24,
    "counts": {
     "left": 7,
@@ -1055,17 +1055,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.51,
+   "divergence": 0.492,
    "category": "culture",
    "terms_left": [
     "millions",
-    "odyssée christopher",
+    "politique",
     "monde"
    ],
    "terms_right": [
     "homère",
-    "film",
-    "qu"
+    "ventes",
+    "imax mm"
    ]
   },
   {
@@ -1085,7 +1085,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.364,
+   "divergence": 0.363,
    "category": "international",
    "terms_left": [
     "zelensky",
@@ -1099,9 +1099,9 @@
    ]
   },
   {
-   "title": "Séisme au Japon : au moins 13 morts, des personnes toujours piégées dans un centre commercial effondré",
+   "title": "Séisme au Japon : le bilan monte à 30 morts, les survivants face à des températures élevées",
    "url": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-7-1-frappe-le-sud-du-japon-une-alerte-au-tsunami-emise_8125079.html",
-   "n_members": 91,
+   "n_members": 93,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -1115,12 +1115,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.313,
+   "divergence": 0.306,
    "category": "international",
    "terms_left": [
-    "terre",
     "tremblement",
-    "tremblement terre"
+    "tremblement terre",
+    "terre"
    ],
    "terms_right": [
     "sud-ouest",
@@ -1145,7 +1145,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.808,
+   "divergence": 0.813,
    "category": "environnement",
    "terms_left": [
     "face",
@@ -1155,7 +1155,7 @@
    "terms_right": [
     "incendie",
     "landes",
-    "hectares"
+    "forêt"
    ]
   },
   {
