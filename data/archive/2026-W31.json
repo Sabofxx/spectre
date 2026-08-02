@@ -1,6 +1,6 @@
 {
  "week": "2026-W31",
- "generated_at": "2026-08-02T14:25:09+00:00",
+ "generated_at": "2026-08-02T15:36:55+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.288,
+   "divergence": 0.289,
    "category": "environnement",
    "terms_left": [
     "hectares brûlés",
@@ -67,7 +67,7 @@
   {
    "title": "Vague migratoire à Ceuta : ce que l'on sait de l'afflux sans précédent de 60.000 personnes entre le Maroc et l'Espagne",
    "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
-   "n_members": 302,
+   "n_members": 305,
    "n_sources": 35,
    "counts": {
     "left": 7,
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.228,
+   "divergence": 0.224,
    "category": "international",
    "terms_left": [
     "personnes",
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.294,
+   "divergence": 0.293,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -127,7 +127,7 @@
   {
    "title": "Investisseurs privés à la Fifa : face au projet de Gianni Infantino, l’UEFA menace «à l’unanimité» de boycotter les prochaines Coupes du monde",
    "url": "https://www.ladepeche.fr/2026/07/28/il-franchit-une-limite-gianni-infantino-serait-pret-a-ceder-des-parts-de-la-fifa-pour-plusieurs-milliards-deuros-a-des-proches-de-donald-trump-13487502.php",
-   "n_members": 190,
+   "n_members": 192,
    "n_sources": 31,
    "counts": {
     "left": 6,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.19,
+   "divergence": 0.193,
    "category": "sport",
    "terms_left": [
     "plan",
@@ -150,8 +150,8 @@
    ],
    "terms_right": [
     "privés fifa",
-    "société commerciale",
-    "commerciale"
+    "retrait projet",
+    "société commerciale"
    ]
   },
   {
@@ -215,6 +215,36 @@
    ]
   },
   {
+   "title": "DIRECT - Guerre au Moyen-Orient: Donald Trump suspend les frappes américaines contre l'Iran",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
+   "n_members": 605,
+   "n_sources": 30,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": 0.176,
+   "blindspot_for": null,
+   "divergence": 0.213,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "direct guerre",
+    "direct"
+   ],
+   "terms_right": [
+    "états-unis",
+    "nouvelles frappes",
+    "soldats"
+   ]
+  },
+  {
    "title": "\"Mon corps n'est pas encore descendu en température\" : jambes gonflées, fatigue, crises d'angoisse... Ils sont traumatisés par la canicule de juin 2026",
    "url": "https://www.tf1info.fr/meteo/orages-comment-le-16-juillet-est-elle-devenue-la-journee-la-plus-foudroyee-de-l-annee-2453681.html",
    "n_members": 63,
@@ -245,36 +275,6 @@
    ]
   },
   {
-   "title": "DIRECT - Guerre au Moyen-Orient: Donald Trump suspend les frappes américaines contre l'Iran",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 603,
-   "n_sources": 29,
-   "counts": {
-    "left": 7,
-    "centre": 13,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 10,
-    "opinion": 3
-   },
-   "blindspot_score": 0.125,
-   "blindspot_for": null,
-   "divergence": 0.212,
-   "category": "international",
-   "terms_left": [
-    "etats-unis",
-    "direct guerre",
-    "direct"
-   ],
-   "terms_right": [
-    "états-unis",
-    "soldats",
-    "nouvelles frappes"
-   ]
-  },
-  {
    "title": "Canicule : voici les 20 départements placés en vigilance orange ce dimanche",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
    "n_members": 426,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.303,
+   "divergence": 0.307,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -479,7 +479,7 @@
   {
    "title": "Donald Trump annonce un accord pour le désarmement du Hamas et le retrait d’Israël de la bande de Gaza",
    "url": "https://www.sudouest.fr/international/moyen-orient/gaza/gaza-quatre-morts-dont-deux-enfants-dans-des-frappes-israeliennes-30117437.php",
-   "n_members": 70,
+   "n_members": 71,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -493,17 +493,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.239,
+   "divergence": 0.229,
    "category": "international",
    "terms_left": [
     "cessez-le-feu",
-    "annonce",
-    "phase cessez-le-feu"
+    "phase cessez-le-feu",
+    "plan"
    ],
    "terms_right": [
     "progressif",
-    "annoncé",
-    "retrait progressif"
+    "retrait progressif",
+    "trêve"
    ]
   },
   {
@@ -553,7 +553,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.578,
+   "divergence": 0.579,
    "category": "international",
    "terms_left": [
     "face",
@@ -563,7 +563,7 @@
    "terms_right": [
     "incendie",
     "feu",
-    "personnes"
+    "incendies espagne"
    ]
   },
   {
@@ -583,7 +583,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.708,
+   "divergence": 0.71,
    "category": "environnement",
    "terms_left": [
     "année",
@@ -643,7 +643,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.784,
+   "divergence": 0.783,
    "category": "environnement",
    "terms_left": [
     "feu",
@@ -654,6 +654,36 @@
     "forêt",
     "sites",
     "feux"
+   ]
+  },
+  {
+   "title": "Que sait-on du Fregate-F100, cet avion bombardier d'eau français qui doit entrer en service en 2032 ?",
+   "url": "https://www.ladepeche.fr/2026/07/27/incendies-ce-bombardier-deau-amphibie-francais-promet-detre-deux-fois-plus-efficace-quun-canadair-13485414.php",
+   "n_members": 60,
+   "n_sources": 27,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.801,
+   "category": "économie",
+   "terms_left": [
+    "cuba",
+    "états-unis",
+    "gouvernement"
+   ],
+   "terms_right": [
+    "eau",
+    "français",
+    "pompiers"
    ]
   },
   {
@@ -682,8 +712,8 @@
    ],
    "terms_right": [
     "monique barbut",
-    "monique",
-    "barbut"
+    "barbut",
+    "monique"
    ]
   },
   {
@@ -769,36 +799,6 @@
    ]
   },
   {
-   "title": "Incendies : Hynaero, Kepplair... Quels sont les projets français de bombardiers d'eau pouvant remplacer les Canadair ?",
-   "url": "https://www.ladepeche.fr/2026/07/27/incendies-ce-bombardier-deau-amphibie-francais-promet-detre-deux-fois-plus-efficace-quun-canadair-13485414.php",
-   "n_members": 59,
-   "n_sources": 26,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.804,
-   "category": "économie",
-   "terms_left": [
-    "cuba",
-    "états-unis",
-    "gouvernement"
-   ],
-   "terms_right": [
-    "eau",
-    "français",
-    "pompiers"
-   ]
-  },
-  {
    "title": "Le DJ français Kavinsky retrouvé m0rt chez lui à Paris",
    "url": "https://www.cnews.fr/faits-divers/2026-07-29/le-dj-kavinsky-retrouve-mort-chez-lui-paris-lage-de-50-ans-1897731",
    "n_members": 51,
@@ -861,7 +861,7 @@
   {
    "title": "Incendies en Grèce: situation \"extrêmement difficile\" en raison de vents violents",
    "url": "https://immobilier.lefigaro.fr/article/tour-montparnasse-le-principal-coproprietaire-reclame-et-obtient-l-abandon-du-mega-projet-de-renovation-20260721",
-   "n_members": 95,
+   "n_members": 96,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -875,7 +875,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.734,
+   "divergence": 0.733,
    "category": "international",
    "terms_left": [
     "sites",
@@ -935,16 +935,16 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.466,
+   "divergence": 0.46,
    "category": "culture",
    "terms_left": [
     "odyssée christopher",
-    "millions",
-    "politique"
+    "monde",
+    "odyssée nolan"
    ],
    "terms_right": [
-    "mm",
-    "imax",
+    "france",
+    "film",
     "imax mm"
    ]
   },
@@ -981,7 +981,7 @@
   {
    "title": "Incendie dans le Var: une importante reprise de feu, plus de 1.000 hectares parcourus par les flammes",
    "url": "https://www.cnews.fr/france/2026-07-17/incendies-les-pompiers-denoncent-des-rates-lies-des-normes-antipollution",
-   "n_members": 273,
+   "n_members": 274,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -1145,7 +1145,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.275,
+   "divergence": 0.276,
    "category": "international",
    "terms_left": [
     "survivants",
