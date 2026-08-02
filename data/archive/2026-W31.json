@@ -1,6 +1,6 @@
 {
  "week": "2026-W31",
- "generated_at": "2026-08-02T01:05:07+00:00",
+ "generated_at": "2026-08-02T04:49:38+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Incendie en Gironde : pas totalement rassurés, certains habitants évacués retrouvent enfin leurs maisons",
    "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 708,
+   "n_members": 709,
    "n_sources": 36,
    "counts": {
     "left": 8,
@@ -67,7 +67,7 @@
   {
    "title": "Vague migratoire à Ceuta : ce que l'on sait de l'afflux sans précédent de 60.000 personnes entre le Maroc et l'Espagne",
    "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
-   "n_members": 276,
+   "n_members": 281,
    "n_sources": 35,
    "counts": {
     "left": 7,
@@ -97,7 +97,7 @@
   {
    "title": "EN DIRECT - Incendies en France: le mégafeu reste «stabilisé» en Gironde, une météo «favorable» attendue",
    "url": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-lege-cap-ferret-une-habitation-ravagee-par-le-feu-23-07_VN-202607230679.html",
-   "n_members": 325,
+   "n_members": 328,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -111,12 +111,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.301,
+   "divergence": 0.296,
    "category": "environnement",
    "terms_left": [
     "retour",
     "direct",
-    "var"
+    "reprise"
    ],
    "terms_right": [
     "fixé",
@@ -141,17 +141,17 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.188,
+   "divergence": 0.186,
    "category": "sport",
    "terms_left": [
     "internationale",
     "plan",
-    "fédération"
+    "veut"
    ],
    "terms_right": [
     "privés fifa",
     "fifa gianni",
-    "critiques"
+    "ouverte"
    ]
   },
   {
@@ -245,9 +245,9 @@
    ]
   },
   {
-   "title": "EN DIRECT - Guerre au Moyen-Orient: les États-Unis reprennent leurs bombardements sur l'Iran",
+   "title": "Guerre au Moyen-Orient : les États-Unis reprennent leurs frappes, au moins trois morts en Iran",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 585,
+   "n_members": 591,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.222,
+   "divergence": 0.219,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -277,7 +277,7 @@
   {
    "title": "Météo : 21 départements toujours en vigilance orange canicule, dont 10 également concernés par une alerte pour des orages",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 413,
+   "n_members": 415,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -291,12 +291,12 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.305,
+   "divergence": 0.304,
    "category": "environnement",
    "terms_left": [
     "direct",
-    "direct incendies",
-    "gironde"
+    "gironde",
+    "direct incendies"
    ],
    "terms_right": [
     "départements placés",
@@ -553,7 +553,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.703,
+   "divergence": 0.704,
    "category": "environnement",
    "terms_left": [
     "année",
@@ -629,7 +629,7 @@
   {
    "title": "Donald Trump annonce un accord pour le désarmement du Hamas et le retrait d’Israël de la bande de Gaza",
    "url": "https://www.sudouest.fr/international/moyen-orient/gaza/gaza-quatre-morts-dont-deux-enfants-dans-des-frappes-israeliennes-30117437.php",
-   "n_members": 67,
+   "n_members": 68,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -643,7 +643,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.239,
+   "divergence": 0.24,
    "category": "international",
    "terms_left": [
     "cessez-le-feu",
@@ -785,7 +785,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.807,
+   "divergence": 0.806,
    "category": "économie",
    "terms_left": [
     "cuba",
@@ -795,7 +795,7 @@
    "terms_right": [
     "eau",
     "français",
-    "pompiers"
+    "gironde"
    ]
   },
   {
@@ -831,7 +831,7 @@
   {
    "title": "Incendies : le lourd tribut des pompiers, victimes des flammes et de cancers à long terme",
    "url": "https://www.leparisien.fr/societe/incendie-en-gironde-zidane-nomme-a-la-tete-des-bleus-et-des-bebes-retrouves-morts-a-orange-les-infos-a-retenir-ce-midi-28-07-2026-RFDHWRDFMRGY5LGHT7KRTS56IQ.php",
-   "n_members": 58,
+   "n_members": 60,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -845,7 +845,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.796,
+   "divergence": 0.79,
    "category": "société",
    "terms_left": [
     "pompiers",
@@ -891,7 +891,7 @@
   {
    "title": "Incendie dans le Var: une importante reprise de feu, plus de 1.000 hectares parcourus par les flammes",
    "url": "https://www.cnews.fr/france/2026-07-17/incendies-les-pompiers-denoncent-des-rates-lies-des-normes-antipollution",
-   "n_members": 246,
+   "n_members": 249,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -915,13 +915,13 @@
    "terms_right": [
     "jours",
     "incendie var",
-    "repris ampleur"
+    "fixé"
    ]
   },
   {
-   "title": "«Les factures s'accumulent» : en Gironde, les entreprises touchées de plein fouet par les conséquences des incendies",
+   "title": "\"On a besoin de vous\": l'appel de ce restaurateur aux touristes à venir en Gironde",
    "url": "https://www.20minutes.fr/planete/4236181-20260724-incendies-evacuations-gironde-var-toujours-inquiet-point-brasiers-ravagent-france",
-   "n_members": 111,
+   "n_members": 112,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -935,12 +935,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.687,
+   "divergence": 0.69,
    "category": "économie",
    "terms_left": [
-    "réunion",
     "face",
-    "crise"
+    "crise",
+    "incendie gironde"
    ],
    "terms_right": [
     "gironde",
@@ -951,7 +951,7 @@
   {
    "title": "Incendies en Grèce: la Crète frappées par de violents feux de forêt, 8000 personnes évacuées",
    "url": "https://immobilier.lefigaro.fr/article/tour-montparnasse-le-principal-coproprietaire-reclame-et-obtient-l-abandon-du-mega-projet-de-renovation-20260721",
-   "n_members": 83,
+   "n_members": 84,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -965,7 +965,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.723,
+   "divergence": 0.726,
    "category": "international",
    "terms_left": [
     "sites",
@@ -974,14 +974,14 @@
    ],
    "terms_right": [
     "incendies",
-    "crète",
-    "grèce"
+    "grèce",
+    "crète"
    ]
   },
   {
-   "title": "Brésil : à trois mois de la présidentielle, Flávio Bolsonaro “n’a rien d’autre à offrir que son nom”",
+   "title": "Brésil : vers un nouveau mandat pour Lula dans un pays plus que jamais divisé ?",
    "url": "https://www.20minutes.fr/politique/assemblee_nationale/4234766-20260719-presidentielle-2027-revanchard-francois-hollande-peut-etre-joker-cache-gauche",
-   "n_members": 67,
+   "n_members": 69,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -995,17 +995,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.762,
+   "divergence": 0.757,
    "category": "politique",
    "terms_left": [
     "russe",
     "candidats",
-    "marine"
+    "présidentielle"
    ],
    "terms_right": [
+    "président",
     "qu",
-    "face",
-    "ministre"
+    "ancien"
    ]
   },
   {
@@ -1101,7 +1101,7 @@
   {
    "title": "EN DIRECT, guerre en Ukraine : après l’attaque qui a fait 9 morts à Kiev, Volodymyr Zelensky dénonce des dégâts dans dix-huit immeubles d’habitation",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 200,
+   "n_members": 202,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1115,7 +1115,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.367,
+   "divergence": 0.366,
    "category": "international",
    "terms_left": [
     "zelensky",
@@ -1125,7 +1125,7 @@
    "terms_right": [
     "russie",
     "drones",
-    "frappes"
+    "mort"
    ]
   },
   {
@@ -1145,12 +1145,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.295,
+   "divergence": 0.305,
    "category": "international",
    "terms_left": [
-    "tremblement terre",
-    "tremblement",
-    "terre"
+    "île",
+    "kumamoto",
+    "île kyushu"
    ],
    "terms_right": [
     "séisme",
