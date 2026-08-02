@@ -1,6 +1,6 @@
 {
  "week": "2026-W31",
- "generated_at": "2026-08-02T15:36:55+00:00",
+ "generated_at": "2026-08-02T16:48:16+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -67,7 +67,7 @@
   {
    "title": "Vague migratoire à Ceuta : ce que l'on sait de l'afflux sans précédent de 60.000 personnes entre le Maroc et l'Espagne",
    "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
-   "n_members": 305,
+   "n_members": 310,
    "n_sources": 35,
    "counts": {
     "left": 7,
@@ -81,12 +81,12 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.224,
+   "divergence": 0.22,
    "category": "international",
    "terms_left": [
-    "personnes",
     "droite",
-    "extrême"
+    "extrême",
+    "extrême droite"
    ],
    "terms_right": [
     "schengen",
@@ -111,12 +111,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.293,
+   "divergence": 0.294,
    "category": "environnement",
    "terms_left": [
     "direct",
     "retour",
-    "mégafeu"
+    "reprise"
    ],
    "terms_right": [
     "fixé",
@@ -125,23 +125,23 @@
    ]
   },
   {
-   "title": "Investisseurs privés à la Fifa : face au projet de Gianni Infantino, l’UEFA menace «à l’unanimité» de boycotter les prochaines Coupes du monde",
+   "title": "Investisseurs privés à la Fifa : isolé, Gianni Infantino renonce enfin à son projet",
    "url": "https://www.ladepeche.fr/2026/07/28/il-franchit-une-limite-gianni-infantino-serait-pret-a-ceder-des-parts-de-la-fifa-pour-plusieurs-milliards-deuros-a-des-proches-de-donald-trump-13487502.php",
-   "n_members": 192,
-   "n_sources": 31,
+   "n_members": 194,
+   "n_sources": 32,
    "counts": {
-    "left": 6,
+    "left": 7,
     "centre": 15,
     "right": 10
    },
    "style_counts": {
     "factuel": 19,
-    "mixte": 10,
+    "mixte": 11,
     "opinion": 2
    },
-   "blindspot_score": 0.25,
+   "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.193,
+   "divergence": 0.19,
    "category": "sport",
    "terms_left": [
     "plan",
@@ -151,7 +151,7 @@
    "terms_right": [
     "privés fifa",
     "retrait projet",
-    "société commerciale"
+    "retrait"
    ]
   },
   {
@@ -201,16 +201,16 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.235,
+   "divergence": 0.232,
    "category": "international",
    "terms_left": [
     "propagandiste",
-    "france",
+    "russe",
     "médias"
    ],
    "terms_right": [
-    "accusée",
     "chroniqueuse",
+    "accusée",
     "expulsion xenia"
    ]
   },
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.307,
+   "divergence": 0.294,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -553,7 +553,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.579,
+   "divergence": 0.58,
    "category": "international",
    "terms_left": [
     "face",
@@ -712,8 +712,38 @@
    ],
    "terms_right": [
     "monique barbut",
-    "barbut",
-    "monique"
+    "monique",
+    "barbut"
+   ]
+  },
+  {
+   "title": "Incendies en Grèce: situation \"extrêmement difficile\" en raison de vents violents",
+   "url": "https://immobilier.lefigaro.fr/article/tour-montparnasse-le-principal-coproprietaire-reclame-et-obtient-l-abandon-du-mega-projet-de-renovation-20260721",
+   "n_members": 98,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.734,
+   "category": "international",
+   "terms_left": [
+    "sites",
+    "baignade",
+    "pollution"
+   ],
+   "terms_right": [
+    "grèce",
+    "incendies",
+    "face"
    ]
   },
   {
@@ -845,7 +875,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.688,
+   "divergence": 0.689,
    "category": "économie",
    "terms_left": [
     "face",
@@ -854,38 +884,8 @@
    ],
    "terms_right": [
     "gironde",
-    "tourisme",
-    "incendies"
-   ]
-  },
-  {
-   "title": "Incendies en Grèce: situation \"extrêmement difficile\" en raison de vents violents",
-   "url": "https://immobilier.lefigaro.fr/article/tour-montparnasse-le-principal-coproprietaire-reclame-et-obtient-l-abandon-du-mega-projet-de-renovation-20260721",
-   "n_members": 96,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.733,
-   "category": "international",
-   "terms_left": [
-    "sites",
-    "pollution",
-    "baignade"
-   ],
-   "terms_right": [
-    "grèce",
     "incendies",
-    "face"
+    "tourisme"
    ]
   },
   {
@@ -905,7 +905,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.756,
+   "divergence": 0.755,
    "category": "société",
    "terms_left": [
     "pompiers",
@@ -981,7 +981,7 @@
   {
    "title": "Incendie dans le Var: une importante reprise de feu, plus de 1.000 hectares parcourus par les flammes",
    "url": "https://www.cnews.fr/france/2026-07-17/incendies-les-pompiers-denoncent-des-rates-lies-des-normes-antipollution",
-   "n_members": 274,
+   "n_members": 276,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -995,7 +995,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.473,
+   "divergence": 0.475,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -1011,7 +1011,7 @@
   {
    "title": "Brésil : vers un nouveau mandat pour Lula dans un pays plus que jamais divisé ?",
    "url": "https://www.20minutes.fr/politique/assemblee_nationale/4234766-20260719-presidentielle-2027-revanchard-francois-hollande-peut-etre-joker-cache-gauche",
-   "n_members": 71,
+   "n_members": 73,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -1025,7 +1025,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.753,
+   "divergence": 0.756,
    "category": "politique",
    "terms_left": [
     "russe",
@@ -1034,7 +1034,7 @@
    ],
    "terms_right": [
     "président",
-    "qu",
+    "face",
     "ancien"
    ]
   },
@@ -1145,7 +1145,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.276,
+   "divergence": 0.275,
    "category": "international",
    "terms_left": [
     "survivants",
