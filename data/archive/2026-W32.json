@@ -1,13 +1,13 @@
 {
  "week": "2026-W32",
- "generated_at": "2026-08-03T18:44:43+00:00",
+ "generated_at": "2026-08-03T20:21:56+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Incendie en Gironde: les habitants de Lège-Cap Ferret et du Porge peuvent rentrer chez eux ce lundi",
    "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
-   "n_members": 732,
+   "n_members": 733,
    "n_sources": 36,
    "counts": {
     "left": 8,
@@ -56,7 +56,7 @@
    "terms_left": [
     "droite",
     "jeunes",
-    "personnes"
+    "jeunes marocains"
    ],
    "terms_right": [
     "migratoire ceuta",
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.203,
+   "divergence": 0.204,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -180,14 +180,14 @@
    ],
    "terms_right": [
     "chroniqueuse",
-    "recours référé-liberté",
-    "référé-liberté"
+    "référé-liberté",
+    "recours référé-liberté"
    ]
   },
   {
    "title": "Canicule : voici les 20 départements placés en vigilance orange ce lundi",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 448,
+   "n_members": 449,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -217,7 +217,7 @@
   {
    "title": "Gaza : Pourquoi l’accord « inédit » sur le désarmement du Hamas est-il « déjà mort » ?",
    "url": "https://www.sudouest.fr/international/moyen-orient/gaza/gaza-quatre-morts-dont-deux-enfants-dans-des-frappes-israeliennes-30117437.php",
-   "n_members": 79,
+   "n_members": 81,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.197,
+   "divergence": 0.196,
    "category": "international",
    "terms_left": [
     "forces",
@@ -364,9 +364,9 @@
    ]
   },
   {
-   "title": "« Dans notre métier, tout ce qui est perdu n’est jamais rattrapable » : L’heure des comptes pour les commerçants girondins touchés par les incendies",
+   "title": "\"Il n'y a jamais eu aussi peu de monde\" : la Gironde veut faire revenir ses touristes après les incendies",
    "url": "https://www.20minutes.fr/planete/4236181-20260724-incendies-evacuations-gironde-var-toujours-inquiet-point-brasiers-ravagent-france",
-   "n_members": 114,
+   "n_members": 115,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -380,7 +380,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.693,
+   "divergence": 0.692,
    "category": "économie",
    "terms_left": [
     "face",
@@ -484,6 +484,36 @@
    ]
   },
   {
+   "title": "Suspension de Schengen avec l’Espagne : en Italie, une décision qui divise après la crise migratoire à Ceuta",
+   "url": "https://www.france24.com/fr/europe/20260730-urgence-humanitaire-%C3%A0-ceuta-apr%C3%A8s-l-arriv%C3%A9e-massive-de-migrants-l-arm%C3%A9e-envoy%C3%A9e-en-renfort",
+   "n_members": 52,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 10,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 5
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.533,
+   "category": "international",
+   "terms_left": [
+    "gouvernement espagnol",
+    "crise",
+    "madrid"
+   ],
+   "terms_right": [
+    "schengen",
+    "espagne",
+    "espace schengen"
+   ]
+  },
+  {
    "title": "EN DIRECT, guerre en Ukraine : à Kiev, le bilan de la frappe russe s’élève désormais à neuf morts et 33 blessés",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
    "n_members": 230,
@@ -530,7 +560,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.805,
+   "divergence": 0.804,
    "category": "environnement",
    "terms_left": [
     "face",
@@ -634,39 +664,9 @@
    ]
   },
   {
-   "title": "Crise à Ceuta : l’Italie suspend la libre-circulation et réintroduit les contrôles aux frontières avec l’Espagne",
-   "url": "https://www.france24.com/fr/europe/20260730-urgence-humanitaire-%C3%A0-ceuta-apr%C3%A8s-l-arriv%C3%A9e-massive-de-migrants-l-arm%C3%A9e-envoy%C3%A9e-en-renfort",
-   "n_members": 50,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 9,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 6,
-    "opinion": 5
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": 0.54,
-   "category": "international",
-   "terms_left": [
-    "crise",
-    "gouvernement espagnol",
-    "espagnol"
-   ],
-   "terms_right": [
-    "schengen",
-    "espagne",
-    "espace schengen"
-   ]
-  },
-  {
-   "title": "«Il n’y a plus rien, c’est un désastre» : après l'incendie en Gironde, le terrible retour des sinistrés du Porge",
+   "title": "De retour au Porge, après les incendies : « On n’a plus rien et on nous dit que le scooter n’était pas assuré »",
    "url": "https://www.bfmtv.com/environnement/climat/video-incendie-dans-les-hautes-alpes-le-feu-a-une-surface-parcourue-estimee-de-130-hectares-indique-le-commandant-pierre-emmanuel-feit_VN-202607210310.html",
-   "n_members": 116,
+   "n_members": 118,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -680,7 +680,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.545,
+   "divergence": 0.546,
    "category": "environnement",
    "terms_left": [
     "plainte",
@@ -710,7 +710,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.412,
+   "divergence": 0.413,
    "category": "international",
    "terms_left": [
     "direct",
@@ -874,9 +874,9 @@
    ]
   },
   {
-   "title": "Trois morts, \"engin explosif\"... Ce que l'on sait de l'explosion dans un restaurant de Moscou",
+   "title": "Russie: ce que l'on sait de l'explosion dans un café à Moscou qui a fait trois morts",
    "url": "https://www.bfmtv.com/international/asie/russie/trois-morts-et-15-blesses-dans-une-explosion-dans-un-cafe-a-moscou_AD-202608010293.html",
-   "n_members": 44,
+   "n_members": 45,
    "n_sources": 21,
    "counts": {
     "left": 2,
@@ -896,6 +896,36 @@
    "terms_right": []
   },
   {
+   "title": "Le ministre américain de la Justice cède aux exigences de sénateurs bloquant sa nomination",
+   "url": "https://www.leprogres.fr/politique/2026/07/29/covid-le-cas-du-docteur-fauci-ravive-les-divisions-sur-l-origine-du-virus-et-la-gestion-de-la-pandemie",
+   "n_members": 42,
+   "n_sources": 21,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 1
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.687,
+   "category": "international",
+   "terms_left": [
+    "nomination",
+    "etats-unis",
+    "justice"
+   ],
+   "terms_right": [
+    "états-unis",
+    "olga stefanichyna",
+    "stefanichyna"
+   ]
+  },
+  {
    "title": "Zidane, la fabrique d'une légende",
    "url": "https://www.blast-info.fr/emissions/2026/zinedine-zidane-lhistoire-dun-arabe-devenu-heros-francais-gLNZ6UguS4KgJRVSUNVZ_g",
    "n_members": 39,
@@ -912,7 +942,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.575,
+   "divergence": 0.574,
    "category": "sport",
    "terms_left": [
     "nouveau",
@@ -945,8 +975,8 @@
    "divergence": 0.425,
    "category": "international",
    "terms_left": [
-    "république démocratique",
     "démocratique congo",
+    "république démocratique",
     "démocratique"
    ],
    "terms_right": [
@@ -1017,7 +1047,7 @@
   {
    "title": "« On ne sait pas trop pourquoi ils sont là » : après le mégafeu en Gironde, 75 obus de la Seconde Guerre mondiale retrouvés au Porge",
    "url": "https://www.humanite.fr/-/-/les-habitants-du-porge-estiment-que-leur-commune-a-ete-abandonnee-et-engagent-une-action-judiciaire",
-   "n_members": 42,
+   "n_members": 43,
    "n_sources": 20,
    "counts": {
     "left": 4,
@@ -1031,47 +1061,17 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.673,
+   "divergence": 0.666,
    "category": "environnement",
    "terms_left": [
     "action",
-    "commune",
-    "habitants"
+    "habitants",
+    "commune"
    ],
    "terms_right": [
     "obus",
-    "retour",
-    "feu"
-   ]
-  },
-  {
-   "title": "États-Unis : le ministre de la Justice, Todd Blanche, annule le projet de fonds « anti-instrumentalisation » qui bloquait sa nomination",
-   "url": "https://www.leprogres.fr/politique/2026/07/29/covid-le-cas-du-docteur-fauci-ravive-les-divisions-sur-l-origine-du-virus-et-la-gestion-de-la-pandemie",
-   "n_members": 35,
-   "n_sources": 20,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.743,
-   "category": "international",
-   "terms_left": [
-    "etats-unis",
-    "justice",
-    "ministre"
-   ],
-   "terms_right": [
-    "donald trump",
-    "donald",
-    "états-unis"
+    "déminage",
+    "retour"
    ]
   },
   {
@@ -1121,7 +1121,7 @@
    },
    "blindspot_score": 0.6,
    "blindspot_for": "gauche",
-   "divergence": 0.854,
+   "divergence": 0.847,
    "category": "société",
    "terms_left": [
     "renforcer",
@@ -1130,8 +1130,8 @@
    ],
    "terms_right": [
     "nice",
-    "ans",
-    "femme"
+    "femme",
+    "ans"
    ]
   },
   {
@@ -1151,7 +1151,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.611,
+   "divergence": 0.612,
    "category": "international",
    "terms_left": [
     "bande",
