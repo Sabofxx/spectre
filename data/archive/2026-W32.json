@@ -1,6 +1,6 @@
 {
  "week": "2026-W32",
- "generated_at": "2026-08-03T16:46:56+00:00",
+ "generated_at": "2026-08-03T18:44:43+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Ceuta : au moins 72 migrants morts en voulant gagner l'enclave espagnole",
    "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
-   "n_members": 359,
+   "n_members": 362,
    "n_sources": 35,
    "counts": {
     "left": 7,
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.23,
+   "divergence": 0.235,
    "category": "international",
    "terms_left": [
     "droite",
-    "extrême",
-    "extrême droite"
+    "jeunes",
+    "personnes"
    ],
    "terms_right": [
     "migratoire ceuta",
@@ -67,7 +67,7 @@
   {
    "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis et l’Iran vont se retrouver lundi pour une « négociation », selon Donald Trump",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 632,
+   "n_members": 633,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.204,
+   "divergence": 0.203,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.279,
+   "divergence": 0.281,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -119,9 +119,9 @@
     "reprise"
    ],
    "terms_right": [
-    "préfète",
     "personnes",
-    "désormais"
+    "préfète",
+    "stable"
    ]
   },
   {
@@ -144,8 +144,8 @@
    "divergence": 0.179,
    "category": "sport",
    "terms_left": [
-    "plan",
     "veut",
+    "plan",
     "ouvrir"
    ],
    "terms_right": [
@@ -157,7 +157,7 @@
   {
    "title": "Xenia Fedorova perd son recours contre l'expulsion de France",
    "url": "https://www.bvoltaire.fr/entretien-je-ne-vais-pas-marreter-et-me-censurer/",
-   "n_members": 111,
+   "n_members": 112,
    "n_sources": 32,
    "counts": {
     "left": 8,
@@ -171,23 +171,23 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.225,
+   "divergence": 0.213,
    "category": "international",
    "terms_left": [
     "propagandiste",
     "russe",
-    "kremlin"
+    "propagandiste kremlin"
    ],
    "terms_right": [
     "chroniqueuse",
-    "recours",
-    "accusée"
+    "recours référé-liberté",
+    "référé-liberté"
    ]
   },
   {
    "title": "Canicule : voici les 20 départements placés en vigilance orange ce lundi",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 447,
+   "n_members": 448,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -231,17 +231,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.196,
+   "divergence": 0.197,
    "category": "international",
    "terms_left": [
     "forces",
-    "bande gaza",
-    "trump annonce"
+    "ministre",
+    "bande gaza"
    ],
    "terms_right": [
     "hamas gaza",
     "accord annoncé",
-    "étape"
+    "israël"
    ]
   },
   {
@@ -272,6 +272,65 @@
     "canicule",
     "vague chaleur",
     "nouvelle"
+   ]
+  },
+  {
+   "title": "Canadair : l’intenable promesse de l’État",
+   "url": "https://www.ladepeche.fr/2026/07/27/incendies-ce-bombardier-deau-amphibie-francais-promet-detre-deux-fois-plus-efficace-quun-canadair-13485414.php",
+   "n_members": 61,
+   "n_sources": 27,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.819,
+   "category": "économie",
+   "terms_left": [
+    "cuba",
+    "incendies"
+   ],
+   "terms_right": [
+    "eau",
+    "français",
+    "canadair"
+   ]
+  },
+  {
+   "title": "Autour d'Evian, 30 ans d'adaptation des pratiques agricoles pour protéger l'eau minérale",
+   "url": "https://www.numerama.com/sciences/2302189-incendies-en-gironde-recordpy-propose-une-carte-mise-a-jour-toutes-les-10-minutes-pour-suivre-les-feux.html",
+   "n_members": 55,
+   "n_sources": 27,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 6
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.748,
+   "category": "environnement",
+   "terms_left": [
+    "réchauffement",
+    "réchauffement climatique",
+    "climatique"
+   ],
+   "terms_right": [
+    "pompiers",
+    "monique barbut",
+    "monique"
    ]
   },
   {
@@ -367,7 +426,7 @@
   {
    "title": "Incendie dans le Var: une importante reprise de feu, plus de 1.000 hectares parcourus par les flammes",
    "url": "https://www.cnews.fr/france/2026-07-17/incendies-les-pompiers-denoncent-des-rates-lies-des-normes-antipollution",
-   "n_members": 301,
+   "n_members": 302,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -381,17 +440,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.475,
+   "divergence": 0.469,
    "category": "environnement",
    "terms_left": [
     "direct",
-    "gros",
-    "bessillon"
+    "malgré",
+    "incendies"
    ],
    "terms_right": [
+    "personnes",
     "incendie var",
-    "jours",
-    "personnes"
+    "jours"
    ]
   },
   {
@@ -427,7 +486,7 @@
   {
    "title": "EN DIRECT, guerre en Ukraine : à Kiev, le bilan de la frappe russe s’élève désormais à neuf morts et 33 blessés",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 228,
+   "n_members": 230,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -471,12 +530,12 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.801,
+   "divergence": 0.805,
    "category": "environnement",
    "terms_left": [
     "face",
     "retour",
-    "photo"
+    "forêts"
    ],
    "terms_right": [
     "landes",
@@ -517,7 +576,7 @@
   {
    "title": "Incendies en France : 375 interpellations en lien avec des départs de feu",
    "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/le-prix-du-carburant-est-repasse-au-dessus-des-2-euros-le-litre-alors-qu-un-nouveau-week-end-de-chasse-croise-se-profile_8122901.html",
-   "n_members": 67,
+   "n_members": 68,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -575,9 +634,39 @@
    ]
   },
   {
-   "title": "Incendies en Gironde : la douleur des habitants du Porge est \"instrumentalisée par des complotistes\", estime Sébastien Lecornu",
+   "title": "Crise à Ceuta : l’Italie suspend la libre-circulation et réintroduit les contrôles aux frontières avec l’Espagne",
+   "url": "https://www.france24.com/fr/europe/20260730-urgence-humanitaire-%C3%A0-ceuta-apr%C3%A8s-l-arriv%C3%A9e-massive-de-migrants-l-arm%C3%A9e-envoy%C3%A9e-en-renfort",
+   "n_members": 50,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 9,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 6,
+    "opinion": 5
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.54,
+   "category": "international",
+   "terms_left": [
+    "crise",
+    "gouvernement espagnol",
+    "espagnol"
+   ],
+   "terms_right": [
+    "schengen",
+    "espagne",
+    "espace schengen"
+   ]
+  },
+  {
+   "title": "«Il n’y a plus rien, c’est un désastre» : après l'incendie en Gironde, le terrible retour des sinistrés du Porge",
    "url": "https://www.bfmtv.com/environnement/climat/video-incendie-dans-les-hautes-alpes-le-feu-a-une-surface-parcourue-estimee-de-130-hectares-indique-le-commandant-pierre-emmanuel-feit_VN-202607210310.html",
-   "n_members": 114,
+   "n_members": 116,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -591,17 +680,47 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.553,
+   "divergence": 0.545,
    "category": "environnement",
    "terms_left": [
-    "ville",
-    "partir",
-    "plainte"
+    "plainte",
+    "mégafeu gironde",
+    "sauver"
    ],
    "terms_right": [
     "incendie",
     "incendie gironde",
     "face"
+   ]
+  },
+  {
+   "title": "Guerre en Ukraine : Donald Trump fait volte-face sur les missiles Patriot, pourtant \"priorité absolue\" pour Volodymyr Zelensky",
+   "url": "https://www.ladepeche.fr/2026/07/23/video-donald-trump-imite-en-plein-meeting-par-un-participant-les-images-deviennent-virales-13481283.php",
+   "n_members": 101,
+   "n_sources": 22,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 5,
+    "opinion": 3
+   },
+   "blindspot_score": 0.4,
+   "blindspot_for": null,
+   "divergence": 0.412,
+   "category": "international",
+   "terms_left": [
+    "direct",
+    "guerre",
+    "guerre ukraine"
+   ],
+   "terms_right": [
+    "missiles",
+    "iran",
+    "patriot"
    ]
   },
   {
@@ -630,8 +749,8 @@
    ],
    "terms_right": [
     "sécurité",
-    "iran",
-    "personnes"
+    "personnes",
+    "iran"
    ]
   },
   {
@@ -651,7 +770,7 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.823,
+   "divergence": 0.824,
    "category": "environnement",
    "terms_left": [
     "canicule",
@@ -692,36 +811,6 @@
     "iran",
     "états-unis",
     "russe"
-   ]
-  },
-  {
-   "title": "Crise de Ceuta : pourquoi l’Espagne ne peut pas être exclue de l’espace Schengen",
-   "url": "https://www.france24.com/fr/europe/20260730-urgence-humanitaire-%C3%A0-ceuta-apr%C3%A8s-l-arriv%C3%A9e-massive-de-migrants-l-arm%C3%A9e-envoy%C3%A9e-en-renfort",
-   "n_members": 48,
-   "n_sources": 22,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 6,
-    "opinion": 4
-   },
-   "blindspot_score": 0.538,
-   "blindspot_for": null,
-   "divergence": 0.535,
-   "category": "international",
-   "terms_left": [
-    "crise",
-    "migrants ceuta",
-    "crise ceuta"
-   ],
-   "terms_right": [
-    "schengen",
-    "espagne",
-    "italie"
    ]
   },
   {
@@ -807,9 +896,9 @@
    "terms_right": []
   },
   {
-   "title": "Football : Zidane, de numéro 10 à numéro 1",
+   "title": "Zidane, la fabrique d'une légende",
    "url": "https://www.blast-info.fr/emissions/2026/zinedine-zidane-lhistoire-dun-arabe-devenu-heros-francais-gLNZ6UguS4KgJRVSUNVZ_g",
-   "n_members": 38,
+   "n_members": 39,
    "n_sources": 21,
    "counts": {
     "left": 5,
@@ -823,7 +912,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.578,
+   "divergence": 0.575,
    "category": "sport",
    "terms_left": [
     "nouveau",
@@ -831,9 +920,9 @@
     "équipe france"
    ],
    "terms_right": [
-    "bleus",
     "monde",
-    "zidane sélectionneur"
+    "bleus",
+    "coupe monde"
    ]
   },
   {
@@ -853,7 +942,7 @@
    },
    "blindspot_score": -0.429,
    "blindspot_for": null,
-   "divergence": 0.417,
+   "divergence": 0.425,
    "category": "international",
    "terms_left": [
     "république démocratique",
@@ -861,9 +950,9 @@
     "démocratique"
    ],
    "terms_right": [
-    "alerte",
     "virus",
-    "pays"
+    "alerte",
+    "cas"
    ]
   },
   {
@@ -883,7 +972,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.47,
+   "divergence": 0.471,
    "category": "faits-divers",
    "terms_left": [
     "viol agression",
@@ -913,7 +1002,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.836,
+   "divergence": 0.837,
    "category": "environnement",
    "terms_left": [
     "feu",
@@ -953,6 +1042,36 @@
     "obus",
     "retour",
     "feu"
+   ]
+  },
+  {
+   "title": "États-Unis : le ministre de la Justice, Todd Blanche, annule le projet de fonds « anti-instrumentalisation » qui bloquait sa nomination",
+   "url": "https://www.leprogres.fr/politique/2026/07/29/covid-le-cas-du-docteur-fauci-ravive-les-divisions-sur-l-origine-du-virus-et-la-gestion-de-la-pandemie",
+   "n_members": 35,
+   "n_sources": 20,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 1
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.743,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "justice",
+    "ministre"
+   ],
+   "terms_right": [
+    "donald trump",
+    "donald",
+    "états-unis"
    ]
   },
   {
@@ -1032,7 +1151,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.612,
+   "divergence": 0.611,
    "category": "international",
    "terms_left": [
     "bande",
@@ -1043,36 +1162,6 @@
     "armée",
     "taux",
     "américaine"
-   ]
-  },
-  {
-   "title": "États-Unis : le ministre de la Justice, Todd Blanche, annule le projet de fonds « anti-instrumentalisation » qui bloquait sa nomination",
-   "url": "https://www.leprogres.fr/politique/2026/07/29/covid-le-cas-du-docteur-fauci-ravive-les-divisions-sur-l-origine-du-virus-et-la-gestion-de-la-pandemie",
-   "n_members": 34,
-   "n_sources": 19,
-   "counts": {
-    "left": 2,
-    "centre": 12,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 5,
-    "opinion": 1
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": 0.748,
-   "category": "international",
-   "terms_left": [
-    "ministre",
-    "justice",
-    "nomination"
-   ],
-   "terms_right": [
-    "donald trump",
-    "donald",
-    "états-unis"
    ]
   },
   {
@@ -1092,7 +1181,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.585,
+   "divergence": 0.586,
    "category": "international",
    "terms_left": [
     "incendies",
@@ -1103,96 +1192,6 @@
     "images",
     "milliers",
     "attaque"
-   ]
-  },
-  {
-   "title": "EN IMAGES. Séisme près de Naples : 300 personnes évacuées, de nouvelles secousses possibles",
-   "url": "https://www.ouest-france.fr/monde/venezuela/seismes-au-venezuela-lonu-remettra-un-rapport-sur-la-reconstruction-sous-60-jours-ca088090-8bac-11f1-ae39-071763a6d211",
-   "n_members": 27,
-   "n_sources": 19,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 4,
-    "opinion": 2
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.646,
-   "category": "international",
-   "terms_left": [
-    "secousses",
-    "soir",
-    "personnes"
-   ],
-   "terms_right": [
-    "région",
-    "autorités",
-    "italie"
-   ]
-  },
-  {
-   "title": "« Les journées se suivent et ne se ressemblent pas » : comment les pompiers s’adaptent depuis 14 jours pour maîtriser les flammes",
-   "url": "https://www.bfmtv.com/politique/video-incendies-le-budget-de-la-securite-civile-a-quasiment-double-en-10-ans-rappelle-le-ministre-de-l-interieur_VN-202607300521.html",
-   "n_members": 48,
-   "n_sources": 18,
-   "counts": {
-    "left": 5,
-    "centre": 7,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.762,
-   "category": "faits-divers",
-   "terms_left": [
-    "gironde",
-    "sécurité",
-    "civile"
-   ],
-   "terms_right": [
-    "qu",
-    "flammes",
-    "france"
-   ]
-  },
-  {
-   "title": "Une coupe du monde à 64 équipes : l’autre tentative de Gianni Infantino pour mener la Fifa vers le gigantisme capitaliste",
-   "url": "https://theconversation.com/coupe-du-monde-2026-le-football-a-t-il-gagne-288223",
-   "n_members": 44,
-   "n_sources": 18,
-   "counts": {
-    "left": 2,
-    "centre": 10,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 3,
-    "opinion": 3
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.842,
-   "category": "sport",
-   "terms_left": [
-    "équipes",
-    "fifa",
-    "gigantisme"
-   ],
-   "terms_right": [
-    "gianni infantino",
-    "gianni",
-    "football"
    ]
   }
  ]
