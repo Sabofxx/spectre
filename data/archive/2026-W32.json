@@ -1,13 +1,103 @@
 {
  "week": "2026-W32",
- "generated_at": "2026-08-03T01:05:01+00:00",
+ "generated_at": "2026-08-03T04:58:45+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "DIRECT - Guerre au Moyen-Orient: Donald Trump suspend les frappes américaines contre l'Iran",
+   "title": "Incendie en Gironde: les habitants de Lège-Cap Ferret et du Porge peuvent rentrer chez eux ce lundi",
+   "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
+   "n_members": 720,
+   "n_sources": 36,
+   "counts": {
+    "left": 8,
+    "centre": 16,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 19,
+    "mixte": 13,
+    "opinion": 4
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.285,
+   "category": "environnement",
+   "terms_left": [
+    "hectares",
+    "hectares brûlés",
+    "milliers"
+   ],
+   "terms_right": [
+    "maire",
+    "incendie gironde",
+    "pompiers"
+   ]
+  },
+  {
+   "title": "Vague migratoire à Ceuta : ce que l'on sait de l'afflux sans précédent de 60.000 personnes entre le Maroc et l'Espagne",
+   "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
+   "n_members": 327,
+   "n_sources": 35,
+   "counts": {
+    "left": 7,
+    "centre": 17,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 19,
+    "mixte": 11,
+    "opinion": 5
+   },
+   "blindspot_score": 0.222,
+   "blindspot_for": null,
+   "divergence": 0.228,
+   "category": "international",
+   "terms_left": [
+    "droite",
+    "extrême",
+    "extrême droite"
+   ],
+   "terms_right": [
+    "schengen",
+    "espace",
+    "espace schengen"
+   ]
+  },
+  {
+   "title": "Incendies en Gironde : la situation est \"stable\" et le feu reste \"contenu dans son périmètre\"",
+   "url": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-lege-cap-ferret-une-habitation-ravagee-par-le-feu-23-07_VN-202607230679.html",
+   "n_members": 344,
+   "n_sources": 33,
+   "counts": {
+    "left": 8,
+    "centre": 17,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 12,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.282,
+   "category": "environnement",
+   "terms_left": [
+    "direct",
+    "retour",
+    "mégafeu"
+   ],
+   "terms_right": [
+    "désormais",
+    "personnes",
+    "préfète"
+   ]
+  },
+  {
+   "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump assure suspendre les frappes contre l’Iran à la demande de Téhéran et de pays de la région, dans l’attente d’un accord rapide",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 607,
+   "n_members": 616,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -21,7 +111,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.21,
+   "divergence": 0.209,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -35,9 +125,99 @@
    ]
   },
   {
+   "title": "Canicule : voici les 20 départements placés en vigilance orange ce lundi",
+   "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
+   "n_members": 437,
+   "n_sources": 29,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 11,
+    "opinion": 2
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.29,
+   "category": "environnement",
+   "terms_left": [
+    "direct",
+    "gironde",
+    "direct incendies"
+   ],
+   "terms_right": [
+    "départements placés",
+    "placés",
+    "placés vigilance"
+   ]
+  },
+  {
+   "title": "Incendies en Grèce: situation \"extrêmement difficile\" en raison de vents violents",
+   "url": "https://immobilier.lefigaro.fr/article/tour-montparnasse-le-principal-coproprietaire-reclame-et-obtient-l-abandon-du-mega-projet-de-renovation-20260721",
+   "n_members": 100,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.738,
+   "category": "international",
+   "terms_left": [
+    "sites",
+    "baignade",
+    "pollution"
+   ],
+   "terms_right": [
+    "grèce",
+    "incendies",
+    "face"
+   ]
+  },
+  {
+   "title": "Incendie dans le Var: une importante reprise de feu, plus de 1.000 hectares parcourus par les flammes",
+   "url": "https://www.cnews.fr/france/2026-07-17/incendies-les-pompiers-denoncent-des-rates-lies-des-normes-antipollution",
+   "n_members": 289,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.486,
+   "category": "environnement",
+   "terms_left": [
+    "direct",
+    "incendies",
+    "malgré"
+   ],
+   "terms_right": [
+    "personnes",
+    "jours",
+    "incendie var"
+   ]
+  },
+  {
    "title": "Brésil : Lula «en pleine forme» et candidat pour un quatrième mandat",
    "url": "https://www.20minutes.fr/politique/assemblee_nationale/4234766-20260719-presidentielle-2027-revanchard-francois-hollande-peut-etre-joker-cache-gauche",
-   "n_members": 82,
+   "n_members": 84,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -51,18 +231,160 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.661,
+   "divergence": 0.639,
    "category": "politique",
    "terms_left": [
-    "russe",
-    "candidats",
-    "ex-président"
+    "droite",
+    "extrême",
+    "extrême droite"
    ],
    "terms_right": [
     "lula",
     "trump",
     "qu"
    ]
+  },
+  {
+   "title": "EN DIRECT, guerre en Ukraine : à Kiev, le bilan de la frappe russe s’élève désormais à neuf morts et 33 blessés",
+   "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
+   "n_members": 219,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 1
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.337,
+   "category": "international",
+   "terms_left": [
+    "zelensky",
+    "volodymyr zelensky",
+    "volodymyr"
+   ],
+   "terms_right": [
+    "personnes",
+    "drones",
+    "mort"
+   ]
+  },
+  {
+   "title": "Livret A, électricité, démarchage téléphonique… Ce qui change pour les Français à partir du 1er août",
+   "url": "https://www.liberation.fr/economie/conso/demarchage-telephonique-des-le-11-aout-les-entreprises-devront-obtenir-le-consentement-des-consommateurs-20260725_FH6Y2DNCZVAMPO7ZLYZZOWIHRM/",
+   "n_members": 71,
+   "n_sources": 23,
+   "counts": {
+    "left": 3,
+    "centre": 11,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.594,
+   "category": "économie",
+   "terms_left": [
+    "électricité",
+    "consentement",
+    "obtenir"
+   ],
+   "terms_right": [
+    "prix",
+    "français",
+    "an"
+   ]
+  },
+  {
+   "title": "Algérie : au moins 25 morts après la chute d'un autocar dans un ravin",
+   "url": "https://www.lefigaro.fr/secteur/high-tech/puces-l-action-du-fabricant-chinois-cxmt-s-envole-de-500-lors-de-sa-premiere-journee-en-bourse-20260727",
+   "n_members": 62,
+   "n_sources": 22,
+   "counts": {
+    "left": 3,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 5,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.716,
+   "category": "international",
+   "terms_left": [
+    "nombre",
+    "nombre morts",
+    "nord"
+   ],
+   "terms_right": [
+    "sécurité",
+    "états-unis",
+    "personnes"
+   ]
+  },
+  {
+   "title": "Incendies en Gironde : la douleur des habitants du Porge est \"instrumentalisée par des complotistes\", estime Sébastien Lecornu",
+   "url": "https://www.bfmtv.com/environnement/climat/video-incendie-dans-les-hautes-alpes-le-feu-a-une-surface-parcourue-estimee-de-130-hectares-indique-le-commandant-pierre-emmanuel-feit_VN-202607210310.html",
+   "n_members": 109,
+   "n_sources": 21,
+   "counts": {
+    "left": 5,
+    "centre": 10,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 1
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.565,
+   "category": "environnement",
+   "terms_left": [
+    "mégafeu",
+    "ville",
+    "plainte"
+   ],
+   "terms_right": [
+    "incendie",
+    "incendie gironde",
+    "face"
+   ]
+  },
+  {
+   "title": "Incendie en Gironde: des bénévoles aident à lutter contre les fumerolles",
+   "url": "https://www.leparisien.fr/gironde-33/urgent-cherche-logement-une-plate-forme-dentraide-dhebergements-lancee-pour-venir-en-aide-aux-evacues-des-incendies-25-07-2026-6HJS3QA36RFFZIYNUTMD27J3CY.php",
+   "n_members": 79,
+   "n_sources": 20,
+   "counts": {
+    "left": 2,
+    "centre": 12,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 4,
+    "opinion": 2
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.856,
+   "category": "environnement",
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "\"On a besoin de nous longtemps, donc il faut se préserver\" : sur le front de l'incendie en Gironde, des pompiers épuisés et pas à l'abri des blessures",
@@ -89,14 +411,118 @@
    ],
    "terms_right": [
     "gironde",
-    "flammes",
-    "pompiers"
+    "pompiers",
+    "flammes"
+   ]
+  },
+  {
+   "title": "Décès d’une femme dans un salon d’esthétique illégal : quelles sanctions contre les personnes réalisant clandestinement des injections de botox ?",
+   "url": "https://www.ouest-france.fr/faits-divers/meurtres/assassinat-de-la-gerante-dun-burger-king-normand-et-de-sa-famille-en-afrique-du-sud-ce-que-lon-sait-9664d9a6-8a93-11f1-ae39-071763a6d211",
+   "n_members": 50,
+   "n_sources": 18,
+   "counts": {
+    "left": 1,
+    "centre": 9,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 4,
+    "opinion": 3
+   },
+   "blindspot_score": 0.778,
+   "blindspot_for": "gauche",
+   "divergence": 0.864,
+   "category": "faits-divers",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Crise de Ceuta : pourquoi l’Espagne ne peut pas être exclue de l’espace Schengen",
+   "url": "https://www.france24.com/fr/europe/20260730-urgence-humanitaire-%C3%A0-ceuta-apr%C3%A8s-l-arriv%C3%A9e-massive-de-migrants-l-arm%C3%A9e-envoy%C3%A9e-en-renfort",
+   "n_members": 39,
+   "n_sources": 18,
+   "counts": {
+    "left": 1,
+    "centre": 7,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 4,
+    "opinion": 4
+   },
+   "blindspot_score": 0.818,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Bande de Gaza : des bombardements israéliens font au moins 13 morts malgré l’accord annoncé",
+   "url": "http://fr.euronews.com/business/2026/07/29/inflation-elevee-la-fed-devrait-maintenir-ses-taux-inchanges-pour-linstant",
+   "n_members": 48,
+   "n_sources": 17,
+   "counts": {
+    "left": 3,
+    "centre": 9,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 4,
+    "opinion": 2
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.673,
+   "category": "international",
+   "terms_left": [
+    "territoire",
+    "bande",
+    "bande gaza"
+   ],
+   "terms_right": [
+    "armée",
+    "annonce",
+    "américaine"
+   ]
+  },
+  {
+   "title": "Crise migratoire à Ceuta : qu'est-ce que la Force Frontière d'intervention rapide déployée par la France ?",
+   "url": "https://www.liberation.fr/international/europe/retour-devacues-en-gironde-luefa-menace-de-boycotter-le-mondial-2030-baisse-des-naissances-en-france-lactu-de-ce-jeudi-30-juillet-20260730_WPASO2ELYJGTPLXVG56FATJDOI/",
+   "n_members": 38,
+   "n_sources": 16,
+   "counts": {
+    "left": 2,
+    "centre": 7,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 8,
+    "mixte": 4,
+    "opinion": 4
+   },
+   "blindspot_score": 0.556,
+   "blindspot_for": null,
+   "divergence": 0.836,
+   "category": "international",
+   "terms_left": [
+    "incendies",
+    "invasion",
+    "mort"
+   ],
+   "terms_right": [
+    "frontière",
+    "qu",
+    "maroc"
    ]
   },
   {
    "title": "« Les journées se suivent et ne se ressemblent pas » : comment les pompiers s’adaptent depuis 14 jours pour maîtriser les flammes",
    "url": "https://www.bfmtv.com/politique/video-incendies-le-budget-de-la-securite-civile-a-quasiment-double-en-10-ans-rappelle-le-ministre-de-l-interieur_VN-202607300521.html",
-   "n_members": 29,
+   "n_members": 30,
    "n_sources": 16,
    "counts": {
     "left": 5,
@@ -124,39 +550,231 @@
    ]
   },
   {
-   "title": "Soudan : une ONG accuse l’armée d’avoir tué 35 personnes dans une frappe de drone sur un tribunal du Darfour",
-   "url": "https://www.lemonde.fr/afrique/article/2026/08/03/soudan-une-ong-accuse-l-armee-d-avoir-tue-35-personnes-dans-une-frappe-de-drone-sur-un-tribunal-du-darfour_6737320_3212.html",
-   "n_members": 3,
-   "n_sources": 3,
+   "title": "Intelligence artificielle : ce qui change en Europe avec les nouvelles règles de l’AI Act",
+   "url": "http://fr.euronews.com/next/2026/07/30/comment-la-loi-europeenne-sur-lia-rebat-les-regles-des-entreprises-de-washington-a-tokyo",
+   "n_members": 19,
+   "n_sources": 16,
    "counts": {
-    "left": 1,
-    "centre": 2,
-    "right": 0
+    "left": 3,
+    "centre": 10,
+    "right": 3
    },
    "style_counts": {
-    "factuel": 2,
-    "mixte": 1,
-    "opinion": 0
+    "factuel": 8,
+    "mixte": 6,
+    "opinion": 2
    },
-   "blindspot_score": -1.0,
+   "blindspot_score": 0.0,
    "blindspot_for": null,
+   "divergence": 0.685,
+   "category": "sciences-tech",
+   "terms_left": [
+    "modèles",
+    "mention",
+    "devront"
+   ],
+   "terms_right": [
+    "monde",
+    "loi",
+    "europe"
+   ]
+  },
+  {
+   "title": "Tour de France femmes : Lorena Wiebes récidive et conforte son maillot jaune lors de la 2e étape",
+   "url": "https://www.franceinfo.fr/tour-de-france/femmes/le-neeralandaise-lorena-wiebes-s-impose-a-lausanne-et-endosse-le-premier-maillot-jaune-du-tour-de-france-femmes_8131283.html",
+   "n_members": 46,
+   "n_sources": 15,
+   "counts": {
+    "left": 2,
+    "centre": 9,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 4,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.432,
+   "category": "sport",
+   "terms_left": [
+    "océane",
+    "océane mahé",
+    "mahé"
+   ],
+   "terms_right": [
+    "sprint",
+    "étape",
+    "néerlandaise"
+   ]
+  },
+  {
+   "title": "Grèce : collision entre deux hélicoptères qui intervenaient contre un incendie",
+   "url": "https://www.lefigaro.fr/international/grece-deux-helicopteres-entrent-en-collision-alors-qu-ils-intervenaient-contre-un-incendie-20260802",
+   "n_members": 24,
+   "n_sources": 15,
+   "counts": {
+    "left": 0,
+    "centre": 9,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 2,
+    "opinion": 2
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
    "divergence": null,
    "category": "international",
    "terms_left": [],
    "terms_right": []
   },
   {
-   "title": "Donald Trump affirme que les Etats-Unis sont intervenus pour soutenir le yen, par « amitié » pour le Japon",
-   "url": "https://www.latribune.fr/article/economie/international/160877593824414/etats-unis-japon-washington-aurait-epaule-tokyo-pour-soutenir-le-yen",
-   "n_members": 3,
-   "n_sources": 3,
+   "title": "Guerre au Moyen-Orient : les États-Unis suspendent leurs frappes contre l'Iran",
+   "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-irak-nie-avoir-approuve-les-frappes-americano-saoudiennes-de-mercredi_8129192.html",
+   "n_members": 23,
+   "n_sources": 15,
    "counts": {
     "left": 1,
-    "centre": 0,
+    "centre": 7,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 4,
+    "opinion": 1
+   },
+   "blindspot_score": 0.75,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Tour de France Femmes 2026 : le parcours de la première étape (Lausanne-Lausanne)",
+   "url": "https://www.ouest-france.fr/sport/cyclisme/tour-de-france-femmes/tour-de-france-femmes-lequipe-uae-team-adq-de-paula-blasi-et-maeva-squiban-avec-un-nouveau-nom-pour-ledition-2026-b4f9626a-8ab1-11f1-ae39-071763a6d211",
+   "n_members": 41,
+   "n_sources": 12,
+   "counts": {
+    "left": 2,
+    "centre": 9,
+    "right": 1
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 2,
+    "opinion": 1
+   },
+   "blindspot_score": -0.333,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "sport",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Léon Marchand confirme sa présence aux championnats d’Europe de natation, son programme incertain à cause de sa blessure",
+   "url": "https://www.ouest-france.fr/sport/athletisme/athletisme-batir-lequipe-de-france-la-plus-competitive-lheure-est-aux-choix-avant-les-championnats-deurope-43bd2068-89c2-11f1-b777-fc1f4f594fd2",
+   "n_members": 25,
+   "n_sources": 12,
+   "counts": {
+    "left": 2,
+    "centre": 6,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 6,
+    "mixte": 4,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.518,
+   "category": "sport",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Noyades estivales : renforcement des sanctions contre la baignade hors zones autorisées",
+   "url": "https://www.tf1info.fr/justice-faits-divers/baignades-interdites-un-decret-renforce-les-sanctions-a-partir-d-aujourd-hui-2456384.html",
+   "n_members": 12,
+   "n_sources": 12,
+   "counts": {
+    "left": 1,
+    "centre": 6,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 8,
+    "mixte": 3,
+    "opinion": 1
+   },
+   "blindspot_score": 0.667,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "société",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Girondins de Bordeaux : Le club sur le point d’être racheté, Gérard Lopez va enfin s’en aller",
+   "url": "https://www.leparisien.fr/sports/football/les-girondins-de-bordeaux-rachetes-par-un-fonds-dinvestissement-anglais-gerard-lopez-ne-fait-plus-partie-du-club-31-07-2026-NVIWIYBQTZAD5GWDWQ2FSTO3LY.php",
+   "n_members": 14,
+   "n_sources": 9,
+   "counts": {
+    "left": 2,
+    "centre": 6,
+    "right": 1
+   },
+   "style_counts": {
+    "factuel": 6,
+    "mixte": 3,
+    "opinion": 0
+   },
+   "blindspot_score": -0.333,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "sport",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Incendies aux États-Unis : des milliers de personnes évacuées, plus de 80.000 hectares brûlés dans l'État de Washington",
+   "url": "https://www.sudouest.fr/international/etats-unis/etats-unis-des-milliers-de-personnes-evacuees-en-raison-d-un-incendie-dans-le-nord-ouest-du-pays-30144328.php",
+   "n_members": 9,
+   "n_sources": 8,
+   "counts": {
+    "left": 0,
+    "centre": 4,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 6,
+    "mixte": 1,
+    "opinion": 1
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Les États-Unis sont intervenus pour soutenir le yen, Donald Trump évoque un \"geste d'amitié\"",
+   "url": "https://www.latribune.fr/article/economie/international/160877593824414/etats-unis-japon-washington-aurait-epaule-tokyo-pour-soutenir-le-yen",
+   "n_members": 5,
+   "n_sources": 5,
+   "counts": {
+    "left": 1,
+    "centre": 2,
     "right": 2
    },
    "style_counts": {
-    "factuel": 1,
+    "factuel": 3,
     "mixte": 2,
     "opinion": 0
    },
@@ -164,6 +782,28 @@
    "blindspot_for": null,
    "divergence": null,
    "category": "économie",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Soudan : une ONG accuse l’armée d’avoir tué 35 personnes dans une frappe de drone sur un tribunal du Darfour",
+   "url": "https://www.lemonde.fr/afrique/article/2026/08/03/soudan-une-ong-accuse-l-armee-d-avoir-tue-35-personnes-dans-une-frappe-de-drone-sur-un-tribunal-du-darfour_6737320_3212.html",
+   "n_members": 4,
+   "n_sources": 4,
+   "counts": {
+    "left": 1,
+    "centre": 3,
+    "right": 0
+   },
+   "style_counts": {
+    "factuel": 3,
+    "mixte": 1,
+    "opinion": 0
+   },
+   "blindspot_score": -1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "international",
    "terms_left": [],
    "terms_right": []
   },
@@ -190,6 +830,28 @@
    "terms_right": []
   },
   {
+   "title": "Notre équipe au cœur d'un village confiné",
+   "url": "https://www.nicematin.com/faits-divers/incendie-dans-le-var/il-faut-du-courage-pour-affronter-cette-situation-mais-ici-tout-le-monde-est-au-bout-du-rouleau-a-correns-le-village-reste-completement-isole-10698457",
+   "n_members": 5,
+   "n_sources": 2,
+   "counts": {
+    "left": 0,
+    "centre": 1,
+    "right": 1
+   },
+   "style_counts": {
+    "factuel": 2,
+    "mixte": 0,
+    "opinion": 0
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "faits-divers",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "La playlist soundsystem du dimanche 02 août 2026",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/la-playlist-sound-system/playlist-sound-system-du-dimanche-12-juillet-2026-6511770",
    "n_members": 39,
@@ -208,6 +870,50 @@
    "blindspot_for": null,
    "divergence": null,
    "category": "culture",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "L'horoscope Sud Radio",
+   "url": "https://www.sudradio.fr/emission/lhoroscope-sud-radio-1147",
+   "n_members": 27,
+   "n_sources": 1,
+   "counts": {
+    "left": 0,
+    "centre": 0,
+    "right": 1
+   },
+   "style_counts": {
+    "factuel": 0,
+    "mixte": 1,
+    "opinion": 0
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "sciences-tech",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Humour. Le dessin du 1er août : comment mieux se protéger des incendies dans le futur ?",
+   "url": "https://www.leprogres.fr/societe/2026/07/29/le-dessin-du-29-juillet-zelensky-a-la-maison-blanche",
+   "n_members": 5,
+   "n_sources": 1,
+   "counts": {
+    "left": 0,
+    "centre": 1,
+    "right": 0
+   },
+   "style_counts": {
+    "factuel": 1,
+    "mixte": 0,
+    "opinion": 0
+   },
+   "blindspot_score": null,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "société",
    "terms_left": [],
    "terms_right": []
   },
