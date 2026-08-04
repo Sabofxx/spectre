@@ -18,9 +18,4 @@ site/
 # pipeline downloads it at the start of each run and re-publishes it at the end.
 spectre.db
 spectre.db-wal
-spectre.db-shm
-
-# Claude / assistant working files — never committed.
-pour_claude.md
-CLAUDE.md
-.claude/
+spectre.db-
