@@ -1,6 +1,6 @@
 {
  "week": "2026-W32",
- "generated_at": "2026-08-04T15:44:32+00:00",
+ "generated_at": "2026-08-04T17:30:36+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Ceuta : au moins 72 migrants morts en voulant gagner l'enclave espagnole",
    "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
-   "n_members": 401,
+   "n_members": 410,
    "n_sources": 36,
    "counts": {
     "left": 7,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.251,
+   "divergence": 0.248,
    "category": "international",
    "terms_left": [
     "droite",
@@ -61,7 +61,7 @@
    "terms_right": [
     "migratoire ceuta",
     "migratoire",
-    "espace"
+    "schengen"
    ]
   },
   {
@@ -180,8 +180,8 @@
    ],
    "terms_right": [
     "chroniqueuse",
-    "référé-liberté",
-    "recours référé-liberté"
+    "recours référé-liberté",
+    "référé-liberté"
    ]
   },
   {
@@ -247,7 +247,7 @@
   {
    "title": "«Opération Forteresse» : le parti britannique Reform UK veut déployer des navires de guerre face aux migrants dans la Manche",
    "url": "https://www.blast-info.fr/emissions/2026/macron-ne-quittera-pas-le-pouvoir-en-2027-rXIU9Y8qSGqoG_inT9W0OQ",
-   "n_members": 64,
+   "n_members": 65,
    "n_sources": 28,
    "counts": {
     "left": 5,
@@ -364,9 +364,39 @@
    ]
   },
   {
+   "title": "Le niveau historiquement bas du Danube source de tensions sur le réseau électrique en Europe centrale",
+   "url": "https://information.tv5monde.com/international/la-secheresse-frappe-les-balkans-le-danube-au-plus-bas-en-serbie-2831837",
+   "n_members": 68,
+   "n_sources": 27,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.565,
+   "category": "environnement",
+   "terms_left": [
+    "europe",
+    "roumanie",
+    "fleuve"
+   ],
+   "terms_right": [
+    "électricité",
+    "centrale nucléaire",
+    "ans"
+   ]
+  },
+  {
    "title": "Incendies en Grèce: situation \"extrêmement difficile\" en raison de vents violents",
    "url": "https://immobilier.lefigaro.fr/article/tour-montparnasse-le-principal-coproprietaire-reclame-et-obtient-l-abandon-du-mega-projet-de-renovation-20260721",
-   "n_members": 122,
+   "n_members": 123,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -394,33 +424,33 @@
    ]
   },
   {
-   "title": "En Europe, plusieurs centrales nucléaires à l'arrêt face aux canicules",
-   "url": "https://information.tv5monde.com/international/la-secheresse-frappe-les-balkans-le-danube-au-plus-bas-en-serbie-2831837",
-   "n_members": 67,
-   "n_sources": 26,
+   "title": "«Bienvenue chez vous» : au Porge, les habitants de retour dans une commune ravagée par les flammes",
+   "url": "https://www.bfmtv.com/environnement/climat/video-incendie-dans-les-hautes-alpes-le-feu-a-une-surface-parcourue-estimee-de-130-hectares-indique-le-commandant-pierre-emmanuel-feit_VN-202607210310.html",
+   "n_members": 125,
+   "n_sources": 25,
    "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 7
+    "left": 5,
+    "centre": 14,
+    "right": 6
    },
    "style_counts": {
     "factuel": 16,
     "mixte": 8,
-    "opinion": 2
+    "opinion": 1
    },
-   "blindspot_score": 0.077,
+   "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.586,
+   "divergence": 0.538,
    "category": "environnement",
    "terms_left": [
-    "europe",
-    "roumanie",
-    "fleuve"
+    "plainte",
+    "sauver",
+    "désolation"
    ],
    "terms_right": [
-    "électricité",
-    "centrales",
-    "cause"
+    "incendie",
+    "incendie gironde",
+    "pompiers"
    ]
   },
   {
@@ -456,7 +486,7 @@
   {
    "title": "Vague migratoire à Ceuta : Von der Leyen veut une \"réponse européenne commune\" pour \"renforcer les frontières\"",
    "url": "https://www.france24.com/fr/europe/20260730-urgence-humanitaire-%C3%A0-ceuta-apr%C3%A8s-l-arriv%C3%A9e-massive-de-migrants-l-arm%C3%A9e-envoy%C3%A9e-en-renfort",
-   "n_members": 74,
+   "n_members": 76,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -475,7 +505,7 @@
    "terms_left": [
     "veut",
     "discours",
-    "crise ceuta"
+    "solidarité"
    ],
    "terms_right": [
     "schengen",
@@ -530,7 +560,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.473,
+   "divergence": 0.469,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -539,38 +569,8 @@
    ],
    "terms_right": [
     "incendie",
-    "personnes",
-    "incendie var"
-   ]
-  },
-  {
-   "title": "«Bienvenue chez vous» : au Porge, les habitants de retour dans une commune ravagée par les flammes",
-   "url": "https://www.bfmtv.com/environnement/climat/video-incendie-dans-les-hautes-alpes-le-feu-a-une-surface-parcourue-estimee-de-130-hectares-indique-le-commandant-pierre-emmanuel-feit_VN-202607210310.html",
-   "n_members": 124,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 1
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.538,
-   "category": "environnement",
-   "terms_left": [
-    "plainte",
-    "sauver",
-    "désolation"
-   ],
-   "terms_right": [
-    "incendie",
-    "incendie gironde",
-    "pompiers"
+    "incendie var",
+    "personnes"
    ]
   },
   {
@@ -604,9 +604,39 @@
    ]
   },
   {
+   "title": "Un adolescent de 17 ans tué à Nice, le père suspecté",
+   "url": "https://www.cnews.fr/faits-divers/2026-07-27/accuse-du-meurtre-dune-fan-de-14-ans-le-chanteur-d4vd-presente-devant-le",
+   "n_members": 67,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.601,
+   "category": "faits-divers",
+   "terms_left": [
+    "services",
+    "fin",
+    "justice"
+   ],
+   "terms_right": [
+    "père",
+    "retrouvé",
+    "ans"
+   ]
+  },
+  {
    "title": "Juillet 2026, mois le plus chaud jamais enregistré en France",
    "url": "https://www.lefigaro.fr/conjoncture/le-rhin-a-son-plus-bas-historique-la-secheresse-menace-un-axe-vital-de-l-industrie-allemande-20260801",
-   "n_members": 52,
+   "n_members": 55,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -620,7 +650,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.493,
+   "divergence": 0.497,
    "category": "environnement",
    "terms_left": [
     "température",
@@ -628,15 +658,15 @@
     "manque"
    ],
    "terms_right": [
-    "jours",
     "vacances",
+    "jours",
     "période"
    ]
   },
   {
    "title": "Russie : au moins cinq morts dans une attaque de drones contre la région de Moscou",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 250,
+   "n_members": 252,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -650,7 +680,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.334,
+   "divergence": 0.336,
    "category": "international",
    "terms_left": [
     "russes",
@@ -740,7 +770,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.57,
+   "divergence": 0.569,
    "category": "économie",
    "terms_left": [
     "obtenir",
@@ -811,36 +841,6 @@
     "google",
     "images",
     "homme"
-   ]
-  },
-  {
-   "title": "Un adolescent de 17 ans tué à Nice, le père suspecté",
-   "url": "https://www.cnews.fr/faits-divers/2026-07-27/accuse-du-meurtre-dune-fan-de-14-ans-le-chanteur-d4vd-presente-devant-le",
-   "n_members": 63,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.617,
-   "category": "faits-divers",
-   "terms_left": [
-    "services",
-    "fin",
-    "justice"
-   ],
-   "terms_right": [
-    "père",
-    "retrouvé",
-    "ans"
    ]
   },
   {
@@ -934,6 +934,36 @@
    ]
   },
   {
+   "title": "Le ministre américain de la Justice en passe d'être confirmé par le Sénat",
+   "url": "https://www.leprogres.fr/politique/2026/07/29/covid-le-cas-du-docteur-fauci-ravive-les-divisions-sur-l-origine-du-virus-et-la-gestion-de-la-pandemie",
+   "n_members": 61,
+   "n_sources": 22,
+   "counts": {
+    "left": 3,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 1
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.707,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "justice",
+    "nomination"
+   ],
+   "terms_right": [
+    "donald trump",
+    "donald",
+    "états-unis"
+   ]
+  },
+  {
    "title": "Guerre en Ukraine : un navire de l'agence atomique russe Rosatom coulé en mer Noire par des drones ukrainiens",
    "url": "https://www.tf1info.fr/international/la-coree-du-nord-et-la-russie-sur-le-point-d-achever-la-construction-d-un-pont-pouvant-faciliter-la-logistique-dans-la-guerre-en-ukraine-2455563.html",
    "n_members": 60,
@@ -959,38 +989,8 @@
    ],
    "terms_right": [
     "iran",
-    "corée nord",
-    "corée"
-   ]
-  },
-  {
-   "title": "Le ministre américain de la Justice en passe d'être confirmé par le Sénat",
-   "url": "https://www.leprogres.fr/politique/2026/07/29/covid-le-cas-du-docteur-fauci-ravive-les-divisions-sur-l-origine-du-virus-et-la-gestion-de-la-pandemie",
-   "n_members": 60,
-   "n_sources": 22,
-   "counts": {
-    "left": 3,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.707,
-   "category": "international",
-   "terms_left": [
-    "etats-unis",
-    "justice",
-    "nomination"
-   ],
-   "terms_right": [
-    "donald trump",
-    "donald",
-    "états-unis"
+    "états-unis",
+    "moyen-orient"
    ]
   },
   {
@@ -1026,7 +1026,7 @@
   {
    "title": "Orages : deux randonneurs de 14 et 21 ans foudroyés dans les Hautes-Pyrénées, leur pronostic vital engagé",
    "url": "https://www.ladepeche.fr/2026/08/01/qui-etait-vise-de-nombreux-coups-de-feux-de-gros-calibre-tires-dans-la-nuit-a-toulouse-pas-de-victime-identifiee-13493287.php",
-   "n_members": 70,
+   "n_members": 71,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -1040,7 +1040,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.746,
+   "divergence": 0.752,
    "category": "faits-divers",
    "terms_left": [
     "armée",
@@ -1056,7 +1056,7 @@
   {
    "title": "Incendies en Gironde : Guillaume Canet, Jérémy Frérot, Laura Smet…. Les artistes lancent des appels pour aider la région",
    "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/arcachon/pas-de-fusils-sur-les-cendres-des-voix-s-elevent-contre-la-chasse-dans-les-forets-incendiees-en-gironde-et-dans-les-landes-3393778.html",
-   "n_members": 56,
+   "n_members": 58,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -1070,17 +1070,47 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.914,
+   "divergence": 0.913,
    "category": "environnement",
    "terms_left": [
-    "forêt",
     "cendres",
+    "forêt",
     "chasse"
    ],
    "terms_right": [
     "gironde",
-    "euros",
-    "incendies"
+    "incendies",
+    "euros"
+   ]
+  },
+  {
+   "title": "Avalanche au Pakistan : le corps de l’alpiniste Nirmal Purja a été retrouvé sur le Broad Peak",
+   "url": "https://www.lemonde.fr/sport/article/2026/07/31/avalanche-au-pakistan-nirmal-purja-et-neuf-alpinistes-portes-disparus-sur-le-broad-peak_6737096_3242.html",
+   "n_members": 57,
+   "n_sources": 21,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 1
+   },
+   "blindspot_score": 0.111,
+   "blindspot_for": null,
+   "divergence": 0.164,
+   "category": "sport",
+   "terms_left": [
+    "mort avalanche",
+    "emporté",
+    "alpinistes"
+   ],
+   "terms_right": [
+    "retrouvé",
+    "corps alpiniste",
+    "club"
    ]
   },
   {
@@ -1122,12 +1152,12 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.573,
+   "divergence": 0.575,
    "category": "sport",
    "terms_left": [
     "nouveau",
-    "équipe",
-    "équipe france"
+    "zizou",
+    "équipe"
    ],
    "terms_right": [
     "monde",
@@ -1152,40 +1182,18 @@
    },
    "blindspot_score": -0.429,
    "blindspot_for": null,
-   "divergence": 0.427,
+   "divergence": 0.42,
    "category": "international",
    "terms_left": [
-    "république démocratique",
+    "mois",
     "démocratique congo",
-    "démocratique"
+    "république démocratique"
    ],
    "terms_right": [
     "virus",
     "alerte",
     "cas"
    ]
-  },
-  {
-   "title": "« Notre objectif est d’être là où l’on a besoin de notre aide » : après 52 heures de route, des pompiers ukrainiens viennent épauler les secours français face au mégafeu en Gironde",
-   "url": "https://www.humanite.fr/-/-/les-pompiers-arrosent-le-bas-cote-pour-empecher-le-feu-de-reprendre",
-   "n_members": 65,
-   "n_sources": 20,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.843,
-   "category": "environnement",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
