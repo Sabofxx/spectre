@@ -1,6 +1,6 @@
 {
  "week": "2026-W32",
- "generated_at": "2026-08-04T13:15:23+00:00",
+ "generated_at": "2026-08-04T15:44:32+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,21 +37,21 @@
   {
    "title": "Ceuta : au moins 72 migrants morts en voulant gagner l'enclave espagnole",
    "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
-   "n_members": 393,
-   "n_sources": 35,
+   "n_members": 401,
+   "n_sources": 36,
    "counts": {
     "left": 7,
     "centre": 17,
-    "right": 11
+    "right": 12
    },
    "style_counts": {
     "factuel": 19,
     "mixte": 11,
-    "opinion": 5
+    "opinion": 6
    },
-   "blindspot_score": 0.222,
+   "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.25,
+   "divergence": 0.251,
    "category": "international",
    "terms_left": [
     "droite",
@@ -60,14 +60,14 @@
    ],
    "terms_right": [
     "migratoire ceuta",
-    "schengen",
+    "migratoire",
     "espace"
    ]
   },
   {
    "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis et l’Iran vont se retrouver lundi pour une « négociation », selon Donald Trump",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 641,
+   "n_members": 646,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.203,
+   "divergence": 0.202,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -90,8 +90,8 @@
    ],
    "terms_right": [
     "états-unis",
-    "armée",
-    "soldats"
+    "soldats",
+    "attaque"
    ]
   },
   {
@@ -146,12 +146,12 @@
    "terms_left": [
     "veut",
     "plan",
-    "ouvrir"
+    "ouverture fifa"
    ],
    "terms_right": [
     "privés fifa",
-    "instance",
-    "ans"
+    "projet controversé",
+    "instance"
    ]
   },
   {
@@ -187,7 +187,7 @@
   {
    "title": "Canicule : voici les 18 départements placés en vigilance orange ce mardi",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 461,
+   "n_members": 466,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -209,8 +209,8 @@
     "gironde"
    ],
    "terms_right": [
-    "placés",
     "départements placés",
+    "placés",
     "placés vigilance"
    ]
   },
@@ -231,17 +231,47 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.191,
+   "divergence": 0.195,
    "category": "international",
    "terms_left": [
     "qu",
-    "annonce",
-    "prévoit"
+    "prévoit",
+    "bande gaza"
    ],
    "terms_right": [
     "accord annoncé",
-    "hamas gaza",
-    "étape"
+    "étape",
+    "hamas gaza"
+   ]
+  },
+  {
+   "title": "«Opération Forteresse» : le parti britannique Reform UK veut déployer des navires de guerre face aux migrants dans la Manche",
+   "url": "https://www.blast-info.fr/emissions/2026/macron-ne-quittera-pas-le-pouvoir-en-2027-rXIU9Y8qSGqoG_inT9W0OQ",
+   "n_members": 64,
+   "n_sources": 28,
+   "counts": {
+    "left": 5,
+    "centre": 14,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 6
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.872,
+   "category": "politique",
+   "terms_left": [
+    "pouvoir",
+    "parti",
+    "préfecture"
+   ],
+   "terms_right": [
+    "présidentielle",
+    "ministre",
+    "nouveau"
    ]
   },
   {
@@ -261,7 +291,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.82,
+   "divergence": 0.819,
    "category": "économie",
    "terms_left": [
     "cuba",
@@ -290,7 +320,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.771,
+   "divergence": 0.772,
    "category": "environnement",
    "terms_left": [
     "climatique",
@@ -301,36 +331,6 @@
     "feu",
     "canicule",
     "pompiers"
-   ]
-  },
-  {
-   "title": "«Opération Forteresse» : le parti britannique Reform UK veut déployer des navires de guerre face aux migrants dans la Manche",
-   "url": "https://www.blast-info.fr/emissions/2026/macron-ne-quittera-pas-le-pouvoir-en-2027-rXIU9Y8qSGqoG_inT9W0OQ",
-   "n_members": 59,
-   "n_sources": 28,
-   "counts": {
-    "left": 5,
-    "centre": 14,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 6
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.846,
-   "category": "politique",
-   "terms_left": [
-    "pouvoir",
-    "tentative",
-    "sein"
-   ],
-   "terms_right": [
-    "présidentielle",
-    "ministre",
-    "manche"
    ]
   },
   {
@@ -366,7 +366,7 @@
   {
    "title": "Incendies en Grèce: situation \"extrêmement difficile\" en raison de vents violents",
    "url": "https://immobilier.lefigaro.fr/article/tour-montparnasse-le-principal-coproprietaire-reclame-et-obtient-l-abandon-du-mega-projet-de-renovation-20260721",
-   "n_members": 120,
+   "n_members": 122,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -380,7 +380,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.736,
+   "divergence": 0.737,
    "category": "international",
    "terms_left": [
     "sites",
@@ -391,6 +391,36 @@
     "grèce",
     "incendies",
     "face"
+   ]
+  },
+  {
+   "title": "En Europe, plusieurs centrales nucléaires à l'arrêt face aux canicules",
+   "url": "https://information.tv5monde.com/international/la-secheresse-frappe-les-balkans-le-danube-au-plus-bas-en-serbie-2831837",
+   "n_members": 67,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.586,
+   "category": "environnement",
+   "terms_left": [
+    "europe",
+    "roumanie",
+    "fleuve"
+   ],
+   "terms_right": [
+    "électricité",
+    "centrales",
+    "cause"
    ]
   },
   {
@@ -410,7 +440,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.691,
+   "divergence": 0.692,
    "category": "économie",
    "terms_left": [
     "face",
@@ -424,33 +454,33 @@
    ]
   },
   {
-   "title": "En Europe, plusieurs centrales nucléaires à l'arrêt face aux canicules",
-   "url": "https://information.tv5monde.com/international/la-secheresse-frappe-les-balkans-le-danube-au-plus-bas-en-serbie-2831837",
-   "n_members": 64,
+   "title": "Vague migratoire à Ceuta : Von der Leyen veut une \"réponse européenne commune\" pour \"renforcer les frontières\"",
+   "url": "https://www.france24.com/fr/europe/20260730-urgence-humanitaire-%C3%A0-ceuta-apr%C3%A8s-l-arriv%C3%A9e-massive-de-migrants-l-arm%C3%A9e-envoy%C3%A9e-en-renfort",
+   "n_members": 74,
    "n_sources": 25,
    "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 7
+    "left": 4,
+    "centre": 11,
+    "right": 10
    },
    "style_counts": {
-    "factuel": 16,
-    "mixte": 8,
-    "opinion": 1
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 5
    },
-   "blindspot_score": 0.167,
+   "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.591,
-   "category": "environnement",
+   "divergence": 0.499,
+   "category": "international",
    "terms_left": [
-    "europe",
-    "roumanie",
-    "bulgarie"
+    "veut",
+    "discours",
+    "crise ceuta"
    ],
    "terms_right": [
-    "centrales",
-    "cause",
-    "centrale nucléaire"
+    "schengen",
+    "espace schengen",
+    "espace"
    ]
   },
   {
@@ -500,7 +530,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.474,
+   "divergence": 0.473,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -510,7 +540,7 @@
    "terms_right": [
     "incendie",
     "personnes",
-    "fixé"
+    "incendie var"
    ]
   },
   {
@@ -574,33 +604,33 @@
    ]
   },
   {
-   "title": "Vague migratoire à Ceuta : Von der Leyen veut une \"réponse européenne commune\" pour \"renforcer les frontières\"",
-   "url": "https://www.france24.com/fr/europe/20260730-urgence-humanitaire-%C3%A0-ceuta-apr%C3%A8s-l-arriv%C3%A9e-massive-de-migrants-l-arm%C3%A9e-envoy%C3%A9e-en-renfort",
-   "n_members": 67,
+   "title": "Juillet 2026, mois le plus chaud jamais enregistré en France",
+   "url": "https://www.lefigaro.fr/conjoncture/le-rhin-a-son-plus-bas-historique-la-secheresse-menace-un-axe-vital-de-l-industrie-allemande-20260801",
+   "n_members": 52,
    "n_sources": 24,
    "counts": {
-    "left": 4,
-    "centre": 10,
-    "right": 10
+    "left": 5,
+    "centre": 11,
+    "right": 8
    },
    "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 5
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 2
    },
-   "blindspot_score": 0.429,
+   "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.495,
-   "category": "international",
+   "divergence": 0.493,
+   "category": "environnement",
    "terms_left": [
-    "veut",
-    "discours",
-    "présidente"
+    "température",
+    "température moyenne",
+    "manque"
    ],
    "terms_right": [
-    "schengen",
-    "espace schengen",
-    "espace"
+    "jours",
+    "vacances",
+    "période"
    ]
   },
   {
@@ -770,7 +800,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.713,
+   "divergence": 0.714,
    "category": "sciences-tech",
    "terms_left": [
     "qu",
@@ -784,9 +814,39 @@
    ]
   },
   {
+   "title": "Un adolescent de 17 ans tué à Nice, le père suspecté",
+   "url": "https://www.cnews.fr/faits-divers/2026-07-27/accuse-du-meurtre-dune-fan-de-14-ans-le-chanteur-d4vd-presente-devant-le",
+   "n_members": 63,
+   "n_sources": 23,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.617,
+   "category": "faits-divers",
+   "terms_left": [
+    "services",
+    "fin",
+    "justice"
+   ],
+   "terms_right": [
+    "père",
+    "retrouvé",
+    "ans"
+   ]
+  },
+  {
    "title": "Incendie en Gironde : pourquoi des millions de pins brûlés doivent être rapidement abattus après les feux",
    "url": "https://www.leparisien.fr/gironde-33/urgent-cherche-logement-une-plate-forme-dentraide-dhebergements-lancee-pour-venir-en-aide-aux-evacues-des-incendies-25-07-2026-6HJS3QA36RFFZIYNUTMD27J3CY.php",
-   "n_members": 86,
+   "n_members": 88,
    "n_sources": 22,
    "counts": {
     "left": 2,
@@ -800,17 +860,17 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.829,
+   "divergence": 0.809,
    "category": "environnement",
    "terms_left": [
     "bois",
     "mégafeu",
-    "arbres"
+    "forêt"
    ],
    "terms_right": [
     "incendies",
-    "gironde",
-    "incendie gironde"
+    "incendie gironde",
+    "gironde"
    ]
   },
   {
@@ -830,7 +890,7 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.845,
+   "divergence": 0.85,
    "category": "environnement",
    "terms_left": [
     "canicule",
@@ -839,8 +899,8 @@
    ],
    "terms_right": [
     "chaleur",
-    "france",
-    "annonce"
+    "annonce",
+    "jusqu"
    ]
   },
   {
@@ -874,36 +934,6 @@
    ]
   },
   {
-   "title": "Un père tue son fils en l’étranglant et tente de se suicider : ce que l’on sait du drame familial qui s’est noué dans le quartier de la Madeleine à Nice",
-   "url": "https://www.cnews.fr/faits-divers/2026-07-27/accuse-du-meurtre-dune-fan-de-14-ans-le-chanteur-d4vd-presente-devant-le",
-   "n_members": 60,
-   "n_sources": 22,
-   "counts": {
-    "left": 5,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.616,
-   "category": "faits-divers",
-   "terms_left": [
-    "services",
-    "fin",
-    "justice"
-   ],
-   "terms_right": [
-    "père",
-    "retrouvé",
-    "ans"
-   ]
-  },
-  {
    "title": "Guerre en Ukraine : un navire de l'agence atomique russe Rosatom coulé en mer Noire par des drones ukrainiens",
    "url": "https://www.tf1info.fr/international/la-coree-du-nord-et-la-russie-sur-le-point-d-achever-la-construction-d-un-pont-pouvant-faciliter-la-logistique-dans-la-guerre-en-ukraine-2455563.html",
    "n_members": 60,
@@ -920,11 +950,11 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.874,
+   "divergence": 0.875,
    "category": "international",
    "terms_left": [
-    "guerre ukraine",
     "ukraine",
+    "guerre ukraine",
     "défense"
    ],
    "terms_right": [
@@ -936,7 +966,7 @@
   {
    "title": "Le ministre américain de la Justice en passe d'être confirmé par le Sénat",
    "url": "https://www.leprogres.fr/politique/2026/07/29/covid-le-cas-du-docteur-fauci-ravive-les-divisions-sur-l-origine-du-virus-et-la-gestion-de-la-pandemie",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -996,7 +1026,7 @@
   {
    "title": "Orages : deux randonneurs de 14 et 21 ans foudroyés dans les Hautes-Pyrénées, leur pronostic vital engagé",
    "url": "https://www.ladepeche.fr/2026/08/01/qui-etait-vise-de-nombreux-coups-de-feux-de-gros-calibre-tires-dans-la-nuit-a-toulouse-pas-de-victime-identifiee-13493287.php",
-   "n_members": 68,
+   "n_members": 70,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -1010,7 +1040,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.792,
+   "divergence": 0.746,
    "category": "faits-divers",
    "terms_left": [
     "armée",
@@ -1026,7 +1056,7 @@
   {
    "title": "Incendies en Gironde : Guillaume Canet, Jérémy Frérot, Laura Smet…. Les artistes lancent des appels pour aider la région",
    "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/arcachon/pas-de-fusils-sur-les-cendres-des-voix-s-elevent-contre-la-chasse-dans-les-forets-incendiees-en-gironde-et-dans-les-landes-3393778.html",
-   "n_members": 55,
+   "n_members": 56,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -1040,7 +1070,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.915,
+   "divergence": 0.914,
    "category": "environnement",
    "terms_left": [
     "forêt",
@@ -1092,7 +1122,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.574,
+   "divergence": 0.573,
    "category": "sport",
    "terms_left": [
     "nouveau",
@@ -1106,9 +1136,9 @@
    ]
   },
   {
-   "title": "L'épidémie d'Ebola en RDC : plus de 3 700 cas recensés",
+   "title": "Ebola en RDC : l’épidémie s’intensifie à un rythme «exceptionnel», 3 605 cas dont 1 587 décès recensés",
    "url": "https://www.lemonde.fr/afrique/article/2026/07/10/l-epidemie-d-ebola-toujours-hors-de-controle-se-propage-en-rdc-a-une-vitesse-record_6722502_3212.html",
-   "n_members": 68,
+   "n_members": 70,
    "n_sources": 20,
    "counts": {
     "left": 5,
@@ -1122,7 +1152,7 @@
    },
    "blindspot_score": -0.429,
    "blindspot_for": null,
-   "divergence": 0.425,
+   "divergence": 0.427,
    "category": "international",
    "terms_left": [
     "république démocratique",
@@ -1136,9 +1166,9 @@
    ]
   },
   {
-   "title": "\"On se sent tout petit, parce que les flammes sont immenses\" : de retour dans leur caserne, des pompiers mobilisés en Gironde se confient",
+   "title": "« Notre objectif est d’être là où l’on a besoin de notre aide » : après 52 heures de route, des pompiers ukrainiens viennent épauler les secours français face au mégafeu en Gironde",
    "url": "https://www.humanite.fr/-/-/les-pompiers-arrosent-le-bas-cote-pour-empecher-le-feu-de-reprendre",
-   "n_members": 63,
+   "n_members": 65,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -1154,45 +1184,8 @@
    "blindspot_for": null,
    "divergence": 0.843,
    "category": "environnement",
-   "terms_left": [
-    "feu",
-    "bloqués"
-   ],
-   "terms_right": [
-    "pompiers",
-    "gironde",
-    "flammes"
-   ]
-  },
-  {
-   "title": "Narbonne : mise en examen d'un homme pour viol et agressions sexuelles de ses filles",
-   "url": "https://www.mediapart.fr/journal/france/280726/affaire-bruel-deux-nouvelles-plaintes-deposees-l-une-pour-viol-l-autre-pour-agression-sexuelle",
-   "n_members": 63,
-   "n_sources": 20,
-   "counts": {
-    "left": 6,
-    "centre": 8,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.471,
-   "category": "faits-divers",
-   "terms_left": [
-    "viol agression",
-    "nouvelles plaintes",
-    "plaintes"
-   ],
-   "terms_right": [
-    "homme",
-    "ans",
-    "mis"
-   ]
+   "terms_left": [],
+   "terms_right": []
   }
  ]
 }
