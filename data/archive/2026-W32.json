@@ -1,6 +1,6 @@
 {
  "week": "2026-W32",
- "generated_at": "2026-08-04T02:37:39+00:00",
+ "generated_at": "2026-08-04T05:40:43+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Ceuta : au moins 72 migrants morts en voulant gagner l'enclave espagnole",
    "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
-   "n_members": 365,
+   "n_members": 373,
    "n_sources": 35,
    "counts": {
     "left": 7,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.237,
+   "divergence": 0.24,
    "category": "international",
    "terms_left": [
     "droite",
@@ -65,9 +65,9 @@
    ]
   },
   {
-   "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis et l’Iran vont se retrouver lundi pour une « négociation », selon Donald Trump",
+   "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump annonce des discussions avec l’Iran à partir de lundi",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 634,
+   "n_members": 637,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.204,
+   "divergence": 0.203,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -90,14 +90,14 @@
    ],
    "terms_right": [
     "états-unis",
-    "soldats",
-    "attaque"
+    "américains",
+    "soldats"
    ]
   },
   {
-   "title": "DIRECT. Incendies en France: le mégafeu contenu en Gironde, mais les flammes ont repris dans le Var",
+   "title": "Incendie en Gironde : le méga feu «pas fixé» mais «toujours contenu» samedi, selon les pompiers",
    "url": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-lege-cap-ferret-une-habitation-ravagee-par-le-feu-23-07_VN-202607230679.html",
-   "n_members": 349,
+   "n_members": 352,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -116,18 +116,18 @@
    "terms_left": [
     "direct",
     "retour",
-    "reprise"
+    "mégafeu"
    ],
    "terms_right": [
-    "personnes",
     "préfète",
-    "stable"
+    "stable",
+    "vigilance"
    ]
   },
   {
    "title": "Investisseurs privés à la Fifa : isolé, Gianni Infantino renonce enfin à son projet",
    "url": "https://www.ladepeche.fr/2026/07/28/il-franchit-une-limite-gianni-infantino-serait-pret-a-ceder-des-parts-de-la-fifa-pour-plusieurs-milliards-deuros-a-des-proches-de-donald-trump-13487502.php",
-   "n_members": 207,
+   "n_members": 208,
    "n_sources": 32,
    "counts": {
     "left": 7,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.182,
+   "divergence": 0.183,
    "category": "sport",
    "terms_left": [
     "veut",
@@ -185,9 +185,9 @@
    ]
   },
   {
-   "title": "Canicule : voici les 20 départements placés en vigilance orange ce lundi",
+   "title": "Canicule : voici les 18 départements placés en vigilance orange ce mardi",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 449,
+   "n_members": 453,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.298,
+   "divergence": 0.3,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -217,7 +217,7 @@
   {
    "title": "Gaza: Israël a fait part à Washington de ses «inquiétudes» concernant le plan de paix annoncé par Trump",
    "url": "https://www.sudouest.fr/international/moyen-orient/gaza/gaza-quatre-morts-dont-deux-enfants-dans-des-frappes-israeliennes-30117437.php",
-   "n_members": 83,
+   "n_members": 84,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -231,17 +231,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.199,
+   "divergence": 0.188,
    "category": "international",
    "terms_left": [
-    "forces",
-    "bande gaza",
-    "trump annonce"
+    "annonce",
+    "prévoit",
+    "bande gaza"
    ],
    "terms_right": [
-    "israël",
     "accord annoncé",
-    "étape"
+    "étape",
+    "hamas gaza"
    ]
   },
   {
@@ -274,9 +274,9 @@
    ]
   },
   {
-   "title": "Jusqu’à 40 °C attendus : le Var maintenu en vigilance orange canicule ce samedi",
+   "title": "Les Alpes-Maritimes restent en vigilance orange à la canicule, des orages annoncés : voici les secteurs où il fera le plus chaud ce lundi",
    "url": "https://www.valeursactuelles.com/clubvaleurs/societe/quand-la-canicule-met-lecologie-politique-a-lepreuve-du-reel",
-   "n_members": 136,
+   "n_members": 138,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -290,7 +290,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.712,
+   "divergence": 0.713,
    "category": "environnement",
    "terms_left": [
     "année",
@@ -336,7 +336,7 @@
   {
    "title": "Incendies en Grèce: situation \"extrêmement difficile\" en raison de vents violents",
    "url": "https://immobilier.lefigaro.fr/article/tour-montparnasse-le-principal-coproprietaire-reclame-et-obtient-l-abandon-du-mega-projet-de-renovation-20260721",
-   "n_members": 112,
+   "n_members": 113,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -350,7 +350,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.732,
+   "divergence": 0.736,
    "category": "international",
    "terms_left": [
     "lutte",
@@ -396,7 +396,7 @@
   {
    "title": "La Hongrie annonce l'arrêt inédit de sa centrale nucléaire à cause de la canicule",
    "url": "https://information.tv5monde.com/international/la-secheresse-frappe-les-balkans-le-danube-au-plus-bas-en-serbie-2831837",
-   "n_members": 58,
+   "n_members": 60,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -410,7 +410,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.584,
+   "divergence": 0.585,
    "category": "environnement",
    "terms_left": [
     "europe",
@@ -424,9 +424,9 @@
    ]
   },
   {
-   "title": "Incendie dans le Var: une importante reprise de feu, plus de 1.000 hectares parcourus par les flammes",
+   "title": "Incendie dans le Var: le porte-parole des sapeurs-pompiers du Var évoque \"une journée déterminante\"",
    "url": "https://www.cnews.fr/france/2026-07-17/incendies-les-pompiers-denoncent-des-rates-lies-des-normes-antipollution",
-   "n_members": 302,
+   "n_members": 306,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -440,16 +440,16 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.473,
+   "divergence": 0.467,
    "category": "environnement",
    "terms_left": [
     "direct",
-    "incendies",
-    "malgré"
+    "direct incendies",
+    "incendies"
    ],
    "terms_right": [
-    "personnes",
     "fixé",
+    "personnes",
     "rentrer"
    ]
   },
@@ -484,9 +484,9 @@
    ]
   },
   {
-   "title": "Suspension de Schengen avec l’Espagne : en Italie, une décision qui divise après la crise migratoire à Ceuta",
+   "title": "Vague migratoire à Ceuta : Von der Leyen veut une \"réponse européenne commune\" pour \"renforcer les frontières\"",
    "url": "https://www.france24.com/fr/europe/20260730-urgence-humanitaire-%C3%A0-ceuta-apr%C3%A8s-l-arriv%C3%A9e-massive-de-migrants-l-arm%C3%A9e-envoy%C3%A9e-en-renfort",
-   "n_members": 56,
+   "n_members": 57,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -500,7 +500,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.53,
+   "divergence": 0.531,
    "category": "international",
    "terms_left": [
     "veut",
@@ -514,9 +514,39 @@
    ]
   },
   {
+   "title": "«Opération Forteresse» : le parti britannique Reform UK veut déployer des navires de guerre face aux migrants dans la Manche",
+   "url": "https://www.blast-info.fr/emissions/2026/macron-ne-quittera-pas-le-pouvoir-en-2027-rXIU9Y8qSGqoG_inT9W0OQ",
+   "n_members": 42,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 5,
+    "opinion": 6
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.824,
+   "category": "politique",
+   "terms_left": [
+    "parti",
+    "politique",
+    "sein"
+   ],
+   "terms_right": [
+    "présidentielle",
+    "manche",
+    "français"
+   ]
+  },
+  {
    "title": "EN DIRECT, guerre en Ukraine : des attaques de drones ukrainiens ont fait six morts en Crimée et près de Krasnodar, selon les autorités russes",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 232,
+   "n_members": 237,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -530,7 +560,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.342,
+   "divergence": 0.334,
    "category": "international",
    "terms_left": [
     "russes",
@@ -540,7 +570,7 @@
    "terms_right": [
     "russie",
     "personnes",
-    "centre"
+    "drone"
    ]
   },
   {
@@ -560,7 +590,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.804,
+   "divergence": 0.807,
    "category": "environnement",
    "terms_left": [
     "face",
@@ -595,12 +625,12 @@
    "terms_left": [
     "obtenir",
     "obtenir consentement",
-    "consommateurs"
+    "électricité"
    ],
    "terms_right": [
-    "français",
     "prix",
-    "taux"
+    "français",
+    "euros"
    ]
   },
   {
@@ -664,39 +694,9 @@
    ]
   },
   {
-   "title": "«Opération Forteresse» : le parti britannique Reform UK veut déployer des navires de guerre face aux migrants dans la Manche",
-   "url": "https://www.blast-info.fr/emissions/2026/macron-ne-quittera-pas-le-pouvoir-en-2027-rXIU9Y8qSGqoG_inT9W0OQ",
-   "n_members": 37,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 4,
-    "opinion": 6
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.797,
-   "category": "politique",
-   "terms_left": [
-    "pouvoir",
-    "avance",
-    "droite"
-   ],
-   "terms_right": [
-    "présidentielle",
-    "français",
-    "année"
-   ]
-  },
-  {
-   "title": "De retour au Porge, après les incendies : « On n’a plus rien et on nous dit que le scooter n’était pas assuré »",
+   "title": "Le Porge : \"On va essayer d'aider le plus possible les copains qui ont été touchés\"",
    "url": "https://www.bfmtv.com/environnement/climat/video-incendie-dans-les-hautes-alpes-le-feu-a-une-surface-parcourue-estimee-de-130-hectares-indique-le-commandant-pierre-emmanuel-feit_VN-202607210310.html",
-   "n_members": 119,
+   "n_members": 121,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -710,7 +710,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.546,
+   "divergence": 0.543,
    "category": "environnement",
    "terms_left": [
     "plainte",
@@ -724,9 +724,9 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine : Donald Trump fait volte-face sur les missiles Patriot, pourtant \"priorité absolue\" pour Volodymyr Zelensky",
+   "title": "Ukraine : Volodymyr Zelensky limoge son ambassadrice aux États-Unis",
    "url": "https://www.ladepeche.fr/2026/07/23/video-donald-trump-imite-en-plein-meeting-par-un-participant-les-images-deviennent-virales-13481283.php",
-   "n_members": 101,
+   "n_members": 102,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -740,7 +740,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.413,
+   "divergence": 0.414,
    "category": "international",
    "terms_left": [
     "direct",
@@ -749,8 +749,8 @@
    ],
    "terms_right": [
     "missiles",
-    "iran",
-    "patriot"
+    "patriot",
+    "iran"
    ]
   },
   {
@@ -830,11 +830,11 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.883,
+   "divergence": 0.878,
    "category": "international",
    "terms_left": [
-    "ukraine",
     "guerre ukraine",
+    "ukraine",
     "défense"
    ],
    "terms_right": [
@@ -846,7 +846,7 @@
   {
    "title": "Le ministre américain de la Justice en passe d'être confirmé par le Sénat",
    "url": "https://www.leprogres.fr/politique/2026/07/29/covid-le-cas-du-docteur-fauci-ravive-les-divisions-sur-l-origine-du-virus-et-la-gestion-de-la-pandemie",
-   "n_members": 52,
+   "n_members": 53,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -860,12 +860,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.698,
+   "divergence": 0.707,
    "category": "international",
    "terms_left": [
     "justice",
     "etats-unis",
-    "ukrainienne etats-unis"
+    "nomination"
    ],
    "terms_right": [
     "donald trump",
@@ -890,7 +890,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.383,
+   "divergence": 0.382,
    "category": "faits-divers",
    "terms_left": [
     "personnes appelées",
@@ -934,6 +934,36 @@
    ]
   },
   {
+   "title": "Deux-Sèvres : 1.500 personnes rassemblées pour une rave-party interdite",
+   "url": "https://www.ladepeche.fr/2026/08/01/qui-etait-vise-de-nombreux-coups-de-feux-de-gros-calibre-tires-dans-la-nuit-a-toulouse-pas-de-victime-identifiee-13493287.php",
+   "n_members": 55,
+   "n_sources": 21,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 4,
+    "opinion": 3
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.819,
+   "category": "international",
+   "terms_left": [
+    "armée",
+    "forces",
+    "hommes"
+   ],
+   "terms_right": [
+    "ans",
+    "rave-party",
+    "deux-sèvres"
+   ]
+  },
+  {
    "title": "Russie: ce que l'on sait de l'explosion dans un café à Moscou qui a fait trois morts",
    "url": "https://www.bfmtv.com/international/asie/russie/trois-morts-et-15-blesses-dans-une-explosion-dans-un-cafe-a-moscou_AD-202608010293.html",
    "n_members": 47,
@@ -972,7 +1002,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.574,
+   "divergence": 0.575,
    "category": "sport",
    "terms_left": [
     "nouveau",
@@ -986,9 +1016,9 @@
    ]
   },
   {
-   "title": "Ebola en RDC : l’épidémie s’intensifie à un rythme «exceptionnel», 3 605 cas dont 1 587 décès recensés",
+   "title": "L'épidémie d'Ebola en RDC : plus de 3 700 cas recensés",
    "url": "https://www.lemonde.fr/afrique/article/2026/07/10/l-epidemie-d-ebola-toujours-hors-de-controle-se-propage-en-rdc-a-une-vitesse-record_6722502_3212.html",
-   "n_members": 67,
+   "n_members": 68,
    "n_sources": 20,
    "counts": {
     "left": 5,
@@ -1005,8 +1035,8 @@
    "divergence": 0.426,
    "category": "international",
    "terms_left": [
-    "démocratique congo",
     "république démocratique",
+    "démocratique congo",
     "démocratique"
    ],
    "terms_right": [
@@ -1075,36 +1105,6 @@
    ]
   },
   {
-   "title": "Deux-Sèvres : 1.500 personnes rassemblées pour une rave-party interdite",
-   "url": "https://www.ladepeche.fr/2026/08/01/qui-etait-vise-de-nombreux-coups-de-feux-de-gros-calibre-tires-dans-la-nuit-a-toulouse-pas-de-victime-identifiee-13493287.php",
-   "n_members": 50,
-   "n_sources": 20,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 4,
-    "opinion": 3
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.845,
-   "category": "faits-divers",
-   "terms_left": [
-    "armée",
-    "forces",
-    "hambourg"
-   ],
-   "terms_right": [
-    "ans",
-    "rave-party",
-    "deux-sèvres"
-   ]
-  },
-  {
    "title": "« On ne sait pas trop pourquoi ils sont là » : après le mégafeu en Gironde, 75 obus de la Seconde Guerre mondiale retrouvés au Porge",
    "url": "https://www.humanite.fr/-/-/les-habitants-du-porge-estiment-que-leur-commune-a-ete-abandonnee-et-engagent-une-action-judiciaire",
    "n_members": 44,
@@ -1151,17 +1151,17 @@
    },
    "blindspot_score": -0.2,
    "blindspot_for": null,
-   "divergence": 0.518,
+   "divergence": 0.538,
    "category": "sciences-tech",
    "terms_left": [
-    "vigueur",
     "modèles",
-    "généré"
+    "généré",
+    "encadrer"
    ],
    "terms_right": [
     "monde",
     "nouvelles",
-    "ans"
+    "entreprises"
    ]
   },
   {
@@ -1181,7 +1181,7 @@
    },
    "blindspot_score": 0.6,
    "blindspot_for": "gauche",
-   "divergence": 0.833,
+   "divergence": 0.83,
    "category": "société",
    "terms_left": [
     "délit",
@@ -1191,7 +1191,7 @@
    "terms_right": [
     "nice",
     "femme",
-    "ans"
+    "santé"
    ]
   }
  ]
