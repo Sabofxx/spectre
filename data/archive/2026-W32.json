@@ -1,6 +1,6 @@
 {
  "week": "2026-W32",
- "generated_at": "2026-08-03T22:53:21+00:00",
+ "generated_at": "2026-08-04T00:01:27+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Ceuta : au moins 72 migrants morts en voulant gagner l'enclave espagnole",
    "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
-   "n_members": 364,
+   "n_members": 365,
    "n_sources": 35,
    "counts": {
     "left": 7,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.236,
+   "divergence": 0.237,
    "category": "international",
    "terms_left": [
     "droite",
@@ -440,17 +440,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.469,
+   "divergence": 0.472,
    "category": "environnement",
    "terms_left": [
     "direct",
-    "malgré",
-    "incendies"
+    "incendies",
+    "malgré"
    ],
    "terms_right": [
     "personnes",
-    "incendie var",
-    "jours"
+    "fixé",
+    "rentrer"
    ]
   },
   {
@@ -486,7 +486,7 @@
   {
    "title": "Vague migratoire à Ceuta : Von der Leyen veut une \"réponse européenne commune\" pour \"renforcer les frontières\"",
    "url": "https://www.france24.com/fr/europe/20260730-urgence-humanitaire-%C3%A0-ceuta-apr%C3%A8s-l-arriv%C3%A9e-massive-de-migrants-l-arm%C3%A9e-envoy%C3%A9e-en-renfort",
-   "n_members": 54,
+   "n_members": 55,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -500,12 +500,12 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.535,
+   "divergence": 0.53,
    "category": "international",
    "terms_left": [
     "veut",
-    "crise ceuta",
-    "europe"
+    "discours",
+    "crise ceuta"
    ],
    "terms_right": [
     "schengen",
@@ -664,6 +664,36 @@
    ]
   },
   {
+   "title": "«Opération Forteresse» : le parti britannique Reform UK veut déployer des navires de guerre face aux migrants dans la Manche",
+   "url": "https://www.blast-info.fr/emissions/2026/macron-ne-quittera-pas-le-pouvoir-en-2027-rXIU9Y8qSGqoG_inT9W0OQ",
+   "n_members": 37,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 4,
+    "opinion": 6
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.797,
+   "category": "politique",
+   "terms_left": [
+    "pouvoir",
+    "avance",
+    "droite"
+   ],
+   "terms_right": [
+    "présidentielle",
+    "français",
+    "année"
+   ]
+  },
+  {
    "title": "De retour au Porge, après les incendies : « On n’a plus rien et on nous dit que le scooter n’était pas assuré »",
    "url": "https://www.bfmtv.com/environnement/climat/video-incendie-dans-les-hautes-alpes-le-feu-a-une-surface-parcourue-estimee-de-130-hectares-indique-le-commandant-pierre-emmanuel-feit_VN-202607210310.html",
    "n_members": 119,
@@ -800,7 +830,7 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.883,
+   "divergence": 0.882,
    "category": "international",
    "terms_left": [
     "ukraine",
@@ -810,6 +840,36 @@
    "terms_right": [
     "iran",
     "russe",
+    "états-unis"
+   ]
+  },
+  {
+   "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky limoge l’ambassadrice ukrainienne aux Etats-Unis",
+   "url": "https://www.leprogres.fr/politique/2026/07/29/covid-le-cas-du-docteur-fauci-ravive-les-divisions-sur-l-origine-du-virus-et-la-gestion-de-la-pandemie",
+   "n_members": 50,
+   "n_sources": 22,
+   "counts": {
+    "left": 3,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 1
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.698,
+   "category": "international",
+   "terms_left": [
+    "justice",
+    "etats-unis",
+    "ukrainienne etats-unis"
+   ],
+   "terms_right": [
+    "donald trump",
+    "donald",
     "états-unis"
    ]
   },
@@ -896,36 +956,6 @@
    "terms_right": []
   },
   {
-   "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky limoge l’ambassadrice ukrainienne aux Etats-Unis",
-   "url": "https://www.leprogres.fr/politique/2026/07/29/covid-le-cas-du-docteur-fauci-ravive-les-divisions-sur-l-origine-du-virus-et-la-gestion-de-la-pandemie",
-   "n_members": 46,
-   "n_sources": 21,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.705,
-   "category": "international",
-   "terms_left": [
-    "etats-unis",
-    "ukrainienne etats-unis",
-    "ambassadrice ukrainienne"
-   ],
-   "terms_right": [
-    "donald trump",
-    "donald",
-    "états-unis"
-   ]
-  },
-  {
    "title": "Zidane, la fabrique d'une légende",
    "url": "https://www.blast-info.fr/emissions/2026/zinedine-zidane-lhistoire-dun-arabe-devenu-heros-francais-gLNZ6UguS4KgJRVSUNVZ_g",
    "n_members": 39,
@@ -942,7 +972,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.575,
+   "divergence": 0.574,
    "category": "sport",
    "terms_left": [
     "nouveau",
@@ -1121,17 +1151,17 @@
    },
    "blindspot_score": 0.6,
    "blindspot_for": "gauche",
-   "divergence": 0.849,
+   "divergence": 0.833,
    "category": "société",
    "terms_left": [
-    "renforcer",
     "délit",
-    "entrave"
+    "entrave",
+    "délit entrave"
    ],
    "terms_right": [
     "nice",
-    "ans",
-    "femme"
+    "femme",
+    "ans"
    ]
   },
   {
@@ -1162,36 +1192,6 @@
     "armée",
     "taux",
     "américaine"
-   ]
-  },
-  {
-   "title": "Var : l'incendie reste contenu, les pompiers toujours mobilisés",
-   "url": "https://www.bfmtv.com/politique/video-incendies-le-budget-de-la-securite-civile-a-quasiment-double-en-10-ans-rappelle-le-ministre-de-l-interieur_VN-202607300521.html",
-   "n_members": 51,
-   "n_sources": 19,
-   "counts": {
-    "left": 5,
-    "centre": 8,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.755,
-   "category": "faits-divers",
-   "terms_left": [
-    "gironde",
-    "sécurité",
-    "civile"
-   ],
-   "terms_right": [
-    "qu",
-    "flammes",
-    "france"
    ]
   }
  ]
