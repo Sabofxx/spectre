@@ -1,9 +1,39 @@
 {
  "week": "2026-W32",
- "generated_at": "2026-08-04T17:30:36+00:00",
+ "generated_at": "2026-08-04T19:11:56+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
+  {
+   "title": "Ceuta : au moins 72 migrants morts en voulant gagner l'enclave espagnole",
+   "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
+   "n_members": 421,
+   "n_sources": 37,
+   "counts": {
+    "left": 7,
+    "centre": 17,
+    "right": 13
+   },
+   "style_counts": {
+    "factuel": 19,
+    "mixte": 11,
+    "opinion": 7
+   },
+   "blindspot_score": 0.3,
+   "blindspot_for": null,
+   "divergence": 0.252,
+   "category": "international",
+   "terms_left": [
+    "droite",
+    "jeunes",
+    "jeunes marocains"
+   ],
+   "terms_right": [
+    "migratoire ceuta",
+    "migratoire",
+    "schengen"
+   ]
+  },
   {
    "title": "EN DIRECT - Incendies : retour des habitants et des vacanciers ce lundi à Lège-Cap-Ferret et au Porge",
    "url": "https://www.leparisien.fr/faits-divers/nantes-un-bidonville-ravage-par-les-flammes-10-ha-de-vegetation-detruits-20-07-2026-INCK5Z33HNF7FCWN4KDYDXTNSU.php",
@@ -25,43 +55,13 @@
    "category": "environnement",
    "terms_left": [
     "hectares",
-    "sud-ouest",
-    "direct"
+    "milliers",
+    "sud-ouest"
    ],
    "terms_right": [
     "maire",
     "incendie gironde",
     "pompiers"
-   ]
-  },
-  {
-   "title": "Ceuta : au moins 72 migrants morts en voulant gagner l'enclave espagnole",
-   "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
-   "n_members": 410,
-   "n_sources": 36,
-   "counts": {
-    "left": 7,
-    "centre": 17,
-    "right": 12
-   },
-   "style_counts": {
-    "factuel": 19,
-    "mixte": 11,
-    "opinion": 6
-   },
-   "blindspot_score": 0.263,
-   "blindspot_for": null,
-   "divergence": 0.248,
-   "category": "international",
-   "terms_left": [
-    "droite",
-    "jeunes",
-    "jeunes marocains"
-   ],
-   "terms_right": [
-    "migratoire ceuta",
-    "migratoire",
-    "schengen"
    ]
   },
   {
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.202,
+   "divergence": 0.201,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -95,9 +95,9 @@
    ]
   },
   {
-   "title": "Incendie en Gironde : le méga feu «pas fixé» mais «toujours contenu» samedi, selon les pompiers",
+   "title": "DIRECT. Incendies en France: le feu dans le Var est stabilisé mais pas fixé, 1.800 hectares parcourus",
    "url": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-lege-cap-ferret-une-habitation-ravagee-par-le-feu-23-07_VN-202607230679.html",
-   "n_members": 352,
+   "n_members": 353,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.281,
+   "divergence": 0.278,
    "category": "environnement",
    "terms_left": [
     "retour",
@@ -121,13 +121,13 @@
    "terms_right": [
     "stable",
     "vigilance",
-    "feux"
+    "incendie gironde"
    ]
   },
   {
-   "title": "Projet controversé de la Fifa : Infantino a \"perdu la confiance\" de l'UEFA",
+   "title": "Fifa : Gianni Infantino sous pression après l'échec de son nouveau projet",
    "url": "https://www.ladepeche.fr/2026/07/28/il-franchit-une-limite-gianni-infantino-serait-pret-a-ceder-des-parts-de-la-fifa-pour-plusieurs-milliards-deuros-a-des-proches-de-donald-trump-13487502.php",
-   "n_members": 210,
+   "n_members": 211,
    "n_sources": 32,
    "counts": {
     "left": 7,
@@ -146,18 +146,18 @@
    "terms_left": [
     "veut",
     "plan",
-    "ouverture fifa"
+    "privatisation"
    ],
    "terms_right": [
     "privés fifa",
-    "projet controversé",
-    "instance"
+    "patron",
+    "projet controversé"
    ]
   },
   {
    "title": "Xenia Fedorova perd son recours contre l'expulsion de France",
    "url": "https://www.bvoltaire.fr/entretien-je-ne-vais-pas-marreter-et-me-censurer/",
-   "n_members": 112,
+   "n_members": 113,
    "n_sources": 32,
    "counts": {
     "left": 8,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.213,
+   "divergence": 0.215,
    "category": "international",
    "terms_left": [
     "propagandiste",
@@ -180,8 +180,8 @@
    ],
    "terms_right": [
     "chroniqueuse",
-    "recours référé-liberté",
-    "référé-liberté"
+    "recours",
+    "recours référé-liberté"
    ]
   },
   {
@@ -366,7 +366,7 @@
   {
    "title": "Le niveau historiquement bas du Danube source de tensions sur le réseau électrique en Europe centrale",
    "url": "https://information.tv5monde.com/international/la-secheresse-frappe-les-balkans-le-danube-au-plus-bas-en-serbie-2831837",
-   "n_members": 68,
+   "n_members": 69,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -440,12 +440,12 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.538,
+   "divergence": 0.536,
    "category": "environnement",
    "terms_left": [
-    "plainte",
     "sauver",
-    "désolation"
+    "désolation",
+    "complotistes"
    ],
    "terms_right": [
     "incendie",
@@ -486,7 +486,7 @@
   {
    "title": "Vague migratoire à Ceuta : Von der Leyen veut une \"réponse européenne commune\" pour \"renforcer les frontières\"",
    "url": "https://www.france24.com/fr/europe/20260730-urgence-humanitaire-%C3%A0-ceuta-apr%C3%A8s-l-arriv%C3%A9e-massive-de-migrants-l-arm%C3%A9e-envoy%C3%A9e-en-renfort",
-   "n_members": 76,
+   "n_members": 78,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -500,17 +500,17 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.499,
+   "divergence": 0.5,
    "category": "international",
    "terms_left": [
     "veut",
     "discours",
-    "solidarité"
+    "présidente"
    ],
    "terms_right": [
     "schengen",
     "espace schengen",
-    "espace"
+    "ministres"
    ]
   },
   {
@@ -560,7 +560,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.469,
+   "divergence": 0.466,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -570,7 +570,7 @@
    "terms_right": [
     "incendie",
     "incendie var",
-    "personnes"
+    "parcouru"
    ]
   },
   {
@@ -604,9 +604,9 @@
    ]
   },
   {
-   "title": "Un adolescent de 17 ans tué à Nice, le père suspecté",
+   "title": "Marseille : un bébé de deux ans retrouvé mort, des proches mis en cause",
    "url": "https://www.cnews.fr/faits-divers/2026-07-27/accuse-du-meurtre-dune-fan-de-14-ans-le-chanteur-d4vd-presente-devant-le",
-   "n_members": 67,
+   "n_members": 69,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -620,7 +620,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.601,
+   "divergence": 0.606,
    "category": "faits-divers",
    "terms_left": [
     "services",
@@ -636,7 +636,7 @@
   {
    "title": "Juillet 2026, mois le plus chaud jamais enregistré en France",
    "url": "https://www.lefigaro.fr/conjoncture/le-rhin-a-son-plus-bas-historique-la-secheresse-menace-un-axe-vital-de-l-industrie-allemande-20260801",
-   "n_members": 55,
+   "n_members": 56,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -650,7 +650,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.497,
+   "divergence": 0.491,
    "category": "environnement",
    "terms_left": [
     "température",
@@ -666,7 +666,7 @@
   {
    "title": "Russie : au moins cinq morts dans une attaque de drones contre la région de Moscou",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 252,
+   "n_members": 253,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -680,7 +680,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.336,
+   "divergence": 0.332,
    "category": "international",
    "terms_left": [
     "russes",
@@ -810,7 +810,7 @@
    "terms_right": [
     "france",
     "incendies",
-    "interpellations"
+    "personnes"
    ]
   },
   {
@@ -920,7 +920,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.706,
+   "divergence": 0.705,
    "category": "international",
    "terms_left": [
     "nombre",
@@ -1040,12 +1040,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.752,
+   "divergence": 0.743,
    "category": "faits-divers",
    "terms_left": [
     "armée",
-    "forces",
-    "hommes"
+    "hommes",
+    "armés"
    ],
    "terms_right": [
     "ans",
@@ -1056,7 +1056,7 @@
   {
    "title": "Incendies en Gironde : Guillaume Canet, Jérémy Frérot, Laura Smet…. Les artistes lancent des appels pour aider la région",
    "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/arcachon/pas-de-fusils-sur-les-cendres-des-voix-s-elevent-contre-la-chasse-dans-les-forets-incendiees-en-gironde-et-dans-les-landes-3393778.html",
-   "n_members": 58,
+   "n_members": 59,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -1070,12 +1070,12 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.913,
+   "divergence": 0.911,
    "category": "environnement",
    "terms_left": [
     "cendres",
-    "forêt",
-    "chasse"
+    "chasse",
+    "forêt"
    ],
    "terms_right": [
     "gironde",
@@ -1100,12 +1100,12 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.164,
+   "divergence": 0.169,
    "category": "sport",
    "terms_left": [
+    "alpinistes",
     "mort avalanche",
-    "emporté",
-    "alpinistes"
+    "mort"
    ],
    "terms_right": [
     "retrouvé",
@@ -1186,8 +1186,8 @@
    "category": "international",
    "terms_left": [
     "mois",
-    "démocratique congo",
-    "république démocratique"
+    "république démocratique",
+    "démocratique congo"
    ],
    "terms_right": [
     "virus",
