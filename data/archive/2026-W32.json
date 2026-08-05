@@ -1,13 +1,13 @@
 {
  "week": "2026-W32",
- "generated_at": "2026-08-05T09:18:57+00:00",
+ "generated_at": "2026-08-05T11:36:46+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Ceuta : au moins 72 migrants morts en voulant gagner l'enclave espagnole",
    "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
-   "n_members": 429,
+   "n_members": 430,
    "n_sources": 37,
    "counts": {
     "left": 7,
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.259,
+   "divergence": 0.256,
    "category": "international",
    "terms_left": [
     "droite",
     "jeunes",
-    "personnes"
+    "jeunes marocains"
    ],
    "terms_right": [
     "migratoire ceuta",
@@ -91,13 +91,13 @@
    "terms_right": [
     "états-unis",
     "soldats",
-    "armée"
+    "détroit"
    ]
   },
   {
-   "title": "Mégafeu en Gironde : situation « stable » ce dimanche, des habitants n’ont pas encore regagné leurs foyers",
+   "title": "EN DIRECT, l’incendie n’est « pas encore fixé » dans le Var ; les sapeurs-pompiers bataillent contre un nouveau feu à Carcassonne",
    "url": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-lege-cap-ferret-une-habitation-ravagee-par-le-feu-23-07_VN-202607230679.html",
-   "n_members": 355,
+   "n_members": 356,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -119,15 +119,15 @@
     "retour"
    ],
    "terms_right": [
-    "incendie gironde",
     "annonce",
+    "incendie gironde",
     "feux"
    ]
   },
   {
    "title": "Fifa : Gianni Infantino sous pression après l'échec de son nouveau projet",
    "url": "https://www.ladepeche.fr/2026/07/28/il-franchit-une-limite-gianni-infantino-serait-pret-a-ceder-des-parts-de-la-fifa-pour-plusieurs-milliards-deuros-a-des-proches-de-donald-trump-13487502.php",
-   "n_members": 218,
+   "n_members": 222,
    "n_sources": 32,
    "counts": {
     "left": 7,
@@ -141,17 +141,17 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.181,
+   "divergence": 0.179,
    "category": "sport",
    "terms_left": [
     "veut",
     "plan",
-    "ouvrir"
+    "renonce"
    ],
    "terms_right": [
     "privés fifa",
-    "patron",
-    "ans"
+    "instance",
+    "patron"
    ]
   },
   {
@@ -187,7 +187,7 @@
   {
    "title": "Canicule : voici les 18 départements placés en vigilance orange ce mardi",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 473,
+   "n_members": 474,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -320,7 +320,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.769,
+   "divergence": 0.77,
    "category": "environnement",
    "terms_left": [
     "réchauffement",
@@ -366,7 +366,7 @@
   {
    "title": "Le niveau historiquement bas du Danube source de tensions sur le réseau électrique en Europe centrale",
    "url": "https://information.tv5monde.com/international/la-secheresse-frappe-les-balkans-le-danube-au-plus-bas-en-serbie-2831837",
-   "n_members": 73,
+   "n_members": 74,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -380,17 +380,47 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.516,
+   "divergence": 0.526,
    "category": "environnement",
    "terms_left": [
     "europe",
-    "roumanie",
-    "pays"
+    "sécheresse",
+    "roumanie"
    ],
    "terms_right": [
     "centrales",
     "électricité",
     "cuba"
+   ]
+  },
+  {
+   "title": "Guerre en Ukraine. Quinze personnes tuées à Kiev et dans ses environs, des entrepôts touchés",
+   "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
+   "n_members": 283,
+   "n_sources": 26,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.317,
+   "category": "international",
+   "terms_left": [
+    "russes",
+    "missiles",
+    "direct"
+   ],
+   "terms_right": [
+    "personnes",
+    "attaque drones",
+    "russie"
    ]
   },
   {
@@ -410,7 +440,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.737,
+   "divergence": 0.738,
    "category": "international",
    "terms_left": [
     "sites",
@@ -420,13 +450,13 @@
    "terms_right": [
     "grèce",
     "incendies",
-    "face"
+    "incendie"
    ]
   },
   {
    "title": "Crise migratoire à Ceuta : ce qu’il faut retenir de la réunion d’urgence entre les ministres de l’Intérieur européens",
    "url": "https://www.france24.com/fr/europe/20260730-urgence-humanitaire-%C3%A0-ceuta-apr%C3%A8s-l-arriv%C3%A9e-massive-de-migrants-l-arm%C3%A9e-envoy%C3%A9e-en-renfort",
-   "n_members": 81,
+   "n_members": 84,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -440,23 +470,23 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.487,
+   "divergence": 0.489,
    "category": "international",
    "terms_left": [
     "gouvernement",
     "veut",
-    "discours"
+    "droite"
    ],
    "terms_right": [
     "schengen",
     "espace schengen",
-    "ministres"
+    "espace"
    ]
   },
   {
    "title": "Juillet 2026, mois le plus chaud jamais enregistré en France",
    "url": "https://www.lefigaro.fr/conjoncture/le-rhin-a-son-plus-bas-historique-la-secheresse-menace-un-axe-vital-de-l-industrie-allemande-20260801",
-   "n_members": 61,
+   "n_members": 64,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -470,7 +500,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.478,
+   "divergence": 0.473,
    "category": "environnement",
    "terms_left": [
     "température",
@@ -478,9 +508,9 @@
     "manque"
    ],
    "terms_right": [
-    "vacances",
-    "pays",
-    "jours"
+    "période",
+    "jours",
+    "vacances"
    ]
   },
   {
@@ -500,7 +530,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.532,
+   "divergence": 0.531,
    "category": "environnement",
    "terms_left": [
     "sébastien",
@@ -530,7 +560,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.688,
+   "divergence": 0.689,
    "category": "économie",
    "terms_left": [
     "face",
@@ -560,7 +590,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.466,
+   "divergence": 0.456,
    "category": "culture",
    "terms_left": [
     "odyssée christopher",
@@ -604,39 +634,9 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine. Quinze personnes tuées à Kiev et dans ses environs, des entrepôts touchés",
-   "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 275,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 1
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.315,
-   "category": "international",
-   "terms_left": [
-    "guerre ukraine",
-    "guerre",
-    "direct"
-   ],
-   "terms_right": [
-    "personnes",
-    "attaque drones",
-    "russie"
-   ]
-  },
-  {
    "title": "« En pleine forme » : au Brésil, à 80 ans, Lula se lance dans la campagne présidentielle et brigue un quatrième mandat",
    "url": "https://www.20minutes.fr/politique/assemblee_nationale/4234766-20260719-presidentielle-2027-revanchard-francois-hollande-peut-etre-joker-cache-gauche",
-   "n_members": 91,
+   "n_members": 92,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -650,23 +650,23 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.63,
+   "divergence": 0.629,
    "category": "politique",
    "terms_left": [
     "candidature",
-    "campagne",
-    "président"
+    "président",
+    "ex-président"
    ],
    "terms_right": [
-    "ancien",
     "trump",
-    "qu"
+    "qu",
+    "ancien"
    ]
   },
   {
    "title": "Marseille : un bébé de deux ans retrouvé mort, des proches mis en cause",
    "url": "https://www.cnews.fr/faits-divers/2026-07-27/accuse-du-meurtre-dune-fan-de-14-ans-le-chanteur-d4vd-presente-devant-le",
-   "n_members": 72,
+   "n_members": 74,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -832,16 +832,8 @@
    "blindspot_for": null,
    "divergence": 0.754,
    "category": "environnement",
-   "terms_left": [
-    "volontaires",
-    "feu",
-    "feux"
-   ],
-   "terms_right": [
-    "incendies",
-    "france",
-    "personnes"
-   ]
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Google retire un nouvel outil d’images satellitaires générées par IA de Google Earth après des critiques sur les risques de désinformation",
@@ -874,6 +866,36 @@
    ]
   },
   {
+   "title": "Guerre au Moyen-Orient : l'Italie accueille ce mardi une nouvelle session de pourparlers entre Israël et le Liban",
+   "url": "https://www.nicematin.com/info-trafic/plus-d-1h15-de-bouchons-un-accident-a-hauteur-de-nice-provoque-un-gros-ralentissement-sur-l-autoroute-a8-10697889",
+   "n_members": 51,
+   "n_sources": 23,
+   "counts": {
+    "left": 2,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 5,
+    "opinion": 3
+   },
+   "blindspot_score": 0.556,
+   "blindspot_for": null,
+   "divergence": 0.914,
+   "category": "international",
+   "terms_left": [
+    "zones",
+    "sud",
+    "armée"
+   ],
+   "terms_right": [
+    "guerre",
+    "moyen-orient",
+    "ukraine"
+   ]
+  },
+  {
    "title": "Incendie en Gironde : pourquoi des millions de pins brûlés doivent être rapidement abattus après les feux",
    "url": "https://www.leparisien.fr/gironde-33/urgent-cherche-logement-une-plate-forme-dentraide-dhebergements-lancee-pour-venir-en-aide-aux-evacues-des-incendies-25-07-2026-6HJS3QA36RFFZIYNUTMD27J3CY.php",
    "n_members": 88,
@@ -890,7 +912,7 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.809,
+   "divergence": 0.808,
    "category": "environnement",
    "terms_left": [
     "bois",
@@ -980,7 +1002,7 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.876,
+   "divergence": 0.87,
    "category": "international",
    "terms_left": [
     "ukraine",
@@ -991,6 +1013,36 @@
     "iran",
     "états-unis",
     "moyen-orient"
+   ]
+  },
+  {
+   "title": "Incendies aux États-Unis : des milliers de personnes évacuées, plus de 80.000 hectares brûlés dans l'État de Washington",
+   "url": "https://www.lefigaro.fr/international/etats-unis-fusillade-mortelle-dans-un-restaurant-de-l-idaho-20260802",
+   "n_members": 55,
+   "n_sources": 22,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.585,
+   "category": "international",
+   "terms_left": [
+    "flammes",
+    "incendies",
+    "nord-ouest"
+   ],
+   "terms_right": [
+    "états-unis",
+    "milliers",
+    "milliers personnes"
    ]
   },
   {
@@ -1010,17 +1062,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.383,
+   "divergence": 0.334,
    "category": "faits-divers",
    "terms_left": [
     "personnes appelées",
     "suez",
-    "nouvel"
+    "site"
    ],
    "terms_right": [
-    "entrepôt",
     "incendie entrepôt",
-    "incendie"
+    "entrepôt",
+    "habitants"
    ]
   },
   {
@@ -1049,8 +1101,8 @@
    ],
    "terms_right": [
     "ans",
-    "randonneurs",
-    "hautes-pyrénées"
+    "hautes-pyrénées",
+    "randonneurs"
    ]
   },
   {
@@ -1070,7 +1122,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.905,
+   "divergence": 0.903,
    "category": "environnement",
    "terms_left": [
     "cendres",
@@ -1100,47 +1152,17 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.169,
+   "divergence": 0.159,
    "category": "sport",
    "terms_left": [
-    "alpinistes",
-    "mort avalanche",
-    "mort"
+    "peak",
+    "broad peak",
+    "broad"
    ],
    "terms_right": [
-    "retrouvé",
-    "corps alpiniste",
-    "club"
-   ]
-  },
-  {
-   "title": "Incendies aux États-Unis : des milliers de personnes évacuées, plus de 80.000 hectares brûlés dans l'État de Washington",
-   "url": "https://www.lefigaro.fr/international/etats-unis-fusillade-mortelle-dans-un-restaurant-de-l-idaho-20260802",
-   "n_members": 52,
-   "n_sources": 21,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.568,
-   "category": "international",
-   "terms_left": [
-    "incendies",
-    "flammes",
-    "ville"
-   ],
-   "terms_right": [
-    "incendie",
-    "morts",
-    "images"
+    "personnes",
+    "pakistan",
+    "alpiniste nirmal"
    ]
   },
   {
@@ -1164,36 +1186,6 @@
    "category": "international",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Guerre au Moyen-Orient : l'Italie accueille ce mardi une nouvelle session de pourparlers entre Israël et le Liban",
-   "url": "https://www.nicematin.com/info-trafic/plus-d-1h15-de-bouchons-un-accident-a-hauteur-de-nice-provoque-un-gros-ralentissement-sur-l-autoroute-a8-10697889",
-   "n_members": 45,
-   "n_sources": 21,
-   "counts": {
-    "left": 2,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 4,
-    "opinion": 3
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.911,
-   "category": "international",
-   "terms_left": [
-    "zones",
-    "sud",
-    "armée"
-   ],
-   "terms_right": [
-    "moyen-orient",
-    "guerre",
-    "mois"
-   ]
   }
  ]
 }
