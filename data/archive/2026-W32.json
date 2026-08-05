@@ -1,13 +1,13 @@
 {
  "week": "2026-W32",
- "generated_at": "2026-08-05T00:57:46+00:00",
+ "generated_at": "2026-08-05T03:55:07+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Ceuta : au moins 72 migrants morts en voulant gagner l'enclave espagnole",
    "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
-   "n_members": 423,
+   "n_members": 424,
    "n_sources": 37,
    "counts": {
     "left": 7,
@@ -181,7 +181,7 @@
    "terms_right": [
     "chroniqueuse",
     "recours",
-    "référé-liberté"
+    "recours référé-liberté"
    ]
   },
   {
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.874,
+   "divergence": 0.875,
    "category": "politique",
    "terms_left": [
     "parti",
@@ -366,7 +366,7 @@
   {
    "title": "Le niveau historiquement bas du Danube source de tensions sur le réseau électrique en Europe centrale",
    "url": "https://information.tv5monde.com/international/la-secheresse-frappe-les-balkans-le-danube-au-plus-bas-en-serbie-2831837",
-   "n_members": 70,
+   "n_members": 71,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -421,6 +421,36 @@
     "grèce",
     "incendies",
     "face"
+   ]
+  },
+  {
+   "title": "Juillet 2026, mois le plus chaud jamais enregistré en France",
+   "url": "https://www.lefigaro.fr/conjoncture/le-rhin-a-son-plus-bas-historique-la-secheresse-menace-un-axe-vital-de-l-industrie-allemande-20260801",
+   "n_members": 59,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.478,
+   "category": "environnement",
+   "terms_left": [
+    "température",
+    "température moyenne",
+    "manque"
+   ],
+   "terms_right": [
+    "vacances",
+    "jours",
+    "période"
    ]
   },
   {
@@ -544,36 +574,6 @@
    ]
   },
   {
-   "title": "Juillet 2026, mois le plus chaud jamais enregistré en France",
-   "url": "https://www.lefigaro.fr/conjoncture/le-rhin-a-son-plus-bas-historique-la-secheresse-menace-un-axe-vital-de-l-industrie-allemande-20260801",
-   "n_members": 57,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.492,
-   "category": "environnement",
-   "terms_left": [
-    "température",
-    "température moyenne",
-    "manque"
-   ],
-   "terms_right": [
-    "vacances",
-    "jours",
-    "période"
-   ]
-  },
-  {
    "title": "Incendie dans le Var: \"On a déploré deux reprises de feu\", annonce le préfet",
    "url": "https://www.cnews.fr/france/2026-07-17/incendies-les-pompiers-denoncent-des-rates-lies-des-normes-antipollution",
    "n_members": 308,
@@ -620,7 +620,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.621,
+   "divergence": 0.619,
    "category": "politique",
    "terms_left": [
     "brésil lula",
@@ -628,9 +628,9 @@
     "extrême"
    ],
    "terms_right": [
-    "candidat",
     "élection présidentielle",
-    "élection"
+    "élection",
+    "candidat"
    ]
   },
   {
@@ -666,7 +666,7 @@
   {
    "title": "Russie : au moins cinq morts dans une attaque de drones contre la région de Moscou",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 255,
+   "n_members": 256,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -680,7 +680,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.329,
+   "divergence": 0.332,
    "category": "international",
    "terms_left": [
     "russes",
@@ -800,7 +800,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.766,
+   "divergence": 0.767,
    "category": "environnement",
    "terms_left": [
     "volontaires",
@@ -1130,7 +1130,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.554,
+   "divergence": 0.557,
    "category": "international",
    "terms_left": [
     "incendies",
