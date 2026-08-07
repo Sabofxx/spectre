@@ -1,13 +1,13 @@
 {
  "week": "2026-W32",
- "generated_at": "2026-08-07T18:40:59+00:00",
+ "generated_at": "2026-08-07T19:45:30+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "Crise migratoire à Ceuta: au moins 72.000 migrants sont entrés illégalement, dont 70.000 déjà repartis",
+   "title": "Espagne. Crise migratoire à Ceuta : au moins 141 morts et un bilan pouvant encore s'alourdir",
    "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
-   "n_members": 454,
+   "n_members": 456,
    "n_sources": 37,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.172,
+   "divergence": 0.17,
    "category": "sport",
    "terms_left": [
     "plan",
@@ -180,14 +180,14 @@
    ],
    "terms_right": [
     "crise",
-    "privés fifa",
-    "erreurs"
+    "erreurs",
+    "réunion"
    ]
   },
   {
    "title": "Canicule : voici les 12 départements placés en vigilance orange ce samedi",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 518,
+   "n_members": 519,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.292,
+   "divergence": 0.291,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -241,7 +241,7 @@
    "terms_right": [
     "hamas gaza",
     "accord annoncé",
-    "complet hamas"
+    "désarmement complet"
    ]
   },
   {
@@ -470,7 +470,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.593,
+   "divergence": 0.59,
    "category": "international",
    "terms_left": [
     "maternités",
@@ -480,7 +480,7 @@
    "terms_right": [
     "migratoire",
     "migrants",
-    "ceuta"
+    "el niño"
    ]
   },
   {
@@ -590,7 +590,7 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.486,
+   "divergence": 0.495,
    "category": "international",
    "terms_left": [
     "crise ceuta",
@@ -680,7 +680,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.584,
+   "divergence": 0.583,
    "category": "faits-divers",
    "terms_left": [
     "tentatives",
@@ -740,17 +740,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.649,
+   "divergence": 0.644,
    "category": "société",
    "terms_left": [
+    "easyjet",
     "conditions",
-    "conditions travail",
-    "easyjet"
+    "travail"
    ],
    "terms_right": [
     "éclipse",
-    "ans",
-    "soleil"
+    "totale",
+    "ans"
    ]
   },
   {
@@ -786,7 +786,7 @@
   {
    "title": "Allemagne : ce que l'on sait de la découverte d'un drone équipé d'un engin explosif à l'aéroport de Leipzig",
    "url": "https://www.lefigaro.fr/international/un-objet-volant-non-identifie-le-trafic-de-l-aeroport-de-leipzig-en-allemagne-perturbe-20260805",
-   "n_members": 61,
+   "n_members": 62,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -800,7 +800,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.359,
+   "divergence": 0.35,
    "category": "international",
    "terms_left": [
     "stratégique",
@@ -811,6 +811,36 @@
     "avion",
     "incident",
     "police"
+   ]
+  },
+  {
+   "title": "Corse : après une conférence de presse clandestine du FLNC, le parquet antiterroriste ouvre une enquête",
+   "url": "https://www.sudouest.fr/corse/corse-restez-chez-vous-les-independantistes-du-flnc-rejettent-le-projet-d-autonomie-et-menacent-les-nouveaux-residents-venus-s-installer-sur-l-ile-30177569.php",
+   "n_members": 43,
+   "n_sources": 25,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.373,
+   "category": "société",
+   "terms_left": [
+    "menace non-corses",
+    "média",
+    "extrême"
+   ],
+   "terms_right": [
+    "corse",
+    "antiterroriste",
+    "parquet antiterroriste"
    ]
   },
   {
@@ -994,36 +1024,6 @@
    ]
   },
   {
-   "title": "Corse : après une conférence de presse clandestine du FLNC, le parquet antiterroriste ouvre une enquête",
-   "url": "https://www.sudouest.fr/corse/corse-restez-chez-vous-les-independantistes-du-flnc-rejettent-le-projet-d-autonomie-et-menacent-les-nouveaux-residents-venus-s-installer-sur-l-ile-30177569.php",
-   "n_members": 34,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.356,
-   "category": "société",
-   "terms_left": [
-    "menace non-corses",
-    "processus",
-    "mascarade"
-   ],
-   "terms_right": [
-    "antiterroriste",
-    "corse",
-    "parquet"
-   ]
-  },
-  {
    "title": "Volodymyr Zelensky limoge l'ambassadrice d'Ukraine aux États-Unis",
    "url": "https://www.ladepeche.fr/2026/07/23/video-donald-trump-imite-en-plein-meeting-par-un-participant-les-images-deviennent-virales-13481283.php",
    "n_members": 107,
@@ -1100,11 +1100,11 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.784,
+   "divergence": 0.786,
    "category": "environnement",
    "terms_left": [
-    "reportage",
     "monde",
+    "jusqu",
     "suite"
    ],
    "terms_right": [
