@@ -1,13 +1,13 @@
 {
  "week": "2026-W32",
- "generated_at": "2026-08-06T14:45:12+00:00",
+ "generated_at": "2026-08-07T00:23:51+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "Crise migratoire à Ceuta : quelles réponses en Europe ?",
+   "title": "Crise à Ceuta : 70.000 des 72.000 migrants entrés illégalement retournés au Maroc, selon Madrid",
    "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
-   "n_members": 440,
+   "n_members": 448,
    "n_sources": 37,
    "counts": {
     "left": 7,
@@ -59,15 +59,15 @@
     "sud-ouest"
    ],
    "terms_right": [
-    "maire",
     "incendie gironde",
+    "maire",
     "pompiers"
    ]
   },
   {
-   "title": "Guerre au Moyen-Orient: l'Iran et Oman sur la voie d'un accord autour du détroit d'Ormuz",
+   "title": "Moyen-orient : Trump dit que soit le détroit d'Ormuz «ouvrira très bientôt», soit l'Iran sera frappé «très fort»",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 664,
+   "n_members": 667,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -81,11 +81,11 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.194,
+   "divergence": 0.192,
    "category": "international",
    "terms_left": [
-    "etats-unis",
     "direct guerre",
+    "etats-unis",
     "direct"
    ],
    "terms_right": [
@@ -111,12 +111,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.279,
+   "divergence": 0.278,
    "category": "environnement",
    "terms_left": [
     "mégafeu gironde",
-    "retour",
-    "mégafeu"
+    "mégafeu",
+    "retour"
    ],
    "terms_right": [
     "incendie gironde",
@@ -125,9 +125,39 @@
    ]
   },
   {
+   "title": "\"Persécution politique\" : la diplomatie russe condamne l'arrêté d'expulsion de la chroniqueuse Xenia Fedorova",
+   "url": "https://www.bvoltaire.fr/entretien-je-ne-vais-pas-marreter-et-me-censurer/",
+   "n_members": 124,
+   "n_sources": 33,
+   "counts": {
+    "left": 8,
+    "centre": 16,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 12,
+    "opinion": 3
+   },
+   "blindspot_score": 0.059,
+   "blindspot_for": null,
+   "divergence": 0.187,
+   "category": "international",
+   "terms_left": [
+    "propagandiste",
+    "russe",
+    "france"
+   ],
+   "terms_right": [
+    "chroniqueuse",
+    "canal",
+    "russie"
+   ]
+  },
+  {
    "title": "Fifa : des excuses après la polémique sur l’ouverture du Mondial aux investisseurs privés",
    "url": "https://www.ladepeche.fr/2026/07/28/il-franchit-une-limite-gianni-infantino-serait-pret-a-ceder-des-parts-de-la-fifa-pour-plusieurs-milliards-deuros-a-des-proches-de-donald-trump-13487502.php",
-   "n_members": 250,
+   "n_members": 254,
    "n_sources": 32,
    "counts": {
     "left": 7,
@@ -145,49 +175,19 @@
    "category": "sport",
    "terms_left": [
     "plan",
-    "veut",
-    "renonce"
+    "renonce",
+    "veut"
    ],
    "terms_right": [
-    "crise",
     "privés fifa",
+    "crise",
     "erreurs"
    ]
   },
   {
-   "title": "Xenia Fedorova, propagandiste pro-Poutine : l’arrêté d’expulsion pris par la France est une « persécution politique », assure la diplomatie russe",
-   "url": "https://www.bvoltaire.fr/entretien-je-ne-vais-pas-marreter-et-me-censurer/",
-   "n_members": 121,
-   "n_sources": 32,
-   "counts": {
-    "left": 8,
-    "centre": 16,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 18,
-    "mixte": 11,
-    "opinion": 3
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.202,
-   "category": "international",
-   "terms_left": [
-    "propagandiste",
-    "russe",
-    "france"
-   ],
-   "terms_right": [
-    "chroniqueuse",
-    "accusée",
-    "canal"
-   ]
-  },
-  {
-   "title": "Canicule : voici les 18 départements placés en vigilance orange ce mardi",
+   "title": "Canicule : voici les 10 départements placés en vigilance orange ce jeudi",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 495,
+   "n_members": 497,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,12 +201,12 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.286,
+   "divergence": 0.29,
    "category": "environnement",
    "terms_left": [
     "direct",
-    "incendies",
-    "direct incendies"
+    "direct incendies",
+    "incendies"
    ],
    "terms_right": [
     "placés",
@@ -231,16 +231,16 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.192,
+   "divergence": 0.199,
    "category": "international",
    "terms_left": [
+    "bande gaza",
     "accepté",
-    "ministre",
-    "israël accepté"
+    "bande"
    ],
    "terms_right": [
-    "accord annoncé",
     "hamas gaza",
+    "accord annoncé",
     "israël"
    ]
   },
@@ -261,12 +261,12 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.872,
+   "divergence": 0.862,
    "category": "politique",
    "terms_left": [
     "parti",
     "préfecture",
-    "oppose"
+    "macron"
    ],
    "terms_right": [
     "présidentielle",
@@ -320,7 +320,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.773,
+   "divergence": 0.772,
    "category": "environnement",
    "terms_left": [
     "réchauffement",
@@ -350,7 +350,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.714,
+   "divergence": 0.713,
    "category": "environnement",
    "terms_left": [
     "année",
@@ -366,7 +366,7 @@
   {
    "title": "Le niveau historiquement bas du Danube source de tensions sur le réseau électrique en Europe centrale",
    "url": "https://information.tv5monde.com/international/la-secheresse-frappe-les-balkans-le-danube-au-plus-bas-en-serbie-2831837",
-   "n_members": 79,
+   "n_members": 80,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -380,23 +380,23 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.541,
+   "divergence": 0.552,
    "category": "environnement",
    "terms_left": [
-    "historiquement bas",
     "historiquement",
-    "pays"
+    "historiquement bas",
+    "roumanie"
    ],
    "terms_right": [
+    "réacteurs",
     "centrales",
-    "arrêt",
-    "canicule"
+    "arrêt"
    ]
   },
   {
    "title": "Ukraine : des frappes russes font au moins 17 morts dans la région de Kiev",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 320,
+   "n_members": 325,
    "n_sources": 26,
    "counts": {
     "left": 7,
@@ -410,7 +410,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.316,
+   "divergence": 0.314,
    "category": "international",
    "terms_left": [
     "guerre ukraine",
@@ -418,9 +418,9 @@
     "guerre"
    ],
    "terms_right": [
-    "air",
-    "armée air",
-    "russie"
+    "russie",
+    "attaque drones",
+    "air"
    ]
   },
   {
@@ -440,7 +440,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.528,
+   "divergence": 0.527,
    "category": "environnement",
    "terms_left": [
     "sauver",
@@ -500,7 +500,7 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.489,
+   "divergence": 0.49,
    "category": "international",
    "terms_left": [
     "crise ceuta",
@@ -510,7 +510,37 @@
    "terms_right": [
     "schengen",
     "migratoire ceuta",
-    "intérieur"
+    "migratoire"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : Gabriel Attal visé par « une ingérence en provenance de Russie », selon son entourage",
+   "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-15-euros-pour-voter-a-la-primaire-du-parti-socialiste-cest-trop-cher-deplore-segolene-royal-03-08-2026-3X77I6EN4RHIZFRDVHD3VG6SKQ.php",
+   "n_members": 82,
+   "n_sources": 26,
+   "counts": {
+    "left": 8,
+    "centre": 12,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": -0.143,
+   "blindspot_for": null,
+   "divergence": 0.364,
+   "category": "politique",
+   "terms_left": [
+    "réseau",
+    "salamé",
+    "storm"
+   ],
+   "terms_right": [
+    "élection",
+    "gabriel attal",
+    "gabriel"
    ]
   },
   {
@@ -530,23 +560,23 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.466,
+   "divergence": 0.475,
    "category": "environnement",
    "terms_left": [
+    "eau",
     "température",
-    "température moyenne",
-    "eau"
+    "cours"
    ],
    "terms_right": [
-    "période",
     "vacances",
-    "jours"
+    "france début",
+    "pays"
    ]
   },
   {
    "title": "Des frappes israéliennes dans le sud du Liban font un mort et plusieurs blessés",
    "url": "https://www.nicematin.com/info-trafic/plus-d-1h15-de-bouchons-un-accident-a-hauteur-de-nice-provoque-un-gros-ralentissement-sur-l-autoroute-a8-10697889",
-   "n_members": 63,
+   "n_members": 64,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -560,16 +590,16 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.839,
+   "divergence": 0.85,
    "category": "international",
    "terms_left": [
     "sud",
-    "sud liban",
-    "armée israélienne"
+    "armée israélienne",
+    "israélienne"
    ],
    "terms_right": [
-    "ukraine",
     "ans",
+    "ukraine",
     "russe"
    ]
   },
@@ -590,23 +620,23 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.688,
+   "divergence": 0.687,
    "category": "économie",
    "terms_left": [
     "face",
-    "incendie",
-    "crise"
+    "crise",
+    "incendie"
    ],
    "terms_right": [
-    "gironde",
     "incendies",
+    "gironde",
     "tourisme"
    ]
   },
   {
    "title": "«Un coup de folie» : un père avoue le meurtre par strangulation de son fils de 17 ans à Nice",
    "url": "https://www.cnews.fr/faits-divers/2026-07-27/accuse-du-meurtre-dune-fan-de-14-ans-le-chanteur-d4vd-presente-devant-le",
-   "n_members": 93,
+   "n_members": 104,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -620,7 +650,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.532,
+   "divergence": 0.561,
    "category": "faits-divers",
    "terms_left": [
     "tentatives",
@@ -630,7 +660,37 @@
    "terms_right": [
     "ans",
     "père",
-    "retrouvé"
+    "nice"
+   ]
+  },
+  {
+   "title": "\"Il est temps que ça s'arrête\" : ce qui change en matière de démarchage téléphonique à partir du 11 août",
+   "url": "https://www.leprogres.fr/societe/2026/07/29/le-dessin-du-29-juillet-zelensky-a-la-maison-blanche",
+   "n_members": 68,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 15,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.665,
+   "category": "sciences-tech",
+   "terms_left": [
+    "salariés",
+    "protection",
+    "lune"
+   ],
+   "terms_right": [
+    "préavis",
+    "français",
+    "entreprises"
    ]
   },
   {
@@ -664,9 +724,39 @@
    ]
   },
   {
+   "title": "Allemagne : ce que l'on sait de la découverte d'un drone équipé d'un engin explosif à l'aéroport de Leipzig",
+   "url": "https://www.lefigaro.fr/international/un-objet-volant-non-identifie-le-trafic-de-l-aeroport-de-leipzig-en-allemagne-perturbe-20260805",
+   "n_members": 55,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 8,
+    "opinion": 1
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.358,
+   "category": "international",
+   "terms_left": [
+    "hub",
+    "ukraine",
+    "russe"
+   ],
+   "terms_right": [
+    "avion",
+    "police",
+    "incident"
+   ]
+  },
+  {
    "title": "EN DIRECT - Incendies : le feu dans la Drôme \"stable\" mais \"pas encore fixé\", journée \"à haut risque\" dans le Var",
    "url": "https://www.cnews.fr/france/2026-07-17/incendies-les-pompiers-denoncent-des-rates-lies-des-normes-antipollution",
-   "n_members": 315,
+   "n_members": 316,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -680,7 +770,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.468,
+   "divergence": 0.462,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -710,47 +800,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.609,
+   "divergence": 0.607,
    "category": "politique",
    "terms_left": [
-    "campagne",
-    "quatrième",
-    "brésil lula"
+    "brésil lula",
+    "mois",
+    "ans"
    ],
    "terms_right": [
     "qu",
-    "trump",
-    "nouveau"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : Gabriel Attal visé par « une ingérence en provenance de Russie », selon son entourage",
-   "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-15-euros-pour-voter-a-la-primaire-du-parti-socialiste-cest-trop-cher-deplore-segolene-royal-03-08-2026-3X77I6EN4RHIZFRDVHD3VG6SKQ.php",
-   "n_members": 73,
-   "n_sources": 24,
-   "counts": {
-    "left": 7,
-    "centre": 11,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": -0.077,
-   "blindspot_for": null,
-   "divergence": 0.428,
-   "category": "politique",
-   "terms_left": [
-    "storm",
-    "réseau",
-    "média"
-   ],
-   "terms_right": [
-    "gabriel attal",
-    "gabriel",
-    "attal"
+    "face",
+    "trump"
    ]
   },
   {
@@ -770,12 +830,12 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.742,
+   "divergence": 0.664,
    "category": "international",
    "terms_left": [
     "etats-unis",
     "nomination",
-    "ambassadrice ukrainienne"
+    "ukrainienne"
    ],
    "terms_right": [
     "donald trump",
@@ -808,39 +868,9 @@
     "direct"
    ],
    "terms_right": [
-    "iran",
     "russe",
+    "iran",
     "états-unis"
-   ]
-  },
-  {
-   "title": "\"C'est fini\" : à quelques jours de l'éclipse solaire, les lunettes de protection de plus en plus difficiles à trouver",
-   "url": "https://www.leprogres.fr/societe/2026/07/29/le-dessin-du-29-juillet-zelensky-a-la-maison-blanche",
-   "n_members": 64,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 14,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.704,
-   "category": "société",
-   "terms_left": [
-    "protection",
-    "lune",
-    "observer"
-   ],
-   "terms_right": [
-    "grève",
-    "travail",
-    "français"
    ]
   },
   {
@@ -860,17 +890,17 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.413,
+   "divergence": 0.403,
    "category": "international",
    "terms_left": [
     "direct",
-    "guerre",
-    "guerre ukraine"
+    "guerre ukraine",
+    "guerre"
    ],
    "terms_right": [
     "missiles",
-    "missiles patriot",
-    "patriot"
+    "états-unis",
+    "iran"
    ]
   },
   {
@@ -988,7 +1018,7 @@
   {
    "title": "Narcotrafic. Mehdi Laribi, l'un des fondateurs de la DZ Mafia, arrêté en Algérie",
    "url": "https://www.franceinfo.fr/societe/drogue/info-franceinfo-mehdi-laribi-presente-comme-l-un-des-fondateurs-de-la-dz-mafia-arrete-en-algerie-il-y-a-quelques-jours_8135381.html",
-   "n_members": 49,
+   "n_members": 53,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1002,47 +1032,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.356,
+   "divergence": 0.361,
    "category": "faits-divers",
    "terms_left": [
-    "arrêté algérie",
     "arrêté",
+    "arrêté algérie",
     "exécution"
    ],
    "terms_right": [
     "interpellé",
     "fin",
     "mafia"
-   ]
-  },
-  {
-   "title": "Allemagne : ce que l'on sait de la découverte d'un drone équipé d'un engin explosif à l'aéroport de Leipzig",
-   "url": "https://www.lefigaro.fr/international/un-objet-volant-non-identifie-le-trafic-de-l-aeroport-de-leipzig-en-allemagne-perturbe-20260805",
-   "n_members": 49,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 1
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.401,
-   "category": "international",
-   "terms_left": [
-    "piste",
-    "hub stratégique",
-    "hub"
-   ],
-   "terms_right": [
-    "police",
-    "attaque",
-    "incident"
    ]
   },
   {
@@ -1076,9 +1076,9 @@
    ]
   },
   {
-   "title": "Incendie en Gironde : pourquoi des millions de pins brûlés doivent être rapidement abattus après les feux",
+   "title": "Bois brûlé : l'urgence en Gironde",
    "url": "https://www.leparisien.fr/gironde-33/urgent-cherche-logement-une-plate-forme-dentraide-dhebergements-lancee-pour-venir-en-aide-aux-evacues-des-incendies-25-07-2026-6HJS3QA36RFFZIYNUTMD27J3CY.php",
-   "n_members": 91,
+   "n_members": 92,
    "n_sources": 22,
    "counts": {
     "left": 2,
@@ -1092,11 +1092,11 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.813,
+   "divergence": 0.811,
    "category": "environnement",
    "terms_left": [
-    "mégafeu",
     "forêt",
+    "mégafeu",
     "facture"
    ],
    "terms_right": [
@@ -1174,17 +1174,17 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.675,
+   "divergence": 0.695,
    "category": "international",
    "terms_left": [
     "ville",
-    "flammes",
-    "spokane"
+    "spokane",
+    "pays"
    ],
    "terms_right": [
     "états-unis",
-    "diarrhées explosives",
-    "diarrhées"
+    "état",
+    "état washington"
    ]
   }
  ]
