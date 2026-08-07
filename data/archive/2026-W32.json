@@ -1,6 +1,6 @@
 {
  "week": "2026-W32",
- "generated_at": "2026-08-07T05:11:53+00:00",
+ "generated_at": "2026-08-07T06:42:02+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.26,
+   "divergence": 0.263,
    "category": "international",
    "terms_left": [
     "droite",
-    "extrême",
-    "extrême droite"
+    "personnes",
+    "extrême"
    ],
    "terms_right": [
     "migratoire ceuta",
@@ -67,7 +67,7 @@
   {
    "title": "Moyen-orient : Trump dit que soit le détroit d'Ormuz «ouvrira très bientôt», soit l'Iran sera frappé «très fort»",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 671,
+   "n_members": 675,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -187,7 +187,7 @@
   {
    "title": "Canicule : voici les 10 départements placés en vigilance orange ce jeudi",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 502,
+   "n_members": 507,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,12 +201,12 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.292,
+   "divergence": 0.291,
    "category": "environnement",
    "terms_left": [
     "direct",
-    "incendies",
-    "direct incendies"
+    "direct incendies",
+    "incendies"
    ],
    "terms_right": [
     "placés",
@@ -241,7 +241,7 @@
    "terms_right": [
     "hamas gaza",
     "accord annoncé",
-    "complet hamas"
+    "désarmement complet"
    ]
   },
   {
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.863,
+   "divergence": 0.865,
    "category": "politique",
    "terms_left": [
     "parti",
@@ -320,7 +320,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.775,
+   "divergence": 0.774,
    "category": "environnement",
    "terms_left": [
     "réchauffement",
@@ -361,6 +361,36 @@
     "canicule",
     "vague chaleur",
     "nouvelle"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : Gabriel Attal visé par « une ingérence en provenance de Russie », selon son entourage",
+   "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-15-euros-pour-voter-a-la-primaire-du-parti-socialiste-cest-trop-cher-deplore-segolene-royal-03-08-2026-3X77I6EN4RHIZFRDVHD3VG6SKQ.php",
+   "n_members": 86,
+   "n_sources": 27,
+   "counts": {
+    "left": 8,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": -0.143,
+   "blindspot_for": null,
+   "divergence": 0.358,
+   "category": "politique",
+   "terms_left": [
+    "réseau",
+    "salamé",
+    "storm"
+   ],
+   "terms_right": [
+    "gabriel attal",
+    "gabriel",
+    "élection"
    ]
   },
   {
@@ -410,23 +440,23 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.313,
+   "divergence": 0.315,
    "category": "international",
    "terms_left": [
     "guerre ukraine",
-    "guerre",
-    "défense"
+    "défense",
+    "guerre"
    ],
    "terms_right": [
     "russie",
-    "attaque drones",
-    "attaque"
+    "attaque",
+    "air"
    ]
   },
   {
-   "title": "De retour au Porge, après les incendies : « On n’a plus rien et on nous dit que le scooter n’était pas assuré »",
+   "title": "Incendie en Gironde : le chef des pompiers dément avoir «abandonné Le Porge»",
    "url": "https://www.bfmtv.com/environnement/climat/video-incendie-dans-les-hautes-alpes-le-feu-a-une-surface-parcourue-estimee-de-130-hectares-indique-le-commandant-pierre-emmanuel-feit_VN-202607210310.html",
-   "n_members": 136,
+   "n_members": 138,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -440,12 +470,12 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.527,
+   "divergence": 0.529,
    "category": "environnement",
    "terms_left": [
     "sauver",
-    "désolation",
-    "colère"
+    "colère",
+    "mégafeu gironde"
    ],
    "terms_right": [
     "incendie",
@@ -470,7 +500,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.728,
+   "divergence": 0.725,
    "category": "international",
    "terms_left": [
     "sites",
@@ -511,36 +541,6 @@
     "schengen",
     "migratoire ceuta",
     "migratoire"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : Gabriel Attal visé par « une ingérence en provenance de Russie », selon son entourage",
-   "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-15-euros-pour-voter-a-la-primaire-du-parti-socialiste-cest-trop-cher-deplore-segolene-royal-03-08-2026-3X77I6EN4RHIZFRDVHD3VG6SKQ.php",
-   "n_members": 84,
-   "n_sources": 26,
-   "counts": {
-    "left": 8,
-    "centre": 12,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 10,
-    "opinion": 3
-   },
-   "blindspot_score": -0.143,
-   "blindspot_for": null,
-   "divergence": 0.358,
-   "category": "politique",
-   "terms_left": [
-    "réseau",
-    "salamé",
-    "storm"
-   ],
-   "terms_right": [
-    "gabriel attal",
-    "gabriel",
-    "élection"
    ]
   },
   {
@@ -590,12 +590,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.855,
+   "divergence": 0.857,
    "category": "international",
    "terms_left": [
     "sud",
-    "armée",
-    "armée israélienne"
+    "négociations",
+    "régions"
    ],
    "terms_right": [
     "ans",
@@ -694,9 +694,9 @@
    ]
   },
   {
-   "title": "Cinéma: «L'Odyssée» de Christopher Nolan s'impose déjà parmi les plus gros succès de l'année",
+   "title": "\"La majorité vient après avoir vu le film\" : le succès de \"L'Odyssée\" au cinéma propulse le poème d'Homère en tête des ventes en librairie",
    "url": "https://www.numerama.com/pop-culture/2297489-imax-ou-sasseoir-pour-ne-pas-gacher-lodyssee-de-nolan-mon-experience-au-pathe-ile-seguin.html",
-   "n_members": 64,
+   "n_members": 65,
    "n_sources": 25,
    "counts": {
     "left": 8,
@@ -756,7 +756,7 @@
   {
    "title": "EN DIRECT - Incendies : le feu dans la Drôme \"stable\" mais \"pas encore fixé\", journée \"à haut risque\" dans le Var",
    "url": "https://www.cnews.fr/france/2026-07-17/incendies-les-pompiers-denoncent-des-rates-lies-des-normes-antipollution",
-   "n_members": 317,
+   "n_members": 319,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -770,7 +770,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.461,
+   "divergence": 0.457,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -838,9 +838,9 @@
     "ukrainienne"
    ],
    "terms_right": [
-    "trump",
     "donald trump",
-    "donald"
+    "donald",
+    "trump"
    ]
   },
   {
@@ -871,6 +871,36 @@
     "russe",
     "iran",
     "états-unis"
+   ]
+  },
+  {
+   "title": "Corse : après une conférence de presse clandestine du FLNC, le parquet antiterroriste ouvre une enquête",
+   "url": "https://www.sudouest.fr/corse/corse-restez-chez-vous-les-independantistes-du-flnc-rejettent-le-projet-d-autonomie-et-menacent-les-nouveaux-residents-venus-s-installer-sur-l-ile-30177569.php",
+   "n_members": 33,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.356,
+   "category": "société",
+   "terms_left": [
+    "menace non-corses",
+    "processus",
+    "mascarade"
+   ],
+   "terms_right": [
+    "antiterroriste",
+    "corse",
+    "parquet"
    ]
   },
   {
@@ -1018,7 +1048,7 @@
   {
    "title": "Guerre en Iran: Téhéran et Oman se mettent d'accord pour rouvrir le détroit d'Ormuz, les États-Unis écartés du processus",
    "url": "https://www.sudouest.fr/international/iran/iran-des-tractations-diplomatiques-en-cours-pour-relancer-l-accord-de-juin-entre-washington-et-teheran-comprenant-notamment-l-ouverture-du-detroit-d-ormuz-30147698.php",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1032,7 +1062,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.591,
+   "divergence": 0.592,
    "category": "international",
    "terms_left": [
     "tracé",
@@ -1106,39 +1136,9 @@
    ]
   },
   {
-   "title": "Corse : après une conférence de presse clandestine du FLNC, le parquet antiterroriste ouvre une enquête",
-   "url": "https://www.sudouest.fr/corse/corse-restez-chez-vous-les-independantistes-du-flnc-rejettent-le-projet-d-autonomie-et-menacent-les-nouveaux-residents-venus-s-installer-sur-l-ile-30177569.php",
-   "n_members": 32,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 10,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.355,
-   "category": "société",
-   "terms_left": [
-    "menace non-corses",
-    "processus",
-    "mascarade"
-   ],
-   "terms_right": [
-    "antiterroriste",
-    "corse",
-    "parquet"
-   ]
-  },
-  {
    "title": "Bois brûlé : l'urgence en Gironde",
    "url": "https://www.leparisien.fr/gironde-33/urgent-cherche-logement-une-plate-forme-dentraide-dhebergements-lancee-pour-venir-en-aide-aux-evacues-des-incendies-25-07-2026-6HJS3QA36RFFZIYNUTMD27J3CY.php",
-   "n_members": 92,
+   "n_members": 93,
    "n_sources": 22,
    "counts": {
     "left": 2,
@@ -1166,33 +1166,33 @@
    ]
   },
   {
-   "title": "Mont-Blanc : la grotte de glace de l'Aiguille du Midi fragilisée par la chaleur",
-   "url": "https://www.cnews.fr/monde/2026-07-26/el-nino-des-temperatures-records-dans-le-pacifique-font-craindre-une-annee-2027",
-   "n_members": 62,
+   "title": "Incendie : les Corbières à nouveau touchées par un feu",
+   "url": "https://www.cnews.fr/faits-divers/2026-07-27/italie-des-chats-retrouves-avec-des-chiffons-imbibes-de-liquide-inflammable",
+   "n_members": 68,
    "n_sources": 22,
    "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 5
+    "left": 3,
+    "centre": 12,
+    "right": 7
    },
    "style_counts": {
     "factuel": 13,
-    "mixte": 7,
-    "opinion": 2
+    "mixte": 6,
+    "opinion": 3
    },
-   "blindspot_score": -0.091,
+   "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.849,
+   "divergence": 0.811,
    "category": "environnement",
    "terms_left": [
-    "canicule",
-    "paris",
-    "gouvernement"
+    "territoire",
+    "reportage",
+    "monde"
    ],
    "terms_right": [
-    "chaleur",
-    "annonce",
-    "jusqu"
+    "var",
+    "flammes",
+    "habitants"
    ]
   }
  ]
