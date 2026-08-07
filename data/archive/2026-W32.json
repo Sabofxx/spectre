@@ -1,13 +1,13 @@
 {
  "week": "2026-W32",
- "generated_at": "2026-08-07T08:08:02+00:00",
+ "generated_at": "2026-08-07T09:30:46+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Crise à Ceuta : 70.000 des 72.000 migrants entrés illégalement retournés au Maroc, selon Madrid",
    "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
-   "n_members": 450,
+   "n_members": 451,
    "n_sources": 37,
    "counts": {
     "left": 7,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.262,
+   "divergence": 0.263,
    "category": "international",
    "terms_left": [
     "droite",
@@ -157,7 +157,7 @@
   {
    "title": "Fifa : des excuses après la polémique sur l’ouverture du Mondial aux investisseurs privés",
    "url": "https://www.ladepeche.fr/2026/07/28/il-franchit-une-limite-gianni-infantino-serait-pret-a-ceder-des-parts-de-la-fifa-pour-plusieurs-milliards-deuros-a-des-proches-de-donald-trump-13487502.php",
-   "n_members": 256,
+   "n_members": 258,
    "n_sources": 32,
    "counts": {
     "left": 7,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.865,
+   "divergence": 0.862,
    "category": "politique",
    "terms_left": [
     "parti",
@@ -271,7 +271,7 @@
    "terms_right": [
     "présidentielle",
     "ministre",
-    "nouveau"
+    "attal"
    ]
   },
   {
@@ -440,23 +440,23 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.48,
+   "divergence": 0.469,
    "category": "environnement",
    "terms_left": [
     "eau",
     "température",
-    "cours"
+    "température moyenne"
    ],
    "terms_right": [
-    "france début",
-    "pays",
-    "vacances"
+    "normale",
+    "températures",
+    "pays"
    ]
   },
   {
    "title": "Ukraine : des frappes russes font au moins 17 morts dans la région de Kiev",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 326,
+   "n_members": 328,
    "n_sources": 26,
    "counts": {
     "left": 7,
@@ -470,12 +470,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.313,
+   "divergence": 0.316,
    "category": "international",
    "terms_left": [
-    "guerre ukraine",
     "défense",
-    "direct"
+    "direct",
+    "russes"
    ],
    "terms_right": [
     "russie",
@@ -664,9 +664,9 @@
    ]
   },
   {
-   "title": "\"Il est temps que ça s'arrête\" : ce qui change en matière de démarchage téléphonique à partir du 11 août",
+   "title": "Préavis de grève chez EasyJet : ce qu'il faut savoir sur ce mouvement qui court du 7 août au 2 septembre",
    "url": "https://www.leprogres.fr/societe/2026/07/29/le-dessin-du-29-juillet-zelensky-a-la-maison-blanche",
-   "n_members": 68,
+   "n_members": 69,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -680,17 +680,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.667,
+   "divergence": 0.603,
    "category": "sciences-tech",
    "terms_left": [
-    "salariés",
-    "protection",
-    "lune"
+    "easyjet",
+    "direction",
+    "absence"
    ],
    "terms_right": [
-    "préavis",
     "français",
-    "entreprises"
+    "éclipse",
+    "fin"
    ]
   },
   {
@@ -770,7 +770,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.457,
+   "divergence": 0.462,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -816,7 +816,7 @@
   {
    "title": "EN DIRECT, guerre en Ukraine : Wildberries, le géant russe de l’e-commerce, de nouveau pris pour cible par Kiev",
    "url": "https://www.tf1info.fr/international/la-coree-du-nord-et-la-russie-sur-le-point-d-achever-la-construction-d-un-pont-pouvant-faciliter-la-logistique-dans-la-guerre-en-ukraine-2455563.html",
-   "n_members": 69,
+   "n_members": 70,
    "n_sources": 24,
    "counts": {
     "left": 2,
@@ -830,12 +830,12 @@
    },
    "blindspot_score": 0.6,
    "blindspot_for": "gauche",
-   "divergence": 0.784,
+   "divergence": 0.781,
    "category": "international",
    "terms_left": [
     "guerre ukraine",
-    "direct",
-    "défense"
+    "défense",
+    "kiev"
    ],
    "terms_right": [
     "russe",
@@ -874,6 +874,36 @@
    ]
   },
   {
+   "title": "Affaire Jean Pormanove : prison avec sursis et «bannissement numérique» pour les streamers Naruto et Safine",
+   "url": "https://www.tf1info.fr/justice-faits-divers/mort-en-direct-proces-de-jean-pormanove-les-streamers-naruto-et-safine-fixes-sur-leur-peine-ce-mercredi-ils-risquent-la-prison-2456808.html",
+   "n_members": 44,
+   "n_sources": 24,
+   "counts": {
+    "left": 7,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 11,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.161,
+   "category": "société",
+   "terms_left": [
+    "raphaël",
+    "raphaël graven",
+    "graven"
+   ],
+   "terms_right": [
+    "peine",
+    "ligne",
+    "violences humiliations"
+   ]
+  },
+  {
    "title": "Corse : après une conférence de presse clandestine du FLNC, le parquet antiterroriste ouvre une enquête",
    "url": "https://www.sudouest.fr/corse/corse-restez-chez-vous-les-independantistes-du-flnc-rejettent-le-projet-d-autonomie-et-menacent-les-nouveaux-residents-venus-s-installer-sur-l-ile-30177569.php",
    "n_members": 33,
@@ -890,7 +920,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.356,
+   "divergence": 0.355,
    "category": "société",
    "terms_left": [
     "menace non-corses",
@@ -920,7 +950,7 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.401,
+   "divergence": 0.402,
    "category": "international",
    "terms_left": [
     "direct",
@@ -929,8 +959,8 @@
    ],
    "terms_right": [
     "missiles",
-    "états-unis",
-    "iran"
+    "iran",
+    "états-unis"
    ]
   },
   {
@@ -1106,36 +1136,6 @@
    ]
   },
   {
-   "title": "Affaire Jean Pormanove : prison avec sursis et «bannissement numérique» pour les streamers Naruto et Safine",
-   "url": "https://www.tf1info.fr/justice-faits-divers/mort-en-direct-proces-de-jean-pormanove-les-streamers-naruto-et-safine-fixes-sur-leur-peine-ce-mercredi-ils-risquent-la-prison-2456808.html",
-   "n_members": 43,
-   "n_sources": 23,
-   "counts": {
-    "left": 7,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 10,
-    "opinion": 3
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.16,
-   "category": "société",
-   "terms_left": [
-    "raphaël",
-    "graven",
-    "raphaël graven"
-   ],
-   "terms_right": [
-    "peine",
-    "ligne",
-    "violences humiliations"
-   ]
-  },
-  {
    "title": "Bois brûlé : l'urgence en Gironde",
    "url": "https://www.leparisien.fr/gironde-33/urgent-cherche-logement-une-plate-forme-dentraide-dhebergements-lancee-pour-venir-en-aide-aux-evacues-des-incendies-25-07-2026-6HJS3QA36RFFZIYNUTMD27J3CY.php",
    "n_members": 93,
@@ -1152,17 +1152,17 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.811,
+   "divergence": 0.815,
    "category": "environnement",
    "terms_left": [
-    "forêt",
     "mégafeu",
+    "forêt",
     "facture"
    ],
    "terms_right": [
     "incendies",
     "gironde",
-    "incendie gironde"
+    "incendie"
    ]
   },
   {
@@ -1182,12 +1182,12 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.805,
+   "divergence": 0.807,
    "category": "environnement",
    "terms_left": [
-    "territoire",
     "reportage",
-    "monde"
+    "monde",
+    "jusqu"
    ],
    "terms_right": [
     "var",
