@@ -1,6 +1,6 @@
 {
  "week": "2026-W32",
- "generated_at": "2026-08-08T05:15:43+00:00",
+ "generated_at": "2026-08-08T06:05:05+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.269,
+   "divergence": 0.268,
    "category": "international",
    "terms_left": [
     "droite",
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.274,
+   "divergence": 0.273,
    "category": "environnement",
    "terms_left": [
     "retour",
@@ -119,9 +119,9 @@
     "mégafeu"
    ],
    "terms_right": [
+    "incendie gironde",
     "stable",
-    "incendies france",
-    "annonce"
+    "incendies france"
    ]
   },
   {
@@ -157,7 +157,7 @@
   {
    "title": "Fifa : des excuses après la polémique sur l’ouverture du Mondial aux investisseurs privés",
    "url": "https://www.ladepeche.fr/2026/07/28/il-franchit-une-limite-gianni-infantino-serait-pret-a-ceder-des-parts-de-la-fifa-pour-plusieurs-milliards-deuros-a-des-proches-de-donald-trump-13487502.php",
-   "n_members": 268,
+   "n_members": 269,
    "n_sources": 32,
    "counts": {
     "left": 7,
@@ -187,7 +187,7 @@
   {
    "title": "Canicule : voici les 12 départements placés en vigilance orange ce samedi",
    "url": "https://www.la-croix.com/planete/meteo-la-canicule-devrait-persister-jusqu-au-14-juillet-au-moins-20260709",
-   "n_members": 522,
+   "n_members": 524,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -212,6 +212,36 @@
     "placés",
     "placés vigilance",
     "départements placés"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : Gabriel Attal visé par « une ingérence en provenance de Russie », selon son entourage",
+   "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-15-euros-pour-voter-a-la-primaire-du-parti-socialiste-cest-trop-cher-deplore-segolene-royal-03-08-2026-3X77I6EN4RHIZFRDVHD3VG6SKQ.php",
+   "n_members": 96,
+   "n_sources": 28,
+   "counts": {
+    "left": 8,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 11,
+    "opinion": 3
+   },
+   "blindspot_score": -0.067,
+   "blindspot_for": null,
+   "divergence": 0.327,
+   "category": "politique",
+   "terms_left": [
+    "visés",
+    "réseau",
+    "désinformation"
+   ],
+   "terms_right": [
+    "candidat",
+    "gabriel attal",
+    "gabriel"
    ]
   },
   {
@@ -241,37 +271,7 @@
    "terms_right": [
     "hamas gaza",
     "accord annoncé",
-    "désarmement complet"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : Gabriel Attal visé par « une ingérence en provenance de Russie », selon son entourage",
-   "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-15-euros-pour-voter-a-la-primaire-du-parti-socialiste-cest-trop-cher-deplore-segolene-royal-03-08-2026-3X77I6EN4RHIZFRDVHD3VG6SKQ.php",
-   "n_members": 90,
-   "n_sources": 28,
-   "counts": {
-    "left": 8,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 11,
-    "opinion": 3
-   },
-   "blindspot_score": -0.067,
-   "blindspot_for": null,
-   "divergence": 0.336,
-   "category": "politique",
-   "terms_left": [
-    "visés",
-    "réseau",
-    "désinformation"
-   ],
-   "terms_right": [
-    "ingérence",
-    "gabriel attal",
-    "gabriel"
+    "complet hamas"
    ]
   },
   {
@@ -301,7 +301,7 @@
    "terms_right": [
     "présidentielle",
     "qu",
-    "ministre"
+    "attal"
    ]
   },
   {
@@ -410,16 +410,16 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.548,
+   "divergence": 0.534,
    "category": "environnement",
    "terms_left": [
-    "bulgarie",
     "mammouth",
+    "bulgarie",
     "crise"
    ],
    "terms_right": [
-    "nucléaires",
     "électricité",
+    "nucléaires",
     "réacteurs"
    ]
   },
@@ -486,7 +486,7 @@
   {
    "title": "Ukraine : des frappes russes font au moins 17 morts dans la région de Kiev",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 336,
+   "n_members": 338,
    "n_sources": 26,
    "counts": {
     "left": 7,
@@ -740,7 +740,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.646,
+   "divergence": 0.656,
    "category": "société",
    "terms_left": [
     "easyjet",
@@ -749,7 +749,7 @@
    ],
    "terms_right": [
     "éclipse",
-    "totale",
+    "lunettes",
     "ans"
    ]
   },
@@ -920,7 +920,7 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.663,
+   "divergence": 0.657,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -1086,7 +1086,7 @@
   {
    "title": "Incendie : les Corbières à nouveau touchées par un feu",
    "url": "https://www.cnews.fr/faits-divers/2026-07-27/italie-des-chats-retrouves-avec-des-chiffons-imbibes-de-liquide-inflammable",
-   "n_members": 73,
+   "n_members": 74,
    "n_sources": 23,
    "counts": {
     "left": 3,
