@@ -1,6 +1,6 @@
 {
  "week": "2026-W32",
- "generated_at": "2026-08-08T20:18:50+00:00",
+ "generated_at": "2026-08-08T20:56:32+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -380,17 +380,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.301,
+   "divergence": 0.3,
    "category": "international",
    "terms_left": [
     "guerre",
-    "guerre ukraine",
-    "direct"
+    "direct",
+    "guerre ukraine"
    ],
    "terms_right": [
     "russie",
     "drones",
-    "nuit"
+    "nouvelle"
    ]
   },
   {
@@ -450,7 +450,7 @@
    "terms_right": [
     "cause",
     "arrêt",
-    "nouvelle"
+    "canicule"
    ]
   },
   {
@@ -470,12 +470,12 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.456,
+   "divergence": 0.482,
    "category": "environnement",
    "terms_left": [
     "eau",
-    "france",
-    "sec"
+    "enregistré france",
+    "france"
    ],
    "terms_right": [
     "français",
@@ -830,7 +830,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.328,
+   "divergence": 0.329,
    "category": "international",
    "terms_left": [
     "militaire",
@@ -1010,17 +1010,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.54,
+   "divergence": 0.543,
    "category": "international",
    "terms_left": [
     "nouvel",
-    "etats-unis",
-    "ciblé"
+    "iranien",
+    "etats-unis"
    ],
    "terms_right": [
     "trump",
-    "guerre",
-    "donald trump"
+    "donald trump",
+    "donald"
    ]
   },
   {
@@ -1166,26 +1166,34 @@
    ]
   },
   {
-   "title": "Incendies en France : 375 interpellations en lien avec des départs de feu",
-   "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/le-prix-du-carburant-est-repasse-au-dessus-des-2-euros-le-litre-alors-qu-un-nouveau-week-end-de-chasse-croise-se-profile_8122901.html",
-   "n_members": 70,
+   "title": "Drôme : le feu ayant ravagé plus de 300 hectares est stabilisé",
+   "url": "https://www.ladepeche.fr/2026/08/01/accessible-uniquement-apres-40-minutes-de-marche-une-vingtaine-de-pompiers-et-des-moyens-aeriens-mobilises-sur-un-feu-de-vegetation-a-1-800-m-13493675.php",
+   "n_members": 71,
    "n_sources": 23,
    "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 7
+    "left": 4,
+    "centre": 13,
+    "right": 6
    },
    "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
+    "factuel": 15,
+    "mixte": 6,
     "opinion": 2
    },
-   "blindspot_score": 0.167,
+   "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.754,
-   "category": "environnement",
-   "terms_left": [],
-   "terms_right": []
+   "divergence": 0.706,
+   "category": "société",
+   "terms_left": [
+    "incendie drôme",
+    "incendies",
+    "retour"
+   ],
+   "terms_right": [
+    "pompiers",
+    "jours",
+    "forêt"
+   ]
   }
  ]
 }
