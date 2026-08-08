@@ -1,6 +1,6 @@
 {
  "week": "2026-W32",
- "generated_at": "2026-08-08T10:03:10+00:00",
+ "generated_at": "2026-08-08T10:59:11+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.267,
+   "divergence": 0.268,
    "category": "international",
    "terms_left": [
     "droite",
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.17,
+   "divergence": 0.171,
    "category": "sport",
    "terms_left": [
     "plan",
@@ -180,8 +180,38 @@
    ],
    "terms_right": [
     "crise",
-    "privés fifa",
-    "erreurs"
+    "erreurs",
+    "privés fifa"
+   ]
+  },
+  {
+   "title": "Présidentielle en France: Gabriel Attal porte plainte pour «ingérence étrangère» en provenance de Russie",
+   "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-15-euros-pour-voter-a-la-primaire-du-parti-socialiste-cest-trop-cher-deplore-segolene-royal-03-08-2026-3X77I6EN4RHIZFRDVHD3VG6SKQ.php",
+   "n_members": 106,
+   "n_sources": 30,
+   "counts": {
+    "left": 8,
+    "centre": 15,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 11,
+    "opinion": 3
+   },
+   "blindspot_score": -0.067,
+   "blindspot_for": null,
+   "divergence": 0.299,
+   "category": "politique",
+   "terms_left": [
+    "visés",
+    "réseau",
+    "salamé"
+   ],
+   "terms_right": [
+    "ingérence",
+    "gabriel attal",
+    "gabriel"
    ]
   },
   {
@@ -212,36 +242,6 @@
     "placés",
     "placés vigilance",
     "départements placés"
-   ]
-  },
-  {
-   "title": "Présidentielle en France: Gabriel Attal porte plainte pour «ingérence étrangère» en provenance de Russie",
-   "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-15-euros-pour-voter-a-la-primaire-du-parti-socialiste-cest-trop-cher-deplore-segolene-royal-03-08-2026-3X77I6EN4RHIZFRDVHD3VG6SKQ.php",
-   "n_members": 105,
-   "n_sources": 29,
-   "counts": {
-    "left": 8,
-    "centre": 14,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 11,
-    "opinion": 3
-   },
-   "blindspot_score": -0.067,
-   "blindspot_for": null,
-   "divergence": 0.299,
-   "category": "politique",
-   "terms_left": [
-    "visés",
-    "réseau",
-    "salamé"
-   ],
-   "terms_right": [
-    "ingérence",
-    "gabriel attal",
-    "gabriel"
    ]
   },
   {
@@ -440,17 +440,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.448,
+   "divergence": 0.449,
    "category": "environnement",
    "terms_left": [
     "eau",
-    "sec",
-    "rhin"
+    "france",
+    "sec"
    ],
    "terms_right": [
-    "vacances",
     "français",
-    "histoire"
+    "vacances",
+    "ans"
    ]
   },
   {
@@ -500,17 +500,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.311,
+   "divergence": 0.314,
    "category": "international",
    "terms_left": [
-    "direct",
+    "guerre",
     "russes",
-    "guerre"
+    "direct"
    ],
    "terms_right": [
     "russie",
     "drones",
-    "nouvelle"
+    "alliés"
    ]
   },
   {
@@ -590,7 +590,7 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.495,
+   "divergence": 0.494,
    "category": "international",
    "terms_left": [
     "crise ceuta",
@@ -599,8 +599,8 @@
    ],
    "terms_right": [
     "migratoire ceuta",
-    "migratoire",
-    "schengen"
+    "schengen",
+    "migratoire"
    ]
   },
   {
@@ -740,17 +740,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.581,
+   "divergence": 0.579,
    "category": "politique",
    "terms_left": [
     "brésil",
-    "mois",
-    "brésil lula"
+    "brésil lula",
+    "président"
    ],
    "terms_right": [
     "qu",
-    "ancien",
-    "face"
+    "face",
+    "ancien"
    ]
   },
   {
@@ -770,12 +770,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.657,
+   "divergence": 0.656,
    "category": "société",
    "terms_left": [
     "easyjet",
-    "travail",
-    "conditions"
+    "conditions",
+    "conditions travail"
    ],
    "terms_right": [
     "éclipse",
@@ -816,7 +816,7 @@
   {
    "title": "Allemagne : ce que l'on sait de la découverte d'un drone équipé d'un engin explosif à l'aéroport de Leipzig",
    "url": "https://www.lefigaro.fr/international/un-objet-volant-non-identifie-le-trafic-de-l-aeroport-de-leipzig-en-allemagne-perturbe-20260805",
-   "n_members": 63,
+   "n_members": 65,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -830,7 +830,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.332,
+   "divergence": 0.333,
    "category": "international",
    "terms_left": [
     "stratégique",
@@ -934,6 +934,36 @@
    ]
   },
   {
+   "title": "Éclipse solaire du 12 août : pourquoi il faudra ensuite patienter (longtemps) avant de voir la prochaine en France",
+   "url": "https://www.sudradio.fr/horoscope/horoscope-du-mardi-4-aout-les-previsions-des-astres-pour-votre-journee-signe-par-signe",
+   "n_members": 68,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 14,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.674,
+   "category": "sciences-tech",
+   "terms_left": [
+    "qu",
+    "soleil",
+    "paris"
+   ],
+   "terms_right": [
+    "lune",
+    "ciel",
+    "nuit"
+   ]
+  },
+  {
    "title": "Détroit d’Ormuz : accord entre Iran et Oman, une éventuelle réouverture pourrait arranger Trump",
    "url": "https://www.sudouest.fr/international/iran/iran-des-tractations-diplomatiques-en-cours-pour-relancer-l-accord-de-juin-entre-washington-et-teheran-comprenant-notamment-l-ouverture-du-detroit-d-ormuz-30147698.php",
    "n_members": 63,
@@ -980,17 +1010,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.307,
+   "divergence": 0.321,
    "category": "faits-divers",
    "terms_left": [
-    "arrêté algérie",
+    "français",
     "arrêté",
-    "français"
+    "arrêt français"
    ],
    "terms_right": [
-    "interpellé",
     "interpellé algérie",
-    "fin"
+    "interpellé",
+    "justice"
    ]
   },
   {
@@ -1100,17 +1130,17 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.806,
+   "divergence": 0.804,
    "category": "environnement",
    "terms_left": [
     "monde",
-    "an",
-    "jusqu"
+    "jusqu",
+    "suite"
    ],
    "terms_right": [
     "incendie",
-    "hectares",
-    "var"
+    "var",
+    "hectares"
    ]
   },
   {
@@ -1164,36 +1194,6 @@
    "category": "environnement",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Éclipse solaire du 12 août : pourquoi il faudra ensuite patienter (longtemps) avant de voir la prochaine en France",
-   "url": "https://www.sudradio.fr/horoscope/horoscope-du-mardi-4-aout-les-previsions-des-astres-pour-votre-journee-signe-par-signe",
-   "n_members": 67,
-   "n_sources": 23,
-   "counts": {
-    "left": 3,
-    "centre": 14,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.713,
-   "category": "sciences-tech",
-   "terms_left": [
-    "qu",
-    "lunettes",
-    "soleil"
-   ],
-   "terms_right": [
-    "nuit",
-    "lune",
-    "journée"
-   ]
   }
  ]
 }
