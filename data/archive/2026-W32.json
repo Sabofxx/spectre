@@ -1,13 +1,13 @@
 {
  "week": "2026-W32",
- "generated_at": "2026-08-09T18:26:14+00:00",
+ "generated_at": "2026-08-09T19:11:20+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Espagne. Crise migratoire à Ceuta : au moins 141 morts et un bilan pouvant encore s'alourdir",
    "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
-   "n_members": 465,
+   "n_members": 470,
    "n_sources": 37,
    "counts": {
     "left": 7,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.277,
+   "divergence": 0.28,
    "category": "international",
    "terms_left": [
     "droite",
@@ -31,7 +31,7 @@
    "terms_right": [
     "migratoire ceuta",
     "migratoire",
-    "schengen"
+    "crise migratoire"
    ]
   },
   {
@@ -201,12 +201,12 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.307,
+   "divergence": 0.302,
    "category": "politique",
    "terms_left": [
     "réseau",
     "visés",
-    "désinformation"
+    "storm"
    ],
    "terms_right": [
     "gabriel attal",
@@ -470,7 +470,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.558,
+   "divergence": 0.563,
    "category": "sciences-tech",
    "terms_left": [
     "mieux",
@@ -480,7 +480,7 @@
    "terms_right": [
     "ciel",
     "espagne",
-    "lune"
+    "sud"
    ]
   },
   {
@@ -750,7 +750,7 @@
    "terms_right": [
     "ans",
     "mort",
-    "père"
+    "nice"
    ]
   },
   {
@@ -800,7 +800,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.651,
+   "divergence": 0.648,
    "category": "société",
    "terms_left": [
     "travail",
@@ -810,7 +810,7 @@
    "terms_right": [
     "lunettes",
     "éclipse",
-    "jours"
+    "observer"
    ]
   },
   {
@@ -980,7 +980,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.522,
+   "divergence": 0.519,
    "category": "international",
    "terms_left": [
     "iranien",
@@ -989,8 +989,8 @@
    ],
    "terms_right": [
     "trump",
-    "donald trump",
-    "donald"
+    "guerre",
+    "donald trump"
    ]
   },
   {
@@ -1054,6 +1054,36 @@
    ]
   },
   {
+   "title": "«Plusieurs milliards d’euros» : le président de la FNSEA appelle l’État à soutenir les agriculteurs après la «catastrophe climatique» de l’été",
+   "url": "https://www.tf1info.fr/regions/videos/video-des-camions-citernes-pour-ravitailler-les-villages-a-sec-7188-2456562.html",
+   "n_members": 60,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.892,
+   "category": "international",
+   "terms_left": [
+    "actualité",
+    "principales",
+    "week-end"
+   ],
+   "terms_right": [
+    "face",
+    "euros",
+    "sécheresse"
+   ]
+  },
+  {
    "title": "Proche de la DZ Mafia interpellé en Algérie : les relations entre Paris et Alger se réchauffent-elles ?",
    "url": "https://www.franceinfo.fr/societe/drogue/info-franceinfo-mehdi-laribi-presente-comme-l-un-des-fondateurs-de-la-dz-mafia-arrete-en-algerie-il-y-a-quelques-jours_8135381.html",
    "n_members": 57,
@@ -1079,8 +1109,8 @@
    ],
    "terms_right": [
     "mafia",
-    "dz",
-    "dz mafia"
+    "dz mafia",
+    "dz"
    ]
   },
   {
@@ -1172,28 +1202,6 @@
     "var",
     "jours"
    ]
-  },
-  {
-   "title": "Incendie : les Corbières à nouveau touchées par un feu",
-   "url": "https://www.cnews.fr/faits-divers/2026-07-27/italie-des-chats-retrouves-avec-des-chiffons-imbibes-de-liquide-inflammable",
-   "n_members": 74,
-   "n_sources": 23,
-   "counts": {
-    "left": 3,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.804,
-   "category": "environnement",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
