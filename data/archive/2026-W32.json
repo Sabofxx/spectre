@@ -1,6 +1,6 @@
 {
  "week": "2026-W32",
- "generated_at": "2026-08-09T11:01:29+00:00",
+ "generated_at": "2026-08-09T11:31:46+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -245,9 +245,9 @@
    ]
   },
   {
-   "title": "Bande de Gaza : le Hamas redit être prêt à mettre en œuvre le plan de paix soutenu par les Etats-Unis",
+   "title": "Gaza : le Hamas se redit ouvert au plan de paix soutenu par Washington",
    "url": "https://www.sudouest.fr/international/moyen-orient/gaza/gaza-quatre-morts-dont-deux-enfants-dans-des-frappes-israeliennes-30117437.php",
-   "n_members": 99,
+   "n_members": 101,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -261,17 +261,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.202,
+   "divergence": 0.199,
    "category": "international",
    "terms_left": [
+    "israël accepté",
     "bande gaza",
-    "accepté",
     "bande"
    ],
    "terms_right": [
     "paix",
-    "hamas gaza",
-    "accord annoncé"
+    "qu israël",
+    "hamas gaza"
    ]
   },
   {
@@ -321,11 +321,11 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.576,
+   "divergence": 0.579,
    "category": "international",
    "terms_left": [
-    "publié",
     "rapport",
+    "publié",
     "mortalité"
    ],
    "terms_right": [
@@ -620,7 +620,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.612,
+   "divergence": 0.611,
    "category": "sciences-tech",
    "terms_left": [
     "faut",
@@ -810,7 +810,7 @@
    "terms_right": [
     "lunettes",
     "éclipse",
-    "solaire"
+    "jours"
    ]
   },
   {
@@ -1114,6 +1114,36 @@
    ]
   },
   {
+   "title": "Drôme : le feu ayant ravagé plus de 300 hectares est stabilisé",
+   "url": "https://www.ladepeche.fr/2026/08/01/accessible-uniquement-apres-40-minutes-de-marche-une-vingtaine-de-pompiers-et-des-moyens-aeriens-mobilises-sur-un-feu-de-vegetation-a-1-800-m-13493675.php",
+   "n_members": 75,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.712,
+   "category": "environnement",
+   "terms_left": [
+    "incendie drôme",
+    "retour",
+    "légèrement"
+   ],
+   "terms_right": [
+    "pompiers",
+    "drôme",
+    "jours"
+   ]
+  },
+  {
    "title": "Incendie : les Corbières à nouveau touchées par un feu",
    "url": "https://www.cnews.fr/faits-divers/2026-07-27/italie-des-chats-retrouves-avec-des-chiffons-imbibes-de-liquide-inflammable",
    "n_members": 74,
@@ -1134,36 +1164,6 @@
    "category": "environnement",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Drôme : le feu ayant ravagé plus de 300 hectares est stabilisé",
-   "url": "https://www.ladepeche.fr/2026/08/01/accessible-uniquement-apres-40-minutes-de-marche-une-vingtaine-de-pompiers-et-des-moyens-aeriens-mobilises-sur-un-feu-de-vegetation-a-1-800-m-13493675.php",
-   "n_members": 73,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.714,
-   "category": "société",
-   "terms_left": [
-    "incendie drôme",
-    "retour",
-    "incendies"
-   ],
-   "terms_right": [
-    "pompiers",
-    "jours",
-    "drôme"
-   ]
   },
   {
    "title": "Livret A, électricité, démarchage téléphonique… Ce qui change pour les Français à partir du 1er août",
