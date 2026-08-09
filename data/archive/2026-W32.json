@@ -1,6 +1,6 @@
 {
  "week": "2026-W32",
- "generated_at": "2026-08-09T19:11:20+00:00",
+ "generated_at": "2026-08-09T19:55:13+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -67,7 +67,7 @@
   {
    "title": "Moyen-Orient en direct : l'Iran pose ses conditions à toute réouverture du détroit d'Ormuz",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
-   "n_members": 701,
+   "n_members": 702,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.302,
+   "divergence": 0.315,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -740,7 +740,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.519,
+   "divergence": 0.517,
    "category": "faits-divers",
    "terms_left": [
     "suicides",
@@ -750,7 +750,7 @@
    "terms_right": [
     "ans",
     "mort",
-    "nice"
+    "père"
    ]
   },
   {
@@ -770,7 +770,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.579,
+   "divergence": 0.578,
    "category": "politique",
    "terms_left": [
     "brésil",
@@ -934,6 +934,36 @@
    ]
   },
   {
+   "title": "Drôme : le feu ayant ravagé plus de 300 hectares est stabilisé",
+   "url": "https://www.ladepeche.fr/2026/08/01/accessible-uniquement-apres-40-minutes-de-marche-une-vingtaine-de-pompiers-et-des-moyens-aeriens-mobilises-sur-un-feu-de-vegetation-a-1-800-m-13493675.php",
+   "n_members": 82,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 14,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.648,
+   "category": "environnement",
+   "terms_left": [
+    "incendie drôme",
+    "massif",
+    "claps"
+   ],
+   "terms_right": [
+    "drôme",
+    "reprises",
+    "feu"
+   ]
+  },
+  {
    "title": "EN DIRECT, guerre en Ukraine : Wildberries, le géant russe de l’e-commerce, de nouveau pris pour cible par Kiev",
    "url": "https://www.tf1info.fr/international/la-coree-du-nord-et-la-russie-sur-le-point-d-achever-la-construction-d-un-pont-pouvant-faciliter-la-logistique-dans-la-guerre-en-ukraine-2455563.html",
    "n_members": 72,
@@ -980,7 +1010,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.519,
+   "divergence": 0.52,
    "category": "international",
    "terms_left": [
     "iranien",
@@ -1109,8 +1139,8 @@
    ],
    "terms_right": [
     "mafia",
-    "dz mafia",
-    "dz"
+    "dz",
+    "dz mafia"
    ]
   },
   {
@@ -1171,36 +1201,6 @@
     "incendie",
     "ans",
     "forêt"
-   ]
-  },
-  {
-   "title": "Drôme : le feu ayant ravagé plus de 300 hectares est stabilisé",
-   "url": "https://www.ladepeche.fr/2026/08/01/accessible-uniquement-apres-40-minutes-de-marche-une-vingtaine-de-pompiers-et-des-moyens-aeriens-mobilises-sur-un-feu-de-vegetation-a-1-800-m-13493675.php",
-   "n_members": 78,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.665,
-   "category": "environnement",
-   "terms_left": [
-    "incendie drôme",
-    "bellegarde-en-diois",
-    "massif"
-   ],
-   "terms_right": [
-    "drôme",
-    "var",
-    "jours"
    ]
   }
  ]
