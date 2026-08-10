@@ -1,12 +1,42 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-10T06:50:39+00:00",
+ "generated_at": "2026-08-10T08:22:40+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
+   "title": "Sur les réseaux sociaux, un nouvel appel à franchir l'enclave de Ceuta pour les Marocains",
+   "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
+   "n_members": 474,
+   "n_sources": 37,
+   "counts": {
+    "left": 7,
+    "centre": 17,
+    "right": 13
+   },
+   "style_counts": {
+    "factuel": 19,
+    "mixte": 11,
+    "opinion": 7
+   },
+   "blindspot_score": 0.3,
+   "blindspot_for": null,
+   "divergence": 0.279,
+   "category": "international",
+   "terms_left": [
+    "droite",
+    "crise ceuta",
+    "maroc"
+   ],
+   "terms_right": [
+    "migratoire ceuta",
+    "migratoire",
+    "crise migratoire"
+   ]
+  },
+  {
    "title": "Moyen-Orient en direct : l'Iran pose ses conditions à toute réouverture du détroit d'Ormuz",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
+   "url": "https://www.bfmtv.com/international/moyen-orient/iran/video-guerre-au-moyen-orient-les-etats-unis-ont-lance-140-cibles-contre-l-iran-en-riposte-a-l-attaque-d-un-navire-marchand-dans-le-detroit-d-ormuz_VN-202607120078.html",
    "n_members": 706,
    "n_sources": 33,
    "counts": {
@@ -21,12 +51,12 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.184,
+   "divergence": 0.186,
    "category": "international",
    "terms_left": [
     "direct guerre",
-    "etats-unis",
-    "direct"
+    "direct",
+    "etats-unis"
    ],
    "terms_right": [
     "états-unis",
@@ -37,7 +67,7 @@
   {
    "title": "Canicule : vingt-deux départements du centre et du sud-est placés en vigilance orange ce lundi",
    "url": "https://www.tf1info.fr/meteo/meteo-france-vigilance-canicule-16-departements-en-orange-mercredi-29-juillet-jusqu-a-42-c-annonces-en-gironde-et-dans-les-landes-2455565.html",
-   "n_members": 556,
+   "n_members": 557,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -95,9 +125,39 @@
    ]
   },
   {
+   "title": "Mortalité infantile: un rapport d’abord dissimulé dévoile la gravité de la situation en France",
+   "url": "https://information.tv5monde.com/international/video/crise-migratoire-ceuta-le-desenchantement-dune-jeunesse-en-quete-dexil-2832298",
+   "n_members": 65,
+   "n_sources": 29,
+   "counts": {
+    "left": 7,
+    "centre": 11,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 10,
+    "opinion": 6
+   },
+   "blindspot_score": 0.222,
+   "blindspot_for": null,
+   "divergence": 0.534,
+   "category": "international",
+   "terms_left": [
+    "igas",
+    "rapport igas",
+    "humanité"
+   ],
+   "terms_right": [
+    "migratoire",
+    "ministre",
+    "pays"
+   ]
+  },
+  {
    "title": "Tout ce qu’il faut savoir avant l’éclipse solaire prévue le 12 août",
    "url": "https://www.sudradio.fr/horoscope/horoscope-du-mardi-4-aout-les-previsions-des-astres-pour-votre-journee-signe-par-signe",
-   "n_members": 92,
+   "n_members": 97,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -111,53 +171,23 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.537,
+   "divergence": 0.56,
    "category": "sciences-tech",
    "terms_left": [
-    "mieux",
     "profiter",
+    "mieux",
     "faut"
    ],
    "terms_right": [
+    "observer",
     "espagne",
-    "nuit",
-    "jour"
-   ]
-  },
-  {
-   "title": "Mortalité infantile: un rapport d’abord dissimulé dévoile la gravité de la situation en France",
-   "url": "https://information.tv5monde.com/international/video/crise-migratoire-ceuta-le-desenchantement-dune-jeunesse-en-quete-dexil-2832298",
-   "n_members": 64,
-   "n_sources": 28,
-   "counts": {
-    "left": 7,
-    "centre": 11,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 6
-   },
-   "blindspot_score": 0.176,
-   "blindspot_for": null,
-   "divergence": 0.571,
-   "category": "international",
-   "terms_left": [
-    "publié",
-    "rapport",
-    "politique"
-   ],
-   "terms_right": [
-    "migratoire",
-    "ceuta",
-    "ministre"
+    "français"
    ]
   },
   {
    "title": "Guerre en Ukraine : une nouvelle attaque russe sur Kiev et sa région fait au moins trois morts",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 370,
+   "n_members": 378,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -171,17 +201,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.274,
+   "divergence": 0.27,
    "category": "international",
    "terms_left": [
-    "régions",
     "direct",
+    "guerre",
     "tuées frappes"
    ],
    "terms_right": [
     "russie",
-    "pays",
-    "nouvelle"
+    "nouvelle",
+    "drones"
    ]
   },
   {
@@ -215,9 +245,9 @@
    ]
   },
   {
-   "title": "Le feu dans la Drôme poursuit sa légère progression, la situation reste «complexe»",
+   "title": "Drôme : le feu ayant ravagé plus de 300 hectares est stabilisé",
    "url": "https://www.ladepeche.fr/2026/08/01/accessible-uniquement-apres-40-minutes-de-marche-une-vingtaine-de-pompiers-et-des-moyens-aeriens-mobilises-sur-un-feu-de-vegetation-a-1-800-m-13493675.php",
-   "n_members": 87,
+   "n_members": 88,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -231,17 +261,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.617,
+   "divergence": 0.589,
    "category": "environnement",
    "terms_left": [
     "incendie drôme",
-    "bellegarde-en-diois",
-    "fin"
+    "lozère",
+    "bellegarde-en-diois"
    ],
    "terms_right": [
-    "drôme",
-    "feu",
-    "reprises"
+    "reprises",
+    "forêt",
+    "var"
    ]
   },
   {
@@ -357,9 +387,9 @@
    "terms_right": []
   },
   {
-   "title": "Nouveau-Mexique : Meta condamné à verser 567 millions de dollars pour financer des dommages causés aux mineurs, une première pour un réseau social",
+   "title": "Jugé responsable d’un \"trouble à l’ordre public\", Meta condamné à payer près d’un milliard de dollars",
    "url": "https://www.20minutes.fr/high-tech/4237036-20260803-agents-openai-train-devenir-cyberpirates-autonomes-conquerir-monde-calme",
-   "n_members": 51,
+   "n_members": 52,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -373,7 +403,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.724,
+   "divergence": 0.702,
    "category": "sciences-tech",
    "terms_left": [
     "dollars",
@@ -382,8 +412,37 @@
    ],
    "terms_right": [
     "ia",
-    "anthropic",
-    "modèles"
+    "facebook",
+    "anthropic"
+   ]
+  },
+  {
+   "title": "Var : le feu du Gros Bessillon fixé après 18 jours de mobilisation, 6.300 hectares parcourus",
+   "url": "https://www.ladepeche.fr/2026/08/05/incendie-au-nord-ouest-de-toulouse-trois-hectares-de-vegetation-ont-ete-ravages-par-un-feu-de-chaume-13497789.php",
+   "n_members": 68,
+   "n_sources": 21,
+   "counts": {
+    "left": 3,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 5,
+    "opinion": 3
+   },
+   "blindspot_score": 0.4,
+   "blindspot_for": null,
+   "divergence": 0.8,
+   "category": "faits-divers",
+   "terms_left": [
+    "france",
+    "environ"
+   ],
+   "terms_right": [
+    "feu",
+    "forêt",
+    "pompiers"
    ]
   },
   {
@@ -403,7 +462,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.429,
+   "divergence": 0.428,
    "category": "sport",
    "terms_left": [
     "coupes",
@@ -417,9 +476,39 @@
    ]
   },
   {
+   "title": "Côte d'Azur : la justice suspend l'arrêté anti-burkini d'un maire",
+   "url": "https://www.bfmtv.com/economie/video-c-est-le-desarroi-total-des-restaurateurs-de-la-plage-de-villeneuve-loubet-sommes-de-fermer-leurs-etablissements-menaces-par-l-erosion_VN-202608050142.html",
+   "n_members": 49,
+   "n_sources": 21,
+   "counts": {
+    "left": 3,
+    "centre": 8,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 5,
+    "opinion": 5
+   },
+   "blindspot_score": 0.538,
+   "blindspot_for": null,
+   "divergence": 0.634,
+   "category": "société",
+   "terms_left": [
+    "espace",
+    "espace public",
+    "maire mandelieu-la-napoule"
+   ],
+   "terms_right": [
+    "arrêté",
+    "justice",
+    "plages"
+   ]
+  },
+  {
    "title": "Tour de France femmes. Le classement général après la 8e étape après le coup de force de Demi Vollering",
    "url": "https://www.ouest-france.fr/sport/cyclisme/tour-de-france-femmes/tour-de-france-femmes-2026-vollering-bien-entouree-chez-fdj-united-suez-celia-gery-et-marie-le-net-dans-la-selection-4747d096-8672-11f1-94d8-e478b94a49e4",
-   "n_members": 151,
+   "n_members": 152,
    "n_sources": 20,
    "counts": {
     "left": 4,
@@ -463,7 +552,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.901,
+   "divergence": 0.889,
    "category": "culture",
    "terms_left": [
     "gironde",
@@ -479,7 +568,7 @@
   {
    "title": "Canicule : une 5e vague de chaleur arrive en France, à quoi faut-il s’attendre dans les prochains jours ?",
    "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
-   "n_members": 63,
+   "n_members": 64,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -493,7 +582,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.679,
+   "divergence": 0.676,
    "category": "environnement",
    "terms_left": [
     "jours",
@@ -509,7 +598,7 @@
   {
    "title": "Violences sexuelles sur mineurs: une lettre de Gérald Darmanin pointe les défaillances des enquêtes",
    "url": "https://www.nicematin.com/faits-divers/160-000-enfants-victimes-de-violences-sexuelles-chaque-annee-en-france-retour-sur-l-affaire-lyhanna-et-les-carences-en-matiere-de-protection-de-l-enfance-10689372",
-   "n_members": 56,
+   "n_members": 58,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -523,7 +612,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.419,
+   "divergence": 0.417,
    "category": "société",
    "terms_left": [
     "monde",
@@ -533,7 +622,37 @@
    "terms_right": [
     "gérald darmanin",
     "gérald",
-    "ministre"
+    "traitement"
+   ]
+  },
+  {
+   "title": "Paris, Lourdes, Metz, rencontre avec des victimes de violences sexuelles: le programme du pape Léon XIV en France",
+   "url": "https://www.cnews.fr/monde/2026-08-04/800e-anniversaire-de-la-mort-de-saint-francois-le-pape-la-rencontre-de-la-jeunesse",
+   "n_members": 42,
+   "n_sources": 20,
+   "counts": {
+    "left": 2,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 5,
+    "opinion": 2
+   },
+   "blindspot_score": 0.556,
+   "blindspot_for": null,
+   "divergence": 0.509,
+   "category": "société",
+   "terms_left": [
+    "fin",
+    "france fin",
+    "pays"
+   ],
+   "terms_right": [
+    "france",
+    "programme",
+    "paris"
    ]
   },
   {
@@ -565,28 +684,6 @@
     "incendie",
     "hectares"
    ]
-  },
-  {
-   "title": "Var : le feu du Gros Bessillon fixé après 18 jours de mobilisation, 6.300 hectares parcourus",
-   "url": "https://www.ladepeche.fr/2026/08/05/incendie-au-nord-ouest-de-toulouse-trois-hectares-de-vegetation-ont-ete-ravages-par-un-feu-de-chaume-13497789.php",
-   "n_members": 65,
-   "n_sources": 19,
-   "counts": {
-    "left": 2,
-    "centre": 11,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 4,
-    "opinion": 2
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.95,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
   },
   {
    "title": "Assemblée nationale : la pétition contre le nouveau pavillon d’accueil dépasse les 89.000 signatures",
@@ -641,6 +738,66 @@
    ]
   },
   {
+   "title": "Championnats d'Europe : blessé à un adducteur, Léon Marchand fait l'impasse sur les 200 et 400 m quatre nages",
+   "url": "https://www.franceinfo.fr/sports/natation/championnats-d-europe/quand-je-monte-les-escaliers-j-ai-deja-decide-de-plonger-madeleine-bayon-le-depassement-de-soi-et-la-determination-au-service-du-plongeon-de-haut-vol_8134439.html",
+   "n_members": 49,
+   "n_sources": 17,
+   "counts": {
+    "left": 2,
+    "centre": 10,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 5,
+    "opinion": 2
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.478,
+   "category": "sport",
+   "terms_left": [
+    "ans",
+    "mètres",
+    "préparation"
+   ],
+   "terms_right": [
+    "marchand",
+    "championnats",
+    "léon marchand"
+   ]
+  },
+  {
+   "title": "Vaucluse : un homme placé en détention provisoire pour le meurtre de son ex-compagne",
+   "url": "https://www.franceinfo.fr/faits-divers/apres-des-heures-de-traque-un-homme-soupconne-du-meurtre-d-un-septuagenaire-en-isere-a-ete-place-en-garde-a-vue_8134004.html",
+   "n_members": 68,
+   "n_sources": 16,
+   "counts": {
+    "left": 3,
+    "centre": 7,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 4,
+    "opinion": 3
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.725,
+   "category": "faits-divers",
+   "terms_left": [
+    "ancien",
+    "candidat",
+    "municipales"
+   ],
+   "terms_right": [
+    "homme",
+    "mis",
+    "examen"
+   ]
+  },
+  {
    "title": "Pas-de-Calais : un enfant brûlé au deuxième degré par l’explosion d'une balle anti-stress",
    "url": "https://www.leparisien.fr/faits-divers/un-britannique-cache-le-corps-de-sa-mere-dans-un-congelateur-pendant-pres-de-trois-ans-pour-toucher-91-000-euros-dallocations-03-08-2026-LUDJGTNZOFDUVFOHSVUGOLXCIA.php",
    "n_members": 60,
@@ -663,36 +820,6 @@
    "terms_right": []
   },
   {
-   "title": "Championnats d'Europe : blessé à un adducteur, Léon Marchand fait l'impasse sur les 200 et 400 m quatre nages",
-   "url": "https://www.franceinfo.fr/sports/natation/championnats-d-europe/quand-je-monte-les-escaliers-j-ai-deja-decide-de-plonger-madeleine-bayon-le-depassement-de-soi-et-la-determination-au-service-du-plongeon-de-haut-vol_8134439.html",
-   "n_members": 44,
-   "n_sources": 16,
-   "counts": {
-    "left": 2,
-    "centre": 9,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": 0.477,
-   "category": "sport",
-   "terms_left": [
-    "ans",
-    "mètres",
-    "préparation"
-   ],
-   "terms_right": [
-    "marchand",
-    "championnats",
-    "léon marchand"
-   ]
-  },
-  {
    "title": "Chine : annulations de vols et évacuations à l'approche du typhon Dolphin",
    "url": "https://www.bfmtv.com/international/asie/japon/video-evacuations-vols-annules-magasins-fermes-le-japon-face-au-passage-du-typhon-dolphin_VN-202608070196.html",
    "n_members": 29,
@@ -709,23 +836,23 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.418,
+   "divergence": 0.413,
    "category": "international",
    "terms_left": [
     "centre",
-    "pluies",
-    "matin"
+    "matin",
+    "national"
    ],
    "terms_right": [
     "dolphin",
-    "typhon dolphin",
-    "vols annulés"
+    "vols annulés",
+    "annulés"
    ]
   },
   {
    "title": "\"Quasiment aucune centrale thermique intacte\" après les bombardements russes: Volodymyr Zelensky inquiet pour les Ukrainiens à quelques mois de l'hiver",
    "url": "https://www.tf1info.fr/international/aujourd-hui-dans-24h-pujadas-presente-par-thomas-misrachi-iran-usa-negociations-et-cacophonie-2456596.html",
-   "n_members": 40,
+   "n_members": 41,
    "n_sources": 15,
    "counts": {
     "left": 0,
@@ -747,15 +874,15 @@
   {
    "title": "Trottinettes électriques : le port d’un casque et d’un gilet fluo désormais obligatoire à Paris",
    "url": "https://www.franceinfo.fr/economie/transports/trottinettes-electriques/un-bon-quart-des-patients-conservent-un-handicap-des-medecins-lyonnais-lancent-l-alerte-sur-la-multiplication-d-accidents-a-cause-de-trottinettes-electriques_8132432.html",
-   "n_members": 34,
-   "n_sources": 14,
+   "n_members": 35,
+   "n_sources": 15,
    "counts": {
     "left": 1,
-    "centre": 8,
+    "centre": 9,
     "right": 5
    },
    "style_counts": {
-    "factuel": 9,
+    "factuel": 10,
     "mixte": 4,
     "opinion": 1
    },
@@ -767,9 +894,61 @@
    "terms_right": []
   },
   {
+   "title": "Des incendies toujours plus coûteux pour les collectivités",
+   "url": "https://www.leparisien.fr/politique/des-cigarettes-bientot-plus-cheres-pour-financer-la-lutte-contre-les-incendies-une-proposition-de-loi-veut-taxer-ceux-qui-fabriquent-les-megots-06-08-2026-GKMOY7GD3RBGTDAO65PU7FSAS4.php",
+   "n_members": 19,
+   "n_sources": 12,
+   "counts": {
+    "left": 1,
+    "centre": 6,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 8,
+    "mixte": 2,
+    "opinion": 2
+   },
+   "blindspot_score": 0.667,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "société",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Présidentielle 2027 : François Bayrou souhaite une grande primaire entre « tous ceux qui rejettent les extrêmes », « du PS jusqu’aux gaullistes »",
+   "url": "https://www.cnews.fr/france/2026-08-09/presidentielle-2027-gabriel-attal-poursuit-son-tour-de-france-dans-les-pyrenees",
+   "n_members": 16,
+   "n_sources": 12,
+   "counts": {
+    "left": 2,
+    "centre": 5,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 6,
+    "mixte": 5,
+    "opinion": 1
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.783,
+   "category": "politique",
+   "terms_left": [
+    "catastrophe",
+    "ex-premier",
+    "ex-premier ministre"
+   ],
+   "terms_right": [
+    "eau",
+    "france",
+    "face"
+   ]
+  },
+  {
    "title": "Un incendie se déclare dans une chambre d’hôpital au Mans, un blessé grave",
    "url": "https://www.ouest-france.fr/societe/justice/un-homme-blesse-par-balles-une-enquete-pour-tentative-dassassinat-ouverte-a-niort-dedd1be6-93c4-11f1-8bae-616c424ae7e0",
-   "n_members": 19,
+   "n_members": 20,
    "n_sources": 11,
    "counts": {
     "left": 1,
@@ -791,15 +970,15 @@
   {
    "title": "Trente ans après le meurtre de Tupac Shakur, un ex-chef de gang devant la justice lors d'un procès historique",
    "url": "https://www.tf1info.fr/culture/etats-unis-je-n-ai-jamais-tue-personne-l-heure-du-proces-pour-le-seul-suspect-inculpe-pour-le-meurtre-du-rappeur-tupac-shakur-2457351.html",
-   "n_members": 10,
-   "n_sources": 10,
+   "n_members": 11,
+   "n_sources": 11,
    "counts": {
     "left": 1,
-    "centre": 5,
+    "centre": 6,
     "right": 4
    },
    "style_counts": {
-    "factuel": 7,
+    "factuel": 8,
     "mixte": 2,
     "opinion": 1
    },
@@ -811,22 +990,66 @@
    "terms_right": []
   },
   {
-   "title": "Cyclisme. « Le Tour de France femmes fait partie du quotidien des gens » : Marion Rousse se confie avant la dernière étape",
-   "url": "https://www.leprogres.fr/tour-de-france/2026/08/07/bob-musique-et-sirop-geant-le-temps-d-une-etape-j-ai-ete-caravaniere-du-tour-de-france",
-   "n_members": 27,
-   "n_sources": 9,
+   "title": "La chaleur en Europe occidentale a atteint un niveau record sur la période juin-juillet",
+   "url": "https://www.liberation.fr/environnement/climat/rechauffement-climatique-avec-2096-c-en-moyenne-les-oceans-franchissent-un-nouveau-record-de-chaleur-pour-un-mois-de-juillet-20260810_HZBMJ2JBF5GW5H6FGQ34LDJNQM/",
+   "n_members": 11,
+   "n_sources": 11,
    "counts": {
-    "left": 1,
-    "centre": 6,
-    "right": 2
+    "left": 2,
+    "centre": 5,
+    "right": 4
    },
    "style_counts": {
-    "factuel": 7,
-    "mixte": 1,
+    "factuel": 6,
+    "mixte": 4,
     "opinion": 1
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
+   "divergence": null,
+   "category": "environnement",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Cyclisme. « Le Tour de France femmes fait partie du quotidien des gens » : Marion Rousse se confie avant la dernière étape",
+   "url": "https://www.leprogres.fr/tour-de-france/2026/08/07/bob-musique-et-sirop-geant-le-temps-d-une-etape-j-ai-ete-caravaniere-du-tour-de-france",
+   "n_members": 29,
+   "n_sources": 10,
+   "counts": {
+    "left": 1,
+    "centre": 6,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 7,
+    "mixte": 1,
+    "opinion": 2
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "sport",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Mercato : le PSG officialise le retour de Lucas Digne",
+   "url": "https://www.franceinfo.fr/sports/foot/mercato/l-international-francais-maghnes-akliouche-rejoint-le-psg-en-provenance-de-monaco_8137574.html",
+   "n_members": 13,
+   "n_sources": 9,
+   "counts": {
+    "left": 0,
+    "centre": 5,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 6,
+    "mixte": 3,
+    "opinion": 0
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
    "divergence": null,
    "category": "sport",
    "terms_left": [],
@@ -855,28 +1078,6 @@
    "terms_right": []
   },
   {
-   "title": "La chaleur en Europe occidentale a atteint un niveau record sur la période juin-juillet",
-   "url": "https://www.liberation.fr/environnement/climat/rechauffement-climatique-avec-2096-c-en-moyenne-les-oceans-franchissent-un-nouveau-record-de-chaleur-pour-un-mois-de-juillet-20260810_HZBMJ2JBF5GW5H6FGQ34LDJNQM/",
-   "n_members": 9,
-   "n_sources": 9,
-   "counts": {
-    "left": 1,
-    "centre": 4,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 5,
-    "mixte": 3,
-    "opinion": 1
-   },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "environnement",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
    "title": "Retraites : le retour du gel des pensions",
    "url": "https://www.ouest-france.fr/economie/retraites/mode-de-calcul-trimestres-pour-enfant-que-vont-changer-ces-nouveaux-decrets-sur-la-retraite-des-meres-de-famille-e5f79f04-90d2-11f1-9add-57c399f24235",
    "n_members": 11,
@@ -895,160 +1096,6 @@
    "blindspot_for": "gauche",
    "divergence": null,
    "category": "économie",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Nucléaire : le réacteur numéro 2 de la centrale de Golfech de nouveau à l’arrêt à cause de la température de la Garonne",
-   "url": "https://www.franceinfo.fr/environnement/energie/nucleaire/la-centrale-nucleaire-de-golfech-a-ete-reconnectee-au-reseau-apres-une-periode-de-pause-initialement-causee-par-la-canicule_8138906.html",
-   "n_members": 11,
-   "n_sources": 8,
-   "counts": {
-    "left": 0,
-    "centre": 5,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 6,
-    "mixte": 2,
-    "opinion": 0
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "environnement",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Tennis : Arthur Fils qualifié en quarts de finale du Masters 1000 de Montréal, avec un tableau très ouvert",
-   "url": "https://www.ouest-france.fr/sport/tennis/vous-croyez-que-novak-se-souciera-dune-prime-zverev-jugerait-inutile-de-sanctionner-un-forfait-en-masters-1000-847d4e6e-8eba-11f1-bac6-43ee9437487c",
-   "n_members": 21,
-   "n_sources": 7,
-   "counts": {
-    "left": 0,
-    "centre": 3,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 3,
-    "mixte": 3,
-    "opinion": 1
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Elena Rybakina et Naomi Osaka avancent au WTA 1000 de Toronto",
-   "url": "https://www.ouest-france.fr/sport/tennis/lois-boisson/tennis-lois-boisson-obtient-une-wild-card-pour-disputer-les-qualifications-du-wta-1000-de-toronto-4b8c6230-8d88-11f1-bac6-43ee9437487c",
-   "n_members": 16,
-   "n_sources": 6,
-   "counts": {
-    "left": 0,
-    "centre": 3,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 3,
-    "mixte": 2,
-    "opinion": 1
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Saint-Tropez. Quatre Espagnols interpellés après une course-poursuite pour le vol d’une montre à 260 000 euros",
-   "url": "https://www.nicematin.com/faits-divers/ils-volent-une-montre-richard-mille-d-une-valeur-de-300-000-euros-et-sont-interpelles-au-terme-d-une-course-poursuite-epique-dans-le-golfe-de-saint-tropez-10703320",
-   "n_members": 6,
-   "n_sources": 6,
-   "counts": {
-    "left": 0,
-    "centre": 3,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 5,
-    "mixte": 0,
-    "opinion": 1
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Une compagnie pétrolière proche de Donald Trump s’apprête à forer au Groenland sans autorisation",
-   "url": "https://www.lefigaro.fr/conjoncture/groenland-comment-une-compagnie-petroliere-proche-de-donald-trump-s-apprete-a-forer-le-sous-sol-de-l-arctique-20260808",
-   "n_members": 5,
-   "n_sources": 5,
-   "counts": {
-    "left": 1,
-    "centre": 3,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 3,
-    "mixte": 2,
-    "opinion": 0
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "La Syrie annonce un accord sur le sort des bases russes situées sur la côte méditerranéenne",
-   "url": "https://www.lemonde.fr/international/article/2026/08/09/damas-dit-avoir-trouve-un-accord-avec-moscou-sur-le-sort-des-bases-russes-en-syrie_6742535_3210.html",
-   "n_members": 5,
-   "n_sources": 5,
-   "counts": {
-    "left": 1,
-    "centre": 3,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 3,
-    "mixte": 2,
-    "opinion": 0
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Présidentielle 2027 : François Bayrou appelle à une grande primaire entre « tous ceux qui rejettent les extrêmes »",
-   "url": "https://www.lefigaro.fr/elections/presidentielles/francois-bayrou-au-figaro-tous-ceux-qui-rejettent-les-extremes-doivent-accepter-d-organiser-une-competition-entre-les-candidats-potentiels-20260809",
-   "n_members": 5,
-   "n_sources": 5,
-   "counts": {
-    "left": 0,
-    "centre": 3,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 4,
-    "mixte": 1,
-    "opinion": 0
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "politique",
    "terms_left": [],
    "terms_right": []
   }
