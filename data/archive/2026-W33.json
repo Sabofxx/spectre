@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-10T11:45:34+00:00",
+ "generated_at": "2026-08-10T12:45:01+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -111,12 +111,12 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.298,
+   "divergence": 0.3,
    "category": "politique",
    "terms_left": [
     "glucksmann",
     "réseau",
-    "visés"
+    "storm"
    ],
    "terms_right": [
     "gabriel attal",
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.545,
+   "divergence": 0.56,
    "category": "sciences-tech",
    "terms_left": [
     "profiter",
@@ -150,7 +150,7 @@
    ],
    "terms_right": [
     "espagne",
-    "lune",
+    "nuit",
     "observer"
    ]
   },
@@ -305,9 +305,39 @@
    ]
   },
   {
-   "title": "Le feu dans la Drôme poursuit sa légère progression, la situation reste «complexe»",
+   "title": "Erik Tegnér victime d'une agression à Groix, enquête ouverte",
+   "url": "https://www.franceinfo.fr/faits-divers/plusieurs-tags-a-caractere-neonazi-fasciste-et-antisemite-decouverts-a-la-fleche-dans-la-sarthe_8133485.html",
+   "n_members": 61,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.488,
+   "category": "société",
+   "terms_left": [
+    "non-corses",
+    "frontières",
+    "média"
+   ],
+   "terms_right": [
+    "corse",
+    "autonomie corse",
+    "autonomie"
+   ]
+  },
+  {
+   "title": "Incendies : 370 hectares sont partis en fumée dans la Drôme, un feu se déclare en Lozère",
    "url": "https://www.ladepeche.fr/2026/08/01/accessible-uniquement-apres-40-minutes-de-marche-une-vingtaine-de-pompiers-et-des-moyens-aeriens-mobilises-sur-un-feu-de-vegetation-a-1-800-m-13493675.php",
-   "n_members": 93,
+   "n_members": 94,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -321,17 +351,47 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.558,
+   "divergence": 0.529,
    "category": "environnement",
    "terms_left": [
+    "massif claps",
     "bellegarde-en-diois",
-    "incendie drôme",
-    "fin"
+    "incendie drôme"
    ],
    "terms_right": [
-    "drôme",
-    "feu",
-    "var"
+    "reprises",
+    "var",
+    "situation"
+   ]
+  },
+  {
+   "title": "Éclipse solaire: les lunettes en rupture de stock dans la majorité des boutiques",
+   "url": "https://www.leprogres.fr/societe/2026/07/29/le-dessin-du-29-juillet-zelensky-a-la-maison-blanche",
+   "n_members": 75,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 15,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.669,
+   "category": "société",
+   "terms_left": [
+    "travail",
+    "conditions",
+    "conditions travail"
+   ],
+   "terms_right": [
+    "éclipse",
+    "lunettes",
+    "jours"
    ]
   },
   {
@@ -351,12 +411,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.522,
+   "divergence": 0.531,
    "category": "international",
    "terms_left": [
     "iranien",
     "ciblé",
-    "réouverture"
+    "dit"
    ],
    "terms_right": [
     "trump",
@@ -365,9 +425,9 @@
    ]
   },
   {
-   "title": "Narcotrafic : les deux cadres marseillais interpellés en Algérie placés en détention provisoire, annonce Gérald Darmanin",
+   "title": "DZ Mafia : les deux cadres interpellés ont été incarcérés en Algérie, annonce Gérald Darmanin",
    "url": "https://www.franceinfo.fr/societe/drogue/info-franceinfo-mehdi-laribi-presente-comme-l-un-des-fondateurs-de-la-dz-mafia-arrete-en-algerie-il-y-a-quelques-jours_8135381.html",
-   "n_members": 62,
+   "n_members": 71,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -381,12 +441,12 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.289,
+   "divergence": 0.247,
    "category": "faits-divers",
    "terms_left": [
     "arrêté algérie",
-    "français",
-    "ministre"
+    "organisation",
+    "présumés"
    ],
    "terms_right": [
     "mafia",
@@ -422,6 +482,36 @@
     "français",
     "pays",
     "situation"
+   ]
+  },
+  {
+   "title": "Gironde: après les incendies, l'appel au \"tourisme solidaire\" des commerçants et hôteliers pour tenter de sauver leur saison",
+   "url": "https://www.leparisien.fr/environnement/la-construction-dune-megaferme-terrestre-delevage-de-saumons-autorisee-en-gironde-04-08-2026-5UD5JPLM6FAG7ANWHP36XWQPGE.php",
+   "n_members": 62,
+   "n_sources": 23,
+   "counts": {
+    "left": 6,
+    "centre": 9,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.633,
+   "category": "environnement",
+   "terms_left": [
+    "préfecture",
+    "incendies gironde",
+    "mégaferme"
+   ],
+   "terms_right": [
+    "france",
+    "personnes",
+    "porge"
    ]
   },
   {
@@ -485,6 +575,36 @@
    ]
   },
   {
+   "title": "Violences sexuelles sur mineurs: une lettre de Gérald Darmanin pointe les défaillances des enquêtes",
+   "url": "https://www.nicematin.com/faits-divers/160-000-enfants-victimes-de-violences-sexuelles-chaque-annee-en-france-retour-sur-l-affaire-lyhanna-et-les-carences-en-matiere-de-protection-de-l-enfance-10689372",
+   "n_members": 61,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.359,
+   "category": "société",
+   "terms_left": [
+    "police judiciaire",
+    "judiciaire dénonce",
+    "judiciaire"
+   ],
+   "terms_right": [
+    "laurent",
+    "laurent nuñez",
+    "nuñez"
+   ]
+  },
+  {
    "title": "INFOGRAPHIE. Prix des carburants : ça baisse cette semaine, le SP95-E10 repasse sous les 2 €",
    "url": "https://www.leparisien.fr/politique/commande-en-ligne-chiots-dans-larriere-boutique-ces-animaleries-qui-contournent-linterdiction-de-vendre-chiens-et-chats-03-08-2026-TNDT5L3WVJF2ZHVOENM2N6QQGM.php",
    "n_members": 57,
@@ -534,6 +654,36 @@
     "ia",
     "facebook",
     "anthropic"
+   ]
+  },
+  {
+   "title": "Bulgarie: ce que l’on sait sur le drone qui a explosé près d’un gazoduc et de la frontière avec la Roumanie",
+   "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-une-eglise-en-bois-vieille-de-300-ans-unique-en-son-genre-detruit-par-une-frappe-de-drone-russe-04-08-2026-23MEK7KTUBDDTIEG4YDWHZXFX4.php",
+   "n_members": 45,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 4,
+    "opinion": 3
+   },
+   "blindspot_score": 0.111,
+   "blindspot_for": null,
+   "divergence": 0.307,
+   "category": "international",
+   "terms_left": [
+    "guerre",
+    "guerre ukraine",
+    "ukraine drone"
+   ],
+   "terms_right": [
+    "frontière roumanie",
+    "roumanie",
+    "gazoduc"
    ]
   },
   {
@@ -596,36 +746,6 @@
    ]
   },
   {
-   "title": "Violences sexuelles sur mineurs: une lettre de Gérald Darmanin pointe les défaillances des enquêtes",
-   "url": "https://www.nicematin.com/faits-divers/160-000-enfants-victimes-de-violences-sexuelles-chaque-annee-en-france-retour-sur-l-affaire-lyhanna-et-les-carences-en-matiere-de-protection-de-l-enfance-10689372",
-   "n_members": 60,
-   "n_sources": 21,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.391,
-   "category": "société",
-   "terms_left": [
-    "monde",
-    "services",
-    "révélé monde"
-   ],
-   "terms_right": [
-    "gérald darmanin",
-    "gérald",
-    "laurent"
-   ]
-  },
-  {
    "title": "Côte d'Azur : la justice suspend l'arrêté anti-burkini d'un maire",
    "url": "https://www.bfmtv.com/economie/video-c-est-le-desarroi-total-des-restaurateurs-de-la-plage-de-villeneuve-loubet-sommes-de-fermer-leurs-etablissements-menaces-par-l-erosion_VN-202608050142.html",
    "n_members": 50,
@@ -642,7 +762,7 @@
    },
    "blindspot_score": 0.538,
    "blindspot_for": null,
-   "divergence": 0.674,
+   "divergence": 0.676,
    "category": "société",
    "terms_left": [
     "espace",
@@ -718,7 +838,7 @@
   {
    "title": "Canicule : une 5e vague de chaleur arrive en France, à quoi faut-il s’attendre dans les prochains jours ?",
    "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
-   "n_members": 64,
+   "n_members": 66,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -732,7 +852,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.668,
+   "divergence": 0.66,
    "category": "environnement",
    "terms_left": [
     "jours",
@@ -742,13 +862,13 @@
    "terms_right": [
     "canicule",
     "météo",
-    "semaine"
+    "sud"
    ]
   },
   {
-   "title": "Paris, Lourdes, Metz, rencontre avec des victimes de violences sexuelles: le programme du pape Léon XIV en France",
+   "title": "Programme, inscriptions... Tout savoir sur la visite du pape Léon XIV en France en septembre",
    "url": "https://www.cnews.fr/monde/2026-08-04/800e-anniversaire-de-la-mort-de-saint-francois-le-pape-la-rencontre-de-la-jeunesse",
-   "n_members": 45,
+   "n_members": 46,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -800,7 +920,7 @@
   {
    "title": "Le taux de chômage monte à 8,3% au deuxième trimestre, au plus haut depuis l'automne 2020",
    "url": "https://www.bfmtv.com/economie/emploi/c-est-son-plus-haut-niveau-depuis-l-automne-2020-le-taux-de-chomage-augmente-de-0-2-point-a-8-3-au-deuxieme-trimestre_AD-202608070086.html",
-   "n_members": 37,
+   "n_members": 41,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -822,7 +942,7 @@
   {
    "title": "EN IMAGES - L'éruption de l'Etna force l'aéroport de Catane à suspendre ses vols à l'arrivée",
    "url": "https://www.bfmtv.com/international/amerique-latine/le-volcan-de-fuego-est-entre-en-eruption-le-guatemala-emet-une-alerte-danger_AD-202608040055.html",
-   "n_members": 52,
+   "n_members": 53,
    "n_sources": 19,
    "counts": {
     "left": 3,
@@ -899,6 +1019,36 @@
     "trump",
     "donald",
     "donald trump"
+   ]
+  },
+  {
+   "title": "Chaleur record en Europe de l'Ouest pour le début de l'été 2026",
+   "url": "https://www.liberation.fr/environnement/climat/rechauffement-climatique-avec-2096-c-en-moyenne-les-oceans-franchissent-un-nouveau-record-de-chaleur-pour-un-mois-de-juillet-20260810_HZBMJ2JBF5GW5H6FGQ34LDJNQM/",
+   "n_members": 20,
+   "n_sources": 18,
+   "counts": {
+    "left": 4,
+    "centre": 10,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 6,
+    "opinion": 1
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.549,
+   "category": "environnement",
+   "terms_left": [
+    "moyenne",
+    "copernicus",
+    "température moyenne"
+   ],
+   "terms_right": [
+    "début chaud",
+    "connu",
+    "chaud"
    ]
   },
   {
@@ -1012,140 +1162,6 @@
     "annulés",
     "vols"
    ]
-  },
-  {
-   "title": "Vaucluse : un homme placé en détention provisoire pour le meurtre de son ex-compagne",
-   "url": "https://www.franceinfo.fr/faits-divers/apres-des-heures-de-traque-un-homme-soupconne-du-meurtre-d-un-septuagenaire-en-isere-a-ete-place-en-garde-a-vue_8134004.html",
-   "n_members": 68,
-   "n_sources": 16,
-   "counts": {
-    "left": 3,
-    "centre": 7,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 4,
-    "opinion": 3
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.738,
-   "category": "faits-divers",
-   "terms_left": [
-    "ancien",
-    "candidat",
-    "municipales"
-   ],
-   "terms_right": [
-    "homme",
-    "mis",
-    "examen"
-   ]
-  },
-  {
-   "title": "Pas-de-Calais : un enfant brûlé au deuxième degré par l’explosion d'une balle anti-stress",
-   "url": "https://www.leparisien.fr/faits-divers/un-britannique-cache-le-corps-de-sa-mere-dans-un-congelateur-pendant-pres-de-trois-ans-pour-toucher-91-000-euros-dallocations-03-08-2026-LUDJGTNZOFDUVFOHSVUGOLXCIA.php",
-   "n_members": 60,
-   "n_sources": 16,
-   "counts": {
-    "left": 0,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 2,
-    "opinion": 3
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Chaleur record en Europe de l'Ouest pour le début de l'été 2026",
-   "url": "https://www.liberation.fr/environnement/climat/rechauffement-climatique-avec-2096-c-en-moyenne-les-oceans-franchissent-un-nouveau-record-de-chaleur-pour-un-mois-de-juillet-20260810_HZBMJ2JBF5GW5H6FGQ34LDJNQM/",
-   "n_members": 17,
-   "n_sources": 16,
-   "counts": {
-    "left": 4,
-    "centre": 8,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.681,
-   "category": "environnement",
-   "terms_left": [
-    "moyenne",
-    "copernicus",
-    "température moyenne"
-   ],
-   "terms_right": [
-    "connu",
-    "chaud",
-    "chaud enregistré"
-   ]
-  },
-  {
-   "title": "La comédienne Dominique Frot est morte à l’âge de 68 ans",
-   "url": "https://www.lemonde.fr/disparitions/article/2026/08/09/dominique-frot-meurt-a-l-age-de-68-ans_6742268_3382.html",
-   "n_members": 16,
-   "n_sources": 16,
-   "counts": {
-    "left": 5,
-    "centre": 6,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 8,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.263,
-   "category": "culture",
-   "terms_left": [
-    "morte",
-    "frot morte",
-    "âge"
-   ],
-   "terms_right": [
-    "annonce",
-    "grand",
-    "décès"
-   ]
-  },
-  {
-   "title": "Trottinettes électriques : le port d’un casque et d’un gilet fluo désormais obligatoire à Paris",
-   "url": "https://www.franceinfo.fr/economie/transports/trottinettes-electriques/un-bon-quart-des-patients-conservent-un-handicap-des-medecins-lyonnais-lancent-l-alerte-sur-la-multiplication-d-accidents-a-cause-de-trottinettes-electriques_8132432.html",
-   "n_members": 38,
-   "n_sources": 15,
-   "counts": {
-    "left": 1,
-    "centre": 9,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": 0.667,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "société",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
