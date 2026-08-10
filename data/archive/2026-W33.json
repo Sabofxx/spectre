@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-10T20:09:14+00:00",
+ "generated_at": "2026-08-10T21:11:13+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -381,17 +381,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.521,
+   "divergence": 0.526,
    "category": "environnement",
    "terms_left": [
     "massif claps",
-    "bellegarde-en-diois",
-    "incendie drôme"
+    "massif",
+    "claps"
    ],
    "terms_right": [
-    "feu",
-    "var",
-    "incendies"
+    "incendies",
+    "poursuit",
+    "reprises"
    ]
   },
   {
@@ -517,7 +517,7 @@
   {
    "title": "Un policier tué, plusieurs personnes blessées... Le premier jour au pouvoir du nouveau président colombien marqué par des attaques",
    "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260808-colombie-le-nouveau-pr%C3%A9sident-d-extr%C3%AAme-droite-abelardo-de-la-espriella-a-%C3%A9t%C3%A9-investi",
-   "n_members": 65,
+   "n_members": 66,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -531,7 +531,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.505,
+   "divergence": 0.509,
    "category": "international",
    "terms_left": [
     "service",
@@ -539,8 +539,8 @@
     "service géologique"
    ],
    "terms_right": [
-    "pays",
     "puissant",
+    "pays",
     "pereira"
    ]
   },
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.628,
+   "divergence": 0.629,
    "category": "environnement",
    "terms_left": [
     "préfecture",
@@ -734,14 +734,14 @@
    ],
    "terms_right": [
     "ia",
-    "facebook",
-    "anthropic"
+    "personnes",
+    "facebook"
    ]
   },
   {
-   "title": "Groenland : derrière un projet pétrolier texan, l'appétit renouvelé de Donald Trump",
+   "title": "États-Unis : Donald Trump veut à son tour réclamer des «compensations» à l’Iran",
    "url": "https://www.sudouest.fr/international/etats-unis/donald-trump/droit-du-sol-aux-etats-unis-donald-trump-signe-un-decret-contre-le-tourisme-des-naissances-30185832.php",
-   "n_members": 47,
+   "n_members": 50,
    "n_sources": 22,
    "counts": {
     "left": 6,
@@ -755,7 +755,7 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.474,
+   "divergence": 0.476,
    "category": "international",
    "terms_left": [
     "groenland",
@@ -763,9 +763,9 @@
     "guerre"
    ],
    "terms_right": [
-    "états-unis",
     "donald trump",
-    "donald"
+    "donald",
+    "états-unis"
    ]
   },
   {
@@ -801,7 +801,7 @@
   {
    "title": "Chaleur record en Europe de l'Ouest pour le début de l'été 2026",
    "url": "https://www.bfmtv.com/environnement/climat/video-canicule-marine-la-temperature-de-l-eau-a-marseille-est-de-3-5-c-superieure-aux-normales_VN-202608080046.html",
-   "n_members": 33,
+   "n_members": 34,
    "n_sources": 22,
    "counts": {
     "left": 6,
@@ -815,7 +815,7 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.547,
+   "divergence": 0.538,
    "category": "environnement",
    "terms_left": [
     "copernicus",
@@ -823,9 +823,9 @@
     "nouveau"
    ],
    "terms_right": [
-    "connu",
     "chaud",
-    "chaud enregistré"
+    "chaud enregistré",
+    "connu"
    ]
   },
   {
@@ -940,9 +940,31 @@
    "terms_right": []
   },
   {
+   "title": "Visite du pape en France : ouverture des inscriptions pour les célébrations à Paris et Saint-Denis, voici comment procéder",
+   "url": "https://www.cnews.fr/monde/2026-08-04/800e-anniversaire-de-la-mort-de-saint-francois-le-pape-la-rencontre-de-la-jeunesse",
+   "n_members": 54,
+   "n_sources": 21,
+   "counts": {
+    "left": 2,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 5,
+    "opinion": 2
+   },
+   "blindspot_score": 0.556,
+   "blindspot_for": null,
+   "divergence": 0.57,
+   "category": "société",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Chômage : Sébastien Lecornu défend le bilan du macronisme, sans « déni » mais en appelant à rejeter la « caricature »",
    "url": "https://www.bfmtv.com/economie/emploi/c-est-son-plus-haut-niveau-depuis-l-automne-2020-le-taux-de-chomage-augmente-de-0-2-point-a-8-3-au-deuxieme-trimestre_AD-202608070086.html",
-   "n_members": 45,
+   "n_members": 46,
    "n_sources": 21,
    "counts": {
     "left": 4,
@@ -956,17 +978,17 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.43,
+   "divergence": 0.451,
    "category": "économie",
    "terms_left": [
+    "macron",
     "chiffres",
-    "insee",
-    "macron"
+    "insee"
    ],
    "terms_right": [
     "taux",
     "taux chômage",
-    "emploi"
+    "états-unis"
    ]
   },
   {
@@ -986,17 +1008,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.456,
+   "divergence": 0.431,
    "category": "international",
    "terms_left": [
+    "mesures",
     "espagnoles",
-    "crise ceuta",
-    "meloni"
+    "crise ceuta"
    ],
    "terms_right": [
-    "provenance italie",
+    "tour",
     "voyageurs provenance",
-    "provenance"
+    "provenance italie"
    ]
   },
   {
@@ -1118,28 +1140,6 @@
     "pays",
     "semaine"
    ]
-  },
-  {
-   "title": "Visite du pape en France : ouverture des inscriptions pour les célébrations à Paris et Saint-Denis, voici comment procéder",
-   "url": "https://www.cnews.fr/monde/2026-08-04/800e-anniversaire-de-la-mort-de-saint-francois-le-pape-la-rencontre-de-la-jeunesse",
-   "n_members": 51,
-   "n_sources": 20,
-   "counts": {
-    "left": 2,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.556,
-   "blindspot_for": null,
-   "divergence": 0.57,
-   "category": "société",
-   "terms_left": [],
-   "terms_right": []
   },
   {
    "title": "Vaste feu de forêt dans l’ouest du Canada : 20 000 évacués, état d’urgence déclaré par les autorités",
