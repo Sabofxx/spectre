@@ -1,9 +1,99 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-10T00:57:11+00:00",
+ "generated_at": "2026-08-10T03:08:41+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
+  {
+   "title": "Moyen-Orient en direct : l'Iran pose ses conditions à toute réouverture du détroit d'Ormuz",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/guerre-au-moyen-orient-le-porte-avion-charles-de-gaulle-de-retour-en-france-7459876",
+   "n_members": 704,
+   "n_sources": 33,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 11,
+    "opinion": 4
+   },
+   "blindspot_score": 0.263,
+   "blindspot_for": null,
+   "divergence": 0.185,
+   "category": "international",
+   "terms_left": [
+    "direct guerre",
+    "direct",
+    "etats-unis"
+   ],
+   "terms_right": [
+    "états-unis",
+    "détroit",
+    "détroit ormuz"
+   ]
+  },
+  {
+   "title": "Israël rejette le plan américain pour la paix à Gaza accepté par le Hamas, annonce Benyamin Netanyahou",
+   "url": "https://www.sudouest.fr/international/moyen-orient/gaza/gaza-quatre-morts-dont-deux-enfants-dans-des-frappes-israeliennes-30117437.php",
+   "n_members": 131,
+   "n_sources": 29,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.183,
+   "category": "international",
+   "terms_left": [
+    "accepté",
+    "israël accepté",
+    "bande gaza"
+   ],
+   "terms_right": [
+    "paix",
+    "mouvement",
+    "plan paix"
+   ]
+  },
+  {
+   "title": "Yémen: nouvelle attaque meurtrière des rebelles houthis en deux jours",
+   "url": "https://www.courrierinternational.com/article/politique-colombie-de-la-espriella-va-investir-une-maison-blanche-tropicale-loin-de-bogota_256116",
+   "n_members": 69,
+   "n_sources": 22,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": -0.091,
+   "blindspot_for": null,
+   "divergence": 0.665,
+   "category": "international",
+   "terms_left": [
+    "frappes",
+    "rebelles",
+    "crime guerre"
+   ],
+   "terms_right": [
+    "moyen-orient",
+    "soldats",
+    "guerre moyen-orient"
+   ]
+  },
   {
    "title": "Mineurs sur les réseaux sociaux : Meta condamné à verser près d’un milliard de dollars au Nouveau-Mexique",
    "url": "https://www.20minutes.fr/high-tech/4237036-20260803-agents-openai-train-devenir-cyberpirates-autonomes-conquerir-monde-calme",
@@ -21,7 +111,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.739,
+   "divergence": 0.711,
    "category": "sciences-tech",
    "terms_left": [
     "dollars",
@@ -37,7 +127,7 @@
   {
    "title": "\"Quasiment aucune centrale thermique intacte\" après les bombardements russes: Volodymyr Zelensky inquiet pour les Ukrainiens à quelques mois de l'hiver",
    "url": "https://www.tf1info.fr/international/aujourd-hui-dans-24h-pujadas-presente-par-thomas-misrachi-iran-usa-negociations-et-cacophonie-2456596.html",
-   "n_members": 36,
+   "n_members": 38,
    "n_sources": 14,
    "counts": {
     "left": 0,
@@ -58,8 +148,8 @@
   },
   {
    "title": "Cyclisme. « Le Tour de France femmes fait partie du quotidien des gens » : Marion Rousse se confie avant la dernière étape",
-   "url": "https://www.radiofrance.fr/francebleu/podcasts/l-invite-d-ici-matin-ici-drome-ardeche/la-ministre-des-sports-marina-ferrari-presente-sur-la-7e-etape-du-tour-de-france-femmes-en-ardeche-2386400",
-   "n_members": 24,
+   "url": "https://www.leprogres.fr/tour-de-france/2026/08/07/bob-musique-et-sirop-geant-le-temps-d-une-etape-j-ai-ete-caravaniere-du-tour-de-france",
+   "n_members": 25,
    "n_sources": 8,
    "counts": {
     "left": 0,
@@ -68,6 +158,28 @@
    },
    "style_counts": {
     "factuel": 7,
+    "mixte": 1,
+    "opinion": 0
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "sport",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "L’AS Monaco renverse Liverpool (2-3) à Anfield à onze jours de son premier match officiel",
+   "url": "https://www.nicematin.com/sports/football/son-depart-est-une-grande-perte-l-entraineur-de-l-as-monaco-filipe-luis-evoque-le-depart-de-maghnes-akliouche-au-paris-saint-germain-10702014",
+   "n_members": 8,
+   "n_sources": 3,
+   "counts": {
+    "left": 0,
+    "centre": 2,
+    "right": 1
+   },
+   "style_counts": {
+    "factuel": 2,
     "mixte": 1,
     "opinion": 0
    },
