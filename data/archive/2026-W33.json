@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-10T22:06:31+00:00",
+ "generated_at": "2026-08-10T23:05:04+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -275,9 +275,9 @@
    ]
   },
   {
-   "title": "EN DIRECT, guerre en Ukraine : des échanges de frappes font cinq morts et des dizaines de blessés en Ukraine et en Russie",
+   "title": "Guerre en Ukraine : une nouvelle attaque russe sur Kiev et sa région fait au moins trois morts",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 392,
+   "n_members": 395,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -291,17 +291,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.273,
+   "divergence": 0.272,
    "category": "international",
    "terms_left": [
-    "tatarstan",
     "direct",
+    "tatarstan",
     "raffinerie"
    ],
    "terms_right": [
     "russie",
     "drones",
-    "nouvelle"
+    "aérienne"
    ]
   },
   {
@@ -367,7 +367,7 @@
   {
    "title": "Incendies dans la Drôme: 400 hectares brûlés, le feu poursuit sa \"lente progression\"",
    "url": "https://www.ladepeche.fr/2026/08/01/accessible-uniquement-apres-40-minutes-de-marche-une-vingtaine-de-pompiers-et-des-moyens-aeriens-mobilises-sur-un-feu-de-vegetation-a-1-800-m-13493675.php",
-   "n_members": 96,
+   "n_members": 97,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -397,7 +397,7 @@
   {
    "title": "Éclipse solaire: les lunettes en rupture de stock dans la majorité des boutiques",
    "url": "https://www.leprogres.fr/societe/2026/07/29/le-dessin-du-29-juillet-zelensky-a-la-maison-blanche",
-   "n_members": 79,
+   "n_members": 80,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -709,6 +709,36 @@
    "terms_right": []
   },
   {
+   "title": "États-Unis : Donald Trump veut à son tour réclamer des «compensations» à l’Iran",
+   "url": "https://www.sudouest.fr/international/etats-unis/donald-trump/droit-du-sol-aux-etats-unis-donald-trump-signe-un-decret-contre-le-tourisme-des-naissances-30185832.php",
+   "n_members": 55,
+   "n_sources": 22,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": -0.091,
+   "blindspot_for": null,
+   "divergence": 0.481,
+   "category": "international",
+   "terms_left": [
+    "groenland",
+    "pétrolière",
+    "forage"
+   ],
+   "terms_right": [
+    "états-unis",
+    "donald trump",
+    "donald"
+   ]
+  },
+  {
    "title": "Jugé responsable d’un \"trouble à l’ordre public\", Meta condamné à payer près d’un milliard de dollars",
    "url": "https://www.20minutes.fr/high-tech/4237036-20260803-agents-openai-train-devenir-cyberpirates-autonomes-conquerir-monde-calme",
    "n_members": 52,
@@ -736,36 +766,6 @@
     "ia",
     "personnes",
     "facebook"
-   ]
-  },
-  {
-   "title": "États-Unis : Donald Trump veut à son tour réclamer des «compensations» à l’Iran",
-   "url": "https://www.sudouest.fr/international/etats-unis/donald-trump/droit-du-sol-aux-etats-unis-donald-trump-signe-un-decret-contre-le-tourisme-des-naissances-30185832.php",
-   "n_members": 52,
-   "n_sources": 22,
-   "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": -0.091,
-   "blindspot_for": null,
-   "divergence": 0.476,
-   "category": "international",
-   "terms_left": [
-    "groenland",
-    "pétrolière",
-    "guerre"
-   ],
-   "terms_right": [
-    "donald trump",
-    "donald",
-    "états-unis"
    ]
   },
   {
@@ -1144,7 +1144,7 @@
   {
    "title": "Etats-Unis : Figure de la gauche, Alexandria Ocasio-Cortez chronique sa procédure de gel d’ovocytes sur les réseaux",
    "url": "https://www.france24.com/fr/am%C3%A9riques/20260803-les-primaires-dans-le-michigan-un-scrutin-qui-expose-les-divisions-des-d%C3%A9mocrates-sur-isra%C3%ABl",
-   "n_members": 51,
+   "n_members": 52,
    "n_sources": 20,
    "counts": {
     "left": 5,
