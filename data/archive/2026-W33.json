@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-11T04:48:47+00:00",
+ "generated_at": "2026-08-11T05:49:18+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -36,8 +36,8 @@
   },
   {
    "title": "Moyen-Orient en direct : l'Iran pose ses conditions à toute réouverture du détroit d'Ormuz",
-   "url": "https://www.bfmtv.com/international/moyen-orient/iran/video-guerre-au-moyen-orient-le-detroit-d-ormuz-ferme-par-l-iran-apres-un-tir-sur-un-porte-conteneurs-americain-les-etats-unis-lancent-une-serie-de-frappes-en-represailles_VN-202607120093.html",
-   "n_members": 707,
+   "url": "https://www.tf1info.fr/international/direct-moyen-orient-frappes-americaines-en-iran-attaques-pays-du-golfe-les-dernieres-informations-du-mardi-21-juillet-2026-2454161.html",
+   "n_members": 689,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -51,17 +51,17 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.184,
+   "divergence": 0.183,
    "category": "international",
    "terms_left": [
     "direct guerre",
-    "direct",
-    "etats-unis"
+    "etats-unis",
+    "direct"
    ],
    "terms_right": [
     "états-unis",
-    "détroit",
-    "détroit ormuz"
+    "soldats",
+    "détroit"
    ]
   },
   {
@@ -97,7 +97,7 @@
   {
    "title": "Éclipse solaire du 12 août : comment l'observer en France",
    "url": "https://www.sudradio.fr/horoscope/horoscope-du-mardi-4-aout-les-previsions-des-astres-pour-votre-journee-signe-par-signe",
-   "n_members": 132,
+   "n_members": 134,
    "n_sources": 32,
    "counts": {
     "left": 6,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.54,
+   "divergence": 0.551,
    "category": "sciences-tech",
    "terms_left": [
     "profiter",
@@ -141,17 +141,17 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.3,
+   "divergence": 0.309,
    "category": "politique",
    "terms_left": [
     "glucksmann",
     "réseau",
-    "storm"
+    "raphaël"
    ],
    "terms_right": [
-    "gabriel attal",
-    "gabriel",
-    "ingérence étrangère"
+    "ingérence étrangère",
+    "étrangère",
+    "gabriel attal"
    ]
   },
   {
@@ -215,36 +215,6 @@
    ]
   },
   {
-   "title": "Canicule : vingt-deux départements du centre et du sud-est placés en vigilance orange ce lundi",
-   "url": "https://www.tf1info.fr/meteo/meteo-france-vigilance-canicule-16-departements-en-orange-mercredi-29-juillet-jusqu-a-42-c-annonces-en-gironde-et-dans-les-landes-2455565.html",
-   "n_members": 539,
-   "n_sources": 28,
-   "counts": {
-    "left": 7,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 11,
-    "opinion": 2
-   },
-   "blindspot_score": 0.067,
-   "blindspot_for": null,
-   "divergence": 0.31,
-   "category": "environnement",
-   "terms_left": [
-    "direct",
-    "direct incendies",
-    "incendies"
-   ],
-   "terms_right": [
-    "placés",
-    "placés vigilance",
-    "départements placés"
-   ]
-  },
-  {
    "title": "Fortes chaleurs : record de puissance indisponible pour le parc nucléaire d’EDF dimanche",
    "url": "https://information.tv5monde.com/international/la-secheresse-frappe-les-balkans-le-danube-au-plus-bas-en-serbie-2831837",
    "n_members": 85,
@@ -275,9 +245,39 @@
    ]
   },
   {
+   "title": "Canicule : vingt-deux départements du centre et du sud-est placés en vigilance orange ce lundi",
+   "url": "https://www.tf1info.fr/meteo/meteo-france-vigilance-canicule-16-departements-en-orange-mercredi-29-juillet-jusqu-a-42-c-annonces-en-gironde-et-dans-les-landes-2455565.html",
+   "n_members": 535,
+   "n_sources": 27,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.307,
+   "category": "environnement",
+   "terms_left": [
+    "direct",
+    "direct incendies",
+    "incendies"
+   ],
+   "terms_right": [
+    "placés",
+    "placés vigilance",
+    "départements placés"
+   ]
+  },
+  {
    "title": "EN DIRECT, guerre en Ukraine : des échanges de frappes font cinq morts et des dizaines de blessés en Ukraine et en Russie",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 398,
+   "n_members": 400,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -299,9 +299,9 @@
     "raffinerie"
    ],
    "terms_right": [
-    "russie",
-    "drones",
-    "nouvelle"
+    "nouvelle",
+    "frappe",
+    "russie"
    ]
   },
   {
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.467,
+   "divergence": 0.466,
    "category": "société",
    "terms_left": [
     "menace non-corses",
@@ -395,9 +395,9 @@
    ]
   },
   {
-   "title": "Éclipse solaire: les lunettes en rupture de stock dans la majorité des boutiques",
+   "title": "Éclipse solaire : une course contre la montre pour trouver les dernières lunettes de protection",
    "url": "https://www.leprogres.fr/societe/2026/07/29/le-dessin-du-29-juillet-zelensky-a-la-maison-blanche",
-   "n_members": 81,
+   "n_members": 82,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.666,
+   "divergence": 0.665,
    "category": "société",
    "terms_left": [
     "easyjet",
@@ -455,6 +455,66 @@
    ]
   },
   {
+   "title": "Guerre en Ukraine : qu’est-ce que Wildberries, point névralgique de l’économie russe et cible de Kiev ?",
+   "url": "https://www.tf1info.fr/international/la-coree-du-nord-et-la-russie-sur-le-point-d-achever-la-construction-d-un-pont-pouvant-faciliter-la-logistique-dans-la-guerre-en-ukraine-2455563.html",
+   "n_members": 73,
+   "n_sources": 24,
+   "counts": {
+    "left": 2,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": 0.806,
+   "category": "international",
+   "terms_left": [
+    "direct",
+    "défense",
+    "guerre ukraine"
+   ],
+   "terms_right": [
+    "wildberries",
+    "russe",
+    "iran"
+   ]
+  },
+  {
+   "title": "Colombie : un puissant séisme secoue le pays",
+   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260808-colombie-le-nouveau-pr%C3%A9sident-d-extr%C3%AAme-droite-abelardo-de-la-espriella-a-%C3%A9t%C3%A9-investi",
+   "n_members": 73,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.452,
+   "category": "international",
+   "terms_left": [
+    "service",
+    "géologique",
+    "service géologique"
+   ],
+   "terms_right": [
+    "ouest",
+    "puissant séisme",
+    "ouest pays"
+   ]
+  },
+  {
    "title": "Détroit d'Ormuz: un navire émirati frappé par un \"projectile\", les Émirats arabes unis accusent l'Iran",
    "url": "https://www.sudouest.fr/international/iran/iran-des-tractations-diplomatiques-en-cours-pour-relancer-l-accord-de-juin-entre-washington-et-teheran-comprenant-notamment-l-ouverture-du-detroit-d-ormuz-30147698.php",
    "n_members": 72,
@@ -471,7 +531,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.531,
+   "divergence": 0.53,
    "category": "international",
    "terms_left": [
     "iranien",
@@ -515,33 +575,33 @@
    ]
   },
   {
-   "title": "Colombie : au moins 111 personnes sont mortes dans le puissant séisme qui a frappé l'ouest du pays",
-   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260808-colombie-le-nouveau-pr%C3%A9sident-d-extr%C3%AAme-droite-abelardo-de-la-espriella-a-%C3%A9t%C3%A9-investi",
-   "n_members": 70,
-   "n_sources": 23,
+   "title": "Chaleur record en Europe de l'Ouest pour le début de l'été 2026",
+   "url": "https://www.bfmtv.com/environnement/climat/video-canicule-marine-la-temperature-de-l-eau-a-marseille-est-de-3-5-c-superieure-aux-normales_VN-202608080046.html",
+   "n_members": 36,
+   "n_sources": 24,
    "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 7
+    "left": 6,
+    "centre": 13,
+    "right": 5
    },
    "style_counts": {
     "factuel": 15,
-    "mixte": 5,
-    "opinion": 3
+    "mixte": 7,
+    "opinion": 2
    },
-   "blindspot_score": 0.273,
+   "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.473,
-   "category": "international",
+   "divergence": 0.535,
+   "category": "environnement",
    "terms_left": [
-    "service",
-    "géologique",
-    "service géologique"
+    "copernicus",
+    "observatoire",
+    "nouveau"
    ],
    "terms_right": [
-    "ouest",
-    "puissant séisme",
-    "ouest pays"
+    "chaud",
+    "chaud enregistré",
+    "connu"
    ]
   },
   {
@@ -591,7 +651,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.626,
+   "divergence": 0.627,
    "category": "environnement",
    "terms_left": [
     "préfecture",
@@ -627,33 +687,33 @@
    "terms_right": []
   },
   {
-   "title": "Chaleur record en Europe de l'Ouest pour le début de l'été 2026",
-   "url": "https://www.bfmtv.com/environnement/climat/video-canicule-marine-la-temperature-de-l-eau-a-marseille-est-de-3-5-c-superieure-aux-normales_VN-202608080046.html",
-   "n_members": 35,
+   "title": "Sécheresse : près de 70% de la France sous des mesures de restrictions d'eau",
+   "url": "https://www.france24.com/fr/plan%C3%A8te/20260807-en-images-quand-les-fleuves-europ%C3%A9ens-s-ass%C3%A8chent-les-vestiges-du-pass%C3%A9-refont-surface",
+   "n_members": 46,
    "n_sources": 23,
    "counts": {
-    "left": 6,
+    "left": 5,
     "centre": 12,
-    "right": 5
+    "right": 6
    },
    "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
+    "factuel": 13,
+    "mixte": 8,
     "opinion": 2
    },
-   "blindspot_score": -0.091,
+   "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.534,
+   "divergence": 0.604,
    "category": "environnement",
    "terms_left": [
-    "copernicus",
-    "observatoire",
-    "nouveau"
+    "nazis",
+    "vestiges",
+    "niveau"
    ],
    "terms_right": [
-    "chaud",
-    "chaud enregistré",
-    "connu"
+    "restrictions",
+    "crise",
+    "mois"
    ]
   },
   {
@@ -859,36 +919,6 @@
    ]
   },
   {
-   "title": "Sécheresse : près de 70% de la France sous des mesures de restrictions d'eau",
-   "url": "https://www.france24.com/fr/plan%C3%A8te/20260807-en-images-quand-les-fleuves-europ%C3%A9ens-s-ass%C3%A8chent-les-vestiges-du-pass%C3%A9-refont-surface",
-   "n_members": 45,
-   "n_sources": 22,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.604,
-   "category": "environnement",
-   "terms_left": [
-    "nazis",
-    "vestiges",
-    "niveau"
-   ],
-   "terms_right": [
-    "restrictions",
-    "crise",
-    "mois"
-   ]
-  },
-  {
    "title": "Var : le feu du Gros Bessillon fixé après 18 jours de mobilisation, 6.300 hectares parcourus",
    "url": "https://www.ladepeche.fr/2026/08/05/incendie-au-nord-ouest-de-toulouse-trois-hectares-de-vegetation-ont-ete-ravages-par-un-feu-de-chaume-13497789.php",
    "n_members": 69,
@@ -978,6 +1008,28 @@
    ]
   },
   {
+   "title": "Visite de Léon XIV en France : le Stade de France complet, déjà 200.000 inscrits pour la messe à Paris",
+   "url": "https://www.cnews.fr/monde/2026-08-04/800e-anniversaire-de-la-mort-de-saint-francois-le-pape-la-rencontre-de-la-jeunesse",
+   "n_members": 60,
+   "n_sources": 21,
+   "counts": {
+    "left": 2,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 5,
+    "opinion": 2
+   },
+   "blindspot_score": 0.556,
+   "blindspot_for": null,
+   "divergence": 0.57,
+   "category": "société",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Sécheresse : le président de la FNSEA demande au gouvernement de chiffrer son plan d'aide",
    "url": "https://www.sudouest.fr/environnement/climat/rechauffement-climatique/c-est-un-desastre-tout-le-revenu-est-par-terre-en-bourgogne-les-eleveurs-d-escargots-en-premiere-ligne-du-dereglement-climatique-30144933.php",
    "n_members": 57,
@@ -1000,31 +1052,9 @@
    "terms_right": []
   },
   {
-   "title": "Visite du pape en France : ouverture des inscriptions pour les célébrations à Paris et Saint-Denis, voici comment procéder",
-   "url": "https://www.cnews.fr/monde/2026-08-04/800e-anniversaire-de-la-mort-de-saint-francois-le-pape-la-rencontre-de-la-jeunesse",
-   "n_members": 57,
-   "n_sources": 21,
-   "counts": {
-    "left": 2,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.556,
-   "blindspot_for": null,
-   "divergence": 0.57,
-   "category": "société",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
    "title": "Chômage : Sébastien Lecornu défend le bilan du macronisme, sans « déni » mais en appelant à rejeter la « caricature »",
    "url": "https://www.bfmtv.com/economie/emploi/c-est-son-plus-haut-niveau-depuis-l-automne-2020-le-taux-de-chomage-augmente-de-0-2-point-a-8-3-au-deuxieme-trimestre_AD-202608070086.html",
-   "n_members": 46,
+   "n_members": 47,
    "n_sources": 21,
    "counts": {
     "left": 4,
@@ -1038,17 +1068,17 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.452,
+   "divergence": 0.468,
    "category": "économie",
    "terms_left": [
     "macron",
     "chiffres",
-    "insee"
+    "chômage sébastien"
    ],
    "terms_right": [
     "taux",
     "taux chômage",
-    "états-unis"
+    "atteint"
    ]
   },
   {
@@ -1077,8 +1107,8 @@
    ],
    "terms_right": [
     "tour",
-    "provenance italie",
-    "voyageurs provenance"
+    "voyageurs provenance",
+    "provenance italie"
    ]
   },
   {
@@ -1139,36 +1169,6 @@
     "nice",
     "remporte",
     "vollering remporte"
-   ]
-  },
-  {
-   "title": "Le 18h Eco - Vendredi 7 août",
-   "url": "https://www.leparisien.fr/culture-loisirs/on-ne-savait-pas-trop-comment-vous-dire-au-revoir-lena-situations-annonce-une-date-a-laccor-arena-pour-celebrer-les-10-ans-des-vlogs-daout-30-07-2026-5FN3H425BRG4XGYWXOUZLABDXI.php",
-   "n_members": 76,
-   "n_sources": 20,
-   "counts": {
-    "left": 4,
-    "centre": 10,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.892,
-   "category": "culture",
-   "terms_left": [
-    "gironde",
-    "var",
-    "ceuta"
-   ],
-   "terms_right": [
-    "journal",
-    "ans",
-    "lena situations"
    ]
   }
  ]
