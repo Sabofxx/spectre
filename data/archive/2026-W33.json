@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-11T20:36:02+00:00",
+ "generated_at": "2026-08-11T21:36:50+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -97,7 +97,7 @@
   {
    "title": "Éclipse solaire du 12 août : comment l'observer en France",
    "url": "https://www.sudradio.fr/horoscope/horoscope-du-mardi-4-aout-les-previsions-des-astres-pour-votre-journee-signe-par-signe",
-   "n_members": 179,
+   "n_members": 180,
    "n_sources": 33,
    "counts": {
     "left": 6,
@@ -264,9 +264,9 @@
    "divergence": 0.265,
    "category": "international",
    "terms_left": [
-    "tatarstan",
-    "direct",
-    "ukrainienne"
+    "ukrainienne",
+    "frappé",
+    "tatarstan"
    ],
    "terms_right": [
     "russie",
@@ -381,17 +381,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.539,
+   "divergence": 0.544,
    "category": "environnement",
    "terms_left": [
     "massif claps",
-    "bellegarde-en-diois",
-    "incendie drôme"
+    "incendie drôme",
+    "lozère parcouru"
    ],
    "terms_right": [
     "incendies",
-    "hectares",
-    "feu"
+    "feu",
+    "hectares"
    ]
   },
   {
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.277,
+   "divergence": 0.278,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -913,7 +913,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.603,
+   "divergence": 0.602,
    "category": "international",
    "terms_left": [
     "tuerie",
@@ -1061,6 +1061,36 @@
    ]
   },
   {
+   "title": "Incendies en France : collectivités face à des coûts croissants",
+   "url": "https://www.leparisien.fr/politique/des-cigarettes-bientot-plus-cheres-pour-financer-la-lutte-contre-les-incendies-une-proposition-de-loi-veut-taxer-ceux-qui-fabriquent-les-megots-06-08-2026-GKMOY7GD3RBGTDAO65PU7FSAS4.php",
+   "n_members": 50,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.8,
+   "category": "environnement",
+   "terms_left": [
+    "canicule",
+    "réchauffement",
+    "réchauffement climatique"
+   ],
+   "terms_right": [
+    "france",
+    "incendie",
+    "eau"
+   ]
+  },
+  {
    "title": "Syrie : le président déchu Bachar al-Assad condamné à la peine de mort par contumace",
    "url": "https://www.lemonde.fr/international/article/2026/08/11/bachar-al-assad-condamne-a-la-peine-de-mort-par-contumace-en-syrie-pour-crimes-de-guerre-et-crimes-contre-l-humanite_6743778_3210.html",
    "n_members": 26,
@@ -1077,7 +1107,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.243,
+   "divergence": 0.244,
    "category": "international",
    "terms_left": [
     "damas",
@@ -1147,36 +1177,6 @@
     "président",
     "crise fifa",
     "crise"
-   ]
-  },
-  {
-   "title": "Couvre-feux : les maires de droite et d’extrême droite bannissent les jeunes de l’espace public",
-   "url": "https://www.bfmtv.com/economie/video-c-est-le-desarroi-total-des-restaurateurs-de-la-plage-de-villeneuve-loubet-sommes-de-fermer-leurs-etablissements-menaces-par-l-erosion_VN-202608050142.html",
-   "n_members": 61,
-   "n_sources": 21,
-   "counts": {
-    "left": 3,
-    "centre": 8,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 5,
-    "opinion": 5
-   },
-   "blindspot_score": 0.538,
-   "blindspot_for": null,
-   "divergence": 0.744,
-   "category": "société",
-   "terms_left": [
-    "public",
-    "espace",
-    "espace public"
-   ],
-   "terms_right": [
-    "justice",
-    "arrêté",
-    "face"
    ]
   }
  ]
