@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-11T10:26:04+00:00",
+ "generated_at": "2026-08-11T11:12:53+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -97,7 +97,7 @@
   {
    "title": "Éclipse solaire du 12 août : comment l'observer en France",
    "url": "https://www.sudradio.fr/horoscope/horoscope-du-mardi-4-aout-les-previsions-des-astres-pour-votre-journee-signe-par-signe",
-   "n_members": 150,
+   "n_members": 154,
    "n_sources": 32,
    "counts": {
     "left": 6,
@@ -111,16 +111,16 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.515,
+   "divergence": 0.48,
    "category": "sciences-tech",
    "terms_left": [
-    "profiter",
-    "mieux",
-    "rare"
+    "solaire visible",
+    "rare",
+    "profiter"
    ],
    "terms_right": [
-    "observer",
     "soleil",
+    "observer",
     "lunettes"
    ]
   },
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.306,
+   "divergence": 0.307,
    "category": "politique",
    "terms_left": [
     "réseau",
@@ -157,7 +157,7 @@
   {
    "title": "Israël « rejette » le plan américain pour Gaza accepté par le Hamas",
    "url": "https://www.sudouest.fr/international/moyen-orient/gaza/gaza-quatre-morts-dont-deux-enfants-dans-des-frappes-israeliennes-30117437.php",
-   "n_members": 140,
+   "n_members": 141,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -171,12 +171,12 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.18,
+   "divergence": 0.186,
    "category": "international",
    "terms_left": [
     "accepté",
     "annonce",
-    "bande gaza"
+    "nétanyahou"
    ],
    "terms_right": [
     "paix",
@@ -235,8 +235,8 @@
    "category": "international",
    "terms_left": [
     "gouvernement",
-    "igas",
-    "rapport igas"
+    "rapport igas",
+    "igas"
    ],
    "terms_right": [
     "migratoire",
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.284,
+   "divergence": 0.285,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -337,22 +337,22 @@
   {
    "title": "Éclipse solaire : une course contre la montre pour trouver les dernières lunettes de protection",
    "url": "https://www.leprogres.fr/societe/2026/07/29/le-dessin-du-29-juillet-zelensky-a-la-maison-blanche",
-   "n_members": 87,
-   "n_sources": 26,
+   "n_members": 89,
+   "n_sources": 27,
    "counts": {
     "left": 5,
-    "centre": 15,
+    "centre": 16,
     "right": 6
    },
    "style_counts": {
-    "factuel": 16,
+    "factuel": 17,
     "mixte": 8,
     "opinion": 2
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.678,
-   "category": "société",
+   "divergence": 0.681,
+   "category": "sciences-tech",
    "terms_left": [
     "easyjet",
     "travail",
@@ -362,6 +362,36 @@
     "lunettes",
     "éclipse",
     "jours"
+   ]
+  },
+  {
+   "title": "Incendies dans la Drôme: 400 hectares brûlés, le feu poursuit sa \"lente progression\"",
+   "url": "https://www.ladepeche.fr/2026/08/01/accessible-uniquement-apres-40-minutes-de-marche-une-vingtaine-de-pompiers-et-des-moyens-aeriens-mobilises-sur-un-feu-de-vegetation-a-1-800-m-13493675.php",
+   "n_members": 98,
+   "n_sources": 26,
+   "counts": {
+    "left": 4,
+    "centre": 15,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.527,
+   "category": "environnement",
+   "terms_left": [
+    "massif claps",
+    "massif",
+    "claps"
+   ],
+   "terms_right": [
+    "incendies",
+    "poursuit",
+    "reprises"
    ]
   },
   {
@@ -395,53 +425,23 @@
    ]
   },
   {
-   "title": "Incendies dans la Drôme: 400 hectares brûlés, le feu poursuit sa \"lente progression\"",
-   "url": "https://www.ladepeche.fr/2026/08/01/accessible-uniquement-apres-40-minutes-de-marche-une-vingtaine-de-pompiers-et-des-moyens-aeriens-mobilises-sur-un-feu-de-vegetation-a-1-800-m-13493675.php",
+   "title": "Colombie : les images saisissantes du séisme de magnitude 7,4",
+   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260808-colombie-le-nouveau-pr%C3%A9sident-d-extr%C3%AAme-droite-abelardo-de-la-espriella-a-%C3%A9t%C3%A9-investi",
    "n_members": 97,
    "n_sources": 25,
    "counts": {
-    "left": 4,
-    "centre": 14,
+    "left": 5,
+    "centre": 13,
     "right": 7
    },
    "style_counts": {
     "factuel": 16,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.527,
-   "category": "environnement",
-   "terms_left": [
-    "massif claps",
-    "massif",
-    "claps"
-   ],
-   "terms_right": [
-    "incendies",
-    "poursuit",
-    "reprises"
-   ]
-  },
-  {
-   "title": "Colombie : les images saisissantes du séisme de magnitude 7,4",
-   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260808-colombie-le-nouveau-pr%C3%A9sident-d-extr%C3%AAme-droite-abelardo-de-la-espriella-a-%C3%A9t%C3%A9-investi",
-   "n_members": 93,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
     "mixte": 6,
     "opinion": 3
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.444,
+   "divergence": 0.446,
    "category": "international",
    "terms_left": [
     "service",
@@ -451,7 +451,37 @@
    "terms_right": [
     "ouest",
     "puissant séisme",
-    "puissant"
+    "colombie"
+   ]
+  },
+  {
+   "title": "Nouvelle menace, nouvelle riposte: l'Allemagne renforce sa sécurité anti-drones face à la multiplication d'incidents",
+   "url": "https://www.lefigaro.fr/international/un-objet-volant-non-identifie-le-trafic-de-l-aeroport-de-leipzig-en-allemagne-perturbe-20260805",
+   "n_members": 67,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 8,
+    "opinion": 1
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.289,
+   "category": "international",
+   "terms_left": [
+    "russie",
+    "leipzig allemagne",
+    "menace"
+   ],
+   "terms_right": [
+    "engin",
+    "engin explosif",
+    "sait"
    ]
   },
   {
@@ -531,7 +561,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.53,
+   "divergence": 0.529,
    "category": "international",
    "terms_left": [
     "iranien",
@@ -577,7 +607,7 @@
   {
    "title": "Chaleur record en Europe de l'Ouest pour le début de l'été 2026",
    "url": "https://www.bfmtv.com/environnement/climat/video-canicule-marine-la-temperature-de-l-eau-a-marseille-est-de-3-5-c-superieure-aux-normales_VN-202608080046.html",
-   "n_members": 37,
+   "n_members": 38,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -591,12 +621,12 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.535,
+   "divergence": 0.486,
    "category": "environnement",
    "terms_left": [
     "copernicus",
-    "observatoire",
-    "nouveau"
+    "européen copernicus",
+    "observatoire"
    ],
    "terms_right": [
     "chaud",
@@ -621,7 +651,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.355,
+   "divergence": 0.356,
    "category": "société",
    "terms_left": [
     "ans",
@@ -651,7 +681,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.628,
+   "divergence": 0.625,
    "category": "environnement",
    "terms_left": [
     "préfecture",
@@ -661,13 +691,13 @@
    "terms_right": [
     "france",
     "incendie",
-    "an"
+    "urgence"
    ]
   },
   {
    "title": "Sécheresse : près de 70% de la France sous des mesures de restrictions d'eau",
    "url": "https://www.france24.com/fr/plan%C3%A8te/20260807-en-images-quand-les-fleuves-europ%C3%A9ens-s-ass%C3%A8chent-les-vestiges-du-pass%C3%A9-refont-surface",
-   "n_members": 55,
+   "n_members": 56,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -749,7 +779,7 @@
   {
    "title": "Fusillade en Thaïlande : une enfant de 12 ans meurt des suites de ses blessures, le bilan passe à huit morts",
    "url": "https://www.liberation.fr/international/asie-pacifique/en-birmanie-la-junte-devoile-des-images-daung-san-suu-kyi-qui-donnent-de-lespoir-cest-une-premiere-etape-importante-20260803_UIMDGV7QKRBO7FVIZHISVXQF3A/",
-   "n_members": 68,
+   "n_members": 69,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -845,7 +875,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.569,
+   "divergence": 0.568,
    "category": "international",
    "terms_left": [
     "victoire",
@@ -897,7 +927,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.64,
+   "divergence": 0.641,
    "category": "sciences-tech",
    "terms_left": [
     "verser",
@@ -927,7 +957,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.307,
+   "divergence": 0.292,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -936,8 +966,38 @@
    ],
    "terms_right": [
     "frontière roumanie",
-    "roumanie",
-    "gazoduc"
+    "gazoduc",
+    "roumanie"
+   ]
+  },
+  {
+   "title": "Ebola en RDC : l'OMS appelle à organiser un essai clinique avec le vaccin Ervebo",
+   "url": "https://www.leparisien.fr/sciences/odeur-sucree-groupe-sanguin-ou-rien-de-cela-pourquoi-les-moustiques-raffolent-de-votre-peau-et-pas-de-celle-du-voisin-03-08-2026-7XIS34AZTNEVJPXNPS2WH45HDQ.php",
+   "n_members": 40,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.809,
+   "category": "société",
+   "terms_left": [
+    "ebola",
+    "mois",
+    "france"
+   ],
+   "terms_right": [
+    "ia",
+    "incendies",
+    "personnes"
    ]
   },
   {
@@ -987,16 +1047,16 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.805,
+   "divergence": 0.781,
    "category": "faits-divers",
    "terms_left": [
     "france",
     "environ"
    ],
    "terms_right": [
-    "vigilance",
     "forêt",
-    "vigilance rouge"
+    "feu",
+    "pompiers"
    ]
   },
   {
@@ -1110,58 +1170,6 @@
     "taux chômage",
     "atteint"
    ]
-  },
-  {
-   "title": "Crise migratoire à Ceuta: l'Espagne impose à son tour des contrôles aux frontières aux voyageurs venant d'Italie",
-   "url": "https://www.leparisien.fr/international/espagne/crise-migratoire-a-ceuta-lespagne-met-en-garde-litalie-contre-des-mesures-de-retorsion-si-elle-maintient-ses-controles-aux-frontieres-07-08-2026-WISZ7GAZ6NEV3F473FBHTNZEQ4.php",
-   "n_members": 42,
-   "n_sources": 21,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.423,
-   "category": "international",
-   "terms_left": [
-    "mesures",
-    "espagnoles",
-    "crise ceuta"
-   ],
-   "terms_right": [
-    "tour",
-    "provenance italie",
-    "voyageurs provenance"
-   ]
-  },
-  {
-   "title": "Hantavirus : les cas contacts du touriste franco-argentin ont été identifiés",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/le-grand-reportage-de-france-inter/le-grand-reportage-du-mercredi-05-aout-2026-8967930",
-   "n_members": 38,
-   "n_sources": 21,
-   "counts": {
-    "left": 4,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.436,
-   "category": "société",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
