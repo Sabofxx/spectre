@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-11T06:48:27+00:00",
+ "generated_at": "2026-08-11T08:04:40+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.278,
+   "divergence": 0.28,
    "category": "international",
    "terms_left": [
     "droite",
@@ -31,7 +31,7 @@
    "terms_right": [
     "migratoire ceuta",
     "migratoire",
-    "crise migratoire"
+    "enclave"
    ]
   },
   {
@@ -97,7 +97,7 @@
   {
    "title": "Éclipse solaire du 12 août : comment l'observer en France",
    "url": "https://www.sudradio.fr/horoscope/horoscope-du-mardi-4-aout-les-previsions-des-astres-pour-votre-journee-signe-par-signe",
-   "n_members": 134,
+   "n_members": 135,
    "n_sources": 32,
    "counts": {
     "left": 6,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.551,
+   "divergence": 0.552,
    "category": "sciences-tech",
    "terms_left": [
     "profiter",
@@ -144,14 +144,14 @@
    "divergence": 0.306,
    "category": "politique",
    "terms_left": [
-    "glucksmann",
     "réseau",
+    "glucksmann",
     "storm"
    ],
    "terms_right": [
-    "ingérence étrangère",
-    "étrangère",
-    "gabriel attal"
+    "gabriel attal",
+    "gabriel",
+    "plainte"
    ]
   },
   {
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.546,
+   "divergence": 0.545,
    "category": "environnement",
    "terms_left": [
     "mammouth",
@@ -277,7 +277,7 @@
   {
    "title": "EN DIRECT, guerre en Ukraine : des échanges de frappes font cinq morts et des dizaines de blessés en Ukraine et en Russie",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 403,
+   "n_members": 407,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.268,
+   "divergence": 0.267,
    "category": "international",
    "terms_left": [
     "tatarstan",
@@ -299,9 +299,9 @@
     "raffinerie"
    ],
    "terms_right": [
-    "russie",
-    "frappe",
-    "nouvelle"
+    "explosions",
+    "drones",
+    "frappe"
    ]
   },
   {
@@ -332,6 +332,36 @@
     "canicule",
     "vague chaleur",
     "nouvelle"
+   ]
+  },
+  {
+   "title": "Éclipse solaire : une course contre la montre pour trouver les dernières lunettes de protection",
+   "url": "https://www.leprogres.fr/societe/2026/07/29/le-dessin-du-29-juillet-zelensky-a-la-maison-blanche",
+   "n_members": 85,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 15,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.674,
+   "category": "société",
+   "terms_left": [
+    "easyjet",
+    "travail",
+    "conditions"
+   ],
+   "terms_right": [
+    "lunettes",
+    "éclipse",
+    "jours"
    ]
   },
   {
@@ -395,39 +425,9 @@
    ]
   },
   {
-   "title": "Éclipse solaire : une course contre la montre pour trouver les dernières lunettes de protection",
-   "url": "https://www.leprogres.fr/societe/2026/07/29/le-dessin-du-29-juillet-zelensky-a-la-maison-blanche",
-   "n_members": 83,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 15,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.665,
-   "category": "société",
-   "terms_left": [
-    "easyjet",
-    "travail",
-    "conditions"
-   ],
-   "terms_right": [
-    "lunettes",
-    "éclipse",
-    "jours"
-   ]
-  },
-  {
    "title": "Colombie : un puissant séisme secoue le pays",
    "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260808-colombie-le-nouveau-pr%C3%A9sident-d-extr%C3%AAme-droite-abelardo-de-la-espriella-a-%C3%A9t%C3%A9-investi",
-   "n_members": 78,
+   "n_members": 83,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.454,
+   "divergence": 0.447,
    "category": "international",
    "terms_left": [
     "service",
@@ -451,7 +451,7 @@
    "terms_right": [
     "ouest",
     "puissant séisme",
-    "ouest pays"
+    "puissant"
    ]
   },
   {
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.813,
+   "divergence": 0.814,
    "category": "environnement",
    "terms_left": [
     "gestion",
@@ -577,7 +577,7 @@
   {
    "title": "Chaleur record en Europe de l'Ouest pour le début de l'été 2026",
    "url": "https://www.bfmtv.com/environnement/climat/video-canicule-marine-la-temperature-de-l-eau-a-marseille-est-de-3-5-c-superieure-aux-normales_VN-202608080046.html",
-   "n_members": 36,
+   "n_members": 37,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -651,7 +651,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.627,
+   "divergence": 0.629,
    "category": "environnement",
    "terms_left": [
     "préfecture",
@@ -662,6 +662,36 @@
     "france",
     "incendie",
     "porge"
+   ]
+  },
+  {
+   "title": "Sécheresse : près de 70% de la France sous des mesures de restrictions d'eau",
+   "url": "https://www.france24.com/fr/plan%C3%A8te/20260807-en-images-quand-les-fleuves-europ%C3%A9ens-s-ass%C3%A8chent-les-vestiges-du-pass%C3%A9-refont-surface",
+   "n_members": 50,
+   "n_sources": 23,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.598,
+   "category": "environnement",
+   "terms_left": [
+    "nazis",
+    "vestiges",
+    "danube"
+   ],
+   "terms_right": [
+    "crise",
+    "restrictions",
+    "france"
    ]
   },
   {
@@ -685,36 +715,6 @@
    "category": "société",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Sécheresse : près de 70% de la France sous des mesures de restrictions d'eau",
-   "url": "https://www.france24.com/fr/plan%C3%A8te/20260807-en-images-quand-les-fleuves-europ%C3%A9ens-s-ass%C3%A8chent-les-vestiges-du-pass%C3%A9-refont-surface",
-   "n_members": 47,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.606,
-   "category": "environnement",
-   "terms_left": [
-    "nazis",
-    "vestiges",
-    "niveau"
-   ],
-   "terms_right": [
-    "restrictions",
-    "crise",
-    "mois"
-   ]
   },
   {
    "title": "Yémen : les Houthis frappent le port de Mokha, au moins sept morts",
@@ -777,9 +777,31 @@
    ]
   },
   {
+   "title": "Visite du pape Léon XIV à Paris : le Stade de France affiche déjà complet, plus de 200 000 inscrits pour la messe",
+   "url": "https://www.cnews.fr/monde/2026-08-04/800e-anniversaire-de-la-mort-de-saint-francois-le-pape-la-rencontre-de-la-jeunesse",
+   "n_members": 64,
+   "n_sources": 22,
+   "counts": {
+    "left": 2,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 5,
+    "opinion": 3
+   },
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": 0.57,
+   "category": "société",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "États-Unis : Donald Trump veut à son tour réclamer des «compensations» à l’Iran",
    "url": "https://www.sudouest.fr/international/etats-unis/donald-trump/droit-du-sol-aux-etats-unis-donald-trump-signe-un-decret-contre-le-tourisme-des-naissances-30185832.php",
-   "n_members": 61,
+   "n_members": 62,
    "n_sources": 22,
    "counts": {
     "left": 6,
@@ -802,8 +824,8 @@
    ],
    "terms_right": [
     "états-unis",
-    "taylor swift",
-    "swift"
+    "donald trump",
+    "donald"
    ]
   },
   {
@@ -875,7 +897,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.639,
+   "divergence": 0.64,
    "category": "sciences-tech",
    "terms_left": [
     "verser",
@@ -921,7 +943,7 @@
   {
    "title": "Des températures jusqu'à 42°C cette semaine : que nous réserve la cinquième canicule de l'année ?",
    "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
-   "n_members": 75,
+   "n_members": 78,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -935,7 +957,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.671,
+   "divergence": 0.663,
    "category": "environnement",
    "terms_left": [
     "jours",
@@ -943,15 +965,15 @@
     "prochains"
    ],
    "terms_right": [
-    "canicule",
     "pays",
+    "canicule",
     "semaine"
    ]
   },
   {
-   "title": "La Gironde passe en vigilance rouge pour feux de forêt",
+   "title": "Un incendie en cours dans une forêt en Maine-et-Loire : six hectares ont brûlé, une centaine menacée",
    "url": "https://www.ladepeche.fr/2026/08/05/incendie-au-nord-ouest-de-toulouse-trois-hectares-de-vegetation-ont-ete-ravages-par-un-feu-de-chaume-13497789.php",
-   "n_members": 70,
+   "n_members": 72,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -965,7 +987,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.807,
+   "divergence": 0.808,
    "category": "faits-divers",
    "terms_left": [
     "france",
@@ -994,40 +1016,18 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.418,
+   "divergence": 0.42,
    "category": "sport",
    "terms_left": [
+    "monde",
     "coupes",
-    "coupes monde",
-    "boycott coupes"
+    "coupes monde"
    ],
    "terms_right": [
     "président",
-    "telegraph",
-    "gianni infantino"
+    "gianni infantino",
+    "gianni"
    ]
-  },
-  {
-   "title": "Visite de Léon XIV en France : le Stade de France complet, déjà 200.000 inscrits pour la messe à Paris",
-   "url": "https://www.cnews.fr/monde/2026-08-04/800e-anniversaire-de-la-mort-de-saint-francois-le-pape-la-rencontre-de-la-jeunesse",
-   "n_members": 62,
-   "n_sources": 21,
-   "counts": {
-    "left": 2,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.556,
-   "blindspot_for": null,
-   "divergence": 0.57,
-   "category": "société",
-   "terms_left": [],
-   "terms_right": []
   },
   {
    "title": "\"C'est devenu invivable\" : la commune de Boivre-la-vallée prend un arrêté contre les aboiements de chiens",
@@ -1056,7 +1056,7 @@
    "terms_right": [
     "justice",
     "face",
-    "suspension"
+    "habitants"
    ]
   },
   {
@@ -1084,7 +1084,7 @@
   {
    "title": "Chômage : Sébastien Lecornu défend le bilan du macronisme, sans « déni » mais en appelant à rejeter la « caricature »",
    "url": "https://www.bfmtv.com/economie/emploi/c-est-son-plus-haut-niveau-depuis-l-automne-2020-le-taux-de-chomage-augmente-de-0-2-point-a-8-3-au-deuxieme-trimestre_AD-202608070086.html",
-   "n_members": 47,
+   "n_members": 48,
    "n_sources": 21,
    "counts": {
     "left": 4,
@@ -1098,12 +1098,12 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.468,
+   "divergence": 0.45,
    "category": "économie",
    "terms_left": [
     "macron",
-    "chiffres",
-    "chômage sébastien"
+    "insee",
+    "chiffres"
    ],
    "terms_right": [
     "taux",
@@ -1128,12 +1128,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.441,
+   "divergence": 0.423,
    "category": "international",
    "terms_left": [
     "mesures",
     "espagnoles",
-    "similaires"
+    "crise ceuta"
    ],
    "terms_right": [
     "tour",
@@ -1162,8 +1162,8 @@
    "category": "culture",
    "terms_left": [
     "affaire",
-    "procès ouvre",
-    "shakur procès"
+    "shakur procès",
+    "procès ouvre"
    ],
    "terms_right": [
     "tupac",
