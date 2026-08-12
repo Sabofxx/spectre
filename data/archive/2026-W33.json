@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-12T09:38:56+00:00",
+ "generated_at": "2026-08-12T10:52:13+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.276,
+   "divergence": 0.277,
    "category": "international",
    "terms_left": [
     "droite",
     "crise ceuta",
-    "migrants ceuta"
+    "européens"
    ],
    "terms_right": [
     "migratoire ceuta",
@@ -97,7 +97,7 @@
   {
    "title": "Éclipse solaire du 12 août : comment l'observer en France",
    "url": "https://www.sudradio.fr/horoscope/horoscope-du-mardi-4-aout-les-previsions-des-astres-pour-votre-journee-signe-par-signe",
-   "n_members": 212,
+   "n_members": 220,
    "n_sources": 33,
    "counts": {
     "left": 6,
@@ -111,17 +111,17 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.432,
+   "divergence": 0.438,
    "category": "sciences-tech",
    "terms_left": [
+    "eclipse",
     "rare",
-    "solaire visible",
     "préparer"
    ],
    "terms_right": [
-    "observer",
     "lunettes",
-    "ciel"
+    "éclipse",
+    "sud"
    ]
   },
   {
@@ -187,7 +187,7 @@
   {
    "title": "Plus de 15% du parc nucléaire français indisponible dimanche à cause de la chaleur, un record",
    "url": "https://information.tv5monde.com/international/la-secheresse-frappe-les-balkans-le-danube-au-plus-bas-en-serbie-2831837",
-   "n_members": 89,
+   "n_members": 91,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,17 +201,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.533,
+   "divergence": 0.543,
    "category": "environnement",
    "terms_left": [
+    "danube",
     "bulgarie",
-    "mammouth",
-    "danube"
+    "mammouth"
    ],
    "terms_right": [
-    "canicule",
-    "cause",
-    "nouvelle"
+    "edf",
+    "parc",
+    "canicule"
    ]
   },
   {
@@ -245,9 +245,39 @@
    ]
   },
   {
-   "title": "EN DIRECT, guerre en Ukraine : des échanges de frappes font cinq morts et des dizaines de blessés en Ukraine et en Russie",
+   "title": "Éclipse solaire : une course contre la montre pour trouver les dernières lunettes de protection",
+   "url": "https://www.leprogres.fr/societe/2026/07/29/le-dessin-du-29-juillet-zelensky-a-la-maison-blanche",
+   "n_members": 126,
+   "n_sources": 28,
+   "counts": {
+    "left": 5,
+    "centre": 16,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.544,
+   "category": "sciences-tech",
+   "terms_left": [
+    "easyjet",
+    "travail",
+    "conditions"
+   ],
+   "terms_right": [
+    "lunettes",
+    "éclipse",
+    "france"
+   ]
+  },
+  {
+   "title": "Ukraine : Zelensky accuse Moscou d’utiliser des missiles nord-coréens",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 427,
+   "n_members": 428,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -261,7 +291,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.264,
+   "divergence": 0.263,
    "category": "international",
    "terms_left": [
     "ukrainienne",
@@ -291,7 +321,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.714,
+   "divergence": 0.715,
    "category": "environnement",
    "terms_left": [
     "année",
@@ -307,7 +337,7 @@
   {
    "title": "Colombie : les images saisissantes du séisme de magnitude 7,4",
    "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260808-colombie-le-nouveau-pr%C3%A9sident-d-extr%C3%AAme-droite-abelardo-de-la-espriella-a-%C3%A9t%C3%A9-investi",
-   "n_members": 139,
+   "n_members": 140,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -321,7 +351,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.336,
+   "divergence": 0.339,
    "category": "international",
    "terms_left": [
     "service",
@@ -329,39 +359,9 @@
     "service géologique"
    ],
    "terms_right": [
-    "personnes",
     "décombres",
+    "personnes",
     "bâtiments"
-   ]
-  },
-  {
-   "title": "Éclipse solaire : une course contre la montre pour trouver les dernières lunettes de protection",
-   "url": "https://www.leprogres.fr/societe/2026/07/29/le-dessin-du-29-juillet-zelensky-a-la-maison-blanche",
-   "n_members": 121,
-   "n_sources": 27,
-   "counts": {
-    "left": 5,
-    "centre": 16,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.543,
-   "category": "sciences-tech",
-   "terms_left": [
-    "easyjet",
-    "travail",
-    "conditions"
-   ],
-   "terms_right": [
-    "lunettes",
-    "éclipse",
-    "français"
    ]
   },
   {
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.281,
+   "divergence": 0.279,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.479,
+   "divergence": 0.478,
    "category": "société",
    "terms_left": [
     "menace non-corses",
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.293,
+   "divergence": 0.292,
    "category": "international",
    "terms_left": [
     "russie",
@@ -487,7 +487,7 @@
   {
    "title": "Chaleur record en Europe de l'Ouest pour le début de l'été 2026",
    "url": "https://www.sudouest.fr/environnement/climat/canicule/canicule-en-gironde-je-ne-ferai-pas-de-miel-d-ete-cette-annee-c-est-la-premiere-fois-que-ca-m-arrive-les-alpiculteurs-en-souffrance-face-au-dereglement-climatique-29946304.php",
-   "n_members": 60,
+   "n_members": 62,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -501,17 +501,47 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.544,
+   "divergence": 0.554,
    "category": "environnement",
    "terms_left": [
     "copernicus",
     "européen copernicus",
-    "observatoire"
+    "chaleur"
    ],
    "terms_right": [
     "français",
     "chaud",
-    "états-unis"
+    "chaud enregistré"
+   ]
+  },
+  {
+   "title": "Chômage à son plus haut niveau depuis 2020 : ni « déni » ni « caricature », Sébastien Lecornu défend le bilan du macronisme",
+   "url": "https://www.bfmtv.com/economie/emploi/c-est-son-plus-haut-niveau-depuis-l-automne-2020-le-taux-de-chomage-augmente-de-0-2-point-a-8-3-au-deuxieme-trimestre_AD-202608070086.html",
+   "n_members": 57,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 4
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.458,
+   "category": "économie",
+   "terms_left": [
+    "macron",
+    "emmanuel",
+    "emmanuel macron"
+   ],
+   "terms_right": [
+    "taux",
+    "taux chômage",
+    "atteint"
    ]
   },
   {
@@ -665,6 +695,36 @@
    ]
   },
   {
+   "title": "Sécheresse : près de 70% de la France sous des mesures de restrictions d'eau",
+   "url": "https://www.france24.com/fr/plan%C3%A8te/20260807-en-images-quand-les-fleuves-europ%C3%A9ens-s-ass%C3%A8chent-les-vestiges-du-pass%C3%A9-refont-surface",
+   "n_members": 65,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.605,
+   "category": "environnement",
+   "terms_left": [
+    "nazis",
+    "vestiges",
+    "danube"
+   ],
+   "terms_right": [
+    "restrictions",
+    "crise",
+    "face"
+   ]
+  },
+  {
    "title": "Incendies en France : collectivités face à des coûts croissants",
    "url": "https://www.leparisien.fr/politique/des-cigarettes-bientot-plus-cheres-pour-financer-la-lutte-contre-les-incendies-une-proposition-de-loi-veut-taxer-ceux-qui-fabriquent-les-megots-06-08-2026-GKMOY7GD3RBGTDAO65PU7FSAS4.php",
    "n_members": 56,
@@ -711,7 +771,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.778,
+   "divergence": 0.777,
    "category": "société",
    "terms_left": [
     "épidémie",
@@ -771,7 +831,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.615,
+   "divergence": 0.618,
    "category": "environnement",
    "terms_left": [
     "préfecture",
@@ -785,39 +845,9 @@
    ]
   },
   {
-   "title": "Sécheresse : près de 70% de la France sous des mesures de restrictions d'eau",
-   "url": "https://www.france24.com/fr/plan%C3%A8te/20260807-en-images-quand-les-fleuves-europ%C3%A9ens-s-ass%C3%A8chent-les-vestiges-du-pass%C3%A9-refont-surface",
-   "n_members": 63,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.608,
-   "category": "environnement",
-   "terms_left": [
-    "nazis",
-    "vestiges",
-    "danube"
-   ],
-   "terms_right": [
-    "restrictions",
-    "crise",
-    "restrictions eau"
-   ]
-  },
-  {
-   "title": "Réseaux sociaux : condamné deux fois, Meta affronte un nouveau procès ce mercredi en Californie",
+   "title": "Facebook et Instagram ont-ils été conçus pour rendre les mineurs accros? Après deux condamnations, Meta affronte un procès majeur aux États-Unis qui pourrait lui coûter jusqu'à 1.400 milliards de dollars",
    "url": "https://www.20minutes.fr/high-tech/4237036-20260803-agents-openai-train-devenir-cyberpirates-autonomes-conquerir-monde-calme",
-   "n_members": 57,
+   "n_members": 61,
    "n_sources": 23,
    "counts": {
     "left": 6,
@@ -831,12 +861,12 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.61,
+   "divergence": 0.612,
    "category": "sciences-tech",
    "terms_left": [
     "verser",
-    "nouveau-mexique",
-    "dollars"
+    "dollars",
+    "nouveau-mexique"
    ],
    "terms_right": [
     "ia",
@@ -845,9 +875,9 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine : un drone correspondant à ceux utilisés par Kiev explose en Bulgarie",
+   "title": "Drone en Bulgarie : un incident \"non délibéré\"",
    "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-une-eglise-en-bois-vieille-de-300-ans-unique-en-son-genre-detruit-par-une-frappe-de-drone-russe-04-08-2026-23MEK7KTUBDDTIEG4YDWHZXFX4.php",
-   "n_members": 52,
+   "n_members": 53,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -861,7 +891,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.335,
+   "divergence": 0.349,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -870,8 +900,8 @@
    ],
    "terms_right": [
     "drone bulgarie",
-    "ambassadrice ukrainienne",
-    "roumanie"
+    "roumanie",
+    "explosé"
    ]
   },
   {
@@ -897,9 +927,39 @@
    "terms_right": []
   },
   {
+   "title": "Réseaux sociaux. Crise migratoire à Ceuta : Meta et TikTok acceptent de muscler leur lutte contre la désinformation",
+   "url": "https://www.leparisien.fr/international/espagne/crise-migratoire-a-ceuta-lespagne-met-en-garde-litalie-contre-des-mesures-de-retorsion-si-elle-maintient-ses-controles-aux-frontieres-07-08-2026-WISZ7GAZ6NEV3F473FBHTNZEQ4.php",
+   "n_members": 47,
+   "n_sources": 23,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.465,
+   "category": "international",
+   "terms_left": [
+    "mesures",
+    "réponse",
+    "crise ceuta"
+   ],
+   "terms_right": [
+    "tour",
+    "contrôles frontières",
+    "ceuta"
+   ]
+  },
+  {
    "title": "Des températures jusqu'à 42°C cette semaine : que nous réserve la cinquième canicule de l'année ?",
    "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
-   "n_members": 89,
+   "n_members": 91,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -913,7 +973,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.65,
+   "divergence": 0.652,
    "category": "environnement",
    "terms_left": [
     "prochains jours",
@@ -973,12 +1033,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.601,
+   "divergence": 0.58,
    "category": "international",
    "terms_left": [
-    "tuerie",
-    "armes",
-    "arme"
+    "ans",
+    "aung",
+    "tuerie"
    ],
    "terms_right": [
     "morts",
@@ -1055,7 +1115,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.577,
+   "divergence": 0.576,
    "category": "international",
    "terms_left": [
     "gauche",
@@ -1091,69 +1151,9 @@
    "terms_right": []
   },
   {
-   "title": "Chômage : Sébastien Lecornu défend le bilan du macronisme, sans « déni » mais en appelant à rejeter la « caricature »",
-   "url": "https://www.bfmtv.com/economie/emploi/c-est-son-plus-haut-niveau-depuis-l-automne-2020-le-taux-de-chomage-augmente-de-0-2-point-a-8-3-au-deuxieme-trimestre_AD-202608070086.html",
-   "n_members": 52,
-   "n_sources": 22,
-   "counts": {
-    "left": 4,
-    "centre": 8,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 6,
-    "opinion": 4
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": 0.458,
-   "category": "économie",
-   "terms_left": [
-    "macron",
-    "emmanuel",
-    "emmanuel macron"
-   ],
-   "terms_right": [
-    "taux",
-    "taux chômage",
-    "atteint"
-   ]
-  },
-  {
-   "title": "Réseaux sociaux. Crise migratoire à Ceuta : Meta et TikTok acceptent de muscler leur lutte contre la désinformation",
-   "url": "https://www.leparisien.fr/international/espagne/crise-migratoire-a-ceuta-lespagne-met-en-garde-litalie-contre-des-mesures-de-retorsion-si-elle-maintient-ses-controles-aux-frontieres-07-08-2026-WISZ7GAZ6NEV3F473FBHTNZEQ4.php",
-   "n_members": 46,
-   "n_sources": 22,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.446,
-   "category": "international",
-   "terms_left": [
-    "mesures",
-    "réponse",
-    "crise ceuta"
-   ],
-   "terms_right": [
-    "tour",
-    "ceuta",
-    "migratoire"
-   ]
-  },
-  {
    "title": "Syrie : le président déchu Bachar al-Assad condamné à la peine de mort par contumace",
    "url": "https://www.lemonde.fr/international/article/2026/08/11/bachar-al-assad-condamne-a-la-peine-de-mort-par-contumace-en-syrie-pour-crimes-de-guerre-et-crimes-contre-l-humanite_6743778_3210.html",
-   "n_members": 27,
+   "n_members": 28,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -1167,7 +1167,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.248,
+   "divergence": 0.249,
    "category": "international",
    "terms_left": [
     "régime",
