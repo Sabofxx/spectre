@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-12T05:13:26+00:00",
+ "generated_at": "2026-08-12T06:52:11+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.2,
+   "divergence": 0.202,
    "category": "international",
    "terms_left": [
     "direct guerre",
-    "direct",
-    "etats-unis"
+    "etats-unis",
+    "direct"
    ],
    "terms_right": [
     "états-unis",
@@ -97,7 +97,7 @@
   {
    "title": "Éclipse solaire du 12 août : comment l'observer en France",
    "url": "https://www.sudradio.fr/horoscope/horoscope-du-mardi-4-aout-les-previsions-des-astres-pour-votre-journee-signe-par-signe",
-   "n_members": 190,
+   "n_members": 196,
    "n_sources": 33,
    "counts": {
     "left": 6,
@@ -111,17 +111,17 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.462,
+   "divergence": 0.44,
    "category": "sciences-tech",
    "terms_left": [
     "rare",
     "solaire visible",
-    "préparer"
+    "eclipse"
    ],
    "terms_right": [
     "observer",
     "lunettes",
-    "espagne"
+    "ciel"
    ]
   },
   {
@@ -247,7 +247,7 @@
   {
    "title": "EN DIRECT, guerre en Ukraine : des échanges de frappes font cinq morts et des dizaines de blessés en Ukraine et en Russie",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 423,
+   "n_members": 424,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -261,17 +261,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.265,
+   "divergence": 0.264,
    "category": "international",
    "terms_left": [
     "ukrainienne",
     "frappé",
-    "tatarstan"
+    "direct"
    ],
    "terms_right": [
     "russie",
-    "pays",
-    "frappe"
+    "frappe",
+    "pays"
    ]
   },
   {
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.714,
+   "divergence": 0.715,
    "category": "environnement",
    "terms_left": [
     "année",
@@ -307,7 +307,7 @@
   {
    "title": "Éclipse solaire : une course contre la montre pour trouver les dernières lunettes de protection",
    "url": "https://www.leprogres.fr/societe/2026/07/29/le-dessin-du-29-juillet-zelensky-a-la-maison-blanche",
-   "n_members": 115,
+   "n_members": 117,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.562,
+   "divergence": 0.565,
    "category": "sciences-tech",
    "terms_left": [
     "easyjet",
@@ -337,7 +337,7 @@
   {
    "title": "Colombie : les images saisissantes du séisme de magnitude 7,4",
    "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260808-colombie-le-nouveau-pr%C3%A9sident-d-extr%C3%AAme-droite-abelardo-de-la-espriella-a-%C3%A9t%C3%A9-investi",
-   "n_members": 125,
+   "n_members": 129,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.358,
+   "divergence": 0.345,
    "category": "international",
    "terms_left": [
     "service",
@@ -361,7 +361,7 @@
    "terms_right": [
     "personnes",
     "bâtiments",
-    "bilan"
+    "puissant séisme"
    ]
   },
   {
@@ -427,7 +427,7 @@
   {
    "title": "Canicule : vingt-deux départements du centre et du sud-est placés en vigilance orange ce lundi",
    "url": "https://www.tf1info.fr/meteo/meteo-france-vigilance-canicule-16-departements-en-orange-mercredi-29-juillet-jusqu-a-42-c-annonces-en-gironde-et-dans-les-landes-2455565.html",
-   "n_members": 533,
+   "n_members": 530,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.278,
+   "divergence": 0.273,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -681,17 +681,47 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.79,
+   "divergence": 0.777,
    "category": "société",
    "terms_left": [
     "épidémie",
     "ebola",
-    "rdc"
+    "france"
    ],
    "terms_right": [
-    "virus",
+    "incendies",
     "ia",
-    "incendies"
+    "personnes"
+   ]
+  },
+  {
+   "title": "Incendies en France : collectivités face à des coûts croissants",
+   "url": "https://www.leparisien.fr/politique/des-cigarettes-bientot-plus-cheres-pour-financer-la-lutte-contre-les-incendies-une-proposition-de-loi-veut-taxer-ceux-qui-fabriquent-les-megots-06-08-2026-GKMOY7GD3RBGTDAO65PU7FSAS4.php",
+   "n_members": 54,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.8,
+   "category": "environnement",
+   "terms_left": [
+    "canicule",
+    "réchauffement",
+    "réchauffement climatique"
+   ],
+   "terms_right": [
+    "france",
+    "incendie",
+    "eau"
    ]
   },
   {
@@ -741,12 +771,12 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.62,
+   "divergence": 0.616,
    "category": "environnement",
    "terms_left": [
     "préfecture",
     "incendies gironde",
-    "projet"
+    "gironde"
    ],
    "terms_right": [
     "france",
@@ -815,36 +845,6 @@
    ]
   },
   {
-   "title": "Incendies en France : collectivités face à des coûts croissants",
-   "url": "https://www.leparisien.fr/politique/des-cigarettes-bientot-plus-cheres-pour-financer-la-lutte-contre-les-incendies-une-proposition-de-loi-veut-taxer-ceux-qui-fabriquent-les-megots-06-08-2026-GKMOY7GD3RBGTDAO65PU7FSAS4.php",
-   "n_members": 53,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.8,
-   "category": "environnement",
-   "terms_left": [
-    "canicule",
-    "réchauffement",
-    "réchauffement climatique"
-   ],
-   "terms_right": [
-    "france",
-    "incendie",
-    "eau"
-   ]
-  },
-  {
    "title": "Guerre en Ukraine : un drone correspondant à ceux utilisés par Kiev explose en Bulgarie",
    "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-une-eglise-en-bois-vieille-de-300-ans-unique-en-son-genre-detruit-par-une-frappe-de-drone-russe-04-08-2026-23MEK7KTUBDDTIEG4YDWHZXFX4.php",
    "n_members": 52,
@@ -861,17 +861,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.334,
+   "divergence": 0.333,
    "category": "international",
    "terms_left": [
     "guerre",
     "guerre ukraine",
-    "ukraine drone"
+    "direct"
    ],
    "terms_right": [
     "drone bulgarie",
-    "roumanie",
-    "gazoduc"
+    "ambassadrice ukrainienne",
+    "roumanie"
    ]
   },
   {
@@ -899,7 +899,7 @@
   {
    "title": "Des températures jusqu'à 42°C cette semaine : que nous réserve la cinquième canicule de l'année ?",
    "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
-   "n_members": 84,
+   "n_members": 87,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -916,8 +916,8 @@
    "divergence": 0.65,
    "category": "environnement",
    "terms_left": [
-    "jours",
     "prochains jours",
+    "jours",
     "prochains"
    ],
    "terms_right": [
@@ -1055,7 +1055,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.561,
+   "divergence": 0.56,
    "category": "international",
    "terms_left": [
     "gauche",
@@ -1137,7 +1137,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.724,
+   "divergence": 0.723,
    "category": "faits-divers",
    "terms_left": [
     "france",
