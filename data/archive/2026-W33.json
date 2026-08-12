@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-12T06:52:11+00:00",
+ "generated_at": "2026-08-12T08:11:04+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.202,
+   "divergence": 0.203,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -97,7 +97,7 @@
   {
    "title": "Éclipse solaire du 12 août : comment l'observer en France",
    "url": "https://www.sudradio.fr/horoscope/horoscope-du-mardi-4-aout-les-previsions-des-astres-pour-votre-journee-signe-par-signe",
-   "n_members": 196,
+   "n_members": 203,
    "n_sources": 33,
    "counts": {
     "left": 6,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.44,
+   "divergence": 0.433,
    "category": "sciences-tech",
    "terms_left": [
     "rare",
@@ -121,7 +121,7 @@
    "terms_right": [
     "observer",
     "lunettes",
-    "ciel"
+    "sud"
    ]
   },
   {
@@ -261,12 +261,12 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.264,
+   "divergence": 0.265,
    "category": "international",
    "terms_left": [
     "ukrainienne",
     "frappé",
-    "direct"
+    "tatarstan"
    ],
    "terms_right": [
     "russie",
@@ -307,7 +307,7 @@
   {
    "title": "Éclipse solaire : une course contre la montre pour trouver les dernières lunettes de protection",
    "url": "https://www.leprogres.fr/societe/2026/07/29/le-dessin-du-29-juillet-zelensky-a-la-maison-blanche",
-   "n_members": 117,
+   "n_members": 119,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.565,
+   "divergence": 0.541,
    "category": "sciences-tech",
    "terms_left": [
     "easyjet",
@@ -331,13 +331,43 @@
    "terms_right": [
     "lunettes",
     "éclipse",
-    "stock"
+    "français"
+   ]
+  },
+  {
+   "title": "Canicule : vingt-deux départements du centre et du sud-est placés en vigilance orange ce lundi",
+   "url": "https://www.tf1info.fr/meteo/meteo-france-vigilance-canicule-16-departements-en-orange-mercredi-29-juillet-jusqu-a-42-c-annonces-en-gironde-et-dans-les-landes-2455565.html",
+   "n_members": 526,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.277,
+   "category": "environnement",
+   "terms_left": [
+    "direct",
+    "direct incendies",
+    "incendies"
+   ],
+   "terms_right": [
+    "placés",
+    "placés vigilance",
+    "départements placés"
    ]
   },
   {
    "title": "Colombie : les images saisissantes du séisme de magnitude 7,4",
    "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260808-colombie-le-nouveau-pr%C3%A9sident-d-extr%C3%AAme-droite-abelardo-de-la-espriella-a-%C3%A9t%C3%A9-investi",
-   "n_members": 129,
+   "n_members": 132,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -351,7 +381,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.345,
+   "divergence": 0.346,
    "category": "international",
    "terms_left": [
     "service",
@@ -359,9 +389,9 @@
     "service géologique"
    ],
    "terms_right": [
-    "personnes",
+    "décombres",
     "bâtiments",
-    "puissant séisme"
+    "personnes"
    ]
   },
   {
@@ -422,36 +452,6 @@
     "parquet antiterroriste",
     "corse",
     "autonomie corse"
-   ]
-  },
-  {
-   "title": "Canicule : vingt-deux départements du centre et du sud-est placés en vigilance orange ce lundi",
-   "url": "https://www.tf1info.fr/meteo/meteo-france-vigilance-canicule-16-departements-en-orange-mercredi-29-juillet-jusqu-a-42-c-annonces-en-gironde-et-dans-les-landes-2455565.html",
-   "n_members": 530,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.273,
-   "category": "environnement",
-   "terms_left": [
-    "direct",
-    "direct incendies",
-    "incendies"
-   ],
-   "terms_right": [
-    "placés",
-    "placés vigilance",
-    "départements placés"
    ]
   },
   {
@@ -665,6 +665,36 @@
    ]
   },
   {
+   "title": "Incendies en France : collectivités face à des coûts croissants",
+   "url": "https://www.leparisien.fr/politique/des-cigarettes-bientot-plus-cheres-pour-financer-la-lutte-contre-les-incendies-une-proposition-de-loi-veut-taxer-ceux-qui-fabriquent-les-megots-06-08-2026-GKMOY7GD3RBGTDAO65PU7FSAS4.php",
+   "n_members": 55,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.8,
+   "category": "environnement",
+   "terms_left": [
+    "canicule",
+    "réchauffement",
+    "réchauffement climatique"
+   ],
+   "terms_right": [
+    "france",
+    "incendie",
+    "eau"
+   ]
+  },
+  {
    "title": "RDC: l'épidémie d'Ebola franchit le cap des 2.000 morts",
    "url": "https://www.leparisien.fr/sciences/odeur-sucree-groupe-sanguin-ou-rien-de-cela-pourquoi-les-moustiques-raffolent-de-votre-peau-et-pas-de-celle-du-voisin-03-08-2026-7XIS34AZTNEVJPXNPS2WH45HDQ.php",
    "n_members": 54,
@@ -692,36 +722,6 @@
     "incendies",
     "ia",
     "personnes"
-   ]
-  },
-  {
-   "title": "Incendies en France : collectivités face à des coûts croissants",
-   "url": "https://www.leparisien.fr/politique/des-cigarettes-bientot-plus-cheres-pour-financer-la-lutte-contre-les-incendies-une-proposition-de-loi-veut-taxer-ceux-qui-fabriquent-les-megots-06-08-2026-GKMOY7GD3RBGTDAO65PU7FSAS4.php",
-   "n_members": 54,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.8,
-   "category": "environnement",
-   "terms_left": [
-    "canicule",
-    "réchauffement",
-    "réchauffement climatique"
-   ],
-   "terms_right": [
-    "france",
-    "incendie",
-    "eau"
    ]
   },
   {
@@ -861,7 +861,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.333,
+   "divergence": 0.335,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -899,7 +899,7 @@
   {
    "title": "Des températures jusqu'à 42°C cette semaine : que nous réserve la cinquième canicule de l'année ?",
    "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
-   "n_members": 87,
+   "n_members": 89,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -973,7 +973,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.602,
+   "divergence": 0.601,
    "category": "international",
    "terms_left": [
     "tuerie",
@@ -1055,12 +1055,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.56,
+   "divergence": 0.577,
    "category": "international",
    "terms_left": [
     "gauche",
-    "victoire",
-    "aile gauche"
+    "aile gauche",
+    "aile"
    ],
    "terms_right": [
     "états-unis",
@@ -1123,7 +1123,7 @@
   {
    "title": "Un incendie en cours dans une forêt en Maine-et-Loire : six hectares ont brûlé, une centaine menacée",
    "url": "https://www.ladepeche.fr/2026/08/05/incendie-au-nord-ouest-de-toulouse-trois-hectares-de-vegetation-ont-ete-ravages-par-un-feu-de-chaume-13497789.php",
-   "n_members": 79,
+   "n_members": 80,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -1166,7 +1166,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.409,
+   "divergence": 0.411,
    "category": "sport",
    "terms_left": [
     "monde",
@@ -1174,9 +1174,9 @@
     "coupes monde"
    ],
    "terms_right": [
-    "président",
     "crise fifa",
-    "crise"
+    "crise",
+    "président"
    ]
   }
  ]
