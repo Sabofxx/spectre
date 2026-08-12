@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-12T17:26:51+00:00",
+ "generated_at": "2026-08-12T18:15:30+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Éclipse solaire du 12 août : comment l'observer en France",
    "url": "https://www.sudradio.fr/horoscope/horoscope-du-mardi-4-aout-les-previsions-des-astres-pour-votre-journee-signe-par-signe",
-   "n_members": 250,
+   "n_members": 253,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -51,11 +51,11 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.371,
+   "divergence": 0.363,
    "category": "sciences-tech",
    "terms_left": [
+    "observable",
     "passionnés",
-    "eclipse",
     "partir"
    ],
    "terms_right": [
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.501,
+   "divergence": 0.502,
    "category": "sciences-tech",
    "terms_left": [
     "easyjet",
@@ -277,7 +277,7 @@
   {
    "title": "Ukraine : Zelensky accuse Moscou d’utiliser des missiles nord-coréens",
    "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-comment-le-japon-est-devenu-un-repere-despions-russes-charges-de-voler-des-technologies-pour-ses-missiles-13-07-2026-DDPBVY4XV5GLZHVWMABPK66RU4.php",
-   "n_members": 429,
+   "n_members": 430,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -307,7 +307,7 @@
   {
    "title": "Colombie : les images saisissantes du séisme de magnitude 7,4",
    "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260808-colombie-le-nouveau-pr%C3%A9sident-d-extr%C3%AAme-droite-abelardo-de-la-espriella-a-%C3%A9t%C3%A9-investi",
-   "n_members": 150,
+   "n_members": 151,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.326,
+   "divergence": 0.327,
    "category": "international",
    "terms_left": [
     "service",
@@ -427,7 +427,7 @@
   {
    "title": "Addiction aux réseaux sociaux : Meta menacé de pénalités record dans un nouveau procès",
    "url": "https://www.20minutes.fr/high-tech/4237036-20260803-agents-openai-train-devenir-cyberpirates-autonomes-conquerir-monde-calme",
-   "n_members": 69,
+   "n_members": 70,
    "n_sources": 26,
    "counts": {
     "left": 7,
@@ -517,7 +517,7 @@
   {
    "title": "La chaleur de retour en France ces prochains jours, 43 départements placés en vigilance orange canicule",
    "url": "https://www.tf1info.fr/meteo/meteo-france-vigilance-canicule-16-departements-en-orange-mercredi-29-juillet-jusqu-a-42-c-annonces-en-gironde-et-dans-les-landes-2455565.html",
-   "n_members": 514,
+   "n_members": 513,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -531,7 +531,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.278,
+   "divergence": 0.271,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.292,
+   "divergence": 0.293,
    "category": "international",
    "terms_left": [
     "russie",
@@ -771,7 +771,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.598,
+   "divergence": 0.597,
    "category": "environnement",
    "terms_left": [
     "nazis",
@@ -845,9 +845,9 @@
    ]
   },
   {
-   "title": "L'épidémie d'Ebola a fait plus de 2 000 morts en RD Congo depuis mai",
+   "title": "Ebola en RDC : le cap des 2000 morts franchi",
    "url": "https://www.leparisien.fr/sciences/odeur-sucree-groupe-sanguin-ou-rien-de-cela-pourquoi-les-moustiques-raffolent-de-votre-peau-et-pas-de-celle-du-voisin-03-08-2026-7XIS34AZTNEVJPXNPS2WH45HDQ.php",
-   "n_members": 55,
+   "n_members": 56,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -861,7 +861,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.777,
+   "divergence": 0.778,
    "category": "société",
    "terms_left": [
     "épidémie",
@@ -1033,7 +1033,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.646,
+   "divergence": 0.647,
    "category": "environnement",
    "terms_left": [
     "prochains jours",
@@ -1043,7 +1043,7 @@
    "terms_right": [
     "canicule",
     "pays",
-    "départements"
+    "jusqu"
    ]
   },
   {
@@ -1107,6 +1107,36 @@
    ]
   },
   {
+   "title": "Etats-Unis : Figure de la gauche, Alexandria Ocasio-Cortez chronique sa procédure de gel d’ovocytes sur les réseaux",
+   "url": "https://www.france24.com/fr/am%C3%A9riques/20260803-les-primaires-dans-le-michigan-un-scrutin-qui-expose-les-divisions-des-d%C3%A9mocrates-sur-isra%C3%ABl",
+   "n_members": 65,
+   "n_sources": 22,
+   "counts": {
+    "left": 6,
+    "centre": 10,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.577,
+   "category": "international",
+   "terms_left": [
+    "gauche",
+    "aile gauche",
+    "aile"
+   ],
+   "terms_right": [
+    "états-unis",
+    "primaire démocrate",
+    "réseaux"
+   ]
+  },
+  {
    "title": "États-Unis : Donald Trump veut à son tour réclamer des «compensations» à l’Iran",
    "url": "https://www.sudouest.fr/international/etats-unis/donald-trump/droit-du-sol-aux-etats-unis-donald-trump-signe-un-decret-contre-le-tourisme-des-naissances-30185832.php",
    "n_members": 65,
@@ -1157,36 +1187,6 @@
    "category": "société",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Etats-Unis : Figure de la gauche, Alexandria Ocasio-Cortez chronique sa procédure de gel d’ovocytes sur les réseaux",
-   "url": "https://www.france24.com/fr/am%C3%A9riques/20260803-les-primaires-dans-le-michigan-un-scrutin-qui-expose-les-divisions-des-d%C3%A9mocrates-sur-isra%C3%ABl",
-   "n_members": 64,
-   "n_sources": 22,
-   "counts": {
-    "left": 6,
-    "centre": 10,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.576,
-   "category": "international",
-   "terms_left": [
-    "gauche",
-    "aile gauche",
-    "aile"
-   ],
-   "terms_right": [
-    "états-unis",
-    "primaire démocrate",
-    "réseaux"
-   ]
   }
  ]
 }
