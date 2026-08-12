@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-12T08:11:04+00:00",
+ "generated_at": "2026-08-12T09:38:56+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -97,7 +97,7 @@
   {
    "title": "Éclipse solaire du 12 août : comment l'observer en France",
    "url": "https://www.sudradio.fr/horoscope/horoscope-du-mardi-4-aout-les-previsions-des-astres-pour-votre-journee-signe-par-signe",
-   "n_members": 203,
+   "n_members": 212,
    "n_sources": 33,
    "counts": {
     "left": 6,
@@ -111,17 +111,17 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.433,
+   "divergence": 0.432,
    "category": "sciences-tech",
    "terms_left": [
     "rare",
     "solaire visible",
-    "eclipse"
+    "préparer"
    ],
    "terms_right": [
     "observer",
     "lunettes",
-    "sud"
+    "ciel"
    ]
   },
   {
@@ -247,7 +247,7 @@
   {
    "title": "EN DIRECT, guerre en Ukraine : des échanges de frappes font cinq morts et des dizaines de blessés en Ukraine et en Russie",
    "url": "https://www.courrierinternational.com/article/geopolitique-comment-le-japon-est-devenu-un-nid-d-espions-russes_249252",
-   "n_members": 424,
+   "n_members": 427,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -261,17 +261,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.265,
+   "divergence": 0.264,
    "category": "international",
    "terms_left": [
     "ukrainienne",
-    "frappé",
-    "tatarstan"
+    "tatarstan",
+    "direct"
    ],
    "terms_right": [
-    "russie",
     "frappe",
-    "pays"
+    "pays",
+    "russie"
    ]
   },
   {
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.715,
+   "divergence": 0.714,
    "category": "environnement",
    "terms_left": [
     "année",
@@ -305,9 +305,39 @@
    ]
   },
   {
+   "title": "Colombie : les images saisissantes du séisme de magnitude 7,4",
+   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260808-colombie-le-nouveau-pr%C3%A9sident-d-extr%C3%AAme-droite-abelardo-de-la-espriella-a-%C3%A9t%C3%A9-investi",
+   "n_members": 139,
+   "n_sources": 27,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.336,
+   "category": "international",
+   "terms_left": [
+    "service",
+    "géologique",
+    "service géologique"
+   ],
+   "terms_right": [
+    "personnes",
+    "décombres",
+    "bâtiments"
+   ]
+  },
+  {
    "title": "Éclipse solaire : une course contre la montre pour trouver les dernières lunettes de protection",
    "url": "https://www.leprogres.fr/societe/2026/07/29/le-dessin-du-29-juillet-zelensky-a-la-maison-blanche",
-   "n_members": 119,
+   "n_members": 121,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -321,7 +351,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.541,
+   "divergence": 0.543,
    "category": "sciences-tech",
    "terms_left": [
     "easyjet",
@@ -351,7 +381,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.277,
+   "divergence": 0.281,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -362,36 +392,6 @@
     "placés",
     "placés vigilance",
     "départements placés"
-   ]
-  },
-  {
-   "title": "Colombie : les images saisissantes du séisme de magnitude 7,4",
-   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260808-colombie-le-nouveau-pr%C3%A9sident-d-extr%C3%AAme-droite-abelardo-de-la-espriella-a-%C3%A9t%C3%A9-investi",
-   "n_members": 132,
-   "n_sources": 26,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.346,
-   "category": "international",
-   "terms_left": [
-    "service",
-    "géologique",
-    "service géologique"
-   ],
-   "terms_right": [
-    "décombres",
-    "bâtiments",
-    "personnes"
    ]
   },
   {
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.544,
+   "divergence": 0.542,
    "category": "environnement",
    "terms_left": [
     "massif claps",
@@ -419,9 +419,9 @@
     "lozère parcouru"
    ],
    "terms_right": [
-    "incendies",
     "feu",
-    "hectares"
+    "incendies",
+    "poursuit"
    ]
   },
   {
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.478,
+   "divergence": 0.479,
    "category": "société",
    "terms_left": [
     "menace non-corses",
@@ -651,7 +651,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.815,
+   "divergence": 0.816,
    "category": "environnement",
    "terms_left": [
     "mois",
@@ -667,7 +667,7 @@
   {
    "title": "Incendies en France : collectivités face à des coûts croissants",
    "url": "https://www.leparisien.fr/politique/des-cigarettes-bientot-plus-cheres-pour-financer-la-lutte-contre-les-incendies-une-proposition-de-loi-veut-taxer-ceux-qui-fabriquent-les-megots-06-08-2026-GKMOY7GD3RBGTDAO65PU7FSAS4.php",
-   "n_members": 55,
+   "n_members": 56,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -681,12 +681,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.8,
+   "divergence": 0.812,
    "category": "environnement",
    "terms_left": [
     "canicule",
-    "réchauffement",
-    "réchauffement climatique"
+    "climatique",
+    "réchauffement"
    ],
    "terms_right": [
     "france",
@@ -711,7 +711,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.777,
+   "divergence": 0.778,
    "category": "société",
    "terms_left": [
     "épidémie",
@@ -741,7 +741,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.34,
+   "divergence": 0.338,
    "category": "société",
    "terms_left": [
     "ans",
@@ -750,8 +750,8 @@
    ],
    "terms_right": [
     "courrier",
-    "laurent nuñez",
-    "nuñez"
+    "gérald darmanin",
+    "gérald"
    ]
   },
   {
@@ -771,7 +771,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.616,
+   "divergence": 0.615,
    "category": "environnement",
    "terms_left": [
     "préfecture",
@@ -787,7 +787,7 @@
   {
    "title": "Sécheresse : près de 70% de la France sous des mesures de restrictions d'eau",
    "url": "https://www.france24.com/fr/plan%C3%A8te/20260807-en-images-quand-les-fleuves-europ%C3%A9ens-s-ass%C3%A8chent-les-vestiges-du-pass%C3%A9-refont-surface",
-   "n_members": 62,
+   "n_members": 63,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -801,7 +801,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.607,
+   "divergence": 0.608,
    "category": "environnement",
    "terms_left": [
     "nazis",
@@ -815,9 +815,9 @@
    ]
   },
   {
-   "title": "Meta de retour devant la justice américaine, accusé d'avoir sciemment rendu ses applications addictives pour les jeunes",
+   "title": "Réseaux sociaux : condamné deux fois, Meta affronte un nouveau procès ce mercredi en Californie",
    "url": "https://www.20minutes.fr/high-tech/4237036-20260803-agents-openai-train-devenir-cyberpirates-autonomes-conquerir-monde-calme",
-   "n_members": 55,
+   "n_members": 57,
    "n_sources": 23,
    "counts": {
     "left": 6,
@@ -831,7 +831,7 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.609,
+   "divergence": 0.61,
    "category": "sciences-tech",
    "terms_left": [
     "verser",
@@ -943,7 +943,7 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.709,
+   "divergence": 0.708,
    "category": "international",
    "terms_left": [
     "crime guerre",
@@ -953,7 +953,7 @@
    "terms_right": [
     "moyen-orient",
     "guerre moyen-orient",
-    "nouvelle"
+    "annonce"
    ]
   },
   {
@@ -1091,6 +1091,66 @@
    "terms_right": []
   },
   {
+   "title": "Chômage : Sébastien Lecornu défend le bilan du macronisme, sans « déni » mais en appelant à rejeter la « caricature »",
+   "url": "https://www.bfmtv.com/economie/emploi/c-est-son-plus-haut-niveau-depuis-l-automne-2020-le-taux-de-chomage-augmente-de-0-2-point-a-8-3-au-deuxieme-trimestre_AD-202608070086.html",
+   "n_members": 52,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 8,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 6,
+    "opinion": 4
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.458,
+   "category": "économie",
+   "terms_left": [
+    "macron",
+    "emmanuel",
+    "emmanuel macron"
+   ],
+   "terms_right": [
+    "taux",
+    "taux chômage",
+    "atteint"
+   ]
+  },
+  {
+   "title": "Réseaux sociaux. Crise migratoire à Ceuta : Meta et TikTok acceptent de muscler leur lutte contre la désinformation",
+   "url": "https://www.leparisien.fr/international/espagne/crise-migratoire-a-ceuta-lespagne-met-en-garde-litalie-contre-des-mesures-de-retorsion-si-elle-maintient-ses-controles-aux-frontieres-07-08-2026-WISZ7GAZ6NEV3F473FBHTNZEQ4.php",
+   "n_members": 46,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.446,
+   "category": "international",
+   "terms_left": [
+    "mesures",
+    "réponse",
+    "crise ceuta"
+   ],
+   "terms_right": [
+    "tour",
+    "ceuta",
+    "migratoire"
+   ]
+  },
+  {
    "title": "Syrie : le président déchu Bachar al-Assad condamné à la peine de mort par contumace",
    "url": "https://www.lemonde.fr/international/article/2026/08/11/bachar-al-assad-condamne-a-la-peine-de-mort-par-contumace-en-syrie-pour-crimes-de-guerre-et-crimes-contre-l-humanite_6743778_3210.html",
    "n_members": 27,
@@ -1118,65 +1178,6 @@
     "contumace",
     "président déchu",
     "mort contumace"
-   ]
-  },
-  {
-   "title": "Un incendie en cours dans une forêt en Maine-et-Loire : six hectares ont brûlé, une centaine menacée",
-   "url": "https://www.ladepeche.fr/2026/08/05/incendie-au-nord-ouest-de-toulouse-trois-hectares-de-vegetation-ont-ete-ravages-par-un-feu-de-chaume-13497789.php",
-   "n_members": 80,
-   "n_sources": 21,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.723,
-   "category": "faits-divers",
-   "terms_left": [
-    "france",
-    "environ"
-   ],
-   "terms_right": [
-    "incendie",
-    "hectares",
-    "feu"
-   ]
-  },
-  {
-   "title": "FIFA : Gianni Infantino accusé d'avoir favorisé une employée de l'UEFA avec qui il aurait eu une relation",
-   "url": "https://www.20minutes.fr/sport/football/4237708-20260804-crise-fifa-ceferin-al-khelaifi-unis-porter-coup-grace-infantino-boycottant-cdm-clubs",
-   "n_members": 65,
-   "n_sources": 21,
-   "counts": {
-    "left": 4,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.411,
-   "category": "sport",
-   "terms_left": [
-    "monde",
-    "coupes",
-    "coupes monde"
-   ],
-   "terms_right": [
-    "crise fifa",
-    "crise",
-    "président"
    ]
   }
  ]
