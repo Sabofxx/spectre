@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-12T11:40:15+00:00",
+ "generated_at": "2026-08-12T12:44:34+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -97,7 +97,7 @@
   {
    "title": "Éclipse solaire du 12 août : comment l'observer en France",
    "url": "https://www.sudradio.fr/horoscope/horoscope-du-mardi-4-aout-les-previsions-des-astres-pour-votre-journee-signe-par-signe",
-   "n_members": 224,
+   "n_members": 231,
    "n_sources": 33,
    "counts": {
     "left": 6,
@@ -114,14 +114,14 @@
    "divergence": 0.434,
    "category": "sciences-tech",
    "terms_left": [
+    "eclipse",
     "préparer",
-    "passionnés",
-    "eclipse"
+    "passionnés"
    ],
    "terms_right": [
     "lunettes",
-    "ciel",
-    "sud"
+    "sud",
+    "événement"
    ]
   },
   {
@@ -174,20 +174,50 @@
    "divergence": 0.184,
    "category": "international",
    "terms_left": [
-    "annonce",
     "accepté",
-    "nétanyahou"
+    "gaza accepté",
+    "bande gaza"
    ],
    "terms_right": [
     "paix",
     "plan paix",
-    "étape"
+    "nouveau"
+   ]
+  },
+  {
+   "title": "Éclipse solaire : une course contre la montre pour trouver les dernières lunettes de protection",
+   "url": "https://www.leprogres.fr/societe/2026/07/29/le-dessin-du-29-juillet-zelensky-a-la-maison-blanche",
+   "n_members": 132,
+   "n_sources": 29,
+   "counts": {
+    "left": 5,
+    "centre": 17,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.548,
+   "category": "sciences-tech",
+   "terms_left": [
+    "easyjet",
+    "travail",
+    "conditions"
+   ],
+   "terms_right": [
+    "lunettes",
+    "éclipse",
+    "france"
    ]
   },
   {
    "title": "Méduses et canicule : pic d'indisponibilité «environnementale» record de 20,4% dans le parc nucléaire d'EDF",
    "url": "https://information.tv5monde.com/international/la-secheresse-frappe-les-balkans-le-danube-au-plus-bas-en-serbie-2831837",
-   "n_members": 93,
+   "n_members": 95,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,7 +231,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.529,
+   "divergence": 0.534,
    "category": "environnement",
    "terms_left": [
     "danube",
@@ -242,36 +272,6 @@
     "migratoire",
     "ministre",
     "migrants"
-   ]
-  },
-  {
-   "title": "Éclipse solaire : une course contre la montre pour trouver les dernières lunettes de protection",
-   "url": "https://www.leprogres.fr/societe/2026/07/29/le-dessin-du-29-juillet-zelensky-a-la-maison-blanche",
-   "n_members": 127,
-   "n_sources": 28,
-   "counts": {
-    "left": 5,
-    "centre": 16,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.545,
-   "category": "sciences-tech",
-   "terms_left": [
-    "easyjet",
-    "travail",
-    "conditions"
-   ],
-   "terms_right": [
-    "lunettes",
-    "éclipse",
-    "france"
    ]
   },
   {
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.714,
+   "divergence": 0.715,
    "category": "environnement",
    "terms_left": [
     "année",
@@ -337,7 +337,7 @@
   {
    "title": "Colombie : les images saisissantes du séisme de magnitude 7,4",
    "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260808-colombie-le-nouveau-pr%C3%A9sident-d-extr%C3%AAme-droite-abelardo-de-la-espriella-a-%C3%A9t%C3%A9-investi",
-   "n_members": 141,
+   "n_members": 145,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.339,
+   "divergence": 0.326,
    "category": "international",
    "terms_left": [
     "service",
@@ -359,9 +359,39 @@
     "service géologique"
    ],
    "terms_right": [
-    "décombres",
     "personnes",
-    "bâtiments"
+    "bâtiments",
+    "puissant séisme"
+   ]
+  },
+  {
+   "title": "Incendies en France : collectivités face à des coûts croissants",
+   "url": "https://www.leparisien.fr/politique/des-cigarettes-bientot-plus-cheres-pour-financer-la-lutte-contre-les-incendies-une-proposition-de-loi-veut-taxer-ceux-qui-fabriquent-les-megots-06-08-2026-GKMOY7GD3RBGTDAO65PU7FSAS4.php",
+   "n_members": 59,
+   "n_sources": 27,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.809,
+   "category": "environnement",
+   "terms_left": [
+    "canicule",
+    "climatique",
+    "réchauffement"
+   ],
+   "terms_right": [
+    "france",
+    "incendie",
+    "français"
    ]
   },
   {
@@ -381,7 +411,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.279,
+   "divergence": 0.28,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -416,7 +446,7 @@
    "terms_left": [
     "incendie drôme",
     "massif claps",
-    "lozère désormais"
+    "feu lozère"
    ],
    "terms_right": [
     "hectares",
@@ -517,7 +547,7 @@
   {
    "title": "Chaleur record en Europe de l'Ouest pour le début de l'été 2026",
    "url": "https://www.sudouest.fr/environnement/climat/canicule/canicule-en-gironde-je-ne-ferai-pas-de-miel-d-ete-cette-annee-c-est-la-premiere-fois-que-ca-m-arrive-les-alpiculteurs-en-souffrance-face-au-dereglement-climatique-29946304.php",
-   "n_members": 62,
+   "n_members": 63,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -542,36 +572,6 @@
     "français",
     "chaud",
     "connu"
-   ]
-  },
-  {
-   "title": "Incendies en France : collectivités face à des coûts croissants",
-   "url": "https://www.leparisien.fr/politique/des-cigarettes-bientot-plus-cheres-pour-financer-la-lutte-contre-les-incendies-une-proposition-de-loi-veut-taxer-ceux-qui-fabriquent-les-megots-06-08-2026-GKMOY7GD3RBGTDAO65PU7FSAS4.php",
-   "n_members": 57,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.807,
-   "category": "environnement",
-   "terms_left": [
-    "canicule",
-    "climatique",
-    "réchauffement"
-   ],
-   "terms_right": [
-    "france",
-    "incendie",
-    "français"
    ]
   },
   {
@@ -695,6 +695,36 @@
    ]
   },
   {
+   "title": "Sécheresse : près de 70% de la France sous des mesures de restrictions d'eau",
+   "url": "https://www.france24.com/fr/plan%C3%A8te/20260807-en-images-quand-les-fleuves-europ%C3%A9ens-s-ass%C3%A8chent-les-vestiges-du-pass%C3%A9-refont-surface",
+   "n_members": 66,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.598,
+   "category": "environnement",
+   "terms_left": [
+    "nazis",
+    "vestiges",
+    "danube"
+   ],
+   "terms_right": [
+    "restrictions",
+    "face",
+    "crise"
+   ]
+  },
+  {
    "title": "Canicules et sécheresse : un été de pertes et de désespoir pour une agriculture française « dans le gouffre »",
    "url": "https://www.sciencesetavenir.fr/high-tech/ramageddon-la-crise-qui-menace-les-performances-des-portables_194090",
    "n_members": 65,
@@ -725,39 +755,9 @@
    ]
   },
   {
-   "title": "Sécheresse : près de 70% de la France sous des mesures de restrictions d'eau",
-   "url": "https://www.france24.com/fr/plan%C3%A8te/20260807-en-images-quand-les-fleuves-europ%C3%A9ens-s-ass%C3%A8chent-les-vestiges-du-pass%C3%A9-refont-surface",
-   "n_members": 65,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.605,
-   "category": "environnement",
-   "terms_left": [
-    "nazis",
-    "vestiges",
-    "danube"
-   ],
-   "terms_right": [
-    "restrictions",
-    "crise",
-    "face"
-   ]
-  },
-  {
-   "title": "Meta de retour devant la justice américaine, accusé d'avoir sciemment rendu ses applications addictives pour les jeunes",
+   "title": "Facebook et Instagram ont-ils été conçus pour rendre les mineurs accros? Après deux condamnations, Meta affronte un procès majeur aux États-Unis qui pourrait lui coûter jusqu'à 1.400 milliards de dollars",
    "url": "https://www.20minutes.fr/high-tech/4237036-20260803-agents-openai-train-devenir-cyberpirates-autonomes-conquerir-monde-calme",
-   "n_members": 62,
+   "n_members": 64,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -801,7 +801,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.781,
+   "divergence": 0.777,
    "category": "société",
    "terms_left": [
     "épidémie",
@@ -817,7 +817,7 @@
   {
    "title": "Crise à Ceuta : Meta et TikTok acceptent de muscler la lutte contre la désinformation à la demande de l’Union européenne",
    "url": "https://www.leparisien.fr/international/espagne/crise-migratoire-a-ceuta-lespagne-met-en-garde-litalie-contre-des-mesures-de-retorsion-si-elle-maintient-ses-controles-aux-frontieres-07-08-2026-WISZ7GAZ6NEV3F473FBHTNZEQ4.php",
-   "n_members": 50,
+   "n_members": 51,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -973,7 +973,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.651,
+   "divergence": 0.652,
    "category": "environnement",
    "terms_left": [
     "prochains jours",
@@ -1033,7 +1033,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.581,
+   "divergence": 0.58,
    "category": "international",
    "terms_left": [
     "ans",
@@ -1063,7 +1063,7 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.469,
+   "divergence": 0.468,
    "category": "international",
    "terms_left": [
     "autorisation",
@@ -1153,7 +1153,7 @@
   {
    "title": "Donald Trump défend Gianni Infantino face aux voix réclamant son départ de la Fifa",
    "url": "https://www.france24.com/fr/sports/20260810-le-football-n-appartient-%C3%A0-aucun-individu-l-uefa-la-concacaf-et-l-afc-d%C3%A9savouent-infantino",
-   "n_members": 51,
+   "n_members": 54,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -1167,12 +1167,12 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.568,
+   "divergence": 0.545,
    "category": "sport",
    "terms_left": [
     "tête",
     "fédération",
-    "infantino tête"
+    "offensive"
    ],
    "terms_right": [
     "trump",
