@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-13T18:16:09+00:00",
+ "generated_at": "2026-08-13T19:33:38+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.278,
+   "divergence": 0.28,
    "category": "international",
    "terms_left": [
     "droite",
@@ -81,12 +81,12 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.207,
+   "divergence": 0.209,
    "category": "international",
    "terms_left": [
     "direct guerre",
-    "etats-unis",
-    "direct"
+    "direct",
+    "etats-unis"
    ],
    "terms_right": [
     "états-unis",
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.501,
+   "divergence": 0.499,
    "category": "environnement",
    "terms_left": [
     "danube",
@@ -321,12 +321,12 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.275,
+   "divergence": 0.268,
    "category": "international",
    "terms_left": [
     "disparus",
-    "provoqué",
-    "lendemain"
+    "lendemain",
+    "cali pereira"
    ],
    "terms_right": [
     "décombres",
@@ -411,7 +411,7 @@
    },
    "blindspot_score": -0.167,
    "blindspot_for": null,
-   "divergence": 0.587,
+   "divergence": 0.586,
    "category": "sciences-tech",
    "terms_left": [
     "dollars",
@@ -471,17 +471,17 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.484,
+   "divergence": 0.486,
    "category": "économie",
    "terms_left": [
     "macron",
     "hausse",
-    "chiffres"
+    "chômage sébastien"
    ],
    "terms_right": [
     "emploi",
-    "atteint",
-    "millions"
+    "millions",
+    "jeunes"
    ]
   },
   {
@@ -547,7 +547,7 @@
   {
    "title": "Incendies en France: en plein été de tous les records, les pompiers sont en grève",
    "url": "https://www.nicematin.com/societe/transports/une-alerte-publique-et-formelle-un-syndicat-menace-lignes-d-azur-d-une-troisieme-greve-10700836",
-   "n_members": 82,
+   "n_members": 87,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.555,
+   "divergence": 0.532,
    "category": "société",
    "terms_left": [
     "santé",
@@ -570,8 +570,8 @@
    ],
    "terms_right": [
     "moyens",
-    "intersyndicale",
-    "demander"
+    "demander",
+    "davantage"
    ]
   },
   {
@@ -651,17 +651,17 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.684,
+   "divergence": 0.692,
    "category": "environnement",
    "terms_left": [
     "chaleur",
-    "millions",
-    "nouvelle"
+    "nouvelle",
+    "millions"
    ],
    "terms_right": [
-    "mois",
-    "début",
-    "français"
+    "français",
+    "états-unis",
+    "température"
    ]
   },
   {
@@ -697,7 +697,7 @@
   {
    "title": "DIRECT. Canicule : 80 départements en vigilance orange, jusqu'à 40 °C attendus ce jeudi dans plusieurs régions",
    "url": "https://www.ladepeche.fr/2026/08/13/direct-canicule-80-departements-en-vigilance-orange-jusqua-40-c-attendus-ce-jeudi-dans-plusieurs-regions-13507182.php",
-   "n_members": 510,
+   "n_members": 509,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -711,7 +711,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.262,
+   "divergence": 0.263,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -921,7 +921,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.561,
+   "divergence": 0.562,
    "category": "sport",
    "terms_left": [
     "tête",
@@ -951,7 +951,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.792,
+   "divergence": 0.793,
    "category": "société",
    "terms_left": [
     "épidémie",
@@ -1011,7 +1011,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.463,
+   "divergence": 0.458,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -1107,9 +1107,39 @@
    "terms_right": []
   },
   {
+   "title": "Îles Kouriles : pourquoi l'archipel est au cœur de tensions entre le Japon et la Russie depuis 1945 ?",
+   "url": "https://www.franceinfo.fr/monde/russie/vladimir-poutine-menace-de-saisir-des-navires-occidentaux-en-represailles-a-l-arraisonnement-de-bateaux-soupconnes-d-appartenir-a-la-flotte-fantome-russe_8144297.html",
+   "n_members": 38,
+   "n_sources": 23,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.269,
+   "category": "international",
+   "terms_left": [
+    "visite",
+    "poutine îles",
+    "vigoureusement visite"
+   ],
+   "terms_right": [
+    "fois",
+    "guerre",
+    "qu"
+   ]
+  },
+  {
    "title": "Canicule : la durée de la vague de chaleur en cours en France va dépasser celle de 2003",
    "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
-   "n_members": 113,
+   "n_members": 114,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -1123,7 +1153,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.585,
+   "divergence": 0.587,
    "category": "environnement",
    "terms_left": [
     "jours",
@@ -1164,36 +1194,6 @@
     "moyen-orient",
     "guerre moyen-orient",
     "annonce"
-   ]
-  },
-  {
-   "title": "En Thaïlande, les permis d’armes à feu suspendus après une fusillade dans un lycée",
-   "url": "https://www.liberation.fr/international/asie-pacifique/en-birmanie-la-junte-devoile-des-images-daung-san-suu-kyi-qui-donnent-de-lespoir-cest-une-premiere-etape-importante-20260803_UIMDGV7QKRBO7FVIZHISVXQF3A/",
-   "n_members": 71,
-   "n_sources": 22,
-   "counts": {
-    "left": 3,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.562,
-   "category": "international",
-   "terms_left": [
-    "aung",
-    "tuerie",
-    "birmanie"
-   ],
-   "terms_right": [
-    "morts",
-    "blessés",
-    "fusillade"
    ]
   }
  ]
