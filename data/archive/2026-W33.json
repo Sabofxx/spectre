@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-13T19:33:38+00:00",
+ "generated_at": "2026-08-13T20:31:36+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.509,
+   "divergence": 0.51,
    "category": "sciences-tech",
    "terms_left": [
     "easyjet",
@@ -307,7 +307,7 @@
   {
    "title": "Colombie : plus de 200 morts, les recherches se poursuivent après le séisme",
    "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260808-colombie-le-nouveau-pr%C3%A9sident-d-extr%C3%AAme-droite-abelardo-de-la-espriella-a-%C3%A9t%C3%A9-investi",
-   "n_members": 171,
+   "n_members": 172,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -547,7 +547,7 @@
   {
    "title": "Incendies en France: en plein été de tous les records, les pompiers sont en grève",
    "url": "https://www.nicematin.com/societe/transports/une-alerte-publique-et-formelle-un-syndicat-menace-lignes-d-azur-d-une-troisieme-greve-10700836",
-   "n_members": 87,
+   "n_members": 88,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.532,
+   "divergence": 0.533,
    "category": "société",
    "terms_left": [
     "santé",
@@ -651,17 +651,17 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.692,
+   "divergence": 0.712,
    "category": "environnement",
    "terms_left": [
     "chaleur",
     "nouvelle",
-    "millions"
+    "cause"
    ],
    "terms_right": [
     "français",
-    "états-unis",
-    "température"
+    "qu",
+    "états-unis"
    ]
   },
   {
@@ -815,6 +815,36 @@
    ]
   },
   {
+   "title": "Laurent Nuñez répond aux critiques sur violences sexuelles mineurs",
+   "url": "https://www.nicematin.com/faits-divers/160-000-enfants-victimes-de-violences-sexuelles-chaque-annee-en-france-retour-sur-l-affaire-lyhanna-et-les-carences-en-matiere-de-protection-de-l-enfance-10689372",
+   "n_members": 75,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.303,
+   "category": "société",
+   "terms_left": [
+    "police judiciaire",
+    "judiciaire dénonce",
+    "judiciaire"
+   ],
+   "terms_right": [
+    "ministre",
+    "face",
+    "point"
+   ]
+  },
+  {
    "title": "Détroit d'Ormuz: un navire émirati frappé par un \"projectile\", les Émirats arabes unis accusent l'Iran",
    "url": "https://www.sudouest.fr/international/iran/iran-des-tractations-diplomatiques-en-cours-pour-relancer-l-accord-de-juin-entre-washington-et-teheran-comprenant-notamment-l-ouverture-du-detroit-d-ormuz-30147698.php",
    "n_members": 72,
@@ -965,36 +995,6 @@
    ]
   },
   {
-   "title": "Laurent Nuñez répond aux critiques sur violences sexuelles mineurs",
-   "url": "https://www.nicematin.com/faits-divers/160-000-enfants-victimes-de-violences-sexuelles-chaque-annee-en-france-retour-sur-l-affaire-lyhanna-et-les-carences-en-matiere-de-protection-de-l-enfance-10689372",
-   "n_members": 74,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.3,
-   "category": "société",
-   "terms_left": [
-    "police judiciaire",
-    "judiciaire dénonce",
-    "dénonce"
-   ],
-   "terms_right": [
-    "violences",
-    "face",
-    "ministre"
-   ]
-  },
-  {
    "title": "États-Unis : Donald Trump veut à son tour réclamer des «compensations» à l’Iran",
    "url": "https://www.sudouest.fr/international/etats-unis/donald-trump/droit-du-sol-aux-etats-unis-donald-trump-signe-un-decret-contre-le-tourisme-des-naissances-30185832.php",
    "n_members": 68,
@@ -1011,7 +1011,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.458,
+   "divergence": 0.457,
    "category": "international",
    "terms_left": [
     "etats-unis",
