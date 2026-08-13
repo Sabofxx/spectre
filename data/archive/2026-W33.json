@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-13T17:27:17+00:00",
+ "generated_at": "2026-08-13T18:16:09+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -67,7 +67,7 @@
   {
    "title": "Guerre au Moyen-Orient : Donald Trump assure que les États-Unis « vont garder » un contrôle « total » du détroit d’Ormuz",
    "url": "https://www.tf1info.fr/international/direct-moyen-orient-frappes-americaines-en-iran-attaques-pays-du-golfe-les-dernieres-informations-du-mardi-21-juillet-2026-2454161.html",
-   "n_members": 595,
+   "n_members": 591,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -97,7 +97,7 @@
   {
    "title": "Football : Gianni Infantino toujours plus fragilisé à la tête de la Fifa",
    "url": "https://www.ladepeche.fr/2026/07/28/il-franchit-une-limite-gianni-infantino-serait-pret-a-ceder-des-parts-de-la-fifa-pour-plusieurs-milliards-deuros-a-des-proches-de-donald-trump-13487502.php",
-   "n_members": 287,
+   "n_members": 288,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.161,
+   "divergence": 0.16,
    "category": "sport",
    "terms_left": [
     "plan",
@@ -121,7 +121,7 @@
    "terms_right": [
     "privés fifa",
     "crise",
-    "critiques"
+    "fifa"
    ]
   },
   {
@@ -277,7 +277,7 @@
   {
    "title": "Ukraine : Zelensky accuse Moscou d’utiliser des missiles nord-coréens",
    "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-comment-un-drone-fpv-a-500-euros-a-detruit-un-helicoptere-russe-estime-a-14-millions-deuros-16-07-2026-ON2OKICKKJE3RNKUEIQXZUGVOQ.php",
-   "n_members": 447,
+   "n_members": 448,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -307,7 +307,7 @@
   {
    "title": "Colombie : plus de 200 morts, les recherches se poursuivent après le séisme",
    "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260808-colombie-le-nouveau-pr%C3%A9sident-d-extr%C3%AAme-droite-abelardo-de-la-espriella-a-%C3%A9t%C3%A9-investi",
-   "n_members": 170,
+   "n_members": 171,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -331,7 +331,7 @@
    "terms_right": [
     "décombres",
     "bâtiments",
-    "personnes"
+    "puissant séisme"
    ]
   },
   {
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.539,
+   "divergence": 0.537,
    "category": "environnement",
    "terms_left": [
     "incendie drôme",
@@ -411,7 +411,7 @@
    },
    "blindspot_score": -0.167,
    "blindspot_for": null,
-   "divergence": 0.586,
+   "divergence": 0.587,
    "category": "sciences-tech",
    "terms_left": [
     "dollars",
@@ -471,17 +471,17 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.488,
+   "divergence": 0.484,
    "category": "économie",
    "terms_left": [
     "macron",
     "hausse",
-    "emmanuel"
+    "chiffres"
    ],
    "terms_right": [
+    "emploi",
     "atteint",
-    "millions",
-    "jeunes"
+    "millions"
    ]
   },
   {
@@ -542,6 +542,36 @@
     "contumace",
     "moyen-orient",
     "président déchu"
+   ]
+  },
+  {
+   "title": "Incendies en France: en plein été de tous les records, les pompiers sont en grève",
+   "url": "https://www.nicematin.com/societe/transports/une-alerte-publique-et-formelle-un-syndicat-menace-lignes-d-azur-d-une-troisieme-greve-10700836",
+   "n_members": 82,
+   "n_sources": 25,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.555,
+   "category": "société",
+   "terms_left": [
+    "santé",
+    "hôtesses",
+    "hôtesses stewards"
+   ],
+   "terms_right": [
+    "moyens",
+    "intersyndicale",
+    "demander"
    ]
   },
   {
@@ -681,7 +711,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.263,
+   "divergence": 0.262,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -752,36 +782,6 @@
     "éclipse solaire",
     "éclipse",
     "biarritz"
-   ]
-  },
-  {
-   "title": "Incendies en France: en plein été de tous les records, les pompiers sont en grève",
-   "url": "https://www.nicematin.com/societe/transports/une-alerte-publique-et-formelle-un-syndicat-menace-lignes-d-azur-d-une-troisieme-greve-10700836",
-   "n_members": 81,
-   "n_sources": 24,
-   "counts": {
-    "left": 6,
-    "centre": 10,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 9,
-    "opinion": 4
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.555,
-   "category": "société",
-   "terms_left": [
-    "santé",
-    "stewards",
-    "hôtesses"
-   ],
-   "terms_right": [
-    "moyens",
-    "intersyndicale",
-    "demander"
    ]
   },
   {
@@ -861,17 +861,17 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.569,
+   "divergence": 0.578,
    "category": "environnement",
    "terms_left": [
     "communes",
     "er",
-    "potable"
+    "nazis"
    ],
    "terms_right": [
     "face",
-    "restrictions",
-    "chaleur"
+    "chaleur",
+    "restrictions"
    ]
   },
   {
@@ -891,7 +891,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.804,
+   "divergence": 0.803,
    "category": "environnement",
    "terms_left": [
     "mois",
@@ -981,7 +981,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.301,
+   "divergence": 0.3,
    "category": "société",
    "terms_left": [
     "police judiciaire",
@@ -1011,7 +1011,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.491,
+   "divergence": 0.463,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -1019,9 +1019,9 @@
     "forer"
    ],
    "terms_right": [
+    "face",
     "donald trump",
-    "donald",
-    "face"
+    "donald"
    ]
   },
   {
@@ -1123,12 +1123,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.576,
+   "divergence": 0.585,
    "category": "environnement",
    "terms_left": [
     "jours",
-    "prochains jours",
-    "prochains"
+    "prochains",
+    "prochains jours"
    ],
    "terms_right": [
     "météo",
