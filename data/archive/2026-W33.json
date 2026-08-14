@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-14T10:50:44+00:00",
+ "generated_at": "2026-08-14T11:38:23+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -25,8 +25,8 @@
    "category": "international",
    "terms_left": [
     "droite",
-    "crise ceuta",
-    "maroc"
+    "maroc",
+    "crise ceuta"
    ],
    "terms_right": [
     "migratoire ceuta",
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.185,
+   "divergence": 0.186,
    "category": "international",
    "terms_left": [
     "nétanyahou",
@@ -210,8 +210,8 @@
    ],
    "terms_right": [
     "paix",
-    "plan paix",
-    "hamas gaza"
+    "hamas gaza",
+    "accord annoncé"
    ]
   },
   {
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.504,
+   "divergence": 0.51,
    "category": "environnement",
    "terms_left": [
     "danube",
@@ -239,7 +239,7 @@
     "mammouth"
    ],
    "terms_right": [
-    "parc",
+    "edf",
     "parc nucléaire",
     "méduses"
    ]
@@ -272,6 +272,36 @@
     "migratoire",
     "ministre",
     "immigration"
+   ]
+  },
+  {
+   "title": "EN DIRECT - Incendies : 600 hectares détruits dans les Landes, 500 personnes évacuées",
+   "url": "https://www.lefigaro.fr/sciences/canada-l-intense-saison-des-feux-rendue-deux-fois-plus-probable-par-le-changement-climatique-20260806",
+   "n_members": 102,
+   "n_sources": 28,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.482,
+   "category": "international",
+   "terms_left": [
+    "ouest",
+    "incendies",
+    "ouest canada"
+   ],
+   "terms_right": [
+    "hectares",
+    "personnes",
+    "incendie"
    ]
   },
   {
@@ -425,36 +455,6 @@
    ]
   },
   {
-   "title": "EN DIRECT - Incendies : 600 hectares détruits dans les Landes, 500 personnes évacuées",
-   "url": "https://www.lefigaro.fr/sciences/canada-l-intense-saison-des-feux-rendue-deux-fois-plus-probable-par-le-changement-climatique-20260806",
-   "n_members": 99,
-   "n_sources": 27,
-   "counts": {
-    "left": 5,
-    "centre": 14,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.518,
-   "category": "international",
-   "terms_left": [
-    "ouest",
-    "incendies",
-    "ouest canada"
-   ],
-   "terms_right": [
-    "hectares",
-    "incendie",
-    "forêt"
-   ]
-  },
-  {
    "title": "Addiction aux réseaux sociaux : Meta menacé de pénalités record dans un nouveau procès",
    "url": "https://www.20minutes.fr/high-tech/4237036-20260803-agents-openai-train-devenir-cyberpirates-autonomes-conquerir-monde-calme",
    "n_members": 74,
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.235,
+   "divergence": 0.215,
    "category": "international",
    "terms_left": [
     "capitale",
@@ -577,7 +577,7 @@
   {
    "title": "Incendies en France: en plein été de tous les records, les pompiers sont en grève",
    "url": "https://www.nicematin.com/societe/transports/une-alerte-publique-et-formelle-un-syndicat-menace-lignes-d-azur-d-une-troisieme-greve-10700836",
-   "n_members": 92,
+   "n_members": 93,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -591,12 +591,12 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.525,
+   "divergence": 0.523,
    "category": "société",
    "terms_left": [
     "hôtesses",
-    "hôtesses stewards",
-    "stewards"
+    "stewards",
+    "hôtesses stewards"
    ],
    "terms_right": [
     "moyens",
@@ -681,12 +681,12 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.716,
+   "divergence": 0.714,
    "category": "environnement",
    "terms_left": [
     "chaleur",
-    "nouvelle",
-    "europe"
+    "millions",
+    "nouvelle"
    ],
    "terms_right": [
     "français",
@@ -785,6 +785,36 @@
    ]
   },
   {
+   "title": "Canicule : la durée de la vague de chaleur en cours en France va dépasser celle de 2003",
+   "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
+   "n_members": 123,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 14,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 1
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.586,
+   "category": "environnement",
+   "terms_left": [
+    "jours",
+    "prochains",
+    "prochains jours"
+   ],
+   "terms_right": [
+    "météo",
+    "nouvelle",
+    "fin"
+   ]
+  },
+  {
    "title": "En direct : une partie de l'Europe se prépare à vivre une éclipse solaire totale",
    "url": "https://www.ouest-france.fr/societe/securite-routiere/departs-en-vacances/ce-week-end-sera-lun-des-plus-charges-de-lete-sur-les-routes-quand-partir-et-quels-axes-eviter-90013e16-9028-11f1-9add-57c399f24235",
    "n_members": 105,
@@ -817,7 +847,7 @@
   {
    "title": "Justice. Violences sexuelles sur mineurs : Laurent Nuñez répondra à Gérald Darmanin sur le traitement des enquêtes",
    "url": "https://www.nicematin.com/faits-divers/160-000-enfants-victimes-de-violences-sexuelles-chaque-annee-en-france-retour-sur-l-affaire-lyhanna-et-les-carences-en-matiere-de-protection-de-l-enfance-10689372",
-   "n_members": 78,
+   "n_members": 79,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -831,7 +861,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.305,
+   "divergence": 0.306,
    "category": "société",
    "terms_left": [
     "police judiciaire",
@@ -841,7 +871,7 @@
    "terms_right": [
     "point",
     "ministre",
-    "face"
+    "violences"
    ]
   },
   {
@@ -921,7 +951,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.588,
+   "divergence": 0.581,
    "category": "environnement",
    "terms_left": [
     "communes",
@@ -960,8 +990,8 @@
    ],
    "terms_right": [
     "cause",
-    "président",
-    "canicules"
+    "canicules",
+    "président"
    ]
   },
   {
@@ -1101,7 +1131,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.399,
+   "divergence": 0.398,
    "category": "international",
    "terms_left": [
     "extrême droite",
@@ -1110,38 +1140,8 @@
    ],
    "terms_right": [
     "royaume-uni",
-    "nigel",
-    "nigel farage"
-   ]
-  },
-  {
-   "title": "Canicule : la durée de la vague de chaleur en cours en France va dépasser celle de 2003",
-   "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
-   "n_members": 121,
-   "n_sources": 23,
-   "counts": {
-    "left": 3,
-    "centre": 14,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 1
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.598,
-   "category": "environnement",
-   "terms_left": [
-    "jours",
-    "prochains",
-    "prochains jours"
-   ],
-   "terms_right": [
-    "météo",
-    "canicule",
-    "nouvelle"
+    "nigel farage",
+    "nigel"
    ]
   },
   {
@@ -1175,33 +1175,33 @@
    ]
   },
   {
-   "title": "\"On est beaucoup de familles angoissées\" : deux semaines après l'incendie, les sinistrés du Porge peinent à se reloger",
-   "url": "https://www.leparisien.fr/environnement/la-construction-dune-megaferme-terrestre-delevage-de-saumons-autorisee-en-gironde-04-08-2026-5UD5JPLM6FAG7ANWHP36XWQPGE.php",
-   "n_members": 63,
+   "title": "Lettonie : un drone abattu dans l'espace aérien par des avions de l'Otan",
+   "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-une-eglise-en-bois-vieille-de-300-ans-unique-en-son-genre-detruit-par-une-frappe-de-drone-russe-04-08-2026-23MEK7KTUBDDTIEG4YDWHZXFX4.php",
+   "n_members": 65,
    "n_sources": 23,
    "counts": {
-    "left": 6,
-    "centre": 9,
-    "right": 8
+    "left": 5,
+    "centre": 13,
+    "right": 5
    },
    "style_counts": {
-    "factuel": 12,
-    "mixte": 9,
-    "opinion": 2
+    "factuel": 15,
+    "mixte": 5,
+    "opinion": 3
    },
-   "blindspot_score": 0.143,
+   "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.619,
-   "category": "environnement",
+   "divergence": 0.397,
+   "category": "international",
    "terms_left": [
-    "préfecture",
-    "incendies gironde",
-    "gironde"
+    "guerre",
+    "guerre ukraine",
+    "ukraine"
    ],
    "terms_right": [
-    "france",
-    "incendie",
-    "malgré"
+    "drone bulgarie",
+    "drones",
+    "drone"
    ]
   }
  ]
