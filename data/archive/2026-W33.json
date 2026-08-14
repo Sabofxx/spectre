@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-14T11:38:23+00:00",
+ "generated_at": "2026-08-14T12:41:58+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.28,
+   "divergence": 0.281,
    "category": "international",
    "terms_left": [
     "droite",
@@ -245,6 +245,36 @@
    ]
   },
   {
+   "title": "EN DIRECT - Incendies : 600 hectares détruits dans les Landes, 500 personnes évacuées",
+   "url": "https://www.lefigaro.fr/sciences/canada-l-intense-saison-des-feux-rendue-deux-fois-plus-probable-par-le-changement-climatique-20260806",
+   "n_members": 107,
+   "n_sources": 29,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.455,
+   "category": "environnement",
+   "terms_left": [
+    "ouest",
+    "ravagé",
+    "ouest canada"
+   ],
+   "terms_right": [
+    "forêt",
+    "hectares",
+    "personnes"
+   ]
+  },
+  {
    "title": "Mortalité infantile: un rapport d’abord dissimulé dévoile la gravité de la situation en France",
    "url": "https://information.tv5monde.com/international/video/crise-migratoire-ceuta-le-desenchantement-dune-jeunesse-en-quete-dexil-2832298",
    "n_members": 65,
@@ -272,36 +302,6 @@
     "migratoire",
     "ministre",
     "immigration"
-   ]
-  },
-  {
-   "title": "EN DIRECT - Incendies : 600 hectares détruits dans les Landes, 500 personnes évacuées",
-   "url": "https://www.lefigaro.fr/sciences/canada-l-intense-saison-des-feux-rendue-deux-fois-plus-probable-par-le-changement-climatique-20260806",
-   "n_members": 102,
-   "n_sources": 28,
-   "counts": {
-    "left": 6,
-    "centre": 14,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.482,
-   "category": "international",
-   "terms_left": [
-    "ouest",
-    "incendies",
-    "ouest canada"
-   ],
-   "terms_right": [
-    "hectares",
-    "personnes",
-    "incendie"
    ]
   },
   {
@@ -337,7 +337,7 @@
   {
    "title": "Ukraine : Zelensky accuse Moscou d’utiliser des missiles nord-coréens",
    "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-comment-un-drone-fpv-a-500-euros-a-detruit-un-helicoptere-russe-estime-a-14-millions-deuros-16-07-2026-ON2OKICKKJE3RNKUEIQXZUGVOQ.php",
-   "n_members": 458,
+   "n_members": 459,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -381,17 +381,17 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.283,
+   "divergence": 0.286,
    "category": "international",
    "terms_left": [
     "disparus",
-    "cali pereira",
+    "service",
     "attaques"
    ],
    "terms_right": [
-    "décombres",
     "puissant séisme",
-    "blessés"
+    "décombres",
+    "frappé"
    ]
   },
   {
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.538,
+   "divergence": 0.537,
    "category": "environnement",
    "terms_left": [
     "incendie drôme",
@@ -471,7 +471,7 @@
    },
    "blindspot_score": -0.167,
    "blindspot_for": null,
-   "divergence": 0.586,
+   "divergence": 0.585,
    "category": "sciences-tech",
    "terms_left": [
     "dollars",
@@ -561,17 +561,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.215,
+   "divergence": 0.197,
    "category": "international",
    "terms_left": [
-    "capitale",
-    "ancien",
-    "liban vote"
+    "justice",
+    "loi",
+    "procédé exécutions"
    ],
    "terms_right": [
     "moyen-orient",
     "historique",
-    "décision"
+    "mort moyen-orient"
    ]
   },
   {
@@ -787,7 +787,7 @@
   {
    "title": "Canicule : la durée de la vague de chaleur en cours en France va dépasser celle de 2003",
    "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
-   "n_members": 123,
+   "n_members": 125,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -801,17 +801,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.586,
+   "divergence": 0.58,
    "category": "environnement",
    "terms_left": [
     "jours",
-    "prochains",
-    "prochains jours"
+    "prochains jours",
+    "prochains"
    ],
    "terms_right": [
     "météo",
-    "nouvelle",
-    "fin"
+    "chaleurs",
+    "semaine"
    ]
   },
   {
@@ -961,7 +961,7 @@
    "terms_right": [
     "face",
     "restrictions",
-    "crise"
+    "chaleur"
    ]
   },
   {
@@ -1041,17 +1041,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.516,
+   "divergence": 0.519,
    "category": "sport",
    "terms_left": [
     "pays",
-    "etats-unis",
-    "américaine"
+    "états-unis",
+    "autisme"
    ],
    "terms_right": [
-    "trump",
-    "vaccins",
-    "décret"
+    "face",
+    "guerre",
+    "iran"
    ]
   },
   {
@@ -1087,7 +1087,7 @@
   {
    "title": "Retraites: le gouvernement envisage de désindexer les pensions de l'inflation",
    "url": "https://www.ouest-france.fr/economie/retraites/mode-de-calcul-trimestres-pour-enfant-que-vont-changer-ces-nouveaux-decrets-sur-la-retraite-des-meres-de-famille-e5f79f04-90d2-11f1-9add-57c399f24235",
-   "n_members": 57,
+   "n_members": 58,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -1101,7 +1101,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.701,
+   "divergence": 0.654,
    "category": "économie",
    "terms_left": [
     "déficit",
@@ -1109,9 +1109,9 @@
     "projet loi"
    ],
    "terms_right": [
-    "pensions",
     "retraites",
-    "gel"
+    "gel",
+    "pensions"
    ]
   },
   {
@@ -1177,7 +1177,7 @@
   {
    "title": "Lettonie : un drone abattu dans l'espace aérien par des avions de l'Otan",
    "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-une-eglise-en-bois-vieille-de-300-ans-unique-en-son-genre-detruit-par-une-frappe-de-drone-russe-04-08-2026-23MEK7KTUBDDTIEG4YDWHZXFX4.php",
-   "n_members": 65,
+   "n_members": 66,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -1191,7 +1191,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.397,
+   "divergence": 0.407,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -1199,9 +1199,9 @@
     "ukraine"
    ],
    "terms_right": [
+    "drone",
     "drone bulgarie",
-    "drones",
-    "drone"
+    "drones"
    ]
   }
  ]
