@@ -1,13 +1,13 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-14T12:41:58+00:00",
+ "generated_at": "2026-08-14T14:10:08+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "Militaires, policiers anti-émeutes, navires... Les autorités espagnoles se préparent à un nouvel afflux migratoire le 15 août à Ceuta",
+   "title": "Crise à Ceuta : les appels à la traversée inquiètent les autorités",
    "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
-   "n_members": 506,
+   "n_members": 508,
    "n_sources": 37,
    "counts": {
     "left": 7,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.344,
+   "divergence": 0.346,
    "category": "sciences-tech",
    "terms_left": [
     "retrouvez",
@@ -59,9 +59,9 @@
     "france métropolitaine"
    ],
    "terms_right": [
+    "observer",
     "éclipses",
-    "visible",
-    "observer"
+    "visible"
    ]
   },
   {
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.508,
+   "divergence": 0.492,
    "category": "sciences-tech",
    "terms_left": [
     "easyjet",
@@ -247,7 +247,7 @@
   {
    "title": "EN DIRECT - Incendies : 600 hectares détruits dans les Landes, 500 personnes évacuées",
    "url": "https://www.lefigaro.fr/sciences/canada-l-intense-saison-des-feux-rendue-deux-fois-plus-probable-par-le-changement-climatique-20260806",
-   "n_members": 107,
+   "n_members": 108,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -261,17 +261,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.455,
+   "divergence": 0.442,
    "category": "environnement",
    "terms_left": [
-    "ouest",
     "ravagé",
-    "ouest canada"
+    "suite",
+    "proie"
    ],
    "terms_right": [
     "forêt",
-    "hectares",
-    "personnes"
+    "feu forêt",
+    "parcouru"
    ]
   },
   {
@@ -321,17 +321,17 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.825,
+   "divergence": 0.822,
    "category": "environnement",
    "terms_left": [
-    "climatique",
-    "canicule",
-    "qu"
+    "canicules",
+    "qu",
+    "pompiers"
    ],
    "terms_right": [
     "incendie",
     "france",
-    "gironde"
+    "hectares"
    ]
   },
   {
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.26,
+   "divergence": 0.259,
    "category": "international",
    "terms_left": [
     "direct",
@@ -381,12 +381,12 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.286,
+   "divergence": 0.274,
    "category": "international",
    "terms_left": [
     "disparus",
-    "service",
-    "attaques"
+    "terre",
+    "tremblement"
    ],
    "terms_right": [
     "puissant séisme",
@@ -485,6 +485,36 @@
    ]
   },
   {
+   "title": "Incendies en France: en plein été de tous les records, les pompiers sont en grève",
+   "url": "https://www.nicematin.com/societe/transports/une-alerte-publique-et-formelle-un-syndicat-menace-lignes-d-azur-d-une-troisieme-greve-10700836",
+   "n_members": 95,
+   "n_sources": 26,
+   "counts": {
+    "left": 7,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.509,
+   "category": "société",
+   "terms_left": [
+    "hôtesses",
+    "stewards",
+    "hôtesses stewards"
+   ],
+   "terms_right": [
+    "moyens",
+    "davantage",
+    "demander"
+   ]
+  },
+  {
    "title": "257 millions d'inactifs dans le monde: le chômage chez les jeunes a augmenté en 2025 (en France, il est largement au-dessus de la moyenne)",
    "url": "https://www.bfmtv.com/economie/emploi/c-est-son-plus-haut-niveau-depuis-l-automne-2020-le-taux-de-chomage-augmente-de-0-2-point-a-8-3-au-deuxieme-trimestre_AD-202608070086.html",
    "n_members": 63,
@@ -561,47 +591,47 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.197,
+   "divergence": 0.2,
    "category": "international",
    "terms_left": [
-    "justice",
     "loi",
-    "procédé exécutions"
+    "liban vote",
+    "vote abolition"
    ],
    "terms_right": [
     "moyen-orient",
-    "historique",
+    "pays",
     "mort moyen-orient"
    ]
   },
   {
-   "title": "Incendies en France: en plein été de tous les records, les pompiers sont en grève",
-   "url": "https://www.nicematin.com/societe/transports/une-alerte-publique-et-formelle-un-syndicat-menace-lignes-d-azur-d-une-troisieme-greve-10700836",
-   "n_members": 93,
+   "title": "Canicule : la durée de la vague de chaleur en cours en France va dépasser celle de 2003",
+   "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
+   "n_members": 126,
    "n_sources": 25,
    "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 8
+    "left": 5,
+    "centre": 14,
+    "right": 6
    },
    "style_counts": {
-    "factuel": 12,
-    "mixte": 9,
-    "opinion": 4
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 2
    },
-   "blindspot_score": 0.143,
+   "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.523,
-   "category": "société",
+   "divergence": 0.563,
+   "category": "environnement",
    "terms_left": [
-    "hôtesses",
-    "stewards",
-    "hôtesses stewards"
+    "jours",
+    "prochains jours",
+    "prochains"
    ],
    "terms_right": [
-    "moyens",
-    "demander",
-    "davantage"
+    "météo",
+    "chaleurs",
+    "fortes chaleurs"
    ]
   },
   {
@@ -711,7 +741,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.486,
+   "divergence": 0.485,
    "category": "international",
    "terms_left": [
     "mesures",
@@ -725,9 +755,39 @@
    ]
   },
   {
+   "title": "Retraites: le gouvernement envisage de désindexer les pensions de l'inflation",
+   "url": "https://www.ouest-france.fr/economie/retraites/mode-de-calcul-trimestres-pour-enfant-que-vont-changer-ces-nouveaux-decrets-sur-la-retraite-des-meres-de-famille-e5f79f04-90d2-11f1-9add-57c399f24235",
+   "n_members": 59,
+   "n_sources": 25,
+   "counts": {
+    "left": 6,
+    "centre": 10,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.626,
+   "category": "économie",
+   "terms_left": [
+    "aisés",
+    "déficit",
+    "services"
+   ],
+   "terms_right": [
+    "gel",
+    "retraites",
+    "vie"
+   ]
+  },
+  {
    "title": "DIRECT. Canicule : 80 départements en vigilance orange, jusqu'à 40 °C attendus ce jeudi dans plusieurs régions",
    "url": "https://www.ladepeche.fr/2026/08/13/direct-canicule-80-departements-en-vigilance-orange-jusqua-40-c-attendus-ce-jeudi-dans-plusieurs-regions-13507182.php",
-   "n_members": 494,
+   "n_members": 488,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -785,36 +845,6 @@
    ]
   },
   {
-   "title": "Canicule : la durée de la vague de chaleur en cours en France va dépasser celle de 2003",
-   "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
-   "n_members": 125,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 14,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 1
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.58,
-   "category": "environnement",
-   "terms_left": [
-    "jours",
-    "prochains jours",
-    "prochains"
-   ],
-   "terms_right": [
-    "météo",
-    "chaleurs",
-    "semaine"
-   ]
-  },
-  {
    "title": "En direct : une partie de l'Europe se prépare à vivre une éclipse solaire totale",
    "url": "https://www.ouest-france.fr/societe/securite-routiere/departs-en-vacances/ce-week-end-sera-lun-des-plus-charges-de-lete-sur-les-routes-quand-partir-et-quels-axes-eviter-90013e16-9028-11f1-9add-57c399f24235",
    "n_members": 105,
@@ -861,7 +891,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.306,
+   "divergence": 0.304,
    "category": "société",
    "terms_left": [
     "police judiciaire",
@@ -951,7 +981,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.581,
+   "divergence": 0.586,
    "category": "environnement",
    "terms_left": [
     "communes",
@@ -1011,7 +1041,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.798,
+   "divergence": 0.797,
    "category": "société",
    "terms_left": [
     "rdc",
@@ -1085,39 +1115,9 @@
    ]
   },
   {
-   "title": "Retraites: le gouvernement envisage de désindexer les pensions de l'inflation",
-   "url": "https://www.ouest-france.fr/economie/retraites/mode-de-calcul-trimestres-pour-enfant-que-vont-changer-ces-nouveaux-decrets-sur-la-retraite-des-meres-de-famille-e5f79f04-90d2-11f1-9add-57c399f24235",
-   "n_members": 58,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 10,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 9,
-    "opinion": 4
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.654,
-   "category": "économie",
-   "terms_left": [
-    "déficit",
-    "services",
-    "projet loi"
-   ],
-   "terms_right": [
-    "retraites",
-    "gel",
-    "pensions"
-   ]
-  },
-  {
    "title": "Élection législative partielle au Royaume-Uni : Nigel Farage largement réélu député",
    "url": "https://www.tf1info.fr/international/videos/video-royaume-uni-un-homme-avec-une-poubelle-sur-la-tete-candidat-a-une-election-decisive-69078-2457932.html",
-   "n_members": 44,
+   "n_members": 45,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -1131,7 +1131,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.398,
+   "divergence": 0.399,
    "category": "international",
    "terms_left": [
     "extrême droite",
