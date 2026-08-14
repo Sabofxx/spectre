@@ -1,13 +1,13 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-14T03:06:33+00:00",
+ "generated_at": "2026-08-14T05:14:56+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Militaires, policiers anti-émeutes, navires... Les autorités espagnoles se préparent à un nouvel afflux migratoire le 15 août à Ceuta",
    "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
-   "n_members": 504,
+   "n_members": 505,
    "n_sources": 37,
    "counts": {
     "left": 7,
@@ -31,7 +31,7 @@
    "terms_right": [
     "migratoire ceuta",
     "migratoire",
-    "schengen"
+    "enclave"
    ]
   },
   {
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.347,
+   "divergence": 0.344,
    "category": "sciences-tech",
    "terms_left": [
     "retrouvez",
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.21,
+   "divergence": 0.213,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.51,
+   "divergence": 0.509,
    "category": "sciences-tech",
    "terms_left": [
     "easyjet",
@@ -275,9 +275,39 @@
    ]
   },
   {
+   "title": "Après les incendies de l’été en France, un afflux de candidats chez les pompiers volontaires",
+   "url": "https://www.leparisien.fr/politique/des-cigarettes-bientot-plus-cheres-pour-financer-la-lutte-contre-les-incendies-une-proposition-de-loi-veut-taxer-ceux-qui-fabriquent-les-megots-06-08-2026-GKMOY7GD3RBGTDAO65PU7FSAS4.php",
+   "n_members": 65,
+   "n_sources": 28,
+   "counts": {
+    "left": 5,
+    "centre": 14,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.82,
+   "category": "environnement",
+   "terms_left": [
+    "climatique",
+    "canicule",
+    "qu"
+   ],
+   "terms_right": [
+    "incendie",
+    "france",
+    "gironde"
+   ]
+  },
+  {
    "title": "Ukraine : Zelensky accuse Moscou d’utiliser des missiles nord-coréens",
    "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-comment-un-drone-fpv-a-500-euros-a-detruit-un-helicoptere-russe-estime-a-14-millions-deuros-16-07-2026-ON2OKICKKJE3RNKUEIQXZUGVOQ.php",
-   "n_members": 450,
+   "n_members": 451,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -300,8 +330,8 @@
    ],
    "terms_right": [
     "russie",
-    "frappe",
-    "explosions"
+    "ukraine morts",
+    "pays"
    ]
   },
   {
@@ -321,23 +351,23 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.268,
+   "divergence": 0.27,
    "category": "international",
    "terms_left": [
     "disparus",
-    "lendemain",
-    "cali pereira"
+    "cali pereira",
+    "habitants"
    ],
    "terms_right": [
     "décombres",
     "bâtiments",
-    "puissant séisme"
+    "heures"
    ]
   },
   {
-   "title": "36 °C à Carros et Lantosque, 33 à Nice... La vigilance canicule reconduite dans les Alpes-Maritimes, ce mardi",
+   "title": "Les Alpes-Maritimes et le Var toujours en alerte orange canicule ce vendredi, des orages attendus dans l’après-midi",
    "url": "https://www.valeursactuelles.com/clubvaleurs/societe/quand-la-canicule-met-lecologie-politique-a-lepreuve-du-reel",
-   "n_members": 146,
+   "n_members": 147,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -351,7 +381,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.717,
+   "divergence": 0.718,
    "category": "environnement",
    "terms_left": [
     "année",
@@ -381,7 +411,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.537,
+   "divergence": 0.538,
    "category": "environnement",
    "terms_left": [
     "incendie drôme",
@@ -425,36 +455,6 @@
    ]
   },
   {
-   "title": "Des incendies toujours plus coûteux pour les collectivités",
-   "url": "https://www.leparisien.fr/politique/des-cigarettes-bientot-plus-cheres-pour-financer-la-lutte-contre-les-incendies-une-proposition-de-loi-veut-taxer-ceux-qui-fabriquent-les-megots-06-08-2026-GKMOY7GD3RBGTDAO65PU7FSAS4.php",
-   "n_members": 64,
-   "n_sources": 27,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.818,
-   "category": "environnement",
-   "terms_left": [
-    "climatique",
-    "lire",
-    "canicule"
-   ],
-   "terms_right": [
-    "incendie",
-    "france",
-    "gironde"
-   ]
-  },
-  {
    "title": "257 millions d'inactifs dans le monde: le chômage chez les jeunes a augmenté en 2025 (en France, il est largement au-dessus de la moyenne)",
    "url": "https://www.bfmtv.com/economie/emploi/c-est-son-plus-haut-niveau-depuis-l-automne-2020-le-taux-de-chomage-augmente-de-0-2-point-a-8-3-au-deuxieme-trimestre_AD-202608070086.html",
    "n_members": 63,
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.486,
+   "divergence": 0.489,
    "category": "économie",
    "terms_left": [
     "macron",
@@ -479,8 +479,8 @@
     "chômage sébastien"
    ],
    "terms_right": [
-    "emploi",
     "millions",
+    "emploi",
     "jeunes"
    ]
   },
@@ -566,7 +566,7 @@
    "terms_left": [
     "santé",
     "hôtesses",
-    "stewards"
+    "hôtesses stewards"
    ],
    "terms_right": [
     "moyens",
@@ -681,7 +681,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.495,
+   "divergence": 0.485,
    "category": "international",
    "terms_left": [
     "mesures",
@@ -690,14 +690,14 @@
    ],
    "terms_right": [
     "tour",
-    "ceuta",
-    "contrôles frontières"
+    "migratoire",
+    "espagne impose"
    ]
   },
   {
    "title": "DIRECT. Canicule : 80 départements en vigilance orange, jusqu'à 40 °C attendus ce jeudi dans plusieurs régions",
    "url": "https://www.ladepeche.fr/2026/08/13/direct-canicule-80-departements-en-vigilance-orange-jusqua-40-c-attendus-ce-jeudi-dans-plusieurs-regions-13507182.php",
-   "n_members": 509,
+   "n_members": 513,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -711,7 +711,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.263,
+   "divergence": 0.257,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -741,7 +741,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.469,
+   "divergence": 0.468,
    "category": "environnement",
    "terms_left": [
     "direct incendies",
@@ -771,7 +771,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.567,
+   "divergence": 0.563,
    "category": "sciences-tech",
    "terms_left": [
     "travers",
@@ -840,8 +840,8 @@
    ],
    "terms_right": [
     "ministre",
-    "face",
-    "point"
+    "point",
+    "face"
    ]
   },
   {
@@ -951,17 +951,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.572,
+   "divergence": 0.564,
    "category": "sport",
    "terms_left": [
     "tête",
     "etats-unis",
-    "général"
+    "offensive"
    ],
    "terms_right": [
     "trump",
     "iran",
-    "face"
+    "qu"
    ]
   },
   {
@@ -981,17 +981,47 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.792,
+   "divergence": 0.798,
    "category": "société",
    "terms_left": [
-    "épidémie",
+    "rdc",
     "ebola",
-    "rdc"
+    "france"
    ],
    "terms_right": [
-    "incendies",
     "ia",
+    "incendies",
     "personnes"
+   ]
+  },
+  {
+   "title": "Les pays en guerre ne pourront plus accueillir le concours de l’Eurovision à partir de l’année prochaine",
+   "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-tremblement-de-terre-en-colombie-amnistie-du-pkk-en-turquie-moins-de-vaccins-aux-etats-unis-les-informations-de-la-nuit_257832",
+   "n_members": 59,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.658,
+   "category": "international",
+   "terms_left": [
+    "lieu",
+    "russe",
+    "ans"
+   ],
+   "terms_right": [
+    "organisateurs",
+    "qu",
+    "états-unis"
    ]
   },
   {
@@ -1055,39 +1085,9 @@
    ]
   },
   {
-   "title": "Les pays en guerre ne pourront plus accueillir le concours de l’Eurovision à partir de l’année prochaine",
-   "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-tremblement-de-terre-en-colombie-amnistie-du-pkk-en-turquie-moins-de-vaccins-aux-etats-unis-les-informations-de-la-nuit_257832",
-   "n_members": 57,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.653,
-   "category": "international",
-   "terms_left": [
-    "russe",
-    "lieu",
-    "russie"
-   ],
-   "terms_right": [
-    "organisateurs",
-    "qu",
-    "concours"
-   ]
-  },
-  {
-   "title": "Drone en Bulgarie : un incident \"non délibéré\"",
+   "title": "« Une activité hybride ne peut être exclue » : en Allemagne, un nouvel incident de drone perturbe le trafic aérien à Hanovre",
    "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-une-eglise-en-bois-vieille-de-300-ans-unique-en-son-genre-detruit-par-une-frappe-de-drone-russe-04-08-2026-23MEK7KTUBDDTIEG4YDWHZXFX4.php",
-   "n_members": 53,
+   "n_members": 54,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -1139,7 +1139,7 @@
   {
    "title": "Îles Kouriles : pourquoi l'archipel est au cœur de tensions entre le Japon et la Russie depuis 1945 ?",
    "url": "https://www.franceinfo.fr/monde/russie/vladimir-poutine-menace-de-saisir-des-navires-occidentaux-en-represailles-a-l-arraisonnement-de-bateaux-soupconnes-d-appartenir-a-la-flotte-fantome-russe_8144297.html",
-   "n_members": 38,
+   "n_members": 40,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -1153,23 +1153,23 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.269,
+   "divergence": 0.275,
    "category": "international",
    "terms_left": [
     "visite",
     "poutine îles",
-    "vigoureusement visite"
+    "sud"
    ],
    "terms_right": [
     "fois",
     "guerre",
-    "qu"
+    "fois îles"
    ]
   },
   {
    "title": "Canicule : la durée de la vague de chaleur en cours en France va dépasser celle de 2003",
    "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
-   "n_members": 114,
+   "n_members": 116,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -1183,7 +1183,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.587,
+   "divergence": 0.595,
    "category": "environnement",
    "terms_left": [
     "jours",
@@ -1192,8 +1192,8 @@
    ],
    "terms_right": [
     "météo",
-    "canicule",
-    "nouvelle"
+    "nouvelle",
+    "semaine"
    ]
   }
  ]
