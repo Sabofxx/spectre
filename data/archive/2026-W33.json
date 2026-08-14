@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-14T18:14:38+00:00",
+ "generated_at": "2026-08-14T19:26:56+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.212,
+   "divergence": 0.213,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -97,7 +97,7 @@
   {
    "title": "L’UEFA fait pression pour des réformes à la FIFA et cherche à diminuer le pouvoir de Gianni Infantino",
    "url": "https://www.ladepeche.fr/2026/07/28/il-franchit-une-limite-gianni-infantino-serait-pret-a-ceder-des-parts-de-la-fifa-pour-plusieurs-milliards-deuros-a-des-proches-de-donald-trump-13487502.php",
-   "n_members": 291,
+   "n_members": 292,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.162,
+   "divergence": 0.161,
    "category": "sport",
    "terms_left": [
     "plan",
@@ -157,22 +157,22 @@
   {
    "title": "Réseaux sociaux : l'interdiction aux moins de 15 ans censurée par le Conseil constitutionnel",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-18-20-le-telephone-sonne/le-telephone-sonne-du-mercredi-12-aout-2026-3146782",
-   "n_members": 56,
-   "n_sources": 31,
+   "n_members": 59,
+   "n_sources": 32,
    "counts": {
     "left": 7,
-    "centre": 13,
+    "centre": 14,
     "right": 11
    },
    "style_counts": {
-    "factuel": 13,
+    "factuel": 14,
     "mixte": 13,
     "opinion": 5
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.246,
-   "category": "société",
+   "divergence": 0.244,
+   "category": "politique",
    "terms_left": [
     "expression communication",
     "communication",
@@ -181,7 +181,7 @@
    "terms_right": [
     "censuré",
     "censuré interdiction",
-    "censure"
+    "disproportionnée"
    ]
   },
   {
@@ -277,7 +277,7 @@
   {
    "title": "EN DIRECT - Incendies : 600 hectares détruits dans les Landes, 500 personnes évacuées",
    "url": "https://www.lefigaro.fr/sciences/canada-l-intense-saison-des-feux-rendue-deux-fois-plus-probable-par-le-changement-climatique-20260806",
-   "n_members": 120,
+   "n_members": 122,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -291,12 +291,12 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.45,
+   "divergence": 0.448,
    "category": "environnement",
    "terms_left": [
     "ouest",
     "suite",
-    "proie"
+    "canada"
    ],
    "terms_right": [
     "forêt",
@@ -416,7 +416,7 @@
    "terms_left": [
     "disparus",
     "attaques",
-    "ressenti"
+    "provoqué"
    ],
    "terms_right": [
     "puissant séisme",
@@ -605,6 +605,36 @@
    ]
   },
   {
+   "title": "Fisc piraté : 678.000 usagers concernés selon un nouveau bilan",
+   "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
+   "n_members": 62,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.402,
+   "category": "sciences-tech",
+   "terms_left": [
+    "victime",
+    "victime piratage",
+    "nouveau"
+   ],
+   "terms_right": [
+    "données",
+    "concernés",
+    "particuliers"
+   ]
+  },
+  {
    "title": "Le Liban vote l’abolition de la peine de mort, une première au Moyen-Orient",
    "url": "https://www.lemonde.fr/international/article/2026/08/11/bachar-al-assad-condamne-a-la-peine-de-mort-par-contumace-en-syrie-pour-crimes-de-guerre-et-crimes-contre-l-humanite_6743778_3210.html",
    "n_members": 59,
@@ -635,39 +665,9 @@
    ]
   },
   {
-   "title": "Cyberattaque : Bercy annonce que le système informatique du fisc a été piraté fin juin",
-   "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 57,
-   "n_sources": 26,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 10,
-    "opinion": 2
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.408,
-   "category": "sciences-tech",
-   "terms_left": [
-    "victime",
-    "nouveau",
-    "victime piratage"
-   ],
-   "terms_right": [
-    "données",
-    "concernés",
-    "particuliers"
-   ]
-  },
-  {
    "title": "Canicule : la durée de la vague de chaleur en cours en France va dépasser celle de 2003",
    "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
-   "n_members": 130,
+   "n_members": 131,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -681,7 +681,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.555,
+   "divergence": 0.556,
    "category": "environnement",
    "terms_left": [
     "jours",
@@ -815,9 +815,9 @@
    ]
   },
   {
-   "title": "Retraites: le gouvernement envisage de désindexer les pensions de l'inflation",
+   "title": "Le gouvernement vise les retraites « aisées » pour tenir son budget. Qui osera le soutenir ?",
    "url": "https://www.ouest-france.fr/economie/retraites/mode-de-calcul-trimestres-pour-enfant-que-vont-changer-ces-nouveaux-decrets-sur-la-retraite-des-meres-de-famille-e5f79f04-90d2-11f1-9add-57c399f24235",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -831,7 +831,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.613,
+   "divergence": 0.591,
    "category": "économie",
    "terms_left": [
     "sébastien",
@@ -839,9 +839,9 @@
     "déficit"
    ],
    "terms_right": [
-    "gel",
     "pensions",
-    "retraites"
+    "gel",
+    "euros"
    ]
   },
   {
@@ -981,7 +981,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.304,
+   "divergence": 0.303,
    "category": "société",
    "terms_left": [
     "police judiciaire",
@@ -1071,7 +1071,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.805,
+   "divergence": 0.806,
    "category": "environnement",
    "terms_left": [
     "mois",
@@ -1085,9 +1085,9 @@
    ]
   },
   {
-   "title": "L'épidémie d'Ebola a fait plus de 2 000 morts en RD Congo depuis mai",
+   "title": "Ebola en RDC: l'épidémie touche une sixième province, un essai clinique sur une centaine de patients",
    "url": "https://www.leparisien.fr/sciences/odeur-sucree-groupe-sanguin-ou-rien-de-cela-pourquoi-les-moustiques-raffolent-de-votre-peau-et-pas-de-celle-du-voisin-03-08-2026-7XIS34AZTNEVJPXNPS2WH45HDQ.php",
-   "n_members": 62,
+   "n_members": 63,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -1131,7 +1131,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.521,
+   "divergence": 0.52,
    "category": "sport",
    "terms_left": [
     "américaine",
@@ -1161,7 +1161,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.64,
+   "divergence": 0.641,
    "category": "international",
    "terms_left": [
     "russe",
@@ -1177,7 +1177,7 @@
   {
    "title": "DIRECT. Canicule : 80 départements en vigilance orange, jusqu'à 40 °C attendus ce jeudi dans plusieurs régions",
    "url": "https://www.ladepeche.fr/2026/08/13/direct-canicule-80-departements-en-vigilance-orange-jusqua-40-c-attendus-ce-jeudi-dans-plusieurs-regions-13507182.php",
-   "n_members": 489,
+   "n_members": 483,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -1191,12 +1191,12 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.257,
+   "divergence": 0.26,
    "category": "environnement",
    "terms_left": [
     "direct",
-    "direct incendies",
-    "feu"
+    "feu",
+    "direct incendies"
    ],
    "terms_right": [
     "placés vigilance",
