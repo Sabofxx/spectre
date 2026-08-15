@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-15T05:18:18+00:00",
+ "generated_at": "2026-08-15T05:50:05+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.344,
+   "divergence": 0.345,
    "category": "sciences-tech",
    "terms_left": [
     "retrouvez",
@@ -351,17 +351,17 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.82,
+   "divergence": 0.821,
    "category": "environnement",
    "terms_left": [
+    "feu",
     "canicules",
-    "pompiers",
-    "face"
+    "pompiers"
    ],
    "terms_right": [
     "incendie",
     "hectares",
-    "france"
+    "fois"
    ]
   },
   {
@@ -381,12 +381,12 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.26,
+   "divergence": 0.259,
    "category": "international",
    "terms_left": [
-    "direct",
     "régions",
-    "crimée"
+    "direct",
+    "ukraine volodymyr"
    ],
    "terms_right": [
     "russie",
@@ -515,6 +515,36 @@
    ]
   },
   {
+   "title": "Fisc piraté : 678.000 usagers concernés selon un nouveau bilan",
+   "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
+   "n_members": 64,
+   "n_sources": 27,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.399,
+   "category": "sciences-tech",
+   "terms_left": [
+    "victime",
+    "victime piratage",
+    "nouveau"
+   ],
+   "terms_right": [
+    "données",
+    "concernés",
+    "particuliers"
+   ]
+  },
+  {
    "title": "Incendies en France: en plein été de tous les records, les pompiers sont en grève",
    "url": "https://www.nicematin.com/societe/transports/une-alerte-publique-et-formelle-un-syndicat-menace-lignes-d-azur-d-une-troisieme-greve-10700836",
    "n_members": 95,
@@ -531,12 +561,12 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.509,
+   "divergence": 0.511,
    "category": "société",
    "terms_left": [
     "hôtesses",
-    "stewards",
-    "hôtesses stewards"
+    "hôtesses stewards",
+    "stewards"
    ],
    "terms_right": [
     "moyens",
@@ -572,36 +602,6 @@
     "emploi",
     "atteint",
     "monde"
-   ]
-  },
-  {
-   "title": "Fisc piraté : 678.000 usagers concernés selon un nouveau bilan",
-   "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 63,
-   "n_sources": 26,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 10,
-    "opinion": 2
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.399,
-   "category": "sciences-tech",
-   "terms_left": [
-    "victime",
-    "victime piratage",
-    "nouveau"
-   ],
-   "terms_right": [
-    "données",
-    "concernés",
-    "particuliers"
    ]
   },
   {
@@ -681,7 +681,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.559,
+   "divergence": 0.561,
    "category": "environnement",
    "terms_left": [
     "jours",
@@ -831,12 +831,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.597,
+   "divergence": 0.603,
    "category": "économie",
    "terms_left": [
-    "sébastien",
-    "sébastien lecornu",
-    "déficit"
+    "déficit",
+    "projet loi",
+    "contribution retraités"
    ],
    "terms_right": [
     "pensions",
@@ -901,7 +901,7 @@
    "terms_right": [
     "royaume-uni",
     "comte tête-de-poubelle",
-    "nigel"
+    "nigel farage"
    ]
   },
   {
@@ -951,7 +951,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.564,
+   "divergence": 0.569,
    "category": "sciences-tech",
    "terms_left": [
     "travers",
@@ -1177,7 +1177,7 @@
   {
    "title": "DIRECT. Canicule : 80 départements en vigilance orange, jusqu'à 40 °C attendus ce jeudi dans plusieurs régions",
    "url": "https://www.ladepeche.fr/2026/08/13/direct-canicule-80-departements-en-vigilance-orange-jusqua-40-c-attendus-ce-jeudi-dans-plusieurs-regions-13507182.php",
-   "n_members": 481,
+   "n_members": 478,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -1191,7 +1191,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.265,
+   "divergence": 0.26,
    "category": "environnement",
    "terms_left": [
     "feu",
