@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-15T13:07:03+00:00",
+ "generated_at": "2026-08-15T13:51:00+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.347,
+   "divergence": 0.346,
    "category": "sciences-tech",
    "terms_left": [
     "europe",
@@ -60,8 +60,8 @@
    ],
    "terms_right": [
     "éclipses",
-    "observer",
-    "phénomène"
+    "phénomène",
+    "observer"
    ]
   },
   {
@@ -201,17 +201,17 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.473,
+   "divergence": 0.477,
    "category": "sciences-tech",
    "terms_left": [
     "easyjet",
-    "travail",
-    "continue"
+    "pénurie lunettes",
+    "travail"
    ],
    "terms_right": [
     "éclipse",
     "lunettes",
-    "français"
+    "protection"
    ]
   },
   {
@@ -277,7 +277,7 @@
   {
    "title": "EN DIRECT - Incendies : 600 hectares détruits dans les Landes, 500 personnes évacuées",
    "url": "https://www.lefigaro.fr/sciences/canada-l-intense-saison-des-feux-rendue-deux-fois-plus-probable-par-le-changement-climatique-20260806",
-   "n_members": 145,
+   "n_members": 148,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -296,7 +296,7 @@
    "terms_left": [
     "nouvel incendie",
     "nouvel",
-    "déclaré"
+    "évacuées face"
    ],
    "terms_right": [
     "forêt landes",
@@ -335,6 +335,36 @@
    ]
   },
   {
+   "title": "Fisc piraté : 678.000 usagers concernés selon un nouveau bilan",
+   "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
+   "n_members": 69,
+   "n_sources": 28,
+   "counts": {
+    "left": 5,
+    "centre": 14,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.398,
+   "category": "sciences-tech",
+   "terms_left": [
+    "victime",
+    "victime piratage",
+    "nouveau"
+   ],
+   "terms_right": [
+    "données",
+    "concernés",
+    "particuliers"
+   ]
+  },
+  {
    "title": "Après les incendies de l’été en France, un afflux de candidats chez les pompiers volontaires",
    "url": "https://www.leparisien.fr/politique/des-cigarettes-bientot-plus-cheres-pour-financer-la-lutte-contre-les-incendies-une-proposition-de-loi-veut-taxer-ceux-qui-fabriquent-les-megots-06-08-2026-GKMOY7GD3RBGTDAO65PU7FSAS4.php",
    "n_members": 66,
@@ -365,36 +395,6 @@
    ]
   },
   {
-   "title": "Fisc piraté : 678.000 usagers concernés selon un nouveau bilan",
-   "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 66,
-   "n_sources": 28,
-   "counts": {
-    "left": 5,
-    "centre": 14,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 10,
-    "opinion": 3
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.396,
-   "category": "sciences-tech",
-   "terms_left": [
-    "victime",
-    "victime piratage",
-    "piratage fisc"
-   ],
-   "terms_right": [
-    "données",
-    "concernés",
-    "particuliers"
-   ]
-  },
-  {
    "title": "Guerre en Ukraine : des échanges de frappes font quatre morts en Russie et en Ukraine",
    "url": "http://fr.euronews.com/2026/07/16/de-fortes-pluies-et-des-vents-violents-sabattent-sur-loural-et-le-sud-de-la-russie",
    "n_members": 467,
@@ -414,8 +414,8 @@
    "divergence": 0.257,
    "category": "international",
    "terms_left": [
-    "régions",
     "direct",
+    "régions",
     "ukraine volodymyr"
    ],
    "terms_right": [
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.253,
+   "divergence": 0.251,
    "category": "international",
    "terms_left": [
     "disparus",
@@ -451,7 +451,7 @@
    "terms_right": [
     "puissant séisme",
     "magnitude",
-    "images"
+    "colombie"
    ]
   },
   {
@@ -565,8 +565,8 @@
    "category": "société",
    "terms_left": [
     "hôtesses",
-    "stewards",
-    "hôtesses stewards"
+    "hôtesses stewards",
+    "stewards"
    ],
    "terms_right": [
     "moyens",
@@ -591,17 +591,17 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.49,
+   "divergence": 0.486,
    "category": "économie",
    "terms_left": [
     "macron",
-    "hausse",
+    "chômage sébastien",
     "chiffres chômage"
    ],
    "terms_right": [
     "emploi",
     "millions",
-    "jeunes"
+    "états-unis"
    ]
   },
   {
@@ -656,7 +656,7 @@
    "terms_left": [
     "vote",
     "justice",
-    "liban vote"
+    "vote abolition"
    ],
    "terms_right": [
     "moyen-orient",
@@ -901,7 +901,7 @@
    "terms_right": [
     "royaume-uni",
     "comte tête-de-poubelle",
-    "nigel farage"
+    "nigel"
    ]
   },
   {
@@ -1191,7 +1191,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.262,
+   "divergence": 0.26,
    "category": "environnement",
    "terms_left": [
     "feu",
