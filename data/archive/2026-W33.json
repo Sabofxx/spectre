@@ -1,13 +1,13 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-15T06:21:37+00:00",
+ "generated_at": "2026-08-15T07:06:40+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Le 15 août, la frontière ouverte à Ceuta ? Les faux appels sur les réseaux sociaux",
    "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
-   "n_members": 516,
+   "n_members": 517,
    "n_sources": 37,
    "counts": {
     "left": 7,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.279,
+   "divergence": 0.278,
    "category": "international",
    "terms_left": [
     "droite",
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.345,
+   "divergence": 0.351,
    "category": "sciences-tech",
    "terms_left": [
     "retrouvez",
@@ -67,7 +67,7 @@
   {
    "title": "Guerre au Moyen-Orient : Donald Trump dit qu'il va déclarer que le détroit d'Ormuz est «un territoire des Etats-Unis»",
    "url": "https://www.tf1info.fr/international/direct-moyen-orient-frappes-americaines-en-iran-attaques-pays-du-golfe-les-dernieres-informations-du-mardi-21-juillet-2026-2454161.html",
-   "n_members": 560,
+   "n_members": 557,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -127,7 +127,7 @@
   {
    "title": "Réseaux sociaux : l'interdiction aux moins de 15 ans censurée par le Conseil constitutionnel",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-18-20-le-telephone-sonne/le-telephone-sonne-du-mercredi-12-aout-2026-3146782",
-   "n_members": 65,
+   "n_members": 67,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.243,
+   "divergence": 0.245,
    "category": "politique",
    "terms_left": [
     "expression communication",
@@ -277,7 +277,7 @@
   {
    "title": "EN DIRECT - Incendies : 600 hectares détruits dans les Landes, 500 personnes évacuées",
    "url": "https://www.lefigaro.fr/sciences/canada-l-intense-saison-des-feux-rendue-deux-fois-plus-probable-par-le-changement-climatique-20260806",
-   "n_members": 128,
+   "n_members": 131,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -291,17 +291,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.44,
+   "divergence": 0.413,
    "category": "environnement",
    "terms_left": [
-    "canada",
-    "ouest",
-    "suite"
+    "cours",
+    "suite",
+    "ouest"
    ],
    "terms_right": [
     "forêt",
-    "feu forêt",
-    "feu"
+    "parcouru",
+    "forêt landes"
    ]
   },
   {
@@ -362,6 +362,36 @@
     "incendie",
     "hectares",
     "fois"
+   ]
+  },
+  {
+   "title": "Fisc piraté : 678.000 usagers concernés selon un nouveau bilan",
+   "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
+   "n_members": 65,
+   "n_sources": 28,
+   "counts": {
+    "left": 5,
+    "centre": 14,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.399,
+   "category": "sciences-tech",
+   "terms_left": [
+    "victime",
+    "victime piratage",
+    "nouveau"
+   ],
+   "terms_right": [
+    "données",
+    "concernés",
+    "particuliers"
    ]
   },
   {
@@ -427,7 +457,7 @@
   {
    "title": "Les Alpes-Maritimes et le Var toujours en alerte orange canicule ce vendredi, des orages attendus dans l’après-midi",
    "url": "https://www.valeursactuelles.com/clubvaleurs/societe/quand-la-canicule-met-lecologie-politique-a-lepreuve-du-reel",
-   "n_members": 147,
+   "n_members": 149,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -515,36 +545,6 @@
    ]
   },
   {
-   "title": "Fisc piraté : 678.000 usagers concernés selon un nouveau bilan",
-   "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 64,
-   "n_sources": 27,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 10,
-    "opinion": 3
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.399,
-   "category": "sciences-tech",
-   "terms_left": [
-    "victime",
-    "victime piratage",
-    "nouveau"
-   ],
-   "terms_right": [
-    "données",
-    "concernés",
-    "particuliers"
-   ]
-  },
-  {
    "title": "Incendies en France: en plein été de tous les records, les pompiers sont en grève",
    "url": "https://www.nicematin.com/societe/transports/une-alerte-publique-et-formelle-un-syndicat-menace-lignes-d-azur-d-une-troisieme-greve-10700836",
    "n_members": 95,
@@ -596,7 +596,7 @@
    "terms_left": [
     "macron",
     "hausse",
-    "chômage sébastien"
+    "chiffres chômage"
    ],
    "terms_right": [
     "emploi",
@@ -667,7 +667,7 @@
   {
    "title": "Canicule : la durée de la vague de chaleur en cours en France va dépasser celle de 2003",
    "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
-   "n_members": 132,
+   "n_members": 133,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -681,7 +681,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.565,
+   "divergence": 0.535,
    "category": "environnement",
    "terms_left": [
     "jours",
@@ -690,8 +690,8 @@
    ],
    "terms_right": [
     "météo",
-    "chaleurs",
-    "week-end"
+    "week-end",
+    "orages"
    ]
   },
   {
@@ -801,7 +801,7 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.712,
+   "divergence": 0.713,
    "category": "environnement",
    "terms_left": [
     "chaleur",
@@ -831,7 +831,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.603,
+   "divergence": 0.602,
    "category": "économie",
    "terms_left": [
     "déficit",
@@ -861,7 +861,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.485,
+   "divergence": 0.486,
    "category": "international",
    "terms_left": [
     "mesures",
@@ -870,7 +870,7 @@
    ],
    "terms_right": [
     "tour",
-    "migratoire",
+    "contrôles frontières",
     "espagne impose"
    ]
   },
@@ -1071,7 +1071,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.798,
+   "divergence": 0.799,
    "category": "société",
    "terms_left": [
     "rdc",
