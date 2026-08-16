@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-16T15:12:42+00:00",
+ "generated_at": "2026-08-16T15:45:12+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -187,7 +187,7 @@
   {
    "title": "Fisc piraté : 678.000 usagers concernés selon un nouveau bilan",
    "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 91,
+   "n_members": 93,
    "n_sources": 31,
    "counts": {
     "left": 5,
@@ -201,16 +201,16 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.346,
+   "divergence": 0.33,
    "category": "sciences-tech",
    "terms_left": [
     "victime",
-    "victime piratage",
-    "nouveau"
+    "piratage fisc",
+    "victime piratage"
    ],
    "terms_right": [
     "données",
-    "particuliers",
+    "extraction",
     "concernés"
    ]
   },
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.482,
+   "divergence": 0.483,
    "category": "environnement",
    "terms_left": [
     "bulgarie",
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.359,
+   "divergence": 0.358,
    "category": "environnement",
    "terms_left": [
     "nouvel incendie",
@@ -426,8 +426,8 @@
   },
   {
    "title": "Guerre en Ukraine. Moscou visée par 600 drones pendant la nuit, une attaque d'une rare ampleur",
-   "url": "https://www.lefigaro.fr/international/chine-un-glissement-de-terrain-fait-au-moins-huit-morts-et-34-disparus-les-operations-de-sauvetage-se-pourusivent-20260717",
-   "n_members": 488,
+   "url": "https://www.lefigaro.fr/flash-actu/gaza-une-frappe-israelienne-tue-huit-personnes-pres-d-un-marche-20260717",
+   "n_members": 487,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -451,7 +451,7 @@
    "terms_right": [
     "russie",
     "drones",
-    "ukraine morts"
+    "moscou"
    ]
   },
   {
@@ -487,7 +487,7 @@
   {
    "title": "Jusqu’à 39 °C attendus : la vigilance orange canicule encore maintenue dans le Var et les Alpes-Maritimes ce dimanche, des orages prévus dans l’après-midi",
    "url": "https://www.leparisien.fr/environnement/climat/cours-deau-a-sec-32-000-hectares-de-foret-brules-animaux-en-souffrance-la-france-grillee-par-la-canicule-18-07-2026-S42RCPZ64NGGRL62IMEHX2YJLU.php",
-   "n_members": 149,
+   "n_members": 150,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -596,7 +596,7 @@
    "terms_left": [
     "fin",
     "hôtesses",
-    "stewards"
+    "hôtesses stewards"
    ],
    "terms_right": [
     "moyens",
@@ -625,8 +625,8 @@
    "category": "économie",
    "terms_left": [
     "macron",
-    "chiffres chômage",
-    "chômage sébastien"
+    "chômage sébastien",
+    "chiffres chômage"
    ],
    "terms_right": [
     "emploi",
@@ -681,17 +681,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.205,
+   "divergence": 0.207,
    "category": "international",
    "terms_left": [
     "vote",
-    "liban vote",
-    "vote abolition"
+    "abolition peine",
+    "justice"
    ],
    "terms_right": [
-    "moyen-orient",
     "condamné peine",
-    "mort contumace"
+    "mort contumace",
+    "contumace"
    ]
   },
   {
@@ -1041,7 +1041,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.304,
+   "divergence": 0.303,
    "category": "société",
    "terms_left": [
     "judiciaire",
