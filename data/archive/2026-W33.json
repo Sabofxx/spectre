@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-16T08:18:15+00:00",
+ "generated_at": "2026-08-16T08:55:16+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.37,
+   "divergence": 0.375,
    "category": "sciences-tech",
    "terms_left": [
     "paris",
@@ -60,8 +60,8 @@
    ],
    "terms_right": [
     "lunettes",
-    "observer",
-    "éclipse"
+    "éclipse",
+    "totale"
    ]
   },
   {
@@ -307,7 +307,7 @@
   {
    "title": "EN DIRECT - Incendie dans les Landes : reprise de feu dans la nuit, 1 580 hectares brûlés",
    "url": "https://www.lefigaro.fr/sciences/canada-l-intense-saison-des-feux-rendue-deux-fois-plus-probable-par-le-changement-climatique-20260806",
-   "n_members": 167,
+   "n_members": 169,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -425,9 +425,9 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine: Moscou visée par une attaque de 600 drones, trois personnes blessées",
+   "title": "EN DIRECT, guerre en Ukraine : des attaques ukrainiennes ont fait six morts en Russie ; Moscou visée par 600 drones pendant la nuit",
    "url": "https://www.ladepeche.fr/2026/07/17/guerre-en-ukraine-entre-20-et-30-minutes-lesperance-de-vie-dun-soldat-russe-sur-le-champ-de-bataille-est-extremement-courte-a-cause-des-drones-13472813.php",
-   "n_members": 479,
+   "n_members": 482,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.26,
+   "divergence": 0.256,
    "category": "international",
    "terms_left": [
     "régions",
@@ -450,8 +450,8 @@
    ],
    "terms_right": [
     "russie",
-    "moscou",
-    "drones"
+    "ukraine morts",
+    "morts"
    ]
   },
   {
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.716,
+   "divergence": 0.717,
    "category": "environnement",
    "terms_left": [
     "année",
@@ -685,8 +685,8 @@
    "category": "international",
    "terms_left": [
     "vote",
-    "vote abolition",
-    "liban vote"
+    "liban vote",
+    "vote abolition"
    ],
    "terms_right": [
     "moyen-orient",
@@ -902,6 +902,36 @@
     "tour",
     "contrôles frontières",
     "espagne impose"
+   ]
+  },
+  {
+   "title": "En direct : Washington menace l'Iran d'un \"isolement économique comme le monde n'en a jamais vu\"",
+   "url": "https://lcp.fr/actualites/l-ete-d-avant-presidentielle-2001-le-calme-puis-les-tempetes-439665",
+   "n_members": 56,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.827,
+   "category": "international",
+   "terms_left": [
+    "pénurie",
+    "présidentielle",
+    "qu"
+   ],
+   "terms_right": [
+    "détroit",
+    "iran",
+    "drones"
    ]
   },
   {
@@ -1161,7 +1191,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.496,
+   "divergence": 0.495,
    "category": "sport",
    "terms_left": [
     "offensive",
@@ -1172,36 +1202,6 @@
     "guerre",
     "iran",
     "face"
-   ]
-  },
-  {
-   "title": "Les pays en guerre ne pourront plus accueillir le concours de l’Eurovision à partir de l’année prochaine",
-   "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-tremblement-de-terre-en-colombie-amnistie-du-pkk-en-turquie-moins-de-vaccins-aux-etats-unis-les-informations-de-la-nuit_257832",
-   "n_members": 60,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.593,
-   "category": "international",
-   "terms_left": [
-    "russe",
-    "lieu",
-    "finale"
-   ],
-   "terms_right": [
-    "concours",
-    "qu",
-    "états-unis"
    ]
   }
  ]
