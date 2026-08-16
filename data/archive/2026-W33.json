@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-16T12:19:24+00:00",
+ "generated_at": "2026-08-16T13:09:09+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -187,7 +187,7 @@
   {
    "title": "Fisc piraté : 678.000 usagers concernés selon un nouveau bilan",
    "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 86,
+   "n_members": 88,
    "n_sources": 31,
    "counts": {
     "left": 5,
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.468,
+   "divergence": 0.467,
    "category": "sciences-tech",
    "terms_left": [
     "easyjet",
@@ -307,7 +307,7 @@
   {
    "title": "EN DIRECT - Incendie dans les Landes : reprise de feu dans la nuit, 1 580 hectares brûlés",
    "url": "https://www.lefigaro.fr/sciences/canada-l-intense-saison-des-feux-rendue-deux-fois-plus-probable-par-le-changement-climatique-20260806",
-   "n_members": 170,
+   "n_members": 172,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -365,6 +365,36 @@
    ]
   },
   {
+   "title": "Après cinq ans de pouvoir taliban, les Afghanes toujours plus muselées",
+   "url": "https://www.cnews.fr/science/2026-08-09/dragon-devoreur-colere-des-dieux-ces-mythes-et-legendes-surprenants-qui",
+   "n_members": 67,
+   "n_sources": 28,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.673,
+   "category": "international",
+   "terms_left": [
+    "monde",
+    "ans retour",
+    "ong"
+   ],
+   "terms_right": [
+    "afghanistan",
+    "ans",
+    "kaboul"
+   ]
+  },
+  {
    "title": "Après les incendies de l’été en France, un afflux de candidats chez les pompiers volontaires",
    "url": "https://www.leparisien.fr/politique/des-cigarettes-bientot-plus-cheres-pour-financer-la-lutte-contre-les-incendies-une-proposition-de-loi-veut-taxer-ceux-qui-fabriquent-les-megots-06-08-2026-GKMOY7GD3RBGTDAO65PU7FSAS4.php",
    "n_members": 66,
@@ -395,39 +425,9 @@
    ]
   },
   {
-   "title": "Après cinq ans de pouvoir taliban, les Afghanes toujours plus muselées",
-   "url": "https://www.cnews.fr/science/2026-08-09/dragon-devoreur-colere-des-dieux-ces-mythes-et-legendes-surprenants-qui",
-   "n_members": 66,
-   "n_sources": 28,
-   "counts": {
-    "left": 7,
-    "centre": 14,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.672,
-   "category": "international",
-   "terms_left": [
-    "monde",
-    "ans retour",
-    "ong"
-   ],
-   "terms_right": [
-    "afghanistan",
-    "ans",
-    "kaboul"
-   ]
-  },
-  {
-   "title": "Guerre en Ukraine: Moscou visée par une attaque de 600 drones, trois personnes blessées",
+   "title": "Guerre en Ukraine. Moscou visée par 600 drones pendant la nuit, une attaque d'une rare ampleur",
    "url": "https://www.ladepeche.fr/2026/07/17/guerre-en-ukraine-entre-20-et-30-minutes-lesperance-de-vie-dun-soldat-russe-sur-le-champ-de-bataille-est-extremement-courte-a-cause-des-drones-13472813.php",
-   "n_members": 486,
+   "n_members": 488,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.254,
+   "divergence": 0.256,
    "category": "international",
    "terms_left": [
     "régions",
@@ -450,8 +450,8 @@
    ],
    "terms_right": [
     "russie",
-    "ukraine morts",
-    "drones"
+    "drones",
+    "ukraine morts"
    ]
   },
   {
@@ -591,17 +591,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.503,
+   "divergence": 0.494,
    "category": "société",
    "terms_left": [
-    "france",
     "hôtesses",
+    "stewards",
     "hôtesses stewards"
    ],
    "terms_right": [
     "moyens",
-    "syndicats",
-    "pompiers grève"
+    "pompiers grève",
+    "syndicats"
    ]
   },
   {
@@ -621,12 +621,12 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.487,
+   "divergence": 0.488,
    "category": "économie",
    "terms_left": [
     "macron",
-    "chômage sébastien",
-    "chiffres chômage"
+    "chiffres chômage",
+    "chômage sébastien"
    ],
    "terms_right": [
     "emploi",
@@ -711,7 +711,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.551,
+   "divergence": 0.547,
    "category": "environnement",
    "terms_left": [
     "jours",
@@ -831,17 +831,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.601,
+   "divergence": 0.597,
    "category": "économie",
    "terms_left": [
-    "déficit",
     "réduire",
-    "familiales"
+    "familiales",
+    "sébastien"
    ],
    "terms_right": [
     "gel",
-    "retraités",
-    "pensions"
+    "pensions",
+    "retraités"
    ]
   },
   {
