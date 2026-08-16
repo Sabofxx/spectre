@@ -1,6 +1,6 @@
 {
  "week": "2026-W33",
- "generated_at": "2026-08-16T07:08:45+00:00",
+ "generated_at": "2026-08-16T07:53:16+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -67,7 +67,7 @@
   {
    "title": "Réseaux sociaux : l'interdiction aux moins de 15 ans censurée par le Conseil constitutionnel",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-18-20-le-telephone-sonne/le-telephone-sonne-du-mercredi-12-aout-2026-3146782",
-   "n_members": 87,
+   "n_members": 88,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.211,
+   "divergence": 0.198,
    "category": "politique",
    "terms_left": [
     "expression communication",
@@ -89,9 +89,9 @@
     "ans censurée"
    ],
    "terms_right": [
-    "censuré",
     "censuré interdiction",
-    "disproportionnée"
+    "constitutionnel censuré",
+    "censuré"
    ]
   },
   {
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.211,
+   "divergence": 0.21,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -307,7 +307,7 @@
   {
    "title": "EN DIRECT - Incendie dans les Landes : reprise de feu dans la nuit, 1 580 hectares brûlés",
    "url": "https://www.lefigaro.fr/sciences/canada-l-intense-saison-des-feux-rendue-deux-fois-plus-probable-par-le-changement-climatique-20260806",
-   "n_members": 164,
+   "n_members": 167,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -321,17 +321,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.363,
+   "divergence": 0.358,
    "category": "environnement",
    "terms_left": [
     "nouvel incendie",
     "nouvel",
-    "déclaré"
+    "direct"
    ],
    "terms_right": [
     "forêt landes",
     "pompiers",
-    "feu"
+    "situation"
    ]
   },
   {
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.717,
+   "divergence": 0.716,
    "category": "environnement",
    "terms_left": [
     "année",
@@ -561,7 +561,7 @@
    },
    "blindspot_score": -0.167,
    "blindspot_for": null,
-   "divergence": 0.59,
+   "divergence": 0.595,
    "category": "sciences-tech",
    "terms_left": [
     "dollars",
@@ -625,8 +625,8 @@
    "category": "économie",
    "terms_left": [
     "macron",
-    "chômage sébastien",
-    "chiffres chômage"
+    "chiffres chômage",
+    "chômage sébastien"
    ],
    "terms_right": [
     "emploi",
@@ -711,7 +711,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.538,
+   "divergence": 0.543,
    "category": "environnement",
    "terms_left": [
     "jours",
@@ -721,7 +721,7 @@
    "terms_right": [
     "météo",
     "orages",
-    "chaleurs"
+    "fortes chaleurs"
    ]
   },
   {
@@ -741,17 +741,17 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.709,
+   "divergence": 0.707,
    "category": "international",
    "terms_left": [
-    "géant",
-    "direct",
-    "ukraine"
+    "ukraine",
+    "guerre ukraine",
+    "géant"
    ],
    "terms_right": [
+    "drones",
     "iran",
-    "corée nord",
-    "corée"
+    "états-unis"
    ]
   },
   {
@@ -1191,7 +1191,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.595,
+   "divergence": 0.592,
    "category": "international",
    "terms_left": [
     "russe",
@@ -1200,8 +1200,8 @@
    ],
    "terms_right": [
     "concours",
-    "états-unis",
-    "qu"
+    "qu",
+    "états-unis"
    ]
   }
  ]
