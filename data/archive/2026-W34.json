@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-17T07:44:59+00:00",
+ "generated_at": "2026-08-17T08:32:27+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,37 +37,37 @@
   {
    "title": "Internet. Piratage du fisc : une enquête ouverte, les usagers concernés contactés dans les jours qui viennent",
    "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 106,
-   "n_sources": 31,
+   "n_members": 110,
+   "n_sources": 32,
    "counts": {
     "left": 5,
-    "centre": 15,
+    "centre": 16,
     "right": 11
    },
    "style_counts": {
-    "factuel": 16,
+    "factuel": 17,
     "mixte": 10,
     "opinion": 5
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.397,
+   "divergence": 0.392,
    "category": "sciences-tech",
    "terms_left": [
-    "piratage fisc",
     "victime",
-    "victimes"
+    "piratage fisc",
+    "finances"
    ],
    "terms_right": [
     "données",
     "impôts",
-    "système"
+    "particuliers"
    ]
   },
   {
    "title": "EN DIRECT - Incendie dans les Landes : reprise de feu dans la nuit, 1 580 hectares brûlés",
    "url": "https://www.lefigaro.fr/sciences/canada-l-intense-saison-des-feux-rendue-deux-fois-plus-probable-par-le-changement-climatique-20260806",
-   "n_members": 191,
+   "n_members": 193,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -81,17 +81,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.352,
+   "divergence": 0.355,
    "category": "environnement",
    "terms_left": [
-    "nouvel incendie",
     "nouvel",
+    "nouvel incendie",
     "direct"
    ],
    "terms_right": [
-    "situation",
     "pompiers",
-    "forêt landes"
+    "situation",
+    "feu"
    ]
   },
   {
@@ -127,7 +127,7 @@
   {
    "title": "Guerre en Ukraine. Moscou visée par 600 drones pendant la nuit, une attaque d'une rare ampleur",
    "url": "https://www.bfmtv.com/international/afrique/entraines-par-tromperie-un-nombre-alarmant-de-botswanais-forces-de-combattre-pour-la-russie-contre-l-ukraine-selon-le-botswana_AD-202607180258.html",
-   "n_members": 483,
+   "n_members": 482,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -141,17 +141,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.257,
+   "divergence": 0.256,
    "category": "international",
    "terms_left": [
     "direct",
-    "russes",
+    "guerre ukraine",
     "régions"
    ],
    "terms_right": [
     "russie",
     "drones",
-    "visée"
+    "pays"
    ]
   },
   {
@@ -275,6 +275,36 @@
    ]
   },
   {
+   "title": "Virus Ebola en RD Congo : un décès toutes les 30 minutes, l'épidémie s'étend à une 6e province",
+   "url": "https://www.leparisien.fr/sciences/odeur-sucree-groupe-sanguin-ou-rien-de-cela-pourquoi-les-moustiques-raffolent-de-votre-peau-et-pas-de-celle-du-voisin-03-08-2026-7XIS34AZTNEVJPXNPS2WH45HDQ.php",
+   "n_members": 71,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 14,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.773,
+   "category": "société",
+   "terms_left": [
+    "rdc",
+    "france",
+    "ebola"
+   ],
+   "terms_right": [
+    "ia",
+    "personnes",
+    "incendies"
+   ]
+  },
+  {
    "title": "Feu historique en Belgique, deux morts en Grèce… On fait le point sur les incendies qui ravagent l’Europe",
    "url": "https://www.bfmtv.com/sante/video-canicule-on-est-pret-mais-on-est-dans-une-situation-tendue-explique-nicolas-gonzales-chef-du-service-des-urgences-a-l-hopital-de-saclay_VN-202608080087.html",
    "n_members": 69,
@@ -351,12 +381,12 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.545,
+   "divergence": 0.549,
    "category": "international",
    "terms_left": [
     "japon",
-    "aéroport",
-    "milliers personnes"
+    "indonésie puissant",
+    "précédent tokyo"
    ],
    "terms_right": [
     "séisme magnitude",
@@ -395,6 +425,36 @@
    ]
   },
   {
+   "title": "Aide à mourir, loi Ripost, pesticides... Voici les décisions rendues par le Conseil constitutionnel",
+   "url": "https://www.lemonde.fr/societe/article/2026/08/12/fin-de-vie-la-croisade-des-etablissements-de-sante-catholiques-pour-introduire-une-clause-de-conscience-collective_6745063_3224.html",
+   "n_members": 62,
+   "n_sources": 22,
+   "counts": {
+    "left": 5,
+    "centre": 9,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.411,
+   "category": "société",
+   "terms_left": [
+    "vie",
+    "fin vie",
+    "fin"
+   ],
+   "terms_right": [
+    "mourir",
+    "aide",
+    "aide mourir"
+   ]
+  },
+  {
    "title": "Corée du Nord-Russie : ce que révèle la dernière lettre de Kim Jong Un à Poutine",
    "url": "https://www.bfmtv.com/international/asie/russie/ils-n-ont-pas-ete-autorises-a-lui-rendre-visite-l-etat-de-sante-alarmant-d-un-americain-detenu-en-russie-inquiete-ses-proches_AN-202608080249.html",
    "n_members": 59,
@@ -416,7 +476,7 @@
    "terms_left": [
     "défense",
     "turquie",
-    "kim jong-un"
+    "jong-un"
    ],
    "terms_right": [
     "guerre",
@@ -427,7 +487,7 @@
   {
    "title": "EN DIRECT - Championnats d’Europe de natation : Léon Marchand s’offre une première couronne européenne sur 200m papillon",
    "url": "https://www.franceinfo.fr/sports/natation/championnats-d-europe/quand-je-monte-les-escaliers-j-ai-deja-decide-de-plonger-madeleine-bayon-le-depassement-de-soi-et-la-determination-au-service-du-plongeon-de-haut-vol_8134439.html",
-   "n_members": 203,
+   "n_members": 205,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -441,7 +501,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.26,
+   "divergence": 0.251,
    "category": "sport",
    "terms_left": [
     "blessure",
@@ -452,6 +512,36 @@
     "papillon",
     "finale",
     "championnats europe"
+   ]
+  },
+  {
+   "title": "États-Unis : Donald Trump ordonne à la Navy un surprenant retour de la catapulte à vapeur sur ses futurs porte-avions",
+   "url": "https://www.lemonde.fr/economie/article/2026/08/11/la-maison-mere-de-truth-social-le-reseau-de-donald-trump-affiche-240-millions-de-dollars-de-pertes-au-deuxieme-trimestre_6743610_3234.html",
+   "n_members": 66,
+   "n_sources": 21,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 5,
+    "opinion": 1
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.71,
+   "category": "international",
+   "terms_left": [
+    "administration trump",
+    "gants",
+    "ice"
+   ],
+   "terms_right": [
+    "porte-avions",
+    "états-unis",
+    "électromagnétiques"
    ]
   },
   {
@@ -471,7 +561,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.621,
+   "divergence": 0.622,
    "category": "politique",
    "terms_left": [
     "qu",
@@ -515,6 +605,36 @@
    ]
   },
   {
+   "title": "Donald Trump : \"Une très bonne relation avec Kim Jong-un...\", le président américain annonce réduire \"considérablement\" les exercices militaires avec la Corée du Sud",
+   "url": "https://www.lefigaro.fr/international/guerre-iran-etats-unis-le-pakistan-espere-que-l-accord-sur-ormuz-ouvrira-la-voie-a-une-reprise-du-dialogue-20260806",
+   "n_members": 44,
+   "n_sources": 21,
+   "counts": {
+    "left": 5,
+    "centre": 10,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.493,
+   "category": "international",
+   "terms_left": [
+    "mecque",
+    "défense",
+    "pacte"
+   ],
+   "terms_right": [
+    "trump",
+    "donald",
+    "donald trump"
+   ]
+  },
+  {
    "title": "Isère : Laurent Nuñez et Aurore Bergé dénoncent des propos antisémites d'une commerçante, une enquête ouverte",
    "url": "https://www.valeursactuelles.com/politique/les-magouilles-du-maire-lfi-de-la-courneuve-aly-diouara-pour-garder-son-indemnite-parlementaire",
    "n_members": 51,
@@ -547,7 +667,7 @@
   {
    "title": "Présidentielle 2027 : Marine Tondelier propose des « rencontres bilatérales » avec tous les partis de gauche",
    "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
-   "n_members": 40,
+   "n_members": 41,
    "n_sources": 19,
    "counts": {
     "left": 3,
@@ -561,7 +681,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.69,
+   "divergence": 0.689,
    "category": "politique",
    "terms_left": [
     "droite",
@@ -621,47 +741,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.653,
+   "divergence": 0.652,
    "category": "international",
    "terms_left": [
     "face",
     "pires",
-    "histoire"
+    "pires feux"
    ],
    "terms_right": [
     "feu",
-    "personnes",
-    "pompiers"
-   ]
-  },
-  {
-   "title": "\"Cela montre que le Moyen-Orient se rassemble\": Donald Trump se réjouit du pacte de défense signé entre l'Arabie saoudite, la Turquie et le Pakistan",
-   "url": "https://www.lefigaro.fr/international/guerre-iran-etats-unis-le-pakistan-espere-que-l-accord-sur-ormuz-ouvrira-la-voie-a-une-reprise-du-dialogue-20260806",
-   "n_members": 38,
-   "n_sources": 18,
-   "counts": {
-    "left": 5,
-    "centre": 8,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.465,
-   "category": "international",
-   "terms_left": [
-    "mecque",
-    "pacte",
-    "pakistan"
-   ],
-   "terms_right": [
-    "trump",
-    "donald",
-    "donald trump"
+    "pompiers",
+    "forêt"
    ]
   },
   {
@@ -695,6 +785,36 @@
    ]
   },
   {
+   "title": "Frappes au Liban: Israël affirme avoir ciblé une infrastructure du Hezbollah en réponse à une \"attaque\" contre ses soldats",
+   "url": "https://www.rfi.fr/fr/moyen-orient/20260811-direct-moyen-orient-la-finul-alerte-sur-l-augmentation-des-frappes-et-incursions-isra%C3%A9liennes-au-sud-du-liban",
+   "n_members": 56,
+   "n_sources": 17,
+   "counts": {
+    "left": 3,
+    "centre": 9,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 5,
+    "opinion": 1
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.792,
+   "category": "international",
+   "terms_left": [
+    "pays",
+    "israéliennes",
+    "sud pays"
+   ],
+   "terms_right": [
+    "canicule",
+    "sécheresse",
+    "risque"
+   ]
+  },
+  {
    "title": "Cisjordanie : Qusra assiégée par les colons",
    "url": "https://www.humanite.fr/monde/cisjordanie/en-cisjordanie-les-attaques-quotidiennes-de-colons-au-nom-de-la-protection-des-palestiniens",
    "n_members": 53,
@@ -711,18 +831,40 @@
    },
    "blindspot_score": -0.556,
    "blindspot_for": null,
-   "divergence": 0.512,
+   "divergence": 0.5,
    "category": "international",
    "terms_left": [
+    "cisjordanie",
     "armée",
-    "semaine",
-    "etats-unis"
+    "cisjordanie occupée"
    ],
    "terms_right": [
     "france",
     "américain",
     "ambassadeur américain"
    ]
+  },
+  {
+   "title": "EN DIRECT - Incendies : Sébastien Lecornu en Gironde pour lancer la reconstruction après le mégafeu",
+   "url": "https://www.valeursactuelles.com/societe/voyage-du-pape-leon-xiv-la-france-se-souviendrait-elle-de-son-bapteme",
+   "n_members": 54,
+   "n_sources": 16,
+   "counts": {
+    "left": 1,
+    "centre": 9,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 3,
+    "opinion": 2
+   },
+   "blindspot_score": 0.714,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "environnement",
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Une femme tuée par arme blanche dans le Vaucluse, son fils en garde à vue",
@@ -747,9 +889,9 @@
    "terms_right": []
   },
   {
-   "title": "Sortie spatiale de Sophie Adenot : heure de départ, rôle… comment va se dérouler la mission du 18 août",
+   "title": "Que va faire l'astronaute Sophie Adenot lors de sa sortie historique dans l'espace, le 18 août prochain ?",
    "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 23,
+   "n_members": 24,
    "n_sources": 16,
    "counts": {
     "left": 2,
@@ -785,7 +927,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.57,
+   "divergence": 0.571,
    "category": "culture",
    "terms_left": [
     "mort",
@@ -827,28 +969,6 @@
     "mahieu",
     "pauline"
    ]
-  },
-  {
-   "title": "EN DIRECT - Incendies : Sébastien Lecornu en Gironde pour lancer la reconstruction après le mégafeu",
-   "url": "https://www.valeursactuelles.com/societe/voyage-du-pape-leon-xiv-la-france-se-souviendrait-elle-de-son-bapteme",
-   "n_members": 49,
-   "n_sources": 15,
-   "counts": {
-    "left": 1,
-    "centre": 9,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 3,
-    "opinion": 1
-   },
-   "blindspot_score": 0.667,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "environnement",
-   "terms_left": [],
-   "terms_right": []
   },
   {
    "title": "Le cyclisme en deuil : un coureur de 19 ans meurt percuté par une voiture en pleine étape du Tour du Portugal",
@@ -957,7 +1077,7 @@
    },
    "blindspot_score": 0.6,
    "blindspot_for": "gauche",
-   "divergence": 0.58,
+   "divergence": 0.584,
    "category": "sport",
    "terms_left": [
     "kpatcha baptiste",
@@ -973,15 +1093,15 @@
   {
    "title": "Grève chez EasyJet : une centaine de vols annulés, des milliers de passagers affectés",
    "url": "https://www.leprogres.fr/transport/2026/08/14/13-heures-de-train-et-de-bus-apres-un-vol-annule-marianne-raconte-un-retour-de-voyage-qui-vire-au-cauchemar",
-   "n_members": 24,
-   "n_sources": 13,
+   "n_members": 26,
+   "n_sources": 14,
    "counts": {
     "left": 2,
-    "centre": 6,
+    "centre": 7,
     "right": 5
    },
    "style_counts": {
-    "factuel": 8,
+    "factuel": 9,
     "mixte": 4,
     "opinion": 1
    },
@@ -995,15 +1115,15 @@
   {
    "title": "Cannes : Un disparu et dix blessés après une collision entre deux bateaux de plaisance",
    "url": "https://www.nicematin.com/faits-divers/collision-entre-deux-bateaux-au-large-de-mandelieu-la-napoule-dix-blesses-dont-trois-en-urgence-absolue-une-personne-potentiellement-disparue-en-mer-10706964",
-   "n_members": 12,
-   "n_sources": 12,
+   "n_members": 13,
+   "n_sources": 13,
    "counts": {
     "left": 1,
-    "centre": 7,
+    "centre": 8,
     "right": 4
    },
    "style_counts": {
-    "factuel": 9,
+    "factuel": 10,
     "mixte": 3,
     "opinion": 0
    },
@@ -1015,114 +1135,34 @@
    "terms_right": []
   },
   {
-   "title": "Guerre en Ukraine: la Russie a été visée par 600 drones",
-   "url": "https://www.bfmtv.com/international/europe/ukraine/ukraine-des-explosions-entendues-a-kiev-apres-une-alerte-signalant-l-approche-de-missiles-balistiques_AD-202608040563.html",
-   "n_members": 50,
-   "n_sources": 8,
+   "title": "Le coût de la vie étudiante a encore augmenté en 2026, selon le syndicat étudiant Unef",
+   "url": "https://www.liberation.fr/societe/en-france-des-etudiants-toujours-plus-precaires-du-fait-du-desinvestissement-chronique-de-letat-dans-lenseignement-superieur-20260817_3U7VPI2RBFCFJBIM4MHC6B6XOI/",
+   "n_members": 9,
+   "n_sources": 9,
    "counts": {
     "left": 2,
-    "centre": 5,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 6,
-    "mixte": 2,
-    "opinion": 0
-   },
-   "blindspot_score": -0.333,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Tennis : Coup dur d’entrée pour les Français au Masters 1000 de Cincinnati",
-   "url": "https://www.ouest-france.fr/sport/tennis/vous-croyez-que-novak-se-souciera-dune-prime-zverev-jugerait-inutile-de-sanctionner-un-forfait-en-masters-1000-847d4e6e-8eba-11f1-bac6-43ee9437487c",
-   "n_members": 37,
-   "n_sources": 8,
-   "counts": {
-    "left": 0,
-    "centre": 4,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 4,
-    "mixte": 3,
-    "opinion": 1
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Émilien Jacquelin prépare ses débuts en cyclisme professionnel",
-   "url": "https://www.ouest-france.fr/sport/cyclisme/comme-emilien-jacquelin-pourquoi-des-sportifs-dautres-disciplines-parviennent-ils-a-integrer-les-pelotons-pros-a29f0a82-9567-11f1-9ee8-a50506a5291a",
-   "n_members": 10,
-   "n_sources": 8,
-   "counts": {
-    "left": 1,
     "centre": 5,
     "right": 2
    },
    "style_counts": {
-    "factuel": 6,
-    "mixte": 2,
-    "opinion": 0
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "\"Il appelait à l'aide\" : enfermé par son beau-père et sa mère, un enfant de 8 ans sauvé par ses voisins à Nîmes",
-   "url": "https://www.ladepeche.fr/2026/08/15/il-etait-enferme-par-son-beau-pere-et-sa-mere-sans-eau-ni-nourriture-a-nimes-un-enfant-de-8-ans-survit-grace-a-lincroyable-solidarite-de-ses-voisins-13510367.php",
-   "n_members": 9,
-   "n_sources": 7,
-   "counts": {
-    "left": 0,
-    "centre": 4,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 6,
-    "mixte": 0,
-    "opinion": 1
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Un migrant meurt après le naufrage d’une embarcation au large de Mayotte",
-   "url": "https://www.lemonde.fr/international/article/2026/08/15/zimbabwe-le-bilan-du-naufrage-d-un-ferry-sur-le-lac-kariba-s-eleve-a-68-morts_6746751_3210.html",
-   "n_members": 7,
-   "n_sources": 7,
-   "counts": {
-    "left": 1,
-    "centre": 5,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 5,
+    "factuel": 7,
     "mixte": 2,
     "opinion": 0
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
+   "divergence": 0.768,
+   "category": "société",
+   "terms_left": [
+    "étudiants",
+    "an",
+    "politiques"
+   ],
+   "terms_right": [
+    "euros",
+    "qu",
+    "vie étudiante"
+   ]
   }
  ]
 }
