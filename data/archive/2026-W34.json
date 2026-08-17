@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-17T16:16:28+00:00",
+ "generated_at": "2026-08-17T16:54:10+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -35,9 +35,9 @@
    ]
   },
   {
-   "title": "Guerre en Iran : Donald Trump veut faire du détroit d’Ormuz un «territoire des États-Unis»",
+   "title": "Donald Trump menace de bombarder Oman s'il entrave un accord sur le détroit d'Ormuz",
    "url": "https://www.lejdd.fr/International/guerre-en-iran-donald-trump-veut-faire-du-detroit-dormuz-un-territoire-des-etats-unis-181131",
-   "n_members": 504,
+   "n_members": 502,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -67,7 +67,7 @@
   {
    "title": "Internet. Piratage du fisc : une enquête ouverte, les usagers concernés contactés dans les jours qui viennent",
    "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 125,
+   "n_members": 126,
    "n_sources": 33,
    "counts": {
     "left": 5,
@@ -81,17 +81,17 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.356,
+   "divergence": 0.353,
    "category": "sciences-tech",
    "terms_left": [
     "piratage fisc",
     "intrusion",
-    "fisc"
+    "fisc sébastien"
    ],
    "terms_right": [
     "données",
-    "français",
-    "site"
+    "site",
+    "impôts"
    ]
   },
   {
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.379,
+   "divergence": 0.376,
    "category": "environnement",
    "terms_left": [
     "nouvel",
@@ -120,14 +120,14 @@
    ],
    "terms_right": [
     "pompiers",
-    "parcouru",
+    "fixé",
     "feu"
    ]
   },
   {
-   "title": "\"Contribution des retraités aisés\" pour le prochain budget: \"Il y a un débat qui se pose sur l'équité\", affirme Ludovic Mendes, député EPR",
+   "title": "Budget 2027 : Roland Lescure relance l’idée d’un gel des pensions des retraités les plus aisés",
    "url": "https://www.ouest-france.fr/economie/retraites/mode-de-calcul-trimestres-pour-enfant-que-vont-changer-ces-nouveaux-decrets-sur-la-retraite-des-meres-de-famille-e5f79f04-90d2-11f1-9add-57c399f24235",
-   "n_members": 76,
+   "n_members": 77,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -141,12 +141,12 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.6,
+   "divergence": 0.593,
    "category": "économie",
    "terms_left": [
     "sébastien",
     "sébastien lecornu",
-    "pistes"
+    "réduire"
    ],
    "terms_right": [
     "retraités",
@@ -157,7 +157,7 @@
   {
    "title": "Après cinq ans de pouvoir taliban, les Afghanes toujours plus muselées",
    "url": "https://www.cnews.fr/science/2026-08-09/dragon-devoreur-colere-des-dieux-ces-mythes-et-legendes-surprenants-qui",
-   "n_members": 68,
+   "n_members": 69,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -171,12 +171,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.664,
+   "divergence": 0.655,
    "category": "international",
    "terms_left": [
-    "monde",
-    "ans retour",
-    "droits"
+    "droits",
+    "droits femmes",
+    "monde"
    ],
    "terms_right": [
     "afghanistan",
@@ -302,6 +302,36 @@
     "moyens",
     "sapeurs-pompiers",
     "intersyndicale"
+   ]
+  },
+  {
+   "title": "En pleine sécheresse: une COP contre la désertification à la réussite incertaine",
+   "url": "https://www.radiofrance.fr/francebleu/podcasts/le-reportage-ici-breizh-izel/chiffre-d-affaires-zero-a-l-arret-a-cause-de-la-secheresse-les-stations-de-lavage-du-finistere-sont-en-souffrance-5892608",
+   "n_members": 63,
+   "n_sources": 26,
+   "counts": {
+    "left": 8,
+    "centre": 14,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": -0.333,
+   "blindspot_for": null,
+   "divergence": 0.789,
+   "category": "environnement",
+   "terms_left": [
+    "désertification",
+    "cop",
+    "mongolie"
+   ],
+   "terms_right": [
+    "eau",
+    "niveau",
+    "rhin"
    ]
   },
   {
@@ -455,39 +485,9 @@
    ]
   },
   {
-   "title": "En pleine sécheresse: une COP contre la désertification à la réussite incertaine",
-   "url": "https://www.radiofrance.fr/francebleu/podcasts/le-reportage-ici-breizh-izel/chiffre-d-affaires-zero-a-l-arret-a-cause-de-la-secheresse-les-stations-de-lavage-du-finistere-sont-en-souffrance-5892608",
-   "n_members": 62,
-   "n_sources": 25,
-   "counts": {
-    "left": 7,
-    "centre": 14,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": -0.273,
-   "blindspot_for": null,
-   "divergence": 0.788,
-   "category": "environnement",
-   "terms_left": [
-    "désertification",
-    "mongolie",
-    "cop"
-   ],
-   "terms_right": [
-    "niveau",
-    "eau",
-    "rhin"
-   ]
-  },
-  {
    "title": "Incendies: Sébastien Lecornu promet une aide de \"12 millions d'euros pour les Landes et la Gironde\"",
    "url": "https://www.valeursactuelles.com/societe/voyage-du-pape-leon-xiv-la-france-se-souviendrait-elle-de-son-bapteme",
-   "n_members": 110,
+   "n_members": 111,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -517,7 +517,7 @@
   {
    "title": "Incendies﻿ : 12 millions d’euros d’aides, délais raccourcis… Le point sur les annonces de Sébastien Lecornu en Gironde",
    "url": "https://www.sudradio.fr/emission/le-fait-du-jour-638",
-   "n_members": 66,
+   "n_members": 67,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -531,12 +531,12 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.57,
+   "divergence": 0.555,
    "category": "politique",
    "terms_left": [
-    "qu",
     "euros",
-    "urgence"
+    "qu",
+    "lourde"
    ],
    "terms_right": [
     "piratage",
@@ -575,6 +575,36 @@
    ]
   },
   {
+   "title": "Le faux plombier lui dérobe 113 000 euros",
+   "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20260809-apr%C3%A8s-le-double-s%C3%A9isme-de-juin-au-venezuela-la-n%C3%A9cessaire-aide-psychologique",
+   "n_members": 56,
+   "n_sources": 23,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.602,
+   "category": "environnement",
+   "terms_left": [
+    "gouvernement",
+    "tensions",
+    "vacances"
+   ],
+   "terms_right": [
+    "canicule",
+    "faux",
+    "annonce"
+   ]
+  },
+  {
    "title": "Canicule : six départements du sud-est de la France restent en vigilance orange ce lundi",
    "url": "https://www.ladepeche.fr/2026/08/13/direct-canicule-80-departements-en-vigilance-orange-jusqua-40-c-attendus-ce-jeudi-dans-plusieurs-regions-13507182.php",
    "n_members": 464,
@@ -591,11 +621,11 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.266,
+   "divergence": 0.264,
    "category": "environnement",
    "terms_left": [
-    "direct incendies",
     "direct",
+    "direct incendies",
     "incendies"
    ],
    "terms_right": [
@@ -703,7 +733,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.72,
+   "divergence": 0.719,
    "category": "international",
    "terms_left": [
     "gants",
@@ -733,12 +763,12 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.286,
+   "divergence": 0.309,
    "category": "société",
    "terms_left": [
-    "fin",
-    "vie",
-    "fin vie"
+    "clause",
+    "clause conscience",
+    "conscience"
    ],
    "terms_right": [
     "mourir",
@@ -799,9 +829,9 @@
    "terms_right": []
   },
   {
-   "title": "Présidentielle 2027 : Marine Tondelier propose des « rencontres bilatérales » avec tous les partis de gauche",
+   "title": "Présidentielle 2027 : Marine Tondelier dit que les Écologistes sont « prêts à rediscuter avec tout le monde à gauche »",
    "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
-   "n_members": 53,
+   "n_members": 55,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -815,7 +845,7 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.685,
+   "divergence": 0.681,
    "category": "politique",
    "terms_left": [
     "droite",
@@ -831,7 +861,7 @@
   {
    "title": "Vacances : les politiques s'incrustent à la plage",
    "url": "https://www.tf1info.fr/politique/videos/video-en-liberte-macron-le-coup-de-com-de-l-ete-35550-2458219.html",
-   "n_members": 40,
+   "n_members": 43,
    "n_sources": 21,
    "counts": {
     "left": 5,
@@ -845,7 +875,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.579,
+   "divergence": 0.59,
    "category": "politique",
    "terms_left": [
     "jet-ski",
@@ -854,8 +884,8 @@
    ],
    "terms_right": [
     "politique",
-    "canicule",
-    "mois"
+    "pompiers",
+    "incendies"
    ]
   },
   {
@@ -1085,7 +1115,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.632,
+   "divergence": 0.631,
    "category": "international",
    "terms_left": [
     "face",
@@ -1149,28 +1179,6 @@
     "israélienne",
     "sécheresse"
    ]
-  },
-  {
-   "title": "Cisjordanie : Qusra assiégée par les colons",
-   "url": "https://www.humanite.fr/monde/cisjordanie/en-cisjordanie-les-attaques-quotidiennes-de-colons-au-nom-de-la-protection-des-palestiniens",
-   "n_members": 54,
-   "n_sources": 17,
-   "counts": {
-    "left": 7,
-    "centre": 8,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 7,
-    "opinion": 1
-   },
-   "blindspot_score": -0.556,
-   "blindspot_for": null,
-   "divergence": 0.501,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
