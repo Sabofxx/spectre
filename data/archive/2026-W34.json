@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-17T14:00:35+00:00",
+ "generated_at": "2026-08-17T14:27:46+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.156,
+   "divergence": 0.143,
    "category": "politique",
    "terms_left": [
     "ans censurée",
-    "liberté",
-    "expression"
+    "parents",
+    "mandat"
    ],
    "terms_right": [
     "attal",
@@ -37,7 +37,7 @@
   {
    "title": "Guerre en Iran : Donald Trump veut faire du détroit d’Ormuz un «territoire des États-Unis»",
    "url": "https://www.lejdd.fr/International/guerre-en-iran-donald-trump-veut-faire-du-detroit-dormuz-un-territoire-des-etats-unis-181131",
-   "n_members": 499,
+   "n_members": 502,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.212,
+   "divergence": 0.21,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -81,17 +81,17 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.356,
+   "divergence": 0.353,
    "category": "sciences-tech",
    "terms_left": [
     "piratage fisc",
-    "victime",
+    "intrusion",
     "victimes"
    ],
    "terms_right": [
     "données",
     "français",
-    "impôts"
+    "site"
    ]
   },
   {
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.38,
+   "divergence": 0.381,
    "category": "environnement",
    "terms_left": [
     "nouvel",
@@ -127,7 +127,7 @@
   {
    "title": "\"Contribution des retraités aisés\" pour le prochain budget: \"Il y a un débat qui se pose sur l'équité\", affirme Ludovic Mendes, député EPR",
    "url": "https://www.ouest-france.fr/economie/retraites/mode-de-calcul-trimestres-pour-enfant-que-vont-changer-ces-nouveaux-decrets-sur-la-retraite-des-meres-de-famille-e5f79f04-90d2-11f1-9add-57c399f24235",
-   "n_members": 74,
+   "n_members": 75,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.604,
+   "divergence": 0.606,
    "category": "économie",
    "terms_left": [
     "sébastien",
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.257,
+   "divergence": 0.258,
    "category": "international",
    "terms_left": [
     "direct",
@@ -300,8 +300,38 @@
    ],
    "terms_right": [
     "guerre",
-    "armée",
-    "drones"
+    "iran",
+    "trump"
+   ]
+  },
+  {
+   "title": "Canicule : la France va enfin respirer un peu, mais pas partout... À quelles températures s'attendre ce samedi ?",
+   "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
+   "n_members": 140,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 14,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.558,
+   "category": "environnement",
+   "terms_left": [
+    "jours",
+    "prochains jours",
+    "prochains"
+   ],
+   "terms_right": [
+    "météo",
+    "orages",
+    "fin"
    ]
   },
   {
@@ -365,6 +395,36 @@
    ]
   },
   {
+   "title": "Incendies: Sébastien Lecornu promet une aide de \"12 millions d'euros pour les Landes et la Gironde\"",
+   "url": "https://www.valeursactuelles.com/societe/voyage-du-pape-leon-xiv-la-france-se-souviendrait-elle-de-son-bapteme",
+   "n_members": 105,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.626,
+   "category": "politique",
+   "terms_left": [
+    "gouvernement",
+    "chef",
+    "chef gouvernement"
+   ],
+   "terms_right": [
+    "sébastien",
+    "sébastien lecornu",
+    "lecornu"
+   ]
+  },
+  {
    "title": "En pleine sécheresse: une COP contre la désertification à la réussite incertaine",
    "url": "https://www.radiofrance.fr/francebleu/podcasts/le-reportage-ici-breizh-izel/chiffre-d-affaires-zero-a-l-arret-a-cause-de-la-secheresse-les-stations-de-lavage-du-finistere-sont-en-souffrance-5892608",
    "n_members": 60,
@@ -411,12 +471,12 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.525,
+   "divergence": 0.523,
    "category": "international",
    "terms_left": [
-    "défense",
-    "mecque",
-    "pacte"
+    "pakistan",
+    "pacte",
+    "mecque"
    ],
    "terms_right": [
     "donald trump",
@@ -425,33 +485,33 @@
    ]
   },
   {
-   "title": "Incendies: Sébastien Lecornu promet une aide de \"12 millions d'euros pour les Landes et la Gironde\"",
-   "url": "https://www.valeursactuelles.com/societe/voyage-du-pape-leon-xiv-la-france-se-souviendrait-elle-de-son-bapteme",
-   "n_members": 102,
+   "title": "Incendies﻿ : 12 millions d’euros d’aides, délais raccourcis… Le point sur les annonces de Sébastien Lecornu en Gironde",
+   "url": "https://www.sudradio.fr/emission/le-fait-du-jour-638",
+   "n_members": 63,
    "n_sources": 23,
    "counts": {
-    "left": 4,
-    "centre": 12,
+    "left": 6,
+    "centre": 10,
     "right": 7
    },
    "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
+    "factuel": 12,
+    "mixte": 8,
     "opinion": 3
    },
-   "blindspot_score": 0.273,
+   "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.645,
+   "divergence": 0.591,
    "category": "politique",
    "terms_left": [
-    "mégafeu",
-    "gouvernement",
-    "chef"
+    "qu",
+    "gironde",
+    "agriculteurs"
    ],
    "terms_right": [
-    "sébastien",
-    "sébastien lecornu",
-    "lecornu"
+    "reconstruction",
+    "piratage",
+    "budget"
    ]
   },
   {
@@ -599,9 +659,9 @@
     "ice"
    ],
    "terms_right": [
-    "porte-avions",
     "états-unis",
-    "qu"
+    "porte-avions",
+    "électromagnétiques"
    ]
   },
   {
@@ -621,7 +681,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.313,
+   "divergence": 0.281,
    "category": "société",
    "terms_left": [
     "fin",
@@ -662,36 +722,6 @@
     "russe",
     "guerre",
     "incendie"
-   ]
-  },
-  {
-   "title": "Sébastien Lecornu promet des aides aux agriculteurs, la FNSEA demande « des milliards »",
-   "url": "https://www.sudradio.fr/emission/le-fait-du-jour-638",
-   "n_members": 61,
-   "n_sources": 22,
-   "counts": {
-    "left": 5,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.608,
-   "category": "politique",
-   "terms_left": [
-    "qu",
-    "incendies",
-    "agriculteurs"
-   ],
-   "terms_right": [
-    "piratage",
-    "budget",
-    "enquête"
    ]
   },
   {
@@ -779,7 +809,7 @@
   {
    "title": "Présidentielle 2027 : Marine Tondelier dit que les Écologistes sont « prêts à rediscuter avec tout le monde à gauche »",
    "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
-   "n_members": 50,
+   "n_members": 51,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -793,7 +823,7 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.689,
+   "divergence": 0.691,
    "category": "politique",
    "terms_left": [
     "droite",
@@ -809,7 +839,7 @@
   {
    "title": "Une personne portée disparue et plusieurs blessés après une collision entre deux bateaux dans les Alpes-Maritimes",
    "url": "https://www.cnews.fr/monde/2026-08-15/turquie-au-moins-cinq-morts-et-onze-blesses-dans-un-accident-de-minibus-1905167",
-   "n_members": 58,
+   "n_members": 60,
    "n_sources": 19,
    "counts": {
     "left": 2,
@@ -823,7 +853,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.583,
+   "divergence": 0.584,
    "category": "faits-divers",
    "terms_left": [
     "transportait passagers",
@@ -839,7 +869,7 @@
   {
    "title": "L'actrice américaine Hayden Panettiere, icône de la série \"Heroes\", meurt à l'âge de 36 ans",
    "url": "https://www.bfmtv.com/culture/cinema-series/l-actrice-americaine-hayden-panettiere-star-des-series-nashville-et-heroes-est-morte-a-36-ans_AN-202608170047.html",
-   "n_members": 32,
+   "n_members": 33,
    "n_sources": 19,
    "counts": {
     "left": 5,
@@ -853,7 +883,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.356,
+   "divergence": 0.357,
    "category": "culture",
    "terms_left": [
     "série",
@@ -899,7 +929,7 @@
   {
    "title": "Belgique: 3.000 hectares ravagés, l'un des pires incendies de son histoire",
    "url": "https://www.tf1info.fr/environnement-ecologie/graduer-l-impact-ecologique-au-meme-titre-qu-un-tremblement-de-terre-vers-la-creation-d-une-echelle-de-richter-des-incendies-2458275.html",
-   "n_members": 54,
+   "n_members": 55,
    "n_sources": 18,
    "counts": {
     "left": 5,
@@ -1069,17 +1099,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.502,
+   "divergence": 0.438,
    "category": "sport",
    "terms_left": [
     "fin",
-    "française",
-    "fin carrière"
+    "fin carrière",
+    "met"
    ],
    "terms_right": [
     "europe",
-    "marchand",
-    "championnats"
+    "championnats",
+    "championnats europe"
    ]
   },
   {
@@ -1132,36 +1162,6 @@
     "smash europe",
     "malmö",
     "europe"
-   ]
-  },
-  {
-   "title": "+1,66% sur un an : le coût de la vie étudiante augmente encore, selon le syndicat étudiant Unef",
-   "url": "https://www.tf1info.fr/immobilier/logement-etudiant-les-prix-des-loyers-en-colocation-sont-en-baisse-tandis-que-ceux-des-studios-augmentent-selon-une-etude-2458324.html",
-   "n_members": 17,
-   "n_sources": 16,
-   "counts": {
-    "left": 4,
-    "centre": 7,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 5,
-    "opinion": 1
-   },
-   "blindspot_score": 0.111,
-   "blindspot_for": null,
-   "divergence": 0.399,
-   "category": "société",
-   "terms_left": [
-    "transports produits",
-    "euros mois",
-    "mois"
-   ],
-   "terms_right": [
-    "qu",
-    "syndicat",
-    "enquête annuelle"
    ]
   }
  ]
