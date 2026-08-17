@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-17T18:24:32+00:00",
+ "generated_at": "2026-08-17T19:06:58+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -35,6 +35,36 @@
    ]
   },
   {
+   "title": "Piratage du fisc : quels sont les risques pour les contribuables concernés ?",
+   "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
+   "n_members": 135,
+   "n_sources": 34,
+   "counts": {
+    "left": 6,
+    "centre": 17,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 11,
+    "opinion": 5
+   },
+   "blindspot_score": 0.294,
+   "blindspot_for": null,
+   "divergence": 0.353,
+   "category": "sciences-tech",
+   "terms_left": [
+    "piratage fisc",
+    "interministérielle",
+    "cellule interministérielle"
+   ],
+   "terms_right": [
+    "données",
+    "impôts",
+    "système"
+   ]
+  },
+  {
    "title": "Gabriel Attal appelle à un référendum sur l'interdiction des réseaux sociaux aux moins de 15 ans",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-18-20-le-telephone-sonne/le-telephone-sonne-du-mercredi-12-aout-2026-3146782",
    "n_members": 100,
@@ -51,7 +81,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.142,
+   "divergence": 0.143,
    "category": "politique",
    "terms_left": [
     "ans censurée",
@@ -81,7 +111,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.201,
+   "divergence": 0.202,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -92,36 +122,6 @@
     "états-unis",
     "soldats",
     "qu"
-   ]
-  },
-  {
-   "title": "Piratage du fisc : quels sont les risques pour les contribuables concernés ?",
-   "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 133,
-   "n_sources": 33,
-   "counts": {
-    "left": 5,
-    "centre": 17,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 18,
-    "mixte": 10,
-    "opinion": 5
-   },
-   "blindspot_score": 0.375,
-   "blindspot_for": null,
-   "divergence": 0.354,
-   "category": "sciences-tech",
-   "terms_left": [
-    "piratage fisc",
-    "interministérielle",
-    "cellule interministérielle"
-   ],
-   "terms_right": [
-    "données",
-    "impôts",
-    "site"
    ]
   },
   {
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.26,
+   "divergence": 0.261,
    "category": "international",
    "terms_left": [
     "guerre ukraine",
@@ -337,7 +337,7 @@
   {
    "title": "En pleine sécheresse: une COP contre la désertification à la réussite incertaine",
    "url": "https://www.radiofrance.fr/francebleu/podcasts/le-reportage-ici-breizh-izel/chiffre-d-affaires-zero-a-l-arret-a-cause-de-la-secheresse-les-stations-de-lavage-du-finistere-sont-en-souffrance-5892608",
-   "n_members": 63,
+   "n_members": 64,
    "n_sources": 26,
    "counts": {
     "left": 8,
@@ -517,7 +517,7 @@
   {
    "title": "Incendies﻿ : 12 millions d’euros d’aides, délais raccourcis… Le point sur les annonces de Sébastien Lecornu en Gironde",
    "url": "https://www.sudradio.fr/emission/le-fait-du-jour-638",
-   "n_members": 69,
+   "n_members": 70,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -531,7 +531,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.551,
+   "divergence": 0.545,
    "category": "politique",
    "terms_left": [
     "millions",
@@ -547,7 +547,7 @@
   {
    "title": "Incendies: Sébastien Lecornu promet une aide de \"12 millions d'euros pour les Landes et la Gironde\"",
    "url": "https://www.valeursactuelles.com/societe/voyage-du-pape-leon-xiv-la-france-se-souviendrait-elle-de-son-bapteme",
-   "n_members": 114,
+   "n_members": 119,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -566,7 +566,7 @@
    "terms_left": [
     "euros",
     "millions euros",
-    "gouvernement"
+    "millions"
    ],
    "terms_right": [
     "sébastien",
@@ -577,7 +577,7 @@
   {
    "title": "Corée du Sud : Trump réduit la participation américaine aux exercices militaires",
    "url": "https://www.lefigaro.fr/international/guerre-iran-etats-unis-le-pakistan-espere-que-l-accord-sur-ormuz-ouvrira-la-voie-a-une-reprise-du-dialogue-20260806",
-   "n_members": 61,
+   "n_members": 63,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.535,
+   "divergence": 0.548,
    "category": "international",
    "terms_left": [
     "pakistan",
@@ -599,9 +599,9 @@
     "mecque"
    ],
    "terms_right": [
+    "exercices militaires",
     "donald trump",
-    "donald",
-    "exercices militaires"
+    "donald"
    ]
   },
   {
@@ -763,12 +763,12 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.727,
+   "divergence": 0.729,
    "category": "international",
    "terms_left": [
     "gants",
     "etats-unis",
-    "agents"
+    "électriques"
    ],
    "terms_right": [
     "états-unis",
@@ -823,12 +823,12 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.734,
+   "divergence": 0.735,
    "category": "international",
    "terms_left": [
     "défense",
     "turquie",
-    "jong-un"
+    "kim jong-un"
    ],
    "terms_right": [
     "russe",
@@ -891,7 +891,7 @@
   {
    "title": "Vacances : les politiques s'incrustent à la plage",
    "url": "https://www.tf1info.fr/politique/videos/video-en-liberte-macron-le-coup-de-com-de-l-ete-35550-2458219.html",
-   "n_members": 46,
+   "n_members": 47,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -905,7 +905,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.605,
+   "divergence": 0.606,
    "category": "politique",
    "terms_left": [
     "jet-ski",
@@ -1033,7 +1033,7 @@
   {
    "title": "Une personne portée disparue et plusieurs blessés après une collision entre deux bateaux dans les Alpes-Maritimes",
    "url": "https://www.cnews.fr/monde/2026-08-15/turquie-au-moins-cinq-morts-et-onze-blesses-dans-un-accident-de-minibus-1905167",
-   "n_members": 64,
+   "n_members": 65,
    "n_sources": 19,
    "counts": {
     "left": 2,
@@ -1047,12 +1047,12 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.586,
+   "divergence": 0.581,
    "category": "faits-divers",
    "terms_left": [
     "transportait passagers",
-    "passagers",
-    "transportait"
+    "transportait",
+    "passagers"
    ],
    "terms_right": [
     "bus",
