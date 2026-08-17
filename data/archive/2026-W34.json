@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-17T13:15:03+00:00",
+ "generated_at": "2026-08-17T14:00:35+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,23 +21,23 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.177,
+   "divergence": 0.156,
    "category": "politique",
    "terms_left": [
-    "liberté",
     "ans censurée",
+    "liberté",
     "expression"
    ],
    "terms_right": [
     "attal",
-    "constitutionnel censuré",
-    "gabriel attal"
+    "gabriel attal",
+    "gabriel"
    ]
   },
   {
    "title": "Guerre en Iran : Donald Trump veut faire du détroit d’Ormuz un «territoire des États-Unis»",
    "url": "https://www.lejdd.fr/International/guerre-en-iran-donald-trump-veut-faire-du-detroit-dormuz-un-territoire-des-etats-unis-181131",
-   "n_members": 497,
+   "n_members": 499,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -67,7 +67,7 @@
   {
    "title": "Internet. Piratage du fisc : une enquête ouverte, les usagers concernés contactés dans les jours qui viennent",
    "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 120,
+   "n_members": 122,
    "n_sources": 33,
    "counts": {
     "left": 5,
@@ -85,13 +85,13 @@
    "category": "sciences-tech",
    "terms_left": [
     "piratage fisc",
-    "victimes",
-    "intrusion"
+    "victime",
+    "victimes"
    ],
    "terms_right": [
     "données",
-    "impôts",
-    "français"
+    "français",
+    "impôts"
    ]
   },
   {
@@ -246,7 +246,7 @@
   },
   {
    "title": "Canicule : le Var parmi les 6 derniers départements maintenus en vigilance orange ce lundi, jusqu’à 38 °C attendus et des rafales de vent annoncées",
-   "url": "https://www.courrierinternational.com/long-format/vu-d-allemagne-bienvenue-vous-etes-les-temoins-de-la-fin-d-un-monde-l-assourdissant-silence-politique-sur-la-chaleur-en-france_250360",
+   "url": "https://www.leparisien.fr/economie/consommation/la-meteo-plus-puissante-que-le-foot-comment-la-canicule-a-bouleverse-les-habitudes-de-consommation-des-supporters-18-07-2026-FDU2A3VXIVFKXCYJP367CZJR2A.php",
    "n_members": 150,
    "n_sources": 26,
    "counts": {
@@ -277,7 +277,7 @@
   {
    "title": "L’Iran annonce la capture de trois pilotes en mars au Qatar et demande leur libération",
    "url": "https://lcp.fr/actualites/l-ete-d-avant-presidentielle-2001-le-calme-puis-les-tempetes-439665",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -381,7 +381,7 @@
    },
    "blindspot_score": -0.273,
    "blindspot_for": null,
-   "divergence": 0.783,
+   "divergence": 0.782,
    "category": "environnement",
    "terms_left": [
     "désertification",
@@ -397,21 +397,21 @@
   {
    "title": "Donald Trump : \"Une très bonne relation avec Kim Jong-un...\", le président américain annonce réduire \"considérablement\" les exercices militaires avec la Corée du Sud",
    "url": "https://www.lefigaro.fr/international/guerre-iran-etats-unis-le-pakistan-espere-que-l-accord-sur-ormuz-ouvrira-la-voie-a-une-reprise-du-dialogue-20260806",
-   "n_members": 56,
-   "n_sources": 23,
+   "n_members": 59,
+   "n_sources": 24,
    "counts": {
-    "left": 5,
+    "left": 6,
     "centre": 11,
     "right": 7
    },
    "style_counts": {
     "factuel": 13,
-    "mixte": 7,
+    "mixte": 8,
     "opinion": 3
    },
-   "blindspot_score": 0.167,
+   "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.531,
+   "divergence": 0.525,
    "category": "international",
    "terms_left": [
     "défense",
@@ -422,6 +422,36 @@
     "donald trump",
     "donald",
     "trump"
+   ]
+  },
+  {
+   "title": "Incendies: Sébastien Lecornu promet une aide de \"12 millions d'euros pour les Landes et la Gironde\"",
+   "url": "https://www.valeursactuelles.com/societe/voyage-du-pape-leon-xiv-la-france-se-souviendrait-elle-de-son-bapteme",
+   "n_members": 102,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.645,
+   "category": "politique",
+   "terms_left": [
+    "mégafeu",
+    "gouvernement",
+    "chef"
+   ],
+   "terms_right": [
+    "sébastien",
+    "sébastien lecornu",
+    "lecornu"
    ]
   },
   {
@@ -457,7 +487,7 @@
   {
    "title": "EN DIRECT - Championnats d’Europe de natation : Léon Marchand s’offre une première couronne européenne sur 200m papillon",
    "url": "https://www.franceinfo.fr/sports/natation/championnats-d-europe/quand-je-monte-les-escaliers-j-ai-deja-decide-de-plonger-madeleine-bayon-le-depassement-de-soi-et-la-determination-au-service-du-plongeon-de-haut-vol_8134439.html",
-   "n_members": 206,
+   "n_members": 207,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -471,7 +501,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.249,
+   "divergence": 0.247,
    "category": "sport",
    "terms_left": [
     "deuxième",
@@ -481,37 +511,7 @@
    "terms_right": [
     "europe",
     "papillon",
-    "championnats europe"
-   ]
-  },
-  {
-   "title": "Incendies: Sébastien Lecornu promet une aide de \"12 millions d'euros pour les Landes et la Gironde\"",
-   "url": "https://www.valeursactuelles.com/societe/voyage-du-pape-leon-xiv-la-france-se-souviendrait-elle-de-son-bapteme",
-   "n_members": 98,
-   "n_sources": 22,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.705,
-   "category": "politique",
-   "terms_left": [
-    "gouvernement",
-    "mégafeu",
-    "chef"
-   ],
-   "terms_right": [
-    "sébastien",
-    "sébastien lecornu",
-    "lecornu"
+    "finale"
    ]
   },
   {
@@ -607,7 +607,7 @@
   {
    "title": "Aide à mourir, loi Ripost, pesticides... Voici les décisions rendues par le Conseil constitutionnel",
    "url": "https://www.lemonde.fr/societe/article/2026/08/12/fin-de-vie-la-croisade-des-etablissements-de-sante-catholiques-pour-introduire-une-clause-de-conscience-collective_6745063_3224.html",
-   "n_members": 62,
+   "n_members": 63,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -621,7 +621,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.402,
+   "divergence": 0.313,
    "category": "société",
    "terms_left": [
     "fin",
@@ -667,7 +667,7 @@
   {
    "title": "Sébastien Lecornu promet des aides aux agriculteurs, la FNSEA demande « des milliards »",
    "url": "https://www.sudradio.fr/emission/le-fait-du-jour-638",
-   "n_members": 58,
+   "n_members": 61,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -681,12 +681,12 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.609,
+   "divergence": 0.608,
    "category": "politique",
    "terms_left": [
     "qu",
-    "agriculteurs",
-    "lettre"
+    "incendies",
+    "agriculteurs"
    ],
    "terms_right": [
     "piratage",
@@ -809,7 +809,7 @@
   {
    "title": "Une personne portée disparue et plusieurs blessés après une collision entre deux bateaux dans les Alpes-Maritimes",
    "url": "https://www.cnews.fr/monde/2026-08-15/turquie-au-moins-cinq-morts-et-onze-blesses-dans-un-accident-de-minibus-1905167",
-   "n_members": 56,
+   "n_members": 58,
    "n_sources": 19,
    "counts": {
     "left": 2,
@@ -823,7 +823,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.576,
+   "divergence": 0.583,
    "category": "faits-divers",
    "terms_left": [
     "transportait passagers",
@@ -832,14 +832,14 @@
    ],
    "terms_right": [
     "bus",
-    "nuit",
-    "personnes"
+    "personnes",
+    "nuit"
    ]
   },
   {
    "title": "L'actrice américaine Hayden Panettiere, icône de la série \"Heroes\", meurt à l'âge de 36 ans",
    "url": "https://www.bfmtv.com/culture/cinema-series/l-actrice-americaine-hayden-panettiere-star-des-series-nashville-et-heroes-est-morte-a-36-ans_AN-202608170047.html",
-   "n_members": 30,
+   "n_members": 32,
    "n_sources": 19,
    "counts": {
     "left": 5,
@@ -853,7 +853,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.368,
+   "divergence": 0.356,
    "category": "culture",
    "terms_left": [
     "série",
@@ -1033,7 +1033,7 @@
   {
    "title": "Une femme tuée par arme blanche dans le Vaucluse, son fils en garde à vue",
    "url": "https://www.radiofrance.fr/francebleu/podcasts/l-info-d-ici-ici-vaucluse/femme-retrouvee-morte-a-bollene-on-est-bouleverses-temoigne-l-association-qui-suivait-la-victime-1187277",
-   "n_members": 44,
+   "n_members": 45,
    "n_sources": 17,
    "counts": {
     "left": 0,
@@ -1135,33 +1135,33 @@
    ]
   },
   {
-   "title": "Euro de natation : Mary-Ambre Moluh sacrée sur 100 m dos, Pauline Mahieu en bronze",
-   "url": "https://www.sudradio.fr/sport-rugby/sport/euro-dathletisme-duplantis-werro-jacobs-les-stars-a-suivre-a-birmingham",
-   "n_members": 86,
-   "n_sources": 15,
+   "title": "+1,66% sur un an : le coût de la vie étudiante augmente encore, selon le syndicat étudiant Unef",
+   "url": "https://www.tf1info.fr/immobilier/logement-etudiant-les-prix-des-loyers-en-colocation-sont-en-baisse-tandis-que-ceux-des-studios-augmentent-selon-une-etude-2458324.html",
+   "n_members": 17,
+   "n_sources": 16,
    "counts": {
-    "left": 2,
-    "centre": 8,
+    "left": 4,
+    "centre": 7,
     "right": 5
    },
    "style_counts": {
-    "factuel": 9,
+    "factuel": 10,
     "mixte": 5,
     "opinion": 1
    },
-   "blindspot_score": 0.429,
+   "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.325,
-   "category": "sport",
+   "divergence": 0.399,
+   "category": "société",
    "terms_left": [
-    "pied",
-    "chances",
-    "papillon"
+    "transports produits",
+    "euros mois",
+    "mois"
    ],
    "terms_right": [
-    "moluh",
-    "mahieu",
-    "pauline"
+    "qu",
+    "syndicat",
+    "enquête annuelle"
    ]
   }
  ]
