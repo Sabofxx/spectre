@@ -1,13 +1,13 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-17T11:48:38+00:00",
+ "generated_at": "2026-08-17T12:22:56+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Réseaux sociaux : l'interdiction aux moins de 15 ans censurée par le Conseil constitutionnel",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-18-20-le-telephone-sonne/le-telephone-sonne-du-mercredi-12-aout-2026-3146782",
-   "n_members": 97,
+   "n_members": 98,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.189,
+   "divergence": 0.174,
    "category": "politique",
    "terms_left": [
-    "expression communication",
-    "communication",
-    "ans censurée"
+    "ans censurée",
+    "nécessaire",
+    "disposition"
    ],
    "terms_right": [
     "constitutionnel censuré",
@@ -37,7 +37,7 @@
   {
    "title": "Internet. Piratage du fisc : une enquête ouverte, les usagers concernés contactés dans les jours qui viennent",
    "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 115,
+   "n_members": 116,
    "n_sources": 33,
    "counts": {
     "left": 5,
@@ -51,23 +51,23 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.378,
+   "divergence": 0.377,
    "category": "sciences-tech",
    "terms_left": [
     "piratage fisc",
-    "victimes",
-    "cybercriminel"
+    "cybercriminel",
+    "victimes"
    ],
    "terms_right": [
     "données",
     "impôts",
-    "particuliers"
+    "français"
    ]
   },
   {
    "title": "EN DIRECT - Incendie dans les Landes : reprise de feu dans la nuit, 1 580 hectares brûlés",
    "url": "https://www.lefigaro.fr/sciences/canada-l-intense-saison-des-feux-rendue-deux-fois-plus-probable-par-le-changement-climatique-20260806",
-   "n_members": 195,
+   "n_members": 197,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.381,
+   "divergence": 0.383,
    "category": "environnement",
    "terms_left": [
     "nouvel",
@@ -89,9 +89,9 @@
     "direct"
    ],
    "terms_right": [
-    "parcouru",
     "pompiers",
-    "feu"
+    "parcouru",
+    "fixé"
    ]
   },
   {
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.58,
+   "divergence": 0.579,
    "category": "économie",
    "terms_left": [
     "sébastien",
@@ -157,7 +157,7 @@
   {
    "title": "Guerre en Ukraine. Moscou visée par 600 drones pendant la nuit, une attaque d'une rare ampleur",
    "url": "https://www.bfmtv.com/international/afrique/entraines-par-tromperie-un-nombre-alarmant-de-botswanais-forces-de-combattre-pour-la-russie-contre-l-ukraine-selon-le-botswana_AD-202607180258.html",
-   "n_members": 482,
+   "n_members": 479,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.254,
+   "divergence": 0.255,
    "category": "international",
    "terms_left": [
     "russes",
@@ -181,13 +181,13 @@
    "terms_right": [
     "russie",
     "drones",
-    "visée"
+    "ukraine morts"
    ]
   },
   {
    "title": "Séisme en Colombie : un chien sauvé au prix de la vie de sa maîtresse",
    "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260808-colombie-le-nouveau-pr%C3%A9sident-d-extr%C3%AAme-droite-abelardo-de-la-espriella-a-%C3%A9t%C3%A9-investi",
-   "n_members": 189,
+   "n_members": 190,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -277,7 +277,7 @@
   {
    "title": "La République démocratique du Congo connaît l'épidémie d'Ebola la plus meurtrière de l'histoire de son pays",
    "url": "https://www.leparisien.fr/sciences/odeur-sucree-groupe-sanguin-ou-rien-de-cela-pourquoi-les-moustiques-raffolent-de-votre-peau-et-pas-de-celle-du-voisin-03-08-2026-7XIS34AZTNEVJPXNPS2WH45HDQ.php",
-   "n_members": 83,
+   "n_members": 84,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.633,
+   "divergence": 0.592,
    "category": "société",
    "terms_left": [
     "rdc épidémie",
@@ -299,9 +299,9 @@
     "rdc"
    ],
    "terms_right": [
+    "bilan",
     "incendies",
-    "ia",
-    "bilan"
+    "ia"
    ]
   },
   {
@@ -335,9 +335,9 @@
    ]
   },
   {
-   "title": "Sécheresse : le niveau du Rhin perturbe l’approvisionnement en carburant dans l’est de la France",
+   "title": "En pleine sécheresse: une COP contre la désertification à la réussite incertaine",
    "url": "https://www.radiofrance.fr/francebleu/podcasts/le-reportage-ici-breizh-izel/chiffre-d-affaires-zero-a-l-arret-a-cause-de-la-secheresse-les-stations-de-lavage-du-finistere-sont-en-souffrance-5892608",
-   "n_members": 57,
+   "n_members": 59,
    "n_sources": 24,
    "counts": {
     "left": 7,
@@ -351,12 +351,12 @@
    },
    "blindspot_score": -0.273,
    "blindspot_for": null,
-   "divergence": 0.807,
+   "divergence": 0.765,
    "category": "environnement",
    "terms_left": [
-    "pays",
-    "lutte",
-    "raison"
+    "désertification",
+    "mongolie",
+    "cop"
    ],
    "terms_right": [
     "niveau",
@@ -367,7 +367,7 @@
   {
    "title": "Donald Trump : \"Une très bonne relation avec Kim Jong-un...\", le président américain annonce réduire \"considérablement\" les exercices militaires avec la Corée du Sud",
    "url": "https://www.lefigaro.fr/international/guerre-iran-etats-unis-le-pakistan-espere-que-l-accord-sur-ormuz-ouvrira-la-voie-a-une-reprise-du-dialogue-20260806",
-   "n_members": 55,
+   "n_members": 56,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.516,
+   "divergence": 0.531,
    "category": "international",
    "terms_left": [
     "défense",
@@ -643,7 +643,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.605,
+   "divergence": 0.607,
    "category": "politique",
    "terms_left": [
     "qu",
@@ -659,7 +659,7 @@
   {
    "title": "EN DIRECT - Incendies : Sébastien Lecornu en Gironde pour lancer la reconstruction après le mégafeu",
    "url": "https://www.valeursactuelles.com/societe/voyage-du-pape-leon-xiv-la-france-se-souviendrait-elle-de-son-bapteme",
-   "n_members": 71,
+   "n_members": 82,
    "n_sources": 21,
    "counts": {
     "left": 2,
@@ -673,7 +673,7 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.791,
+   "divergence": 0.784,
    "category": "environnement",
    "terms_left": [
     "mégafeu",
@@ -779,7 +779,7 @@
   {
    "title": "Une personne portée disparue et plusieurs blessés après une collision entre deux bateaux dans les Alpes-Maritimes",
    "url": "https://www.cnews.fr/monde/2026-08-15/turquie-au-moins-cinq-morts-et-onze-blesses-dans-un-accident-de-minibus-1905167",
-   "n_members": 47,
+   "n_members": 49,
    "n_sources": 19,
    "counts": {
     "left": 2,
@@ -793,7 +793,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.612,
+   "divergence": 0.617,
    "category": "faits-divers",
    "terms_left": [
     "transportait passagers",
@@ -981,7 +981,7 @@
   {
    "title": "Une femme tuée par arme blanche dans le Vaucluse, son fils en garde à vue",
    "url": "https://www.radiofrance.fr/francebleu/podcasts/l-info-d-ici-ici-vaucluse/femme-retrouvee-morte-a-bollene-on-est-bouleverses-temoigne-l-association-qui-suivait-la-victime-1187277",
-   "n_members": 43,
+   "n_members": 44,
    "n_sources": 17,
    "counts": {
     "left": 0,
@@ -1003,7 +1003,7 @@
   {
    "title": "Natation : en vidéo, les larmes de Florent Manaudou lors de son jubilé",
    "url": "https://www.leparisien.fr/sports/natation/deux-ans-apres-jannonce-la-fin-florent-manaudou-va-prendre-sa-retraite-sportive-13-08-2026-R5MOXHIRIRD2BGKT4NV6YGK6LA.php",
-   "n_members": 41,
+   "n_members": 42,
    "n_sources": 17,
    "counts": {
     "left": 3,
@@ -1017,16 +1017,16 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.49,
+   "divergence": 0.493,
    "category": "sport",
    "terms_left": [
-    "eau",
     "fin",
+    "eau",
     "française"
    ],
    "terms_right": [
     "europe",
-    "manaudou",
+    "marchand",
     "championnats"
    ]
   },
@@ -1135,33 +1135,33 @@
    ]
   },
   {
-   "title": "Le cyclisme en deuil : un coureur de 19 ans meurt percuté par une voiture en pleine étape du Tour du Portugal",
-   "url": "https://www.leprogres.fr/sport/2026/08/14/le-britannique-finlay-tarling-decede-lors-du-tour-du-portugal-percute-par-une-voiture-exterieure-a-la-course",
-   "n_members": 27,
+   "title": "Un « très probable narchomicide » : un homme tué à Bondy en Seine-Saint-Denis près d’un point de deal",
+   "url": "https://www.leparisien.fr/oise-60/un-comportement-de-predateur-un-grand-pere-de-loise-condamne-apres-des-attouchements-sur-ses-petits-fils-de-5-et-7-ans-11-08-2026-52D7FIVGPVAP3ET76UY4UHKCRA.php",
+   "n_members": 35,
    "n_sources": 15,
    "counts": {
-    "left": 2,
-    "centre": 10,
-    "right": 3
+    "left": 3,
+    "centre": 8,
+    "right": 4
    },
    "style_counts": {
-    "factuel": 11,
-    "mixte": 3,
-    "opinion": 1
+    "factuel": 9,
+    "mixte": 4,
+    "opinion": 2
    },
-   "blindspot_score": 0.2,
+   "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.618,
-   "category": "sport",
+   "divergence": 0.973,
+   "category": "faits-divers",
    "terms_left": [
-    "qu",
-    "équipe",
-    "percuté"
+    "tirs",
+    "enfants",
+    "caractère"
    ],
    "terms_right": [
-    "cyclisme",
-    "monde",
-    "sécurité"
+    "homme",
+    "ans",
+    "jeune"
    ]
   }
  ]
