@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-17T19:49:50+00:00",
+ "generated_at": "2026-08-17T20:16:03+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -217,7 +217,7 @@
   {
    "title": "Guerre en Ukraine. Moscou visée par 600 drones pendant la nuit, une attaque d'une rare ampleur",
    "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-les-drones-cyclope-officiellement-homologues-par-kiev-apres-linterception-dun-shahed-dans-la-region-de-koursk-19-07-2026-BPOIA555FFEJTLM5K4HU57PKBQ.php",
-   "n_members": 480,
+   "n_members": 468,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -231,17 +231,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.261,
+   "divergence": 0.262,
    "category": "international",
    "terms_left": [
     "guerre ukraine",
     "direct",
-    "régions"
+    "russes"
    ],
    "terms_right": [
     "russie",
     "ukraine morts",
-    "visée"
+    "drones"
    ]
   },
   {
@@ -425,6 +425,36 @@
    ]
   },
   {
+   "title": "EN DIRECT - Incendies : Sébastien Lecornu en Gironde pour lancer la reconstruction après le mégafeu",
+   "url": "https://www.valeursactuelles.com/societe/voyage-du-pape-leon-xiv-la-france-se-souviendrait-elle-de-son-bapteme",
+   "n_members": 123,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.597,
+   "category": "politique",
+   "terms_left": [
+    "gouvernement",
+    "euros",
+    "millions euros"
+   ],
+   "terms_right": [
+    "sébastien",
+    "sébastien lecornu",
+    "lecornu"
+   ]
+  },
+  {
    "title": "Ebola en RD Congo : l'épidémie devient la plus meurtrière de l'histoire du pays",
    "url": "https://www.leparisien.fr/sciences/odeur-sucree-groupe-sanguin-ou-rien-de-cela-pourquoi-les-moustiques-raffolent-de-votre-peau-et-pas-de-celle-du-voisin-03-08-2026-7XIS34AZTNEVJPXNPS2WH45HDQ.php",
    "n_members": 88,
@@ -545,39 +575,9 @@
    ]
   },
   {
-   "title": "Incendies: Sébastien Lecornu promet une aide de \"12 millions d'euros pour les Landes et la Gironde\"",
-   "url": "https://www.valeursactuelles.com/societe/voyage-du-pape-leon-xiv-la-france-se-souviendrait-elle-de-son-bapteme",
-   "n_members": 122,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.597,
-   "category": "politique",
-   "terms_left": [
-    "euros",
-    "millions euros",
-    "gouvernement"
-   ],
-   "terms_right": [
-    "sébastien",
-    "sébastien lecornu",
-    "lecornu"
-   ]
-  },
-  {
    "title": "Corée du Sud : Trump réduit la participation américaine aux exercices militaires",
    "url": "https://www.lefigaro.fr/international/guerre-iran-etats-unis-le-pakistan-espere-que-l-accord-sur-ormuz-ouvrira-la-voie-a-une-reprise-du-dialogue-20260806",
-   "n_members": 66,
+   "n_members": 69,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.57,
+   "divergence": 0.604,
    "category": "international",
    "terms_left": [
     "pakistan",
@@ -599,9 +599,9 @@
     "turquie"
    ],
    "terms_right": [
-    "exercices militaires",
     "donald trump",
-    "donald"
+    "donald",
+    "exercices militaires"
    ]
   },
   {
@@ -681,7 +681,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.247,
+   "divergence": 0.246,
    "category": "sport",
    "terms_left": [
     "deuxième",
@@ -690,8 +690,8 @@
    ],
    "terms_right": [
     "europe",
-    "papillon",
-    "finale"
+    "championnats europe",
+    "championnats"
    ]
   },
   {
@@ -747,9 +747,9 @@
    "terms_right": []
   },
   {
-   "title": "Aux Etats-Unis, la police de l'immigration bientôt équipée de gants électriques ?",
+   "title": "« Aucun risque technique ou industriel » : après l’annonce de Trump de renoncer aux catapultes modernes, le ministère des Armées se veut rassurant",
    "url": "https://www.lemonde.fr/economie/article/2026/08/11/la-maison-mere-de-truth-social-le-reseau-de-donald-trump-affiche-240-millions-de-dollars-de-pertes-au-deuxieme-trimestre_6743610_3234.html",
-   "n_members": 68,
+   "n_members": 69,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -839,7 +839,7 @@
   {
    "title": "Présidentielle 2027 : Marine Tondelier dit que les Écologistes sont « prêts à rediscuter avec tout le monde à gauche »",
    "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
-   "n_members": 56,
+   "n_members": 57,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -853,7 +853,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.677,
+   "divergence": 0.682,
    "category": "politique",
    "terms_left": [
     "droite",
@@ -862,7 +862,7 @@
    ],
    "terms_right": [
     "ciotti",
-    "marine",
+    "mélenchon",
     "retraites"
    ]
   },
@@ -891,7 +891,7 @@
   {
    "title": "Vacances : les politiques s'incrustent à la plage",
    "url": "https://www.tf1info.fr/politique/videos/video-en-liberte-macron-le-coup-de-com-de-l-ete-35550-2458219.html",
-   "n_members": 48,
+   "n_members": 49,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -1167,7 +1167,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.619,
+   "divergence": 0.618,
    "category": "international",
    "terms_left": [
     "face",
