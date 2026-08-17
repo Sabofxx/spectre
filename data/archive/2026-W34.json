@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-17T21:17:42+00:00",
+ "generated_at": "2026-08-17T21:48:34+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -120,8 +120,8 @@
    ],
    "terms_right": [
     "états-unis",
-    "soldats",
-    "ormuz"
+    "ormuz",
+    "détroit ormuz"
    ]
   },
   {
@@ -231,17 +231,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.262,
+   "divergence": 0.263,
    "category": "international",
    "terms_left": [
     "guerre ukraine",
     "direct",
-    "russes"
+    "guerre"
    ],
    "terms_right": [
     "russie",
     "ukraine morts",
-    "drones"
+    "visée"
    ]
   },
   {
@@ -302,6 +302,36 @@
     "canicule",
     "vague chaleur",
     "nouvelle"
+   ]
+  },
+  {
+   "title": "Incendies: Sébastien Lecornu promet une aide de \"12 millions d'euros pour les Landes et la Gironde\"",
+   "url": "https://www.valeursactuelles.com/societe/voyage-du-pape-leon-xiv-la-france-se-souviendrait-elle-de-son-bapteme",
+   "n_members": 125,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.595,
+   "category": "politique",
+   "terms_left": [
+    "gouvernement",
+    "euros",
+    "millions euros"
+   ],
+   "terms_right": [
+    "sébastien",
+    "sébastien lecornu",
+    "lecornu"
    ]
   },
   {
@@ -422,36 +452,6 @@
     "météo",
     "orages",
     "nouvelle"
-   ]
-  },
-  {
-   "title": "Incendies: Sébastien Lecornu promet une aide de \"12 millions d'euros pour les Landes et la Gironde\"",
-   "url": "https://www.valeursactuelles.com/societe/voyage-du-pape-leon-xiv-la-france-se-souviendrait-elle-de-son-bapteme",
-   "n_members": 124,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.595,
-   "category": "politique",
-   "terms_left": [
-    "gouvernement",
-    "euros",
-    "millions euros"
-   ],
-   "terms_right": [
-    "sébastien",
-    "sébastien lecornu",
-    "lecornu"
    ]
   },
   {
@@ -1107,7 +1107,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.389,
+   "divergence": 0.406,
    "category": "international",
    "terms_left": [
     "noir cambridge",
