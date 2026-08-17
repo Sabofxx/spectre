@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-17T14:27:46+00:00",
+ "generated_at": "2026-08-17T14:54:49+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.143,
+   "divergence": 0.139,
    "category": "politique",
    "terms_left": [
     "ans censurée",
-    "parents",
-    "mandat"
+    "sociaux mineurs",
+    "parents"
    ],
    "terms_right": [
     "attal",
@@ -37,7 +37,7 @@
   {
    "title": "Guerre en Iran : Donald Trump veut faire du détroit d’Ormuz un «territoire des États-Unis»",
    "url": "https://www.lejdd.fr/International/guerre-en-iran-donald-trump-veut-faire-du-detroit-dormuz-un-territoire-des-etats-unis-181131",
-   "n_members": 502,
+   "n_members": 503,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.21,
+   "divergence": 0.209,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -67,7 +67,7 @@
   {
    "title": "Internet. Piratage du fisc : une enquête ouverte, les usagers concernés contactés dans les jours qui viennent",
    "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 122,
+   "n_members": 123,
    "n_sources": 33,
    "counts": {
     "left": 5,
@@ -127,7 +127,7 @@
   {
    "title": "\"Contribution des retraités aisés\" pour le prochain budget: \"Il y a un débat qui se pose sur l'équité\", affirme Ludovic Mendes, député EPR",
    "url": "https://www.ouest-france.fr/economie/retraites/mode-de-calcul-trimestres-pour-enfant-que-vont-changer-ces-nouveaux-decrets-sur-la-retraite-des-meres-de-famille-e5f79f04-90d2-11f1-9add-57c399f24235",
-   "n_members": 75,
+   "n_members": 76,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -141,12 +141,12 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.606,
+   "divergence": 0.6,
    "category": "économie",
    "terms_left": [
     "sébastien",
     "sébastien lecornu",
-    "familiales"
+    "pistes"
    ],
    "terms_right": [
     "retraités",
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.558,
+   "divergence": 0.557,
    "category": "environnement",
    "terms_left": [
     "jours",
@@ -362,6 +362,36 @@
     "bilan",
     "incendies",
     "ia"
+   ]
+  },
+  {
+   "title": "EN DIRECT, guerre en Ukraine : sept des dix principaux centres logistiques du géant de l’e-commerce russe Wildberries mis hors de service, selon Kiev",
+   "url": "https://www.tf1info.fr/international/la-coree-du-nord-et-la-russie-sur-le-point-d-achever-la-construction-d-un-pont-pouvant-faciliter-la-logistique-dans-la-guerre-en-ukraine-2455563.html",
+   "n_members": 81,
+   "n_sources": 25,
+   "counts": {
+    "left": 3,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.455,
+   "blindspot_for": null,
+   "divergence": 0.667,
+   "category": "international",
+   "terms_left": [
+    "guerre ukraine",
+    "kiev",
+    "direct"
+   ],
+   "terms_right": [
+    "iran",
+    "drones",
+    "drones ukrainiens"
    ]
   },
   {
@@ -425,6 +455,36 @@
    ]
   },
   {
+   "title": "Corée du Sud : Trump réduit la participation américaine aux exercices militaires",
+   "url": "https://www.lefigaro.fr/international/guerre-iran-etats-unis-le-pakistan-espere-que-l-accord-sur-ormuz-ouvrira-la-voie-a-une-reprise-du-dialogue-20260806",
+   "n_members": 60,
+   "n_sources": 24,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.523,
+   "category": "international",
+   "terms_left": [
+    "pakistan",
+    "pacte",
+    "mecque"
+   ],
+   "terms_right": [
+    "donald trump",
+    "donald",
+    "trump"
+   ]
+  },
+  {
    "title": "En pleine sécheresse: une COP contre la désertification à la réussite incertaine",
    "url": "https://www.radiofrance.fr/francebleu/podcasts/le-reportage-ici-breizh-izel/chiffre-d-affaires-zero-a-l-arret-a-cause-de-la-secheresse-les-stations-de-lavage-du-finistere-sont-en-souffrance-5892608",
    "n_members": 60,
@@ -452,36 +512,6 @@
     "niveau",
     "rhin",
     "niveau rhin"
-   ]
-  },
-  {
-   "title": "Donald Trump : \"Une très bonne relation avec Kim Jong-un...\", le président américain annonce réduire \"considérablement\" les exercices militaires avec la Corée du Sud",
-   "url": "https://www.lefigaro.fr/international/guerre-iran-etats-unis-le-pakistan-espere-que-l-accord-sur-ormuz-ouvrira-la-voie-a-une-reprise-du-dialogue-20260806",
-   "n_members": 59,
-   "n_sources": 24,
-   "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.523,
-   "category": "international",
-   "terms_left": [
-    "pakistan",
-    "pacte",
-    "mecque"
-   ],
-   "terms_right": [
-    "donald trump",
-    "donald",
-    "trump"
    ]
   },
   {
@@ -531,7 +561,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.267,
+   "divergence": 0.266,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -623,16 +653,8 @@
    "blindspot_for": null,
    "divergence": 0.685,
    "category": "international",
-   "terms_left": [
-    "milliers",
-    "personnes évacuées",
-    "évacuées"
-   ],
-   "terms_right": [
-    "grèce",
-    "pompiers",
-    "morts"
-   ]
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Aux Etats-Unis, la police de l'immigration bientôt équipée de gants électriques ?",
@@ -681,7 +703,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.281,
+   "divergence": 0.278,
    "category": "société",
    "terms_left": [
     "fin",
@@ -747,6 +769,36 @@
    "terms_right": []
   },
   {
+   "title": "Présidentielle 2027 : Marine Tondelier propose des « rencontres bilatérales » avec tous les partis de gauche",
+   "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
+   "n_members": 52,
+   "n_sources": 21,
+   "counts": {
+    "left": 3,
+    "centre": 10,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 4,
+    "opinion": 5
+   },
+   "blindspot_score": 0.455,
+   "blindspot_for": null,
+   "divergence": 0.691,
+   "category": "politique",
+   "terms_left": [
+    "droite",
+    "extrême",
+    "extrême droite"
+   ],
+   "terms_right": [
+    "ciotti",
+    "mélenchon",
+    "retraites"
+   ]
+  },
+  {
    "title": "«Noir et LFI, c’est trop» : Jean-Luc Mélenchon dénonce le «racisme systémique» dont font l’objet Bally Bagayoko et Aly Diouara",
    "url": "https://www.valeursactuelles.com/politique/fruit-dun-deal-avec-le-pc-le-maire-lfi-de-saint-denis-bally-bagayoko-aurait-ete-recrute-a-la-ratp-sans-concours-ni-entretien-pour-6-000-euros-par-mois",
    "n_members": 70,
@@ -807,36 +859,6 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : Marine Tondelier dit que les Écologistes sont « prêts à rediscuter avec tout le monde à gauche »",
-   "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
-   "n_members": 51,
-   "n_sources": 20,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 4,
-    "opinion": 5
-   },
-   "blindspot_score": 0.455,
-   "blindspot_for": null,
-   "divergence": 0.691,
-   "category": "politique",
-   "terms_left": [
-    "droite",
-    "extrême",
-    "extrême droite"
-   ],
-   "terms_right": [
-    "ciotti",
-    "mélenchon",
-    "retraites"
-   ]
-  },
-  {
    "title": "Une personne portée disparue et plusieurs blessés après une collision entre deux bateaux dans les Alpes-Maritimes",
    "url": "https://www.cnews.fr/monde/2026-08-15/turquie-au-moins-cinq-morts-et-onze-blesses-dans-un-accident-de-minibus-1905167",
    "n_members": 60,
@@ -869,7 +891,7 @@
   {
    "title": "L'actrice américaine Hayden Panettiere, icône de la série \"Heroes\", meurt à l'âge de 36 ans",
    "url": "https://www.bfmtv.com/culture/cinema-series/l-actrice-americaine-hayden-panettiere-star-des-series-nashville-et-heroes-est-morte-a-36-ans_AN-202608170047.html",
-   "n_members": 33,
+   "n_members": 34,
    "n_sources": 19,
    "counts": {
     "left": 5,
@@ -883,7 +905,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.357,
+   "divergence": 0.358,
    "category": "culture",
    "terms_left": [
     "série",
@@ -929,7 +951,7 @@
   {
    "title": "Belgique: 3.000 hectares ravagés, l'un des pires incendies de son histoire",
    "url": "https://www.tf1info.fr/environnement-ecologie/graduer-l-impact-ecologique-au-meme-titre-qu-un-tremblement-de-terre-vers-la-creation-d-une-echelle-de-richter-des-incendies-2458275.html",
-   "n_members": 55,
+   "n_members": 56,
    "n_sources": 18,
    "counts": {
     "left": 5,
@@ -943,7 +965,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.625,
+   "divergence": 0.628,
    "category": "international",
    "terms_left": [
     "face",
@@ -1063,7 +1085,7 @@
   {
    "title": "Une femme tuée par arme blanche dans le Vaucluse, son fils en garde à vue",
    "url": "https://www.radiofrance.fr/francebleu/podcasts/l-info-d-ici-ici-vaucluse/femme-retrouvee-morte-a-bollene-on-est-bouleverses-temoigne-l-association-qui-suivait-la-victime-1187277",
-   "n_members": 45,
+   "n_members": 46,
    "n_sources": 17,
    "counts": {
     "left": 0,
@@ -1115,7 +1137,7 @@
   {
    "title": "Que va faire l'astronaute Sophie Adenot lors de sa sortie historique dans l'espace, le 18 août prochain ?",
    "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 27,
+   "n_members": 29,
    "n_sources": 17,
    "counts": {
     "left": 2,
@@ -1133,36 +1155,6 @@
    "category": "sciences-tech",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Tennis de table : immense Félix Lebrun, qui remporte le WTT Europe Smash et devient le premier Français à remporter un Grand Smash en simple",
-   "url": "https://www.ouest-france.fr/sport/tennis-de-table/alexis-lebrun/wtt-europe-smash-alexis-lebrun-expeditif-contre-izaac-quek-pour-ses-debuts-en-simple-a-malmoe-30d19178-95bb-11f1-9ee8-a50506a5291a",
-   "n_members": 46,
-   "n_sources": 16,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.446,
-   "category": "sport",
-   "terms_left": [
-    "devient",
-    "tournoi",
-    "remporter"
-   ],
-   "terms_right": [
-    "smash europe",
-    "malmö",
-    "europe"
-   ]
   }
  ]
 }
