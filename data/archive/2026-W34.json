@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-17T15:18:38+00:00",
+ "generated_at": "2026-08-17T15:49:17+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,23 +21,23 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.136,
+   "divergence": 0.138,
    "category": "politique",
    "terms_left": [
     "ans censurée",
-    "parents",
-    "sociaux mineurs"
+    "sociaux mineurs",
+    "parents"
    ],
    "terms_right": [
-    "attal",
-    "ministre",
-    "français"
+    "atteinte",
+    "français",
+    "ministre"
    ]
   },
   {
    "title": "Guerre en Iran : Donald Trump veut faire du détroit d’Ormuz un «territoire des États-Unis»",
    "url": "https://www.lejdd.fr/International/guerre-en-iran-donald-trump-veut-faire-du-detroit-dormuz-un-territoire-des-etats-unis-181131",
-   "n_members": 505,
+   "n_members": 504,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.208,
+   "divergence": 0.209,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.353,
+   "divergence": 0.355,
    "category": "sciences-tech",
    "terms_left": [
     "piratage fisc",
@@ -111,17 +111,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.378,
+   "divergence": 0.379,
    "category": "environnement",
    "terms_left": [
     "nouvel",
     "direct",
-    "nouvel incendie"
+    "direct incendies"
    ],
    "terms_right": [
     "pompiers",
     "parcouru",
-    "habitants"
+    "feu"
    ]
   },
   {
@@ -201,17 +201,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.261,
+   "divergence": 0.26,
    "category": "international",
    "terms_left": [
-    "guerre ukraine",
     "direct",
+    "guerre ukraine",
     "russes"
    ],
    "terms_right": [
     "russie",
-    "drones",
-    "ukraine morts"
+    "ukraine morts",
+    "visée"
    ]
   },
   {
@@ -246,7 +246,7 @@
   },
   {
    "title": "Canicule : le Var parmi les 6 derniers départements maintenus en vigilance orange ce lundi, jusqu’à 38 °C attendus et des rafales de vent annoncées",
-   "url": "https://www.leparisien.fr/economie/consommation/la-meteo-plus-puissante-que-le-foot-comment-la-canicule-a-bouleverse-les-habitudes-de-consommation-des-supporters-18-07-2026-FDU2A3VXIVFKXCYJP367CZJR2A.php",
+   "url": "https://www.cnews.fr/sante/2026-07-19/voici-les-7-risques-meconnus-de-la-canicule-qui-fragilisent-la-sante-des-plus-de",
    "n_members": 150,
    "n_sources": 26,
    "counts": {
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.71,
+   "divergence": 0.711,
    "category": "environnement",
    "terms_left": [
     "année",
@@ -272,6 +272,36 @@
     "canicule",
     "vague chaleur",
     "nouvelle"
+   ]
+  },
+  {
+   "title": "Manque de moyens chez les pompiers : «20 ans que les revendications sont les mêmes», dénonce Xavier Boyet",
+   "url": "https://www.nicematin.com/societe/transports/une-alerte-publique-et-formelle-un-syndicat-menace-lignes-d-azur-d-une-troisieme-greve-10700836",
+   "n_members": 97,
+   "n_sources": 26,
+   "counts": {
+    "left": 7,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.507,
+   "category": "société",
+   "terms_left": [
+    "france",
+    "easyjet",
+    "face"
+   ],
+   "terms_right": [
+    "moyens",
+    "sapeurs-pompiers",
+    "intersyndicale"
    ]
   },
   {
@@ -321,7 +351,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.557,
+   "divergence": 0.559,
    "category": "environnement",
    "terms_left": [
     "jours",
@@ -367,7 +397,7 @@
   {
    "title": "EN DIRECT, guerre en Ukraine : sept des dix principaux centres logistiques du géant de l’e-commerce russe Wildberries mis hors de service, selon Kiev",
    "url": "https://www.tf1info.fr/international/la-coree-du-nord-et-la-russie-sur-le-point-d-achever-la-construction-d-un-pont-pouvant-faciliter-la-logistique-dans-la-guerre-en-ukraine-2455563.html",
-   "n_members": 81,
+   "n_members": 82,
    "n_sources": 25,
    "counts": {
     "left": 3,
@@ -425,9 +455,39 @@
    ]
   },
   {
+   "title": "En pleine sécheresse: une COP contre la désertification à la réussite incertaine",
+   "url": "https://www.radiofrance.fr/francebleu/podcasts/le-reportage-ici-breizh-izel/chiffre-d-affaires-zero-a-l-arret-a-cause-de-la-secheresse-les-stations-de-lavage-du-finistere-sont-en-souffrance-5892608",
+   "n_members": 62,
+   "n_sources": 25,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": -0.273,
+   "blindspot_for": null,
+   "divergence": 0.789,
+   "category": "environnement",
+   "terms_left": [
+    "désertification",
+    "mongolie",
+    "cop"
+   ],
+   "terms_right": [
+    "niveau",
+    "rhin",
+    "eau"
+   ]
+  },
+  {
    "title": "Incendies: Sébastien Lecornu promet une aide de \"12 millions d'euros pour les Landes et la Gironde\"",
    "url": "https://www.valeursactuelles.com/societe/voyage-du-pape-leon-xiv-la-france-se-souviendrait-elle-de-son-bapteme",
-   "n_members": 106,
+   "n_members": 107,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -441,7 +501,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.605,
+   "divergence": 0.603,
    "category": "politique",
    "terms_left": [
     "gouvernement",
@@ -451,7 +511,7 @@
    "terms_right": [
     "sébastien",
     "sébastien lecornu",
-    "lecornu"
+    "feu"
    ]
   },
   {
@@ -515,36 +575,6 @@
    ]
   },
   {
-   "title": "En pleine sécheresse: une COP contre la désertification à la réussite incertaine",
-   "url": "https://www.radiofrance.fr/francebleu/podcasts/le-reportage-ici-breizh-izel/chiffre-d-affaires-zero-a-l-arret-a-cause-de-la-secheresse-les-stations-de-lavage-du-finistere-sont-en-souffrance-5892608",
-   "n_members": 60,
-   "n_sources": 24,
-   "counts": {
-    "left": 7,
-    "centre": 13,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": -0.273,
-   "blindspot_for": null,
-   "divergence": 0.786,
-   "category": "environnement",
-   "terms_left": [
-    "désertification",
-    "mongolie",
-    "cop"
-   ],
-   "terms_right": [
-    "niveau",
-    "rhin",
-    "eau"
-   ]
-  },
-  {
    "title": "Canicule : six départements du sud-est de la France restent en vigilance orange ce lundi",
    "url": "https://www.ladepeche.fr/2026/08/13/direct-canicule-80-departements-en-vigilance-orange-jusqua-40-c-attendus-ce-jeudi-dans-plusieurs-regions-13507182.php",
    "n_members": 464,
@@ -561,11 +591,11 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.265,
+   "divergence": 0.266,
    "category": "environnement",
    "terms_left": [
-    "direct",
     "direct incendies",
+    "direct",
     "incendies"
    ],
    "terms_right": [
@@ -577,7 +607,7 @@
   {
    "title": "EN DIRECT - Championnats d’Europe de natation : Léon Marchand s’offre une première couronne européenne sur 200m papillon",
    "url": "https://www.franceinfo.fr/sports/natation/championnats-d-europe/quand-je-monte-les-escaliers-j-ai-deja-decide-de-plonger-madeleine-bayon-le-depassement-de-soi-et-la-determination-au-service-du-plongeon-de-haut-vol_8134439.html",
-   "n_members": 207,
+   "n_members": 208,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -673,12 +703,12 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.721,
+   "divergence": 0.72,
    "category": "international",
    "terms_left": [
     "gants",
     "etats-unis",
-    "nouvelle"
+    "ice"
    ],
    "terms_right": [
     "états-unis",
@@ -771,7 +801,7 @@
   {
    "title": "Présidentielle 2027 : Marine Tondelier propose des « rencontres bilatérales » avec tous les partis de gauche",
    "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
-   "n_members": 52,
+   "n_members": 53,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -785,7 +815,7 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.686,
+   "divergence": 0.685,
    "category": "politique",
    "terms_left": [
     "droite",
@@ -845,7 +875,7 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.653,
+   "divergence": 0.654,
    "category": "politique",
    "terms_left": [
     "rennes",
@@ -856,6 +886,36 @@
     "vidéo",
     "nuñez",
     "laurent"
+   ]
+  },
+  {
+   "title": "En mer depuis plus de 200 jours, les soldats à bord du porte-avions USS Lincoln n'en peuvent plus",
+   "url": "https://www.lefigaro.fr/international/des-elus-americains-s-inquietent-des-conditions-de-vie-a-bord-du-porte-avions-lincoln-20260813",
+   "n_members": 38,
+   "n_sources": 20,
+   "counts": {
+    "left": 4,
+    "centre": 10,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 7,
+    "opinion": 1
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.553,
+   "category": "international",
+   "terms_left": [
+    "trump",
+    "américain",
+    "mois"
+   ],
+   "terms_right": [
+    "lincoln",
+    "bord",
+    "conditions"
    ]
   },
   {
@@ -891,7 +951,7 @@
   {
    "title": "L'actrice américaine Hayden Panettiere, icône de la série \"Heroes\", meurt à l'âge de 36 ans",
    "url": "https://www.bfmtv.com/culture/cinema-series/l-actrice-americaine-hayden-panettiere-star-des-series-nashville-et-heroes-est-morte-a-36-ans_AN-202608170047.html",
-   "n_members": 34,
+   "n_members": 35,
    "n_sources": 19,
    "counts": {
     "left": 5,
@@ -905,17 +965,47 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.358,
+   "divergence": 0.355,
    "category": "culture",
    "terms_left": [
-    "série",
-    "série heroes",
-    "scream"
+    "scream",
+    "panettiere morte",
+    "série"
    ],
    "terms_right": [
     "actrice américaine",
     "américaine",
     "séries"
+   ]
+  },
+  {
+   "title": "Cambridge : l'ancien professeur Jason Arday retrouvé mort après un scandale de plagiat",
+   "url": "https://www.lefigaro.fr/international/accuse-de-plagiat-l-ancien-professeur-de-cambridge-jason-arday-retrouve-mort-quelques-jours-apres-sa-demission-20260814",
+   "n_members": 30,
+   "n_sources": 19,
+   "counts": {
+    "left": 3,
+    "centre": 11,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 4,
+    "opinion": 2
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.396,
+   "category": "international",
+   "terms_left": [
+    "qu",
+    "proches",
+    "cambridge retrouvé"
+   ],
+   "terms_right": [
+    "professeur cambridge",
+    "ancien professeur",
+    "accusé"
    ]
   },
   {
@@ -979,36 +1069,6 @@
    ]
   },
   {
-   "title": "Cambridge : l'ancien professeur Jason Arday retrouvé mort après un scandale de plagiat",
-   "url": "https://www.lefigaro.fr/international/accuse-de-plagiat-l-ancien-professeur-de-cambridge-jason-arday-retrouve-mort-quelques-jours-apres-sa-demission-20260814",
-   "n_members": 28,
-   "n_sources": 18,
-   "counts": {
-    "left": 3,
-    "centre": 10,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 4,
-    "opinion": 2
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.386,
-   "category": "international",
-   "terms_left": [
-    "proches",
-    "cambridge retrouvé",
-    "harcèlement"
-   ],
-   "terms_right": [
-    "professeur cambridge",
-    "ancien professeur",
-    "accusé"
-   ]
-  },
-  {
    "title": "Orages dans le sud-ouest : le clocher d'une église en feu après avoir été frappé par la foudre en Aveyron",
    "url": "https://www.bfmtv.com/police-justice/trois-personnes-gravement-blessees-par-arme-a-feu-a-besancon-pas-de-suspect-arrete-a-ce-stade_AD-202608130156.html",
    "n_members": 59,
@@ -1047,7 +1107,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.794,
+   "divergence": 0.793,
    "category": "international",
    "terms_left": [
     "pays",
@@ -1085,7 +1145,7 @@
   {
    "title": "Une femme tuée par arme blanche dans le Vaucluse, son fils en garde à vue",
    "url": "https://www.radiofrance.fr/francebleu/podcasts/l-info-d-ici-ici-vaucluse/femme-retrouvee-morte-a-bollene-on-est-bouleverses-temoigne-l-association-qui-suivait-la-victime-1187277",
-   "n_members": 46,
+   "n_members": 47,
    "n_sources": 17,
    "counts": {
     "left": 0,
@@ -1101,58 +1161,6 @@
    "blindspot_for": "gauche",
    "divergence": null,
    "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Natation : en vidéo, les larmes de Florent Manaudou lors de son jubilé",
-   "url": "https://www.leparisien.fr/sports/natation/deux-ans-apres-jannonce-la-fin-florent-manaudou-va-prendre-sa-retraite-sportive-13-08-2026-R5MOXHIRIRD2BGKT4NV6YGK6LA.php",
-   "n_members": 43,
-   "n_sources": 17,
-   "counts": {
-    "left": 3,
-    "centre": 8,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.438,
-   "category": "sport",
-   "terms_left": [
-    "fin",
-    "fin carrière",
-    "français"
-   ],
-   "terms_right": [
-    "europe",
-    "championnats",
-    "marchand"
-   ]
-  },
-  {
-   "title": "Sortie extravéhiculaire de Sophie Adenot : comment suivre la mission dans l'espace de la Française ?",
-   "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 31,
-   "n_sources": 17,
-   "counts": {
-    "left": 2,
-    "centre": 10,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 3,
-    "opinion": 2
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "sciences-tech",
    "terms_left": [],
    "terms_right": []
   }
