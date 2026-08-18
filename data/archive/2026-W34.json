@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-18T10:54:19+00:00",
+ "generated_at": "2026-08-18T11:17:15+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.203,
+   "divergence": 0.202,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.373,
+   "divergence": 0.371,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -150,8 +150,8 @@
    ],
    "terms_right": [
     "feu",
-    "pompiers",
-    "fixé"
+    "fixé",
+    "situation"
    ]
   },
   {
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.634,
+   "divergence": 0.639,
    "category": "international",
    "terms_left": [
     "monde",
@@ -210,8 +210,8 @@
    ],
    "terms_right": [
     "afghanistan",
-    "kaboul",
-    "sécurité"
+    "ans",
+    "tête"
    ]
   },
   {
@@ -277,7 +277,7 @@
   {
    "title": "Sophie Adenot va devenir la première Française à sortir dans l’espace",
    "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 68,
+   "n_members": 72,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -291,12 +291,12 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.25,
+   "divergence": 0.251,
    "category": "sciences-tech",
    "terms_left": [
     "sortir espace",
-    "espace astronaute",
-    "adenot devenir"
+    "adenot devenir",
+    "française sortir"
    ],
    "terms_right": [
     "sortie",
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.509,
+   "divergence": 0.508,
    "category": "société",
    "terms_left": [
     "france",
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.703,
+   "divergence": 0.7,
    "category": "environnement",
    "terms_left": [
     "année",
@@ -575,6 +575,36 @@
    ]
   },
   {
+   "title": "Trump veut réduire fortement les exercices militaires avec la Corée du Sud",
+   "url": "https://www.lefigaro.fr/international/guerre-iran-etats-unis-le-pakistan-espere-que-l-accord-sur-ormuz-ouvrira-la-voie-a-une-reprise-du-dialogue-20260806",
+   "n_members": 79,
+   "n_sources": 25,
+   "counts": {
+    "left": 7,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.564,
+   "category": "international",
+   "terms_left": [
+    "défense",
+    "pakistan",
+    "pacte"
+   ],
+   "terms_right": [
+    "trump",
+    "donald trump",
+    "donald"
+   ]
+  },
+  {
    "title": "Belgique, Espagne, Allemagne, Balkans, Grèce : le point sur les incendies en Europe",
    "url": "https://www.bfmtv.com/sante/video-canicule-on-est-pret-mais-on-est-dans-une-situation-tendue-explique-nicolas-gonzales-chef-du-service-des-urgences-a-l-hopital-de-saclay_VN-202608080087.html",
    "n_members": 77,
@@ -602,36 +632,6 @@
     "pays",
     "feux",
     "situation"
-   ]
-  },
-  {
-   "title": "Trump veut réduire fortement les exercices militaires avec la Corée du Sud",
-   "url": "https://www.lefigaro.fr/international/guerre-iran-etats-unis-le-pakistan-espere-que-l-accord-sur-ormuz-ouvrira-la-voie-a-une-reprise-du-dialogue-20260806",
-   "n_members": 78,
-   "n_sources": 24,
-   "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.596,
-   "category": "international",
-   "terms_left": [
-    "défense",
-    "pakistan",
-    "pacte"
-   ],
-   "terms_right": [
-    "exercices militaires",
-    "donald trump",
-    "donald"
    ]
   },
   {
@@ -695,6 +695,36 @@
    ]
   },
   {
+   "title": "Présidentielle 2027 : Marine Tondelier propose des « rencontres bilatérales » avec tous les partis de gauche",
+   "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
+   "n_members": 62,
+   "n_sources": 23,
+   "counts": {
+    "left": 5,
+    "centre": 10,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 6,
+    "opinion": 5
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.674,
+   "category": "politique",
+   "terms_left": [
+    "extrême",
+    "extrême droite",
+    "gauche"
+   ],
+   "terms_right": [
+    "ciotti",
+    "mélenchon",
+    "marine"
+   ]
+  },
+  {
    "title": "Le faux plombier lui dérobe 113 000 euros",
    "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20260809-apr%C3%A8s-le-double-s%C3%A9isme-de-juin-au-venezuela-la-n%C3%A9cessaire-aide-psychologique",
    "n_members": 58,
@@ -741,7 +771,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.62,
+   "divergence": 0.611,
    "category": "politique",
    "terms_left": [
     "jet-ski",
@@ -749,9 +779,9 @@
     "match"
    ],
    "terms_right": [
-    "politique",
     "français",
-    "pompiers"
+    "pompiers",
+    "var"
    ]
   },
   {
@@ -918,42 +948,12 @@
    "terms_left": [
     "défense",
     "turquie",
-    "kim jong-un"
+    "jong-un"
    ],
    "terms_right": [
     "russe",
     "incendie",
     "mort"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : Marine Tondelier dit que les Écologistes sont « prêts à rediscuter avec tout le monde à gauche »",
-   "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
-   "n_members": 61,
-   "n_sources": 22,
-   "counts": {
-    "left": 4,
-    "centre": 10,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 5,
-    "opinion": 5
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.667,
-   "category": "politique",
-   "terms_left": [
-    "extrême",
-    "extrême droite",
-    "droite"
-   ],
-   "terms_right": [
-    "ciotti",
-    "mélenchon",
-    "marine"
    ]
   },
   {
@@ -1011,7 +1011,7 @@
   {
    "title": "L’allocation de rentrée scolaire versée ce mardi à 3 millions de familles",
    "url": "https://www.franceinfo.fr/culture/livres/la-rentree-litteraire/rentree-litteraire-2026-quelque-461-romans-pour-une-reprise-resolument-variee_8146112.html",
-   "n_members": 37,
+   "n_members": 38,
    "n_sources": 22,
    "counts": {
     "left": 6,
@@ -1025,12 +1025,12 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.555,
+   "divergence": 0.548,
    "category": "économie",
    "terms_left": [
     "modestes",
-    "versée millions",
-    "qu"
+    "qu",
+    "versée millions"
    ],
    "terms_right": [
     "fournitures",
