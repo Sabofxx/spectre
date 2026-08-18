@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-18T20:47:28+00:00",
+ "generated_at": "2026-08-18T21:14:55+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -81,17 +81,17 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.147,
+   "divergence": 0.15,
    "category": "politique",
    "terms_left": [
     "ans censurée",
-    "liberté",
-    "censurée conseil"
+    "censurée conseil",
+    "liberté"
    ],
    "terms_right": [
     "face",
     "attal",
-    "gabriel attal"
+    "fin"
    ]
   },
   {
@@ -125,9 +125,9 @@
    ]
   },
   {
-   "title": "EN DIRECT - Incendie dans les Landes : reprise de feu dans la nuit, 1 580 hectares brûlés",
+   "title": "Feu de forêt dans les Landes : le feu «moins intense», une première vague d’habitants rentre chez elle",
    "url": "https://www.lefigaro.fr/sciences/canada-l-intense-saison-des-feux-rendue-deux-fois-plus-probable-par-le-changement-climatique-20260806",
-   "n_members": 199,
+   "n_members": 200,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.361,
+   "divergence": 0.362,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -149,15 +149,45 @@
     "direct incendies"
    ],
    "terms_right": [
+    "fixé",
     "situation",
-    "feu",
-    "fixé"
+    "feu"
+   ]
+  },
+  {
+   "title": "DIRECT. Sophie Adenot: l'astronaute française va s'aventurer dans le vide spatial, suivez sa sortie extravéhiculaire",
+   "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
+   "n_members": 136,
+   "n_sources": 30,
+   "counts": {
+    "left": 7,
+    "centre": 16,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.224,
+   "category": "sciences-tech",
+   "terms_left": [
+    "sortir espace",
+    "française sortir",
+    "adenot devenir"
+   ],
+   "terms_right": [
+    "américain",
+    "américain anil",
+    "effectuer sortie"
    ]
   },
   {
    "title": "Gel des retraites : que sait-on du nouveau scénario du gouvernement ?",
    "url": "https://www.ouest-france.fr/economie/retraites/mode-de-calcul-trimestres-pour-enfant-que-vont-changer-ces-nouveaux-decrets-sur-la-retraite-des-meres-de-famille-e5f79f04-90d2-11f1-9add-57c399f24235",
-   "n_members": 96,
+   "n_members": 97,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -171,7 +201,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.589,
+   "divergence": 0.591,
    "category": "économie",
    "terms_left": [
     "sébastien",
@@ -182,36 +212,6 @@
     "pensions",
     "retraités",
     "aisés"
-   ]
-  },
-  {
-   "title": "DIRECT. Sophie Adenot: l'astronaute française va s'aventurer dans le vide spatial, suivez sa sortie extravéhiculaire",
-   "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 134,
-   "n_sources": 29,
-   "counts": {
-    "left": 7,
-    "centre": 16,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 10,
-    "opinion": 2
-   },
-   "blindspot_score": -0.077,
-   "blindspot_for": null,
-   "divergence": 0.229,
-   "category": "sciences-tech",
-   "terms_left": [
-    "sortir espace",
-    "française sortir",
-    "sortir"
-   ],
-   "terms_right": [
-    "américain",
-    "américain anil",
-    "effectuer sortie"
    ]
   },
   {
@@ -266,12 +266,12 @@
    "terms_left": [
     "guerre ukraine",
     "guerre",
-    "ukraine kiev"
+    "russes"
    ],
    "terms_right": [
     "pays",
-    "russie",
-    "drones"
+    "ukraine morts",
+    "russie"
    ]
   },
   {
@@ -291,17 +291,17 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.258,
+   "divergence": 0.255,
    "category": "international",
    "terms_left": [
-    "séisme colombie",
-    "survivants",
-    "attaques"
+    "attaques",
+    "phase",
+    "nouveau bilan"
    ],
    "terms_right": [
-    "donald",
-    "donald trump",
-    "trump"
+    "puissant séisme",
+    "vie",
+    "donald"
    ]
   },
   {
@@ -332,6 +332,36 @@
     "sébastien lecornu",
     "sébastien",
     "lecornu"
+   ]
+  },
+  {
+   "title": "Piratage du fisc : les cybercriminels affirment avoir vendu les données dérobées",
+   "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/adrien-peyroles-directeur-general-de-bureau-vallee-18-08_EN-202608180098.html",
+   "n_members": 70,
+   "n_sources": 27,
+   "counts": {
+    "left": 4,
+    "centre": 14,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.582,
+   "category": "économie",
+   "terms_left": [
+    "personnelles",
+    "millions élèves",
+    "ampleur"
+   ],
+   "terms_right": [
+    "éducation",
+    "données",
+    "éducation nationale"
    ]
   },
   {
@@ -381,7 +411,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.508,
+   "divergence": 0.509,
    "category": "société",
    "terms_left": [
     "france",
@@ -422,36 +452,6 @@
     "piratage",
     "reconstruction",
     "enquête"
-   ]
-  },
-  {
-   "title": "Piratage du fisc : les cybercriminels affirment avoir vendu les données dérobées",
-   "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/adrien-peyroles-directeur-general-de-bureau-vallee-18-08_EN-202608180098.html",
-   "n_members": 69,
-   "n_sources": 26,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.582,
-   "category": "économie",
-   "terms_left": [
-    "personnelles",
-    "millions élèves",
-    "ampleur"
-   ],
-   "terms_right": [
-    "éducation",
-    "données",
-    "éducation nationale"
    ]
   },
   {
@@ -517,7 +517,7 @@
   {
    "title": "Ebola en RD Congo : l'épidémie devient la plus meurtrière de l'histoire du pays",
    "url": "https://www.leparisien.fr/sciences/odeur-sucree-groupe-sanguin-ou-rien-de-cela-pourquoi-les-moustiques-raffolent-de-votre-peau-et-pas-de-celle-du-voisin-03-08-2026-7XIS34AZTNEVJPXNPS2WH45HDQ.php",
-   "n_members": 99,
+   "n_members": 100,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -741,7 +741,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.672,
+   "divergence": 0.671,
    "category": "politique",
    "terms_left": [
     "extrême",
@@ -751,7 +751,7 @@
    "terms_right": [
     "mélenchon",
     "ciotti",
-    "qu"
+    "marine"
    ]
   },
   {
