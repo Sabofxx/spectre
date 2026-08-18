@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-18T08:01:35+00:00",
+ "generated_at": "2026-08-18T08:40:15+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.356,
+   "divergence": 0.357,
    "category": "sciences-tech",
    "terms_left": [
     "piratage fisc",
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.143,
+   "divergence": 0.144,
    "category": "politique",
    "terms_left": [
     "ans censurée",
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.201,
+   "divergence": 0.203,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.372,
+   "divergence": 0.373,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -151,7 +151,7 @@
    "terms_right": [
     "feu",
     "pompiers",
-    "situation"
+    "fixé"
    ]
   },
   {
@@ -231,12 +231,12 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.268,
+   "divergence": 0.266,
    "category": "international",
    "terms_left": [
     "guerre ukraine",
     "guerre",
-    "ukraine kiev"
+    "direct"
    ],
    "terms_right": [
     "russie",
@@ -365,6 +365,36 @@
    ]
   },
   {
+   "title": "Sophie Adenot va devenir la première Française à sortir dans l’espace",
+   "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
+   "n_members": 61,
+   "n_sources": 26,
+   "counts": {
+    "left": 4,
+    "centre": 16,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.284,
+   "category": "sciences-tech",
+   "terms_left": [
+    "adenot devenir",
+    "sortir espace",
+    "devenir"
+   ],
+   "terms_right": [
+    "sortie",
+    "spatiale",
+    "station"
+   ]
+  },
+  {
    "title": "L’Iran annonce la capture de trois pilotes en mars au Qatar et demande leur libération",
    "url": "https://lcp.fr/actualites/l-ete-d-avant-presidentielle-2001-le-calme-puis-les-tempetes-439665",
    "n_members": 60,
@@ -441,7 +471,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.565,
+   "divergence": 0.564,
    "category": "environnement",
    "terms_left": [
     "jours",
@@ -531,7 +561,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.541,
+   "divergence": 0.54,
    "category": "politique",
    "terms_left": [
     "millions",
@@ -575,39 +605,9 @@
    ]
   },
   {
-   "title": "Sortie dans l'espace de Sophie Adenot : suivez les premiers pas d'une astronaute française hors de la Station spatiale internationale",
-   "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 57,
-   "n_sources": 25,
-   "counts": {
-    "left": 4,
-    "centre": 15,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.282,
-   "category": "sciences-tech",
-   "terms_left": [
-    "adenot devenir",
-    "sortir espace",
-    "française effectuer"
-   ],
-   "terms_right": [
-    "sortie",
-    "spatiale",
-    "station"
-   ]
-  },
-  {
-   "title": "Corée du Sud : Trump réduit la participation américaine aux exercices militaires",
+   "title": "Trump veut réduire fortement les exercices militaires avec la Corée du Sud",
    "url": "https://www.lefigaro.fr/international/guerre-iran-etats-unis-le-pakistan-espere-que-l-accord-sur-ormuz-ouvrira-la-voie-a-une-reprise-du-dialogue-20260806",
-   "n_members": 75,
+   "n_members": 77,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -621,7 +621,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.576,
+   "divergence": 0.585,
    "category": "international",
    "terms_left": [
     "défense",
@@ -629,9 +629,9 @@
     "pacte"
    ],
    "terms_right": [
-    "exercices militaires",
     "donald trump",
-    "donald"
+    "donald",
+    "trump"
    ]
   },
   {
@@ -918,7 +918,7 @@
    "terms_left": [
     "défense",
     "turquie",
-    "kim jong-un"
+    "jong-un"
    ],
    "terms_right": [
     "russe",
@@ -1055,8 +1055,8 @@
     "racistes"
    ],
    "terms_right": [
-    "vidéo",
     "ministre",
+    "vidéo",
     "nuñez"
    ]
   },
@@ -1145,7 +1145,7 @@
   {
    "title": "Belgique: 3.000 hectares ravagés, l'un des pires incendies de son histoire",
    "url": "https://www.tf1info.fr/environnement-ecologie/graduer-l-impact-ecologique-au-meme-titre-qu-un-tremblement-de-terre-vers-la-creation-d-une-echelle-de-richter-des-incendies-2458275.html",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 19,
    "counts": {
     "left": 5,
