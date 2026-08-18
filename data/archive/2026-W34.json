@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-18T20:13:04+00:00",
+ "generated_at": "2026-08-18T20:47:28+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.148,
+   "divergence": 0.147,
    "category": "politique",
    "terms_left": [
     "ans censurée",
@@ -89,9 +89,9 @@
     "censurée conseil"
    ],
    "terms_right": [
+    "face",
     "attal",
-    "gabriel attal",
-    "gabriel"
+    "gabriel attal"
    ]
   },
   {
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.21,
+   "divergence": 0.211,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -187,7 +187,7 @@
   {
    "title": "DIRECT. Sophie Adenot: l'astronaute française va s'aventurer dans le vide spatial, suivez sa sortie extravéhiculaire",
    "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 132,
+   "n_members": 134,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.227,
+   "divergence": 0.229,
    "category": "sciences-tech",
    "terms_left": [
     "sortir espace",
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.272,
+   "divergence": 0.271,
    "category": "international",
    "terms_left": [
     "guerre ukraine",
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.257,
+   "divergence": 0.258,
    "category": "international",
    "terms_left": [
     "séisme colombie",
@@ -651,7 +651,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.693,
+   "divergence": 0.692,
    "category": "environnement",
    "terms_left": [
     "année",
@@ -741,7 +741,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.679,
+   "divergence": 0.672,
    "category": "politique",
    "terms_left": [
     "extrême",
@@ -801,7 +801,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.612,
+   "divergence": 0.611,
    "category": "politique",
    "terms_left": [
     "jet-ski",
@@ -811,7 +811,37 @@
    "terms_right": [
     "français",
     "pompiers",
-    "incendies"
+    "var"
+   ]
+  },
+  {
+   "title": "L’allocation de rentrée scolaire versée ce mardi à 3 millions de familles",
+   "url": "https://www.franceinfo.fr/culture/livres/la-rentree-litteraire/rentree-litteraire-2026-quelque-461-romans-pour-une-reprise-resolument-variee_8146112.html",
+   "n_members": 48,
+   "n_sources": 23,
+   "counts": {
+    "left": 6,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.476,
+   "category": "économie",
+   "terms_left": [
+    "modestes",
+    "versée millions",
+    "qu"
+   ],
+   "terms_right": [
+    "euros",
+    "fournitures",
+    "conditions"
    ]
   },
   {
@@ -973,7 +1003,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.293,
+   "divergence": 0.292,
    "category": "société",
    "terms_left": [
     "clause conscience",
@@ -1067,36 +1097,6 @@
    "category": "environnement",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "L’allocation de rentrée scolaire versée ce mardi à 3 millions de familles",
-   "url": "https://www.franceinfo.fr/culture/livres/la-rentree-litteraire/rentree-litteraire-2026-quelque-461-romans-pour-une-reprise-resolument-variee_8146112.html",
-   "n_members": 46,
-   "n_sources": 22,
-   "counts": {
-    "left": 6,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 10,
-    "opinion": 2
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.475,
-   "category": "économie",
-   "terms_left": [
-    "modestes",
-    "versée millions",
-    "qu"
-   ],
-   "terms_right": [
-    "euros",
-    "fournitures",
-    "conditions"
-   ]
   },
   {
    "title": "Royaume-Uni : après le suicide du professeur Jason Arday, ses proches dénoncent une « campagne de harcèlement »",
