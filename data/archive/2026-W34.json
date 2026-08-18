@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-18T00:39:14+00:00",
+ "generated_at": "2026-08-18T02:10:58+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -187,7 +187,7 @@
   {
    "title": "Après cinq ans de pouvoir taliban, les Afghanes toujours plus muselées",
    "url": "https://www.cnews.fr/science/2026-08-09/dragon-devoreur-colere-des-dieux-ces-mythes-et-legendes-surprenants-qui",
-   "n_members": 69,
+   "n_members": 70,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.262,
+   "divergence": 0.261,
    "category": "international",
    "terms_left": [
     "guerre ukraine",
@@ -605,6 +605,36 @@
    ]
   },
   {
+   "title": "Différend diplomatique sur les îles Kouriles : l’ambassadeur japonais convoqué au ministère russe des affaires étrangères",
+   "url": "https://www.franceinfo.fr/monde/russie/en-russie-la-justice-interdit-au-seul-parti-oppose-a-la-guerre-en-ukraine-de-presenter-des-candidats-aux-legislatives-de-septembre_8142296.html",
+   "n_members": 64,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.312,
+   "category": "international",
+   "terms_left": [
+    "visite",
+    "sud",
+    "poutine îles"
+   ],
+   "terms_right": [
+    "fois",
+    "kouriles",
+    "kouriles archipel"
+   ]
+  },
+  {
    "title": "Le faux plombier lui dérobe 113 000 euros",
    "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20260809-apr%C3%A8s-le-double-s%C3%A9isme-de-juin-au-venezuela-la-n%C3%A9cessaire-aide-psychologique",
    "n_members": 58,
@@ -828,7 +858,7 @@
    "terms_left": [
     "défense",
     "turquie",
-    "kim jong-un"
+    "jong-un"
    ],
    "terms_right": [
     "russe",
@@ -1091,6 +1121,28 @@
    ]
   },
   {
+   "title": "L'astronaute française Sophie Adenot s'apprête à fouler le vide spatial",
+   "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
+   "n_members": 35,
+   "n_sources": 19,
+   "counts": {
+    "left": 2,
+    "centre": 11,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 4,
+    "opinion": 2
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "sciences-tech",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Royaume-Uni : après le suicide du professeur Jason Arday, ses proches dénoncent une « campagne de harcèlement »",
    "url": "https://www.lefigaro.fr/international/accuse-de-plagiat-l-ancien-professeur-de-cambridge-jason-arday-retrouve-mort-quelques-jours-apres-sa-demission-20260814",
    "n_members": 32,
@@ -1118,66 +1170,6 @@
     "ancien professeur",
     "professeur cambridge",
     "ancien"
-   ]
-  },
-  {
-   "title": "Depuis 2017, les universités françaises grimpent dans le classement de Shanghai",
-   "url": "https://www.20minutes.fr/societe/4238578-20260814-pourquoi-tant-etudiant-devez-foutre-classement-shanghai",
-   "n_members": 23,
-   "n_sources": 19,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 8,
-    "opinion": 1
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.421,
-   "category": "société",
-   "terms_left": [
-    "maintiennent",
-    "trump",
-    "malgré"
-   ],
-   "terms_right": [
-    "paris-saclay",
-    "mondial",
-    "place"
-   ]
-  },
-  {
-   "title": "Belgique: 3.000 hectares ravagés, l'un des pires incendies de son histoire",
-   "url": "https://www.tf1info.fr/environnement-ecologie/graduer-l-impact-ecologique-au-meme-titre-qu-un-tremblement-de-terre-vers-la-creation-d-une-echelle-de-richter-des-incendies-2458275.html",
-   "n_members": 58,
-   "n_sources": 18,
-   "counts": {
-    "left": 5,
-    "centre": 8,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.618,
-   "category": "international",
-   "terms_left": [
-    "face",
-    "pires",
-    "belgique face"
-   ],
-   "terms_right": [
-    "pompiers",
-    "forêt",
-    "feu"
    ]
   }
  ]
