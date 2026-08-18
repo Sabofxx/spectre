@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-18T15:01:37+00:00",
+ "generated_at": "2026-08-18T15:33:49+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,21 +37,21 @@
   {
    "title": "Piratage du fisc : quels sont les risques pour les contribuables concernés ?",
    "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 160,
-   "n_sources": 34,
+   "n_members": 169,
+   "n_sources": 35,
    "counts": {
     "left": 6,
-    "centre": 17,
+    "centre": 18,
     "right": 11
    },
    "style_counts": {
-    "factuel": 18,
+    "factuel": 19,
     "mixte": 11,
     "opinion": 5
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.315,
+   "divergence": 0.289,
    "category": "sciences-tech",
    "terms_left": [
     "fisc sébastien",
@@ -61,7 +61,7 @@
    "terms_right": [
     "données",
     "site",
-    "site impôts"
+    "particuliers"
    ]
   },
   {
@@ -81,12 +81,12 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.142,
+   "divergence": 0.147,
    "category": "politique",
    "terms_left": [
     "ans censurée",
     "liberté",
-    "décision"
+    "censurée conseil"
    ],
    "terms_right": [
     "attal",
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.207,
+   "divergence": 0.209,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -187,7 +187,7 @@
   {
    "title": "DIRECT. Sophie Adenot: l'astronaute française va s'aventurer dans le vide spatial, suivez sa sortie extravéhiculaire",
    "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 112,
+   "n_members": 113,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -247,7 +247,7 @@
   {
    "title": "Guerre en Ukraine. Moscou visée par 600 drones pendant la nuit, une attaque d'une rare ampleur",
    "url": "http://fr.euronews.com/video/2026/07/24/frappe-de-drones-ukrainiens-declenche-un-incendie-dans-des-entrepots-a-saint-petersbourg",
-   "n_members": 467,
+   "n_members": 468,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -441,7 +441,7 @@
    },
    "blindspot_score": -0.333,
    "blindspot_for": null,
-   "divergence": 0.802,
+   "divergence": 0.803,
    "category": "environnement",
    "terms_left": [
     "désertification",
@@ -449,8 +449,8 @@
     "mongolie"
    ],
    "terms_right": [
-    "eau",
     "rhin",
+    "eau",
     "niveau"
    ]
   },
@@ -487,7 +487,7 @@
   {
    "title": "Ebola en RD Congo : l'épidémie devient la plus meurtrière de l'histoire du pays",
    "url": "https://www.leparisien.fr/sciences/odeur-sucree-groupe-sanguin-ou-rien-de-cela-pourquoi-les-moustiques-raffolent-de-votre-peau-et-pas-de-celle-du-voisin-03-08-2026-7XIS34AZTNEVJPXNPS2WH45HDQ.php",
-   "n_members": 98,
+   "n_members": 99,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -512,6 +512,36 @@
     "meurtrière",
     "bilan",
     "meurtrière histoire"
+   ]
+  },
+  {
+   "title": "Trump veut réduire fortement les exercices militaires avec la Corée du Sud",
+   "url": "https://www.lefigaro.fr/international/guerre-iran-etats-unis-le-pakistan-espere-que-l-accord-sur-ormuz-ouvrira-la-voie-a-une-reprise-du-dialogue-20260806",
+   "n_members": 84,
+   "n_sources": 25,
+   "counts": {
+    "left": 7,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.521,
+   "category": "international",
+   "terms_left": [
+    "défense",
+    "pakistan",
+    "pacte"
+   ],
+   "terms_right": [
+    "exercices militaires",
+    "trump",
+    "donald trump"
    ]
   },
   {
@@ -545,36 +575,6 @@
    ]
   },
   {
-   "title": "Trump veut réduire fortement les exercices militaires avec la Corée du Sud",
-   "url": "https://www.lefigaro.fr/international/guerre-iran-etats-unis-le-pakistan-espere-que-l-accord-sur-ormuz-ouvrira-la-voie-a-une-reprise-du-dialogue-20260806",
-   "n_members": 82,
-   "n_sources": 25,
-   "counts": {
-    "left": 7,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.52,
-   "category": "international",
-   "terms_left": [
-    "défense",
-    "pakistan",
-    "pacte"
-   ],
-   "terms_right": [
-    "exercices militaires",
-    "trump",
-    "donald trump"
-   ]
-  },
-  {
    "title": "Incendies : de la Belgique à l'Espagne, l'Europe toujours aux prises avec les flammes",
    "url": "https://www.bfmtv.com/sante/video-canicule-on-est-pret-mais-on-est-dans-une-situation-tendue-explique-nicolas-gonzales-chef-du-service-des-urgences-a-l-hopital-de-saclay_VN-202608080087.html",
    "n_members": 78,
@@ -602,6 +602,36 @@
     "pays",
     "feux",
     "situation"
+   ]
+  },
+  {
+   "title": "Piratage du fisc : les cybercriminels affirment avoir vendu les données dérobées",
+   "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/adrien-peyroles-directeur-general-de-bureau-vallee-18-08_EN-202608180098.html",
+   "n_members": 64,
+   "n_sources": 25,
+   "counts": {
+    "left": 3,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.673,
+   "category": "économie",
+   "terms_left": [
+    "personnelles",
+    "millions élèves",
+    "contribuables"
+   ],
+   "terms_right": [
+    "données",
+    "nationale",
+    "éducation"
    ]
   },
   {
@@ -665,9 +695,9 @@
    ]
   },
   {
-   "title": "États-Unis : des gants électriques bientôt utilisés par les agents de l'immigration",
+   "title": "Aux Etats-Unis, la police de l'immigration bientôt équipée de gants électriques ?",
    "url": "https://www.lemonde.fr/economie/article/2026/08/11/la-maison-mere-de-truth-social-le-reseau-de-donald-trump-affiche-240-millions-de-dollars-de-pertes-au-deuxieme-trimestre_6743610_3234.html",
-   "n_members": 70,
+   "n_members": 71,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -681,17 +711,17 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.746,
+   "divergence": 0.728,
    "category": "international",
    "terms_left": [
-    "gants",
     "etats-unis",
-    "électriques"
+    "électriques",
+    "nouvelle"
    ],
    "terms_right": [
-    "porte-avions",
     "états-unis",
-    "catapultes"
+    "porte-avions",
+    "qu"
    ]
   },
   {
@@ -722,36 +752,6 @@
     "ciotti",
     "mélenchon",
     "marine"
-   ]
-  },
-  {
-   "title": "Piratage du fisc : les cybercriminels affirment avoir vendu les données dérobées",
-   "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/adrien-peyroles-directeur-general-de-bureau-vallee-18-08_EN-202608180098.html",
-   "n_members": 62,
-   "n_sources": 23,
-   "counts": {
-    "left": 2,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.636,
-   "blindspot_for": "gauche",
-   "divergence": 0.691,
-   "category": "économie",
-   "terms_left": [
-    "contribuables",
-    "millions élèves",
-    "direction"
-   ],
-   "terms_right": [
-    "données",
-    "nationale",
-    "éducation"
    ]
   },
   {
@@ -817,7 +817,7 @@
   {
    "title": "Canicule : plus que six départements du sud-est en vigilance orange lundi",
    "url": "https://www.ladepeche.fr/2026/08/13/direct-canicule-80-departements-en-vigilance-orange-jusqua-40-c-attendus-ce-jeudi-dans-plusieurs-regions-13507182.php",
-   "n_members": 473,
+   "n_members": 474,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -831,7 +831,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.258,
+   "divergence": 0.261,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -841,7 +841,7 @@
    "terms_right": [
     "départements placés",
     "placés",
-    "placés vigilance"
+    "départements"
    ]
   },
   {
@@ -977,8 +977,8 @@
    "category": "international",
    "terms_left": [
     "turquie",
-    "jong-un",
-    "kim jong-un"
+    "kim jong-un",
+    "jong-un"
    ],
    "terms_right": [
     "russe",
@@ -1011,7 +1011,7 @@
   {
    "title": "L’allocation de rentrée scolaire versée ce mardi à 3 millions de familles",
    "url": "https://www.franceinfo.fr/culture/livres/la-rentree-litteraire/rentree-litteraire-2026-quelque-461-romans-pour-une-reprise-resolument-variee_8146112.html",
-   "n_members": 45,
+   "n_members": 46,
    "n_sources": 22,
    "counts": {
     "left": 6,
@@ -1025,7 +1025,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.487,
+   "divergence": 0.474,
    "category": "économie",
    "terms_left": [
     "modestes",
@@ -1033,9 +1033,9 @@
     "qu"
    ],
    "terms_right": [
-    "conditions",
-    "ans",
-    "euros"
+    "euros",
+    "fournitures",
+    "conditions"
    ]
   },
   {
@@ -1121,6 +1121,36 @@
    "terms_right": []
   },
   {
+   "title": "Mort d’Hayden Panettiere : Hollywood rend hommage à l’actrice des séries « Heroes » et « Nashville »",
+   "url": "https://www.bfmtv.com/culture/cinema-series/l-actrice-americaine-hayden-panettiere-star-des-series-nashville-et-heroes-est-morte-a-36-ans_AN-202608170047.html",
+   "n_members": 56,
+   "n_sources": 20,
+   "counts": {
+    "left": 5,
+    "centre": 10,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 7,
+    "opinion": 1
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.335,
+   "category": "culture",
+   "terms_left": [
+    "panettiere morte",
+    "scream",
+    "heroes"
+   ],
+   "terms_right": [
+    "actrice américaine",
+    "américaine",
+    "monde"
+   ]
+  },
+  {
    "title": "Antisémitisme : une enquête ouverte après les propos filmés d'une commerçante en Isère",
    "url": "https://www.valeursactuelles.com/politique/les-magouilles-du-maire-lfi-de-la-courneuve-aly-diouara-pour-garder-son-indemnite-parlementaire",
    "n_members": 55,
@@ -1148,36 +1178,6 @@
     "ministre",
     "vidéo",
     "annonce"
-   ]
-  },
-  {
-   "title": "Mort d’Hayden Panettiere : Hollywood rend hommage à l’actrice des séries « Heroes » et « Nashville »",
-   "url": "https://www.bfmtv.com/culture/cinema-series/l-actrice-americaine-hayden-panettiere-star-des-series-nashville-et-heroes-est-morte-a-36-ans_AN-202608170047.html",
-   "n_members": 54,
-   "n_sources": 20,
-   "counts": {
-    "left": 5,
-    "centre": 10,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 1
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.334,
-   "category": "culture",
-   "terms_left": [
-    "panettiere morte",
-    "scream",
-    "heroes"
-   ],
-   "terms_right": [
-    "actrice américaine",
-    "américaine",
-    "monde"
    ]
   }
  ]
