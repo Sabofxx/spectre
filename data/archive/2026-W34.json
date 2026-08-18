@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-18T09:23:40+00:00",
+ "generated_at": "2026-08-18T09:57:10+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.27,
+   "divergence": 0.271,
    "category": "international",
    "terms_left": [
     "droite",
@@ -37,7 +37,7 @@
   {
    "title": "Piratage du fisc : quels sont les risques pour les contribuables concernés ?",
    "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 144,
+   "n_members": 146,
    "n_sources": 34,
    "counts": {
     "left": 6,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.356,
+   "divergence": 0.362,
    "category": "sciences-tech",
    "terms_left": [
     "piratage fisc",
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.203,
+   "divergence": 0.202,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -171,12 +171,12 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.581,
+   "divergence": 0.583,
    "category": "économie",
    "terms_left": [
+    "ministre",
     "sébastien",
-    "sébastien lecornu",
-    "réduire"
+    "sébastien lecornu"
    ],
    "terms_right": [
     "retraités",
@@ -231,12 +231,12 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.268,
+   "divergence": 0.271,
    "category": "international",
    "terms_left": [
     "guerre ukraine",
     "guerre",
-    "direct"
+    "ukraine kiev"
    ],
    "terms_right": [
     "russie",
@@ -397,7 +397,7 @@
   {
    "title": "Sophie Adenot va devenir la première Française à sortir dans l’espace",
    "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 62,
+   "n_members": 63,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.284,
+   "divergence": 0.285,
    "category": "sciences-tech",
    "terms_left": [
     "adenot devenir",
@@ -456,7 +456,7 @@
   },
   {
    "title": "Canicule : le Var parmi les 6 derniers départements maintenus en vigilance orange ce lundi, jusqu’à 38 °C attendus et des rafales de vent annoncées",
-   "url": "https://www.leparisien.fr/economie/consommation/nous-ne-voulons-pas-etre-la-derniere-generation-a-en-manger-la-canicule-menace-le-parmesan-19-07-2026-TB2MSXYP7FAYPFWVJBIPFEQXHE.php",
+   "url": "https://www.lemonde.fr/politique/article/2026/07/19/partage-de-la-fraicheur-le-parti-communiste-francais-propose-de-requisitionner-les-espaces-climatises-pendant-les-canicules_6725919_823448.html",
    "n_members": 146,
    "n_sources": 25,
    "counts": {
@@ -801,7 +801,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.247,
+   "divergence": 0.248,
    "category": "sport",
    "terms_left": [
     "deuxième",
@@ -831,12 +831,12 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.583,
+   "divergence": 0.582,
    "category": "international",
    "terms_left": [
     "japon",
-    "indonésie puissant",
-    "précédent tokyo"
+    "morts",
+    "indonésie puissant"
    ],
    "terms_right": [
     "séisme magnitude",
@@ -979,6 +979,36 @@
    "terms_right": []
   },
   {
+   "title": "Piratage du fisc : les cybercriminels affirment avoir vendu les données dérobées",
+   "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/adrien-peyroles-directeur-general-de-bureau-vallee-18-08_EN-202608180098.html",
+   "n_members": 51,
+   "n_sources": 22,
+   "counts": {
+    "left": 2,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 1
+   },
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": 0.773,
+   "category": "économie",
+   "terms_left": [
+    "contribuables",
+    "duo",
+    "piratage fisc"
+   ],
+   "terms_right": [
+    "données",
+    "vol",
+    "zerobytes"
+   ]
+  },
+  {
    "title": "«Noir et LFI, c’est trop» : Jean-Luc Mélenchon dénonce le «racisme systémique» dont font l’objet Bally Bagayoko et Aly Diouara",
    "url": "https://www.valeursactuelles.com/politique/fruit-dun-deal-avec-le-pc-le-maire-lfi-de-saint-denis-bally-bagayoko-aurait-ete-recrute-a-la-ratp-sans-concours-ni-entretien-pour-6-000-euros-par-mois",
    "n_members": 70,
@@ -995,7 +1025,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.459,
+   "divergence": 0.453,
    "category": "politique",
    "terms_left": [
     "raciste",
@@ -1061,36 +1091,6 @@
    ]
   },
   {
-   "title": "Piratage du fisc : les cybercriminels affirment avoir vendu les données dérobées",
-   "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/adrien-peyroles-directeur-general-de-bureau-vallee-18-08_EN-202608180098.html",
-   "n_members": 48,
-   "n_sources": 20,
-   "counts": {
-    "left": 1,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.778,
-   "blindspot_for": "gauche",
-   "divergence": 0.804,
-   "category": "économie",
-   "terms_left": [
-    "duo",
-    "risques",
-    "administration"
-   ],
-   "terms_right": [
-    "données",
-    "vol",
-    "euros"
-   ]
-  },
-  {
    "title": "En mer depuis plus de 200 jours, les soldats à bord du porte-avions USS Lincoln n'en peuvent plus",
    "url": "https://www.lefigaro.fr/international/des-elus-americains-s-inquietent-des-conditions-de-vie-a-bord-du-porte-avions-lincoln-20260813",
    "n_members": 38,
@@ -1143,26 +1143,34 @@
    ]
   },
   {
-   "title": "Le 18h Eco – Lundi 17 août",
-   "url": "https://www.lefigaro.fr/actualite-france/l-intersyndicale-des-pompiers-appelle-a-la-demission-d-un-responsable-qui-a-declare-qu-il-ne-manquait-pas-d-effectifs-20260807",
-   "n_members": 80,
-   "n_sources": 19,
+   "title": "L’allocation de rentrée scolaire versée ce mardi à 3 millions de familles",
+   "url": "https://www.franceinfo.fr/culture/livres/la-rentree-litteraire/rentree-litteraire-2026-quelque-461-romans-pour-une-reprise-resolument-variee_8146112.html",
+   "n_members": 32,
+   "n_sources": 20,
    "counts": {
-    "left": 1,
-    "centre": 12,
+    "left": 6,
+    "centre": 8,
     "right": 6
    },
    "style_counts": {
-    "factuel": 15,
-    "mixte": 4,
-    "opinion": 0
+    "factuel": 9,
+    "mixte": 9,
+    "opinion": 2
    },
-   "blindspot_score": 0.714,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "économie",
-   "terms_left": [],
-   "terms_right": []
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.598,
+   "category": "société",
+   "terms_left": [
+    "modestes",
+    "rentrée scolaire",
+    "scolaire"
+   ],
+   "terms_right": [
+    "fournitures",
+    "prix",
+    "ans"
+   ]
   }
  ]
 }
