@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-18T02:10:58+00:00",
+ "generated_at": "2026-08-18T03:15:37+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.655,
+   "divergence": 0.638,
    "category": "international",
    "terms_left": [
     "droits",
@@ -209,15 +209,15 @@
     "monde"
    ],
    "terms_right": [
-    "afghanistan",
     "kaboul",
-    "ans"
+    "pays",
+    "afghanistan"
    ]
   },
   {
    "title": "Guerre en Ukraine. Moscou visée par 600 drones pendant la nuit, une attaque d'une rare ampleur",
    "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-les-drones-cyclope-officiellement-homologues-par-kiev-apres-linterception-dun-shahed-dans-la-region-de-koursk-19-07-2026-BPOIA555FFEJTLM5K4HU57PKBQ.php",
-   "n_members": 468,
+   "n_members": 465,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.593,
+   "divergence": 0.592,
    "category": "international",
    "terms_left": [
     "rdc épidémie",
@@ -741,7 +741,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.559,
+   "divergence": 0.554,
    "category": "international",
    "terms_left": [
     "japon",
@@ -749,8 +749,8 @@
     "précédent tokyo"
    ],
    "terms_right": [
-    "séisme magnitude",
     "magnitude",
+    "séisme magnitude",
     "séisme"
    ]
   },
@@ -823,7 +823,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.303,
+   "divergence": 0.302,
    "category": "société",
    "terms_left": [
     "clause",
@@ -1091,6 +1091,36 @@
    ]
   },
   {
+   "title": "Belgique: 3.000 hectares ravagés, l'un des pires incendies de son histoire",
+   "url": "https://www.tf1info.fr/environnement-ecologie/graduer-l-impact-ecologique-au-meme-titre-qu-un-tremblement-de-terre-vers-la-creation-d-une-echelle-de-richter-des-incendies-2458275.html",
+   "n_members": 59,
+   "n_sources": 19,
+   "counts": {
+    "left": 5,
+    "centre": 9,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.618,
+   "category": "international",
+   "terms_left": [
+    "face",
+    "pires",
+    "belgique face"
+   ],
+   "terms_right": [
+    "pompiers",
+    "forêt",
+    "feu"
+   ]
+  },
+  {
    "title": "L'actrice américaine Hayden Panettiere, icône de la série \"Heroes\", meurt à l'âge de 36 ans",
    "url": "https://www.bfmtv.com/culture/cinema-series/l-actrice-americaine-hayden-panettiere-star-des-series-nashville-et-heroes-est-morte-a-36-ans_AN-202608170047.html",
    "n_members": 36,
@@ -1141,36 +1171,6 @@
    "category": "sciences-tech",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Royaume-Uni : après le suicide du professeur Jason Arday, ses proches dénoncent une « campagne de harcèlement »",
-   "url": "https://www.lefigaro.fr/international/accuse-de-plagiat-l-ancien-professeur-de-cambridge-jason-arday-retrouve-mort-quelques-jours-apres-sa-demission-20260814",
-   "n_members": 32,
-   "n_sources": 19,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 4,
-    "opinion": 2
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.406,
-   "category": "international",
-   "terms_left": [
-    "noir cambridge",
-    "cambridge retrouvé",
-    "proches"
-   ],
-   "terms_right": [
-    "ancien professeur",
-    "professeur cambridge",
-    "ancien"
-   ]
   }
  ]
 }
