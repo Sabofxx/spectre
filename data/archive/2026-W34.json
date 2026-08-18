@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-18T16:57:06+00:00",
+ "generated_at": "2026-08-18T17:19:41+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Piratage du fisc : quels sont les risques pour les contribuables concernés ?",
    "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 171,
+   "n_members": 173,
    "n_sources": 35,
    "counts": {
     "left": 6,
@@ -51,17 +51,17 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.288,
+   "divergence": 0.286,
    "category": "sciences-tech",
    "terms_left": [
+    "numérique",
     "fisc sébastien",
-    "interministérielle",
-    "cellule interministérielle"
+    "gouvernement"
    ],
    "terms_right": [
-    "données",
     "site",
-    "particuliers"
+    "particuliers",
+    "site impôts"
    ]
   },
   {
@@ -90,8 +90,8 @@
    ],
    "terms_right": [
     "attal",
-    "gabriel attal",
-    "gabriel"
+    "face",
+    "gabriel attal"
    ]
   },
   {
@@ -187,7 +187,7 @@
   {
    "title": "DIRECT. Sophie Adenot: l'astronaute française va s'aventurer dans le vide spatial, suivez sa sortie extravéhiculaire",
    "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 117,
+   "n_members": 119,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.227,
+   "divergence": 0.23,
    "category": "sciences-tech",
    "terms_left": [
     "sortir espace",
@@ -247,7 +247,7 @@
   {
    "title": "Guerre en Ukraine. Moscou visée par 600 drones pendant la nuit, une attaque d'une rare ampleur",
    "url": "http://fr.euronews.com/video/2026/07/24/frappe-de-drones-ukrainiens-declenche-un-incendie-dans-des-entrepots-a-saint-petersbourg",
-   "n_members": 471,
+   "n_members": 472,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.51,
+   "divergence": 0.501,
    "category": "politique",
    "terms_left": [
     "millions",
@@ -421,7 +421,7 @@
    "terms_right": [
     "piratage",
     "reconstruction",
-    "budget"
+    "ministre sébastien"
    ]
   },
   {
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.564,
+   "divergence": 0.566,
    "category": "environnement",
    "terms_left": [
     "jours",
@@ -607,7 +607,7 @@
   {
    "title": "Piratage du fisc : les cybercriminels affirment avoir vendu les données dérobées",
    "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/adrien-peyroles-directeur-general-de-bureau-vallee-18-08_EN-202608180098.html",
-   "n_members": 67,
+   "n_members": 68,
    "n_sources": 25,
    "counts": {
     "left": 3,
@@ -621,16 +621,16 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.625,
+   "divergence": 0.619,
    "category": "économie",
    "terms_left": [
     "personnelles",
     "millions élèves",
-    "élèves"
+    "contribuables"
    ],
    "terms_right": [
-    "données",
     "éducation",
+    "données",
     "éducation nationale"
    ]
   },
@@ -817,7 +817,7 @@
   {
    "title": "Yvette Roudy, première ministre des Droits de la femme, est morte à 97 ans",
    "url": "https://www.humanite.fr/politique/assemblee-nationale/yvette-roudy-ancienne-ministre-des-droits-de-la-femme-de-mitterrand-est-morte-a-lage-de-97-ans",
-   "n_members": 25,
+   "n_members": 27,
    "n_sources": 23,
    "counts": {
     "left": 6,
@@ -831,12 +831,12 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.303,
-   "category": "société",
+   "divergence": 0.302,
+   "category": "politique",
    "terms_left": [
-    "français",
+    "ancienne",
     "remboursement",
-    "féminisme"
+    "français"
    ],
    "terms_right": [
     "ministre droits",
@@ -926,7 +926,7 @@
    "terms_left": [
     "tokyo",
     "indonésie puissant",
-    "pluies diluviennes"
+    "diluviennes"
    ],
    "terms_right": [
     "magnitude",
@@ -1006,8 +1006,8 @@
    "divergence": 0.723,
    "category": "international",
    "terms_left": [
-    "jong-un",
     "kim jong-un",
+    "jong-un",
     "soldats"
    ],
    "terms_right": [
