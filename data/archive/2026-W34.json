@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-18T19:06:22+00:00",
+ "generated_at": "2026-08-18T19:47:57+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Piratage du fisc : quels sont les risques pour les contribuables concernés ?",
    "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 180,
+   "n_members": 182,
    "n_sources": 35,
    "counts": {
     "left": 6,
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.279,
+   "divergence": 0.281,
    "category": "sciences-tech",
    "terms_left": [
     "numérique",
     "gouvernement",
-    "fisc sébastien"
+    "fiscale"
    ],
    "terms_right": [
     "vol",
@@ -97,7 +97,7 @@
   {
    "title": "Donald Trump menace de bombarder Oman s'il entrave un accord sur le détroit d'Ormuz",
    "url": "https://www.europe1.fr/international/moyen-orient-donald-trump-menace-de-bombarder-oman-sil-entrave-un-accord-sur-le-detroit-dormuz-1020452",
-   "n_members": 451,
+   "n_members": 448,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -187,7 +187,7 @@
   {
    "title": "DIRECT. Sophie Adenot: l'astronaute française va s'aventurer dans le vide spatial, suivez sa sortie extravéhiculaire",
    "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 124,
+   "n_members": 129,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.232,
+   "divergence": 0.224,
    "category": "sciences-tech",
    "terms_left": [
     "sortir espace",
@@ -209,9 +209,9 @@
     "sortir"
    ],
    "terms_right": [
-    "effectuer sortie",
     "américain",
-    "américain anil"
+    "américain anil",
+    "effectuer sortie"
    ]
   },
   {
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.501,
+   "divergence": 0.502,
    "category": "politique",
    "terms_left": [
     "millions",
@@ -741,7 +741,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.673,
+   "divergence": 0.679,
    "category": "politique",
    "terms_left": [
     "extrême",
@@ -751,7 +751,7 @@
    "terms_right": [
     "mélenchon",
     "ciotti",
-    "marine"
+    "qu"
    ]
   },
   {
@@ -801,7 +801,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.611,
+   "divergence": 0.612,
    "category": "politique",
    "terms_left": [
     "jet-ski",
@@ -1017,6 +1017,36 @@
    ]
   },
   {
+   "title": "La ministre de la Transition écologique Monique Barbut décline l'invitation de Manuel Bompard aux journées d'été de LFI",
+   "url": "https://www.nicematin.com/meteo/alerte-meteo/vigilance-canicule-vers-une-baisse-des-temperatures-cette-semaine-sur-la-cote-d-azur-10706733",
+   "n_members": 57,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 10,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.525,
+   "category": "politique",
+   "terms_left": [
+    "urgence",
+    "universités",
+    "dérèglement"
+   ],
+   "terms_right": [
+    "france",
+    "ministre transition",
+    "français"
+   ]
+  },
+  {
    "title": "Vosges : la chaleur déclenche une grenade de la Seconde Guerre mondiale dans un étang asséché",
    "url": "https://www.nicematin.com/societe/animaux/aucun-animal-ne-doit-mourir-de-la-negligence-des-hommes-le-maire-de-nice-interdit-aux-proprietaires-d-animaux-de-les-laisser-enfermes-dans-leur-vehicule-10701548",
    "n_members": 55,
@@ -1066,36 +1096,6 @@
     "euros",
     "fournitures",
     "conditions"
-   ]
-  },
-  {
-   "title": "La ministre de la Transition écologique Monique Barbut décline l'invitation de Manuel Bompard aux journées d'été de LFI",
-   "url": "https://www.nicematin.com/meteo/alerte-meteo/vigilance-canicule-vers-une-baisse-des-temperatures-cette-semaine-sur-la-cote-d-azur-10706733",
-   "n_members": 56,
-   "n_sources": 21,
-   "counts": {
-    "left": 4,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.531,
-   "category": "politique",
-   "terms_left": [
-    "urgence",
-    "universités",
-    "dérèglement"
-   ],
-   "terms_right": [
-    "france",
-    "ministre transition",
-    "français"
    ]
   },
   {
@@ -1175,7 +1175,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.454,
+   "divergence": 0.453,
    "category": "politique",
    "terms_left": [
     "raciste",
