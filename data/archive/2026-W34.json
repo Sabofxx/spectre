@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-18T18:22:49+00:00",
+ "generated_at": "2026-08-18T19:06:22+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Piratage du fisc : quels sont les risques pour les contribuables concernés ?",
    "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 177,
+   "n_members": 180,
    "n_sources": 35,
    "counts": {
     "left": 6,
@@ -51,17 +51,17 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.282,
+   "divergence": 0.279,
    "category": "sciences-tech",
    "terms_left": [
     "numérique",
-    "fisc sébastien",
-    "gouvernement"
+    "gouvernement",
+    "fisc sébastien"
    ],
    "terms_right": [
+    "vol",
     "site",
-    "particuliers",
-    "site impôts"
+    "particuliers"
    ]
   },
   {
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.37,
+   "divergence": 0.36,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -149,9 +149,9 @@
     "direct incendies"
    ],
    "terms_right": [
-    "feu",
     "situation",
-    "fixé"
+    "fixé",
+    "feu"
    ]
   },
   {
@@ -187,7 +187,7 @@
   {
    "title": "DIRECT. Sophie Adenot: l'astronaute française va s'aventurer dans le vide spatial, suivez sa sortie extravéhiculaire",
    "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 122,
+   "n_members": 124,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.233,
+   "divergence": 0.232,
    "category": "sciences-tech",
    "terms_left": [
     "sortir espace",
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.647,
+   "divergence": 0.646,
    "category": "international",
    "terms_left": [
     "monde",
@@ -425,9 +425,39 @@
    ]
   },
   {
+   "title": "Piratage du fisc : les cybercriminels affirment avoir vendu les données dérobées",
+   "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/adrien-peyroles-directeur-general-de-bureau-vallee-18-08_EN-202608180098.html",
+   "n_members": 69,
+   "n_sources": 26,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.582,
+   "category": "économie",
+   "terms_left": [
+    "personnelles",
+    "millions élèves",
+    "ampleur"
+   ],
+   "terms_right": [
+    "éducation",
+    "données",
+    "éducation nationale"
+   ]
+  },
+  {
    "title": "En pleine sécheresse: une COP contre la désertification à la réussite incertaine",
    "url": "https://www.radiofrance.fr/francebleu/podcasts/le-reportage-ici-breizh-izel/chiffre-d-affaires-zero-a-l-arret-a-cause-de-la-secheresse-les-stations-de-lavage-du-finistere-sont-en-souffrance-5892608",
-   "n_members": 65,
+   "n_members": 66,
    "n_sources": 26,
    "counts": {
     "left": 8,
@@ -471,7 +501,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.566,
+   "divergence": 0.565,
    "category": "environnement",
    "terms_left": [
     "jours",
@@ -602,36 +632,6 @@
     "pays",
     "feux",
     "situation"
-   ]
-  },
-  {
-   "title": "Piratage du fisc : les cybercriminels affirment avoir vendu les données dérobées",
-   "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/adrien-peyroles-directeur-general-de-bureau-vallee-18-08_EN-202608180098.html",
-   "n_members": 68,
-   "n_sources": 25,
-   "counts": {
-    "left": 3,
-    "centre": 13,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.62,
-   "category": "économie",
-   "terms_left": [
-    "personnelles",
-    "millions élèves",
-    "contribuables"
-   ],
-   "terms_right": [
-    "éducation",
-    "données",
-    "éducation nationale"
    ]
   },
   {
@@ -811,7 +811,7 @@
    "terms_right": [
     "français",
     "pompiers",
-    "var"
+    "incendies"
    ]
   },
   {
@@ -921,11 +921,11 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.525,
+   "divergence": 0.528,
    "category": "international",
    "terms_left": [
     "tokyo",
-    "indonésie puissant",
+    "diluviennes",
     "pluies diluviennes"
    ],
    "terms_right": [
@@ -1006,8 +1006,8 @@
    "divergence": 0.723,
    "category": "international",
    "terms_left": [
-    "kim jong-un",
     "jong-un",
+    "kim jong-un",
     "soldats"
    ],
    "terms_right": [
@@ -1071,7 +1071,7 @@
   {
    "title": "La ministre de la Transition écologique Monique Barbut décline l'invitation de Manuel Bompard aux journées d'été de LFI",
    "url": "https://www.nicematin.com/meteo/alerte-meteo/vigilance-canicule-vers-une-baisse-des-temperatures-cette-semaine-sur-la-cote-d-azur-10706733",
-   "n_members": 55,
+   "n_members": 56,
    "n_sources": 21,
    "counts": {
     "left": 4,
@@ -1085,7 +1085,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.536,
+   "divergence": 0.531,
    "category": "politique",
    "terms_left": [
     "urgence",
@@ -1094,8 +1094,8 @@
    ],
    "terms_right": [
     "france",
-    "français",
-    "ministre transition"
+    "ministre transition",
+    "français"
    ]
   },
   {
@@ -1149,8 +1149,8 @@
    "category": "politique",
    "terms_left": [
     "ministre",
-    "edouard",
-    "edouard philippe"
+    "edouard philippe",
+    "edouard"
    ],
    "terms_right": [
     "édouard philippe",
