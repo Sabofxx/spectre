@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-19T16:20:32+00:00",
+ "generated_at": "2026-08-19T16:55:30+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Données volées, contribuables concernés, risques d’arnaques… Toutes les réponses à vos questions sur le piratage du fisc",
    "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 187,
+   "n_members": 188,
    "n_sources": 35,
    "counts": {
     "left": 6,
@@ -55,13 +55,13 @@
    "category": "sciences-tech",
    "terms_left": [
     "numérique",
-    "crise",
-    "gouvernement"
+    "gouvernement",
+    "crise"
    ],
    "terms_right": [
     "vol",
     "vol données",
-    "site"
+    "site impôts"
    ]
   },
   {
@@ -187,7 +187,7 @@
   {
    "title": "Gel des retraites : que sait-on du nouveau scénario du gouvernement ?",
    "url": "https://www.ouest-france.fr/economie/retraites/mode-de-calcul-trimestres-pour-enfant-que-vont-changer-ces-nouveaux-decrets-sur-la-retraite-des-meres-de-famille-e5f79f04-90d2-11f1-9add-57c399f24235",
-   "n_members": 101,
+   "n_members": 102,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.596,
+   "divergence": 0.605,
    "category": "économie",
    "terms_left": [
     "sébastien",
@@ -210,8 +210,8 @@
    ],
    "terms_right": [
     "pensions",
-    "retraités",
-    "aisés"
+    "aisés",
+    "retraités"
    ]
   },
   {
@@ -321,12 +321,12 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.563,
+   "divergence": 0.561,
    "category": "politique",
    "terms_left": [
     "gouvernement",
     "euros",
-    "millions euros"
+    "gironde ministre"
    ],
    "terms_right": [
     "sébastien lecornu",
@@ -351,12 +351,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.269,
+   "divergence": 0.27,
    "category": "société",
    "terms_left": [
-    "conscience",
-    "clause",
-    "clause conscience"
+    "vie",
+    "fin vie",
+    "conscience"
    ],
    "terms_right": [
     "emmanuel macron",
@@ -547,7 +547,7 @@
   {
    "title": "Canicules : plus de 50 jours de vagues de chaleur enregistrés en France en 2026, un record",
    "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
-   "n_members": 151,
+   "n_members": 152,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.55,
+   "divergence": 0.553,
    "category": "environnement",
    "terms_left": [
     "prochains jours",
@@ -571,7 +571,7 @@
    "terms_right": [
     "météo",
     "orages",
-    "fin"
+    "canicule"
    ]
   },
   {
@@ -621,7 +621,7 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.66,
+   "divergence": 0.659,
    "category": "international",
    "terms_left": [
     "guerre ukraine",
@@ -681,7 +681,7 @@
    },
    "blindspot_score": 0.538,
    "blindspot_for": null,
-   "divergence": 0.365,
+   "divergence": 0.366,
    "category": "politique",
    "terms_left": [
     "ministre",
@@ -771,7 +771,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.726,
+   "divergence": 0.725,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -801,7 +801,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.612,
+   "divergence": 0.618,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -812,6 +812,36 @@
     "jean-luc mélenchon",
     "jean-luc",
     "mélenchon"
+   ]
+  },
+  {
+   "title": "Tensions France-Iran : deux diplomates iraniens expulsés \"dans les tout prochains jours\"",
+   "url": "https://www.lemonde.fr/international/article/2026/08/17/repression-en-iran-les-echanges-culturels-francais-dans-le-viseur-du-pouvoir_6747965_3210.html",
+   "n_members": 64,
+   "n_sources": 23,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.41,
+   "category": "international",
+   "terms_left": [
+    "arrêtés",
+    "française",
+    "alerte"
+   ],
+   "terms_right": [
+    "jean-noël barrot",
+    "jean-noël",
+    "barrot"
    ]
   },
   {
@@ -899,7 +929,7 @@
   {
    "title": "L’allocation de rentrée scolaire aide les familles à préparer la rentrée : « Ça permet de diminuer la facture »",
    "url": "https://www.franceinfo.fr/culture/livres/la-rentree-litteraire/rentree-litteraire-2026-quelque-461-romans-pour-une-reprise-resolument-variee_8146112.html",
-   "n_members": 58,
+   "n_members": 60,
    "n_sources": 23,
    "counts": {
     "left": 6,
@@ -913,7 +943,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.427,
+   "divergence": 0.428,
    "category": "économie",
    "terms_left": [
     "modestes",
@@ -929,7 +959,7 @@
   {
    "title": "\"Nous, ce qu'on cherche, c'est la tranquillité\" : ces Français qui passent leurs vacances en mode slow tourisme",
    "url": "https://www.tf1info.fr/politique/videos/video-en-liberte-macron-le-coup-de-com-de-l-ete-35550-2458219.html",
-   "n_members": 55,
+   "n_members": 57,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -943,7 +973,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.62,
+   "divergence": 0.633,
    "category": "politique",
    "terms_left": [
     "paris",
@@ -953,13 +983,13 @@
    "terms_right": [
     "français",
     "vacances",
-    "pompiers"
+    "coup"
    ]
   },
   {
    "title": "Patrick Bruel : Le chanteur visé par une nouvelle plainte pour « tentative de viol », sur une victime « tout juste majeure »",
    "url": "https://www.mediapart.fr/journal/france/140826/le-controle-judiciaire-de-patrick-bruel-ete-allege",
-   "n_members": 49,
+   "n_members": 50,
    "n_sources": 23,
    "counts": {
     "left": 7,
@@ -973,17 +1003,17 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.222,
+   "divergence": 0.21,
    "category": "culture",
    "terms_left": [
-    "guedj-benayoun",
     "myriam guedj-benayoun",
+    "guedj-benayoun",
     "judiciaire patrick"
    ],
    "terms_right": [
+    "affaire patrick",
     "contrôle judiciaire",
-    "contrôle",
-    "viol tentative"
+    "contrôle"
    ]
   },
   {
@@ -1063,12 +1093,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.229,
+   "divergence": 0.23,
    "category": "sport",
    "terms_left": [
     "blessure",
     "deuxième",
-    "décroché"
+    "bon"
    ],
    "terms_right": [
     "championnats",
@@ -1145,47 +1175,17 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.747,
+   "divergence": 0.75,
    "category": "international",
    "terms_left": [
     "moscou",
-    "kim jong-un",
-    "jong-un"
+    "direct",
+    "guerre ukraine"
    ],
    "terms_right": [
     "incendie",
     "mort",
     "pays"
-   ]
-  },
-  {
-   "title": "Tensions France-Iran : deux diplomates iraniens expulsés \"dans les tout prochains jours\"",
-   "url": "https://www.lemonde.fr/international/article/2026/08/17/repression-en-iran-les-echanges-culturels-francais-dans-le-viseur-du-pouvoir_6747965_3210.html",
-   "n_members": 61,
-   "n_sources": 22,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.414,
-   "category": "international",
-   "terms_left": [
-    "arrêtés",
-    "mesure",
-    "alerte"
-   ],
-   "terms_right": [
-    "jean-noël barrot",
-    "jean-noël",
-    "barrot"
    ]
   }
  ]
