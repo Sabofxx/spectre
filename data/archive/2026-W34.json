@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-19T10:53:56+00:00",
+ "generated_at": "2026-08-19T11:17:07+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.355,
+   "divergence": 0.354,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -155,9 +155,9 @@
    ]
   },
   {
-   "title": "EN DIRECT - Sophie Adenot devient la première Française à sortir dans l'espace",
+   "title": "Sophie Adenot va devenir la première Française à sortir dans l’espace",
    "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 146,
+   "n_members": 147,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -321,12 +321,12 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.566,
+   "divergence": 0.564,
    "category": "politique",
    "terms_left": [
     "gouvernement",
     "euros",
-    "millions euros"
+    "gironde ministre"
    ],
    "terms_right": [
     "sébastien lecornu",
@@ -337,7 +337,7 @@
   {
    "title": "France: l’aide à mourir officiellement autorisée après la promulgation de la loi par Emmanuel Macron",
    "url": "https://www.lemonde.fr/societe/article/2026/08/12/fin-de-vie-la-croisade-des-etablissements-de-sante-catholiques-pour-introduire-une-clause-de-conscience-collective_6745063_3224.html",
-   "n_members": 85,
+   "n_members": 86,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.265,
+   "divergence": 0.26,
    "category": "société",
    "terms_left": [
     "vie",
@@ -359,9 +359,9 @@
     "conscience"
    ],
    "terms_right": [
-    "mourir",
-    "aide mourir",
-    "aide"
+    "emmanuel macron",
+    "emmanuel",
+    "macron"
    ]
   },
   {
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.546,
+   "divergence": 0.547,
    "category": "société",
    "terms_left": [
     "rdc épidémie",
@@ -531,17 +531,17 @@
    },
    "blindspot_score": -0.333,
    "blindspot_for": null,
-   "divergence": 0.801,
+   "divergence": 0.799,
    "category": "environnement",
    "terms_left": [
     "désertification",
-    "cop",
-    "mongolie"
+    "mongolie",
+    "cop"
    ],
    "terms_right": [
-    "eau",
     "sécheresse",
-    "rhin"
+    "rhin",
+    "eau"
    ]
   },
   {
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.551,
+   "divergence": 0.55,
    "category": "environnement",
    "terms_left": [
     "prochains jours",
@@ -809,7 +809,7 @@
   {
    "title": "La ministre de la Transition écologique Monique Barbut décline l'invitation de Manuel Bompard aux journées d'été de LFI",
    "url": "https://www.nicematin.com/meteo/alerte-meteo/vigilance-canicule-vers-une-baisse-des-temperatures-cette-semaine-sur-la-cote-d-azur-10706733",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1089,13 +1089,73 @@
    "category": "international",
    "terms_left": [
     "moscou",
-    "jong-un",
-    "kim jong-un"
+    "kim jong-un",
+    "jong-un"
    ],
    "terms_right": [
     "incendie",
     "mort",
     "pays"
+   ]
+  },
+  {
+   "title": "Tensions France-Iran : deux diplomates iraniens expulsés \"dans les tout prochains jours\"",
+   "url": "https://www.lemonde.fr/international/article/2026/08/17/repression-en-iran-les-echanges-culturels-francais-dans-le-viseur-du-pouvoir_6747965_3210.html",
+   "n_members": 56,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.424,
+   "category": "international",
+   "terms_left": [
+    "arrêtés",
+    "française",
+    "alerte"
+   ],
+   "terms_right": [
+    "jean-noël",
+    "jean-noël barrot",
+    "barrot"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : Gérald Darmanin apporte son soutien à Édouard Philippe",
+   "url": "https://www.europe1.fr/politique/presidentielle-2027-gerald-darmanin-apporte-son-soutien-a-edouard-philippe-1019624",
+   "n_members": 33,
+   "n_sources": 22,
+   "counts": {
+    "left": 3,
+    "centre": 9,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 6,
+    "opinion": 5
+   },
+   "blindspot_score": 0.538,
+   "blindspot_for": null,
+   "divergence": 0.388,
+   "category": "politique",
+   "terms_left": [
+    "ministre",
+    "edouard philippe",
+    "edouard"
+   ],
+   "terms_right": [
+    "édouard philippe",
+    "édouard",
+    "darmanin"
    ]
   },
   {
@@ -1126,66 +1186,6 @@
     "var",
     "incendies",
     "gouvernement"
-   ]
-  },
-  {
-   "title": "Tensions France-Iran : deux diplomates iraniens expulsés \"dans les tout prochains jours\"",
-   "url": "https://www.lemonde.fr/international/article/2026/08/17/repression-en-iran-les-echanges-culturels-francais-dans-le-viseur-du-pouvoir_6747965_3210.html",
-   "n_members": 54,
-   "n_sources": 21,
-   "counts": {
-    "left": 4,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.424,
-   "category": "international",
-   "terms_left": [
-    "arrêtés",
-    "française",
-    "alerte"
-   ],
-   "terms_right": [
-    "jean-noël",
-    "jean-noël barrot",
-    "barrot"
-   ]
-  },
-  {
-   "title": "Patrick Bruel : Le chanteur visé par une nouvelle plainte pour « tentative de viol », sur une victime « tout juste majeure »",
-   "url": "https://www.mediapart.fr/journal/france/140826/le-controle-judiciaire-de-patrick-bruel-ete-allege",
-   "n_members": 44,
-   "n_sources": 21,
-   "counts": {
-    "left": 6,
-    "centre": 10,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
-    "opinion": 1
-   },
-   "blindspot_score": -0.091,
-   "blindspot_for": null,
-   "divergence": 0.261,
-   "category": "culture",
-   "terms_left": [
-    "myriam guedj-benayoun",
-    "guedj-benayoun",
-    "avocate plaignantes"
-   ],
-   "terms_right": [
-    "viol",
-    "contrôle judiciaire",
-    "contrôle"
    ]
   }
  ]
