@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-19T17:48:54+00:00",
+ "generated_at": "2026-08-19T18:20:02+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.284,
+   "divergence": 0.286,
    "category": "sciences-tech",
    "terms_left": [
     "numérique",
@@ -97,7 +97,7 @@
   {
    "title": "Donald Trump menace de bombarder Oman s'il entrave un accord sur le détroit d'Ormuz",
    "url": "https://www.europe1.fr/international/moyen-orient-donald-trump-menace-de-bombarder-oman-sil-entrave-un-accord-sur-le-detroit-dormuz-1020452",
-   "n_members": 424,
+   "n_members": 422,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.353,
+   "divergence": 0.352,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -271,7 +271,7 @@
    "terms_right": [
     "ukraine morts",
     "pays",
-    "russie"
+    "drone"
    ]
   },
   {
@@ -331,7 +331,7 @@
    "terms_right": [
     "sébastien lecornu",
     "sébastien",
-    "lecornu"
+    "landes"
    ]
   },
   {
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.506,
+   "divergence": 0.497,
    "category": "politique",
    "terms_left": [
     "millions euros",
@@ -531,11 +531,11 @@
    },
    "blindspot_score": -0.333,
    "blindspot_for": null,
-   "divergence": 0.802,
+   "divergence": 0.809,
    "category": "environnement",
    "terms_left": [
-    "désertification",
     "mongolie",
+    "désertification",
     "cop"
    ],
    "terms_right": [
@@ -785,9 +785,9 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : Sandrine Rousseau durcit le ton contre Marine Tondelier",
+   "title": "Les universités d’été des partis de gauche, une rentrée politique avec la présidentielle 2027 en ligne de mire",
    "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
-   "n_members": 69,
+   "n_members": 71,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -801,23 +801,23 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.619,
+   "divergence": 0.604,
    "category": "politique",
    "terms_left": [
     "gauche",
     "stratégie",
-    "parti"
+    "candidate"
    ],
    "terms_right": [
     "jean-luc mélenchon",
     "jean-luc",
-    "mélenchon"
+    "primaire"
    ]
   },
   {
    "title": "Tensions France-Iran : deux diplomates iraniens expulsés \"dans les tout prochains jours\"",
    "url": "https://www.lemonde.fr/international/article/2026/08/17/repression-en-iran-les-echanges-culturels-francais-dans-le-viseur-du-pouvoir_6747965_3210.html",
-   "n_members": 64,
+   "n_members": 65,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -831,7 +831,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.409,
+   "divergence": 0.41,
    "category": "international",
    "terms_left": [
     "arrêtés",
@@ -847,7 +847,7 @@
   {
    "title": "L’allocation de rentrée scolaire aide les familles à préparer la rentrée : « Ça permet de diminuer la facture »",
    "url": "https://www.franceinfo.fr/culture/livres/la-rentree-litteraire/rentree-litteraire-2026-quelque-461-romans-pour-une-reprise-resolument-variee_8146112.html",
-   "n_members": 62,
+   "n_members": 63,
    "n_sources": 23,
    "counts": {
     "left": 6,
@@ -891,7 +891,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.541,
+   "divergence": 0.51,
    "category": "politique",
    "terms_left": [
     "urgence",
@@ -1006,14 +1006,44 @@
    "divergence": 0.202,
    "category": "culture",
    "terms_left": [
-    "guedj-benayoun",
     "myriam guedj-benayoun",
+    "guedj-benayoun",
     "judiciaire patrick"
    ],
    "terms_right": [
     "affaire patrick",
     "chanteur",
     "contrôle judiciaire"
+   ]
+  },
+  {
+   "title": "Procès : ce que risque vraiment Meta, accusé d'avoir rendu les mineurs accros à Facebook et Instagram",
+   "url": "https://www.lefigaro.fr/secteur/high-tech/proces-ce-que-risque-vraiment-meta-accuse-d-avoir-rendu-les-mineurs-accros-a-facebook-et-instagram-20260818",
+   "n_members": 39,
+   "n_sources": 23,
+   "counts": {
+    "left": 3,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.4,
+   "blindspot_for": null,
+   "divergence": 0.614,
+   "category": "international",
+   "terms_left": [
+    "accusée",
+    "firme",
+    "trompé"
+   ],
+   "terms_right": [
+    "facebook",
+    "instagram",
+    "facebook instagram"
    ]
   },
   {
@@ -1044,6 +1074,36 @@
     "vague chaleur",
     "excès deuxième",
     "excès"
+   ]
+  },
+  {
+   "title": "Pourquoi il faut aller voir « Fjord » de Cristian Mungiu, dernière Palme d’or à Cannes ?",
+   "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/dans-fjord-palme-d-or-2026-cristian-mungiu-denonce-les-dangers-de-la-polarisation-a-travers-l-histoire-d-une-famille-roumaine-chretienne-integriste-exilee-en-norvege_8143226.html",
+   "n_members": 32,
+   "n_sources": 23,
+   "counts": {
+    "left": 10,
+    "centre": 8,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": -0.333,
+   "blindspot_for": null,
+   "divergence": 0.401,
+   "category": "culture",
+   "terms_left": [
+    "mungiu palme",
+    "qu",
+    "monde"
+   ],
+   "terms_right": [
+    "festival",
+    "drame",
+    "sort"
    ]
   },
   {
@@ -1134,66 +1194,6 @@
     "départements",
     "départements placés",
     "placés"
-   ]
-  },
-  {
-   "title": "EN DIRECT - Championnats d’Europe de natation : Léon Marchand s’offre une première couronne européenne sur 200m papillon",
-   "url": "https://www.franceinfo.fr/sports/natation/championnats-d-europe/quand-je-monte-les-escaliers-j-ai-deja-decide-de-plonger-madeleine-bayon-le-depassement-de-soi-et-la-determination-au-service-du-plongeon-de-haut-vol_8134439.html",
-   "n_members": 212,
-   "n_sources": 22,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.221,
-   "category": "sport",
-   "terms_left": [
-    "blessure",
-    "nageur",
-    "mètres"
-   ],
-   "terms_right": [
-    "championnats",
-    "championnats europe",
-    "europe"
-   ]
-  },
-  {
-   "title": "Séisme en Indonésie : au moins 48 morts, des milliers d'évacués en attente d'aide",
-   "url": "https://la1ere.franceinfo.fr/guadeloupe/pollution-de-l-air-la-guadeloupe-placee-en-niveau-orange-en-raison-des-poussieres-desertiques-1726537.html",
-   "n_members": 79,
-   "n_sources": 22,
-   "counts": {
-    "left": 3,
-    "centre": 14,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.512,
-   "category": "international",
-   "terms_left": [
-    "tokyo",
-    "japon",
-    "puissant"
-   ],
-   "terms_right": [
-    "magnitude",
-    "séisme magnitude",
-    "indonésie"
    ]
   }
  ]
