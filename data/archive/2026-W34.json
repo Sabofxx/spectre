@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-19T05:58:23+00:00",
+ "generated_at": "2026-08-19T06:34:21+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Piratage du fisc : quels sont les risques pour les contribuables concernés ?",
    "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 182,
+   "n_members": 183,
    "n_sources": 35,
    "counts": {
     "left": 6,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.281,
+   "divergence": 0.282,
    "category": "sciences-tech",
    "terms_left": [
     "numérique",
@@ -81,12 +81,12 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.152,
+   "divergence": 0.157,
    "category": "politique",
    "terms_left": [
     "ans censurée",
     "censurée conseil",
-    "liberté"
+    "censurée"
    ],
    "terms_right": [
     "face",
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.359,
+   "divergence": 0.36,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -149,15 +149,15 @@
     "direct incendies"
    ],
    "terms_right": [
-    "fixé",
+    "feu",
     "situation",
-    "pompiers"
+    "fixé"
    ]
   },
   {
    "title": "DIRECT. Sophie Adenot: l'astronaute française va s'aventurer dans le vide spatial, suivez sa sortie extravéhiculaire",
    "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 138,
+   "n_members": 139,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.224,
+   "divergence": 0.221,
    "category": "sciences-tech",
    "terms_left": [
     "sortir espace",
@@ -261,17 +261,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.272,
+   "divergence": 0.276,
    "category": "international",
    "terms_left": [
     "guerre ukraine",
-    "guerre",
-    "ukraine kiev"
+    "russes",
+    "guerre"
    ],
    "terms_right": [
-    "pays",
     "russie",
-    "ukraine morts"
+    "ukraine morts",
+    "pays"
    ]
   },
   {
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.254,
+   "divergence": 0.255,
    "category": "international",
    "terms_left": [
     "attaques",
@@ -635,6 +635,36 @@
    ]
   },
   {
+   "title": "France: l’aide à mourir officiellement autorisée après la promulgation de la loi par Emmanuel Macron",
+   "url": "https://www.lemonde.fr/societe/article/2026/08/12/fin-de-vie-la-croisade-des-etablissements-de-sante-catholiques-pour-introduire-une-clause-de-conscience-collective_6745063_3224.html",
+   "n_members": 79,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.296,
+   "category": "société",
+   "terms_left": [
+    "vie",
+    "fin vie",
+    "conscience"
+   ],
+   "terms_right": [
+    "mourir",
+    "aide mourir",
+    "aide"
+   ]
+  },
+  {
    "title": "Canicule : les Alpes-Maritimes toujours en alerte jaune, le Var en vigilance orange jusqu’à 6h ce mardi, on fait le point",
    "url": "https://www.ladepeche.fr/2026/07/20/qualite-de-lair-a-toulouse-lindice-passe-en-mauvais-alors-que-la-ville-rose-souffre-encore-de-la-canicule-13476179.php",
    "n_members": 139,
@@ -662,36 +692,6 @@
     "vague chaleur",
     "nouvelle",
     "vague"
-   ]
-  },
-  {
-   "title": "La loi sur l'aide à mourir officiellement autorisée en France, Emmanuel Macron a promulgué la loi",
-   "url": "https://www.lemonde.fr/societe/article/2026/08/12/fin-de-vie-la-croisade-des-etablissements-de-sante-catholiques-pour-introduire-une-clause-de-conscience-collective_6745063_3224.html",
-   "n_members": 73,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 10,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
-    "opinion": 4
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.333,
-   "category": "société",
-   "terms_left": [
-    "fin",
-    "vie",
-    "fin vie"
-   ],
-   "terms_right": [
-    "mourir",
-    "aide mourir",
-    "aide"
    ]
   },
   {
@@ -741,7 +741,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.726,
+   "divergence": 0.725,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -811,7 +811,7 @@
    "terms_right": [
     "canicule",
     "annonce",
-    "faux"
+    "gironde"
    ]
   },
   {
@@ -981,7 +981,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.226,
+   "divergence": 0.227,
    "category": "sport",
    "terms_left": [
     "blessure",
@@ -990,8 +990,8 @@
    ],
    "terms_right": [
     "championnats",
-    "championnats europe",
-    "europe"
+    "europe",
+    "championnats europe"
    ]
   },
   {
@@ -1015,8 +1015,8 @@
    "category": "international",
    "terms_left": [
     "tokyo",
-    "diluviennes",
-    "pluies diluviennes"
+    "pluies diluviennes",
+    "diluviennes"
    ],
    "terms_right": [
     "magnitude",
@@ -1068,7 +1068,7 @@
    "terms_left": [
     "kim jong-un",
     "jong-un",
-    "direct"
+    "soldats"
    ],
    "terms_right": [
     "incendie",
@@ -1077,9 +1077,9 @@
    ]
   },
   {
-   "title": "Vosges : la chaleur déclenche une grenade de la Seconde Guerre mondiale dans un étang asséché",
+   "title": "Canicule: 700.000 poules sont mortes lors des vagues de chaleur, la pénurie d'œufs possible ?",
    "url": "https://www.nicematin.com/societe/animaux/aucun-animal-ne-doit-mourir-de-la-negligence-des-hommes-le-maire-de-nice-interdit-aux-proprietaires-d-animaux-de-les-laisser-enfermes-dans-leur-vehicule-10701548",
-   "n_members": 55,
+   "n_members": 58,
    "n_sources": 22,
    "counts": {
     "left": 2,
@@ -1149,8 +1149,8 @@
    "category": "politique",
    "terms_left": [
     "ministre",
-    "edouard philippe",
-    "edouard"
+    "edouard",
+    "edouard philippe"
    ],
    "terms_right": [
     "édouard philippe",
