@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-19T13:24:54+00:00",
+ "generated_at": "2026-08-19T14:05:22+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.27,
+   "divergence": 0.269,
    "category": "international",
    "terms_left": [
     "droite",
@@ -37,7 +37,7 @@
   {
    "title": "Piratage du fisc : quels sont les risques pour les contribuables concernés ?",
    "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 185,
+   "n_members": 186,
    "n_sources": 35,
    "counts": {
     "left": 6,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.283,
+   "divergence": 0.282,
    "category": "sciences-tech",
    "terms_left": [
     "numérique",
@@ -60,8 +60,8 @@
    ],
    "terms_right": [
     "vol",
-    "site",
-    "vol données"
+    "vol données",
+    "site"
    ]
   },
   {
@@ -247,7 +247,7 @@
   {
    "title": "Guerre en Ukraine : au moins dix personnes sont mortes dans une attaque sur la région de Kharkiv",
    "url": "http://fr.euronews.com/video/2026/07/24/frappe-de-drones-ukrainiens-declenche-un-incendie-dans-des-entrepots-a-saint-petersbourg",
-   "n_members": 468,
+   "n_members": 467,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -261,17 +261,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.275,
+   "divergence": 0.274,
    "category": "international",
    "terms_left": [
     "guerre ukraine",
-    "guerre",
-    "ukraine kiev"
+    "ukraine kiev",
+    "guerre"
    ],
    "terms_right": [
     "ukraine morts",
-    "russie",
-    "pays"
+    "pays",
+    "russie"
    ]
   },
   {
@@ -307,7 +307,7 @@
   {
    "title": "Incendies: Sébastien Lecornu promet une aide de \"12 millions d'euros pour les Landes et la Gironde\"",
    "url": "https://www.valeursactuelles.com/societe/voyage-du-pape-leon-xiv-la-france-se-souviendrait-elle-de-son-bapteme",
-   "n_members": 136,
+   "n_members": 137,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -326,7 +326,7 @@
    "terms_left": [
     "gouvernement",
     "euros",
-    "gironde ministre"
+    "millions euros"
    ],
    "terms_right": [
     "sébastien lecornu",
@@ -367,7 +367,7 @@
   {
    "title": "Piratage du fisc : les cybercriminels affirment avoir vendu les données dérobées",
    "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/adrien-peyroles-directeur-general-de-bureau-vallee-18-08_EN-202608180098.html",
-   "n_members": 76,
+   "n_members": 78,
    "n_sources": 27,
    "counts": {
     "left": 4,
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.574,
+   "divergence": 0.571,
    "category": "sciences-tech",
    "terms_left": [
     "personnelles",
@@ -427,7 +427,7 @@
   {
    "title": "Ebola : 2.325 décès recensés dans un nouveau bilan, épidémie la plus meurtrière de l'histoire de la RDC",
    "url": "https://www.leparisien.fr/sciences/odeur-sucree-groupe-sanguin-ou-rien-de-cela-pourquoi-les-moustiques-raffolent-de-votre-peau-et-pas-de-celle-du-voisin-03-08-2026-7XIS34AZTNEVJPXNPS2WH45HDQ.php",
-   "n_members": 106,
+   "n_members": 107,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.546,
+   "divergence": 0.547,
    "category": "société",
    "terms_left": [
     "rdc épidémie",
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.495,
+   "divergence": 0.493,
    "category": "politique",
    "terms_left": [
     "millions euros",
@@ -509,8 +509,8 @@
     "euros"
    ],
    "terms_right": [
-    "piratage",
     "reconstruction",
+    "piratage",
     "sébastien lecornu"
    ]
   },
@@ -651,7 +651,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.796,
+   "divergence": 0.797,
    "category": "environnement",
    "terms_left": [
     "canicules",
@@ -662,6 +662,36 @@
     "pays",
     "feux",
     "situation"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027. Gérald Darmanin ne sera pas candidat et annonce son soutien à Édouard Philippe",
+   "url": "https://www.europe1.fr/politique/presidentielle-2027-gerald-darmanin-apporte-son-soutien-a-edouard-philippe-1019624",
+   "n_members": 58,
+   "n_sources": 25,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 5
+   },
+   "blindspot_score": 0.538,
+   "blindspot_for": null,
+   "divergence": 0.365,
+   "category": "politique",
+   "terms_left": [
+    "ministre",
+    "justice",
+    "ministre justice"
+   ],
+   "terms_right": [
+    "édouard philippe",
+    "édouard",
+    "ingérence russe"
    ]
   },
   {
@@ -725,36 +755,6 @@
    ]
   },
   {
-   "title": "Présidentielle 2027. Gérald Darmanin ne sera pas candidat et annonce son soutien à Édouard Philippe",
-   "url": "https://www.europe1.fr/politique/presidentielle-2027-gerald-darmanin-apporte-son-soutien-a-edouard-philippe-1019624",
-   "n_members": 57,
-   "n_sources": 24,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 5
-   },
-   "blindspot_score": 0.538,
-   "blindspot_for": null,
-   "divergence": 0.365,
-   "category": "politique",
-   "terms_left": [
-    "ministre",
-    "justice",
-    "ministre justice"
-   ],
-   "terms_right": [
-    "édouard philippe",
-    "édouard",
-    "ingérence russe"
-   ]
-  },
-  {
    "title": "États-Unis : des gants électriques bientôt utilisés par les agents de l'immigration",
    "url": "https://www.lemonde.fr/economie/article/2026/08/11/la-maison-mere-de-truth-social-le-reseau-de-donald-trump-affiche-240-millions-de-dollars-de-pertes-au-deuxieme-trimestre_6743610_3234.html",
    "n_members": 72,
@@ -771,7 +771,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.726,
+   "divergence": 0.725,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -801,17 +801,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.636,
+   "divergence": 0.625,
    "category": "politique",
    "terms_left": [
     "gauche",
     "stratégie",
-    "rentrée"
+    "pouvoir"
    ],
    "terms_right": [
     "mélenchon",
-    "ciotti",
-    "campagne"
+    "président",
+    "ciotti"
    ]
   },
   {
@@ -899,7 +899,7 @@
   {
    "title": "L’allocation de rentrée scolaire aide les familles à préparer la rentrée : « Ça permet de diminuer la facture »",
    "url": "https://www.franceinfo.fr/culture/livres/la-rentree-litteraire/rentree-litteraire-2026-quelque-461-romans-pour-une-reprise-resolument-variee_8146112.html",
-   "n_members": 57,
+   "n_members": 58,
    "n_sources": 23,
    "counts": {
     "left": 6,
@@ -1119,8 +1119,8 @@
    "category": "international",
    "terms_left": [
     "moscou",
-    "jong-un",
-    "kim jong-un"
+    "kim jong-un",
+    "jong-un"
    ],
    "terms_right": [
     "incendie",
@@ -1159,33 +1159,33 @@
    ]
   },
   {
-   "title": "Emmanuel Macron promet des aides pour le Var après incendies",
-   "url": "https://www.nicematin.com/faits-divers/incendie-dans-le-var/incendies-dans-le-var-la-ville-de-cagnes-sur-mer-souhaite-offrir-10-000-euros-a-la-protection-civile-et-apporte-son-soutien-aux-communes-sinistrees-10702541",
-   "n_members": 60,
-   "n_sources": 21,
+   "title": "Fruits et légumes: les récoltes s'effondrent en raison de la canicule, les prix devraient augmenter",
+   "url": "https://www.bfmtv.com/economie/video-gaz-le-tarif-de-reference-va-augmenter-de-5-6-en-septembre_VN-202608160037.html",
+   "n_members": 42,
+   "n_sources": 22,
    "counts": {
-    "left": 2,
-    "centre": 11,
+    "left": 4,
+    "centre": 10,
     "right": 8
    },
    "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
+    "factuel": 12,
+    "mixte": 8,
     "opinion": 2
    },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": 0.77,
-   "category": "politique",
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.942,
+   "category": "environnement",
    "terms_left": [
-    "aide",
-    "millions",
-    "mourir"
+    "ans",
+    "épisodes",
+    "chaleur"
    ],
    "terms_right": [
-    "var",
-    "incendies",
-    "gouvernement"
+    "légumes",
+    "sécheresse",
+    "prix"
    ]
   }
  ]
