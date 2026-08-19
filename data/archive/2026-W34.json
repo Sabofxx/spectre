@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-19T19:28:48+00:00",
+ "generated_at": "2026-08-19T19:49:57+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,19 +37,19 @@
   {
    "title": "Données volées, contribuables concernés, risques d’arnaques… Toutes les réponses à vos questions sur le piratage du fisc",
    "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 189,
-   "n_sources": 35,
+   "n_members": 190,
+   "n_sources": 36,
    "counts": {
     "left": 6,
     "centre": 18,
-    "right": 11
+    "right": 12
    },
    "style_counts": {
     "factuel": 19,
     "mixte": 11,
-    "opinion": 5
+    "opinion": 6
    },
-   "blindspot_score": 0.294,
+   "blindspot_score": 0.333,
    "blindspot_for": null,
    "divergence": 0.286,
    "category": "sciences-tech",
@@ -957,6 +957,36 @@
    "terms_right": []
   },
   {
+   "title": "Gaza : l'armée israélienne enquête sur la mort de la fillette Hind Rajab et de secouristes",
+   "url": "https://www.cnews.fr/france/2026-08-13/drome-saisie-par-la-maire-la-justice-soppose-au-mariage-entre-une-francaise-et-un",
+   "n_members": 58,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 4,
+    "opinion": 6
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.61,
+   "category": "international",
+   "terms_left": [
+    "fillette",
+    "itamar",
+    "itamar ben"
+   ],
+   "terms_right": [
+    "paris",
+    "maire",
+    "justice"
+   ]
+  },
+  {
    "title": "\"Nous, ce qu'on cherche, c'est la tranquillité\" : ces Français qui passent leurs vacances en mode slow tourisme",
    "url": "https://www.tf1info.fr/politique/videos/video-en-liberte-macron-le-coup-de-com-de-l-ete-35550-2458219.html",
    "n_members": 57,
@@ -984,36 +1014,6 @@
     "français",
     "vacances",
     "coup"
-   ]
-  },
-  {
-   "title": "«Des gens qui ne devraient pas être en vie»: la France dénonce les propos du ministre Ben Gvir sur Gaza",
-   "url": "https://www.cnews.fr/france/2026-08-13/drome-saisie-par-la-maire-la-justice-soppose-au-mariage-entre-une-francaise-et-un",
-   "n_members": 56,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 4,
-    "opinion": 6
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.61,
-   "category": "international",
-   "terms_left": [
-    "fillette",
-    "itamar",
-    "itamar ben"
-   ],
-   "terms_right": [
-    "paris",
-    "maire",
-    "justice"
    ]
   },
   {
