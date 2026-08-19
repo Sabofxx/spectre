@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-19T06:34:21+00:00",
+ "generated_at": "2026-08-19T07:31:36+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.157,
+   "divergence": 0.144,
    "category": "politique",
    "terms_left": [
     "ans censurée",
@@ -91,13 +91,13 @@
    "terms_right": [
     "face",
     "fin",
-    "censure interdiction"
+    "jeunes"
    ]
   },
   {
    "title": "Donald Trump menace de bombarder Oman s'il entrave un accord sur le détroit d'Ormuz",
    "url": "https://www.europe1.fr/international/moyen-orient-donald-trump-menace-de-bombarder-oman-sil-entrave-un-accord-sur-le-detroit-dormuz-1020452",
-   "n_members": 431,
+   "n_members": 429,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.214,
+   "divergence": 0.213,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.36,
+   "divergence": 0.357,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -150,14 +150,14 @@
    ],
    "terms_right": [
     "feu",
-    "situation",
-    "fixé"
+    "fixé",
+    "pompiers"
    ]
   },
   {
    "title": "DIRECT. Sophie Adenot: l'astronaute française va s'aventurer dans le vide spatial, suivez sa sortie extravéhiculaire",
    "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 139,
+   "n_members": 140,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.221,
+   "divergence": 0.22,
    "category": "sciences-tech",
    "terms_left": [
     "sortir espace",
@@ -337,7 +337,7 @@
   {
    "title": "Piratage du fisc : les cybercriminels affirment avoir vendu les données dérobées",
    "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/adrien-peyroles-directeur-general-de-bureau-vallee-18-08_EN-202608180098.html",
-   "n_members": 71,
+   "n_members": 73,
    "n_sources": 27,
    "counts": {
     "left": 4,
@@ -351,8 +351,8 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.578,
-   "category": "économie",
+   "divergence": 0.57,
+   "category": "sciences-tech",
    "terms_left": [
     "personnelles",
     "millions élèves",
@@ -360,8 +360,8 @@
    ],
    "terms_right": [
     "éducation",
-    "données",
-    "éducation nationale"
+    "éducation nationale",
+    "nationale"
    ]
   },
   {
@@ -392,6 +392,36 @@
     "guerre",
     "iran",
     "trump"
+   ]
+  },
+  {
+   "title": "Ebola : 2.325 décès recensés dans un nouveau bilan, épidémie la plus meurtrière de l'histoire de la RDC",
+   "url": "https://www.leparisien.fr/sciences/odeur-sucree-groupe-sanguin-ou-rien-de-cela-pourquoi-les-moustiques-raffolent-de-votre-peau-et-pas-de-celle-du-voisin-03-08-2026-7XIS34AZTNEVJPXNPS2WH45HDQ.php",
+   "n_members": 105,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 15,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.547,
+   "category": "société",
+   "terms_left": [
+    "rdc épidémie",
+    "rdc",
+    "ebola rdc"
+   ],
+   "terms_right": [
+    "meurtrière",
+    "bilan",
+    "meurtrière histoire"
    ]
   },
   {
@@ -441,12 +471,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.504,
+   "divergence": 0.503,
    "category": "politique",
    "terms_left": [
-    "millions",
     "millions euros",
-    "euros"
+    "millions",
+    "lettre"
    ],
    "terms_right": [
     "piratage",
@@ -485,9 +515,9 @@
    ]
   },
   {
-   "title": "Météo : doit-on s'attendre à d'autres épisodes de canicule dans les prochaines semaines ?",
+   "title": "Fin de la canicule : on va enfin respirer !",
    "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
-   "n_members": 143,
+   "n_members": 144,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -515,39 +545,9 @@
    ]
   },
   {
-   "title": "Ebola : 2.325 décès recensés dans un nouveau bilan, épidémie la plus meurtrière de l'histoire de la RDC",
-   "url": "https://www.leparisien.fr/sciences/odeur-sucree-groupe-sanguin-ou-rien-de-cela-pourquoi-les-moustiques-raffolent-de-votre-peau-et-pas-de-celle-du-voisin-03-08-2026-7XIS34AZTNEVJPXNPS2WH45HDQ.php",
-   "n_members": 104,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 14,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.546,
-   "category": "société",
-   "terms_left": [
-    "rdc épidémie",
-    "rdc",
-    "ebola rdc"
-   ],
-   "terms_right": [
-    "meurtrière",
-    "bilan",
-    "meurtrière histoire"
-   ]
-  },
-  {
    "title": "Trump veut réduire fortement les exercices militaires avec la Corée du Sud",
    "url": "https://www.lefigaro.fr/international/guerre-iran-etats-unis-le-pakistan-espere-que-l-accord-sur-ormuz-ouvrira-la-voie-a-une-reprise-du-dialogue-20260806",
-   "n_members": 96,
+   "n_members": 97,
    "n_sources": 25,
    "counts": {
     "left": 7,
@@ -605,6 +605,36 @@
    ]
   },
   {
+   "title": "France: l’aide à mourir officiellement autorisée après la promulgation de la loi par Emmanuel Macron",
+   "url": "https://www.lemonde.fr/societe/article/2026/08/12/fin-de-vie-la-croisade-des-etablissements-de-sante-catholiques-pour-introduire-une-clause-de-conscience-collective_6745063_3224.html",
+   "n_members": 80,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.303,
+   "category": "société",
+   "terms_left": [
+    "vie",
+    "fin vie",
+    "conscience"
+   ],
+   "terms_right": [
+    "mourir",
+    "aide mourir",
+    "aide"
+   ]
+  },
+  {
    "title": "Incendies : de la Belgique à l'Espagne, l'Europe toujours aux prises avec les flammes",
    "url": "https://www.bfmtv.com/sante/video-canicule-on-est-pret-mais-on-est-dans-une-situation-tendue-explique-nicolas-gonzales-chef-du-service-des-urgences-a-l-hopital-de-saclay_VN-202608080087.html",
    "n_members": 79,
@@ -621,7 +651,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.795,
+   "divergence": 0.796,
    "category": "environnement",
    "terms_left": [
     "canicules",
@@ -632,36 +662,6 @@
     "pays",
     "feux",
     "situation"
-   ]
-  },
-  {
-   "title": "France: l’aide à mourir officiellement autorisée après la promulgation de la loi par Emmanuel Macron",
-   "url": "https://www.lemonde.fr/societe/article/2026/08/12/fin-de-vie-la-croisade-des-etablissements-de-sante-catholiques-pour-introduire-une-clause-de-conscience-collective_6745063_3224.html",
-   "n_members": 79,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 4
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.296,
-   "category": "société",
-   "terms_left": [
-    "vie",
-    "fin vie",
-    "conscience"
-   ],
-   "terms_right": [
-    "mourir",
-    "aide mourir",
-    "aide"
    ]
   },
   {
@@ -741,7 +741,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.725,
+   "divergence": 0.726,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -757,7 +757,7 @@
   {
    "title": "Présidentielle 2027 : Marine Tondelier dit que les Écologistes sont « prêts à rediscuter avec tout le monde à gauche »",
    "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
-   "n_members": 64,
+   "n_members": 66,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -771,18 +771,40 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.674,
+   "divergence": 0.649,
    "category": "politique",
    "terms_left": [
-    "gauche",
     "extrême",
-    "extrême droite"
+    "extrême droite",
+    "gauche"
    ],
    "terms_right": [
     "mélenchon",
     "ciotti",
-    "qu"
+    "président"
    ]
+  },
+  {
+   "title": "Canicule: 700.000 poules sont mortes lors des vagues de chaleur, la pénurie d'œufs possible ?",
+   "url": "https://www.nicematin.com/societe/animaux/aucun-animal-ne-doit-mourir-de-la-negligence-des-hommes-le-maire-de-nice-interdit-aux-proprietaires-d-animaux-de-les-laisser-enfermes-dans-leur-vehicule-10701548",
+   "n_members": 59,
+   "n_sources": 23,
+   "counts": {
+    "left": 2,
+    "centre": 11,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 5,
+    "opinion": 5
+   },
+   "blindspot_score": 0.667,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "environnement",
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Le faux plombier lui dérobe 113 000 euros",
@@ -801,7 +823,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.603,
+   "divergence": 0.604,
    "category": "environnement",
    "terms_left": [
     "vacances",
@@ -875,9 +897,9 @@
    ]
   },
   {
-   "title": "L’allocation de rentrée scolaire versée ce mardi à 3 millions de familles",
+   "title": "L’allocation de rentrée scolaire aide les familles à préparer la rentrée : « Ça permet de diminuer la facture »",
    "url": "https://www.franceinfo.fr/culture/livres/la-rentree-litteraire/rentree-litteraire-2026-quelque-461-romans-pour-une-reprise-resolument-variee_8146112.html",
-   "n_members": 50,
+   "n_members": 52,
    "n_sources": 23,
    "counts": {
     "left": 6,
@@ -891,7 +913,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.473,
+   "divergence": 0.451,
    "category": "économie",
    "terms_left": [
     "modestes",
@@ -1075,28 +1097,6 @@
     "mort",
     "nouveau"
    ]
-  },
-  {
-   "title": "Canicule: 700.000 poules sont mortes lors des vagues de chaleur, la pénurie d'œufs possible ?",
-   "url": "https://www.nicematin.com/societe/animaux/aucun-animal-ne-doit-mourir-de-la-negligence-des-hommes-le-maire-de-nice-interdit-aux-proprietaires-d-animaux-de-les-laisser-enfermes-dans-leur-vehicule-10701548",
-   "n_members": 58,
-   "n_sources": 22,
-   "counts": {
-    "left": 2,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 5,
-    "opinion": 4
-   },
-   "blindspot_score": 0.636,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "environnement",
-   "terms_left": [],
-   "terms_right": []
   },
   {
    "title": "Royaume-Uni : après le suicide du professeur Jason Arday, ses proches dénoncent une « campagne de harcèlement »",
