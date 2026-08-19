@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-19T17:19:24+00:00",
+ "generated_at": "2026-08-19T17:48:54+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.147,
+   "divergence": 0.143,
    "category": "politique",
    "terms_left": [
     "ans censurée",
@@ -91,7 +91,7 @@
    "terms_right": [
     "face",
     "fin",
-    "interdiction ans"
+    "gouvernement"
    ]
   },
   {
@@ -185,9 +185,9 @@
    ]
   },
   {
-   "title": "Gel des retraites : que sait-on du nouveau scénario du gouvernement ?",
+   "title": "Budget : le ministre de l’Économie ouvre la porte à un gel partiel des retraites en 2027",
    "url": "https://www.ouest-france.fr/economie/retraites/mode-de-calcul-trimestres-pour-enfant-que-vont-changer-ces-nouveaux-decrets-sur-la-retraite-des-meres-de-famille-e5f79f04-90d2-11f1-9add-57c399f24235",
-   "n_members": 103,
+   "n_members": 104,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.61,
+   "divergence": 0.605,
    "category": "économie",
    "terms_left": [
     "sébastien",
@@ -210,8 +210,8 @@
    ],
    "terms_right": [
     "pensions",
-    "aisés",
-    "retraités"
+    "retraités",
+    "aisés"
    ]
   },
   {
@@ -247,7 +247,7 @@
   {
    "title": "Guerre en Ukraine : au moins dix personnes sont mortes dans une attaque sur la région de Kharkiv",
    "url": "http://fr.euronews.com/video/2026/07/24/frappe-de-drones-ukrainiens-declenche-un-incendie-dans-des-entrepots-a-saint-petersbourg",
-   "n_members": 467,
+   "n_members": 464,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.274,
+   "divergence": 0.275,
    "category": "international",
    "terms_left": [
     "guerre ukraine",
@@ -337,7 +337,7 @@
   {
    "title": "France: l’aide à mourir officiellement autorisée après la promulgation de la loi par Emmanuel Macron",
    "url": "https://www.lemonde.fr/societe/article/2026/08/12/fin-de-vie-la-croisade-des-etablissements-de-sante-catholiques-pour-introduire-une-clause-de-conscience-collective_6745063_3224.html",
-   "n_members": 89,
+   "n_members": 90,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.505,
+   "divergence": 0.506,
    "category": "politique",
    "terms_left": [
     "millions euros",
@@ -531,17 +531,17 @@
    },
    "blindspot_score": -0.333,
    "blindspot_for": null,
-   "divergence": 0.801,
+   "divergence": 0.802,
    "category": "environnement",
    "terms_left": [
     "désertification",
-    "cop",
-    "mongolie"
+    "mongolie",
+    "cop"
    ],
    "terms_right": [
     "sécheresse",
     "rhin",
-    "eau"
+    "niveau"
    ]
   },
   {
@@ -771,7 +771,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.726,
+   "divergence": 0.725,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -801,7 +801,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.618,
+   "divergence": 0.619,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -845,6 +845,36 @@
    ]
   },
   {
+   "title": "L’allocation de rentrée scolaire aide les familles à préparer la rentrée : « Ça permet de diminuer la facture »",
+   "url": "https://www.franceinfo.fr/culture/livres/la-rentree-litteraire/rentree-litteraire-2026-quelque-461-romans-pour-une-reprise-resolument-variee_8146112.html",
+   "n_members": 62,
+   "n_sources": 23,
+   "counts": {
+    "left": 6,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.409,
+   "category": "économie",
+   "terms_left": [
+    "modestes",
+    "versée millions",
+    "qu"
+   ],
+   "terms_right": [
+    "euros",
+    "fournitures",
+    "conditions"
+   ]
+  },
+  {
    "title": "La ministre de la Transition écologique Monique Barbut décline l'invitation de Manuel Bompard aux journées d'été de LFI",
    "url": "https://www.nicematin.com/meteo/alerte-meteo/vigilance-canicule-vers-une-baisse-des-temperatures-cette-semaine-sur-la-cote-d-azur-10706733",
    "n_members": 61,
@@ -861,47 +891,17 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.533,
+   "divergence": 0.541,
    "category": "politique",
    "terms_left": [
     "urgence",
     "universités",
-    "dérèglement"
+    "invitée"
    ],
    "terms_right": [
     "france",
     "français",
     "ministre transition"
-   ]
-  },
-  {
-   "title": "L’allocation de rentrée scolaire aide les familles à préparer la rentrée : « Ça permet de diminuer la facture »",
-   "url": "https://www.franceinfo.fr/culture/livres/la-rentree-litteraire/rentree-litteraire-2026-quelque-461-romans-pour-une-reprise-resolument-variee_8146112.html",
-   "n_members": 61,
-   "n_sources": 23,
-   "counts": {
-    "left": 6,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 10,
-    "opinion": 2
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.429,
-   "category": "économie",
-   "terms_left": [
-    "modestes",
-    "versée millions",
-    "qu"
-   ],
-   "terms_right": [
-    "euros",
-    "fournitures",
-    "conditions"
    ]
   },
   {
@@ -1047,6 +1047,36 @@
    ]
   },
   {
+   "title": "François Patriat, sénateur proche d'Emmanuel Macron, est mort à l'âge de 83 ans",
+   "url": "https://www.bfmtv.com/politique/le-senateur-francois-patriat-est-mort-a-l-age-de-83-ans_AN-202608190311.html",
+   "n_members": 30,
+   "n_sources": 23,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.334,
+   "category": "politique",
+   "terms_left": [
+    "socialiste",
+    "mort françois",
+    "ancien ministre"
+   ],
+   "terms_right": [
+    "âge ans",
+    "âge",
+    "mort âge"
+   ]
+  },
+  {
    "title": "Yvette Roudy, première ministre des Droits de la femme, est morte à 97 ans",
    "url": "https://www.humanite.fr/politique/assemblee-nationale/yvette-roudy-ancienne-ministre-des-droits-de-la-femme-de-mitterrand-est-morte-a-lage-de-97-ans",
    "n_members": 29,
@@ -1123,12 +1153,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.23,
+   "divergence": 0.221,
    "category": "sport",
    "terms_left": [
     "blessure",
-    "deuxième",
-    "bon"
+    "nageur",
+    "mètres"
    ],
    "terms_right": [
     "championnats",
@@ -1165,28 +1195,6 @@
     "séisme magnitude",
     "indonésie"
    ]
-  },
-  {
-   "title": "Incendies en Grèce: deux morts dans des feux sur une île près d'Athènes, des centaines de personnes évacuées",
-   "url": "https://www.ladepeche.fr/2026/08/07/lexcursion-en-bateau-vire-au-drame-une-mere-de-famille-se-noie-sous-les-yeux-de-ses-enfants-lors-dune-sortie-en-mer-13499423.php",
-   "n_members": 71,
-   "n_sources": 22,
-   "counts": {
-    "left": 2,
-    "centre": 14,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.685,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
