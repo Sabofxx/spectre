@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-20T05:54:45+00:00",
+ "generated_at": "2026-08-20T06:27:31+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -97,7 +97,7 @@
   {
    "title": "Donald Trump menace de bombarder Oman s'il entrave un accord sur le détroit d'Ormuz",
    "url": "https://www.europe1.fr/international/moyen-orient-donald-trump-menace-de-bombarder-oman-sil-entrave-un-accord-sur-le-detroit-dormuz-1020452",
-   "n_members": 412,
+   "n_members": 413,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -121,7 +121,7 @@
    "terms_right": [
     "états-unis",
     "détroit ormuz",
-    "ormuz"
+    "pays"
    ]
   },
   {
@@ -247,7 +247,7 @@
   {
    "title": "Guerre en Ukraine : au moins dix personnes sont mortes dans une attaque sur la région de Kharkiv",
    "url": "http://fr.euronews.com/video/2026/07/24/frappe-de-drones-ukrainiens-declenche-un-incendie-dans-des-entrepots-a-saint-petersbourg",
-   "n_members": 467,
+   "n_members": 470,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -261,12 +261,12 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.271,
+   "divergence": 0.268,
    "category": "international",
    "terms_left": [
-    "guerre ukraine",
     "ukraine kiev",
-    "guerre"
+    "guerre ukraine",
+    "ukraine attaque"
    ],
    "terms_right": [
     "ukraine morts",
@@ -321,12 +321,12 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.564,
+   "divergence": 0.561,
    "category": "politique",
    "terms_left": [
+    "moyens",
     "euros",
-    "millions euros",
-    "moyens"
+    "millions euros"
    ],
    "terms_right": [
     "sébastien lecornu",
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.553,
+   "divergence": 0.554,
    "category": "environnement",
    "terms_left": [
     "prochains jours",
@@ -591,11 +591,11 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.502,
+   "divergence": 0.505,
    "category": "international",
    "terms_left": [
     "défense",
-    "pakistan",
+    "mecque",
     "pacte"
    ],
    "terms_right": [
@@ -755,6 +755,36 @@
    ]
   },
   {
+   "title": "Fruits et légumes: les récoltes s'effondrent en raison de la canicule, les prix devraient augmenter",
+   "url": "https://www.bfmtv.com/economie/video-gaz-le-tarif-de-reference-va-augmenter-de-5-6-en-septembre_VN-202608160037.html",
+   "n_members": 54,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.941,
+   "category": "environnement",
+   "terms_left": [
+    "ans",
+    "épisodes",
+    "personnes"
+   ],
+   "terms_right": [
+    "légumes",
+    "sécheresse",
+    "prix"
+   ]
+  },
+  {
    "title": "Procès : ce que risque vraiment Meta, accusé d'avoir rendu les mineurs accros à Facebook et Instagram",
    "url": "https://www.lefigaro.fr/secteur/high-tech/proces-ce-que-risque-vraiment-meta-accuse-d-avoir-rendu-les-mineurs-accros-a-facebook-et-instagram-20260818",
    "n_members": 44,
@@ -786,7 +816,7 @@
   },
   {
    "title": "Jusqu’à 37 degrés attendus : la vigilance jaune canicule se poursuit ce mercredi dans le Var",
-   "url": "https://www.sudouest.fr/tourisme/tourisme-les-clignotants-sont-plutot-au-vert-sur-tous-les-registres-pour-l-ete-2026-selon-le-ministre-serge-papin-30011043.php",
+   "url": "https://www.tf1info.fr/high-tech/videos/video-au-japon-des-vestes-climatisees-et-un-frigo-pour-humains-face-a-la-canicule-des-solutions-innovantes-pour-la-chaleur-extreme-54833-2454191.html",
    "n_members": 130,
    "n_sources": 23,
    "counts": {
@@ -831,7 +861,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.726,
+   "divergence": 0.725,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -841,7 +871,7 @@
    "terms_right": [
     "états-unis",
     "porte-avions",
-    "droits"
+    "qu"
    ]
   },
   {
@@ -965,6 +995,36 @@
    ]
   },
   {
+   "title": "Gaza : l'armée israélienne enquête sur la mort de la fillette Hind Rajab et de secouristes",
+   "url": "https://www.cnews.fr/france/2026-08-13/drome-saisie-par-la-maire-la-justice-soppose-au-mariage-entre-une-francaise-et-un",
+   "n_members": 61,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 4,
+    "opinion": 6
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.589,
+   "category": "international",
+   "terms_left": [
+    "fillette",
+    "itamar",
+    "itamar ben"
+   ],
+   "terms_right": [
+    "paris",
+    "maire",
+    "justice"
+   ]
+  },
+  {
    "title": "Canicule: 700.000 poules sont mortes lors des vagues de chaleur, la pénurie d'œufs possible ?",
    "url": "https://www.nicematin.com/societe/animaux/aucun-animal-ne-doit-mourir-de-la-negligence-des-hommes-le-maire-de-nice-interdit-aux-proprietaires-d-animaux-de-les-laisser-enfermes-dans-leur-vehicule-10701548",
    "n_members": 60,
@@ -985,36 +1045,6 @@
    "category": "environnement",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Gaza : l'armée israélienne enquête sur la mort de la fillette Hind Rajab et de secouristes",
-   "url": "https://www.cnews.fr/france/2026-08-13/drome-saisie-par-la-maire-la-justice-soppose-au-mariage-entre-une-francaise-et-un",
-   "n_members": 60,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 4,
-    "opinion": 6
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.612,
-   "category": "international",
-   "terms_left": [
-    "fillette",
-    "itamar",
-    "itamar ben"
-   ],
-   "terms_right": [
-    "paris",
-    "maire",
-    "justice"
-   ]
   },
   {
    "title": "\"Nous, ce qu'on cherche, c'est la tranquillité\" : ces Français qui passent leurs vacances en mode slow tourisme",
@@ -1063,47 +1093,17 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.204,
+   "divergence": 0.205,
    "category": "culture",
    "terms_left": [
     "judiciaire patrick",
     "prescrits",
-    "bruel allégé"
+    "autorisé quitter"
    ],
    "terms_right": [
     "affaire patrick",
     "ans",
     "chanteur"
-   ]
-  },
-  {
-   "title": "Fruits et légumes: les récoltes s'effondrent en raison de la canicule, les prix devraient augmenter",
-   "url": "https://www.bfmtv.com/economie/video-gaz-le-tarif-de-reference-va-augmenter-de-5-6-en-septembre_VN-202608160037.html",
-   "n_members": 52,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.941,
-   "category": "environnement",
-   "terms_left": [
-    "ans",
-    "épisodes",
-    "personnes"
-   ],
-   "terms_right": [
-    "légumes",
-    "sécheresse",
-    "prix"
    ]
   },
   {
@@ -1153,7 +1153,7 @@
    },
    "blindspot_score": -0.333,
    "blindspot_for": null,
-   "divergence": 0.401,
+   "divergence": 0.406,
    "category": "culture",
    "terms_left": [
     "mungiu palme",
