@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-20T17:57:59+00:00",
+ "generated_at": "2026-08-20T18:26:56+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.263,
+   "divergence": 0.261,
    "category": "sciences-tech",
    "terms_left": [
     "numérique",
@@ -61,7 +61,7 @@
    "terms_right": [
     "vol",
     "vol données",
-    "impôts"
+    "usagers"
    ]
   },
   {
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.149,
+   "divergence": 0.148,
    "category": "politique",
    "terms_left": [
     "ans censurée",
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.559,
+   "divergence": 0.557,
    "category": "économie",
    "terms_left": [
     "familiales",
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.393,
+   "divergence": 0.392,
    "category": "politique",
    "terms_left": [
     "gouvernement",
@@ -471,12 +471,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.5,
+   "divergence": 0.503,
    "category": "environnement",
    "terms_left": [
     "vagues",
     "vagues chaleur",
-    "jours"
+    "prochains jours"
    ],
    "terms_right": [
     "météo",
@@ -575,6 +575,36 @@
    ]
   },
   {
+   "title": "La canicule en France a fait au moins 7 300 morts, selon un bilan encore provisoire",
+   "url": "https://www.leparisien.fr/meteo/la-vague-de-chaleur-en-cours-en-france-devient-la-deuxieme-plus-longue-jamais-enregistree-19-08-2026-6IWQPEXC4NBBPLPFEM4S3S3JHQ.php",
+   "n_members": 62,
+   "n_sources": 26,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": -0.077,
+   "blindspot_for": null,
+   "divergence": 0.311,
+   "category": "environnement",
+   "terms_left": [
+    "bilan provisoire",
+    "provisoire",
+    "bilan"
+   ],
+   "terms_right": [
+    "vague chaleur",
+    "mortes",
+    "liés"
+   ]
+  },
+  {
    "title": "Donald Trump affirme \"bien s'entendre\" avec Kim Jong-un et veut réduire les exercices militaires conjoints avec la Corée du Sud",
    "url": "https://www.lefigaro.fr/international/guerre-iran-etats-unis-le-pakistan-espere-que-l-accord-sur-ormuz-ouvrira-la-voie-a-une-reprise-du-dialogue-20260806",
    "n_members": 104,
@@ -607,7 +637,7 @@
   {
    "title": "Présidentielle 2027 : la gauche lance sa campagne en ordre dispersé",
    "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
-   "n_members": 86,
+   "n_members": 89,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -621,7 +651,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.544,
+   "divergence": 0.561,
    "category": "politique",
    "terms_left": [
     "mois",
@@ -629,9 +659,9 @@
     "imposer"
    ],
    "terms_right": [
-    "campagne",
     "écologistes",
-    "programme"
+    "france",
+    "campagne"
    ]
   },
   {
@@ -681,17 +711,17 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.79,
+   "divergence": 0.788,
    "category": "environnement",
    "terms_left": [
     "canicules",
-    "france",
-    "français"
+    "solaire",
+    "championnats"
    ],
    "terms_right": [
-    "incendies",
+    "météo",
     "pays",
-    "météo"
+    "chaleur"
    ]
   },
   {
@@ -711,7 +741,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.541,
+   "divergence": 0.54,
    "category": "international",
    "terms_left": [
     "itamar",
@@ -722,36 +752,6 @@
     "gaza armée",
     "paris",
     "propos"
-   ]
-  },
-  {
-   "title": "La canicule en France a fait au moins 7 300 morts, selon un bilan encore provisoire",
-   "url": "https://www.leparisien.fr/meteo/la-vague-de-chaleur-en-cours-en-france-devient-la-deuxieme-plus-longue-jamais-enregistree-19-08-2026-6IWQPEXC4NBBPLPFEM4S3S3JHQ.php",
-   "n_members": 61,
-   "n_sources": 25,
-   "counts": {
-    "left": 7,
-    "centre": 12,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 10,
-    "opinion": 2
-   },
-   "blindspot_score": -0.077,
-   "blindspot_for": null,
-   "divergence": 0.311,
-   "category": "environnement",
-   "terms_left": [
-    "bilan provisoire",
-    "provisoire",
-    "bilan"
-   ],
-   "terms_right": [
-    "vague chaleur",
-    "mortes",
-    "liés"
    ]
   },
   {
@@ -951,7 +951,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.368,
+   "divergence": 0.367,
    "category": "international",
    "terms_left": [
     "arrêtés",
@@ -1071,7 +1071,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.604,
+   "divergence": 0.603,
    "category": "environnement",
    "terms_left": [
     "vacances",
@@ -1101,7 +1101,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.485,
+   "divergence": 0.484,
    "category": "politique",
    "terms_left": [
     "universités",
@@ -1158,7 +1158,7 @@
    "terms_left": [
     "judiciaire patrick",
     "prescrits",
-    "autorisé quitter"
+    "bruel allégé"
    ],
    "terms_right": [
     "affaire patrick",
@@ -1167,33 +1167,33 @@
    ]
   },
   {
-   "title": "Pourquoi il faut aller voir « Fjord » de Cristian Mungiu, dernière Palme d’or à Cannes ?",
-   "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/dans-fjord-palme-d-or-2026-cristian-mungiu-denonce-les-dangers-de-la-polarisation-a-travers-l-histoire-d-une-famille-roumaine-chretienne-integriste-exilee-en-norvege_8143226.html",
-   "n_members": 32,
+   "title": "Présidentielle 2027 : Edouard Philippe veut « fermer totalement les vannes de l’immigration » à Mayotte et suspendre le droit du sol",
+   "url": "https://www.20minutes.fr/societe/4239546-20260817-info-midi-2-minutes-star-eteint-hollywood-lecornu-hue-gironde-roi-leon",
+   "n_members": 49,
    "n_sources": 23,
    "counts": {
-    "left": 10,
-    "centre": 8,
-    "right": 5
+    "left": 4,
+    "centre": 11,
+    "right": 8
    },
    "style_counts": {
-    "factuel": 10,
-    "mixte": 8,
-    "opinion": 5
+    "factuel": 12,
+    "mixte": 7,
+    "opinion": 4
    },
-   "blindspot_score": -0.333,
+   "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.398,
-   "category": "culture",
+   "divergence": 0.652,
+   "category": "politique",
    "terms_left": [
     "qu",
-    "mungiu palme",
-    "enfants"
+    "mélenchon",
+    "dette"
    ],
    "terms_right": [
-    "festival",
-    "fois",
-    "drame"
+    "édouard philippe",
+    "édouard",
+    "présidentielle"
    ]
   }
  ]
