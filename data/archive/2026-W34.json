@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-20T06:27:31+00:00",
+ "generated_at": "2026-08-20T07:16:25+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.27,
+   "divergence": 0.269,
    "category": "international",
    "terms_left": [
     "droite",
@@ -37,7 +37,7 @@
   {
    "title": "Données volées, contribuables concernés, risques d’arnaques… Toutes les réponses à vos questions sur le piratage du fisc",
    "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 190,
+   "n_members": 191,
    "n_sources": 36,
    "counts": {
     "left": 6,
@@ -51,17 +51,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.286,
+   "divergence": 0.284,
    "category": "sciences-tech",
    "terms_left": [
     "numérique",
-    "gouvernement",
-    "crise"
+    "etat",
+    "gouvernement"
    ],
    "terms_right": [
     "vol",
     "vol données",
-    "site impôts"
+    "usagers"
    ]
   },
   {
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.143,
+   "divergence": 0.142,
    "category": "politique",
    "terms_left": [
     "ans censurée",
@@ -97,7 +97,7 @@
   {
    "title": "Donald Trump menace de bombarder Oman s'il entrave un accord sur le détroit d'Ormuz",
    "url": "https://www.europe1.fr/international/moyen-orient-donald-trump-menace-de-bombarder-oman-sil-entrave-un-accord-sur-le-detroit-dormuz-1020452",
-   "n_members": 413,
+   "n_members": 414,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.228,
+   "divergence": 0.227,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -121,7 +121,7 @@
    "terms_right": [
     "états-unis",
     "détroit ormuz",
-    "pays"
+    "ormuz"
    ]
   },
   {
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.346,
+   "divergence": 0.347,
    "category": "environnement",
    "terms_left": [
     "direct",
@@ -150,8 +150,8 @@
    ],
    "terms_right": [
     "feu",
-    "fixé",
-    "feu forêt"
+    "feu forêt",
+    "forêt"
    ]
   },
   {
@@ -215,6 +215,36 @@
    ]
   },
   {
+   "title": "Guerre en Ukraine : au moins dix personnes sont mortes dans une attaque sur la région de Kharkiv",
+   "url": "http://fr.euronews.com/video/2026/07/24/frappe-de-drones-ukrainiens-declenche-un-incendie-dans-des-entrepots-a-saint-petersbourg",
+   "n_members": 473,
+   "n_sources": 28,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": 0.125,
+   "blindspot_for": null,
+   "divergence": 0.266,
+   "category": "international",
+   "terms_left": [
+    "guerre ukraine",
+    "ukraine kiev",
+    "ukraine attaque"
+   ],
+   "terms_right": [
+    "ukraine morts",
+    "pays",
+    "drone"
+   ]
+  },
+  {
    "title": "Afghanistan, les femmes réduites au silence depuis 5 ans",
    "url": "https://www.cnews.fr/science/2026-08-09/dragon-devoreur-colere-des-dieux-ces-mythes-et-legendes-surprenants-qui",
    "n_members": 71,
@@ -242,36 +272,6 @@
     "afghanistan",
     "afghanistan ans",
     "pays"
-   ]
-  },
-  {
-   "title": "Guerre en Ukraine : au moins dix personnes sont mortes dans une attaque sur la région de Kharkiv",
-   "url": "http://fr.euronews.com/video/2026/07/24/frappe-de-drones-ukrainiens-declenche-un-incendie-dans-des-entrepots-a-saint-petersbourg",
-   "n_members": 470,
-   "n_sources": 27,
-   "counts": {
-    "left": 7,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": 0.067,
-   "blindspot_for": null,
-   "divergence": 0.268,
-   "category": "international",
-   "terms_left": [
-    "ukraine kiev",
-    "guerre ukraine",
-    "ukraine attaque"
-   ],
-   "terms_right": [
-    "ukraine morts",
-    "pays",
-    "drone"
    ]
   },
   {
@@ -321,17 +321,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.561,
+   "divergence": 0.54,
    "category": "politique",
    "terms_left": [
-    "moyens",
     "euros",
+    "moyens",
     "millions euros"
    ],
    "terms_right": [
     "sébastien lecornu",
     "sébastien",
-    "landes"
+    "porge"
    ]
   },
   {
@@ -547,7 +547,7 @@
   {
    "title": "Canicules : plus de 50 jours de vagues de chaleur enregistrés en France en 2026, un record",
    "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
-   "n_members": 152,
+   "n_members": 153,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.554,
+   "divergence": 0.551,
    "category": "environnement",
    "terms_left": [
     "prochains jours",
@@ -571,7 +571,7 @@
    "terms_right": [
     "météo",
     "orages",
-    "canicule"
+    "fin"
    ]
   },
   {
@@ -591,12 +591,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.505,
+   "divergence": 0.479,
    "category": "international",
    "terms_left": [
-    "défense",
     "mecque",
-    "pacte"
+    "pacte",
+    "pakistan"
    ],
    "terms_right": [
     "donald trump",
@@ -697,7 +697,7 @@
   {
    "title": "Présidentielle 2027 : la gauche lance sa campagne en ordre dispersé",
    "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
-   "n_members": 77,
+   "n_members": 80,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -711,17 +711,17 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.568,
+   "divergence": 0.555,
    "category": "politique",
    "terms_left": [
     "stratégie",
-    "pen",
-    "urgence"
+    "verts",
+    "marine"
    ],
    "terms_right": [
     "campagne",
-    "primaire",
-    "écologistes"
+    "écologistes",
+    "france"
    ]
   },
   {
@@ -861,7 +861,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.725,
+   "divergence": 0.726,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -921,7 +921,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.41,
+   "divergence": 0.404,
    "category": "économie",
    "terms_left": [
     "modestes",
@@ -981,7 +981,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.521,
+   "divergence": 0.519,
    "category": "politique",
    "terms_left": [
     "universités",
@@ -1063,7 +1063,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.63,
+   "divergence": 0.632,
    "category": "politique",
    "terms_left": [
     "paris",
@@ -1073,13 +1073,13 @@
    "terms_right": [
     "français",
     "vacances",
-    "reste"
+    "pompiers"
    ]
   },
   {
    "title": "Affaire Patrick Bruel: le chanteur visé par une nouvelle plainte pour \"tentative de viol\"",
    "url": "https://www.mediapart.fr/journal/france/140826/le-controle-judiciaire-de-patrick-bruel-ete-allege",
-   "n_members": 56,
+   "n_members": 57,
    "n_sources": 23,
    "counts": {
     "left": 7,
@@ -1098,7 +1098,7 @@
    "terms_left": [
     "judiciaire patrick",
     "prescrits",
-    "autorisé quitter"
+    "bruel allégé"
    ],
    "terms_right": [
     "affaire patrick",
