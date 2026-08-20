@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-20T17:00:46+00:00",
+ "generated_at": "2026-08-20T17:29:56+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.271,
+   "divergence": 0.263,
    "category": "sciences-tech",
    "terms_left": [
     "numérique",
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.149,
+   "divergence": 0.15,
    "category": "politique",
    "terms_left": [
     "ans censurée",
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.558,
+   "divergence": 0.559,
    "category": "économie",
    "terms_left": [
     "familiales",
@@ -217,7 +217,7 @@
   {
    "title": "Guerre en Ukraine : au moins dix personnes sont mortes dans une attaque sur la région de Kharkiv",
    "url": "http://fr.euronews.com/video/2026/07/24/frappe-de-drones-ukrainiens-declenche-un-incendie-dans-des-entrepots-a-saint-petersbourg",
-   "n_members": 486,
+   "n_members": 487,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.398,
+   "divergence": 0.395,
    "category": "politique",
    "terms_left": [
     "gouvernement",
@@ -457,7 +457,7 @@
   {
    "title": "Vingt-trois jours : la vague de chaleur débutée fin juillet est la plus longue en France depuis 1983",
    "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
-   "n_members": 168,
+   "n_members": 169,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -471,17 +471,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.506,
+   "divergence": 0.5,
    "category": "environnement",
    "terms_left": [
     "vagues",
     "vagues chaleur",
-    "prochains jours"
+    "jours"
    ],
    "terms_right": [
     "météo",
-    "orages",
-    "fin"
+    "fin",
+    "orages"
    ]
   },
   {
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.5,
+   "divergence": 0.501,
    "category": "politique",
    "terms_left": [
     "gouvernement",
@@ -632,6 +632,36 @@
     "iran",
     "drones",
     "états-unis"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : la gauche lance sa campagne en ordre dispersé",
+   "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
+   "n_members": 85,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 5
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.551,
+   "category": "politique",
+   "terms_left": [
+    "rentrée",
+    "mois",
+    "pen"
+   ],
+   "terms_right": [
+    "écologistes",
+    "campagne",
+    "jean-luc mélenchon"
    ]
   },
   {
@@ -711,12 +741,12 @@
    },
    "blindspot_score": 0.538,
    "blindspot_for": null,
-   "divergence": 0.344,
+   "divergence": 0.347,
    "category": "politique",
    "terms_left": [
+    "division",
     "ministre",
-    "justice",
-    "division"
+    "entretien"
    ],
    "terms_right": [
     "édouard philippe",
@@ -771,7 +801,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.595,
+   "divergence": 0.596,
    "category": "sciences-tech",
    "terms_left": [
     "firme",
@@ -812,36 +842,6 @@
     "demande",
     "lecornu demande",
     "nouvelle"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : la gauche lance sa campagne en ordre dispersé",
-   "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
-   "n_members": 84,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 10,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 5
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.55,
-   "category": "politique",
-   "terms_left": [
-    "rentrée",
-    "mois",
-    "pen"
-   ],
-   "terms_right": [
-    "écologistes",
-    "campagne",
-    "jean-luc mélenchon"
    ]
   },
   {
@@ -951,7 +951,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.368,
+   "divergence": 0.367,
    "category": "international",
    "terms_left": [
     "arrêtés",
