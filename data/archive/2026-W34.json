@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-20T17:29:56+00:00",
+ "generated_at": "2026-08-20T17:57:59+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.15,
+   "divergence": 0.149,
    "category": "politique",
    "terms_left": [
     "ans censurée",
@@ -217,7 +217,7 @@
   {
    "title": "Guerre en Ukraine : au moins dix personnes sont mortes dans une attaque sur la région de Kharkiv",
    "url": "http://fr.euronews.com/video/2026/07/24/frappe-de-drones-ukrainiens-declenche-un-incendie-dans-des-entrepots-a-saint-petersbourg",
-   "n_members": 487,
+   "n_members": 489,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.395,
+   "divergence": 0.393,
    "category": "politique",
    "terms_left": [
     "gouvernement",
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.276,
+   "divergence": 0.275,
    "category": "société",
    "terms_left": [
     "vie",
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.564,
+   "divergence": 0.552,
    "category": "sciences-tech",
    "terms_left": [
     "personnelles",
@@ -565,8 +565,8 @@
    "category": "politique",
    "terms_left": [
     "gouvernement",
-    "gironde",
-    "annoncé"
+    "annoncé",
+    "millions euros"
    ],
    "terms_right": [
     "face",
@@ -577,7 +577,7 @@
   {
    "title": "Donald Trump affirme \"bien s'entendre\" avec Kim Jong-un et veut réduire les exercices militaires conjoints avec la Corée du Sud",
    "url": "https://www.lefigaro.fr/international/guerre-iran-etats-unis-le-pakistan-espere-que-l-accord-sur-ormuz-ouvrira-la-voie-a-une-reprise-du-dialogue-20260806",
-   "n_members": 103,
+   "n_members": 104,
    "n_sources": 25,
    "counts": {
     "left": 7,
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.445,
+   "divergence": 0.443,
    "category": "international",
    "terms_left": [
     "défense",
@@ -602,6 +602,36 @@
     "donald trump",
     "donald",
     "trump"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : la gauche lance sa campagne en ordre dispersé",
+   "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
+   "n_members": 86,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 5
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.544,
+   "category": "politique",
+   "terms_left": [
+    "mois",
+    "pen",
+    "imposer"
+   ],
+   "terms_right": [
+    "campagne",
+    "écologistes",
+    "programme"
    ]
   },
   {
@@ -632,36 +662,6 @@
     "iran",
     "drones",
     "états-unis"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : la gauche lance sa campagne en ordre dispersé",
-   "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
-   "n_members": 85,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 5
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.551,
-   "category": "politique",
-   "terms_left": [
-    "rentrée",
-    "mois",
-    "pen"
-   ],
-   "terms_right": [
-    "écologistes",
-    "campagne",
-    "jean-luc mélenchon"
    ]
   },
   {
@@ -697,7 +697,7 @@
   {
    "title": "Gaza : l'armée israélienne enquête sur la mort de la fillette Hind Rajab et de secouristes",
    "url": "https://www.cnews.fr/france/2026-08-13/drome-saisie-par-la-maire-la-justice-soppose-au-mariage-entre-une-francaise-et-un",
-   "n_members": 68,
+   "n_members": 69,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -725,39 +725,9 @@
    ]
   },
   {
-   "title": "Présidentielle 2027. Gérald Darmanin ne sera pas candidat et annonce son soutien à Édouard Philippe",
-   "url": "https://www.europe1.fr/politique/presidentielle-2027-gerald-darmanin-apporte-son-soutien-a-edouard-philippe-1019624",
-   "n_members": 60,
-   "n_sources": 25,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 5
-   },
-   "blindspot_score": 0.538,
-   "blindspot_for": null,
-   "divergence": 0.347,
-   "category": "politique",
-   "terms_left": [
-    "division",
-    "ministre",
-    "entretien"
-   ],
-   "terms_right": [
-    "édouard philippe",
-    "édouard",
-    "ingérence russe"
-   ]
-  },
-  {
    "title": "La canicule en France a fait au moins 7 300 morts, selon un bilan encore provisoire",
    "url": "https://www.leparisien.fr/meteo/la-vague-de-chaleur-en-cours-en-france-devient-la-deuxieme-plus-longue-jamais-enregistree-19-08-2026-6IWQPEXC4NBBPLPFEM4S3S3JHQ.php",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 25,
    "counts": {
     "left": 7,
@@ -785,6 +755,36 @@
    ]
   },
   {
+   "title": "Présidentielle 2027. Gérald Darmanin ne sera pas candidat et annonce son soutien à Édouard Philippe",
+   "url": "https://www.europe1.fr/politique/presidentielle-2027-gerald-darmanin-apporte-son-soutien-a-edouard-philippe-1019624",
+   "n_members": 60,
+   "n_sources": 25,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 5
+   },
+   "blindspot_score": 0.538,
+   "blindspot_for": null,
+   "divergence": 0.331,
+   "category": "politique",
+   "terms_left": [
+    "ministre",
+    "division",
+    "candidatures"
+   ],
+   "terms_right": [
+    "édouard philippe",
+    "édouard",
+    "ingérence russe"
+   ]
+  },
+  {
    "title": "Procès : ce que risque vraiment Meta, accusé d'avoir rendu les mineurs accros à Facebook et Instagram",
    "url": "https://www.lefigaro.fr/secteur/high-tech/proces-ce-que-risque-vraiment-meta-accuse-d-avoir-rendu-les-mineurs-accros-a-facebook-et-instagram-20260818",
    "n_members": 54,
@@ -801,7 +801,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.596,
+   "divergence": 0.595,
    "category": "sciences-tech",
    "terms_left": [
     "firme",
@@ -935,9 +935,9 @@
    ]
   },
   {
-   "title": "Tensions France-Iran : deux diplomates iraniens expulsés \"dans les tout prochains jours\"",
+   "title": "Deux ressortissants français détenus au Togo : ce que l'on sait sur les deux journalistes partis réaliser une production",
    "url": "https://www.lemonde.fr/international/article/2026/08/17/repression-en-iran-les-echanges-culturels-francais-dans-le-viseur-du-pouvoir_6747965_3210.html",
-   "n_members": 76,
+   "n_members": 77,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -951,7 +951,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.367,
+   "divergence": 0.368,
    "category": "international",
    "terms_left": [
     "arrêtés",
@@ -1101,7 +1101,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.486,
+   "divergence": 0.485,
    "category": "politique",
    "terms_left": [
     "universités",
@@ -1111,7 +1111,7 @@
    "terms_right": [
     "france",
     "français",
-    "ministre transition"
+    "monique barbut"
    ]
   },
   {
@@ -1153,7 +1153,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.208,
+   "divergence": 0.209,
    "category": "culture",
    "terms_left": [
     "judiciaire patrick",
