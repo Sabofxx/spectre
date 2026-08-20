@@ -1,13 +1,13 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-20T10:24:18+00:00",
+ "generated_at": "2026-08-20T10:56:11+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "À Ceuta, des migrants bloqués aux portes de l'Europe attendent de connaître leur sort",
+   "title": "L'Espagne ouvre des centres d'accueil pour 1800 migrants à Ceuta, afin de soulager la crise humanitaire qui y sévit",
    "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
-   "n_members": 541,
+   "n_members": 543,
    "n_sources": 37,
    "counts": {
     "left": 7,
@@ -141,12 +141,12 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.348,
+   "divergence": 0.347,
    "category": "environnement",
    "terms_left": [
     "direct",
-    "ouest",
-    "mise"
+    "mise",
+    "ouest"
    ],
    "terms_right": [
     "feu",
@@ -217,7 +217,7 @@
   {
    "title": "Guerre en Ukraine : au moins dix personnes sont mortes dans une attaque sur la région de Kharkiv",
    "url": "http://fr.euronews.com/video/2026/07/24/frappe-de-drones-ukrainiens-declenche-un-incendie-dans-des-entrepots-a-saint-petersbourg",
-   "n_members": 479,
+   "n_members": 481,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -321,12 +321,12 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.525,
+   "divergence": 0.523,
    "category": "politique",
    "terms_left": [
     "hué",
-    "gouvernement",
-    "moyens"
+    "moyens",
+    "euros"
    ],
    "terms_right": [
     "sébastien lecornu",
@@ -395,6 +395,36 @@
    ]
   },
   {
+   "title": "Environnement. Désertification : un « enjeu mondial », mais aussi pour la France, alors que s'ouvre la COP 17",
+   "url": "https://www.radiofrance.fr/francebleu/podcasts/le-reportage-ici-breizh-izel/chiffre-d-affaires-zero-a-l-arret-a-cause-de-la-secheresse-les-stations-de-lavage-du-finistere-sont-en-souffrance-5892608",
+   "n_members": 69,
+   "n_sources": 27,
+   "counts": {
+    "left": 8,
+    "centre": 14,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": -0.231,
+   "blindspot_for": null,
+   "divergence": 0.765,
+   "category": "environnement",
+   "terms_left": [
+    "cop",
+    "désertification",
+    "mongolie"
+   ],
+   "terms_right": [
+    "sécheresse",
+    "rhin",
+    "eau"
+   ]
+  },
+  {
    "title": "L’Iran annonce la capture de trois pilotes en mars au Qatar et demande leur libération",
    "url": "https://lcp.fr/actualites/l-ete-d-avant-presidentielle-2001-le-calme-puis-les-tempetes-439665",
    "n_members": 62,
@@ -427,7 +457,7 @@
   {
    "title": "Canicules : plus de 50 jours de vagues de chaleur enregistrés en France en 2026, un record",
    "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
-   "n_members": 159,
+   "n_members": 160,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -441,7 +471,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.534,
+   "divergence": 0.532,
    "category": "environnement",
    "terms_left": [
     "vagues",
@@ -471,17 +501,17 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.509,
+   "divergence": 0.507,
    "category": "société",
    "terms_left": [
     "rdc",
     "rdc épidémie",
-    "ebola rdc"
+    "france"
    ],
    "terms_right": [
-    "virus",
     "ia",
-    "incendies"
+    "incendies",
+    "personnes"
    ]
   },
   {
@@ -542,36 +572,6 @@
     "reconstruction",
     "face",
     "sébastien lecornu"
-   ]
-  },
-  {
-   "title": "Environnement. Désertification : un « enjeu mondial », mais aussi pour la France, alors que s'ouvre la COP 17",
-   "url": "https://www.radiofrance.fr/francebleu/podcasts/le-reportage-ici-breizh-izel/chiffre-d-affaires-zero-a-l-arret-a-cause-de-la-secheresse-les-stations-de-lavage-du-finistere-sont-en-souffrance-5892608",
-   "n_members": 68,
-   "n_sources": 26,
-   "counts": {
-    "left": 8,
-    "centre": 14,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": -0.333,
-   "blindspot_for": null,
-   "divergence": 0.794,
-   "category": "environnement",
-   "terms_left": [
-    "cop",
-    "désertification",
-    "mongolie"
-   ],
-   "terms_right": [
-    "rhin",
-    "sécheresse",
-    "niveau"
    ]
   },
   {
@@ -667,7 +667,7 @@
   {
    "title": "Présidentielle 2027. Gérald Darmanin ne sera pas candidat et annonce son soutien à Édouard Philippe",
    "url": "https://www.europe1.fr/politique/presidentielle-2027-gerald-darmanin-apporte-son-soutien-a-edouard-philippe-1019624",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 25,
    "counts": {
     "left": 3,
@@ -877,7 +877,7 @@
   {
    "title": "Tensions France-Iran : deux diplomates iraniens expulsés \"dans les tout prochains jours\"",
    "url": "https://www.lemonde.fr/international/article/2026/08/17/repression-en-iran-les-echanges-culturels-francais-dans-le-viseur-du-pouvoir_6747965_3210.html",
-   "n_members": 74,
+   "n_members": 75,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -891,7 +891,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.358,
+   "divergence": 0.365,
    "category": "international",
    "terms_left": [
     "arrêtés",
@@ -981,7 +981,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.604,
+   "divergence": 0.605,
    "category": "environnement",
    "terms_left": [
     "euros",
@@ -1047,6 +1047,36 @@
    "terms_right": []
   },
   {
+   "title": "Affaire Patrick Bruel: le chanteur visé par une nouvelle plainte pour \"tentative de viol\"",
+   "url": "https://www.mediapart.fr/journal/france/140826/le-controle-judiciaire-de-patrick-bruel-ete-allege",
+   "n_members": 58,
+   "n_sources": 23,
+   "counts": {
+    "left": 7,
+    "centre": 10,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": -0.077,
+   "blindspot_for": null,
+   "divergence": 0.208,
+   "category": "culture",
+   "terms_left": [
+    "judiciaire patrick",
+    "prescrits",
+    "autorisé quitter"
+   ],
+   "terms_right": [
+    "affaire patrick",
+    "ans",
+    "chanteur"
+   ]
+  },
+  {
    "title": "\"Nous, ce qu'on cherche, c'est la tranquillité\" : ces Français qui passent leurs vacances en mode slow tourisme",
    "url": "https://www.tf1info.fr/politique/videos/video-en-liberte-macron-le-coup-de-com-de-l-ete-35550-2458219.html",
    "n_members": 57,
@@ -1074,36 +1104,6 @@
     "vacances",
     "français",
     "brégançon"
-   ]
-  },
-  {
-   "title": "Affaire Patrick Bruel: le chanteur visé par une nouvelle plainte pour \"tentative de viol\"",
-   "url": "https://www.mediapart.fr/journal/france/140826/le-controle-judiciaire-de-patrick-bruel-ete-allege",
-   "n_members": 57,
-   "n_sources": 23,
-   "counts": {
-    "left": 7,
-    "centre": 10,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": -0.077,
-   "blindspot_for": null,
-   "divergence": 0.205,
-   "category": "culture",
-   "terms_left": [
-    "judiciaire patrick",
-    "prescrits",
-    "autorisé quitter"
-   ],
-   "terms_right": [
-    "affaire patrick",
-    "ans",
-    "chanteur"
    ]
   },
   {
