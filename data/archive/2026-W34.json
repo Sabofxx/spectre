@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-20T10:56:11+00:00",
+ "generated_at": "2026-08-20T11:18:45+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,17 +51,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.28,
+   "divergence": 0.278,
    "category": "sciences-tech",
    "terms_left": [
     "numérique",
-    "etat",
-    "crise"
+    "gouvernement",
+    "etat"
    ],
    "terms_right": [
     "vol",
     "vol données",
-    "usagers"
+    "données"
    ]
   },
   {
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.142,
+   "divergence": 0.145,
    "category": "politique",
    "terms_left": [
     "ans censurée",
@@ -91,7 +91,7 @@
    "terms_right": [
     "face",
     "interdiction ans",
-    "gouvernement"
+    "censure interdiction"
    ]
   },
   {
@@ -141,12 +141,12 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.347,
+   "divergence": 0.348,
    "category": "environnement",
    "terms_left": [
     "direct",
-    "mise",
-    "ouest"
+    "ouest",
+    "direct incendies"
    ],
    "terms_right": [
     "feu",
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.198,
+   "divergence": 0.199,
    "category": "sciences-tech",
    "terms_left": [
     "sortir espace",
@@ -321,12 +321,12 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.523,
+   "divergence": 0.522,
    "category": "politique",
    "terms_left": [
     "hué",
     "moyens",
-    "euros"
+    "gouvernement"
    ],
    "terms_right": [
     "sébastien lecornu",
@@ -455,9 +455,9 @@
    ]
   },
   {
-   "title": "Canicules : plus de 50 jours de vagues de chaleur enregistrés en France en 2026, un record",
+   "title": "Vingt-trois jours : la vague de chaleur débutée fin juillet est la plus longue en France depuis 1983",
    "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
-   "n_members": 160,
+   "n_members": 162,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.487,
+   "divergence": 0.486,
    "category": "politique",
    "terms_left": [
     "millions euros",
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.478,
+   "divergence": 0.49,
    "category": "international",
    "terms_left": [
     "défense",
@@ -651,7 +651,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.791,
+   "divergence": 0.79,
    "category": "environnement",
    "terms_left": [
     "canicules",
@@ -787,7 +787,7 @@
   {
    "title": "Fruits et légumes: les récoltes s'effondrent en raison de la canicule, les prix devraient augmenter",
    "url": "https://www.bfmtv.com/economie/video-gaz-le-tarif-de-reference-va-augmenter-de-5-6-en-septembre_VN-202608160037.html",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -801,7 +801,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.94,
+   "divergence": 0.941,
    "category": "environnement",
    "terms_left": [
     "ans",
@@ -842,6 +842,36 @@
     "instagram",
     "facebook instagram",
     "facebook"
+   ]
+  },
+  {
+   "title": "La canicule en France a fait au moins 7 300 morts, selon un bilan encore provisoire",
+   "url": "https://www.leparisien.fr/meteo/la-vague-de-chaleur-en-cours-en-france-devient-la-deuxieme-plus-longue-jamais-enregistree-19-08-2026-6IWQPEXC4NBBPLPFEM4S3S3JHQ.php",
+   "n_members": 51,
+   "n_sources": 24,
+   "counts": {
+    "left": 7,
+    "centre": 11,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": -0.077,
+   "blindspot_for": null,
+   "divergence": 0.308,
+   "category": "environnement",
+   "terms_left": [
+    "bilan provisoire",
+    "provisoire",
+    "bilan"
+   ],
+   "terms_right": [
+    "vague chaleur",
+    "personnes",
+    "france"
    ]
   },
   {
@@ -1047,39 +1077,9 @@
    "terms_right": []
   },
   {
-   "title": "Affaire Patrick Bruel: le chanteur visé par une nouvelle plainte pour \"tentative de viol\"",
-   "url": "https://www.mediapart.fr/journal/france/140826/le-controle-judiciaire-de-patrick-bruel-ete-allege",
-   "n_members": 58,
-   "n_sources": 23,
-   "counts": {
-    "left": 7,
-    "centre": 10,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": -0.077,
-   "blindspot_for": null,
-   "divergence": 0.208,
-   "category": "culture",
-   "terms_left": [
-    "judiciaire patrick",
-    "prescrits",
-    "autorisé quitter"
-   ],
-   "terms_right": [
-    "affaire patrick",
-    "ans",
-    "chanteur"
-   ]
-  },
-  {
-   "title": "\"Nous, ce qu'on cherche, c'est la tranquillité\" : ces Français qui passent leurs vacances en mode slow tourisme",
+   "title": "Leur chatte s'échappe sur l'aire d'autoroute, ils restent sur place depuis dix jours pour la chercher et annulent leurs vacances : \"C'est un membre de la famille\"",
    "url": "https://www.tf1info.fr/politique/videos/video-en-liberte-macron-le-coup-de-com-de-l-ete-35550-2458219.html",
-   "n_members": 57,
+   "n_members": 60,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -1107,9 +1107,9 @@
    ]
   },
   {
-   "title": "La canicule en France a fait au moins 7 300 morts, selon un bilan encore provisoire",
-   "url": "https://www.leparisien.fr/meteo/la-vague-de-chaleur-en-cours-en-france-devient-la-deuxieme-plus-longue-jamais-enregistree-19-08-2026-6IWQPEXC4NBBPLPFEM4S3S3JHQ.php",
-   "n_members": 50,
+   "title": "Affaire Patrick Bruel: le chanteur visé par une nouvelle plainte pour \"tentative de viol\"",
+   "url": "https://www.mediapart.fr/journal/france/140826/le-controle-judiciaire-de-patrick-bruel-ete-allege",
+   "n_members": 58,
    "n_sources": 23,
    "counts": {
     "left": 7,
@@ -1117,23 +1117,23 @@
     "right": 6
    },
    "style_counts": {
-    "factuel": 11,
-    "mixte": 10,
+    "factuel": 12,
+    "mixte": 9,
     "opinion": 2
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.307,
-   "category": "environnement",
+   "divergence": 0.208,
+   "category": "culture",
    "terms_left": [
-    "bilan provisoire",
-    "provisoire",
-    "bilan"
+    "judiciaire patrick",
+    "prescrits",
+    "autorisé quitter"
    ],
    "terms_right": [
-    "vague chaleur",
-    "personnes",
-    "france"
+    "affaire patrick",
+    "ans",
+    "chanteur"
    ]
   },
   {
