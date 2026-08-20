@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-20T11:18:45+00:00",
+ "generated_at": "2026-08-20T11:51:38+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.607,
+   "divergence": 0.606,
    "category": "économie",
    "terms_left": [
     "familiales",
@@ -411,7 +411,7 @@
    },
    "blindspot_score": -0.231,
    "blindspot_for": null,
-   "divergence": 0.765,
+   "divergence": 0.755,
    "category": "environnement",
    "terms_left": [
     "cop",
@@ -457,7 +457,7 @@
   {
    "title": "Vingt-trois jours : la vague de chaleur débutée fin juillet est la plus longue en France depuis 1983",
    "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
-   "n_members": 162,
+   "n_members": 164,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.532,
+   "divergence": 0.517,
    "category": "environnement",
    "terms_left": [
     "vagues",
@@ -480,8 +480,8 @@
    ],
    "terms_right": [
     "météo",
-    "orages",
-    "canicule"
+    "canicule",
+    "orages"
    ]
   },
   {
@@ -711,7 +711,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.556,
+   "divergence": 0.554,
    "category": "politique",
    "terms_left": [
     "stratégie",
@@ -817,7 +817,7 @@
   {
    "title": "Procès : ce que risque vraiment Meta, accusé d'avoir rendu les mineurs accros à Facebook et Instagram",
    "url": "https://www.lefigaro.fr/secteur/high-tech/proces-ce-que-risque-vraiment-meta-accuse-d-avoir-rendu-les-mineurs-accros-a-facebook-et-instagram-20260818",
-   "n_members": 51,
+   "n_members": 52,
    "n_sources": 24,
    "counts": {
     "left": 3,
@@ -831,12 +831,12 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.601,
+   "divergence": 0.596,
    "category": "sciences-tech",
    "terms_left": [
     "firme",
     "accusée",
-    "trompé"
+    "contenus"
    ],
    "terms_right": [
     "instagram",
@@ -847,7 +847,7 @@
   {
    "title": "La canicule en France a fait au moins 7 300 morts, selon un bilan encore provisoire",
    "url": "https://www.leparisien.fr/meteo/la-vague-de-chaleur-en-cours-en-france-devient-la-deuxieme-plus-longue-jamais-enregistree-19-08-2026-6IWQPEXC4NBBPLPFEM4S3S3JHQ.php",
-   "n_members": 51,
+   "n_members": 52,
    "n_sources": 24,
    "counts": {
     "left": 7,
@@ -870,8 +870,8 @@
    ],
    "terms_right": [
     "vague chaleur",
-    "personnes",
-    "france"
+    "liés",
+    "personnes"
    ]
   },
   {
@@ -921,7 +921,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.365,
+   "divergence": 0.364,
    "category": "international",
    "terms_left": [
     "arrêtés",
@@ -1025,6 +1025,36 @@
    ]
   },
   {
+   "title": "Leur chatte s'échappe sur l'aire d'autoroute, ils restent sur place depuis dix jours pour la chercher et annulent leurs vacances : \"C'est un membre de la famille\"",
+   "url": "https://www.tf1info.fr/politique/videos/video-en-liberte-macron-le-coup-de-com-de-l-ete-35550-2458219.html",
+   "n_members": 61,
+   "n_sources": 23,
+   "counts": {
+    "left": 5,
+    "centre": 10,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.637,
+   "category": "politique",
+   "terms_left": [
+    "paris",
+    "match",
+    "paris match"
+   ],
+   "terms_right": [
+    "vacances",
+    "français",
+    "reste"
+   ]
+  },
+  {
    "title": "La ministre de la Transition écologique Monique Barbut décline l'invitation de Manuel Bompard aux journées d'été de LFI",
    "url": "https://www.nicematin.com/meteo/alerte-meteo/vigilance-canicule-vers-une-baisse-des-temperatures-cette-semaine-sur-la-cote-d-azur-10706733",
    "n_members": 61,
@@ -1041,7 +1071,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.511,
+   "divergence": 0.512,
    "category": "politique",
    "terms_left": [
     "chaleur",
@@ -1075,36 +1105,6 @@
    "category": "environnement",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Leur chatte s'échappe sur l'aire d'autoroute, ils restent sur place depuis dix jours pour la chercher et annulent leurs vacances : \"C'est un membre de la famille\"",
-   "url": "https://www.tf1info.fr/politique/videos/video-en-liberte-macron-le-coup-de-com-de-l-ete-35550-2458219.html",
-   "n_members": 60,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 10,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.631,
-   "category": "politique",
-   "terms_left": [
-    "paris",
-    "match",
-    "paris match"
-   ],
-   "terms_right": [
-    "vacances",
-    "français",
-    "brégançon"
-   ]
   },
   {
    "title": "Affaire Patrick Bruel: le chanteur visé par une nouvelle plainte pour \"tentative de viol\"",
