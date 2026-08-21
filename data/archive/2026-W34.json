@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-21T15:02:06+00:00",
+ "generated_at": "2026-08-21T15:38:09+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.245,
+   "divergence": 0.24,
    "category": "sciences-tech",
    "terms_left": [
     "crise",
@@ -245,6 +245,36 @@
    ]
   },
   {
+   "title": "Présidentielle 2027 : la gauche lance sa campagne en ordre dispersé",
+   "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
+   "n_members": 104,
+   "n_sources": 28,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.511,
+   "category": "politique",
+   "terms_left": [
+    "mois",
+    "marine",
+    "tondelier"
+   ],
+   "terms_right": [
+    "france",
+    "programme",
+    "ps"
+   ]
+  },
+  {
    "title": "Afghanistan, les femmes réduites au silence depuis 5 ans",
    "url": "https://www.cnews.fr/science/2026-08-09/dragon-devoreur-colere-des-dieux-ces-mythes-et-legendes-surprenants-qui",
    "n_members": 71,
@@ -335,36 +365,6 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : la gauche lance sa campagne en ordre dispersé",
-   "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
-   "n_members": 102,
-   "n_sources": 27,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 8,
-    "opinion": 5
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.525,
-   "category": "politique",
-   "terms_left": [
-    "mois",
-    "partis gauche",
-    "pen"
-   ],
-   "terms_right": [
-    "france",
-    "programme",
-    "écologistes"
-   ]
-  },
-  {
    "title": "France: l’aide à mourir officiellement autorisée après la promulgation de la loi par Emmanuel Macron",
    "url": "https://www.lemonde.fr/societe/article/2026/08/12/fin-de-vie-la-croisade-des-etablissements-de-sante-catholiques-pour-introduire-une-clause-de-conscience-collective_6745063_3224.html",
    "n_members": 90,
@@ -411,17 +411,17 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.565,
+   "divergence": 0.582,
    "category": "sciences-tech",
    "terms_left": [
-    "informations",
     "ministère",
-    "dgfip"
+    "dgfip",
+    "attaque"
    ],
    "terms_right": [
     "éducation",
     "éducation nationale",
-    "nationale"
+    "zerobytes"
    ]
   },
   {
@@ -517,7 +517,7 @@
   {
    "title": "En RDC, l'épidémie d'Ebola est loin d'être \"maîtrisée\"",
    "url": "https://www.leparisien.fr/sciences/odeur-sucree-groupe-sanguin-ou-rien-de-cela-pourquoi-les-moustiques-raffolent-de-votre-peau-et-pas-de-celle-du-voisin-03-08-2026-7XIS34AZTNEVJPXNPS2WH45HDQ.php",
-   "n_members": 120,
+   "n_members": 122,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -531,7 +531,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.469,
+   "divergence": 0.47,
    "category": "société",
    "terms_left": [
     "rdc épidémie",
@@ -572,6 +572,36 @@
     "moyens",
     "pompiers grève",
     "sapeurs-pompiers"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027: Édouard Philippe veut \"totalement\" fermer les \"vannes de l'immigration\" à Mayotte",
+   "url": "https://www.20minutes.fr/societe/4239546-20260817-info-midi-2-minutes-star-eteint-hollywood-lecornu-hue-gironde-roi-leon",
+   "n_members": 81,
+   "n_sources": 26,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.695,
+   "category": "politique",
+   "terms_left": [
+    "qu",
+    "droite",
+    "mélenchon"
+   ],
+   "terms_right": [
+    "édouard",
+    "édouard philippe",
+    "mayotte"
    ]
   },
   {
@@ -621,7 +651,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.312,
+   "divergence": 0.311,
    "category": "environnement",
    "terms_left": [
     "bilan provisoire",
@@ -711,7 +741,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.79,
+   "divergence": 0.791,
    "category": "environnement",
    "terms_left": [
     "canicules",
@@ -722,36 +752,6 @@
     "chaleur",
     "météo",
     "prix"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027: Édouard Philippe veut \"totalement\" fermer les \"vannes de l'immigration\" à Mayotte",
-   "url": "https://www.20minutes.fr/societe/4239546-20260817-info-midi-2-minutes-star-eteint-hollywood-lecornu-hue-gironde-roi-leon",
-   "n_members": 80,
-   "n_sources": 25,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.695,
-   "category": "politique",
-   "terms_left": [
-    "qu",
-    "droite",
-    "mélenchon"
-   ],
-   "terms_right": [
-    "édouard",
-    "édouard philippe",
-    "mayotte"
    ]
   },
   {
@@ -774,8 +774,8 @@
    "divergence": 0.35,
    "category": "politique",
    "terms_left": [
-    "edouard philippe",
     "edouard",
+    "edouard philippe",
     "division"
    ],
    "terms_right": [
@@ -861,7 +861,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.539,
+   "divergence": 0.546,
    "category": "politique",
    "terms_left": [
     "publics",
@@ -891,12 +891,12 @@
    },
    "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.478,
+   "divergence": 0.481,
    "category": "culture",
    "terms_left": [
     "palme",
     "cristian",
-    "cristian mungiu"
+    "fjord"
    ],
    "terms_right": [
     "ans",
@@ -921,7 +921,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.367,
+   "divergence": 0.364,
    "category": "international",
    "terms_left": [
     "arrêtés",
@@ -983,16 +983,8 @@
    "blindspot_for": null,
    "divergence": 0.948,
    "category": "environnement",
-   "terms_left": [
-    "ans",
-    "peine",
-    "chaleur"
-   ],
-   "terms_right": [
-    "sécheresse",
-    "prix",
-    "france"
-   ]
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "François Patriat, sénateur proche d'Emmanuel Macron, est mort à l'âge de 83 ans",
@@ -1041,7 +1033,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.726,
+   "divergence": 0.721,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -1076,12 +1068,12 @@
    "terms_left": [
     "qu",
     "mois",
-    "rentrée scolaire"
+    "budget"
    ],
    "terms_right": [
-    "fournitures",
-    "euros",
-    "année"
+    "année",
+    "baisse",
+    "euros"
    ]
   },
   {
@@ -1131,7 +1123,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.596,
+   "divergence": 0.595,
    "category": "environnement",
    "terms_left": [
     "vacances",
@@ -1166,7 +1158,7 @@
    "terms_left": [
     "judiciaire patrick",
     "prescrits",
-    "autorisé quitter"
+    "bruel allégé"
    ],
    "terms_right": [
     "affaire patrick",
