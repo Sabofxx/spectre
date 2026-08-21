@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-21T14:06:26+00:00",
+ "generated_at": "2026-08-21T15:02:06+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.254,
+   "divergence": 0.245,
    "category": "sciences-tech",
    "terms_left": [
     "crise",
@@ -59,8 +59,8 @@
     "france"
    ],
    "terms_right": [
-    "vol",
     "impôts",
+    "vol",
     "vol données"
    ]
   },
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.146,
+   "divergence": 0.145,
    "category": "politique",
    "terms_left": [
     "ans censurée",
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.235,
+   "divergence": 0.233,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -171,17 +171,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.178,
+   "divergence": 0.177,
    "category": "sciences-tech",
    "terms_left": [
     "française sortir",
-    "sortir espace",
-    "sortir"
+    "devenir",
+    "adenot devenir"
    ],
    "terms_right": [
+    "mission",
     "extravéhiculaire",
-    "sortie extravéhiculaire",
-    "antenne"
+    "sortie extravéhiculaire"
    ]
   },
   {
@@ -217,7 +217,7 @@
   {
    "title": "Guerre en Ukraine. Nuit meurtrière à Kiev, 16 morts et une cinquantaine de blessés après des frappes russes",
    "url": "http://fr.euronews.com/video/2026/07/24/frappe-de-drones-ukrainiens-declenche-un-incendie-dans-des-entrepots-a-saint-petersbourg",
-   "n_members": 496,
+   "n_members": 497,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -411,12 +411,12 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.564,
+   "divergence": 0.565,
    "category": "sciences-tech",
    "terms_left": [
-    "dgfip",
     "informations",
-    "revendique"
+    "ministère",
+    "dgfip"
    ],
    "terms_right": [
     "éducation",
@@ -487,7 +487,7 @@
   {
    "title": "Vingt-trois jours : la vague de chaleur débutée fin juillet est la plus longue en France depuis 1983",
    "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
-   "n_members": 171,
+   "n_members": 174,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -501,23 +501,23 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.499,
+   "divergence": 0.487,
    "category": "environnement",
    "terms_left": [
-    "prochains jours",
     "vagues",
-    "vagues chaleur"
+    "vagues chaleur",
+    "prochains jours"
    ],
    "terms_right": [
     "météo",
     "fin",
-    "canicule"
+    "orages"
    ]
   },
   {
-   "title": "Ebola en RDC: avec près de 5000 cas, l’épidémie est «loin d’être maîtrisée», alerte l’OMS",
+   "title": "En RDC, l'épidémie d'Ebola est loin d'être \"maîtrisée\"",
    "url": "https://www.leparisien.fr/sciences/odeur-sucree-groupe-sanguin-ou-rien-de-cela-pourquoi-les-moustiques-raffolent-de-votre-peau-et-pas-de-celle-du-voisin-03-08-2026-7XIS34AZTNEVJPXNPS2WH45HDQ.php",
-   "n_members": 118,
+   "n_members": 120,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -531,7 +531,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.479,
+   "divergence": 0.469,
    "category": "société",
    "terms_left": [
     "rdc épidémie",
@@ -539,9 +539,9 @@
     "ebola"
    ],
    "terms_right": [
-    "ia",
+    "ebola épidémie",
     "incendies",
-    "personnes"
+    "ia"
    ]
   },
   {
@@ -621,7 +621,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.311,
+   "divergence": 0.312,
    "category": "environnement",
    "terms_left": [
     "bilan provisoire",
@@ -771,7 +771,7 @@
    },
    "blindspot_score": 0.538,
    "blindspot_for": null,
-   "divergence": 0.352,
+   "divergence": 0.35,
    "category": "politique",
    "terms_left": [
     "edouard philippe",
@@ -831,7 +831,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.605,
+   "divergence": 0.595,
    "category": "international",
    "terms_left": [
     "firme",
@@ -840,8 +840,8 @@
    ],
    "terms_right": [
     "facebook",
-    "instagram",
-    "réseaux sociaux"
+    "facebook instagram",
+    "instagram"
    ]
   },
   {
@@ -861,7 +861,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.537,
+   "divergence": 0.539,
    "category": "politique",
    "terms_left": [
     "publics",
@@ -877,7 +877,7 @@
   {
    "title": "« Fjord » de Cristian Mungiu, une Palme d’or qui bouscule les dogmes ****",
    "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/dans-fjord-palme-d-or-2026-cristian-mungiu-denonce-les-dangers-de-la-polarisation-a-travers-l-histoire-d-une-famille-roumaine-chretienne-integriste-exilee-en-norvege_8143226.html",
-   "n_members": 35,
+   "n_members": 36,
    "n_sources": 25,
    "counts": {
     "left": 10,
@@ -891,17 +891,17 @@
    },
    "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.476,
+   "divergence": 0.478,
    "category": "culture",
    "terms_left": [
     "palme",
     "cristian",
-    "mungiu"
+    "cristian mungiu"
    ],
    "terms_right": [
     "ans",
     "famille",
-    "cannes fjord"
+    "fjord cristian"
    ]
   },
   {
@@ -921,7 +921,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.368,
+   "divergence": 0.367,
    "category": "international",
    "terms_left": [
     "arrêtés",
@@ -1011,7 +1011,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.33,
+   "divergence": 0.331,
    "category": "politique",
    "terms_left": [
     "socialiste",
@@ -1191,17 +1191,17 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.512,
+   "divergence": 0.532,
    "category": "politique",
    "terms_left": [
-    "universités",
-    "invitée",
-    "brûlant"
+    "brûlant",
+    "dérèglement",
+    "dérèglement climatique"
    ],
    "terms_right": [
-    "français",
     "ministre",
-    "climat"
+    "français",
+    "transition écologique"
    ]
   }
  ]
