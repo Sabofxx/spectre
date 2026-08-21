@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-21T17:00:19+00:00",
+ "generated_at": "2026-08-21T17:27:58+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -35,9 +35,9 @@
    ]
   },
   {
-   "title": "Cyberattaque : le fisc annonce une « troisième fuite » liée aux successions",
+   "title": "Données volées, contribuables concernés, risques d’arnaques… Toutes les réponses à vos questions sur le piratage du fisc",
    "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 195,
+   "n_members": 196,
    "n_sources": 36,
    "counts": {
     "left": 6,
@@ -51,17 +51,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.241,
+   "divergence": 0.244,
    "category": "sciences-tech",
    "terms_left": [
     "crise",
     "fisc sébastien",
-    "france"
+    "nouveau"
    ],
    "terms_right": [
-    "impôts",
-    "vol",
-    "vol données"
+    "dgfip",
+    "données",
+    "impôts"
    ]
   },
   {
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.181,
+   "divergence": 0.179,
    "category": "sciences-tech",
    "terms_left": [
     "française sortir",
@@ -187,7 +187,7 @@
   {
    "title": "Suppression des APL, gel du RSA... Sébastien Lecornu dément certaines pistes d'économies pour le budget 2027",
    "url": "https://www.ouest-france.fr/economie/retraites/mode-de-calcul-trimestres-pour-enfant-que-vont-changer-ces-nouveaux-decrets-sur-la-retraite-des-meres-de-famille-e5f79f04-90d2-11f1-9add-57c399f24235",
-   "n_members": 129,
+   "n_members": 130,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -201,12 +201,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.539,
+   "divergence": 0.532,
    "category": "économie",
    "terms_left": [
-    "familiales",
-    "ballons",
-    "ministre"
+    "politiques",
+    "politiques familiales",
+    "ballons"
    ],
    "terms_right": [
     "pensions",
@@ -217,7 +217,7 @@
   {
    "title": "Guerre en Ukraine. Nuit meurtrière à Kiev, 16 morts et une cinquantaine de blessés après des frappes russes",
    "url": "http://fr.euronews.com/video/2026/07/24/frappe-de-drones-ukrainiens-declenche-un-incendie-dans-des-entrepots-a-saint-petersbourg",
-   "n_members": 501,
+   "n_members": 502,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -231,12 +231,12 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.269,
+   "divergence": 0.27,
    "category": "international",
    "terms_left": [
+    "direct",
     "capitale",
-    "autorités",
-    "direct"
+    "autorités"
    ],
    "terms_right": [
     "ukraine morts",
@@ -397,7 +397,7 @@
   {
    "title": "Présidentielle 2027: Édouard Philippe veut \"totalement\" fermer les \"vannes de l'immigration\" à Mayotte",
    "url": "https://www.20minutes.fr/societe/4239546-20260817-info-midi-2-minutes-star-eteint-hollywood-lecornu-hue-gironde-roi-leon",
-   "n_members": 84,
+   "n_members": 89,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.605,
+   "divergence": 0.606,
    "category": "politique",
    "terms_left": [
     "qu",
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.57,
+   "divergence": 0.572,
    "category": "sciences-tech",
    "terms_left": [
     "ministère",
@@ -547,7 +547,7 @@
   {
    "title": "En RDC, l'épidémie d'Ebola est loin d'être \"maîtrisée\"",
    "url": "https://www.leparisien.fr/sciences/odeur-sucree-groupe-sanguin-ou-rien-de-cela-pourquoi-les-moustiques-raffolent-de-votre-peau-et-pas-de-celle-du-voisin-03-08-2026-7XIS34AZTNEVJPXNPS2WH45HDQ.php",
-   "n_members": 123,
+   "n_members": 124,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -681,7 +681,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.48,
+   "divergence": 0.481,
    "category": "international",
    "terms_left": [
     "pacte",
@@ -689,9 +689,9 @@
     "turquie"
    ],
    "terms_right": [
-    "kim",
     "donald trump",
-    "donald"
+    "donald",
+    "kim"
    ]
   },
   {
@@ -771,7 +771,7 @@
    },
    "blindspot_score": 0.538,
    "blindspot_for": null,
-   "divergence": 0.379,
+   "divergence": 0.38,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -861,12 +861,12 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.558,
+   "divergence": 0.567,
    "category": "politique",
    "terms_left": [
-    "excuses",
     "piratage",
-    "etat"
+    "etat",
+    "site"
    ],
    "terms_right": [
     "demande",
@@ -921,12 +921,12 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.357,
+   "divergence": 0.358,
    "category": "international",
    "terms_left": [
     "arrêtés",
     "mesure",
-    "tôt"
+    "télévisions"
    ],
    "terms_right": [
     "jean-noël barrot",
@@ -1003,7 +1003,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.331,
+   "divergence": 0.33,
    "category": "politique",
    "terms_left": [
     "socialiste",
