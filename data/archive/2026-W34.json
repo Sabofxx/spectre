@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-21T18:23:15+00:00",
+ "generated_at": "2026-08-21T19:06:27+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.244,
+   "divergence": 0.245,
    "category": "sciences-tech",
    "terms_left": [
     "crise",
@@ -60,7 +60,7 @@
    ],
    "terms_right": [
     "dgfip",
-    "impôts",
+    "données",
     "cyberattaque"
    ]
   },
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.233,
+   "divergence": 0.235,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -157,7 +157,7 @@
   {
    "title": "Sortie dans l’espace de Sophie Adenot : mission inachevée, prochaine sortie le 25 août… On fait le point",
    "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 173,
+   "n_members": 174,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -171,12 +171,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.179,
+   "divergence": 0.181,
    "category": "sciences-tech",
    "terms_left": [
     "française sortir",
-    "devenir",
-    "adenot devenir"
+    "sortir espace",
+    "sortir"
    ],
    "terms_right": [
     "mission",
@@ -217,7 +217,7 @@
   {
    "title": "Guerre en Ukraine. Nuit meurtrière à Kiev, 16 morts et une cinquantaine de blessés après des frappes russes",
    "url": "http://fr.euronews.com/video/2026/07/24/frappe-de-drones-ukrainiens-declenche-un-incendie-dans-des-entrepots-a-saint-petersbourg",
-   "n_members": 508,
+   "n_members": 511,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -231,17 +231,17 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.267,
+   "divergence": 0.269,
    "category": "international",
    "terms_left": [
     "direct",
     "guerre ukraine",
-    "capitale"
+    "guerre"
    ],
    "terms_right": [
     "ukraine morts",
     "frappe",
-    "pays"
+    "commercial"
    ]
   },
   {
@@ -302,6 +302,36 @@
     "afghanistan ans",
     "afghanistan",
     "pays"
+   ]
+  },
+  {
+   "title": "La canicule en France a fait au moins 7 300 morts, selon un bilan encore provisoire",
+   "url": "https://www.leparisien.fr/meteo/la-vague-de-chaleur-en-cours-en-france-devient-la-deuxieme-plus-longue-jamais-enregistree-19-08-2026-6IWQPEXC4NBBPLPFEM4S3S3JHQ.php",
+   "n_members": 67,
+   "n_sources": 28,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.308,
+   "category": "environnement",
+   "terms_left": [
+    "bilan provisoire",
+    "provisoire",
+    "bilan"
+   ],
+   "terms_right": [
+    "vague chaleur",
+    "mortes",
+    "liés"
    ]
   },
   {
@@ -441,17 +471,17 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.572,
+   "divergence": 0.596,
    "category": "sciences-tech",
    "terms_left": [
-    "ministère",
     "attaque",
-    "revendique"
+    "revendique",
+    "dgfip"
    ],
    "terms_right": [
     "éducation",
     "éducation nationale",
-    "zerobytes"
+    "nationale"
    ]
   },
   {
@@ -482,36 +512,6 @@
     "france",
     "rhin",
     "eau"
-   ]
-  },
-  {
-   "title": "La canicule en France a fait au moins 7 300 morts, selon un bilan encore provisoire",
-   "url": "https://www.leparisien.fr/meteo/la-vague-de-chaleur-en-cours-en-france-devient-la-deuxieme-plus-longue-jamais-enregistree-19-08-2026-6IWQPEXC4NBBPLPFEM4S3S3JHQ.php",
-   "n_members": 66,
-   "n_sources": 27,
-   "counts": {
-    "left": 7,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 10,
-    "opinion": 3
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.308,
-   "category": "environnement",
-   "terms_left": [
-    "bilan provisoire",
-    "provisoire",
-    "bilan"
-   ],
-   "terms_right": [
-    "vague chaleur",
-    "mortes",
-    "liés"
    ]
   },
   {
@@ -774,8 +774,8 @@
    "divergence": 0.38,
    "category": "politique",
    "terms_left": [
-    "edouard philippe",
     "edouard",
+    "edouard philippe",
     "présidentielle gérald"
    ],
    "terms_right": [
@@ -896,7 +896,7 @@
    "terms_left": [
     "palme",
     "cristian",
-    "cristian mungiu"
+    "mungiu"
    ],
    "terms_right": [
     "ans",
@@ -921,17 +921,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.358,
+   "divergence": 0.326,
    "category": "international",
    "terms_left": [
-    "arrêtés",
-    "mesure",
-    "télévisions"
+    "télévisions",
+    "france télévisions",
+    "lomé"
    ],
    "terms_right": [
-    "jean-noël barrot",
-    "jean-noël",
-    "barrot"
+    "pays",
+    "retour",
+    "fin"
    ]
   },
   {
@@ -1123,7 +1123,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.594,
+   "divergence": 0.593,
    "category": "environnement",
    "terms_left": [
     "vacances",
@@ -1158,7 +1158,7 @@
    "terms_left": [
     "judiciaire patrick",
     "prescrits",
-    "bruel allégé"
+    "autorisé quitter"
    ],
    "terms_right": [
     "affaire patrick",
@@ -1183,7 +1183,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.518,
+   "divergence": 0.517,
    "category": "politique",
    "terms_left": [
     "brûlant",
