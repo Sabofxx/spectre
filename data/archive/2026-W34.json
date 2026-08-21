@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-21T09:59:56+00:00",
+ "generated_at": "2026-08-21T10:28:05+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.255,
+   "divergence": 0.254,
    "category": "sciences-tech",
    "terms_left": [
     "numérique",
     "gouvernement",
-    "fisc sébastien"
+    "fiscale"
    ],
    "terms_right": [
     "vol",
@@ -157,7 +157,7 @@
   {
    "title": "DIRECT. Sophie Adenot: l'astronaute française va s'aventurer dans le vide spatial, suivez sa sortie extravéhiculaire",
    "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 165,
+   "n_members": 166,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.2,
+   "divergence": 0.198,
    "category": "sciences-tech",
    "terms_left": [
     "française sortir",
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.553,
+   "divergence": 0.552,
    "category": "économie",
    "terms_left": [
     "familiales",
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.402,
+   "divergence": 0.401,
    "category": "politique",
    "terms_left": [
     "gouvernement",
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.503,
+   "divergence": 0.502,
    "category": "environnement",
    "terms_left": [
     "vagues",
@@ -487,7 +487,7 @@
   {
    "title": "Ebola en RDC: avec près de 5000 cas, l’épidémie est «loin d’être maîtrisée», alerte l’OMS",
    "url": "https://www.leparisien.fr/sciences/odeur-sucree-groupe-sanguin-ou-rien-de-cela-pourquoi-les-moustiques-raffolent-de-votre-peau-et-pas-de-celle-du-voisin-03-08-2026-7XIS34AZTNEVJPXNPS2WH45HDQ.php",
-   "n_members": 113,
+   "n_members": 114,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.522,
+   "divergence": 0.521,
    "category": "politique",
    "terms_left": [
     "gouvernement",
@@ -629,9 +629,9 @@
     "turquie"
    ],
    "terms_right": [
-    "kim",
     "donald trump",
-    "donald"
+    "donald",
+    "kim"
    ]
   },
   {
@@ -654,8 +654,8 @@
    "divergence": 0.534,
    "category": "politique",
    "terms_left": [
-    "pen",
     "stratégie",
+    "pen",
     "partis gauche"
    ],
    "terms_right": [
@@ -725,6 +725,36 @@
    ]
   },
   {
+   "title": "Présidentielle 2027: le parquet de Paris enquête sur des soupçons d'ingérence russe ciblant Édouard Philippe et Gabriel Attal",
+   "url": "https://www.europe1.fr/politique/presidentielle-2027-gerald-darmanin-apporte-son-soutien-a-edouard-philippe-1019624",
+   "n_members": 70,
+   "n_sources": 25,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 5
+   },
+   "blindspot_score": 0.538,
+   "blindspot_for": null,
+   "divergence": 0.376,
+   "category": "politique",
+   "terms_left": [
+    "edouard",
+    "edouard philippe",
+    "ministre"
+   ],
+   "terms_right": [
+    "édouard philippe",
+    "édouard",
+    "philippe"
+   ]
+  },
+  {
    "title": "Gaza : l'armée israélienne enquête sur la mort de la fillette Hind Rajab et de secouristes",
    "url": "https://www.cnews.fr/france/2026-08-13/drome-saisie-par-la-maire-la-justice-soppose-au-mariage-entre-une-francaise-et-un",
    "n_members": 70,
@@ -752,36 +782,6 @@
     "gaza armée",
     "propos",
     "paris"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027: le parquet de Paris enquête sur des soupçons d'ingérence russe ciblant Édouard Philippe et Gabriel Attal",
-   "url": "https://www.europe1.fr/politique/presidentielle-2027-gerald-darmanin-apporte-son-soutien-a-edouard-philippe-1019624",
-   "n_members": 67,
-   "n_sources": 25,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 5
-   },
-   "blindspot_score": 0.538,
-   "blindspot_for": null,
-   "divergence": 0.377,
-   "category": "politique",
-   "terms_left": [
-    "ministre",
-    "edouard philippe",
-    "edouard"
-   ],
-   "terms_right": [
-    "édouard philippe",
-    "édouard",
-    "philippe"
    ]
   },
   {
@@ -834,8 +834,8 @@
    "divergence": 0.537,
    "category": "politique",
    "terms_left": [
-    "publics",
     "comptes",
+    "publics",
     "comptes publics"
    ],
    "terms_right": [
@@ -937,7 +937,7 @@
   {
    "title": "François Patriat, sénateur proche d'Emmanuel Macron, est mort à l'âge de 83 ans",
    "url": "https://www.bfmtv.com/politique/le-senateur-francois-patriat-est-mort-a-l-age-de-83-ans_AN-202608190311.html",
-   "n_members": 32,
+   "n_members": 33,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -951,7 +951,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.335,
+   "divergence": 0.33,
    "category": "politique",
    "terms_left": [
     "socialiste",
@@ -1041,7 +1041,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.385,
+   "divergence": 0.388,
    "category": "société",
    "terms_left": [
     "qu",
@@ -1101,7 +1101,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.599,
+   "divergence": 0.598,
    "category": "environnement",
    "terms_left": [
     "vacances",
@@ -1136,7 +1136,7 @@
    "terms_left": [
     "judiciaire patrick",
     "prescrits",
-    "autorisé quitter"
+    "bruel allégé"
    ],
    "terms_right": [
     "affaire patrick",
@@ -1161,7 +1161,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.476,
+   "divergence": 0.475,
    "category": "politique",
    "terms_left": [
     "universités",
