@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-21T17:27:58+00:00",
+ "generated_at": "2026-08-21T17:55:31+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.244,
+   "divergence": 0.243,
    "category": "sciences-tech",
    "terms_left": [
     "crise",
@@ -60,8 +60,8 @@
    ],
    "terms_right": [
     "dgfip",
-    "données",
-    "impôts"
+    "impôts",
+    "données"
    ]
   },
   {
@@ -97,7 +97,7 @@
   {
    "title": "En direct : Trump menace de \"terribles\" répercussions économiques \"tout pays\" qui aiderait l'Iran",
    "url": "https://www.europe1.fr/international/moyen-orient-donald-trump-menace-de-bombarder-oman-sil-entrave-un-accord-sur-le-detroit-dormuz-1020452",
-   "n_members": 406,
+   "n_members": 397,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -171,12 +171,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.179,
+   "divergence": 0.178,
    "category": "sciences-tech",
    "terms_left": [
     "française sortir",
-    "sortir espace",
-    "devenir"
+    "devenir",
+    "adenot devenir"
    ],
    "terms_right": [
     "mission",
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.532,
+   "divergence": 0.526,
    "category": "économie",
    "terms_left": [
     "politiques",
@@ -217,7 +217,7 @@
   {
    "title": "Guerre en Ukraine. Nuit meurtrière à Kiev, 16 morts et une cinquantaine de blessés après des frappes russes",
    "url": "http://fr.euronews.com/video/2026/07/24/frappe-de-drones-ukrainiens-declenche-un-incendie-dans-des-entrepots-a-saint-petersbourg",
-   "n_members": 502,
+   "n_members": 505,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.27,
+   "divergence": 0.267,
    "category": "international",
    "terms_left": [
     "direct",
@@ -240,8 +240,8 @@
    ],
    "terms_right": [
     "ukraine morts",
-    "pays",
-    "frappe"
+    "frappe",
+    "pays"
    ]
   },
   {
@@ -485,6 +485,36 @@
    ]
   },
   {
+   "title": "La canicule en France a fait au moins 7 300 morts, selon un bilan encore provisoire",
+   "url": "https://www.leparisien.fr/meteo/la-vague-de-chaleur-en-cours-en-france-devient-la-deuxieme-plus-longue-jamais-enregistree-19-08-2026-6IWQPEXC4NBBPLPFEM4S3S3JHQ.php",
+   "n_members": 66,
+   "n_sources": 27,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.308,
+   "category": "environnement",
+   "terms_left": [
+    "bilan provisoire",
+    "provisoire",
+    "bilan"
+   ],
+   "terms_right": [
+    "vague chaleur",
+    "mortes",
+    "liés"
+   ]
+  },
+  {
    "title": "L’Iran annonce la capture de trois pilotes en mars au Qatar et demande leur libération",
    "url": "https://lcp.fr/actualites/l-ete-d-avant-presidentielle-2001-le-calme-puis-les-tempetes-439665",
    "n_members": 62,
@@ -632,36 +662,6 @@
     "face",
     "sébastien lecornu",
     "sébastien"
-   ]
-  },
-  {
-   "title": "La canicule en France a fait au moins 7 300 morts, selon un bilan encore provisoire",
-   "url": "https://www.leparisien.fr/meteo/la-vague-de-chaleur-en-cours-en-france-devient-la-deuxieme-plus-longue-jamais-enregistree-19-08-2026-6IWQPEXC4NBBPLPFEM4S3S3JHQ.php",
-   "n_members": 65,
-   "n_sources": 26,
-   "counts": {
-    "left": 7,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 10,
-    "opinion": 2
-   },
-   "blindspot_score": -0.077,
-   "blindspot_for": null,
-   "divergence": 0.311,
-   "category": "environnement",
-   "terms_left": [
-    "bilan provisoire",
-    "provisoire",
-    "bilan"
-   ],
-   "terms_right": [
-    "vague chaleur",
-    "mortes",
-    "liés"
    ]
   },
   {
@@ -831,7 +831,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.59,
+   "divergence": 0.589,
    "category": "international",
    "terms_left": [
     "firme",
@@ -1063,7 +1063,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.399,
+   "divergence": 0.4,
    "category": "société",
    "terms_left": [
     "qu",
@@ -1093,7 +1093,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.65,
+   "divergence": 0.649,
    "category": "politique",
    "terms_left": [
     "paris",
@@ -1123,7 +1123,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.595,
+   "divergence": 0.594,
    "category": "environnement",
    "terms_left": [
     "vacances",
@@ -1153,17 +1153,17 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.213,
+   "divergence": 0.21,
    "category": "culture",
    "terms_left": [
     "judiciaire patrick",
     "prescrits",
-    "autorisé quitter"
+    "bruel allégé"
    ],
    "terms_right": [
     "affaire patrick",
     "ans",
-    "chanteur"
+    "patrick bruel"
    ]
   },
   {
@@ -1183,7 +1183,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.52,
+   "divergence": 0.518,
    "category": "politique",
    "terms_left": [
     "brûlant",
