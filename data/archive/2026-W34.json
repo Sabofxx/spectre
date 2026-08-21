@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-21T16:21:36+00:00",
+ "generated_at": "2026-08-21T17:00:19+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -155,9 +155,9 @@
    ]
   },
   {
-   "title": "\"Merci, quelle journée\" : l'astronaute française Sophie Adenot est rentrée dans la Station spatiale internationale après six heures dans l'espace, sans avoir pu achever sa mission",
+   "title": "Sortie dans l’espace de Sophie Adenot : mission inachevée, prochaine sortie le 25 août… On fait le point",
    "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 172,
+   "n_members": 173,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -176,7 +176,7 @@
    "terms_left": [
     "française sortir",
     "sortir espace",
-    "sortir"
+    "devenir"
    ],
    "terms_right": [
     "mission",
@@ -187,7 +187,7 @@
   {
    "title": "Suppression des APL, gel du RSA... Sébastien Lecornu dément certaines pistes d'économies pour le budget 2027",
    "url": "https://www.ouest-france.fr/economie/retraites/mode-de-calcul-trimestres-pour-enfant-que-vont-changer-ces-nouveaux-decrets-sur-la-retraite-des-meres-de-famille-e5f79f04-90d2-11f1-9add-57c399f24235",
-   "n_members": 127,
+   "n_members": 129,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -201,12 +201,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.541,
+   "divergence": 0.539,
    "category": "économie",
    "terms_left": [
     "familiales",
-    "ministre",
-    "ballons"
+    "ballons",
+    "ministre"
    ],
    "terms_right": [
     "pensions",
@@ -217,7 +217,7 @@
   {
    "title": "Guerre en Ukraine. Nuit meurtrière à Kiev, 16 morts et une cinquantaine de blessés après des frappes russes",
    "url": "http://fr.euronews.com/video/2026/07/24/frappe-de-drones-ukrainiens-declenche-un-incendie-dans-des-entrepots-a-saint-petersbourg",
-   "n_members": 498,
+   "n_members": 501,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -234,8 +234,8 @@
    "divergence": 0.269,
    "category": "international",
    "terms_left": [
-    "autorités",
     "capitale",
+    "autorités",
     "direct"
    ],
    "terms_right": [
@@ -395,6 +395,36 @@
    ]
   },
   {
+   "title": "Présidentielle 2027: Édouard Philippe veut \"totalement\" fermer les \"vannes de l'immigration\" à Mayotte",
+   "url": "https://www.20minutes.fr/societe/4239546-20260817-info-midi-2-minutes-star-eteint-hollywood-lecornu-hue-gironde-roi-leon",
+   "n_members": 84,
+   "n_sources": 27,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.605,
+   "category": "politique",
+   "terms_left": [
+    "qu",
+    "droite",
+    "mélenchon"
+   ],
+   "terms_right": [
+    "édouard philippe",
+    "édouard",
+    "mayotte"
+   ]
+  },
+  {
    "title": "Les hackers ZeroBytes justifient leurs cyberattaques contre le fisc et l'Éducation nationale",
    "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/adrien-peyroles-directeur-general-de-bureau-vallee-18-08_EN-202608180098.html",
    "n_members": 83,
@@ -422,36 +452,6 @@
     "éducation",
     "éducation nationale",
     "zerobytes"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027: Édouard Philippe veut \"totalement\" fermer les \"vannes de l'immigration\" à Mayotte",
-   "url": "https://www.20minutes.fr/societe/4239546-20260817-info-midi-2-minutes-star-eteint-hollywood-lecornu-hue-gironde-roi-leon",
-   "n_members": 82,
-   "n_sources": 27,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 9,
-    "opinion": 4
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.606,
-   "category": "politique",
-   "terms_left": [
-    "qu",
-    "droite",
-    "mélenchon"
-   ],
-   "terms_right": [
-    "édouard philippe",
-    "édouard",
-    "mayotte"
    ]
   },
   {
@@ -774,8 +774,8 @@
    "divergence": 0.379,
    "category": "politique",
    "terms_left": [
-    "edouard philippe",
     "edouard",
+    "edouard philippe",
     "présidentielle gérald"
    ],
    "terms_right": [
@@ -831,7 +831,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.595,
+   "divergence": 0.59,
    "category": "international",
    "terms_left": [
     "firme",
@@ -841,7 +841,7 @@
    "terms_right": [
     "facebook",
     "facebook instagram",
-    "instagram"
+    "rendu"
    ]
   },
   {
@@ -861,12 +861,12 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.546,
+   "divergence": 0.558,
    "category": "politique",
    "terms_left": [
-    "publics",
-    "comptes",
-    "comptes publics"
+    "excuses",
+    "piratage",
+    "etat"
    ],
    "terms_right": [
     "demande",
@@ -875,9 +875,9 @@
    ]
   },
   {
-   "title": "« Fjord » de Cristian Mungiu, une Palme d’or qui bouscule les dogmes ****",
+   "title": "Cristian Mungiu (Palme d'or 2026): «J'utilise le cinéma pour lutter contre ces politesses qui empêchent de nous exprimer»",
    "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/dans-fjord-palme-d-or-2026-cristian-mungiu-denonce-les-dangers-de-la-polarisation-a-travers-l-histoire-d-une-famille-roumaine-chretienne-integriste-exilee-en-norvege_8143226.html",
-   "n_members": 36,
+   "n_members": 37,
    "n_sources": 25,
    "counts": {
     "left": 10,
@@ -891,7 +891,7 @@
    },
    "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.48,
+   "divergence": 0.523,
    "category": "culture",
    "terms_left": [
     "palme",
@@ -901,7 +901,7 @@
    "terms_right": [
     "ans",
     "famille",
-    "cannes fjord"
+    "norvégienne"
    ]
   },
   {
@@ -921,12 +921,12 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.364,
+   "divergence": 0.357,
    "category": "international",
    "terms_left": [
     "arrêtés",
-    "alerte",
-    "mesure"
+    "mesure",
+    "tôt"
    ],
    "terms_right": [
     "jean-noël barrot",
@@ -1123,7 +1123,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.596,
+   "divergence": 0.595,
    "category": "environnement",
    "terms_left": [
     "vacances",
@@ -1183,7 +1183,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.534,
+   "divergence": 0.52,
    "category": "politique",
    "terms_left": [
     "brûlant",
@@ -1193,7 +1193,7 @@
    "terms_right": [
     "ministre",
     "français",
-    "transition écologique"
+    "gouvernement"
    ]
   }
  ]
