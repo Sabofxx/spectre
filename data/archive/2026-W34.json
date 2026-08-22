@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-22T14:45:58+00:00",
+ "generated_at": "2026-08-22T15:12:15+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -231,17 +231,17 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.418,
+   "divergence": 0.384,
    "category": "environnement",
    "terms_left": [
     "santé",
-    "publique france",
-    "santé publique"
+    "bilan provisoire",
+    "provisoire"
    ],
    "terms_right": [
     "liés",
-    "décès liés",
-    "vague chaleur"
+    "vague chaleur",
+    "décès liés"
    ]
   },
   {
@@ -275,6 +275,36 @@
    ]
   },
   {
+   "title": "Présidentielle 2027: Édouard Philippe veut \"totalement\" fermer les \"vannes de l'immigration\" à Mayotte",
+   "url": "https://www.20minutes.fr/societe/4239546-20260817-info-midi-2-minutes-star-eteint-hollywood-lecornu-hue-gironde-roi-leon",
+   "n_members": 123,
+   "n_sources": 28,
+   "counts": {
+    "left": 5,
+    "centre": 14,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.558,
+   "category": "politique",
+   "terms_left": [
+    "qu",
+    "droite",
+    "rentrée politique"
+   ],
+   "terms_right": [
+    "édouard philippe",
+    "édouard",
+    "mayotte"
+   ]
+  },
+  {
    "title": "Présidentielle 2027 : les Écologistes, tiraillés entre LFI et le PS, tentent d'exister",
    "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
    "n_members": 122,
@@ -291,7 +321,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.497,
+   "divergence": 0.501,
    "category": "politique",
    "terms_left": [
     "militants",
@@ -302,36 +332,6 @@
     "france",
     "france insoumise",
     "insoumise"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027: Édouard Philippe veut \"totalement\" fermer les \"vannes de l'immigration\" à Mayotte",
-   "url": "https://www.20minutes.fr/societe/4239546-20260817-info-midi-2-minutes-star-eteint-hollywood-lecornu-hue-gironde-roi-leon",
-   "n_members": 122,
-   "n_sources": 28,
-   "counts": {
-    "left": 5,
-    "centre": 14,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 4
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.553,
-   "category": "politique",
-   "terms_left": [
-    "qu",
-    "droite",
-    "publique"
-   ],
-   "terms_right": [
-    "édouard philippe",
-    "édouard",
-    "mayotte"
    ]
   },
   {
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.603,
+   "divergence": 0.602,
    "category": "sciences-tech",
    "terms_left": [
     "attaque",
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.469,
+   "divergence": 0.47,
    "category": "société",
    "terms_left": [
     "rdc épidémie",
@@ -635,6 +635,36 @@
    ]
   },
   {
+   "title": "Faute d'accord, le Canada subit de nouveaux droits de douane américains punitifs",
+   "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
+   "n_members": 81,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 1
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.501,
+   "category": "international",
+   "terms_left": [
+    "pays",
+    "bœuf",
+    "administration"
+   ],
+   "terms_right": [
+    "donald trump",
+    "donald",
+    "droits douane"
+   ]
+  },
+  {
    "title": "Incendies﻿ : 12 millions d’euros d’aides, délais raccourcis… Le point sur les annonces de Sébastien Lecornu en Gironde",
    "url": "https://www.sudradio.fr/emission/le-fait-du-jour-638",
    "n_members": 80,
@@ -662,36 +692,6 @@
     "face",
     "sébastien lecornu",
     "sébastien"
-   ]
-  },
-  {
-   "title": "Faute d'accord, le Canada subit de nouveaux droits de douane américains punitifs",
-   "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
-   "n_members": 80,
-   "n_sources": 26,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 9,
-    "opinion": 1
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.508,
-   "category": "international",
-   "terms_left": [
-    "pays",
-    "bœuf",
-    "administration"
-   ],
-   "terms_right": [
-    "donald trump",
-    "donald",
-    "droits douane"
    ]
   },
   {
@@ -741,7 +741,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.877,
+   "divergence": 0.876,
    "category": "environnement",
    "terms_left": [
     "marche",
@@ -921,7 +921,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.581,
+   "divergence": 0.583,
    "category": "politique",
    "terms_left": [
     "etat",
@@ -929,9 +929,9 @@
     "vols"
    ],
    "terms_right": [
-    "demande",
     "lecornu demande",
-    "nouvelle"
+    "demande",
+    "cyberattaques"
    ]
   },
   {
@@ -955,8 +955,8 @@
    "category": "culture",
    "terms_left": [
     "palme",
-    "mungiu",
-    "cristian mungiu"
+    "cristian mungiu",
+    "mungiu"
    ],
    "terms_right": [
     "qu",
@@ -1093,17 +1093,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.409,
+   "divergence": 0.401,
    "category": "politique",
    "terms_left": [
     "ministre",
-    "macron",
+    "emmanuel macron",
     "emmanuel"
    ],
    "terms_right": [
-    "président",
     "sénateur",
-    "patriat mort"
+    "patriat mort",
+    "président"
    ]
   },
   {
