@@ -1,13 +1,13 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-22T15:12:15+00:00",
+ "generated_at": "2026-08-22T15:44:07+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "L'Espagne ouvre des centres d'accueil pour 1800 migrants à Ceuta, afin de soulager la crise humanitaire qui y sévit",
    "url": "https://www.nicematin.com/societe/animaux/il-reste-prostre-les-premieres-images-des-dauphins-de-marineland-dans-leur-bassin-en-espagne-vive-inquietude-des-associations-pour-un-dauphin-10696024",
-   "n_members": 549,
+   "n_members": 550,
    "n_sources": 37,
    "counts": {
     "left": 7,
@@ -21,17 +21,17 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.267,
+   "divergence": 0.266,
    "category": "international",
    "terms_left": [
     "droite",
-    "crise ceuta",
-    "jeunes"
+    "personnes",
+    "crise ceuta"
    ],
    "terms_right": [
     "migratoire ceuta",
     "migratoire",
-    "enclave"
+    "crise migratoire"
    ]
   },
   {
@@ -215,6 +215,36 @@
    ]
   },
   {
+   "title": "Guerre en Ukraine. Nuit meurtrière à Kiev, 16 morts et une cinquantaine de blessés après des frappes russes",
+   "url": "http://fr.euronews.com/video/2026/07/24/frappe-de-drones-ukrainiens-declenche-un-incendie-dans-des-entrepots-a-saint-petersbourg",
+   "n_members": 539,
+   "n_sources": 29,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.176,
+   "blindspot_for": null,
+   "divergence": 0.261,
+   "category": "international",
+   "terms_left": [
+    "direct",
+    "guerre ukraine",
+    "guerre"
+   ],
+   "terms_right": [
+    "ukraine morts",
+    "commercial",
+    "président"
+   ]
+  },
+  {
    "title": "La canicule en France a fait au moins 7 300 morts, selon un bilan encore provisoire",
    "url": "https://www.leparisien.fr/meteo/la-vague-de-chaleur-en-cours-en-france-devient-la-deuxieme-plus-longue-jamais-enregistree-19-08-2026-6IWQPEXC4NBBPLPFEM4S3S3JHQ.php",
    "n_members": 70,
@@ -245,39 +275,9 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine. Nuit meurtrière à Kiev, 16 morts et une cinquantaine de blessés après des frappes russes",
-   "url": "http://fr.euronews.com/video/2026/07/24/frappe-de-drones-ukrainiens-declenche-un-incendie-dans-des-entrepots-a-saint-petersbourg",
-   "n_members": 537,
-   "n_sources": 28,
-   "counts": {
-    "left": 7,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 10,
-    "opinion": 2
-   },
-   "blindspot_score": 0.125,
-   "blindspot_for": null,
-   "divergence": 0.261,
-   "category": "international",
-   "terms_left": [
-    "direct",
-    "guerre ukraine",
-    "guerre"
-   ],
-   "terms_right": [
-    "ukraine morts",
-    "commercial",
-    "centre commercial"
-   ]
-  },
-  {
    "title": "Présidentielle 2027: Édouard Philippe veut \"totalement\" fermer les \"vannes de l'immigration\" à Mayotte",
    "url": "https://www.20minutes.fr/societe/4239546-20260817-info-midi-2-minutes-star-eteint-hollywood-lecornu-hue-gironde-roi-leon",
-   "n_members": 123,
+   "n_members": 124,
    "n_sources": 28,
    "counts": {
     "left": 5,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.558,
+   "divergence": 0.56,
    "category": "politique",
    "terms_left": [
     "qu",
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.484,
+   "divergence": 0.483,
    "category": "environnement",
    "terms_left": [
     "jours",
@@ -711,17 +711,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.55,
+   "divergence": 0.525,
    "category": "international",
    "terms_left": [
-    "accusée",
     "éviter",
-    "zuckerberg accusée"
+    "accusée appâté",
+    "accusée"
    ],
    "terms_right": [
-    "justice",
+    "groupe",
     "jusqu",
-    "groupe"
+    "milliards"
    ]
   },
   {
@@ -741,7 +741,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.876,
+   "divergence": 0.875,
    "category": "environnement",
    "terms_left": [
     "marche",
@@ -771,7 +771,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.476,
+   "divergence": 0.474,
    "category": "international",
    "terms_left": [
     "pacte",
@@ -781,7 +781,7 @@
    "terms_right": [
     "donald trump",
     "donald",
-    "kim"
+    "trump"
    ]
   },
   {
@@ -921,7 +921,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.583,
+   "divergence": 0.596,
    "category": "politique",
    "terms_left": [
     "etat",
@@ -965,9 +965,9 @@
    ]
   },
   {
-   "title": "Deux ressortissants français détenus au Togo : ce que l'on sait sur les deux journalistes partis réaliser une production",
+   "title": "Inquiétudes pour deux réalisateurs français arrêtés et détenus au Togo avec un collaborateur local",
    "url": "https://www.lemonde.fr/international/article/2026/08/17/repression-en-iran-les-echanges-culturels-francais-dans-le-viseur-du-pouvoir_6747965_3210.html",
-   "n_members": 78,
+   "n_members": 82,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -981,17 +981,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.271,
+   "divergence": 0.27,
    "category": "international",
    "terms_left": [
     "lomé",
-    "détenus togo",
-    "français arrêtés"
+    "français arrêtés",
+    "arrêtés détenus"
    ],
    "terms_right": [
-    "documentaire",
-    "fin",
-    "réalisateurs"
+    "réalisateurs",
+    "émission",
+    "gouvernement"
    ]
   },
   {
@@ -1063,7 +1063,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.615,
+   "divergence": 0.614,
    "category": "sciences-tech",
    "terms_left": [
     "animation",
