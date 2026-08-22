@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-22T07:08:54+00:00",
+ "generated_at": "2026-08-22T07:53:20+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.238,
+   "divergence": 0.241,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -121,7 +121,7 @@
    "terms_right": [
     "états-unis",
     "détroit",
-    "ormuz"
+    "pays"
    ]
   },
   {
@@ -175,8 +175,8 @@
    "category": "sciences-tech",
    "terms_left": [
     "française sortir",
-    "sortir",
-    "sortir espace"
+    "sortir espace",
+    "sortir"
    ],
    "terms_right": [
     "mission",
@@ -247,7 +247,7 @@
   {
    "title": "Guerre en Ukraine. Nuit meurtrière à Kiev, 16 morts et une cinquantaine de blessés après des frappes russes",
    "url": "http://fr.euronews.com/video/2026/07/24/frappe-de-drones-ukrainiens-declenche-un-incendie-dans-des-entrepots-a-saint-petersbourg",
-   "n_members": 518,
+   "n_members": 519,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -266,18 +266,18 @@
    "terms_left": [
     "direct",
     "capitale",
-    "guerre ukraine"
+    "autorités"
    ],
    "terms_right": [
     "ukraine morts",
     "commercial",
-    "centre commercial"
+    "centre"
    ]
   },
   {
    "title": "Présidentielle 2027 : la gauche lance sa campagne en ordre dispersé",
    "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
-   "n_members": 107,
+   "n_members": 109,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.246,
+   "divergence": 0.249,
    "category": "société",
    "terms_left": [
     "fin",
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.597,
+   "divergence": 0.595,
    "category": "sciences-tech",
    "terms_left": [
     "attaque",
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.484,
+   "divergence": 0.483,
    "category": "environnement",
    "terms_left": [
     "vagues",
@@ -801,7 +801,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.539,
+   "divergence": 0.535,
    "category": "international",
    "terms_left": [
     "fillette",
@@ -811,7 +811,7 @@
    "terms_right": [
     "gaza armée",
     "propos",
-    "paris"
+    "rajab ans"
    ]
   },
   {
@@ -831,7 +831,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.564,
+   "divergence": 0.563,
    "category": "international",
    "terms_left": [
     "firme",
@@ -842,6 +842,36 @@
     "réseaux sociaux",
     "sociaux",
     "réseaux"
+   ]
+  },
+  {
+   "title": "Paris prend déjà des airs d’automne: pourquoi sécheresse et canicule font tomber les feuilles des arbres",
+   "url": "https://www.bfmtv.com/culture/cinema-series/l-odyssee-depasse-les-6-millions-d-entrees-et-devient-le-plus-gros-succes-de-l-annee-en-france_AN-202608180333.html",
+   "n_members": 56,
+   "n_sources": 25,
+   "counts": {
+    "left": 8,
+    "centre": 9,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 10,
+    "opinion": 5
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.874,
+   "category": "environnement",
+   "terms_left": [
+    "marche",
+    "fiertés",
+    "marche fiertés"
+   ],
+   "terms_right": [
+    "sécheresse",
+    "paris",
+    "eau"
    ]
   },
   {
@@ -875,36 +905,6 @@
    ]
   },
   {
-   "title": "Paris prend déjà des airs d’automne: pourquoi sécheresse et canicule font tomber les feuilles des arbres",
-   "url": "https://www.bfmtv.com/culture/cinema-series/l-odyssee-depasse-les-6-millions-d-entrees-et-devient-le-plus-gros-succes-de-l-annee-en-france_AN-202608180333.html",
-   "n_members": 54,
-   "n_sources": 25,
-   "counts": {
-    "left": 8,
-    "centre": 9,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 10,
-    "opinion": 5
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.874,
-   "category": "environnement",
-   "terms_left": [
-    "marche",
-    "fiertés",
-    "marche fiertés"
-   ],
-   "terms_right": [
-    "sécheresse",
-    "eau",
-    "paris"
-   ]
-  },
-  {
    "title": "Cristian Mungiu (Palme d'or 2026): «J'utilise le cinéma pour lutter contre ces politesses qui empêchent de nous exprimer»",
    "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/dans-fjord-palme-d-or-2026-cristian-mungiu-denonce-les-dangers-de-la-polarisation-a-travers-l-histoire-d-une-famille-roumaine-chretienne-integriste-exilee-en-norvege_8143226.html",
    "n_members": 37,
@@ -926,7 +926,7 @@
    "terms_left": [
     "palme",
     "cristian",
-    "mungiu"
+    "cristian mungiu"
    ],
    "terms_right": [
     "qu",
@@ -951,7 +951,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.302,
+   "divergence": 0.3,
    "category": "international",
    "terms_left": [
     "lomé",
@@ -1107,6 +1107,36 @@
    ]
   },
   {
+   "title": "Un répit de trois jours pour le Canada : Trump suspend l’entrée en vigueur de nouveaux droits de douane, un accord commercial en vue",
+   "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
+   "n_members": 70,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 6,
+    "opinion": 1
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.672,
+   "category": "international",
+   "terms_left": [
+    "administration",
+    "bœuf",
+    "forêts"
+   ],
+   "terms_right": [
+    "droits douane",
+    "douane",
+    "canada"
+   ]
+  },
+  {
    "title": "Une famille reste 12 jours sur une aire d’autoroute après la disparition de son chat",
    "url": "https://www.tf1info.fr/politique/videos/video-en-liberte-macron-le-coup-de-com-de-l-ete-35550-2458219.html",
    "n_members": 65,
@@ -1164,36 +1194,6 @@
     "canicule",
     "annonce",
     "maire"
-   ]
-  },
-  {
-   "title": "Patrick Bruel visé par une nouvelle plainte pour \"tentative de viol\": le chanteur maintient sa tournée",
-   "url": "https://www.mediapart.fr/journal/france/140826/le-controle-judiciaire-de-patrick-bruel-ete-allege",
-   "n_members": 61,
-   "n_sources": 23,
-   "counts": {
-    "left": 7,
-    "centre": 10,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": -0.077,
-   "blindspot_for": null,
-   "divergence": 0.23,
-   "category": "culture",
-   "terms_left": [
-    "judiciaire patrick",
-    "quitter",
-    "prescrits"
-   ],
-   "terms_right": [
-    "affaire",
-    "patrick bruel",
-    "patrick"
    ]
   }
  ]
