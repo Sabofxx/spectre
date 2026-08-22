@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-22T07:53:20+00:00",
+ "generated_at": "2026-08-22T08:18:49+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.241,
+   "divergence": 0.24,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -120,8 +120,8 @@
    ],
    "terms_right": [
     "états-unis",
-    "détroit",
-    "pays"
+    "pays",
+    "détroit"
    ]
   },
   {
@@ -247,7 +247,7 @@
   {
    "title": "Guerre en Ukraine. Nuit meurtrière à Kiev, 16 morts et une cinquantaine de blessés après des frappes russes",
    "url": "http://fr.euronews.com/video/2026/07/24/frappe-de-drones-ukrainiens-declenche-un-incendie-dans-des-entrepots-a-saint-petersbourg",
-   "n_members": 519,
+   "n_members": 520,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -397,7 +397,7 @@
   {
    "title": "Présidentielle 2027: Édouard Philippe veut \"totalement\" fermer les \"vannes de l'immigration\" à Mayotte",
    "url": "https://www.20minutes.fr/societe/4239546-20260817-info-midi-2-minutes-star-eteint-hollywood-lecornu-hue-gironde-roi-leon",
-   "n_members": 95,
+   "n_members": 97,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.603,
+   "divergence": 0.6,
    "category": "politique",
    "terms_left": [
     "qu",
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.249,
+   "divergence": 0.25,
    "category": "société",
    "terms_left": [
     "fin",
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.595,
+   "divergence": 0.594,
    "category": "sciences-tech",
    "terms_left": [
     "attaque",
@@ -575,9 +575,9 @@
    ]
   },
   {
-   "title": "En RDC, l'épidémie d'Ebola est loin d'être \"maîtrisée\"",
+   "title": "Ebola en RDC : l’épidémie progresse « de façon exponentielle » et dépasse 2 500 morts, alerte l’ONU",
    "url": "https://www.leparisien.fr/sciences/odeur-sucree-groupe-sanguin-ou-rien-de-cela-pourquoi-les-moustiques-raffolent-de-votre-peau-et-pas-de-celle-du-voisin-03-08-2026-7XIS34AZTNEVJPXNPS2WH45HDQ.php",
-   "n_members": 124,
+   "n_members": 125,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -662,6 +662,36 @@
     "face",
     "sébastien lecornu",
     "sébastien"
+   ]
+  },
+  {
+   "title": "Paris prend déjà des airs d’automne: pourquoi sécheresse et canicule font tomber les feuilles des arbres",
+   "url": "https://www.lefigaro.fr/international/yemen-le-chef-des-droits-de-l-homme-de-l-onu-alerte-sur-le-risque-d-un-conflit-a-grande-echelle-20260817",
+   "n_members": 60,
+   "n_sources": 26,
+   "counts": {
+    "left": 8,
+    "centre": 10,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 10,
+    "opinion": 5
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.876,
+   "category": "environnement",
+   "terms_left": [
+    "marche",
+    "fiertés",
+    "marche fiertés"
+   ],
+   "terms_right": [
+    "sécheresse",
+    "paris",
+    "eau"
    ]
   },
   {
@@ -774,8 +804,8 @@
    "divergence": 0.38,
    "category": "politique",
    "terms_left": [
-    "edouard philippe",
     "edouard",
+    "edouard philippe",
     "présidentielle gérald"
    ],
    "terms_right": [
@@ -801,7 +831,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.535,
+   "divergence": 0.536,
    "category": "international",
    "terms_left": [
     "fillette",
@@ -831,7 +861,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.563,
+   "divergence": 0.548,
    "category": "international",
    "terms_left": [
     "firme",
@@ -842,36 +872,6 @@
     "réseaux sociaux",
     "sociaux",
     "réseaux"
-   ]
-  },
-  {
-   "title": "Paris prend déjà des airs d’automne: pourquoi sécheresse et canicule font tomber les feuilles des arbres",
-   "url": "https://www.bfmtv.com/culture/cinema-series/l-odyssee-depasse-les-6-millions-d-entrees-et-devient-le-plus-gros-succes-de-l-annee-en-france_AN-202608180333.html",
-   "n_members": 56,
-   "n_sources": 25,
-   "counts": {
-    "left": 8,
-    "centre": 9,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 10,
-    "opinion": 5
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.874,
-   "category": "environnement",
-   "terms_left": [
-    "marche",
-    "fiertés",
-    "marche fiertés"
-   ],
-   "terms_right": [
-    "sécheresse",
-    "paris",
-    "eau"
    ]
   },
   {
@@ -891,12 +891,12 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.569,
+   "divergence": 0.574,
    "category": "politique",
    "terms_left": [
-    "piratage",
     "etat",
-    "site"
+    "site",
+    "vols"
    ],
    "terms_right": [
     "demande",
@@ -921,7 +921,7 @@
    },
    "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.517,
+   "divergence": 0.507,
    "category": "culture",
    "terms_left": [
     "palme",
@@ -962,6 +962,36 @@
     "pays",
     "armée",
     "garde"
+   ]
+  },
+  {
+   "title": "Faute d'accord, le Canada subit de nouveaux droits de douane américains punitifs",
+   "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
+   "n_members": 72,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 1
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.675,
+   "category": "international",
+   "terms_left": [
+    "administration",
+    "bœuf",
+    "forêts"
+   ],
+   "terms_right": [
+    "droits douane",
+    "douane",
+    "droits"
    ]
   },
   {
@@ -1063,7 +1093,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.722,
+   "divergence": 0.721,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -1093,7 +1123,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.397,
+   "divergence": 0.393,
    "category": "économie",
    "terms_left": [
     "qu",
@@ -1102,38 +1132,8 @@
    ],
    "terms_right": [
     "baisse",
-    "fournitures",
-    "euros"
-   ]
-  },
-  {
-   "title": "Un répit de trois jours pour le Canada : Trump suspend l’entrée en vigueur de nouveaux droits de douane, un accord commercial en vue",
-   "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
-   "n_members": 70,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.672,
-   "category": "international",
-   "terms_left": [
-    "administration",
-    "bœuf",
-    "forêts"
-   ],
-   "terms_right": [
-    "droits douane",
-    "douane",
-    "canada"
+    "euros",
+    "france"
    ]
   },
   {
