@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-22T13:09:08+00:00",
+ "generated_at": "2026-08-22T13:51:27+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.537,
+   "divergence": 0.538,
    "category": "économie",
    "terms_left": [
     "politiques",
@@ -231,7 +231,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.382,
+   "divergence": 0.405,
    "category": "environnement",
    "terms_left": [
     "santé",
@@ -240,14 +240,14 @@
    ],
    "terms_right": [
     "liés",
-    "vague chaleur",
-    "décès liés"
+    "décès liés",
+    "vague chaleur"
    ]
   },
   {
    "title": "Guerre en Ukraine. Nuit meurtrière à Kiev, 16 morts et une cinquantaine de blessés après des frappes russes",
    "url": "http://fr.euronews.com/video/2026/07/24/frappe-de-drones-ukrainiens-declenche-un-incendie-dans-des-entrepots-a-saint-petersbourg",
-   "n_members": 530,
+   "n_members": 533,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -277,7 +277,7 @@
   {
    "title": "Présidentielle 2027 : les Écologistes, tiraillés entre LFI et le PS, tentent d'exister",
    "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
-   "n_members": 121,
+   "n_members": 122,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.508,
+   "divergence": 0.496,
    "category": "politique",
    "terms_left": [
     "militants",
@@ -300,14 +300,14 @@
    ],
    "terms_right": [
     "france",
-    "écologistes",
-    "france insoumise"
+    "france insoumise",
+    "insoumise"
    ]
   },
   {
    "title": "Présidentielle 2027: Édouard Philippe veut \"totalement\" fermer les \"vannes de l'immigration\" à Mayotte",
    "url": "https://www.20minutes.fr/societe/4239546-20260817-info-midi-2-minutes-star-eteint-hollywood-lecornu-hue-gironde-roi-leon",
-   "n_members": 120,
+   "n_members": 121,
    "n_sources": 28,
    "counts": {
     "left": 5,
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.554,
+   "divergence": 0.549,
    "category": "politique",
    "terms_left": [
     "qu",
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.4,
+   "divergence": 0.401,
    "category": "politique",
    "terms_left": [
     "gouvernement",
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.592,
+   "divergence": 0.594,
    "category": "sciences-tech",
    "terms_left": [
     "attaque",
@@ -684,14 +684,14 @@
    "divergence": 0.55,
    "category": "international",
    "terms_left": [
-    "firme",
     "accusée",
-    "enfants"
+    "éviter",
+    "zuckerberg accusée"
    ],
    "terms_right": [
     "justice",
-    "groupe",
-    "sud"
+    "jusqu",
+    "groupe"
    ]
   },
   {
@@ -864,8 +864,8 @@
    "divergence": 0.381,
    "category": "politique",
    "terms_left": [
-    "edouard",
     "edouard philippe",
+    "edouard",
     "présidentielle gérald"
    ],
    "terms_right": [
@@ -956,7 +956,7 @@
    "terms_left": [
     "palme",
     "cristian",
-    "mungiu"
+    "cristian mungiu"
    ],
    "terms_right": [
     "qu",
@@ -1047,6 +1047,36 @@
    "terms_right": []
   },
   {
+   "title": "Robots : pourquoi les humanoïdes sont-ils de plus en plus made-in-China ?",
+   "url": "https://information.tv5monde.com/international/niu-lai-ce-film-tellement-mauvais-est-devenu-un-succes-au-box-office-chinois-aux-cotes-de-lodyssee-et-de-spider-man-2833941",
+   "n_members": 52,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 14,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 1
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.615,
+   "category": "sciences-tech",
+   "terms_left": [
+    "animation",
+    "film animation",
+    "film"
+   ],
+   "terms_right": [
+    "robots",
+    "monde",
+    "euros"
+   ]
+  },
+  {
    "title": "François Patriat, sénateur proche d'Emmanuel Macron, est mort à l'âge de 83 ans",
    "url": "https://www.bfmtv.com/politique/le-senateur-francois-patriat-est-mort-a-l-age-de-83-ans_AN-202608190311.html",
    "n_members": 33,
@@ -1063,17 +1093,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.369,
+   "divergence": 0.384,
    "category": "politique",
    "terms_left": [
     "ancien",
     "ministre",
-    "fidèle"
+    "macron"
    ],
    "terms_right": [
     "sénateur",
-    "patriat mort",
-    "sénateur françois"
+    "groupe",
+    "patriat mort"
    ]
   },
   {
@@ -1164,36 +1194,6 @@
     "vacances",
     "famille",
     "jours"
-   ]
-  },
-  {
-   "title": "Patrick Bruel visé par une nouvelle plainte pour \"tentative de viol\": le chanteur maintient sa tournée",
-   "url": "https://www.mediapart.fr/journal/france/140826/le-controle-judiciaire-de-patrick-bruel-ete-allege",
-   "n_members": 62,
-   "n_sources": 23,
-   "counts": {
-    "left": 7,
-    "centre": 10,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": -0.077,
-   "blindspot_for": null,
-   "divergence": 0.252,
-   "category": "culture",
-   "terms_left": [
-    "judiciaire patrick",
-    "quitter",
-    "bruel allégé"
-   ],
-   "terms_right": [
-    "chanteur",
-    "affaire",
-    "patrick bruel"
    ]
   }
  ]
