@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-22T14:13:21+00:00",
+ "generated_at": "2026-08-22T14:45:58+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.537,
+   "divergence": 0.536,
    "category": "économie",
    "terms_left": [
     "politiques",
@@ -247,7 +247,7 @@
   {
    "title": "Guerre en Ukraine. Nuit meurtrière à Kiev, 16 morts et une cinquantaine de blessés après des frappes russes",
    "url": "http://fr.euronews.com/video/2026/07/24/frappe-de-drones-ukrainiens-declenche-un-incendie-dans-des-entrepots-a-saint-petersbourg",
-   "n_members": 536,
+   "n_members": 537,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.262,
+   "divergence": 0.261,
    "category": "international",
    "terms_left": [
     "direct",
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.496,
+   "divergence": 0.497,
    "category": "politique",
    "terms_left": [
     "militants",
@@ -307,7 +307,7 @@
   {
    "title": "Présidentielle 2027: Édouard Philippe veut \"totalement\" fermer les \"vannes de l'immigration\" à Mayotte",
    "url": "https://www.20minutes.fr/societe/4239546-20260817-info-midi-2-minutes-star-eteint-hollywood-lecornu-hue-gironde-roi-leon",
-   "n_members": 121,
+   "n_members": 122,
    "n_sources": 28,
    "counts": {
     "left": 5,
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.549,
+   "divergence": 0.553,
    "category": "politique",
    "terms_left": [
     "qu",
@@ -501,7 +501,7 @@
    },
    "blindspot_score": -0.231,
    "blindspot_for": null,
-   "divergence": 0.753,
+   "divergence": 0.754,
    "category": "environnement",
    "terms_left": [
     "désertification",
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.483,
+   "divergence": 0.484,
    "category": "environnement",
    "terms_left": [
     "jours",
@@ -651,17 +651,47 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.523,
+   "divergence": 0.524,
    "category": "politique",
    "terms_left": [
     "gouvernement",
-    "gironde",
-    "millions"
+    "millions",
+    "gironde"
    ],
    "terms_right": [
     "face",
     "sébastien lecornu",
     "sébastien"
+   ]
+  },
+  {
+   "title": "Faute d'accord, le Canada subit de nouveaux droits de douane américains punitifs",
+   "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
+   "n_members": 80,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 1
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.508,
+   "category": "international",
+   "terms_left": [
+    "pays",
+    "bœuf",
+    "administration"
+   ],
+   "terms_right": [
+    "donald trump",
+    "donald",
+    "droits douane"
    ]
   },
   {
@@ -711,7 +741,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.876,
+   "divergence": 0.877,
    "category": "environnement",
    "terms_left": [
     "marche",
@@ -815,36 +845,6 @@
    ]
   },
   {
-   "title": "Faute d'accord, le Canada subit de nouveaux droits de douane américains punitifs",
-   "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
-   "n_members": 79,
-   "n_sources": 25,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 8,
-    "opinion": 1
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.571,
-   "category": "international",
-   "terms_left": [
-    "bœuf",
-    "administration",
-    "pays"
-   ],
-   "terms_right": [
-    "donald trump",
-    "donald",
-    "droits douane"
-   ]
-  },
-  {
    "title": "Présidentielle 2027 : Gabriel Attal de nouveau ciblé par des opérations de désinformation prorusses",
    "url": "https://www.europe1.fr/politique/presidentielle-2027-gerald-darmanin-apporte-son-soutien-a-edouard-philippe-1019624",
    "n_members": 72,
@@ -864,8 +864,8 @@
    "divergence": 0.381,
    "category": "politique",
    "terms_left": [
-    "edouard philippe",
     "edouard",
+    "edouard philippe",
     "présidentielle gérald"
    ],
    "terms_right": [
@@ -921,7 +921,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.57,
+   "divergence": 0.581,
    "category": "politique",
    "terms_left": [
     "etat",
@@ -955,8 +955,8 @@
    "category": "culture",
    "terms_left": [
     "palme",
-    "cristian mungiu",
-    "mungiu"
+    "mungiu",
+    "cristian mungiu"
    ],
    "terms_right": [
     "qu",
@@ -1093,12 +1093,12 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.391,
+   "divergence": 0.409,
    "category": "politique",
    "terms_left": [
+    "ministre",
     "macron",
-    "emmanuel",
-    "emmanuel macron"
+    "emmanuel"
    ],
    "terms_right": [
     "président",
