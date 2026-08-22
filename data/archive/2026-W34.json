@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-22T05:52:00+00:00",
+ "generated_at": "2026-08-22T06:22:48+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Données volées, contribuables concernés, risques d’arnaques… Toutes les réponses à vos questions sur le piratage du fisc",
    "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 197,
+   "n_members": 198,
    "n_sources": 36,
    "counts": {
     "left": 6,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.247,
+   "divergence": 0.248,
    "category": "sciences-tech",
    "terms_left": [
     "crise",
@@ -60,8 +60,8 @@
    ],
    "terms_right": [
     "dgfip",
-    "données",
-    "cyberattaque"
+    "impôts",
+    "données"
    ]
   },
   {
@@ -215,6 +215,36 @@
    ]
   },
   {
+   "title": "La canicule en France a fait au moins 7 300 morts, selon un bilan encore provisoire",
+   "url": "https://www.leparisien.fr/meteo/la-vague-de-chaleur-en-cours-en-france-devient-la-deuxieme-plus-longue-jamais-enregistree-19-08-2026-6IWQPEXC4NBBPLPFEM4S3S3JHQ.php",
+   "n_members": 70,
+   "n_sources": 29,
+   "counts": {
+    "left": 8,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 11,
+    "opinion": 3
+   },
+   "blindspot_score": -0.067,
+   "blindspot_for": null,
+   "divergence": 0.317,
+   "category": "environnement",
+   "terms_left": [
+    "bilan provisoire",
+    "provisoire",
+    "bilan"
+   ],
+   "terms_right": [
+    "vague chaleur",
+    "mortes",
+    "liés"
+   ]
+  },
+  {
    "title": "Guerre en Ukraine. Nuit meurtrière à Kiev, 16 morts et une cinquantaine de blessés après des frappes russes",
    "url": "http://fr.euronews.com/video/2026/07/24/frappe-de-drones-ukrainiens-declenche-un-incendie-dans-des-entrepots-a-saint-petersbourg",
    "n_members": 518,
@@ -302,36 +332,6 @@
     "afghanistan ans",
     "afghanistan",
     "pays"
-   ]
-  },
-  {
-   "title": "La canicule en France a fait au moins 7 300 morts, selon un bilan encore provisoire",
-   "url": "https://www.leparisien.fr/meteo/la-vague-de-chaleur-en-cours-en-france-devient-la-deuxieme-plus-longue-jamais-enregistree-19-08-2026-6IWQPEXC4NBBPLPFEM4S3S3JHQ.php",
-   "n_members": 68,
-   "n_sources": 28,
-   "counts": {
-    "left": 7,
-    "centre": 14,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 10,
-    "opinion": 3
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.308,
-   "category": "environnement",
-   "terms_left": [
-    "bilan provisoire",
-    "provisoire",
-    "bilan"
-   ],
-   "terms_right": [
-    "vague chaleur",
-    "mortes",
-    "liés"
    ]
   },
   {
@@ -441,17 +441,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.265,
+   "divergence": 0.268,
    "category": "société",
    "terms_left": [
     "vie",
     "fin vie",
-    "conscience"
+    "compris"
    ],
    "terms_right": [
-    "emmanuel macron",
-    "emmanuel",
-    "mourir"
+    "mourir",
+    "aide mourir",
+    "aide"
    ]
   },
   {
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.596,
+   "divergence": 0.601,
    "category": "sciences-tech",
    "terms_left": [
     "attaque",
@@ -479,8 +479,8 @@
     "dgfip"
    ],
    "terms_right": [
-    "éducation",
     "éducation nationale",
+    "éducation",
     "nationale"
    ]
   },
@@ -774,8 +774,8 @@
    "divergence": 0.38,
    "category": "politique",
    "terms_left": [
-    "edouard philippe",
     "edouard",
+    "edouard philippe",
     "présidentielle gérald"
    ],
    "terms_right": [
@@ -831,7 +831,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.563,
+   "divergence": 0.564,
    "category": "international",
    "terms_left": [
     "firme",
@@ -861,7 +861,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.568,
+   "divergence": 0.569,
    "category": "politique",
    "terms_left": [
     "piratage",
@@ -891,7 +891,7 @@
    },
    "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.477,
+   "divergence": 0.517,
    "category": "culture",
    "terms_left": [
     "palme",
@@ -900,8 +900,8 @@
    ],
    "terms_right": [
     "qu",
-    "famille",
-    "petite"
+    "petite",
+    "dos"
    ]
   },
   {
@@ -1033,7 +1033,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.721,
+   "divergence": 0.722,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -1153,12 +1153,12 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.242,
+   "divergence": 0.247,
    "category": "culture",
    "terms_left": [
     "judiciaire patrick",
-    "prescrits",
-    "autorisé quitter"
+    "quitter",
+    "prescrits"
    ],
    "terms_right": [
     "affaire",
