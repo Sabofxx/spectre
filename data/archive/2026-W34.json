@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-22T22:45:41+00:00",
+ "generated_at": "2026-08-22T23:12:32+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -457,7 +457,7 @@
   {
    "title": "Faute d'accord, le Canada subit de nouveaux droits de douane américains punitifs",
    "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
-   "n_members": 88,
+   "n_members": 89,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -471,17 +471,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.478,
+   "divergence": 0.482,
    "category": "international",
    "terms_left": [
+    "surtaxes",
     "pays",
-    "administration",
-    "bœuf"
+    "dénonce"
    ],
    "terms_right": [
     "états-unis",
-    "donald trump",
-    "donald"
+    "accord",
+    "donald trump"
    ]
   },
   {
@@ -864,8 +864,8 @@
    "divergence": 0.381,
    "category": "politique",
    "terms_left": [
-    "edouard",
     "edouard philippe",
+    "edouard",
     "présidentielle gérald"
    ],
    "terms_right": [
@@ -1025,6 +1025,36 @@
    ]
   },
   {
+   "title": "Présidentielle 2027 : Fabien Roussel veut « se débarrasser » de la politique d’Emmanuel Macron et appelle « à une véritable révolution sociale et écologique »",
+   "url": "https://www.europe1.fr/politique/jusqua-400eu-le-week-end-le-tarif-des-universites-dete-de-lfi-fait-polemique-1014659",
+   "n_members": 63,
+   "n_sources": 24,
+   "counts": {
+    "left": 6,
+    "centre": 8,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.668,
+   "category": "politique",
+   "terms_left": [
+    "écologistes",
+    "gauche",
+    "insoumis"
+   ],
+   "terms_right": [
+    "parti",
+    "pen",
+    "euros"
+   ]
+  },
+  {
    "title": "Fruits et légumes: les récoltes s'effondrent en raison de la canicule, les prix devraient augmenter",
    "url": "https://www.bfmtv.com/economie/video-gaz-le-tarif-de-reference-va-augmenter-de-5-6-en-septembre_VN-202608160037.html",
    "n_members": 63,
@@ -1164,36 +1194,6 @@
     "euros",
     "année",
     "baisse"
-   ]
-  },
-  {
-   "title": "Une famille reste 12 jours sur une aire d’autoroute après la disparition de son chat",
-   "url": "https://www.tf1info.fr/politique/videos/video-en-liberte-macron-le-coup-de-com-de-l-ete-35550-2458219.html",
-   "n_members": 66,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 10,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.671,
-   "category": "politique",
-   "terms_left": [
-    "paris",
-    "match",
-    "paris match"
-   ],
-   "terms_right": [
-    "vacances",
-    "famille",
-    "jours"
    ]
   }
  ]
