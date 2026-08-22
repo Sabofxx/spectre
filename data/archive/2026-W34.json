@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-22T16:48:03+00:00",
+ "generated_at": "2026-08-22T17:13:35+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,17 +51,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.248,
+   "divergence": 0.249,
    "category": "sciences-tech",
    "terms_left": [
     "crise",
     "fisc sébastien",
-    "nouveau"
+    "bilan"
    ],
    "terms_right": [
     "dgfip",
-    "impôts",
-    "données"
+    "données",
+    "impôts"
    ]
   },
   {
@@ -187,7 +187,7 @@
   {
    "title": "Suppression des APL, gel du RSA... Sébastien Lecornu dément certaines pistes d'économies pour le budget 2027",
    "url": "https://www.ouest-france.fr/economie/retraites/mode-de-calcul-trimestres-pour-enfant-que-vont-changer-ces-nouveaux-decrets-sur-la-retraite-des-meres-de-famille-e5f79f04-90d2-11f1-9add-57c399f24235",
-   "n_members": 137,
+   "n_members": 138,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.537,
+   "divergence": 0.53,
    "category": "économie",
    "terms_left": [
     "politiques",
@@ -261,23 +261,23 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.416,
+   "divergence": 0.43,
    "category": "environnement",
    "terms_left": [
-    "publique france",
-    "santé publique",
-    "publique"
+    "canicules",
+    "vagues",
+    "santé"
    ],
    "terms_right": [
     "vague chaleur",
     "liés",
-    "deuxième"
+    "vague"
    ]
   },
   {
    "title": "Présidentielle 2027: Édouard Philippe veut \"totalement\" fermer les \"vannes de l'immigration\" à Mayotte",
    "url": "https://www.20minutes.fr/societe/4239546-20260817-info-midi-2-minutes-star-eteint-hollywood-lecornu-hue-gironde-roi-leon",
-   "n_members": 126,
+   "n_members": 127,
    "n_sources": 28,
    "counts": {
     "left": 5,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.563,
+   "divergence": 0.565,
    "category": "politique",
    "terms_left": [
     "qu",
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.249,
+   "divergence": 0.248,
    "category": "société",
    "terms_left": [
     "fin",
@@ -452,6 +452,36 @@
     "mourir",
     "aide mourir",
     "aide"
+   ]
+  },
+  {
+   "title": "Faute d'accord, le Canada subit de nouveaux droits de douane américains punitifs",
+   "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
+   "n_members": 85,
+   "n_sources": 27,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 10,
+    "opinion": 1
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.481,
+   "category": "international",
+   "terms_left": [
+    "pays",
+    "bœuf",
+    "administration"
+   ],
+   "terms_right": [
+    "états-unis",
+    "donald trump",
+    "donald"
    ]
   },
   {
@@ -545,6 +575,36 @@
    ]
   },
   {
+   "title": "Procès de Meta : l'addiction des enfants aux réseaux sociaux sciemment entretenue ?",
+   "url": "https://www.lefigaro.fr/secteur/high-tech/proces-ce-que-risque-vraiment-meta-accuse-d-avoir-rendu-les-mineurs-accros-a-facebook-et-instagram-20260818",
+   "n_members": 61,
+   "n_sources": 27,
+   "counts": {
+    "left": 5,
+    "centre": 15,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.516,
+   "category": "international",
+   "terms_left": [
+    "éviter",
+    "accusée appâté",
+    "appâté"
+   ],
+   "terms_right": [
+    "justice",
+    "jusqu",
+    "groupe"
+   ]
+  },
+  {
    "title": "Vingt-trois jours : la vague de chaleur débutée fin juillet est la plus longue en France depuis 1983",
    "url": "https://www.sudradio.fr/sud-radio/meteo-du-mardi-4-aout-une-journee-estivale-entre-soleil-genereux-fortes-chaleurs-et-risque-dorages",
    "n_members": 175,
@@ -561,7 +621,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.479,
+   "divergence": 0.478,
    "category": "environnement",
    "terms_left": [
     "jours",
@@ -635,36 +695,6 @@
    ]
   },
   {
-   "title": "Faute d'accord, le Canada subit de nouveaux droits de douane américains punitifs",
-   "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
-   "n_members": 83,
-   "n_sources": 26,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 9,
-    "opinion": 1
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.478,
-   "category": "international",
-   "terms_left": [
-    "pays",
-    "bœuf",
-    "administration"
-   ],
-   "terms_right": [
-    "donald trump",
-    "donald",
-    "états-unis"
-   ]
-  },
-  {
    "title": "Incendies﻿ : 12 millions d’euros d’aides, délais raccourcis… Le point sur les annonces de Sébastien Lecornu en Gironde",
    "url": "https://www.sudradio.fr/emission/le-fait-du-jour-638",
    "n_members": 80,
@@ -692,36 +722,6 @@
     "face",
     "sébastien lecornu",
     "sébastien"
-   ]
-  },
-  {
-   "title": "Procès de Meta : l'addiction des enfants aux réseaux sociaux sciemment entretenue ?",
-   "url": "https://www.lefigaro.fr/secteur/high-tech/proces-ce-que-risque-vraiment-meta-accuse-d-avoir-rendu-les-mineurs-accros-a-facebook-et-instagram-20260818",
-   "n_members": 60,
-   "n_sources": 26,
-   "counts": {
-    "left": 4,
-    "centre": 15,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.525,
-   "category": "international",
-   "terms_left": [
-    "éviter",
-    "accusée appâté",
-    "accusée"
-   ],
-   "terms_right": [
-    "groupe",
-    "jusqu",
-    "milliards"
    ]
   },
   {
@@ -864,8 +864,8 @@
    "divergence": 0.381,
    "category": "politique",
    "terms_left": [
-    "edouard",
     "edouard philippe",
+    "edouard",
     "présidentielle gérald"
    ],
    "terms_right": [
@@ -891,7 +891,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.535,
+   "divergence": 0.518,
    "category": "international",
    "terms_left": [
     "israël",
@@ -901,7 +901,7 @@
    "terms_right": [
     "gaza armée",
     "propos",
-    "rajab ans"
+    "enfant"
    ]
   },
   {
@@ -967,7 +967,7 @@
   {
    "title": "Inquiétudes pour deux réalisateurs français arrêtés et détenus au Togo avec un collaborateur local",
    "url": "https://www.lemonde.fr/international/article/2026/08/17/repression-en-iran-les-echanges-culturels-francais-dans-le-viseur-du-pouvoir_6747965_3210.html",
-   "n_members": 85,
+   "n_members": 86,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -981,17 +981,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.279,
+   "divergence": 0.278,
    "category": "international",
    "terms_left": [
-    "affirme",
     "détenus togo",
-    "français arrêtés"
+    "français arrêtés",
+    "affirme"
    ],
    "terms_right": [
     "réalisateurs",
-    "gouvernement",
-    "justice"
+    "indices graves",
+    "indices"
    ]
   },
   {
