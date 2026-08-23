@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-23T03:28:32+00:00",
+ "generated_at": "2026-08-23T04:09:14+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.242,
+   "divergence": 0.247,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.264,
+   "divergence": 0.263,
    "category": "international",
    "terms_left": [
     "direct",
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.554,
+   "divergence": 0.553,
    "category": "politique",
    "terms_left": [
     "mayotte edouard",
@@ -425,6 +425,36 @@
    ]
   },
   {
+   "title": "Faute d'accord, le Canada subit de nouveaux droits de douane américains punitifs",
+   "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
+   "n_members": 91,
+   "n_sources": 27,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 10,
+    "opinion": 1
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.482,
+   "category": "international",
+   "terms_left": [
+    "surtaxes",
+    "pays",
+    "dénonce"
+   ],
+   "terms_right": [
+    "états-unis",
+    "accord",
+    "donald trump"
+   ]
+  },
+  {
    "title": "France: l’aide à mourir officiellement autorisée après la promulgation de la loi par Emmanuel Macron",
    "url": "https://www.lemonde.fr/societe/article/2026/08/12/fin-de-vie-la-croisade-des-etablissements-de-sante-catholiques-pour-introduire-une-clause-de-conscience-collective_6745063_3224.html",
    "n_members": 90,
@@ -452,36 +482,6 @@
     "mourir",
     "aide mourir",
     "aide"
-   ]
-  },
-  {
-   "title": "Faute d'accord, le Canada subit de nouveaux droits de douane américains punitifs",
-   "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
-   "n_members": 90,
-   "n_sources": 27,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 10,
-    "opinion": 1
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.482,
-   "category": "international",
-   "terms_left": [
-    "surtaxes",
-    "pays",
-    "dénonce"
-   ],
-   "terms_right": [
-    "états-unis",
-    "accord",
-    "donald trump"
    ]
   },
   {
@@ -651,7 +651,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.47,
+   "divergence": 0.469,
    "category": "société",
    "terms_left": [
     "rdc épidémie",
@@ -831,7 +831,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.79,
+   "divergence": 0.789,
    "category": "environnement",
    "terms_left": [
     "canicules",
@@ -864,8 +864,8 @@
    "divergence": 0.381,
    "category": "politique",
    "terms_left": [
-    "edouard",
     "edouard philippe",
+    "edouard",
     "présidentielle gérald"
    ],
    "terms_right": [
@@ -1041,7 +1041,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.668,
+   "divergence": 0.669,
    "category": "politique",
    "terms_left": [
     "écologistes",
@@ -1051,7 +1051,7 @@
    "terms_right": [
     "parti",
     "pen",
-    "euros"
+    "marine pen"
    ]
   },
   {
@@ -1093,7 +1093,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.617,
+   "divergence": 0.618,
    "category": "sciences-tech",
    "terms_left": [
     "animation",
