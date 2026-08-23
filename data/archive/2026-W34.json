@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-23T13:10:11+00:00",
+ "generated_at": "2026-08-23T13:52:33+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.142,
+   "divergence": 0.143,
    "category": "politique",
    "terms_left": [
     "ans censurée",
@@ -91,7 +91,7 @@
    "terms_right": [
     "référendum",
     "attal",
-    "gabriel attal"
+    "interdiction ans"
    ]
   },
   {
@@ -121,7 +121,7 @@
    "terms_right": [
     "états-unis",
     "pays",
-    "économique"
+    "détroit"
    ]
   },
   {
@@ -187,7 +187,7 @@
   {
    "title": "Budget 2027 : Sébastien Lecornu avertit les parlementaires qui feraient le «choix du désordre» en voulant attendre la présidentielle",
    "url": "https://www.ouest-france.fr/economie/retraites/mode-de-calcul-trimestres-pour-enfant-que-vont-changer-ces-nouveaux-decrets-sur-la-retraite-des-meres-de-famille-e5f79f04-90d2-11f1-9add-57c399f24235",
-   "n_members": 164,
+   "n_members": 169,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -201,12 +201,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.44,
-   "category": "économie",
+   "divergence": 0.436,
+   "category": "politique",
    "terms_left": [
-    "ballons",
     "politiques",
-    "politiques familiales"
+    "politiques familiales",
+    "ballons"
    ],
    "terms_right": [
     "retraités",
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.261,
+   "divergence": 0.262,
    "category": "international",
    "terms_left": [
     "direct",
@@ -247,7 +247,7 @@
   {
    "title": "Présidentielle 2027: à quoi faut-il s'attendre pour le discours de rentrée politique de Jean-Luc Mélenchon aux universités d'été de LFI?",
    "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
-   "n_members": 170,
+   "n_members": 173,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.606,
+   "divergence": 0.592,
    "category": "politique",
    "terms_left": [
     "militants",
@@ -296,7 +296,7 @@
    "terms_left": [
     "mayotte edouard",
     "politique",
-    "edouard philippe"
+    "edouard"
    ],
    "terms_right": [
     "édouard philippe",
@@ -741,7 +741,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.872,
+   "divergence": 0.875,
    "category": "environnement",
    "terms_left": [
     "marche",
@@ -750,8 +750,8 @@
    ],
    "terms_right": [
     "sécheresse",
-    "paris",
-    "eau"
+    "eau",
+    "ville"
    ]
   },
   {
@@ -785,6 +785,36 @@
    ]
   },
   {
+   "title": "Guerre en Ukraine: Kiev cible un autre géant de l'e-commerce russe, Ozon, en détruisant le cinquième plus grand entrepôt de l'entreprise",
+   "url": "https://www.tf1info.fr/international/la-coree-du-nord-et-la-russie-sur-le-point-d-achever-la-construction-d-un-pont-pouvant-faciliter-la-logistique-dans-la-guerre-en-ukraine-2455563.html",
+   "n_members": 89,
+   "n_sources": 25,
+   "counts": {
+    "left": 3,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.455,
+   "blindspot_for": null,
+   "divergence": 0.615,
+   "category": "international",
+   "terms_left": [
+    "guerre ukraine",
+    "ukraine",
+    "direct"
+   ],
+   "terms_right": [
+    "iran",
+    "états-unis",
+    "russe"
+   ]
+  },
+  {
    "title": "Français détenus au Togo: le gouvernement assure que la justice locale détient des \"indices graves\" contre les deux hommes",
    "url": "https://www.lemonde.fr/international/article/2026/08/17/repression-en-iran-les-echanges-culturels-francais-dans-le-viseur-du-pouvoir_6747965_3210.html",
    "n_members": 89,
@@ -812,36 +842,6 @@
     "gouvernement",
     "iran",
     "france"
-   ]
-  },
-  {
-   "title": "Attaques de drones, frappes sur les infrastructures énergétiques et civiles… Comment l'Ukraine tente de faire entrer la guerre dans le quotidien des Russes",
-   "url": "https://www.tf1info.fr/international/la-coree-du-nord-et-la-russie-sur-le-point-d-achever-la-construction-d-un-pont-pouvant-faciliter-la-logistique-dans-la-guerre-en-ukraine-2455563.html",
-   "n_members": 86,
-   "n_sources": 25,
-   "counts": {
-    "left": 3,
-    "centre": 14,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.455,
-   "blindspot_for": null,
-   "divergence": 0.638,
-   "category": "international",
-   "terms_left": [
-    "guerre ukraine",
-    "ukraine",
-    "direct"
-   ],
-   "terms_right": [
-    "iran",
-    "états-unis",
-    "qu"
    ]
   },
   {
@@ -877,7 +877,7 @@
   {
    "title": "Présidentielle 2027 : Fabien Roussel veut « se débarrasser » de la politique d’Emmanuel Macron et appelle « à une véritable révolution sociale et écologique »",
    "url": "https://www.europe1.fr/politique/jusqua-400eu-le-week-end-le-tarif-des-universites-dete-de-lfi-fait-polemique-1014659",
-   "n_members": 75,
+   "n_members": 76,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -891,7 +891,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.658,
+   "divergence": 0.663,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -900,8 +900,8 @@
    ],
    "terms_right": [
     "parti",
-    "politique",
-    "maire"
+    "france",
+    "politique"
    ]
   },
   {
@@ -1011,17 +1011,17 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.565,
+   "divergence": 0.573,
    "category": "politique",
    "terms_left": [
     "cyber",
     "unité cyber",
-    "vols"
+    "ministre"
    ],
    "terms_right": [
     "état",
-    "nouvelle",
-    "nouvelle unité"
+    "cyberattaques",
+    "nouvelle"
    ]
   },
   {
