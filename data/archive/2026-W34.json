@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-23T19:16:24+00:00",
+ "generated_at": "2026-08-23T19:43:51+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.267,
+   "divergence": 0.266,
    "category": "international",
    "terms_left": [
     "droite",
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.57,
+   "divergence": 0.571,
    "category": "politique",
    "terms_left": [
     "militants",
@@ -294,8 +294,8 @@
    "divergence": 0.458,
    "category": "politique",
    "terms_left": [
-    "edouard philippe",
     "edouard",
+    "edouard philippe",
     "mayotte edouard"
    ],
    "terms_right": [
@@ -956,7 +956,7 @@
    "terms_left": [
     "israël",
     "israël clore",
-    "clore enquête"
+    "décision israël"
    ],
    "terms_right": [
     "paris",
@@ -1025,6 +1025,36 @@
    ]
   },
   {
+   "title": "Présidentielle 2027. Fin du suspens pour Raphaël Glucksmann, officiellement candidat",
+   "url": "https://www.bfmtv.com/politique/parti-socialiste/video-retraites-le-depute-ps-philippe-brun-propose-de-reactiver-un-fonds-de-reserve-public-et-souverain-pour-completer-le-systeme-par-repartition_VN-202608200282.html",
+   "n_members": 47,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 4
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.545,
+   "category": "politique",
+   "terms_left": [
+    "primaire organisée",
+    "organisée",
+    "parti"
+   ],
+   "terms_right": [
+    "élection présidentielle",
+    "élection",
+    "raphaël glucksmann"
+   ]
+  },
+  {
    "title": "Cristian Mungiu analyse le premier plan de son film « Fjord », Palme d’or 2026",
    "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/dans-fjord-palme-d-or-2026-cristian-mungiu-denonce-les-dangers-de-la-polarisation-a-travers-l-histoire-d-une-famille-roumaine-chretienne-integriste-exilee-en-norvege_8143226.html",
    "n_members": 41,
@@ -1045,8 +1075,8 @@
    "category": "culture",
    "terms_left": [
     "palme",
-    "cristian mungiu",
-    "mungiu"
+    "mungiu",
+    "cristian mungiu"
    ],
    "terms_right": [
     "qu",
@@ -1137,56 +1167,34 @@
    ]
   },
   {
-   "title": "François Patriat, sénateur proche d'Emmanuel Macron, est mort à l'âge de 83 ans",
-   "url": "https://www.bfmtv.com/politique/le-senateur-francois-patriat-est-mort-a-l-age-de-83-ans_AN-202608190311.html",
-   "n_members": 33,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.415,
-   "category": "politique",
-   "terms_left": [
-    "macron",
-    "emmanuel",
-    "emmanuel macron"
-   ],
-   "terms_right": [
-    "sénateur",
-    "président",
-    "sénateur françois"
-   ]
-  },
-  {
-   "title": "Cancer de la peau : de nouvelles avancées pour un vaccin qui réduit le risque de récidive",
-   "url": "https://www.sudouest.fr/sante/cancer-de-la-peau-moderna-et-merck-annoncent-les-resultats-positifs-d-un-vaccin-experimental-30304119.php",
-   "n_members": 32,
+   "title": "Noyades : 301 décès enregistrés depuis le 19 juin, un bilan en hausse de 14% par rapport à 2025",
+   "url": "https://www.lexpress.fr/economie/politique-economique/la-france-risque-t-elle-une-crise-de-la-dette-le-budget-2027-dans-le-viseur-des-marches-ERHA2XSUHJBFFJN5IUJKFBMR74/",
+   "n_members": 55,
    "n_sources": 24,
    "counts": {
     "left": 4,
-    "centre": 13,
-    "right": 7
+    "centre": 9,
+    "right": 11
    },
    "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 3
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 4
    },
-   "blindspot_score": 0.273,
+   "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.414,
-   "category": "société",
-   "terms_left": [],
-   "terms_right": []
+   "divergence": 0.597,
+   "category": "économie",
+   "terms_left": [
+    "loi",
+    "comportements",
+    "gouvernement"
+   ],
+   "terms_right": [
+    "france",
+    "nombre",
+    "annonce"
+   ]
   }
  ]
 }
