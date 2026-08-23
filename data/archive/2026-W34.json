@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-23T11:13:12+00:00",
+ "generated_at": "2026-08-23T11:44:00+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -187,7 +187,7 @@
   {
    "title": "APL, RSA ou impôt sur le revenu : Sébastien Lecornu dément des pistes d'économies évoquées pour le budget 2027",
    "url": "https://www.ouest-france.fr/economie/retraites/mode-de-calcul-trimestres-pour-enfant-que-vont-changer-ces-nouveaux-decrets-sur-la-retraite-des-meres-de-famille-e5f79f04-90d2-11f1-9add-57c399f24235",
-   "n_members": 161,
+   "n_members": 162,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -202,7 +202,7 @@
    "blindspot_score": 0.333,
    "blindspot_for": null,
    "divergence": 0.456,
-   "category": "politique",
+   "category": "économie",
    "terms_left": [
     "politiques",
     "politiques familiales",
@@ -247,7 +247,7 @@
   {
    "title": "Présidentielle 2027: à quoi faut-il s'attendre pour le discours de rentrée politique de Jean-Luc Mélenchon aux universités d'été de LFI?",
    "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
-   "n_members": 162,
+   "n_members": 165,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -261,12 +261,12 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.622,
+   "divergence": 0.619,
    "category": "politique",
    "terms_left": [
     "tondelier",
-    "marine",
-    "mois"
+    "mois",
+    "marine"
    ],
    "terms_right": [
     "jean-luc mélenchon",
@@ -291,12 +291,12 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.399,
+   "divergence": 0.4,
    "category": "environnement",
    "terms_left": [
     "vagues",
-    "qu",
-    "publique france"
+    "vagues chaleur",
+    "qu"
    ],
    "terms_right": [
     "vague chaleur",
@@ -307,7 +307,7 @@
   {
    "title": "DIRECT. Présidentielle: Édouard Philippe répond à Jean-Luc Mélenchon sur l'immigration et l'appelle à \"venir\" à Mayotte",
    "url": "https://www.20minutes.fr/societe/4239546-20260817-info-midi-2-minutes-star-eteint-hollywood-lecornu-hue-gironde-roi-leon",
-   "n_members": 143,
+   "n_members": 144,
    "n_sources": 28,
    "counts": {
     "left": 5,
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.498,
+   "divergence": 0.497,
    "category": "politique",
    "terms_left": [
     "mayotte edouard",
@@ -427,7 +427,7 @@
   {
    "title": "Faute d'accord, le Canada subit de nouveaux droits de douane américains punitifs",
    "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
-   "n_members": 102,
+   "n_members": 103,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -591,17 +591,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.528,
+   "divergence": 0.53,
    "category": "international",
    "terms_left": [
     "accusée",
-    "ancien",
-    "éviter"
+    "californie",
+    "ancien"
    ],
    "terms_right": [
-    "justice",
     "facebook",
-    "instagram"
+    "instagram",
+    "facebook instagram"
    ]
   },
   {
@@ -621,7 +621,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.512,
+   "divergence": 0.505,
    "category": "environnement",
    "terms_left": [
     "jours",
@@ -935,6 +935,36 @@
    ]
   },
   {
+   "title": "VIDÉOS - Chine : comment les robots humanoïdes se préparent à la 2e édition des World Humanoid Robot Games",
+   "url": "https://information.tv5monde.com/international/niu-lai-ce-film-tellement-mauvais-est-devenu-un-succes-au-box-office-chinois-aux-cotes-de-lodyssee-et-de-spider-man-2833941",
+   "n_members": 60,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 14,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 8,
+    "opinion": 1
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.594,
+   "category": "sciences-tech",
+   "terms_left": [
+    "animation",
+    "film animation",
+    "réalisé"
+   ],
+   "terms_right": [
+    "monde",
+    "robots",
+    "chine"
+   ]
+  },
+  {
    "title": "«Peu de ministères sont au niveau requis» : Sébastien Lecornu demande la création d'une «nouvelle unité» contre les cyberattaques",
    "url": "https://www.ouest-france.fr/societe/cyberattaque/entretien-cyberattaque-contre-le-site-des-impots-lattaquant-nest-pas-du-tout-quelquun-de-technique-471f4964-9a18-11f1-8c29-31ba9300fba3",
    "n_members": 54,
@@ -1075,36 +1105,6 @@
    "category": "environnement",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "VIDÉOS - Chine : comment les robots humanoïdes se préparent à la 2e édition des World Humanoid Robot Games",
-   "url": "https://information.tv5monde.com/international/niu-lai-ce-film-tellement-mauvais-est-devenu-un-succes-au-box-office-chinois-aux-cotes-de-lodyssee-et-de-spider-man-2833941",
-   "n_members": 59,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 14,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 7,
-    "opinion": 1
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.618,
-   "category": "sciences-tech",
-   "terms_left": [
-    "animation",
-    "film animation",
-    "film"
-   ],
-   "terms_right": [
-    "robots",
-    "monde",
-    "édition"
-   ]
   },
   {
    "title": "François Patriat, sénateur proche d'Emmanuel Macron, est mort à l'âge de 83 ans",
