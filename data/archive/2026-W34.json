@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-23T17:13:40+00:00",
+ "generated_at": "2026-08-23T17:43:22+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -157,7 +157,7 @@
   {
    "title": "Présidentielle 2027: à quoi faut-il s'attendre pour le discours de rentrée politique de Jean-Luc Mélenchon aux universités d'été de LFI?",
    "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
-   "n_members": 182,
+   "n_members": 184,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -171,12 +171,12 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.582,
+   "divergence": 0.568,
    "category": "politique",
    "terms_left": [
     "militants",
-    "tondelier",
-    "insoumis"
+    "marine",
+    "tondelier"
    ],
    "terms_right": [
     "jean-luc mélenchon",
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.424,
+   "divergence": 0.425,
    "category": "politique",
    "terms_left": [
     "politiques familiales",
@@ -295,7 +295,7 @@
    "category": "politique",
    "terms_left": [
     "mayotte edouard",
-    "politique",
+    "edouard philippe",
     "edouard"
    ],
    "terms_right": [
@@ -307,7 +307,7 @@
   {
    "title": "Faute d'accord, le Canada subit de nouveaux droits de douane américains punitifs",
    "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
-   "n_members": 112,
+   "n_members": 113,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.407,
+   "divergence": 0.396,
    "category": "international",
    "terms_left": [
     "guerre commerciale",
@@ -637,7 +637,7 @@
   {
    "title": "Ebola en RDC: avec plus de 2 500 morts, l'épidémie «progresse de façon exponentielle» alerte l'ONU",
    "url": "https://www.leparisien.fr/sciences/odeur-sucree-groupe-sanguin-ou-rien-de-cela-pourquoi-les-moustiques-raffolent-de-votre-peau-et-pas-de-celle-du-voisin-03-08-2026-7XIS34AZTNEVJPXNPS2WH45HDQ.php",
-   "n_members": 129,
+   "n_members": 130,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -651,7 +651,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.456,
+   "divergence": 0.453,
    "category": "international",
    "terms_left": [
     "rdc épidémie",
@@ -659,7 +659,7 @@
     "france"
    ],
    "terms_right": [
-    "ia",
+    "ebola épidémie",
     "qu",
     "incendies"
    ]
@@ -711,7 +711,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.629,
+   "divergence": 0.63,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -801,7 +801,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.492,
+   "divergence": 0.494,
    "category": "international",
    "terms_left": [
     "pacte",
@@ -811,7 +811,7 @@
    "terms_right": [
     "donald trump",
     "donald",
-    "kim"
+    "trump"
    ]
   },
   {
@@ -921,7 +921,7 @@
    },
    "blindspot_score": 0.538,
    "blindspot_for": null,
-   "divergence": 0.381,
+   "divergence": 0.382,
    "category": "politique",
    "terms_left": [
     "edouard philippe",
@@ -956,7 +956,7 @@
    "terms_left": [
     "israël",
     "israël clore",
-    "clore enquête"
+    "décision israël"
    ],
    "terms_right": [
     "paris",
@@ -1109,7 +1109,7 @@
   {
    "title": "Des élections en temps de guerre seraient \"un tsunami\" qui \"fracturerait l'Ukraine\", estime Volodymyr Zelensky",
    "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/l-europe-a-largement-manque-la-premiere-revolution-numerique-christine-lagarde-estime-qu-elle-ne-peut-pas-se-permettre-de-rater-la-deuxieme-autour-de-l-intelligence-artificielle_AD-202608190241.html",
-   "n_members": 57,
+   "n_members": 59,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -1185,16 +1185,8 @@
    "blindspot_for": null,
    "divergence": 0.414,
    "category": "société",
-   "terms_left": [
-    "messager",
-    "arn",
-    "arn messager"
-   ],
-   "terms_right": [
-    "vaccin",
-    "cancer",
-    "moderna merck"
-   ]
+   "terms_left": [],
+   "terms_right": []
   }
  ]
 }
