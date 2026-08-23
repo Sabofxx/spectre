@@ -1,6 +1,6 @@
 {
  "week": "2026-W34",
- "generated_at": "2026-08-23T15:45:28+00:00",
+ "generated_at": "2026-08-23T16:14:49+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.245,
+   "divergence": 0.246,
    "category": "sciences-tech",
    "terms_left": [
     "crise",
@@ -157,7 +157,7 @@
   {
    "title": "Présidentielle 2027: à quoi faut-il s'attendre pour le discours de rentrée politique de Jean-Luc Mélenchon aux universités d'été de LFI?",
    "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
-   "n_members": 178,
+   "n_members": 179,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -176,7 +176,7 @@
    "terms_left": [
     "militants",
     "tondelier",
-    "marine"
+    "insoumis"
    ],
    "terms_right": [
     "jean-luc mélenchon",
@@ -277,7 +277,7 @@
   {
    "title": "DIRECT. Présidentielle: Édouard Philippe répond à Jean-Luc Mélenchon sur l'immigration et l'appelle à \"venir\" à Mayotte",
    "url": "https://www.20minutes.fr/societe/4239546-20260817-info-midi-2-minutes-star-eteint-hollywood-lecornu-hue-gironde-roi-leon",
-   "n_members": 145,
+   "n_members": 146,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -296,12 +296,42 @@
    "terms_left": [
     "mayotte edouard",
     "politique",
-    "edouard philippe"
+    "edouard"
    ],
    "terms_right": [
     "édouard philippe",
     "édouard",
     "élection présidentielle"
+   ]
+  },
+  {
+   "title": "Faute d'accord, le Canada subit de nouveaux droits de douane américains punitifs",
+   "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
+   "n_members": 111,
+   "n_sources": 29,
+   "counts": {
+    "left": 8,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 11,
+    "opinion": 2
+   },
+   "blindspot_score": 0.059,
+   "blindspot_for": null,
+   "divergence": 0.407,
+   "category": "international",
+   "terms_left": [
+    "guerre commerciale",
+    "surtaxes",
+    "guerre"
+   ],
+   "terms_right": [
+    "états-unis",
+    "commercial",
+    "président"
    ]
   },
   {
@@ -332,36 +362,6 @@
     "vague chaleur",
     "vague",
     "france"
-   ]
-  },
-  {
-   "title": "Faute d'accord, le Canada subit de nouveaux droits de douane américains punitifs",
-   "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
-   "n_members": 110,
-   "n_sources": 28,
-   "counts": {
-    "left": 7,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 10,
-    "opinion": 2
-   },
-   "blindspot_score": 0.125,
-   "blindspot_for": null,
-   "divergence": 0.438,
-   "category": "international",
-   "terms_left": [
-    "surtaxes",
-    "guerre commerciale",
-    "guerre"
-   ],
-   "terms_right": [
-    "états-unis",
-    "commercial",
-    "président"
    ]
   },
   {
@@ -741,12 +741,12 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.628,
+   "divergence": 0.632,
    "category": "politique",
    "terms_left": [
     "gauche",
-    "écologistes",
-    "fabien"
+    "fabien",
+    "roussel"
    ],
    "terms_right": [
     "bruno maire",
@@ -924,8 +924,8 @@
    "divergence": 0.381,
    "category": "politique",
    "terms_left": [
-    "edouard philippe",
     "edouard",
+    "edouard philippe",
     "présidentielle gérald"
    ],
    "terms_right": [
@@ -1011,7 +1011,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.573,
+   "divergence": 0.561,
    "category": "politique",
    "terms_left": [
     "cyber",
@@ -1021,7 +1021,7 @@
    "terms_right": [
     "état",
     "cyberattaques",
-    "nouvelle"
+    "lecornu demande"
    ]
   },
   {
@@ -1107,9 +1107,9 @@
    "terms_right": []
   },
   {
-   "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky estime qu’organiser des élections provoquerait un « tsunami » qui « fracturerait » le pays",
+   "title": "Des élections en temps de guerre seraient \"un tsunami\" qui \"fracturerait l'Ukraine\", estime Volodymyr Zelensky",
    "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/l-europe-a-largement-manque-la-premiere-revolution-numerique-christine-lagarde-estime-qu-elle-ne-peut-pas-se-permettre-de-rater-la-deuxieme-autour-de-l-intelligence-artificielle_AD-202608190241.html",
-   "n_members": 52,
+   "n_members": 54,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -1123,7 +1123,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.594,
+   "divergence": 0.576,
    "category": "international",
    "terms_left": [
     "fin",
@@ -1187,8 +1187,8 @@
    "category": "société",
    "terms_left": [
     "messager",
-    "arn",
-    "arn messager"
+    "arn messager",
+    "arn"
    ],
    "terms_right": [
     "vaccin",
