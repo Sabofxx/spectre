@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-24T05:09:54+00:00",
+ "generated_at": "2026-08-24T06:02:09+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -32,6 +32,36 @@
     "états-unis",
     "pays",
     "détroit"
+   ]
+  },
+  {
+   "title": "Frappes meurtrières contre un centre commercial : Emmanuel Macron annonce l'envoi de missiles \"intercepteurs\" à l'Ukraine",
+   "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/08/20/nuit-meurtriere-a-kiev-16-morts-et-une-cinquantaine-de-blesses-apres-des-frappes-russes",
+   "n_members": 542,
+   "n_sources": 30,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.176,
+   "blindspot_for": null,
+   "divergence": 0.268,
+   "category": "international",
+   "terms_left": [
+    "direct",
+    "direct guerre",
+    "guerre ukraine"
+   ],
+   "terms_right": [
+    "intercepteurs",
+    "missiles intercepteurs",
+    "commercial"
    ]
   },
   {
@@ -67,7 +97,7 @@
   {
    "title": "Sébastien Lecornu somme les députés de voter \"un budget pour 2027\" faute de quoi le pays risque \"le désordre économique\"",
    "url": "https://www.ouest-france.fr/economie/retraites/mode-de-calcul-trimestres-pour-enfant-que-vont-changer-ces-nouveaux-decrets-sur-la-retraite-des-meres-de-famille-e5f79f04-90d2-11f1-9add-57c399f24235",
-   "n_members": 181,
+   "n_members": 182,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -81,7 +111,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.429,
+   "divergence": 0.431,
    "category": "politique",
    "terms_left": [
     "politiques familiales",
@@ -95,63 +125,63 @@
    ]
   },
   {
-   "title": "Frappes meurtrières contre un centre commercial : Emmanuel Macron annonce l'envoi de missiles \"intercepteurs\" à l'Ukraine",
-   "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/08/20/nuit-meurtriere-a-kiev-16-morts-et-une-cinquantaine-de-blesses-apres-des-frappes-russes",
-   "n_members": 542,
+   "title": "Faute d'accord, le Canada subit de nouveaux droits de douane américains punitifs",
+   "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
+   "n_members": 116,
    "n_sources": 29,
    "counts": {
-    "left": 7,
+    "left": 8,
     "centre": 12,
-    "right": 10
+    "right": 9
    },
    "style_counts": {
     "factuel": 16,
-    "mixte": 10,
-    "opinion": 3
+    "mixte": 11,
+    "opinion": 2
    },
-   "blindspot_score": 0.176,
+   "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.268,
+   "divergence": 0.381,
    "category": "international",
    "terms_left": [
-    "direct",
-    "direct guerre",
-    "guerre ukraine"
+    "guerre commerciale",
+    "surtaxes",
+    "guerre"
    ],
    "terms_right": [
-    "intercepteurs",
-    "missiles intercepteurs",
-    "commercial"
+    "états-unis",
+    "commercial",
+    "président"
    ]
   },
   {
    "title": "Présidentielle 2027 : Raphaël Glucksmann candidat « pour relever la France »",
    "url": "https://www.bfmtv.com/politique/parti-socialiste/video-retraites-le-depute-ps-philippe-brun-propose-de-reactiver-un-fonds-de-reserve-public-et-souverain-pour-completer-le-systeme-par-repartition_VN-202608200282.html",
-   "n_members": 61,
-   "n_sources": 27,
+   "n_members": 63,
+   "n_sources": 29,
    "counts": {
-    "left": 5,
+    "left": 6,
     "centre": 12,
-    "right": 10
+    "right": 11
    },
    "style_counts": {
     "factuel": 15,
-    "mixte": 7,
+    "mixte": 9,
     "opinion": 5
    },
-   "blindspot_score": 0.333,
+   "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.52,
+   "divergence": 0.456,
    "category": "politique",
    "terms_left": [
     "campagne",
-    "primaire organisée",
-    "organisée parti"
+    "parti socialiste",
+    "primaire organisée"
    ],
    "terms_right": [
     "élection",
     "élection présidentielle",
-    "raphaël glucksmann"
+    "présidentielle raphaël"
    ]
   },
   {
@@ -269,7 +299,7 @@
   {
    "title": "Météo. Orages : neuf départements du Sud-Ouest en vigilance orange lundi, de la grêle possiblement attendue",
    "url": "https://www.ladepeche.fr/2026/08/13/direct-canicule-80-departements-en-vigilance-orange-jusqua-40-c-attendus-ce-jeudi-dans-plusieurs-regions-13507182.php",
-   "n_members": 496,
+   "n_members": 498,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -283,7 +313,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.25,
+   "divergence": 0.248,
    "category": "environnement",
    "terms_left": [
     "direct incendies",
@@ -293,7 +323,7 @@
    "terms_right": [
     "départements",
     "placés",
-    "départements placés"
+    "placés vigilance"
    ]
   },
   {
@@ -313,12 +343,12 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.366,
+   "divergence": 0.378,
    "category": "société",
    "terms_left": [
     "cgt",
-    "médicales gouvernement",
-    "france cgt"
+    "france cgt",
+    "doublement"
    ],
    "terms_right": [
     "doubler plafond",
@@ -349,9 +379,9 @@
    "terms_right": []
   },
   {
-   "title": "\"L'intelligence artificielle coûte un 'pognon de dingue'\" : ChatGPT affiche désormais des publicités à la fin de ses réponses",
+   "title": "\"Sa réponse va-t-elle être influencée par la pub ?\" : ChatGPT affiche désormais des publicités à la fin de ses réponses",
    "url": "https://www.bfmtv.com/tech/intelligence-artificielle/quand-chat-gpt-devient-un-gourou-comment-la-mysterieuse-religion-du-spiralisme-a-pousse-des-milliers-d-utilisateurs-a-croire-que-leur-ia-detenait-les-secrets-de-l-univers_AV-202608160024.html",
-   "n_members": 51,
+   "n_members": 52,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -367,6 +397,88 @@
    "blindspot_for": null,
    "divergence": 0.742,
    "category": "sciences-tech",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Mise à l'abri de 253 migrants à Paris après évacuation",
+   "url": "https://www.leparisien.fr/international/feu-historique-en-belgique-tous-les-habitants-evacues-autorises-a-rentrer-chez-eux-19-08-2026-3VOZA7F7BFF3HNWHSUZGVQ3QGM.php",
+   "n_members": 57,
+   "n_sources": 18,
+   "counts": {
+    "left": 3,
+    "centre": 10,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 5,
+    "opinion": 2
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.675,
+   "category": "environnement",
+   "terms_left": [
+    "ville",
+    "ville paris",
+    "centre"
+   ],
+   "terms_right": [
+    "incendie",
+    "orages",
+    "voiture"
+   ]
+  },
+  {
+   "title": "Rentrée scolaire : à une semaine du retour en classe, comment aider son enfant à reprendre le rythme ?",
+   "url": "https://www.lejdd.fr/Societe/secours-populaire-la-chance-dune-journee-de-vacances-181188",
+   "n_members": 33,
+   "n_sources": 18,
+   "counts": {
+    "left": 5,
+    "centre": 6,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 8,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.852,
+   "category": "société",
+   "terms_left": [
+    "secours",
+    "populaire",
+    "secours populaire"
+   ],
+   "terms_right": [
+    "vacances",
+    "enfants",
+    "rentrée"
+   ]
+  },
+  {
+   "title": "Tennis : le Français Arthur Fils remporte le Masters 1000 de Cincinnati",
+   "url": "https://www.europe1.fr/sport/masters-1000-de-cincinnati-zverev-sort-atmane-fils-vient-a-bout-de-lehecka-et-file-en-8e-1020470",
+   "n_members": 54,
+   "n_sources": 16,
+   "counts": {
+    "left": 2,
+    "centre": 9,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 5,
+    "opinion": 1
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "sport",
    "terms_left": [],
    "terms_right": []
   },
@@ -401,36 +513,6 @@
    ]
   },
   {
-   "title": "Sommeil des enfants : les bons réflexes pour retrouver le rythme avant la rentrée",
-   "url": "https://www.lejdd.fr/Societe/secours-populaire-la-chance-dune-journee-de-vacances-181188",
-   "n_members": 30,
-   "n_sources": 16,
-   "counts": {
-    "left": 5,
-    "centre": 4,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 6,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.847,
-   "category": "société",
-   "terms_left": [
-    "secours",
-    "populaire",
-    "secours populaire"
-   ],
-   "terms_right": [
-    "vacances",
-    "enfants",
-    "rentrée"
-   ]
-  },
-  {
    "title": "Que vient faire le prince héritier saoudien Mohammed ben Salmane en France ce dimanche et lundi ?",
    "url": "https://www.sudouest.fr/politique/emmanuel-macron-recevra-le-prince-heritier-saoudien-mohammed-ben-salmane-dimanche-et-lundi-30319759.php",
    "n_members": 29,
@@ -461,24 +543,24 @@
    ]
   },
   {
-   "title": "Tennis : le Français Arthur Fils remporte le Masters 1000 de Cincinnati",
-   "url": "https://www.europe1.fr/sport/masters-1000-de-cincinnati-zverev-sort-atmane-fils-vient-a-bout-de-lehecka-et-file-en-8e-1020470",
-   "n_members": 51,
-   "n_sources": 14,
+   "title": "Incendie de Crans-Montana en Suisse : le propriétaire du bar Le Constellation placé en détention pour violences conjugales",
+   "url": "https://www.leprogres.fr/faits-divers-justice/2026/08/23/jacques-moretti-patron-du-i-constellation-i-place-en-detention-provisoire-pour-violences-sur-sa-femme",
+   "n_members": 18,
+   "n_sources": 15,
    "counts": {
     "left": 1,
     "centre": 9,
-    "right": 4
+    "right": 5
    },
    "style_counts": {
-    "factuel": 9,
-    "mixte": 4,
+    "factuel": 11,
+    "mixte": 3,
     "opinion": 1
    },
-   "blindspot_score": 0.6,
+   "blindspot_score": 0.667,
    "blindspot_for": "gauche",
    "divergence": null,
-   "category": "sport",
+   "category": "faits-divers",
    "terms_left": [],
    "terms_right": []
   },
@@ -507,7 +589,7 @@
   {
    "title": "Un homme de 82 ans meurt d'un arrêt cardiaque après un vol à l'arraché dans le métro à Lyon, deux suspects placés en garde à vue",
    "url": "https://www.ladepeche.fr/2026/08/18/exclusif-mort-dun-ouvrier-sur-le-chantier-du-metro-le-pretendu-malaise-serait-un-homicide-involontaire-pourquoi-la-justice-est-venue-inspecter-le-13513068.php",
-   "n_members": 33,
+   "n_members": 36,
    "n_sources": 14,
    "counts": {
     "left": 1,
@@ -527,31 +609,31 @@
    "terms_right": []
   },
   {
-   "title": "Incendie de Crans-Montana en Suisse : le propriétaire du bar Le Constellation placé en détention pour violences conjugales",
-   "url": "https://www.leprogres.fr/faits-divers-justice/2026/08/23/jacques-moretti-patron-du-i-constellation-i-place-en-detention-provisoire-pour-violences-sur-sa-femme",
-   "n_members": 15,
-   "n_sources": 13,
+   "title": "US Open : tremblement de terre à New York, le numéro 1 mondial Jannik Sinner déclare forfait",
+   "url": "https://www.ouest-france.fr/sport/tennis/carlos-alcaraz/tennis-carlos-alcaraz-se-teste-a-lentrainement-avec-holger-rune-a-moins-de-deux-semaines-de-lus-open-beea6a36-9b09-11f1-bac9-b701f4b3457c",
+   "n_members": 25,
+   "n_sources": 12,
    "counts": {
-    "left": 0,
-    "centre": 9,
+    "left": 2,
+    "centre": 6,
     "right": 4
    },
    "style_counts": {
-    "factuel": 10,
-    "mixte": 2,
+    "factuel": 6,
+    "mixte": 5,
     "opinion": 1
    },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "faits-divers",
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.414,
+   "category": "sport",
    "terms_left": [],
    "terms_right": []
   },
   {
-   "title": "Attention, des orages vont balayer ces départements ce dimanche",
+   "title": "Orages violents, pluie et fortes rafales de vent : quelles régions sont concernées ce lundi ?",
    "url": "https://www.lefigaro.fr/meteo/meteo-du-lundi-17-aout-les-orages-regressent-la-chaleur-resiste-dans-le-sud-est-20260816",
-   "n_members": 63,
+   "n_members": 64,
    "n_sources": 11,
    "counts": {
     "left": 0,
@@ -567,6 +649,28 @@
    "blindspot_for": "gauche",
    "divergence": null,
    "category": "environnement",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Ligue 1 : Ferran Torres sauve le Paris Saint-Germain face à Rennes",
+   "url": "https://www.franceinfo.fr/sports/foot/om/en-ouverture-de-la-saison-de-ligue-1-l-olympique-de-marseille-ecrase-strasbourg_8156738.html",
+   "n_members": 27,
+   "n_sources": 10,
+   "counts": {
+    "left": 1,
+    "centre": 6,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 7,
+    "mixte": 3,
+    "opinion": 0
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "sport",
    "terms_left": [],
    "terms_right": []
   },
@@ -601,6 +705,28 @@
    ]
   },
   {
+   "title": "Impartialité des préfets : passe d’armes entre Jean-Luc Mélenchon et Laurent Nuñez, après les propos de l’Insoumis",
+   "url": "https://www.lefigaro.fr/actualite-france/sainte-soline-olivier-faure-qualifie-les-gendarmes-de-voyous-en-uniforme-laurent-nunez-les-defend-20260820",
+   "n_members": 17,
+   "n_sources": 10,
+   "counts": {
+    "left": 0,
+    "centre": 5,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 6,
+    "mixte": 2,
+    "opinion": 2
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "politique",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Cannes : la police municipale désormais équipée de détecteurs de protoxyde d'azote, une première en France",
    "url": "https://www.europe1.fr/societe/protoxyde-dazote-les-policiers-municipaux-de-cannes-seront-les-premiers-a-etre-equipes-de-detecteurs-pour-des-controles-de-securite-routiere-1028525",
    "n_members": 12,
@@ -623,28 +749,6 @@
    "terms_right": []
   },
   {
-   "title": "Rennes-PSG : en vidéo, le doublé de Ferran Torres qui relance totalement les Parisiens",
-   "url": "https://www.franceinfo.fr/sports/foot/om/en-ouverture-de-la-saison-de-ligue-1-l-olympique-de-marseille-ecrase-strasbourg_8156738.html",
-   "n_members": 26,
-   "n_sources": 9,
-   "counts": {
-    "left": 1,
-    "centre": 5,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 6,
-    "mixte": 3,
-    "opinion": 0
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
    "title": "Le géant de l'ultra fast-fashion Shein est sur le point d'entrer en Bourse",
    "url": "https://www.lefigaro.fr/international/fast-fashion-shein-va-entrer-en-bourse-a-hong-kong-le-1er-septembre-20260824",
    "n_members": 9,
@@ -663,6 +767,50 @@
    "blindspot_for": null,
    "divergence": null,
    "category": "économie",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Ukraine : Kiev réunit ses soutiens européens face à l’intensification des frappes russes",
+   "url": "http://fr.euronews.com/my-europe/2026/08/21/la-coalition-des-volontaires-se-reunit-lundi-a-kyiv",
+   "n_members": 9,
+   "n_sources": 8,
+   "counts": {
+    "left": 2,
+    "centre": 4,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 6,
+    "mixte": 2,
+    "opinion": 0
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "États-Unis : près de 42.000 personnes évacuées face à un incendie dans le Nevada",
+   "url": "https://www.lefigaro.fr/international/etats-unis-environ-90-000-evacues-face-au-megafeu-de-foret-hawk-dans-le-nevada-20260824",
+   "n_members": 9,
+   "n_sources": 8,
+   "counts": {
+    "left": 0,
+    "centre": 4,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 6,
+    "mixte": 1,
+    "opinion": 1
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "international",
    "terms_left": [],
    "terms_right": []
   },
@@ -711,6 +859,28 @@
    "terms_right": []
   },
   {
+   "title": "Vuelta 2026. Le profil de la 2e étape du Tour d’Espagne entre Monaco et Manosque",
+   "url": "https://www.ouest-france.fr/sport/cyclisme/cyclisme-jesus-herrada-ancien-champion-despagne-et-maillot-rouge-de-la-vuelta-avec-cofidis-va-prendre-sa-retraite-14314eac-9c71-11f1-a150-d338aff2f727",
+   "n_members": 27,
+   "n_sources": 6,
+   "counts": {
+    "left": 1,
+    "centre": 3,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 3,
+    "mixte": 2,
+    "opinion": 1
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "sport",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Trop commercial, maire inquiet… Pourquoi le célèbre Ultra-Trail du Mont-Blanc est aujourd’hui sous le feu des critiques",
    "url": "https://www.ouest-france.fr/leditiondusoir/2026-08-19/rescape-du-bataclan-il-va-relever-un-sacre-challenge-participer-a-la-mythique-course-de-l-utmb-en-fauteuil-roulant-1423a906-1ed5-4e6b-a9a4-73f1cbdf4d13",
    "n_members": 8,
@@ -729,6 +899,28 @@
    "blindspot_for": null,
    "divergence": null,
    "category": "sport",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Royauté. Norvège : la santé du roi Harald, 89 ans, s'est « aggravée », annonce le Palais",
+   "url": "https://www.bfmtv.com/people/tetes-couronnees/toujours-hospitalise-le-roi-harald-de-norvege-89-ans-annule-un-deplacement-prevu-debut-septembre_AD-202608210393.html",
+   "n_members": 7,
+   "n_sources": 6,
+   "counts": {
+    "left": 0,
+    "centre": 4,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 5,
+    "mixte": 0,
+    "opinion": 1
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "culture",
    "terms_left": [],
    "terms_right": []
   },
@@ -755,28 +947,6 @@
    "terms_right": []
   },
   {
-   "title": "Royauté. Norvège : la santé du roi Harald, 89 ans, s'est « aggravée », annonce le Palais",
-   "url": "https://www.bfmtv.com/people/tetes-couronnees/toujours-hospitalise-le-roi-harald-de-norvege-89-ans-annule-un-deplacement-prevu-debut-septembre_AD-202608210393.html",
-   "n_members": 6,
-   "n_sources": 5,
-   "counts": {
-    "left": 0,
-    "centre": 4,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 5,
-    "mixte": 0,
-    "opinion": 0
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
    "title": "« Je lance donc un appel aux patrons : investissez dans notre jeunesse ! » : La ministre déléguée à la Formation professionnelle appelle les entreprises à embaucher des apprentis",
    "url": "https://www.leparisien.fr/politique/investissez-dans-notre-jeunesse-lappel-de-sabrina-roubache-aux-patrons-23-08-2026-KGE622KSRNCJND4RZRBJQT5YCI.php",
    "n_members": 5,
@@ -795,6 +965,28 @@
    "blindspot_for": null,
    "divergence": null,
    "category": "économie",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "De violents orages provoquent de \"nombreux dégâts\" dans les Landes, 7.500 foyers privés d'électricité et plusieurs routes coupées",
+   "url": "https://www.franceinfo.fr/environnement/meteo/alertes-meteo-et-vigilances/orages-le-trafic-ferroviaire-regional-perturbe-dans-les-landes-et-au-pays-basque-apres-un-impact-de-foudre_8155895.html",
+   "n_members": 7,
+   "n_sources": 4,
+   "counts": {
+    "left": 0,
+    "centre": 3,
+    "right": 1
+   },
+   "style_counts": {
+    "factuel": 4,
+    "mixte": 0,
+    "opinion": 0
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "environnement",
    "terms_left": [],
    "terms_right": []
   },
@@ -827,182 +1019,6 @@
     "rentrée littéraire",
     "écrivain"
    ]
-  },
-  {
-   "title": "Transfert record pour la Ligue 1 : le jeune Ayyoub Bouaddi va s’envoler vers Manchester City pour 100 millions d’euros !",
-   "url": "https://rmcsport.bfmtv.com/football/transferts/info-rmc-sport-mercato-ayyoub-bouaddi-va-signer-a-manchester-city-pour-un-transfert-record-de-100-millions-d-euros_AV-202608230201.html",
-   "n_members": 5,
-   "n_sources": 4,
-   "counts": {
-    "left": 0,
-    "centre": 2,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 3,
-    "mixte": 1,
-    "opinion": 0
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "SONDAGE - Présidentielle 2027: Jean-Luc Mélenchon en position de se qualifier au second tour?",
-   "url": "https://www.20minutes.fr/politique/4240535-20260824-presidentielle-2027-duel-melenchon-pen-profile-second-tour-selon-sondage",
-   "n_members": 5,
-   "n_sources": 4,
-   "counts": {
-    "left": 0,
-    "centre": 2,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 3,
-    "mixte": 1,
-    "opinion": 0
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "politique",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "États-Unis : environ 90.000 évacués face au mégafeu de forêt «Hawk» dans le Nevada",
-   "url": "https://www.lefigaro.fr/international/etats-unis-environ-90-000-evacues-face-au-megafeu-de-foret-hawk-dans-le-nevada-20260824",
-   "n_members": 4,
-   "n_sources": 4,
-   "counts": {
-    "left": 0,
-    "centre": 2,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 3,
-    "mixte": 1,
-    "opinion": 0
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "24H du vendredi 21 août 2026",
-   "url": "https://www.tf1info.fr/replay-lci/videos/video-24h-misrachi-du-vendredi-31-juillet-2026-2456255.html",
-   "n_members": 137,
-   "n_sources": 3,
-   "counts": {
-    "left": 1,
-    "centre": 1,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 2,
-    "mixte": 0,
-    "opinion": 1
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "L'horoscope du samedi 22 août 2026",
-   "url": "https://www.sudradio.fr/horoscope/horoscope-du-samedi-15-aout-amour-travail-finances-les-previsions-des-astres-pour-votre-signe",
-   "n_members": 13,
-   "n_sources": 3,
-   "counts": {
-    "left": 0,
-    "centre": 2,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 2,
-    "mixte": 1,
-    "opinion": 0
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "environnement",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Les bêtes meuglaient en continu : un Belge fait décoller son drone et découvre treize vaches piégées au fond d’un puits",
-   "url": "https://www.cnews.fr/insolite/2026-08-21/elles-ont-facilement-du-y-rester-4-heures-intrigue-par-des-meuglements-il",
-   "n_members": 3,
-   "n_sources": 3,
-   "counts": {
-    "left": 0,
-    "centre": 1,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 2,
-    "mixte": 0,
-    "opinion": 1
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Jessica Pegula remporte son match contre Iga Swiatek à Cincinnati",
-   "url": "https://www.ouest-france.fr/sport/tennis/wta/wta-1000-cincinnati-iga-swiatek-rejoint-les-demi-finales-apres-labandon-delena-rybakina-4432cbfe-9d1f-11f1-a8ad-3219df531147",
-   "n_members": 5,
-   "n_sources": 2,
-   "counts": {
-    "left": 0,
-    "centre": 1,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 1,
-    "mixte": 1,
-    "opinion": 0
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "France - Croatie. À quelle heure et sur quelle chaîne suivre le deuxième match des Bleues à l’Euro de volley ?",
-   "url": "https://www.ouest-france.fr/sport/volley/equipe-de-france/france-belgique-a-quelle-heure-et-sur-quelle-chaine-suivre-le-match-de-preparation-a-leurovolley-5b7939b0-9ccf-11f1-bac9-b701f4b3457c",
-   "n_members": 4,
-   "n_sources": 2,
-   "counts": {
-    "left": 0,
-    "centre": 2,
-    "right": 0
-   },
-   "style_counts": {
-    "factuel": 2,
-    "mixte": 0,
-    "opinion": 0
-   },
-   "blindspot_score": null,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
