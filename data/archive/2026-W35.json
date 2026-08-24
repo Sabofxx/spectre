@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-24T13:31:11+00:00",
+ "generated_at": "2026-08-24T14:12:21+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Sébastien Lecornu somme les députés de voter \"un budget pour 2027\" faute de quoi le pays risque \"le désordre économique\"",
    "url": "https://www.ouest-france.fr/economie/retraites/mode-de-calcul-trimestres-pour-enfant-que-vont-changer-ces-nouveaux-decrets-sur-la-retraite-des-meres-de-famille-e5f79f04-90d2-11f1-9add-57c399f24235",
-   "n_members": 189,
+   "n_members": 190,
    "n_sources": 31,
    "counts": {
     "left": 6,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.419,
+   "divergence": 0.418,
    "category": "politique",
    "terms_left": [
     "politiques familiales",
@@ -67,7 +67,7 @@
   {
    "title": "Présidentielle 2027 : Raphaël Glucksmann annonce sa candidature",
    "url": "https://www.bfmtv.com/politique/parti-socialiste/video-retraites-le-depute-ps-philippe-brun-propose-de-reactiver-un-fonds-de-reserve-public-et-souverain-pour-completer-le-systeme-par-repartition_VN-202608200282.html",
-   "n_members": 97,
+   "n_members": 99,
    "n_sources": 31,
    "counts": {
     "left": 6,
@@ -90,8 +90,8 @@
    ],
    "terms_right": [
     "présidentielle raphaël",
-    "élection",
-    "gauche"
+    "gauche",
+    "élection"
    ]
   },
   {
@@ -141,12 +141,12 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.576,
+   "divergence": 0.584,
    "category": "politique",
    "terms_left": [
-    "militants",
-    "insoumis",
-    "gauche"
+    "marine",
+    "gauche",
+    "insoumis"
    ],
    "terms_right": [
     "jean-luc mélenchon",
@@ -187,7 +187,7 @@
   {
    "title": "Faute d'accord, le Canada subit de nouveaux droits de douane américains punitifs",
    "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
-   "n_members": 118,
+   "n_members": 119,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -204,9 +204,9 @@
    "divergence": 0.367,
    "category": "international",
    "terms_left": [
+    "guerre",
     "guerre commerciale",
-    "surtaxes",
-    "guerre"
+    "surtaxes"
    ],
    "terms_right": [
     "commercial",
@@ -305,6 +305,36 @@
    ]
   },
   {
+   "title": "Philippe Bouvard, animateur historique des \"Grosses Têtes\", est décédé à 96 ans",
+   "url": "https://www.leprogres.fr/societe/2026/08/24/ex-animateur-vedette-des-i-grosses-tetes-i-philippe-bouvard-a-tire-sa-reverence",
+   "n_members": 80,
+   "n_sources": 26,
+   "counts": {
+    "left": 8,
+    "centre": 10,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.19,
+   "category": "culture",
+   "terms_left": [
+    "animateur grosses",
+    "médias",
+    "bouvard journaliste"
+   ],
+   "terms_right": [
+    "français",
+    "journaliste animateur",
+    "animateur radio"
+   ]
+  },
+  {
    "title": "Missiles en approche: une alerte est en cours à Kiev en Ukraine",
    "url": "https://www.tf1info.fr/international/la-coree-du-nord-et-la-russie-sur-le-point-d-achever-la-construction-d-un-pont-pouvant-faciliter-la-logistique-dans-la-guerre-en-ukraine-2455563.html",
    "n_members": 100,
@@ -365,36 +395,6 @@
    ]
   },
   {
-   "title": "Philippe Bouvard, animateur historique des \"Grosses Têtes\", est décédé à 96 ans",
-   "url": "https://www.leprogres.fr/societe/2026/08/24/ex-animateur-vedette-des-i-grosses-tetes-i-philippe-bouvard-a-tire-sa-reverence",
-   "n_members": 79,
-   "n_sources": 25,
-   "counts": {
-    "left": 8,
-    "centre": 9,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 10,
-    "opinion": 4
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.189,
-   "category": "culture",
-   "terms_left": [
-    "animateur grosses",
-    "médias",
-    "bouvard journaliste"
-   ],
-   "terms_right": [
-    "français",
-    "journaliste animateur",
-    "animateur radio"
-   ]
-  },
-  {
    "title": "Le gouvernement «travaille à une reconduction» des aides au carburant et du chèque énergie",
    "url": "https://www.challenges.fr/economie/impots-ce-cadeau-fiscal-pour-24-millions-de-familles-menace-car-il-nemporte-pas-deffets-redistributifs-utiles_645272",
    "n_members": 66,
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.367,
+   "divergence": 0.369,
    "category": "société",
    "terms_left": [
     "médicales gouvernement",
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.6,
+   "divergence": 0.601,
    "category": "économie",
    "terms_left": [
     "gouvernement",
@@ -482,6 +482,36 @@
     "france",
     "rapport",
     "nombre"
+   ]
+  },
+  {
+   "title": "Sécheresse : les producteurs français de pommes de terre redoutent une chute de la récolte record",
+   "url": "https://www.ladepeche.fr/2026/08/14/pour-nous-la-canicule-est-le-moins-pire-des-fleaux-dans-le-vignoble-de-fronton-pres-de-toulouse-contre-toute-attente-les-vendanges-sannoncent-superbes-13509253.php",
+   "n_members": 45,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.643,
+   "category": "environnement",
+   "terms_left": [
+    "face",
+    "soutien",
+    "canicules"
+   ],
+   "terms_right": [
+    "canicule",
+    "pommes",
+    "production"
    ]
   },
   {
@@ -561,7 +591,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.902,
+   "divergence": 0.901,
    "category": "faits-divers",
    "terms_left": [
     "ministre",
@@ -597,39 +627,9 @@
    "terms_right": []
   },
   {
-   "title": "Sécheresse : les producteurs français de pommes de terre redoutent une chute de la récolte record",
-   "url": "https://www.ladepeche.fr/2026/08/14/pour-nous-la-canicule-est-le-moins-pire-des-fleaux-dans-le-vignoble-de-fronton-pres-de-toulouse-contre-toute-attente-les-vendanges-sannoncent-superbes-13509253.php",
-   "n_members": 44,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.628,
-   "category": "environnement",
-   "terms_left": [
-    "face",
-    "soutien",
-    "canicules"
-   ],
-   "terms_right": [
-    "canicule",
-    "pommes",
-    "eau"
-   ]
-  },
-  {
    "title": "Météo. Orages : neuf départements du Sud-Ouest en vigilance orange lundi, de la grêle possiblement attendue",
    "url": "https://www.ladepeche.fr/2026/08/13/direct-canicule-80-departements-en-vigilance-orange-jusqua-40-c-attendus-ce-jeudi-dans-plusieurs-regions-13507182.php",
-   "n_members": 501,
+   "n_members": 502,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -725,23 +725,23 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.481,
+   "divergence": 0.472,
    "category": "international",
    "terms_left": [
-    "présumé",
     "paillote",
+    "blessés",
     "attaque"
    ],
    "terms_right": [
     "personnes",
     "épée",
-    "lycée"
+    "police"
    ]
   },
   {
    "title": "Rentrée scolaire : à une semaine du retour en classe, comment aider son enfant à reprendre le rythme ?",
    "url": "https://www.lejdd.fr/Societe/secours-populaire-la-chance-dune-journee-de-vacances-181188",
-   "n_members": 53,
+   "n_members": 55,
    "n_sources": 21,
    "counts": {
     "left": 6,
@@ -771,7 +771,7 @@
   {
    "title": "Que vient faire le prince héritier saoudien Mohammed ben Salmane en France ce dimanche et lundi ?",
    "url": "https://www.sudouest.fr/politique/emmanuel-macron-recevra-le-prince-heritier-saoudien-mohammed-ben-salmane-dimanche-et-lundi-30319759.php",
-   "n_members": 42,
+   "n_members": 44,
    "n_sources": 21,
    "counts": {
     "left": 5,
@@ -785,7 +785,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.419,
+   "divergence": 0.415,
    "category": "international",
    "terms_left": [
     "france",
@@ -875,7 +875,7 @@
   {
    "title": "Japon : un séisme de magnitude 5,9 fait des dizaines de blessés près de Tokyo",
    "url": "https://www.ouest-france.fr/monde/perou/une-vague-de-boue-a-deferle-au-perou-la-capitale-debordee-par-des-pluies-inhabituelles-e79abd22-9b1e-11f1-bac9-b701f4b3457c",
-   "n_members": 61,
+   "n_members": 62,
    "n_sources": 19,
    "counts": {
     "left": 2,
@@ -911,7 +911,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.668,
+   "divergence": 0.667,
    "category": "international",
    "terms_left": [
     "ville",
@@ -941,7 +941,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.48,
+   "divergence": 0.483,
    "category": "environnement",
    "terms_left": [
     "rouvre partiellement",
@@ -952,6 +952,36 @@
     "incendies",
     "fontainebleau",
     "historique"
+   ]
+  },
+  {
+   "title": "Près de 40 000 préservatifs \"non conformes\" vendus en France : les autorités recommandent un dépistage",
+   "url": "https://www.liberation.fr/economie/conso/risque-declatement-perforation-non-conformite-les-autorites-francaises-alertent-sur-300-000-preservatifs-defectueux-20260821_G7Q7AZHDOZH63GMDZHGDY7EJZQ/",
+   "n_members": 34,
+   "n_sources": 19,
+   "counts": {
+    "left": 5,
+    "centre": 9,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.185,
+   "category": "société",
+   "terms_left": [
+    "risque",
+    "risque éclatement",
+    "éclatement"
+   ],
+   "terms_right": [
+    "santé",
+    "préservatifs",
+    "sécurité"
    ]
   },
   {
@@ -1067,6 +1097,28 @@
    ]
   },
   {
+   "title": "L’interdiction du portable au lycée « pourra être effective dès la rentrée » scolaire, annonce le gouvernement",
+   "url": "https://www.franceinfo.fr/societe/education/les-personnels-de-l-education-nationale-regrettent-d-avoir-ete-avertis-beaucoup-trop-tard-pour-bannir-les-telephones-portables-des-lycees-des-la-rentree_8157302.html",
+   "n_members": 25,
+   "n_sources": 18,
+   "counts": {
+    "left": 2,
+    "centre": 10,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 4,
+    "opinion": 2
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "société",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Journée historique pour le badminton français : le duo Gicquel-Delrue et Alex Lanier sacrés champions du monde",
    "url": "https://www.ouest-france.fr/sport/badminton/badminton-toma-junior-popov-reussi-son-entree-en-lice-aux-championnats-du-monde-en-inde-un-505870c4-9a17-11f1-80a8-4192b81f52ff",
    "n_members": 60,
@@ -1088,64 +1140,12 @@
    "terms_left": [
     "yan",
     "ping",
-    "zhe"
+    "yan zhe"
    ],
    "terms_right": [
     "français",
     "champions",
     "champions monde"
-   ]
-  },
-  {
-   "title": "L’interdiction du portable au lycée « pourra être effective dès la rentrée » scolaire, annonce le gouvernement",
-   "url": "https://www.franceinfo.fr/societe/education/les-personnels-de-l-education-nationale-regrettent-d-avoir-ete-avertis-beaucoup-trop-tard-pour-bannir-les-telephones-portables-des-lycees-des-la-rentree_8157302.html",
-   "n_members": 22,
-   "n_sources": 17,
-   "counts": {
-    "left": 2,
-    "centre": 9,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 4,
-    "opinion": 2
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "société",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Affaire Patrick Bruel: une quinzaine de maires veulent l'annulation des concerts du chanteur dans leur ville",
-   "url": "https://www.ouest-france.fr/culture/musiques/patrick-bruel/patrick-bruel-nest-pas-le-bienvenu-a-chartres-ou-il-doit-demarrer-sa-tournee-affirme-le-maire-de-la-ville-cee2df2a-9cbe-11f1-a150-d338aff2f727",
-   "n_members": 57,
-   "n_sources": 16,
-   "counts": {
-    "left": 6,
-    "centre": 7,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": -0.333,
-   "blindspot_for": null,
-   "divergence": 0.506,
-   "category": "société",
-   "terms_left": [
-    "bienvenu",
-    "chartres",
-    "dijon"
-   ],
-   "terms_right": [
-    "concerts",
-    "opposent",
-    "opposent venue"
    ]
   }
  ]
