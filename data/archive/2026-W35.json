@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-24T20:57:16+00:00",
+ "generated_at": "2026-08-24T21:21:23+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -277,7 +277,7 @@
   {
    "title": "Philippe Bouvard, animateur historique des \"Grosses Têtes\", est décédé à 96 ans",
    "url": "https://www.leprogres.fr/societe/2026/08/24/ex-animateur-vedette-des-i-grosses-tetes-i-philippe-bouvard-a-tire-sa-reverence",
-   "n_members": 93,
+   "n_members": 94,
    "n_sources": 27,
    "counts": {
     "left": 8,
@@ -367,7 +367,7 @@
   {
    "title": "Sécheresse : les producteurs français de pommes de terre redoutent une chute de la récolte record",
    "url": "https://www.ladepeche.fr/2026/08/14/pour-nous-la-canicule-est-le-moins-pire-des-fleaux-dans-le-vignoble-de-fronton-pres-de-toulouse-contre-toute-attente-les-vendanges-sannoncent-superbes-13509253.php",
-   "n_members": 57,
+   "n_members": 58,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -381,12 +381,12 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.676,
+   "divergence": 0.683,
    "category": "environnement",
    "terms_left": [
     "face",
     "soutien",
-    "canicules"
+    "sécheresse"
    ],
    "terms_right": [
     "pommes",
@@ -851,6 +851,36 @@
    ]
   },
   {
+   "title": "Guerre au Moyen-Orient : plusieurs pays européens, dont l’Allemagne, réclament une taxe sur les superprofits pétroliers",
+   "url": "https://www.lefigaro.fr/conso/la-guerre-au-moyen-orient-fait-bondir-le-prix-de-l-eau-en-bouteille-le-produit-le-plus-achete-par-les-francais-20260819",
+   "n_members": 53,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 6,
+    "opinion": 0
+   },
+   "blindspot_score": 0.111,
+   "blindspot_for": null,
+   "divergence": 0.853,
+   "category": "international",
+   "terms_left": [
+    "syrie",
+    "année",
+    "pays-bas"
+   ],
+   "terms_right": [
+    "prix",
+    "euros",
+    "hausse"
+   ]
+  },
+  {
    "title": "Suède : plusieurs blessés dans un lycée suite à une attaque à l’épée",
    "url": "https://www.ladepeche.fr/2026/08/19/un-voleur-arme-dun-cutter-arrete-et-place-en-garde-a-vue-apres-avoir-tente-de-derober-des-bouteilles-dans-un-supermarche-de-tarbes-13514182.php",
    "n_members": 81,
@@ -959,7 +989,7 @@
    "terms_right": [
     "conditions",
     "maire lfi",
-    "bally"
+    "bally bagayoko"
    ]
   },
   {
@@ -1125,28 +1155,6 @@
     "mondiaux",
     "france"
    ]
-  },
-  {
-   "title": "Japon : un séisme de magnitude 5,9 fait des dizaines de blessés près de Tokyo",
-   "url": "https://www.ouest-france.fr/monde/perou/une-vague-de-boue-a-deferle-au-perou-la-capitale-debordee-par-des-pluies-inhabituelles-e79abd22-9b1e-11f1-bac9-b701f4b3457c",
-   "n_members": 64,
-   "n_sources": 19,
-   "counts": {
-    "left": 2,
-    "centre": 12,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
