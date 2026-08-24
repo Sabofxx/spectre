@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-24T21:21:23+00:00",
+ "generated_at": "2026-08-24T21:52:38+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.269,
+   "divergence": 0.268,
    "category": "international",
    "terms_left": [
     "direct",
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.445,
+   "divergence": 0.446,
    "category": "international",
    "terms_left": [
     "rdc épidémie",
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.659,
+   "divergence": 0.66,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -367,7 +367,7 @@
   {
    "title": "Sécheresse : les producteurs français de pommes de terre redoutent une chute de la récolte record",
    "url": "https://www.ladepeche.fr/2026/08/14/pour-nous-la-canicule-est-le-moins-pire-des-fleaux-dans-le-vignoble-de-fronton-pres-de-toulouse-contre-toute-attente-les-vendanges-sannoncent-superbes-13509253.php",
-   "n_members": 58,
+   "n_members": 59,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -381,12 +381,12 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.683,
+   "divergence": 0.677,
    "category": "environnement",
    "terms_left": [
     "face",
     "soutien",
-    "sécheresse"
+    "canicules"
    ],
    "terms_right": [
     "pommes",
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.533,
+   "divergence": 0.532,
    "category": "international",
    "terms_left": [
     "scrutin",
@@ -596,7 +596,7 @@
    "terms_left": [
     "judiciaire patrick",
     "quitter",
-    "autorisé quitter"
+    "bruel allégé"
    ],
    "terms_right": [
     "affaire",
@@ -799,6 +799,36 @@
    "terms_right": []
   },
   {
+   "title": "Guerre au Moyen-Orient : plusieurs pays européens, dont l’Allemagne, réclament une taxe sur les superprofits pétroliers",
+   "url": "https://www.lefigaro.fr/conso/la-guerre-au-moyen-orient-fait-bondir-le-prix-de-l-eau-en-bouteille-le-produit-le-plus-achete-par-les-francais-20260819",
+   "n_members": 58,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 6,
+    "opinion": 0
+   },
+   "blindspot_score": 0.111,
+   "blindspot_for": null,
+   "divergence": 0.855,
+   "category": "international",
+   "terms_left": [
+    "syrie",
+    "année",
+    "pays-bas"
+   ],
+   "terms_right": [
+    "prix",
+    "euros",
+    "pays"
+   ]
+  },
+  {
    "title": "Ceuta: démantèlement d'un réseau de passeurs soupçonné de faire payer jusqu'à 9000 euros par traversée",
    "url": "https://www.rfi.fr/fr/afrique/20260817-ceuta-un-camerounais-arriv%C3%A9-dans-l-enclave-espagnole-t%C3%A9moigne-sur-ses-conditions-de-vie",
    "n_members": 54,
@@ -851,33 +881,33 @@
    ]
   },
   {
-   "title": "Guerre au Moyen-Orient : plusieurs pays européens, dont l’Allemagne, réclament une taxe sur les superprofits pétroliers",
-   "url": "https://www.lefigaro.fr/conso/la-guerre-au-moyen-orient-fait-bondir-le-prix-de-l-eau-en-bouteille-le-produit-le-plus-achete-par-les-francais-20260819",
-   "n_members": 53,
+   "title": "Bally Bagayoko visé par une enquête du PNF sur les conditions de son emploi à la RATP",
+   "url": "https://www.liberation.fr/politique/rentree-de-lfi-lete-sous-pression-de-bally-bagayoko-20260821_HGOCOSJMVNEIPAKWDB4ADXVJ24/",
+   "n_members": 27,
    "n_sources": 22,
    "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 5
+    "left": 5,
+    "centre": 8,
+    "right": 9
    },
    "style_counts": {
-    "factuel": 16,
-    "mixte": 6,
-    "opinion": 0
+    "factuel": 10,
+    "mixte": 7,
+    "opinion": 5
    },
-   "blindspot_score": 0.111,
+   "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.853,
-   "category": "international",
+   "divergence": 0.195,
+   "category": "politique",
    "terms_left": [
-    "syrie",
-    "année",
-    "pays-bas"
+    "association",
+    "ac",
+    "anti-corruption"
    ],
    "terms_right": [
-    "prix",
-    "euros",
-    "hausse"
+    "conditions",
+    "maire lfi",
+    "bally"
    ]
   },
   {
@@ -897,7 +927,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.463,
+   "divergence": 0.462,
    "category": "international",
    "terms_left": [
     "paillote",
@@ -960,36 +990,6 @@
     "lycées",
     "portables lycées",
     "interdiction téléphones"
-   ]
-  },
-  {
-   "title": "Bally Bagayoko visé par une enquête du PNF sur les conditions de son emploi à la RATP",
-   "url": "https://www.liberation.fr/politique/rentree-de-lfi-lete-sous-pression-de-bally-bagayoko-20260821_HGOCOSJMVNEIPAKWDB4ADXVJ24/",
-   "n_members": 26,
-   "n_sources": 21,
-   "counts": {
-    "left": 5,
-    "centre": 7,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 7,
-    "opinion": 5
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.195,
-   "category": "politique",
-   "terms_left": [
-    "association",
-    "ac",
-    "anti-corruption"
-   ],
-   "terms_right": [
-    "conditions",
-    "maire lfi",
-    "bally bagayoko"
    ]
   },
   {
@@ -1061,7 +1061,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.655,
+   "divergence": 0.647,
    "category": "sciences-tech",
    "terms_left": [
     "victime cyberattaque",
@@ -1070,8 +1070,8 @@
    ],
    "terms_right": [
     "france",
-    "piratage",
-    "monde"
+    "monde",
+    "piratage"
    ]
   },
   {
