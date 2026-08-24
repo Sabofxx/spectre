@@ -1,9 +1,69 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-24T02:17:39+00:00",
+ "generated_at": "2026-08-24T03:30:42+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
+  {
+   "title": "Guerre au Moyen-Orient : l'Iran dit considérer comme un «ennemi» tout pays participant à la «guerre économique» des États-Unis",
+   "url": "https://www.europe1.fr/international/moyen-orient-donald-trump-menace-de-bombarder-oman-sil-entrave-un-accord-sur-le-detroit-dormuz-1020452",
+   "n_members": 370,
+   "n_sources": 33,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 11,
+    "opinion": 4
+   },
+   "blindspot_score": 0.263,
+   "blindspot_for": null,
+   "divergence": 0.256,
+   "category": "international",
+   "terms_left": [
+    "direct",
+    "direct guerre",
+    "etats-unis"
+   ],
+   "terms_right": [
+    "états-unis",
+    "pays",
+    "détroit"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027: à quoi faut-il s'attendre pour le discours de rentrée politique de Jean-Luc Mélenchon aux universités d'été de LFI?",
+   "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
+   "n_members": 187,
+   "n_sources": 30,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.571,
+   "category": "politique",
+   "terms_left": [
+    "militants",
+    "marine",
+    "gauche"
+   ],
+   "terms_right": [
+    "jean-luc mélenchon",
+    "jean-luc",
+    "mélenchon"
+   ]
+  },
   {
    "title": "Frappes meurtrières contre un centre commercial : Emmanuel Macron annonce l'envoi de missiles \"intercepteurs\" à l'Ukraine",
    "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/08/20/nuit-meurtriere-a-kiev-16-morts-et-une-cinquantaine-de-blesses-apres-des-frappes-russes",
@@ -32,6 +92,88 @@
     "intercepteurs",
     "missiles intercepteurs",
     "commercial"
+   ]
+  },
+  {
+   "title": "La Syrie dit vouloir désamorcer les tensions avec Israël après l'attaque d'une base",
+   "url": "https://www.franceinfo.fr/environnement/pollution/pollution-de-l-air/le-prefet-de-police-abaisse-la-vitesse-de-20km-h-jeudi-en-ile-de-france-a-cause-de-la-pollution-a-l-ozone_8145587.html",
+   "n_members": 66,
+   "n_sources": 20,
+   "counts": {
+    "left": 2,
+    "centre": 12,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 4,
+    "opinion": 2
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.918,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Que vient faire le prince héritier saoudien Mohammed ben Salmane en France ce dimanche et lundi ?",
+   "url": "https://www.sudouest.fr/politique/emmanuel-macron-recevra-le-prince-heritier-saoudien-mohammed-ben-salmane-dimanche-et-lundi-30319759.php",
+   "n_members": 28,
+   "n_sources": 16,
+   "counts": {
+    "left": 3,
+    "centre": 9,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 5,
+    "opinion": 1
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.513,
+   "category": "international",
+   "terms_left": [
+    "coupe",
+    "coupe monde",
+    "esport"
+   ],
+   "terms_right": [
+    "mohammed ben",
+    "mohammed",
+    "ben"
+   ]
+  },
+  {
+   "title": "Sommeil des enfants : les bons réflexes pour retrouver le rythme avant la rentrée",
+   "url": "https://www.lejdd.fr/Societe/secours-populaire-la-chance-dune-journee-de-vacances-181188",
+   "n_members": 28,
+   "n_sources": 15,
+   "counts": {
+    "left": 5,
+    "centre": 3,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 5,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.848,
+   "category": "société",
+   "terms_left": [
+    "secours",
+    "populaire",
+    "secours populaire"
+   ],
+   "terms_right": [
+    "vacances",
+    "enfants",
+    "rentrée"
    ]
   },
   {
@@ -79,6 +221,36 @@
    "terms_right": []
   },
   {
+   "title": "Gaza : les secours font état de trois Palestiniens, dont un enfant, tués par des frappes israéliennes",
+   "url": "https://www.lefigaro.fr/international/syrie-un-blesse-apres-une-attaque-de-drone-israelien-20260822",
+   "n_members": 17,
+   "n_sources": 10,
+   "counts": {
+    "left": 2,
+    "centre": 6,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 7,
+    "mixte": 3,
+    "opinion": 0
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.804,
+   "category": "international",
+   "terms_left": [
+    "frappes",
+    "affirme",
+    "enfant"
+   ],
+   "terms_right": [
+    "hamas",
+    "israël",
+    "armée"
+   ]
+  },
+  {
    "title": "Rennes-PSG : en vidéo, le doublé de Ferran Torres qui relance totalement les Parisiens",
    "url": "https://www.franceinfo.fr/sports/foot/om/en-ouverture-de-la-saison-de-ligue-1-l-olympique-de-marseille-ecrase-strasbourg_8156738.html",
    "n_members": 26,
@@ -101,9 +273,31 @@
    "terms_right": []
   },
   {
-   "title": "Ce qu’il faut retenir de l’actualité du week-end des 22 et 23 août",
-   "url": "https://www.lemonde.fr/les-decodeurs/article/2026/08/23/vous-revenez-de-vacances-rattrapez-l-actualite-que-vous-avez-manquee-cet-ete-avec-le-recapator_6754234_4355770.html",
+   "title": "Shein va entrer en Bourse à Hong Kong le 1er septembre",
+   "url": "https://www.lefigaro.fr/international/fast-fashion-shein-va-entrer-en-bourse-a-hong-kong-le-1er-septembre-20260824",
    "n_members": 6,
+   "n_sources": 6,
+   "counts": {
+    "left": 1,
+    "centre": 4,
+    "right": 1
+   },
+   "style_counts": {
+    "factuel": 4,
+    "mixte": 2,
+    "opinion": 0
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "économie",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Ce qu’il faut retenir de l’actualité du week-end des 22 et 23 août",
+   "url": "https://www.liberation.fr/international/europe/attaque-a-larme-blanche-en-suede-reouverture-de-la-foret-de-fontainebleau-reprise-de-la-ligue-1-lactu-de-ce-vendredi-21-aout-20260821_JL6GF32O7BCBDDEL723DXIQHZA/",
+   "n_members": 7,
    "n_sources": 5,
    "counts": {
     "left": 4,
@@ -118,29 +312,7 @@
    "blindspot_score": -0.6,
    "blindspot_for": "droite",
    "divergence": null,
-   "category": "politique",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Shein va entrer en Bourse à Hong Kong le 1er septembre",
-   "url": "https://www.lefigaro.fr/international/fast-fashion-shein-va-entrer-en-bourse-a-hong-kong-le-1er-septembre-20260824",
-   "n_members": 4,
-   "n_sources": 4,
-   "counts": {
-    "left": 1,
-    "centre": 2,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 2,
-    "mixte": 2,
-    "opinion": 0
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "économie",
+   "category": "international",
    "terms_left": [],
    "terms_right": []
   },
@@ -185,6 +357,28 @@
    "blindspot_for": null,
    "divergence": null,
    "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Jessica Pegula remporte son match contre Iga Swiatek à Cincinnati",
+   "url": "https://www.ouest-france.fr/sport/tennis/wta/wta-1000-cincinnati-iga-swiatek-rejoint-les-demi-finales-apres-labandon-delena-rybakina-4432cbfe-9d1f-11f1-a8ad-3219df531147",
+   "n_members": 5,
+   "n_sources": 2,
+   "counts": {
+    "left": 0,
+    "centre": 1,
+    "right": 1
+   },
+   "style_counts": {
+    "factuel": 1,
+    "mixte": 1,
+    "opinion": 0
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "sport",
    "terms_left": [],
    "terms_right": []
   },
