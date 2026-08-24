@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-24T03:30:42+00:00",
+ "generated_at": "2026-08-24T04:15:12+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Présidentielle 2027: à quoi faut-il s'attendre pour le discours de rentrée politique de Jean-Luc Mélenchon aux universités d'été de LFI?",
    "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
-   "n_members": 187,
+   "n_members": 188,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.571,
+   "divergence": 0.567,
    "category": "politique",
    "terms_left": [
     "militants",
-    "marine",
-    "gauche"
+    "gauche",
+    "marine"
    ],
    "terms_right": [
     "jean-luc mélenchon",
@@ -67,7 +67,7 @@
   {
    "title": "Frappes meurtrières contre un centre commercial : Emmanuel Macron annonce l'envoi de missiles \"intercepteurs\" à l'Ukraine",
    "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/08/20/nuit-meurtriere-a-kiev-16-morts-et-une-cinquantaine-de-blesses-apres-des-frappes-russes",
-   "n_members": 538,
+   "n_members": 539,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.265,
+   "divergence": 0.266,
    "category": "international",
    "terms_left": [
     "direct",
@@ -92,6 +92,96 @@
     "intercepteurs",
     "missiles intercepteurs",
     "commercial"
+   ]
+  },
+  {
+   "title": "Des élections en temps de guerre seraient \"un tsunami\" qui \"fracturerait l'Ukraine\", estime Volodymyr Zelensky",
+   "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/l-europe-a-largement-manque-la-premiere-revolution-numerique-christine-lagarde-estime-qu-elle-ne-peut-pas-se-permettre-de-rater-la-deuxieme-autour-de-l-intelligence-artificielle_AD-202608190241.html",
+   "n_members": 62,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.577,
+   "category": "international",
+   "terms_left": [
+    "fin",
+    "guerre tsunami",
+    "scrutin"
+   ],
+   "terms_right": [
+    "volodymyr zelensky",
+    "volodymyr",
+    "français"
+   ]
+  },
+  {
+   "title": "Orages : La Corse, le Var et les Alpes-Maritimes en vigilance orange, des vols annulés",
+   "url": "https://www.ladepeche.fr/2026/08/13/direct-canicule-80-departements-en-vigilance-orange-jusqua-40-c-attendus-ce-jeudi-dans-plusieurs-regions-13507182.php",
+   "n_members": 490,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.248,
+   "category": "environnement",
+   "terms_left": [
+    "direct incendies",
+    "incendies",
+    "feu"
+   ],
+   "terms_right": [
+    "départements",
+    "placés",
+    "départements placés"
+   ]
+  },
+  {
+   "title": "Franchises médicales : le gouvernement renonce à doubler les plafonds mais envisage une indexation sur l'inflation",
+   "url": "https://www.challenges.fr/economie/impots-ce-cadeau-fiscal-pour-24-millions-de-familles-menace-car-il-nemporte-pas-deffets-redistributifs-utiles_645272",
+   "n_members": 37,
+   "n_sources": 22,
+   "counts": {
+    "left": 6,
+    "centre": 9,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 10,
+    "opinion": 1
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.366,
+   "category": "société",
+   "terms_left": [
+    "cgt",
+    "médicales gouvernement",
+    "france cgt"
+   ],
+   "terms_right": [
+    "doubler plafond",
+    "mois",
+    "président"
    ]
   },
   {
@@ -177,9 +267,31 @@
    ]
   },
   {
+   "title": "Les vendanges tournent au drame dans le Beaujolais : une remorque se renverse, un adolescent de 17 ans tué, neuf blessés",
+   "url": "https://www.bfmtv.com/police-justice/faits-divers/un-gradin-s-effondre-avant-un-spectacle-dans-un-chateau-de-bretagne-16-personnes-blessees_AN-202608190044.html",
+   "n_members": 41,
+   "n_sources": 14,
+   "counts": {
+    "left": 1,
+    "centre": 8,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 3,
+    "opinion": 1
+   },
+   "blindspot_score": 0.667,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "faits-divers",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Tennis : Arthur Fils se qualifie pour sa première finale de Masters 1000, à Cincinnati (Etats-Unis)",
    "url": "https://www.europe1.fr/sport/masters-1000-de-cincinnati-zverev-sort-atmane-fils-vient-a-bout-de-lehecka-et-file-en-8e-1020470",
-   "n_members": 45,
+   "n_members": 46,
    "n_sources": 13,
    "counts": {
     "left": 1,
@@ -195,6 +307,28 @@
    "blindspot_for": "gauche",
    "divergence": null,
    "category": "sport",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Incendie de Crans-Montana en Suisse : le propriétaire du bar Le Constellation placé en détention pour violences conjugales",
+   "url": "https://www.leprogres.fr/faits-divers-justice/2026/08/23/jacques-moretti-patron-du-i-constellation-i-place-en-detention-provisoire-pour-violences-sur-sa-femme",
+   "n_members": 15,
+   "n_sources": 13,
+   "counts": {
+    "left": 0,
+    "centre": 9,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 2,
+    "opinion": 1
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "faits-divers",
    "terms_left": [],
    "terms_right": []
   },
@@ -273,6 +407,28 @@
    "terms_right": []
   },
   {
+   "title": "\"Nous ne vous contacterons jamais depuis un numéro personnel\" : Attention à cet e-mail qui usurpe l'identité de Doctolib et promet un \"kit médical gratuit\"",
+   "url": "https://www.sudouest.fr/economie/l-autorite-des-marches-financiers-alerte-sur-une-plateforme-de-trading-frauduleuse-usurpant-l-identite-de-medias-30303314.php",
+   "n_members": 9,
+   "n_sources": 6,
+   "counts": {
+    "left": 0,
+    "centre": 3,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 5,
+    "mixte": 1,
+    "opinion": 0
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "économie",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Shein va entrer en Bourse à Hong Kong le 1er septembre",
    "url": "https://www.lefigaro.fr/international/fast-fashion-shein-va-entrer-en-bourse-a-hong-kong-le-1er-septembre-20260824",
    "n_members": 6,
@@ -296,8 +452,8 @@
   },
   {
    "title": "Ce qu’il faut retenir de l’actualité du week-end des 22 et 23 août",
-   "url": "https://www.liberation.fr/international/europe/attaque-a-larme-blanche-en-suede-reouverture-de-la-foret-de-fontainebleau-reprise-de-la-ligue-1-lactu-de-ce-vendredi-21-aout-20260821_JL6GF32O7BCBDDEL723DXIQHZA/",
-   "n_members": 7,
+   "url": "https://www.liberation.fr/international/europe/vigilance-orange-orages-sur-une-partie-de-la-france-le-gouvernement-renonce-a-doubler-les-franchises-medicales-vote-indicatif-pour-designer-le-prochain-chef-de-lonu-lactu-de-ce-vendredi-21-aout-au-matin-20260821_CEYY6F7FMNDW3MIB375GUS556I/",
+   "n_members": 8,
    "n_sources": 5,
    "counts": {
     "left": 4,
@@ -361,6 +517,28 @@
    "terms_right": []
   },
   {
+   "title": "Présidentielle 2027 : Un duel Mélenchon-Le Pen se profile au second tour, selon un sondage",
+   "url": "https://www.20minutes.fr/politique/4240535-20260824-presidentielle-2027-duel-melenchon-pen-profile-second-tour-selon-sondage",
+   "n_members": 3,
+   "n_sources": 3,
+   "counts": {
+    "left": 0,
+    "centre": 2,
+    "right": 1
+   },
+   "style_counts": {
+    "factuel": 2,
+    "mixte": 1,
+    "opinion": 0
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "politique",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Jessica Pegula remporte son match contre Iga Swiatek à Cincinnati",
    "url": "https://www.ouest-france.fr/sport/tennis/wta/wta-1000-cincinnati-iga-swiatek-rejoint-les-demi-finales-apres-labandon-delena-rybakina-4432cbfe-9d1f-11f1-a8ad-3219df531147",
    "n_members": 5,
@@ -376,6 +554,28 @@
     "opinion": 0
    },
    "blindspot_score": 1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "sport",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "France - Croatie. À quelle heure et sur quelle chaîne suivre le deuxième match des Bleues à l’Euro de volley ?",
+   "url": "https://www.ouest-france.fr/sport/volley/equipe-de-france/france-belgique-a-quelle-heure-et-sur-quelle-chaine-suivre-le-match-de-preparation-a-leurovolley-5b7939b0-9ccf-11f1-bac9-b701f4b3457c",
+   "n_members": 4,
+   "n_sources": 2,
+   "counts": {
+    "left": 0,
+    "centre": 2,
+    "right": 0
+   },
+   "style_counts": {
+    "factuel": 2,
+    "mixte": 0,
+    "opinion": 0
+   },
+   "blindspot_score": null,
    "blindspot_for": null,
    "divergence": null,
    "category": "sport",
