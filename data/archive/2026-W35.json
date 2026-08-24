@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-24T11:57:02+00:00",
+ "generated_at": "2026-08-24T12:28:19+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -67,7 +67,7 @@
   {
    "title": "Présidentielle 2027 : Raphaël Glucksmann annonce sa candidature",
    "url": "https://www.bfmtv.com/politique/parti-socialiste/video-retraites-le-depute-ps-philippe-brun-propose-de-reactiver-un-fonds-de-reserve-public-et-souverain-pour-completer-le-systeme-par-repartition_VN-202608200282.html",
-   "n_members": 91,
+   "n_members": 93,
    "n_sources": 31,
    "counts": {
     "left": 6,
@@ -81,17 +81,17 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.335,
+   "divergence": 0.332,
    "category": "politique",
    "terms_left": [
-    "campagne",
     "débat",
-    "candidature raphaël"
+    "candidature raphaël",
+    "primaire organisée"
    ],
    "terms_right": [
     "présidentielle raphaël",
-    "présidentielle",
-    "élection"
+    "élection",
+    "présidentielle"
    ]
   },
   {
@@ -209,8 +209,8 @@
     "guerre"
    ],
    "terms_right": [
-    "états-unis",
     "commercial",
+    "états-unis",
     "veut"
    ]
   },
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.644,
+   "divergence": 0.648,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -272,6 +272,36 @@
     "instagram",
     "facebook",
     "facebook instagram"
+   ]
+  },
+  {
+   "title": "Ebola en RDC: avec plus de 2 500 morts, l'épidémie «progresse de façon exponentielle» alerte l'ONU",
+   "url": "https://www.leparisien.fr/sciences/odeur-sucree-groupe-sanguin-ou-rien-de-cela-pourquoi-les-moustiques-raffolent-de-votre-peau-et-pas-de-celle-du-voisin-03-08-2026-7XIS34AZTNEVJPXNPS2WH45HDQ.php",
+   "n_members": 131,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 15,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.452,
+   "category": "international",
+   "terms_left": [
+    "rdc épidémie",
+    "rdc",
+    "épidémie"
+   ],
+   "terms_right": [
+    "virus",
+    "meurtrière",
+    "ebola épidémie"
    ]
   },
   {
@@ -335,6 +365,36 @@
    ]
   },
   {
+   "title": "Philippe Bouvard, animateur historique des \"Grosses Têtes\", est décédé à 96 ans",
+   "url": "https://www.leprogres.fr/societe/2026/08/24/ex-animateur-vedette-des-i-grosses-tetes-i-philippe-bouvard-a-tire-sa-reverence",
+   "n_members": 76,
+   "n_sources": 25,
+   "counts": {
+    "left": 8,
+    "centre": 9,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.19,
+   "category": "culture",
+   "terms_left": [
+    "animateur grosses",
+    "médias",
+    "bouvard journaliste"
+   ],
+   "terms_right": [
+    "français",
+    "journaliste animateur",
+    "animateur radio"
+   ]
+  },
+  {
    "title": "Des élections en temps de guerre seraient \"un tsunami\" qui \"fracturerait l'Ukraine\", estime Volodymyr Zelensky",
    "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/l-europe-a-largement-manque-la-premiere-revolution-numerique-christine-lagarde-estime-qu-elle-ne-peut-pas-se-permettre-de-rater-la-deuxieme-autour-de-l-intelligence-artificielle_AD-202608190241.html",
    "n_members": 65,
@@ -351,7 +411,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.535,
+   "divergence": 0.536,
    "category": "international",
    "terms_left": [
     "scrutin",
@@ -392,36 +452,6 @@
     "secteurs",
     "prix",
     "gouvernement"
-   ]
-  },
-  {
-   "title": "Philippe Bouvard, animateur historique des \"Grosses Têtes\", est décédé à 96 ans",
-   "url": "https://www.leprogres.fr/societe/2026/08/24/ex-animateur-vedette-des-i-grosses-tetes-i-philippe-bouvard-a-tire-sa-reverence",
-   "n_members": 71,
-   "n_sources": 24,
-   "counts": {
-    "left": 8,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 10,
-    "opinion": 3
-   },
-   "blindspot_score": -0.067,
-   "blindspot_for": null,
-   "divergence": 0.191,
-   "category": "culture",
-   "terms_left": [
-    "animateur grosses",
-    "médias",
-    "bouvard journaliste"
-   ],
-   "terms_right": [
-    "journaliste animateur",
-    "français",
-    "animateur radio"
    ]
   },
   {
@@ -471,7 +501,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.408,
+   "divergence": 0.409,
    "category": "économie",
    "terms_left": [
     "qu",
@@ -591,7 +621,7 @@
   {
    "title": "Canicule : cinq indicateurs d’un été 2026 en surchauffe en Europe",
    "url": "https://www.humanite.fr/monde/allemagne/en-allemagne-sahra-wagenknecht-egerie-de-la-gauche-populiste-allemande-prete-a-sallier-a-lafd",
-   "n_members": 44,
+   "n_members": 46,
    "n_sources": 22,
    "counts": {
     "left": 8,
@@ -681,7 +711,7 @@
   {
    "title": "Sécheresse : les producteurs français de pommes de terre redoutent une chute de la récolte record",
    "url": "https://www.ladepeche.fr/2026/08/14/pour-nous-la-canicule-est-le-moins-pire-des-fleaux-dans-le-vignoble-de-fronton-pres-de-toulouse-contre-toute-attente-les-vendanges-sannoncent-superbes-13509253.php",
-   "n_members": 40,
+   "n_members": 41,
    "n_sources": 21,
    "counts": {
     "left": 4,
@@ -695,7 +725,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.627,
+   "divergence": 0.628,
    "category": "environnement",
    "terms_left": [
     "face",
@@ -739,9 +769,9 @@
    ]
   },
   {
-   "title": "La Syrie dit vouloir désamorcer les tensions avec Israël après l'attaque d'une base",
+   "title": "Attaque d'une base en Syrie : Damas dit vouloir désamorcer les tensions avec Israël",
    "url": "https://www.franceinfo.fr/environnement/pollution/pollution-de-l-air/le-prefet-de-police-abaisse-la-vitesse-de-20km-h-jeudi-en-ile-de-france-a-cause-de-la-pollution-a-l-ozone_8145587.html",
-   "n_members": 66,
+   "n_members": 67,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -785,7 +815,7 @@
   {
    "title": "Rentrée scolaire : à une semaine du retour en classe, comment aider son enfant à reprendre le rythme ?",
    "url": "https://www.lejdd.fr/Societe/secours-populaire-la-chance-dune-journee-de-vacances-181188",
-   "n_members": 51,
+   "n_members": 52,
    "n_sources": 20,
    "counts": {
     "left": 6,
@@ -810,6 +840,36 @@
     "vacances",
     "français",
     "rentrée"
+   ]
+  },
+  {
+   "title": "Mise à l'abri de 253 migrants à Paris après évacuation",
+   "url": "https://www.leparisien.fr/international/feu-historique-en-belgique-tous-les-habitants-evacues-autorises-a-rentrer-chez-eux-19-08-2026-3VOZA7F7BFF3HNWHSUZGVQ3QGM.php",
+   "n_members": 59,
+   "n_sources": 19,
+   "counts": {
+    "left": 3,
+    "centre": 11,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 5,
+    "opinion": 2
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.668,
+   "category": "international",
+   "terms_left": [
+    "ville",
+    "ville paris",
+    "centre"
+   ],
+   "terms_right": [
+    "incendie",
+    "voiture",
+    "orages"
    ]
   },
   {
@@ -867,7 +927,7 @@
   {
    "title": "Tennis : le Français Arthur Fils remporte le Masters 1000 de Cincinnati",
    "url": "https://www.europe1.fr/sport/masters-1000-de-cincinnati-zverev-sort-atmane-fils-vient-a-bout-de-lehecka-et-file-en-8e-1020470",
-   "n_members": 64,
+   "n_members": 65,
    "n_sources": 18,
    "counts": {
     "left": 3,
@@ -911,7 +971,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.701,
+   "divergence": 0.702,
    "category": "politique",
    "terms_left": [
     "france",
@@ -920,38 +980,8 @@
    ],
    "terms_right": [
     "lfi",
-    "tf",
-    "universités"
-   ]
-  },
-  {
-   "title": "Mise à l'abri de 253 migrants à Paris après évacuation",
-   "url": "https://www.leparisien.fr/international/feu-historique-en-belgique-tous-les-habitants-evacues-autorises-a-rentrer-chez-eux-19-08-2026-3VOZA7F7BFF3HNWHSUZGVQ3QGM.php",
-   "n_members": 57,
-   "n_sources": 18,
-   "counts": {
-    "left": 3,
-    "centre": 10,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.668,
-   "category": "environnement",
-   "terms_left": [
-    "ville",
-    "ville paris",
-    "centre"
-   ],
-   "terms_right": [
-    "incendie",
-    "voiture",
-    "orages"
+    "universités",
+    "tf"
    ]
   },
   {
@@ -1037,9 +1067,39 @@
    ]
   },
   {
+   "title": "Affaire Patrick Bruel: une quinzaine de maires veulent l'annulation des concerts du chanteur dans leur ville",
+   "url": "https://www.ouest-france.fr/culture/musiques/patrick-bruel/patrick-bruel-nest-pas-le-bienvenu-a-chartres-ou-il-doit-demarrer-sa-tournee-affirme-le-maire-de-la-ville-cee2df2a-9cbe-11f1-a150-d338aff2f727",
+   "n_members": 57,
+   "n_sources": 16,
+   "counts": {
+    "left": 6,
+    "centre": 7,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 6,
+    "opinion": 1
+   },
+   "blindspot_score": -0.333,
+   "blindspot_for": null,
+   "divergence": 0.526,
+   "category": "société",
+   "terms_left": [
+    "oppose",
+    "bienvenu",
+    "dijon"
+   ],
+   "terms_right": [
+    "concerts",
+    "opposent",
+    "opposent venue"
+   ]
+  },
+  {
    "title": "L'Ukraine accueille une réunion de la \"Coalition des volontaires\", sur fond d'intensification des frappes russes",
    "url": "http://fr.euronews.com/my-europe/2026/08/21/la-coalition-des-volontaires-se-reunit-lundi-a-kyiv",
-   "n_members": 48,
+   "n_members": 49,
    "n_sources": 16,
    "counts": {
     "left": 2,
@@ -1095,58 +1155,6 @@
     "serbie",
     "bleus"
    ]
-  },
-  {
-   "title": "Finale du Mondial-2026: l'Argentin Leandro Paredes suspendu dix matches par la Fifa",
-   "url": "https://www.ladepeche.fr/2026/08/16/controle-paredes-je-ne-veux-pas-lexpulser-il-a-deja-un-jaune-letrange-echange-entre-larbitre-et-messi-en-finale-de-la-coupe-du-monde-intrigue-les-13510890.php",
-   "n_members": 35,
-   "n_sources": 16,
-   "counts": {
-    "left": 2,
-    "centre": 9,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 5,
-    "opinion": 1
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": 0.603,
-   "category": "sport",
-   "terms_left": [
-    "patron",
-    "candidat",
-    "qu"
-   ],
-   "terms_right": [
-    "président",
-    "fifa",
-    "football"
-   ]
-  },
-  {
-   "title": "Un robot plus rapide qu’Usain Bolt sur 100m ! Des humanoïdes battent des records sportifs humains aux World Robot Games en Chine",
-   "url": "https://www.leparisien.fr/sports/un-robot-humanoide-bat-le-record-de-vitesse-dusain-bolt-avant-de-se-fracasser-au-sol-22-08-2026-5DKROT25AVCP3J5F3ANCI25TI4.php",
-   "n_members": 21,
-   "n_sources": 16,
-   "counts": {
-    "left": 1,
-    "centre": 10,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 3,
-    "opinion": 0
-   },
-   "blindspot_score": 0.667,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "sciences-tech",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
