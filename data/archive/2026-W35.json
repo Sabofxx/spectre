@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-25T10:00:04+00:00",
+ "generated_at": "2026-08-25T10:30:48+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.271,
+   "divergence": 0.27,
    "category": "international",
    "terms_left": [
     "direct",
@@ -90,8 +90,8 @@
    ],
    "terms_right": [
     "états-unis",
-    "détroit",
-    "ormuz"
+    "washington",
+    "détroit"
    ]
   },
   {
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.411,
+   "divergence": 0.415,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -427,7 +427,7 @@
   {
    "title": "Les images des dégâts dans le village de Pomas, dans l'Aude, après le passage d'une tornade",
    "url": "https://www.lefigaro.fr/meteo/aude-les-images-impressionnantes-d-une-tornade-pres-de-carcassonne-20260824",
-   "n_members": 81,
+   "n_members": 84,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -441,7 +441,7 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.348,
+   "divergence": 0.357,
    "category": "environnement",
    "terms_left": [
     "victimes",
@@ -450,8 +450,8 @@
    ],
    "terms_right": [
     "dégâts",
-    "après-midi",
-    "personnes"
+    "tornade aude",
+    "après-midi"
    ]
   },
   {
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.677,
+   "divergence": 0.676,
    "category": "environnement",
    "terms_left": [
     "face",
@@ -561,12 +561,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.407,
+   "divergence": 0.405,
    "category": "société",
    "terms_left": [
     "médicales gouvernement",
     "cgt",
-    "france cgt"
+    "économies"
    ],
    "terms_right": [
     "face",
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.532,
+   "divergence": 0.533,
    "category": "international",
    "terms_left": [
     "scrutin",
@@ -602,6 +602,36 @@
     "volodymyr zelensky",
     "volodymyr",
     "face"
+   ]
+  },
+  {
+   "title": "Canicule : cinq indicateurs d’un été 2026 en surchauffe en Europe",
+   "url": "https://www.humanite.fr/monde/allemagne/en-allemagne-sahra-wagenknecht-egerie-de-la-gauche-populiste-allemande-prete-a-sallier-a-lafd",
+   "n_members": 56,
+   "n_sources": 25,
+   "counts": {
+    "left": 8,
+    "centre": 13,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": -0.333,
+   "blindspot_for": null,
+   "divergence": 0.742,
+   "category": "environnement",
+   "terms_left": [
+    "climatique",
+    "changement climatique",
+    "changement"
+   ],
+   "terms_right": [
+    "pays",
+    "france",
+    "chaleur"
    ]
   },
   {
@@ -687,39 +717,9 @@
    ]
   },
   {
-   "title": "Canicules en Europe : cinq signes d'un été en surchauffe",
-   "url": "https://www.humanite.fr/monde/allemagne/en-allemagne-sahra-wagenknecht-egerie-de-la-gauche-populiste-allemande-prete-a-sallier-a-lafd",
-   "n_members": 52,
-   "n_sources": 24,
-   "counts": {
-    "left": 8,
-    "centre": 12,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": -0.333,
-   "blindspot_for": null,
-   "divergence": 0.742,
-   "category": "environnement",
-   "terms_left": [
-    "climatique",
-    "changement climatique",
-    "changement"
-   ],
-   "terms_right": [
-    "pays",
-    "france",
-    "chaleur"
-   ]
-  },
-  {
    "title": "L’interdiction du portable au lycée « pourra être effective dès la rentrée » scolaire, annonce le gouvernement",
    "url": "https://www.franceinfo.fr/societe/education/les-personnels-de-l-education-nationale-regrettent-d-avoir-ete-avertis-beaucoup-trop-tard-pour-bannir-les-telephones-portables-des-lycees-des-la-rentree_8157302.html",
-   "n_members": 44,
+   "n_members": 46,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -733,12 +733,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.443,
+   "divergence": 0.452,
    "category": "société",
    "terms_left": [
     "mesure",
-    "interdiction réseaux",
-    "semaine"
+    "interdits",
+    "interdiction réseaux"
    ],
    "terms_right": [
     "lycées",
@@ -785,7 +785,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.409,
+   "divergence": 0.41,
    "category": "économie",
    "terms_left": [
     "qu",
@@ -875,7 +875,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.811,
+   "divergence": 0.814,
    "category": "société",
    "terms_left": [
     "élèves",
@@ -883,9 +883,9 @@
     "journée"
    ],
    "terms_right": [
-    "vacances",
     "français",
-    "incendies"
+    "vacances",
+    "rentrée"
    ]
   },
   {
@@ -965,8 +965,8 @@
     "anti-corruption"
    ],
    "terms_right": [
-    "bally bagayoko",
     "bally",
+    "bally bagayoko",
     "conditions"
    ]
   },
@@ -1017,17 +1017,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.211,
+   "divergence": 0.22,
    "category": "faits-divers",
    "terms_left": [
-    "passé",
     "haine",
-    "résidente"
+    "résidente",
+    "bellina homme"
    ],
    "terms_right": [
     "corps",
-    "corps calciné",
-    "vue"
+    "suspect",
+    "corps calciné"
    ]
   },
   {
@@ -1107,7 +1107,7 @@
   {
    "title": "«Pas de leçons d'impartialité à recevoir» : Laurent Nuñez répond à Jean-Luc Mélenchon qui accuse des préfets de «procès» contre des députés LFI",
    "url": "https://www.lefigaro.fr/secteur/high-tech/cybersecurite-qu-est-ce-qu-un-systeme-de-bug-bounty-que-l-etat-veut-utiliser-contre-les-piratages-20260820",
-   "n_members": 53,
+   "n_members": 54,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -1121,7 +1121,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.859,
+   "divergence": 0.846,
    "category": "politique",
    "terms_left": [
     "extrême",
@@ -1130,31 +1130,39 @@
    ],
    "terms_right": [
     "préfets",
-    "laurent",
-    "mélenchon"
+    "mélenchon",
+    "jean-luc"
    ]
   },
   {
-   "title": "Suède : plusieurs blessés dans un lycée suite à une attaque à l’épée",
-   "url": "https://www.ladepeche.fr/2026/08/19/un-voleur-arme-dun-cutter-arrete-et-place-en-garde-a-vue-apres-avoir-tente-de-derober-des-bouteilles-dans-un-supermarche-de-tarbes-13514182.php",
-   "n_members": 81,
-   "n_sources": 21,
+   "title": "«Du jamais vu depuis Disneyland»: la France et l'Arabie saoudite vont créer trois parcs d'attractions près de Paris",
+   "url": "https://www.tf1info.fr/societe/videos/video-bientot-un-nouveau-parc-d-attractions-geant-pres-de-paris-62088-2460107.html",
+   "n_members": 35,
+   "n_sources": 22,
    "counts": {
-    "left": 2,
-    "centre": 13,
-    "right": 6
+    "left": 4,
+    "centre": 10,
+    "right": 8
    },
    "style_counts": {
-    "factuel": 15,
-    "mixte": 4,
+    "factuel": 12,
+    "mixte": 8,
     "opinion": 2
    },
-   "blindspot_score": 0.5,
+   "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.463,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
+   "divergence": 0.435,
+   "category": "économie",
+   "terms_left": [
+    "macron",
+    "vu",
+    "emplois"
+   ],
+   "terms_right": [
+    "accord",
+    "france",
+    "ball"
+   ]
   }
  ]
 }
