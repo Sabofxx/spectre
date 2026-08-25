@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-25T17:54:26+00:00",
+ "generated_at": "2026-08-25T18:24:56+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.407,
+   "divergence": 0.406,
    "category": "politique",
    "terms_left": [
     "politiques familiales",
@@ -181,7 +181,7 @@
    "terms_right": [
     "adopter",
     "adopter budget",
-    "lettre"
+    "aisés"
    ]
   },
   {
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.275,
+   "divergence": 0.273,
    "category": "international",
    "terms_left": [
     "direct",
@@ -211,13 +211,13 @@
    "terms_right": [
     "ukraine morts",
     "enfants",
-    "nouveaux"
+    "drone"
    ]
   },
   {
    "title": "Sophie Adenot est retournée dans l'espace pour une deuxième sortie extravéhiculaire",
    "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 217,
+   "n_members": 218,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -277,7 +277,7 @@
   {
    "title": "Un conflit commercial aux «effets dévastateurs» : l'administration Trump avertit le Canada contre une escalade dangereuse",
    "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
-   "n_members": 155,
+   "n_members": 156,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.344,
+   "divergence": 0.341,
    "category": "international",
    "terms_left": [
     "guerre commerciale",
@@ -300,8 +300,8 @@
    ],
    "terms_right": [
     "états-unis",
-    "commercial",
-    "annonce"
+    "annonce",
+    "commercial"
    ]
   },
   {
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.378,
+   "divergence": 0.375,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -337,7 +337,7 @@
   {
    "title": "Philippe Bouvard, animateur historique des \"Grosses Têtes\", est décédé à 96 ans",
    "url": "https://www.leprogres.fr/societe/2026/08/24/ex-animateur-vedette-des-i-grosses-tetes-i-philippe-bouvard-a-tire-sa-reverence",
-   "n_members": 103,
+   "n_members": 105,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -362,6 +362,36 @@
     "français",
     "journaliste animateur",
     "éteint"
+   ]
+  },
+  {
+   "title": "Un village de l'Aude, dans le sud de la France, dévasté par une tornade",
+   "url": "https://www.lefigaro.fr/meteo/aude-les-images-impressionnantes-d-une-tornade-pres-de-carcassonne-20260824",
+   "n_members": 132,
+   "n_sources": 28,
+   "counts": {
+    "left": 6,
+    "centre": 17,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 9,
+    "opinion": 1
+   },
+   "blindspot_score": -0.091,
+   "blindspot_for": null,
+   "divergence": 0.286,
+   "category": "environnement",
+   "terms_left": [
+    "victimes",
+    "stade",
+    "blessés tornade"
+   ],
+   "terms_right": [
+    "dégâts",
+    "touchées",
+    "après-midi"
    ]
   },
   {
@@ -395,36 +425,6 @@
    ]
   },
   {
-   "title": "Un village de l'Aude, dans le sud de la France, dévasté par une tornade",
-   "url": "https://www.lefigaro.fr/meteo/aude-les-images-impressionnantes-d-une-tornade-pres-de-carcassonne-20260824",
-   "n_members": 131,
-   "n_sources": 27,
-   "counts": {
-    "left": 6,
-    "centre": 16,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 9,
-    "opinion": 1
-   },
-   "blindspot_score": -0.091,
-   "blindspot_for": null,
-   "divergence": 0.286,
-   "category": "environnement",
-   "terms_left": [
-    "victimes",
-    "stade",
-    "blessés tornade"
-   ],
-   "terms_right": [
-    "dégâts",
-    "touchées",
-    "après-midi"
-   ]
-  },
-  {
    "title": "Présidentielle 2027 : Bruno Le Maire publie « un manifeste pour une autre France »",
    "url": "https://www.europe1.fr/politique/jusqua-400eu-le-week-end-le-tarif-des-universites-dete-de-lfi-fait-polemique-1014659",
    "n_members": 84,
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.669,
+   "divergence": 0.659,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.539,
+   "divergence": 0.538,
    "category": "international",
    "terms_left": [
     "accusée",
@@ -545,6 +545,36 @@
    ]
   },
   {
+   "title": "L'interdiction des téléphones portables dans les lycées \"pourra être effective dès la rentrée\", annonce le gouvernement",
+   "url": "https://www.franceinfo.fr/societe/education/les-personnels-de-l-education-nationale-regrettent-d-avoir-ete-avertis-beaucoup-trop-tard-pour-bannir-les-telephones-portables-des-lycees-des-la-rentree_8157302.html",
+   "n_members": 60,
+   "n_sources": 26,
+   "counts": {
+    "left": 4,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.455,
+   "category": "société",
+   "terms_left": [
+    "mesure",
+    "interdiction réseaux",
+    "semaine"
+   ],
+   "terms_right": [
+    "lycées",
+    "interdiction téléphones",
+    "portables lycées"
+   ]
+  },
+  {
    "title": "Avec \"Fjord\", le cinéaste roumain Cristian Mungiu questionne notre société \"radicalisée et divisée\"",
    "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/dans-fjord-palme-d-or-2026-cristian-mungiu-denonce-les-dangers-de-la-polarisation-a-travers-l-histoire-d-une-famille-roumaine-chretienne-integriste-exilee-en-norvege_8143226.html",
    "n_members": 43,
@@ -564,8 +594,8 @@
    "divergence": 0.433,
    "category": "culture",
    "terms_left": [
-    "mungiu",
     "cristian mungiu",
+    "mungiu",
     "cristian"
    ],
    "terms_right": [
@@ -577,7 +607,7 @@
   {
    "title": "Guerre en Ukraine: Kiev s'attaque au géant du e-commerce russe Ozon en visant deux entrepôts en deux jours",
    "url": "https://www.tf1info.fr/international/la-coree-du-nord-et-la-russie-sur-le-point-d-achever-la-construction-d-un-pont-pouvant-faciliter-la-logistique-dans-la-guerre-en-ukraine-2455563.html",
-   "n_members": 102,
+   "n_members": 103,
    "n_sources": 25,
    "counts": {
     "left": 3,
@@ -591,7 +621,7 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.641,
+   "divergence": 0.636,
    "category": "international",
    "terms_left": [
     "guerre ukraine",
@@ -692,36 +722,6 @@
     "volodymyr zelensky",
     "volodymyr",
     "face"
-   ]
-  },
-  {
-   "title": "L'interdiction des téléphones portables dans les lycées \"pourra être effective dès la rentrée\", annonce le gouvernement",
-   "url": "https://www.franceinfo.fr/societe/education/les-personnels-de-l-education-nationale-regrettent-d-avoir-ete-avertis-beaucoup-trop-tard-pour-bannir-les-telephones-portables-des-lycees-des-la-rentree_8157302.html",
-   "n_members": 58,
-   "n_sources": 25,
-   "counts": {
-    "left": 4,
-    "centre": 14,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.452,
-   "category": "société",
-   "terms_left": [
-    "mesure",
-    "interdiction réseaux",
-    "semaine"
-   ],
-   "terms_right": [
-    "lycées",
-    "interdiction téléphones",
-    "portables lycées"
    ]
   },
   {
@@ -913,7 +913,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.805,
+   "divergence": 0.808,
    "category": "société",
    "terms_left": [
     "élèves",
@@ -923,7 +923,7 @@
    "terms_right": [
     "français",
     "rentrée",
-    "vacances"
+    "incendies"
    ]
   },
   {
@@ -948,7 +948,7 @@
    "terms_left": [
     "judiciaire patrick",
     "quitter",
-    "bruel allégé"
+    "autorisé quitter"
    ],
    "terms_right": [
     "affaire",
@@ -1071,7 +1071,7 @@
   {
    "title": "Saint-Denis : Bally Bagayoko visé par une enquête pour détournement de fonds publics",
    "url": "https://www.liberation.fr/politique/rentree-de-lfi-lete-sous-pression-de-bally-bagayoko-20260821_HGOCOSJMVNEIPAKWDB4ADXVJ24/",
-   "n_members": 40,
+   "n_members": 41,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -1085,7 +1085,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.208,
+   "divergence": 0.209,
    "category": "politique",
    "terms_left": [
     "association",
@@ -1093,8 +1093,8 @@
     "anti-corruption"
    ],
    "terms_right": [
-    "bally",
     "bally bagayoko",
+    "bally",
     "conditions"
    ]
   },
