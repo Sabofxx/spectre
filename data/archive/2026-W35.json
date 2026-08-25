@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-25T18:24:56+00:00",
+ "generated_at": "2026-08-25T19:08:16+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.31,
+   "divergence": 0.311,
    "category": "politique",
    "terms_left": [
     "campagne",
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.406,
+   "divergence": 0.407,
    "category": "politique",
    "terms_left": [
     "politiques familiales",
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.538,
+   "divergence": 0.539,
    "category": "international",
    "terms_left": [
     "accusée",
@@ -594,8 +594,8 @@
    "divergence": 0.433,
    "category": "culture",
    "terms_left": [
-    "cristian mungiu",
     "mungiu",
+    "cristian mungiu",
     "cristian"
    ],
    "terms_right": [
@@ -755,6 +755,36 @@
    ]
   },
   {
+   "title": "Présidentielle 2027 : Léa Salamé se retire du 20H de France 2 après la candidature de son compagnon Raphaël Glucksmann",
+   "url": "https://www.tf1info.fr/politique/videos/video-retraite-a-65-ans-hausse-de-la-tva-un-portrait-sombre-de-la-france-malgre-son-retrait-de-la-vie-politique-bruno-le-maire-tente-de-peser-sur-la-presidentielle-30188-2459878.html",
+   "n_members": 62,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 9,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.665,
+   "category": "politique",
+   "terms_left": [
+    "gauche",
+    "incendies",
+    "jt"
+   ],
+   "terms_right": [
+    "candidat",
+    "philippe",
+    "socialiste"
+   ]
+  },
+  {
    "title": "Que vient faire le prince héritier saoudien Mohammed ben Salmane en France ce dimanche et lundi ?",
    "url": "https://www.sudouest.fr/politique/emmanuel-macron-recevra-le-prince-heritier-saoudien-mohammed-ben-salmane-dimanche-et-lundi-30319759.php",
    "n_members": 61,
@@ -782,36 +812,6 @@
     "mohammed ben",
     "mohammed",
     "ben"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : Léa Salamé se retire du 20H de France 2 après la candidature de son compagnon Raphaël Glucksmann",
-   "url": "https://www.tf1info.fr/politique/videos/video-retraite-a-65-ans-hausse-de-la-tva-un-portrait-sombre-de-la-france-malgre-son-retrait-de-la-vie-politique-bruno-le-maire-tente-de-peser-sur-la-presidentielle-30188-2459878.html",
-   "n_members": 61,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 9,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
-    "opinion": 4
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.668,
-   "category": "politique",
-   "terms_left": [
-    "gauche",
-    "incendies",
-    "jt"
-   ],
-   "terms_right": [
-    "candidat",
-    "socialiste",
-    "philippe"
    ]
   },
   {
@@ -883,7 +883,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.413,
+   "divergence": 0.414,
    "category": "économie",
    "terms_left": [
     "qu",
@@ -913,7 +913,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.808,
+   "divergence": 0.809,
    "category": "société",
    "terms_left": [
     "élèves",
@@ -948,7 +948,7 @@
    "terms_left": [
     "judiciaire patrick",
     "quitter",
-    "autorisé quitter"
+    "bruel allégé"
    ],
    "terms_right": [
     "affaire",
@@ -1071,7 +1071,7 @@
   {
    "title": "Saint-Denis : Bally Bagayoko visé par une enquête pour détournement de fonds publics",
    "url": "https://www.liberation.fr/politique/rentree-de-lfi-lete-sous-pression-de-bally-bagayoko-20260821_HGOCOSJMVNEIPAKWDB4ADXVJ24/",
-   "n_members": 41,
+   "n_members": 42,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -1093,8 +1093,8 @@
     "anti-corruption"
    ],
    "terms_right": [
-    "bally bagayoko",
     "bally",
+    "bally bagayoko",
     "conditions"
    ]
   },
