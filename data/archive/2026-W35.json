@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-25T19:08:16+00:00",
+ "generated_at": "2026-08-25T19:54:24+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -97,7 +97,7 @@
   {
    "title": "Présidentielle 2027 : Raphaël Glucksmann annonce sa candidature",
    "url": "https://www.bfmtv.com/politique/parti-socialiste/video-retraites-le-depute-ps-philippe-brun-propose-de-reactiver-un-fonds-de-reserve-public-et-souverain-pour-completer-le-systeme-par-repartition_VN-202608200282.html",
-   "n_members": 125,
+   "n_members": 126,
    "n_sources": 32,
    "counts": {
     "left": 6,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.311,
+   "divergence": 0.316,
    "category": "politique",
    "terms_left": [
     "campagne",
@@ -145,8 +145,8 @@
    "category": "politique",
    "terms_left": [
     "gauche",
-    "écologie",
-    "week-end"
+    "insoumis",
+    "écologie"
    ],
    "terms_right": [
     "jean-luc mélenchon",
@@ -174,9 +174,9 @@
    "divergence": 0.407,
    "category": "politique",
    "terms_left": [
+    "présidentielle",
     "politiques familiales",
-    "politiques",
-    "familiales"
+    "politiques"
    ],
    "terms_right": [
     "adopter",
@@ -247,7 +247,7 @@
   {
    "title": "Près de Paris, l'Arabie saoudite va financer trois parcs d'attractions",
    "url": "https://www.tf1info.fr/societe/videos/video-bientot-un-nouveau-parc-d-attractions-geant-pres-de-paris-62088-2460107.html",
-   "n_members": 61,
+   "n_members": 62,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.34,
+   "divergence": 0.341,
    "category": "économie",
    "terms_left": [
     "financés",
@@ -277,7 +277,7 @@
   {
    "title": "Un conflit commercial aux «effets dévastateurs» : l'administration Trump avertit le Canada contre une escalade dangereuse",
    "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
-   "n_members": 156,
+   "n_members": 157,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -367,7 +367,7 @@
   {
    "title": "Un village de l'Aude, dans le sud de la France, dévasté par une tornade",
    "url": "https://www.lefigaro.fr/meteo/aude-les-images-impressionnantes-d-une-tornade-pres-de-carcassonne-20260824",
-   "n_members": 132,
+   "n_members": 135,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -381,17 +381,17 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.286,
+   "divergence": 0.282,
    "category": "environnement",
    "terms_left": [
     "victimes",
-    "stade",
-    "blessés tornade"
+    "aude village",
+    "stade"
    ],
    "terms_right": [
     "dégâts",
-    "touchées",
-    "après-midi"
+    "après-midi",
+    "touchées"
    ]
   },
   {
@@ -457,7 +457,7 @@
   {
    "title": "Canicules en Europe: cinq signes d'un été en surchauffe",
    "url": "https://www.humanite.fr/monde/allemagne/en-allemagne-sahra-wagenknecht-egerie-de-la-gauche-populiste-allemande-prete-a-sallier-a-lafd",
-   "n_members": 67,
+   "n_members": 68,
    "n_sources": 27,
    "counts": {
     "left": 8,
@@ -471,7 +471,7 @@
    },
    "blindspot_score": -0.231,
    "blindspot_for": null,
-   "divergence": 0.782,
+   "divergence": 0.791,
    "category": "environnement",
    "terms_left": [
     "climatique",
@@ -480,8 +480,8 @@
    ],
    "terms_right": [
     "canicule",
-    "chaleur",
-    "france"
+    "france",
+    "chaleur"
    ]
   },
   {
@@ -725,6 +725,36 @@
    ]
   },
   {
+   "title": "La rentrée hackée",
+   "url": "https://www.lejdd.fr/Societe/secours-populaire-la-chance-dune-journee-de-vacances-181188",
+   "n_members": 66,
+   "n_sources": 24,
+   "counts": {
+    "left": 8,
+    "centre": 9,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": -0.067,
+   "blindspot_for": null,
+   "divergence": 0.796,
+   "category": "société",
+   "terms_left": [
+    "élèves",
+    "mer",
+    "journée"
+   ],
+   "terms_right": [
+    "français",
+    "incendies",
+    "gironde"
+   ]
+  },
+  {
    "title": "Les États-Unis retirent la Syrie de leur liste des pays accusés de soutenir le terrorisme",
    "url": "https://www.lefigaro.fr/conso/la-guerre-au-moyen-orient-fait-bondir-le-prix-de-l-eau-en-bouteille-le-produit-le-plus-achete-par-les-francais-20260819",
    "n_members": 65,
@@ -897,36 +927,6 @@
    ]
   },
   {
-   "title": "Rentrée scolaire : à une semaine du retour en classe, comment aider son enfant à reprendre le rythme ?",
-   "url": "https://www.lejdd.fr/Societe/secours-populaire-la-chance-dune-journee-de-vacances-181188",
-   "n_members": 65,
-   "n_sources": 23,
-   "counts": {
-    "left": 7,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.809,
-   "category": "société",
-   "terms_left": [
-    "élèves",
-    "mer",
-    "journée"
-   ],
-   "terms_right": [
-    "français",
-    "rentrée",
-    "incendies"
-   ]
-  },
-  {
    "title": "Affaire Patrick Bruel: le fils de Gisèle Pelicot s'indigne que les concerts se poursuivent et dénonce le \"silence des hommes\"",
    "url": "https://www.mediapart.fr/journal/france/140826/le-controle-judiciaire-de-patrick-bruel-ete-allege",
    "n_members": 64,
@@ -948,7 +948,7 @@
    "terms_left": [
     "judiciaire patrick",
     "quitter",
-    "bruel allégé"
+    "autorisé quitter"
    ],
    "terms_right": [
     "affaire",
