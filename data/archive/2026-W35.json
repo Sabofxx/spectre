@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-25T04:07:21+00:00",
+ "generated_at": "2026-08-25T05:03:21+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.267,
+   "divergence": 0.269,
    "category": "international",
    "terms_left": [
     "direct",
@@ -60,14 +60,14 @@
    ],
    "terms_right": [
     "états-unis",
-    "détroit",
-    "washington"
+    "washington",
+    "détroit"
    ]
   },
   {
    "title": "Présidentielle 2027 : Raphaël Glucksmann annonce sa candidature",
    "url": "https://www.bfmtv.com/politique/parti-socialiste/video-retraites-le-depute-ps-philippe-brun-propose-de-reactiver-un-fonds-de-reserve-public-et-souverain-pour-completer-le-systeme-par-repartition_VN-202608200282.html",
-   "n_members": 116,
+   "n_members": 118,
    "n_sources": 32,
    "counts": {
     "left": 6,
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.309,
+   "divergence": 0.308,
    "category": "politique",
    "terms_left": [
     "campagne",
@@ -91,7 +91,37 @@
    "terms_right": [
     "élection",
     "présidentielle raphaël",
-    "présidentielle"
+    "gauche"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027: à quoi faut-il s'attendre pour le discours de rentrée politique de Jean-Luc Mélenchon aux universités d'été de LFI?",
+   "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
+   "n_members": 197,
+   "n_sources": 31,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.176,
+   "blindspot_for": null,
+   "divergence": 0.577,
+   "category": "politique",
+   "terms_left": [
+    "gauche",
+    "écologie",
+    "week-end"
+   ],
+   "terms_right": [
+    "jean-luc mélenchon",
+    "jean-luc",
+    "candidat"
    ]
   },
   {
@@ -125,39 +155,9 @@
    ]
   },
   {
-   "title": "Présidentielle 2027: à quoi faut-il s'attendre pour le discours de rentrée politique de Jean-Luc Mélenchon aux universités d'été de LFI?",
-   "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
-   "n_members": 196,
-   "n_sources": 31,
-   "counts": {
-    "left": 7,
-    "centre": 14,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 9,
-    "opinion": 5
-   },
-   "blindspot_score": 0.176,
-   "blindspot_for": null,
-   "divergence": 0.577,
-   "category": "politique",
-   "terms_left": [
-    "gauche",
-    "écologie",
-    "week-end"
-   ],
-   "terms_right": [
-    "jean-luc mélenchon",
-    "jean-luc",
-    "candidat"
-   ]
-  },
-  {
    "title": "Frappes meurtrières contre un centre commercial : Emmanuel Macron annonce l'envoi de missiles \"intercepteurs\" à l'Ukraine",
    "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/08/20/nuit-meurtriere-a-kiev-16-morts-et-une-cinquantaine-de-blesses-apres-des-frappes-russes",
-   "n_members": 539,
+   "n_members": 541,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.269,
+   "divergence": 0.271,
    "category": "international",
    "terms_left": [
     "direct",
@@ -185,9 +185,9 @@
    ]
   },
   {
-   "title": "Une semaine après sa première sortie hors de l'ISS, Sophie Adenot retourne dans l'espace",
+   "title": "Espace. Sophie Adenot : comment suivre la nouvelle sortie spatiale de l'astronaute française ce mardi ?",
    "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 185,
+   "n_members": 188,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -217,7 +217,7 @@
   {
    "title": "Faute d'accord, le Canada subit de nouveaux droits de douane américains punitifs",
    "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
-   "n_members": 131,
+   "n_members": 133,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.357,
+   "divergence": 0.352,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -277,7 +277,7 @@
   {
    "title": "Philippe Bouvard, animateur historique des \"Grosses Têtes\", est décédé à 96 ans",
    "url": "https://www.leprogres.fr/societe/2026/08/24/ex-animateur-vedette-des-i-grosses-tetes-i-philippe-bouvard-a-tire-sa-reverence",
-   "n_members": 95,
+   "n_members": 96,
    "n_sources": 27,
    "counts": {
     "left": 8,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.19,
+   "divergence": 0.191,
    "category": "culture",
    "terms_left": [
     "médias",
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.659,
+   "divergence": 0.66,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -367,7 +367,7 @@
   {
    "title": "Sécheresse : les producteurs français de pommes de terre redoutent une chute de la récolte record",
    "url": "https://www.ladepeche.fr/2026/08/14/pour-nous-la-canicule-est-le-moins-pire-des-fleaux-dans-le-vignoble-de-fronton-pres-de-toulouse-contre-toute-attente-les-vendanges-sannoncent-superbes-13509253.php",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -381,16 +381,16 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.677,
+   "divergence": 0.678,
    "category": "environnement",
    "terms_left": [
     "face",
     "soutien",
-    "situation"
+    "canicules"
    ],
    "terms_right": [
-    "pommes",
     "terre",
+    "pommes",
     "pommes terre"
    ]
   },
@@ -583,7 +583,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.412,
+   "divergence": 0.408,
    "category": "économie",
    "terms_left": [
     "qu",
@@ -593,7 +593,7 @@
    "terms_right": [
     "fournitures",
     "année",
-    "euros"
+    "fin"
    ]
   },
   {
@@ -643,7 +643,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.818,
+   "divergence": 0.815,
    "category": "société",
    "terms_left": [
     "élèves",
@@ -741,7 +741,7 @@
   {
    "title": "Canicules en Europe : cinq signes d'un été en surchauffe",
    "url": "https://www.humanite.fr/monde/allemagne/en-allemagne-sahra-wagenknecht-egerie-de-la-gauche-populiste-allemande-prete-a-sallier-a-lafd",
-   "n_members": 48,
+   "n_members": 50,
    "n_sources": 23,
    "counts": {
     "left": 8,
@@ -929,7 +929,7 @@
    "terms_right": [
     "conditions",
     "maire lfi",
-    "bally"
+    "bally bagayoko"
    ]
   },
   {
@@ -949,7 +949,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.462,
+   "divergence": 0.463,
    "category": "international",
    "terms_left": [
     "paillote",
@@ -987,7 +987,7 @@
   {
    "title": "L’interdiction du portable au lycée « pourra être effective dès la rentrée » scolaire, annonce le gouvernement",
    "url": "https://www.franceinfo.fr/societe/education/les-personnels-de-l-education-nationale-regrettent-d-avoir-ete-avertis-beaucoup-trop-tard-pour-bannir-les-telephones-portables-des-lycees-des-la-rentree_8157302.html",
-   "n_members": 34,
+   "n_members": 35,
    "n_sources": 21,
    "counts": {
     "left": 4,
@@ -1001,12 +1001,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.447,
+   "divergence": 0.446,
    "category": "société",
    "terms_left": [
     "mesure",
-    "semaine",
-    "prochaine"
+    "interdiction réseaux",
+    "interdiction téléphone"
    ],
    "terms_right": [
     "lycées",
