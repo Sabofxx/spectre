@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-25T02:13:20+00:00",
+ "generated_at": "2026-08-25T03:25:55+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.578,
+   "divergence": 0.577,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -151,7 +151,7 @@
    "terms_right": [
     "jean-luc mélenchon",
     "jean-luc",
-    "mélenchon"
+    "candidat"
    ]
   },
   {
@@ -185,9 +185,9 @@
    ]
   },
   {
-   "title": "Espace. Pourquoi Sophie Adenot va effectuer une nouvelle sortie spatiale ce mardi",
+   "title": "Une semaine après sa première sortie hors de l'ISS, Sophie Adenot retourne dans l'espace",
    "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 183,
+   "n_members": 184,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -217,7 +217,7 @@
   {
    "title": "Faute d'accord, le Canada subit de nouveaux droits de douane américains punitifs",
    "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
-   "n_members": 130,
+   "n_members": 131,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.446,
+   "divergence": 0.445,
    "category": "international",
    "terms_left": [
     "rdc épidémie",
@@ -545,6 +545,28 @@
    ]
   },
   {
+   "title": "Des résultats « prometteurs pour le domaine du mélanome et du cancer en général » : pourquoi le vaccin n’a jamais semblé autant à portée de main",
+   "url": "https://www.sudouest.fr/sante/cancer-de-la-peau-moderna-et-merck-annoncent-les-resultats-positifs-d-un-vaccin-experimental-30304119.php",
+   "n_members": 33,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.414,
+   "category": "société",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Rentrée scolaire : malgré la baisse des prix affichée, la facture des fournitures reste lourde pour les parents",
    "url": "https://www.franceinfo.fr/culture/livres/la-rentree-litteraire/rentree-litteraire-2026-quelque-461-romans-pour-une-reprise-resolument-variee_8146112.html",
    "n_members": 72,
@@ -596,7 +618,7 @@
    "terms_left": [
     "judiciaire patrick",
     "quitter",
-    "bruel allégé"
+    "autorisé quitter"
    ],
    "terms_right": [
     "affaire",
@@ -907,7 +929,7 @@
    "terms_right": [
     "conditions",
     "maire lfi",
-    "bally"
+    "bally bagayoko"
    ]
   },
   {
@@ -1061,7 +1083,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.658,
+   "divergence": 0.657,
    "category": "sciences-tech",
    "terms_left": [
     "victime cyberattaque",
@@ -1125,36 +1147,6 @@
    "category": "sciences-tech",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Les océans mondiaux ont enregistré samedi un record de température moyenne journalière à 21,1°C",
-   "url": "https://www.tf1info.fr/meteo/verif-el-nino-va-geler-la-france-apres-un-ete-caniculaire-faut-il-vraiment-s-attendre-a-un-hiver-glacial-2459126.html",
-   "n_members": 42,
-   "n_sources": 20,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.111,
-   "blindspot_for": null,
-   "divergence": 0.435,
-   "category": "environnement",
-   "terms_left": [
-    "précédent",
-    "observatoire européen",
-    "niveau"
-   ],
-   "terms_right": [
-    "océans mondiaux",
-    "mondiaux",
-    "france"
-   ]
   }
  ]
 }
