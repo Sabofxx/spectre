@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-25T06:28:18+00:00",
+ "generated_at": "2026-08-25T07:25:10+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Guerre au Moyen-Orient : Washington assure vouloir isoler économiquement Téhéran pour faire chuter le gouvernement",
    "url": "https://www.europe1.fr/international/moyen-orient-donald-trump-menace-de-bombarder-oman-sil-entrave-un-accord-sur-le-detroit-dormuz-1020452",
-   "n_members": 380,
+   "n_members": 379,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -67,7 +67,7 @@
   {
    "title": "Présidentielle 2027 : Raphaël Glucksmann annonce sa candidature",
    "url": "https://www.bfmtv.com/politique/parti-socialiste/video-retraites-le-depute-ps-philippe-brun-propose-de-reactiver-un-fonds-de-reserve-public-et-souverain-pour-completer-le-systeme-par-repartition_VN-202608200282.html",
-   "n_members": 118,
+   "n_members": 121,
    "n_sources": 32,
    "counts": {
     "left": 6,
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.308,
+   "divergence": 0.307,
    "category": "politique",
    "terms_left": [
     "campagne",
@@ -89,8 +89,8 @@
     "candidature raphaël"
    ],
    "terms_right": [
-    "élection",
     "présidentielle raphaël",
+    "élection",
     "gauche"
    ]
   },
@@ -157,7 +157,7 @@
   {
    "title": "Frappes meurtrières contre un centre commercial : Emmanuel Macron annonce l'envoi de missiles \"intercepteurs\" à l'Ukraine",
    "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/08/20/nuit-meurtriere-a-kiev-16-morts-et-une-cinquantaine-de-blesses-apres-des-frappes-russes",
-   "n_members": 544,
+   "n_members": 545,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.27,
+   "divergence": 0.271,
    "category": "international",
    "terms_left": [
     "direct",
@@ -187,7 +187,7 @@
   {
    "title": "Espace. Sophie Adenot : comment suivre la nouvelle sortie spatiale de l'astronaute française ce mardi ?",
    "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 192,
+   "n_members": 194,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.166,
+   "divergence": 0.167,
    "category": "sciences-tech",
    "terms_left": [
     "française sortir",
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.427,
+   "divergence": 0.423,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -247,7 +247,7 @@
   {
    "title": "Faute d'accord, le Canada subit de nouveaux droits de douane américains punitifs",
    "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
-   "n_members": 134,
+   "n_members": 135,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.366,
+   "divergence": 0.361,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -270,8 +270,8 @@
    ],
    "terms_right": [
     "commercial",
-    "états-unis",
-    "veut"
+    "annonce",
+    "états-unis"
    ]
   },
   {
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.405,
+   "divergence": 0.406,
    "category": "société",
    "terms_left": [
     "médicales gouvernement",
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.6,
+   "divergence": 0.601,
    "category": "économie",
    "terms_left": [
     "gouvernement",
@@ -678,7 +678,7 @@
    "terms_left": [
     "judiciaire patrick",
     "quitter",
-    "bruel allégé"
+    "autorisé quitter"
    ],
    "terms_right": [
     "affaire",
@@ -703,17 +703,47 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.818,
+   "divergence": 0.809,
    "category": "société",
    "terms_left": [
     "élèves",
-    "étrangers",
-    "romans"
+    "secours",
+    "populaire"
    ],
    "terms_right": [
     "vacances",
     "français",
     "incendies"
+   ]
+  },
+  {
+   "title": "Les États-Unis retirent la Syrie de leur liste des pays accusés de soutenir le terrorisme",
+   "url": "https://www.lefigaro.fr/conso/la-guerre-au-moyen-orient-fait-bondir-le-prix-de-l-eau-en-bouteille-le-produit-le-plus-achete-par-les-francais-20260819",
+   "n_members": 63,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 6,
+    "opinion": 1
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.825,
+   "category": "international",
+   "terms_left": [
+    "année",
+    "pays-bas",
+    "syrie"
+   ],
+   "terms_right": [
+    "pays",
+    "prix",
+    "euros"
    ]
   },
   {
@@ -771,7 +801,7 @@
   {
    "title": "Canicules en Europe : cinq signes d'un été en surchauffe",
    "url": "https://www.humanite.fr/monde/allemagne/en-allemagne-sahra-wagenknecht-egerie-de-la-gauche-populiste-allemande-prete-a-sallier-a-lafd",
-   "n_members": 50,
+   "n_members": 51,
    "n_sources": 23,
    "counts": {
     "left": 8,
@@ -796,6 +826,36 @@
     "saison",
     "fois",
     "surfaces brûlées"
+   ]
+  },
+  {
+   "title": "L’interdiction du portable au lycée « pourra être effective dès la rentrée » scolaire, annonce le gouvernement",
+   "url": "https://www.franceinfo.fr/societe/education/les-personnels-de-l-education-nationale-regrettent-d-avoir-ete-avertis-beaucoup-trop-tard-pour-bannir-les-telephones-portables-des-lycees-des-la-rentree_8157302.html",
+   "n_members": 39,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.449,
+   "category": "société",
+   "terms_left": [
+    "mesure",
+    "semaine",
+    "interdiction réseaux"
+   ],
+   "terms_right": [
+    "lycées",
+    "portables lycées",
+    "interdiction téléphones"
    ]
   },
   {
@@ -845,12 +905,12 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.208,
+   "divergence": 0.211,
    "category": "faits-divers",
    "terms_left": [
-    "haine",
-    "résidente",
-    "bellina homme"
+    "passé",
+    "détention",
+    "haine"
    ],
    "terms_right": [
     "corps",
@@ -881,36 +941,6 @@
    "terms_right": []
   },
   {
-   "title": "Guerre au Moyen-Orient : plusieurs pays européens, dont l’Allemagne, réclament une taxe sur les superprofits pétroliers",
-   "url": "https://www.lefigaro.fr/conso/la-guerre-au-moyen-orient-fait-bondir-le-prix-de-l-eau-en-bouteille-le-produit-le-plus-achete-par-les-francais-20260819",
-   "n_members": 62,
-   "n_sources": 22,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 6,
-    "opinion": 0
-   },
-   "blindspot_score": 0.111,
-   "blindspot_for": null,
-   "divergence": 0.856,
-   "category": "international",
-   "terms_left": [
-    "syrie",
-    "année",
-    "pays-bas"
-   ],
-   "terms_right": [
-    "prix",
-    "euros",
-    "pays"
-   ]
-  },
-  {
    "title": "Ceuta : un réseau de passeurs facturant jusqu'à 9.000 euros la traversée démantelé",
    "url": "https://www.rfi.fr/fr/afrique/20260817-ceuta-un-camerounais-arriv%C3%A9-dans-l-enclave-espagnole-t%C3%A9moigne-sur-ses-conditions-de-vie",
    "n_members": 55,
@@ -931,6 +961,36 @@
    "category": "international",
    "terms_left": [],
    "terms_right": []
+  },
+  {
+   "title": "\"Tout le village est à reconstruire\": la tornade dans l'Aude a fait 41 blessés, 300 habitations ont été touchées",
+   "url": "https://www.lefigaro.fr/meteo/aude-les-images-impressionnantes-d-une-tornade-pres-de-carcassonne-20260824",
+   "n_members": 55,
+   "n_sources": 22,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 0
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.424,
+   "category": "environnement",
+   "terms_left": [
+    "blessés",
+    "victimes",
+    "aude village"
+   ],
+   "terms_right": [
+    "aude",
+    "après-midi",
+    "dégâts"
+   ]
   },
   {
    "title": "Ukraine : Zelensky face au front intérieur",
@@ -963,39 +1023,9 @@
    ]
   },
   {
-   "title": "L’interdiction du portable au lycée « pourra être effective dès la rentrée » scolaire, annonce le gouvernement",
-   "url": "https://www.franceinfo.fr/societe/education/les-personnels-de-l-education-nationale-regrettent-d-avoir-ete-avertis-beaucoup-trop-tard-pour-bannir-les-telephones-portables-des-lycees-des-la-rentree_8157302.html",
-   "n_members": 36,
-   "n_sources": 22,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.447,
-   "category": "société",
-   "terms_left": [
-    "mesure",
-    "interdiction réseaux",
-    "interdiction téléphone"
-   ],
-   "terms_right": [
-    "lycées",
-    "portables lycées",
-    "interdiction téléphones"
-   ]
-  },
-  {
-   "title": "Bally Bagayoko visé par une enquête du PNF sur les conditions de son emploi à la RATP",
+   "title": "Bally Bagayoko, maire LFI de Saint-Denis, visé par une enquête pour détournement de fonds publics",
    "url": "https://www.liberation.fr/politique/rentree-de-lfi-lete-sous-pression-de-bally-bagayoko-20260821_HGOCOSJMVNEIPAKWDB4ADXVJ24/",
-   "n_members": 27,
+   "n_members": 31,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -1009,7 +1039,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.195,
+   "divergence": 0.196,
    "category": "politique",
    "terms_left": [
     "association",
@@ -1017,9 +1047,9 @@
     "anti-corruption"
    ],
    "terms_right": [
-    "conditions",
-    "maire lfi",
-    "bally bagayoko"
+    "bally",
+    "bally bagayoko",
+    "conditions"
    ]
   },
   {
@@ -1133,28 +1163,6 @@
     "chaleur",
     "vague chaleur"
    ]
-  },
-  {
-   "title": "Mort d’Hayden Panettiere : le rôle de son petit ami en question, l'enquête se poursuit",
-   "url": "https://www.bfmtv.com/culture/cinema-series/l-actrice-americaine-hayden-panettiere-star-des-series-nashville-et-heroes-est-morte-a-36-ans_AN-202608170047.html",
-   "n_members": 64,
-   "n_sources": 20,
-   "counts": {
-    "left": 5,
-    "centre": 10,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 1
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.295,
-   "category": "culture",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
