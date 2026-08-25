@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-25T15:13:36+00:00",
+ "generated_at": "2026-08-25T16:08:14+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -67,7 +67,7 @@
   {
    "title": "Guerre au Moyen-Orient : Washington assure vouloir isoler économiquement Téhéran pour faire chuter le gouvernement",
    "url": "https://www.europe1.fr/international/moyen-orient-donald-trump-menace-de-bombarder-oman-sil-entrave-un-accord-sur-le-detroit-dormuz-1020452",
-   "n_members": 383,
+   "n_members": 382,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.587,
+   "divergence": 0.588,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.271,
+   "divergence": 0.272,
    "category": "international",
    "terms_left": [
     "direct",
@@ -210,8 +210,8 @@
    ],
    "terms_right": [
     "ukraine morts",
-    "nouveaux",
-    "enfants"
+    "enfants",
+    "missiles"
    ]
   },
   {
@@ -245,6 +245,66 @@
    ]
   },
   {
+   "title": "Paris annonce la construction de trois parcs d'attractions près de Paris, financés par l'Arabie saoudite",
+   "url": "https://www.tf1info.fr/societe/videos/video-bientot-un-nouveau-parc-d-attractions-geant-pres-de-paris-62088-2460107.html",
+   "n_members": 55,
+   "n_sources": 30,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 11,
+    "opinion": 4
+   },
+   "blindspot_score": 0.222,
+   "blindspot_for": null,
+   "divergence": 0.316,
+   "category": "économie",
+   "terms_left": [
+    "financés",
+    "macron",
+    "vu"
+   ],
+   "terms_right": [
+    "mangas",
+    "univers",
+    "cergy-pontoise"
+   ]
+  },
+  {
+   "title": "Un conflit commercial aux «effets dévastateurs» : l'administration Trump avertit le Canada contre une escalade dangereuse",
+   "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
+   "n_members": 149,
+   "n_sources": 29,
+   "counts": {
+    "left": 8,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 11,
+    "opinion": 2
+   },
+   "blindspot_score": 0.059,
+   "blindspot_for": null,
+   "divergence": 0.351,
+   "category": "international",
+   "terms_left": [
+    "guerre",
+    "guerre commerciale",
+    "ministre canadien"
+   ],
+   "terms_right": [
+    "états-unis",
+    "commercial",
+    "annonce"
+   ]
+  },
+  {
    "title": "Présidentielle: Édouard Philippe affiche ses ambitions pour 2027 lors d'un déplacement à Mayotte",
    "url": "https://www.20minutes.fr/societe/4239546-20260817-info-midi-2-minutes-star-eteint-hollywood-lecornu-hue-gironde-roi-leon",
    "n_members": 148,
@@ -261,7 +321,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.397,
+   "divergence": 0.391,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -272,36 +332,6 @@
     "édouard philippe",
     "édouard",
     "déplacement"
-   ]
-  },
-  {
-   "title": "Un conflit commercial aux «effets dévastateurs» : l'administration Trump avertit le Canada contre une escalade dangereuse",
-   "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
-   "n_members": 146,
-   "n_sources": 29,
-   "counts": {
-    "left": 8,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 11,
-    "opinion": 2
-   },
-   "blindspot_score": 0.059,
-   "blindspot_for": null,
-   "divergence": 0.35,
-   "category": "international",
-   "terms_left": [
-    "guerre",
-    "guerre commerciale",
-    "canadien"
-   ],
-   "terms_right": [
-    "états-unis",
-    "commercial",
-    "annonce"
    ]
   },
   {
@@ -381,7 +411,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.668,
+   "divergence": 0.656,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -392,6 +422,36 @@
     "bruno maire",
     "bruno",
     "maire"
+   ]
+  },
+  {
+   "title": "Canicules en Europe: cinq signes d'un été en surchauffe",
+   "url": "https://www.humanite.fr/monde/allemagne/en-allemagne-sahra-wagenknecht-egerie-de-la-gauche-populiste-allemande-prete-a-sallier-a-lafd",
+   "n_members": 65,
+   "n_sources": 27,
+   "counts": {
+    "left": 8,
+    "centre": 14,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": -0.231,
+   "blindspot_for": null,
+   "divergence": 0.782,
+   "category": "environnement",
+   "terms_left": [
+    "climatique",
+    "changement",
+    "changement climatique"
+   ],
+   "terms_right": [
+    "canicule",
+    "chaleur",
+    "france"
    ]
   },
   {
@@ -427,7 +487,7 @@
   {
    "title": "Un village de l'Aude, dans le sud de la France, dévasté par une tornade",
    "url": "https://www.lefigaro.fr/meteo/aude-les-images-impressionnantes-d-une-tornade-pres-de-carcassonne-20260824",
-   "n_members": 118,
+   "n_members": 124,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -441,47 +501,17 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.308,
+   "divergence": 0.307,
    "category": "environnement",
    "terms_left": [
     "victimes",
-    "aude village",
-    "blessés"
+    "endommagées",
+    "aude village"
    ],
    "terms_right": [
     "dégâts",
     "touchées",
     "après-midi"
-   ]
-  },
-  {
-   "title": "Canicule : cinq indicateurs d’un été 2026 en surchauffe en Europe",
-   "url": "https://www.humanite.fr/monde/allemagne/en-allemagne-sahra-wagenknecht-egerie-de-la-gauche-populiste-allemande-prete-a-sallier-a-lafd",
-   "n_members": 62,
-   "n_sources": 26,
-   "counts": {
-    "left": 8,
-    "centre": 14,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": -0.333,
-   "blindspot_for": null,
-   "divergence": 0.755,
-   "category": "environnement",
-   "terms_left": [
-    "climatique",
-    "changement",
-    "changement climatique"
-   ],
-   "terms_right": [
-    "canicule",
-    "chaleur",
-    "france"
    ]
   },
   {
@@ -515,36 +545,6 @@
    ]
   },
   {
-   "title": "Près de Paris, l'Arabie saoudite va financer trois parcs d'attractions",
-   "url": "https://www.tf1info.fr/societe/videos/video-bientot-un-nouveau-parc-d-attractions-geant-pres-de-paris-62088-2460107.html",
-   "n_members": 51,
-   "n_sources": 26,
-   "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 10,
-    "opinion": 3
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.317,
-   "category": "économie",
-   "terms_left": [
-    "directs",
-    "emplois directs",
-    "macron"
-   ],
-   "terms_right": [
-    "mangas",
-    "univers",
-    "cergy-pontoise"
-   ]
-  },
-  {
    "title": "Avec \"Fjord\", le cinéaste roumain Cristian Mungiu questionne notre société \"radicalisée et divisée\"",
    "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/dans-fjord-palme-d-or-2026-cristian-mungiu-denonce-les-dangers-de-la-polarisation-a-travers-l-histoire-d-une-famille-roumaine-chretienne-integriste-exilee-en-norvege_8143226.html",
    "n_members": 43,
@@ -564,8 +564,8 @@
    "divergence": 0.433,
    "category": "culture",
    "terms_left": [
-    "mungiu",
     "cristian mungiu",
+    "mungiu",
     "cristian"
    ],
    "terms_right": [
@@ -605,9 +605,9 @@
    ]
   },
   {
-   "title": "Réalisateurs français arrêtés au Togo : le gouvernement affirme que la justice dispose d’« indices graves » contre eux",
+   "title": "Réalisateurs français détenus au Togo : le gouvernement affirme que la justice dispose d'\"indices graves\" à leur encontre",
    "url": "https://www.lemonde.fr/international/article/2026/08/17/repression-en-iran-les-echanges-culturels-francais-dans-le-viseur-du-pouvoir_6747965_3210.html",
-   "n_members": 91,
+   "n_members": 93,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -621,7 +621,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.275,
+   "divergence": 0.263,
    "category": "international",
    "terms_left": [
     "journalistes",
@@ -629,9 +629,9 @@
     "journalistes français"
    ],
    "terms_right": [
-    "iran",
-    "gouvernement",
-    "france"
+    "réalisateurs",
+    "mois",
+    "pays"
    ]
   },
   {
@@ -651,17 +651,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.407,
+   "divergence": 0.408,
    "category": "société",
    "terms_left": [
     "médicales gouvernement",
     "cgt",
-    "économies"
+    "france cgt"
    ],
    "terms_right": [
+    "gouvernement",
     "secteurs",
-    "face",
-    "gouvernement"
+    "face"
    ]
   },
   {
@@ -695,9 +695,9 @@
    ]
   },
   {
-   "title": "L’interdiction du portable au lycée « pourra être effective dès la rentrée » scolaire, annonce le gouvernement",
+   "title": "L'interdiction des téléphones portables dans les lycées \"pourra être effective dès la rentrée\", annonce le gouvernement",
    "url": "https://www.franceinfo.fr/societe/education/les-personnels-de-l-education-nationale-regrettent-d-avoir-ete-avertis-beaucoup-trop-tard-pour-bannir-les-telephones-portables-des-lycees-des-la-rentree_8157302.html",
-   "n_members": 52,
+   "n_members": 55,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -711,7 +711,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.45,
+   "divergence": 0.446,
    "category": "société",
    "terms_left": [
     "mesure",
@@ -722,6 +722,36 @@
     "lycées",
     "interdiction téléphones",
     "portables lycées"
+   ]
+  },
+  {
+   "title": "Les États-Unis retirent la Syrie de leur liste des pays accusés de soutenir le terrorisme",
+   "url": "https://www.lefigaro.fr/conso/la-guerre-au-moyen-orient-fait-bondir-le-prix-de-l-eau-en-bouteille-le-produit-le-plus-achete-par-les-francais-20260819",
+   "n_members": 65,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.791,
+   "category": "international",
+   "terms_left": [
+    "année",
+    "pays-bas",
+    "syrie"
+   ],
+   "terms_right": [
+    "prix",
+    "euros",
+    "états-unis"
    ]
   },
   {
@@ -787,7 +817,7 @@
   {
    "title": "Que vient faire le prince héritier saoudien Mohammed ben Salmane en France ce dimanche et lundi ?",
    "url": "https://www.sudouest.fr/politique/emmanuel-macron-recevra-le-prince-heritier-saoudien-mohammed-ben-salmane-dimanche-et-lundi-30319759.php",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 24,
    "counts": {
     "left": 7,
@@ -853,7 +883,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.411,
+   "divergence": 0.412,
    "category": "économie",
    "terms_left": [
     "qu",
@@ -888,42 +918,12 @@
    "terms_left": [
     "judiciaire patrick",
     "quitter",
-    "bruel allégé"
+    "autorisé quitter"
    ],
    "terms_right": [
     "affaire",
     "patrick bruel",
     "patrick"
-   ]
-  },
-  {
-   "title": "Les États-Unis retirent la Syrie de leur liste des pays accusés de soutenir le terrorisme",
-   "url": "https://www.lefigaro.fr/conso/la-guerre-au-moyen-orient-fait-bondir-le-prix-de-l-eau-en-bouteille-le-produit-le-plus-achete-par-les-francais-20260819",
-   "n_members": 64,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.831,
-   "category": "international",
-   "terms_left": [
-    "année",
-    "pays-bas",
-    "syrie"
-   ],
-   "terms_right": [
-    "pays",
-    "prix",
-    "euros"
    ]
   },
   {
@@ -1011,7 +1011,7 @@
   {
    "title": "«Pas de leçons d'impartialité à recevoir» : Laurent Nuñez répond à Jean-Luc Mélenchon qui accuse des préfets de «procès» contre des députés LFI",
    "url": "https://www.lefigaro.fr/secteur/high-tech/cybersecurite-qu-est-ce-qu-un-systeme-de-bug-bounty-que-l-etat-veut-utiliser-contre-les-piratages-20260820",
-   "n_members": 55,
+   "n_members": 56,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1025,7 +1025,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.847,
+   "divergence": 0.852,
    "category": "politique",
    "terms_left": [
     "extrême",
@@ -1035,7 +1035,7 @@
    "terms_right": [
     "préfets",
     "mélenchon",
-    "jean-luc"
+    "insoumise"
    ]
   },
   {
@@ -1055,7 +1055,7 @@
    },
    "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.58,
+   "divergence": 0.581,
    "category": "société",
    "terms_left": [
     "an",
@@ -1071,7 +1071,7 @@
   {
    "title": "Saint-Denis : Bally Bagayoko visé par une enquête pour détournement de fonds publics",
    "url": "https://www.liberation.fr/politique/rentree-de-lfi-lete-sous-pression-de-bally-bagayoko-20260821_HGOCOSJMVNEIPAKWDB4ADXVJ24/",
-   "n_members": 38,
+   "n_members": 39,
    "n_sources": 23,
    "counts": {
     "left": 5,
