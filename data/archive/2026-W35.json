@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-25T20:54:12+00:00",
+ "generated_at": "2026-08-25T21:19:36+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.407,
+   "divergence": 0.405,
    "category": "politique",
    "terms_left": [
     "présidentielle",
@@ -179,9 +179,9 @@
     "politiques"
    ],
    "terms_right": [
+    "aisés",
     "adopter",
-    "adopter budget",
-    "aisés"
+    "adopter budget"
    ]
   },
   {
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.273,
+   "divergence": 0.274,
    "category": "international",
    "terms_left": [
     "direct",
@@ -217,7 +217,7 @@
   {
    "title": "Sophie Adenot est retournée dans l'espace pour une deuxième sortie extravéhiculaire",
    "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 220,
+   "n_members": 222,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -240,8 +240,8 @@
    ],
    "terms_right": [
     "mission",
-    "achever",
-    "sortie"
+    "vide",
+    "achever"
    ]
   },
   {
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.374,
+   "divergence": 0.373,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -515,6 +515,36 @@
    ]
   },
   {
+   "title": "Que voir au cinéma cette semaine ? Notre sélection critique du mercredi 26 août",
+   "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/dans-fjord-palme-d-or-2026-cristian-mungiu-denonce-les-dangers-de-la-polarisation-a-travers-l-histoire-d-une-famille-roumaine-chretienne-integriste-exilee-en-norvege_8143226.html",
+   "n_members": 54,
+   "n_sources": 27,
+   "counts": {
+    "left": 10,
+    "centre": 9,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 9,
+    "opinion": 7
+   },
+   "blindspot_score": -0.111,
+   "blindspot_for": null,
+   "divergence": 0.446,
+   "category": "culture",
+   "terms_left": [
+    "mungiu",
+    "cristian mungiu",
+    "cristian"
+   ],
+   "terms_right": [
+    "cinéma",
+    "dos",
+    "film"
+   ]
+  },
+  {
    "title": "Sécheresse : les producteurs français de pommes de terre redoutent une chute de la récolte record",
    "url": "https://www.ladepeche.fr/2026/08/14/pour-nous-la-canicule-est-le-moins-pire-des-fleaux-dans-le-vignoble-de-fronton-pres-de-toulouse-contre-toute-attente-les-vendanges-sannoncent-superbes-13509253.php",
    "n_members": 61,
@@ -572,36 +602,6 @@
     "lycées",
     "interdiction téléphones",
     "portables lycées"
-   ]
-  },
-  {
-   "title": "Avec \"Fjord\", le cinéaste roumain Cristian Mungiu questionne notre société \"radicalisée et divisée\"",
-   "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/dans-fjord-palme-d-or-2026-cristian-mungiu-denonce-les-dangers-de-la-polarisation-a-travers-l-histoire-d-une-famille-roumaine-chretienne-integriste-exilee-en-norvege_8143226.html",
-   "n_members": 43,
-   "n_sources": 26,
-   "counts": {
-    "left": 10,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 8,
-    "opinion": 7
-   },
-   "blindspot_score": -0.176,
-   "blindspot_for": null,
-   "divergence": 0.433,
-   "category": "culture",
-   "terms_left": [
-    "mungiu",
-    "cristian mungiu",
-    "cristian"
-   ],
-   "terms_right": [
-    "dos",
-    "cinéma",
-    "cannes"
    ]
   },
   {
@@ -1093,8 +1093,8 @@
     "anti-corruption"
    ],
    "terms_right": [
-    "bally bagayoko",
     "bally",
+    "bally bagayoko",
     "conditions"
    ]
   },
