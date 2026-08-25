@@ -1,13 +1,13 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-25T17:04:47+00:00",
+ "generated_at": "2026-08-25T17:54:26+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Piratage du fisc : les victimes s’organisent pour attaquer l’État après la fuite de leurs données",
    "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 201,
+   "n_members": 202,
    "n_sources": 36,
    "counts": {
     "left": 6,
@@ -125,6 +125,36 @@
    ]
   },
   {
+   "title": "Présidentielle 2027: à quoi faut-il s'attendre pour le discours de rentrée politique de Jean-Luc Mélenchon aux universités d'été de LFI?",
+   "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
+   "n_members": 199,
+   "n_sources": 31,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.176,
+   "blindspot_for": null,
+   "divergence": 0.575,
+   "category": "politique",
+   "terms_left": [
+    "gauche",
+    "écologie",
+    "week-end"
+   ],
+   "terms_right": [
+    "jean-luc mélenchon",
+    "jean-luc",
+    "mélenchon"
+   ]
+  },
+  {
    "title": "Sébastien Lecornu somme les députés de voter \"un budget pour 2027\" faute de quoi le pays risque \"le désordre économique\"",
    "url": "https://www.ouest-france.fr/economie/retraites/mode-de-calcul-trimestres-pour-enfant-que-vont-changer-ces-nouveaux-decrets-sur-la-retraite-des-meres-de-famille-e5f79f04-90d2-11f1-9add-57c399f24235",
    "n_members": 198,
@@ -155,39 +185,9 @@
    ]
   },
   {
-   "title": "Présidentielle 2027: à quoi faut-il s'attendre pour le discours de rentrée politique de Jean-Luc Mélenchon aux universités d'été de LFI?",
-   "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
-   "n_members": 198,
-   "n_sources": 31,
-   "counts": {
-    "left": 7,
-    "centre": 14,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 9,
-    "opinion": 5
-   },
-   "blindspot_score": 0.176,
-   "blindspot_for": null,
-   "divergence": 0.588,
-   "category": "politique",
-   "terms_left": [
-    "gauche",
-    "écologie",
-    "week-end"
-   ],
-   "terms_right": [
-    "jean-luc mélenchon",
-    "jean-luc",
-    "mélenchon"
-   ]
-  },
-  {
-   "title": "Frappes meurtrières contre un centre commercial : Emmanuel Macron annonce l'envoi de missiles \"intercepteurs\" à l'Ukraine",
+   "title": "Guerre en Ukraine: deux enfants tués dans le sud de la Russie par une frappe de drones ukrainiens",
    "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/08/20/nuit-meurtriere-a-kiev-16-morts-et-une-cinquantaine-de-blesses-apres-des-frappes-russes",
-   "n_members": 545,
+   "n_members": 543,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.273,
+   "divergence": 0.275,
    "category": "international",
    "terms_left": [
     "direct",
@@ -245,9 +245,9 @@
    ]
   },
   {
-   "title": "Paris annonce la construction de trois parcs d'attractions près de Paris, financés par l'Arabie saoudite",
+   "title": "Près de Paris, l'Arabie saoudite va financer trois parcs d'attractions",
    "url": "https://www.tf1info.fr/societe/videos/video-bientot-un-nouveau-parc-d-attractions-geant-pres-de-paris-62088-2460107.html",
-   "n_members": 58,
+   "n_members": 61,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.323,
+   "divergence": 0.34,
    "category": "économie",
    "terms_left": [
     "financés",
@@ -277,7 +277,7 @@
   {
    "title": "Un conflit commercial aux «effets dévastateurs» : l'administration Trump avertit le Canada contre une escalade dangereuse",
    "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
-   "n_members": 154,
+   "n_members": 155,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -291,12 +291,12 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.345,
+   "divergence": 0.344,
    "category": "international",
    "terms_left": [
     "guerre commerciale",
     "guerre",
-    "ministre canadien"
+    "commerciale"
    ],
    "terms_right": [
     "états-unis",
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.389,
+   "divergence": 0.378,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -331,13 +331,13 @@
    "terms_right": [
     "édouard philippe",
     "édouard",
-    "déplacement"
+    "lfi"
    ]
   },
   {
    "title": "Philippe Bouvard, animateur historique des \"Grosses Têtes\", est décédé à 96 ans",
    "url": "https://www.leprogres.fr/societe/2026/08/24/ex-animateur-vedette-des-i-grosses-tetes-i-philippe-bouvard-a-tire-sa-reverence",
-   "n_members": 102,
+   "n_members": 103,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.189,
+   "divergence": 0.19,
    "category": "culture",
    "terms_left": [
     "médias",
@@ -397,7 +397,7 @@
   {
    "title": "Un village de l'Aude, dans le sud de la France, dévasté par une tornade",
    "url": "https://www.lefigaro.fr/meteo/aude-les-images-impressionnantes-d-une-tornade-pres-de-carcassonne-20260824",
-   "n_members": 129,
+   "n_members": 131,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -411,7 +411,7 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.287,
+   "divergence": 0.286,
    "category": "environnement",
    "terms_left": [
     "victimes",
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.662,
+   "divergence": 0.669,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -457,7 +457,7 @@
   {
    "title": "Canicules en Europe: cinq signes d'un été en surchauffe",
    "url": "https://www.humanite.fr/monde/allemagne/en-allemagne-sahra-wagenknecht-egerie-de-la-gauche-populiste-allemande-prete-a-sallier-a-lafd",
-   "n_members": 66,
+   "n_members": 67,
    "n_sources": 27,
    "counts": {
     "left": 8,
@@ -505,7 +505,7 @@
    "category": "international",
    "terms_left": [
     "accusée",
-    "californie",
+    "ancien",
     "accusée appâté"
    ],
    "terms_right": [
@@ -697,7 +697,7 @@
   {
    "title": "L'interdiction des téléphones portables dans les lycées \"pourra être effective dès la rentrée\", annonce le gouvernement",
    "url": "https://www.franceinfo.fr/societe/education/les-personnels-de-l-education-nationale-regrettent-d-avoir-ete-avertis-beaucoup-trop-tard-pour-bannir-les-telephones-portables-des-lycees-des-la-rentree_8157302.html",
-   "n_members": 56,
+   "n_members": 58,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -711,7 +711,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.451,
+   "divergence": 0.452,
    "category": "société",
    "terms_left": [
     "mesure",
@@ -1071,7 +1071,7 @@
   {
    "title": "Saint-Denis : Bally Bagayoko visé par une enquête pour détournement de fonds publics",
    "url": "https://www.liberation.fr/politique/rentree-de-lfi-lete-sous-pression-de-bally-bagayoko-20260821_HGOCOSJMVNEIPAKWDB4ADXVJ24/",
-   "n_members": 39,
+   "n_members": 40,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -1085,7 +1085,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.203,
+   "divergence": 0.208,
    "category": "politique",
    "terms_left": [
     "association",
