@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-25T05:56:21+00:00",
+ "generated_at": "2026-08-25T06:28:18+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.244,
+   "divergence": 0.245,
    "category": "sciences-tech",
    "terms_left": [
-    "crise",
     "direction",
-    "fisc sébastien"
+    "crise",
+    "finances"
    ],
    "terms_right": [
     "données",
@@ -37,7 +37,7 @@
   {
    "title": "Guerre au Moyen-Orient : Washington assure vouloir isoler économiquement Téhéran pour faire chuter le gouvernement",
    "url": "https://www.europe1.fr/international/moyen-orient-donald-trump-menace-de-bombarder-oman-sil-entrave-un-accord-sur-le-detroit-dormuz-1020452",
-   "n_members": 383,
+   "n_members": 380,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.269,
+   "divergence": 0.268,
    "category": "international",
    "terms_left": [
     "direct",
@@ -60,8 +60,8 @@
    ],
    "terms_right": [
     "états-unis",
-    "washington",
-    "détroit"
+    "détroit",
+    "ormuz"
    ]
   },
   {
@@ -187,7 +187,7 @@
   {
    "title": "Espace. Sophie Adenot : comment suivre la nouvelle sortie spatiale de l'astronaute française ce mardi ?",
    "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 189,
+   "n_members": 192,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -215,6 +215,36 @@
    ]
   },
   {
+   "title": "DIRECT. Présidentielle: Édouard Philippe répond à Jean-Luc Mélenchon sur l'immigration et l'appelle à \"venir\" à Mayotte",
+   "url": "https://www.20minutes.fr/societe/4239546-20260817-info-midi-2-minutes-star-eteint-hollywood-lecornu-hue-gironde-roi-leon",
+   "n_members": 147,
+   "n_sources": 29,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.427,
+   "category": "politique",
+   "terms_left": [
+    "edouard",
+    "edouard philippe",
+    "mayotte edouard"
+   ],
+   "terms_right": [
+    "édouard philippe",
+    "édouard",
+    "déplacement"
+   ]
+  },
+  {
    "title": "Faute d'accord, le Canada subit de nouveaux droits de douane américains punitifs",
    "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
    "n_members": 134,
@@ -231,12 +261,12 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.359,
+   "divergence": 0.366,
    "category": "international",
    "terms_left": [
     "guerre",
     "guerre commerciale",
-    "surtaxes"
+    "canadien"
    ],
    "terms_right": [
     "commercial",
@@ -531,7 +561,7 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.601,
+   "divergence": 0.6,
    "category": "économie",
    "terms_left": [
     "gouvernement",
@@ -561,7 +591,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.311,
+   "divergence": 0.312,
    "category": "international",
    "terms_left": [
     "économiques",
@@ -673,7 +703,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.815,
+   "divergence": 0.818,
    "category": "société",
    "terms_left": [
     "élèves",
@@ -933,6 +963,36 @@
    ]
   },
   {
+   "title": "L’interdiction du portable au lycée « pourra être effective dès la rentrée » scolaire, annonce le gouvernement",
+   "url": "https://www.franceinfo.fr/societe/education/les-personnels-de-l-education-nationale-regrettent-d-avoir-ete-avertis-beaucoup-trop-tard-pour-bannir-les-telephones-portables-des-lycees-des-la-rentree_8157302.html",
+   "n_members": 36,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.447,
+   "category": "société",
+   "terms_left": [
+    "mesure",
+    "interdiction réseaux",
+    "interdiction téléphone"
+   ],
+   "terms_right": [
+    "lycées",
+    "portables lycées",
+    "interdiction téléphones"
+   ]
+  },
+  {
    "title": "Bally Bagayoko visé par une enquête du PNF sur les conditions de son emploi à la RATP",
    "url": "https://www.liberation.fr/politique/rentree-de-lfi-lete-sous-pression-de-bally-bagayoko-20260821_HGOCOSJMVNEIPAKWDB4ADXVJ24/",
    "n_members": 27,
@@ -959,7 +1019,7 @@
    "terms_right": [
     "conditions",
     "maire lfi",
-    "bally"
+    "bally bagayoko"
    ]
   },
   {
@@ -1031,7 +1091,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.435,
+   "divergence": 0.434,
    "category": "environnement",
    "terms_left": [
     "précédent",
@@ -1042,36 +1102,6 @@
     "océans mondiaux",
     "mondiaux",
     "france"
-   ]
-  },
-  {
-   "title": "L’interdiction du portable au lycée « pourra être effective dès la rentrée » scolaire, annonce le gouvernement",
-   "url": "https://www.franceinfo.fr/societe/education/les-personnels-de-l-education-nationale-regrettent-d-avoir-ete-avertis-beaucoup-trop-tard-pour-bannir-les-telephones-portables-des-lycees-des-la-rentree_8157302.html",
-   "n_members": 35,
-   "n_sources": 21,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.446,
-   "category": "société",
-   "terms_left": [
-    "mesure",
-    "interdiction réseaux",
-    "interdiction téléphone"
-   ],
-   "terms_right": [
-    "lycées",
-    "portables lycées",
-    "interdiction téléphones"
    ]
   },
   {
@@ -1125,36 +1155,6 @@
    "category": "culture",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "TikTok paiera 400 millions de dollars pour solder des accusations de collecte illégale de données d’enfants américains",
-   "url": "https://www.leparisien.fr/high-tech/cyberattaques-en-serie-la-france-est-elle-plus-attaquee-que-dautres-pays-ou-plus-nulle-18-08-2026-GMAAPI7WZZG4VHLKSSTI4UA7IA.php",
-   "n_members": 61,
-   "n_sources": 20,
-   "counts": {
-    "left": 3,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 1
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.642,
-   "category": "sciences-tech",
-   "terms_left": [
-    "victime cyberattaque",
-    "cyberattaque",
-    "victime"
-   ],
-   "terms_right": [
-    "france",
-    "monde",
-    "pays"
-   ]
   }
  ]
 }
