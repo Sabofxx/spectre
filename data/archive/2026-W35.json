@@ -1,13 +1,13 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-26T11:55:52+00:00",
+ "generated_at": "2026-08-26T12:30:38+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Piratage du fisc : les victimes s’organisent pour attaquer l’État après la fuite de leurs données",
    "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 202,
+   "n_members": 203,
    "n_sources": 36,
    "counts": {
     "left": 6,
@@ -30,8 +30,8 @@
    ],
    "terms_right": [
     "impôts",
-    "cyberattaque",
-    "dgfip"
+    "dgfip",
+    "cyberattaque"
    ]
   },
   {
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.308,
+   "divergence": 0.309,
    "category": "politique",
    "terms_left": [
     "campagne",
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.409,
+   "divergence": 0.42,
    "category": "politique",
    "terms_left": [
     "présidentielle",
@@ -150,8 +150,8 @@
    ],
    "terms_right": [
     "aisés",
-    "retraités",
-    "retraités aisés"
+    "retraités aisés",
+    "retraités"
    ]
   },
   {
@@ -277,7 +277,7 @@
   {
    "title": "Tornade dans l'Aude: les images du village dévasté de Pomas vu du ciel",
    "url": "https://www.lefigaro.fr/meteo/aude-les-images-impressionnantes-d-une-tornade-pres-de-carcassonne-20260824",
-   "n_members": 161,
+   "n_members": 163,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.254,
+   "divergence": 0.255,
    "category": "environnement",
    "terms_left": [
     "victimes",
@@ -300,14 +300,14 @@
    ],
    "terms_right": [
     "dégâts",
-    "habitations",
-    "touchées"
+    "touchées",
+    "habitations"
    ]
   },
   {
    "title": "Paris annonce la construction de trois parcs d'attractions près de Paris, financés par l'Arabie saoudite",
    "url": "https://www.tf1info.fr/societe/videos/video-bientot-un-nouveau-parc-d-attractions-geant-pres-de-paris-62088-2460107.html",
-   "n_members": 66,
+   "n_members": 67,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -321,11 +321,11 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.328,
+   "divergence": 0.326,
    "category": "économie",
    "terms_left": [
-    "macron",
     "vu",
+    "macron",
     "directs"
    ],
    "terms_right": [
@@ -335,9 +335,9 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : quel bilan tirer du déplacement d'Edouard Philippe à Mayotte ?",
+   "title": "Présidentielle 2027 : à La Réunion, Edouard Philippe veut compter ses forces et des ralliements",
    "url": "https://www.20minutes.fr/societe/4239546-20260817-info-midi-2-minutes-star-eteint-hollywood-lecornu-hue-gironde-roi-leon",
-   "n_members": 151,
+   "n_members": 153,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.387,
+   "divergence": 0.375,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -359,8 +359,8 @@
     "mayotte edouard"
    ],
    "terms_right": [
-    "édouard philippe",
     "édouard",
+    "édouard philippe",
     "mayotte"
    ]
   },
@@ -414,8 +414,8 @@
    "divergence": 0.442,
    "category": "culture",
    "terms_left": [
-    "mungiu",
     "cristian mungiu",
+    "mungiu",
     "cristian"
    ],
    "terms_right": [
@@ -575,6 +575,36 @@
    ]
   },
   {
+   "title": "Présidentielle: retour du certificat d'études, revalorisation des salaires… Ce que propose Gabriel Attal pour l'école",
+   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260823-br%C3%A9sil-la-campagne-pour-la-pr%C3%A9sidentielle-oppose-deux-visions-sociale-contre-s%C3%A9curitaire",
+   "n_members": 67,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.648,
+   "category": "politique",
+   "terms_left": [
+    "candidat présidentielle",
+    "peser",
+    "dévoile"
+   ],
+   "terms_right": [
+    "candidats",
+    "primaire",
+    "publique"
+   ]
+  },
+  {
    "title": "L'interdiction des téléphones portables dans les lycées \"pourra être effective dès la rentrée\", annonce le gouvernement",
    "url": "https://www.franceinfo.fr/societe/education/les-personnels-de-l-education-nationale-regrettent-d-avoir-ete-avertis-beaucoup-trop-tard-pour-bannir-les-telephones-portables-des-lycees-des-la-rentree_8157302.html",
    "n_members": 64,
@@ -602,36 +632,6 @@
     "lycées",
     "portables lycées",
     "gouvernement"
-   ]
-  },
-  {
-   "title": "Présidentielle: retour du certificat d'études, revalorisation des salaires… Ce que propose Gabriel Attal pour l'école",
-   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260823-br%C3%A9sil-la-campagne-pour-la-pr%C3%A9sidentielle-oppose-deux-visions-sociale-contre-s%C3%A9curitaire",
-   "n_members": 64,
-   "n_sources": 26,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.658,
-   "category": "politique",
-   "terms_left": [
-    "candidat présidentielle",
-    "peser",
-    "candidat"
-   ],
-   "terms_right": [
-    "candidats",
-    "primaire",
-    "publique"
    ]
   },
   {
@@ -681,7 +681,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.265,
+   "divergence": 0.264,
    "category": "international",
    "terms_left": [
     "arrêtés",
@@ -771,7 +771,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.415,
+   "divergence": 0.414,
    "category": "société",
    "terms_left": [
     "médicales gouvernement",
@@ -801,12 +801,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.533,
+   "divergence": 0.508,
    "category": "international",
    "terms_left": [
     "organiser",
-    "scrutin",
-    "organiser élections"
+    "organiser élections",
+    "guerre tsunami"
    ],
    "terms_right": [
     "volodymyr zelensky",
@@ -973,17 +973,17 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.589,
+   "divergence": 0.599,
    "category": "économie",
    "terms_left": [
     "gouvernement",
-    "bilan",
+    "loi",
     "ans"
    ],
    "terms_right": [
     "rapport",
     "france",
-    "nombre"
+    "hausse"
    ]
   },
   {
@@ -1003,7 +1003,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.417,
+   "divergence": 0.416,
    "category": "économie",
    "terms_left": [
     "qu",
@@ -1038,7 +1038,7 @@
    "terms_left": [
     "judiciaire patrick",
     "quitter",
-    "autorisé quitter"
+    "bruel allégé"
    ],
    "terms_right": [
     "affaire",
