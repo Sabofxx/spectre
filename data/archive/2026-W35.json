@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-26T13:35:43+00:00",
+ "generated_at": "2026-08-26T14:36:11+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -67,7 +67,7 @@
   {
    "title": "Comment les États-Unis comptent \"asphyxier l'économie\" de l'Iran",
    "url": "https://www.europe1.fr/international/moyen-orient-donald-trump-menace-de-bombarder-oman-sil-entrave-un-accord-sur-le-detroit-dormuz-1020452",
-   "n_members": 376,
+   "n_members": 375,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.278,
+   "divergence": 0.279,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -90,8 +90,8 @@
    ],
    "terms_right": [
     "états-unis",
-    "détroit",
-    "ormuz"
+    "ormuz",
+    "détroit"
    ]
   },
   {
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.413,
+   "divergence": 0.411,
    "category": "politique",
    "terms_left": [
     "présidentielle",
@@ -171,12 +171,12 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.562,
+   "divergence": 0.566,
    "category": "politique",
    "terms_left": [
-    "insoumis",
-    "week-end",
-    "écologie"
+    "gauche",
+    "politique",
+    "insoumis"
    ],
    "terms_right": [
     "jean-luc mélenchon",
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.28,
+   "divergence": 0.279,
    "category": "international",
    "terms_left": [
     "direct",
@@ -209,8 +209,8 @@
     "guerre ukraine"
    ],
    "terms_right": [
-    "ukraine morts",
     "russie",
+    "ukraine morts",
     "drone"
    ]
   },
@@ -247,7 +247,7 @@
   {
    "title": "Tornade dans l'Aude: les images du village dévasté de Pomas vu du ciel",
    "url": "https://www.lefigaro.fr/meteo/aude-les-images-impressionnantes-d-une-tornade-pres-de-carcassonne-20260824",
-   "n_members": 165,
+   "n_members": 166,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -291,12 +291,12 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.33,
+   "divergence": 0.324,
    "category": "international",
    "terms_left": [
     "guerre commerciale",
     "guerre",
-    "ministre canadien"
+    "commerciale"
    ],
    "terms_right": [
     "commercial",
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.326,
+   "divergence": 0.325,
    "category": "économie",
    "terms_left": [
     "vu",
@@ -395,6 +395,36 @@
    ]
   },
   {
+   "title": "Canicule : cinq indicateurs d’un été 2026 en surchauffe en Europe",
+   "url": "https://www.humanite.fr/monde/allemagne/en-allemagne-sahra-wagenknecht-egerie-de-la-gauche-populiste-allemande-prete-a-sallier-a-lafd",
+   "n_members": 70,
+   "n_sources": 28,
+   "counts": {
+    "left": 8,
+    "centre": 15,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": -0.231,
+   "blindspot_for": null,
+   "divergence": 0.801,
+   "category": "environnement",
+   "terms_left": [
+    "climatique",
+    "changement",
+    "changement climatique"
+   ],
+   "terms_right": [
+    "canicule",
+    "france",
+    "chaleur"
+   ]
+  },
+  {
    "title": "«The dog stars» : on a vu le nouveau film de Ridley Scott avec Jacob Elordi, et voici ce qu'on en a pensé",
    "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/dans-fjord-palme-d-or-2026-cristian-mungiu-denonce-les-dangers-de-la-polarisation-a-travers-l-histoire-d-une-famille-roumaine-chretienne-integriste-exilee-en-norvege_8143226.html",
    "n_members": 63,
@@ -441,12 +471,12 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.448,
+   "divergence": 0.45,
    "category": "international",
    "terms_left": [
     "rdc épidémie",
     "rdc",
-    "france"
+    "épidémie"
    ],
    "terms_right": [
     "ebola épidémie",
@@ -471,7 +501,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.697,
+   "divergence": 0.661,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -482,36 +512,6 @@
     "bruno maire",
     "bruno",
     "maire"
-   ]
-  },
-  {
-   "title": "Canicules en Europe: cinq signes d'un été en surchauffe",
-   "url": "https://www.humanite.fr/monde/allemagne/en-allemagne-sahra-wagenknecht-egerie-de-la-gauche-populiste-allemande-prete-a-sallier-a-lafd",
-   "n_members": 69,
-   "n_sources": 27,
-   "counts": {
-    "left": 8,
-    "centre": 14,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 10,
-    "opinion": 2
-   },
-   "blindspot_score": -0.231,
-   "blindspot_for": null,
-   "divergence": 0.801,
-   "category": "environnement",
-   "terms_left": [
-    "climatique",
-    "changement",
-    "changement climatique"
-   ],
-   "terms_right": [
-    "canicule",
-    "france",
-    "chaleur"
    ]
   },
   {
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.539,
+   "divergence": 0.541,
    "category": "international",
    "terms_left": [
     "accusée",
@@ -577,7 +577,7 @@
   {
    "title": "La légende de la country Dolly Parton est morte à 80 ans",
    "url": "http://fr.euronews.com/culture/2026/08/24/dolly-parton-evoque-sa-sante-et-envisage-des-concerts-en-avatar",
-   "n_members": 81,
+   "n_members": 83,
    "n_sources": 26,
    "counts": {
     "left": 8,
@@ -607,7 +607,7 @@
   {
    "title": "Présidentielle: retour du certificat d'études, revalorisation des salaires… Ce que propose Gabriel Attal pour l'école",
    "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260823-br%C3%A9sil-la-campagne-pour-la-pr%C3%A9sidentielle-oppose-deux-visions-sociale-contre-s%C3%A9curitaire",
-   "n_members": 68,
+   "n_members": 69,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -621,16 +621,16 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.646,
+   "divergence": 0.617,
    "category": "politique",
    "terms_left": [
     "candidat présidentielle",
-    "peser",
-    "dévoile"
+    "dévoile",
+    "souhaite"
    ],
    "terms_right": [
-    "candidats",
     "primaire",
+    "candidats",
     "publique"
    ]
   },
@@ -681,17 +681,17 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.636,
+   "divergence": 0.61,
    "category": "international",
    "terms_left": [
     "guerre ukraine",
     "géant russe",
-    "défense"
+    "direct"
    ],
    "terms_right": [
-    "entrepôt",
     "russes",
-    "ligne"
+    "russe",
+    "entrepôt"
    ]
   },
   {
@@ -711,7 +711,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.264,
+   "divergence": 0.265,
    "category": "international",
    "terms_left": [
     "arrêtés",
@@ -771,15 +771,15 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.415,
+   "divergence": 0.405,
    "category": "société",
    "terms_left": [
     "médicales gouvernement",
-    "économies",
-    "cgt"
+    "renonce",
+    "gouvernement renonce"
    ],
    "terms_right": [
-    "gouvernement",
+    "euros",
     "secteurs",
     "face"
    ]
@@ -801,7 +801,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.502,
+   "divergence": 0.503,
    "category": "international",
    "terms_left": [
     "organiser",
@@ -811,7 +811,7 @@
    "terms_right": [
     "volodymyr zelensky",
     "volodymyr",
-    "français"
+    "guerre ukraine"
    ]
   },
   {
@@ -943,12 +943,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.321,
+   "divergence": 0.316,
    "category": "international",
    "terms_left": [
     "mbs",
     "économiques",
-    "france"
+    "visite"
    ],
    "terms_right": [
     "saoudien mohammed",
@@ -1033,17 +1033,17 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.252,
+   "divergence": 0.248,
    "category": "culture",
    "terms_left": [
     "judiciaire patrick",
     "quitter",
-    "bruel allégé"
+    "autorisé quitter"
    ],
    "terms_right": [
+    "chanteur",
     "affaire",
-    "patrick bruel",
-    "patrick"
+    "patrick bruel"
    ]
   },
   {
@@ -1063,7 +1063,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.904,
+   "divergence": 0.907,
    "category": "faits-divers",
    "terms_left": [
     "ministre",
@@ -1072,8 +1072,8 @@
    ],
    "terms_right": [
     "personnes",
-    "examen",
-    "an"
+    "an",
+    "face"
    ]
   },
   {
@@ -1115,7 +1115,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.85,
+   "divergence": 0.848,
    "category": "politique",
    "terms_left": [
     "extrême",
@@ -1129,9 +1129,39 @@
    ]
   },
   {
+   "title": "Le ministre de l’Éducation annonce un questionnaire sur les violences sexuelles et sexistes pour tous les élèves",
+   "url": "https://www.ouest-france.fr/politique/aurore-berge/entretien-nous-avons-besoin-dune-revolution-aurore-berge-detaille-le-plan-de-lexecutif-apres-la-mort-de-lyhanna-7857fb80-9d69-11f1-a8ad-3219df531147",
+   "n_members": 55,
+   "n_sources": 23,
+   "counts": {
+    "left": 7,
+    "centre": 10,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": -0.077,
+   "blindspot_for": null,
+   "divergence": 0.489,
+   "category": "société",
+   "terms_left": [
+    "handicap",
+    "unapei",
+    "enfants"
+   ],
+   "terms_right": [
+    "ministre",
+    "violences sexuelles",
+    "édouard"
+   ]
+  },
+  {
    "title": "Saint-Denis : Bally Bagayoko visé par une enquête pour détournement de fonds publics",
    "url": "https://www.liberation.fr/politique/rentree-de-lfi-lete-sous-pression-de-bally-bagayoko-20260821_HGOCOSJMVNEIPAKWDB4ADXVJ24/",
-   "n_members": 43,
+   "n_members": 44,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -1145,7 +1175,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.208,
+   "divergence": 0.2,
    "category": "politique",
    "terms_left": [
     "association",
@@ -1156,36 +1186,6 @@
     "bally",
     "bally bagayoko",
     "qu"
-   ]
-  },
-  {
-   "title": "Météo. Orages : neuf départements du Sud-Ouest en vigilance orange lundi, de la grêle possiblement attendue",
-   "url": "https://www.ladepeche.fr/2026/08/13/direct-canicule-80-departements-en-vigilance-orange-jusqua-40-c-attendus-ce-jeudi-dans-plusieurs-regions-13507182.php",
-   "n_members": 523,
-   "n_sources": 22,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.243,
-   "category": "environnement",
-   "terms_left": [
-    "direct incendies",
-    "incendies",
-    "feu"
-   ],
-   "terms_right": [
-    "départements",
-    "placés",
-    "placés vigilance"
    ]
   }
  ]
