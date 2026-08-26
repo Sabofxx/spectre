@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-26T05:07:07+00:00",
+ "generated_at": "2026-08-26T05:58:52+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.275,
+   "divergence": 0.276,
    "category": "international",
    "terms_left": [
     "direct",
@@ -211,7 +211,7 @@
    "terms_right": [
     "ukraine morts",
     "enfants",
-    "drone"
+    "russie"
    ]
   },
   {
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.371,
+   "divergence": 0.372,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -367,7 +367,7 @@
   {
    "title": "Un village de l'Aude, dans le sud de la France, dévasté par une tornade",
    "url": "https://www.lefigaro.fr/meteo/aude-les-images-impressionnantes-d-une-tornade-pres-de-carcassonne-20260824",
-   "n_members": 140,
+   "n_members": 141,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -471,7 +471,7 @@
    },
    "blindspot_score": -0.231,
    "blindspot_for": null,
-   "divergence": 0.792,
+   "divergence": 0.791,
    "category": "environnement",
    "terms_left": [
     "climatique",
@@ -482,6 +482,36 @@
     "canicule",
     "france",
     "chaleur"
+   ]
+  },
+  {
+   "title": "Sécheresse : les producteurs français de pommes de terre redoutent une chute de la récolte record",
+   "url": "https://www.ladepeche.fr/2026/08/14/pour-nous-la-canicule-est-le-moins-pire-des-fleaux-dans-le-vignoble-de-fronton-pres-de-toulouse-contre-toute-attente-les-vendanges-sannoncent-superbes-13509253.php",
+   "n_members": 64,
+   "n_sources": 27,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.666,
+   "category": "environnement",
+   "terms_left": [
+    "face",
+    "soutien",
+    "sécheresse"
+   ],
+   "terms_right": [
+    "terre",
+    "pommes",
+    "pommes terre"
    ]
   },
   {
@@ -517,7 +547,7 @@
   {
    "title": "«The dog stars» : on a vu le nouveau film de Ridley Scott avec Jacob Elordi, et voici ce qu'on en a pensé",
    "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/dans-fjord-palme-d-or-2026-cristian-mungiu-denonce-les-dangers-de-la-polarisation-a-travers-l-histoire-d-une-famille-roumaine-chretienne-integriste-exilee-en-norvege_8143226.html",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 27,
    "counts": {
     "left": 10,
@@ -531,47 +561,17 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.432,
+   "divergence": 0.443,
    "category": "culture",
    "terms_left": [
-    "mungiu",
     "cristian mungiu",
+    "mungiu",
     "cristian"
    ],
    "terms_right": [
     "nouveau",
     "qu",
     "post-apocalyptique"
-   ]
-  },
-  {
-   "title": "Sécheresse : les producteurs français de pommes de terre redoutent une chute de la récolte record",
-   "url": "https://www.ladepeche.fr/2026/08/14/pour-nous-la-canicule-est-le-moins-pire-des-fleaux-dans-le-vignoble-de-fronton-pres-de-toulouse-contre-toute-attente-les-vendanges-sannoncent-superbes-13509253.php",
-   "n_members": 62,
-   "n_sources": 26,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.664,
-   "category": "environnement",
-   "terms_left": [
-    "face",
-    "soutien",
-    "canicules"
-   ],
-   "terms_right": [
-    "terre",
-    "pommes",
-    "pommes terre"
    ]
   },
   {
@@ -602,6 +602,36 @@
     "lycées",
     "interdiction téléphones",
     "portables lycées"
+   ]
+  },
+  {
+   "title": "Présidentielle: retour du certificat d'études, revalorisation des salaires… Ce que propose Gabriel Attal pour l'école",
+   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260823-br%C3%A9sil-la-campagne-pour-la-pr%C3%A9sidentielle-oppose-deux-visions-sociale-contre-s%C3%A9curitaire",
+   "n_members": 53,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.666,
+   "category": "politique",
+   "terms_left": [
+    "candidat présidentielle",
+    "candidat",
+    "entretien"
+   ],
+   "terms_right": [
+    "candidats",
+    "primaire",
+    "publique"
    ]
   },
   {
@@ -711,47 +741,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.533,
+   "divergence": 0.534,
    "category": "international",
    "terms_left": [
     "guerre tsunami",
-    "scrutin",
-    "organiser"
+    "organiser",
+    "scrutin"
    ],
    "terms_right": [
     "volodymyr zelensky",
     "volodymyr",
-    "français"
-   ]
-  },
-  {
-   "title": "Présidentielle: retour du certificat d'études, revalorisation des salaires… Ce que propose Gabriel Attal pour l'école",
-   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260823-br%C3%A9sil-la-campagne-pour-la-pr%C3%A9sidentielle-oppose-deux-visions-sociale-contre-s%C3%A9curitaire",
-   "n_members": 51,
-   "n_sources": 25,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.664,
-   "category": "politique",
-   "terms_left": [
-    "candidat présidentielle",
-    "entretien",
-    "dévoile"
-   ],
-   "terms_right": [
-    "candidats",
-    "primaire",
-    "publique"
+    "guerre ukraine"
    ]
   },
   {
@@ -801,7 +801,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.789,
+   "divergence": 0.79,
    "category": "international",
    "terms_left": [
     "année",
@@ -810,8 +810,8 @@
    ],
    "terms_right": [
     "pays",
-    "prix",
-    "euros"
+    "euros",
+    "prix"
    ]
   },
   {
@@ -861,7 +861,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.311,
+   "divergence": 0.31,
    "category": "international",
    "terms_left": [
     "mbs",
@@ -1008,7 +1008,7 @@
    "terms_left": [
     "judiciaire patrick",
     "quitter",
-    "autorisé quitter"
+    "bruel allégé"
    ],
    "terms_right": [
     "affaire",
@@ -1131,7 +1131,7 @@
   {
    "title": "Météo. Orages : neuf départements du Sud-Ouest en vigilance orange lundi, de la grêle possiblement attendue",
    "url": "https://www.ladepeche.fr/2026/08/13/direct-canicule-80-departements-en-vigilance-orange-jusqua-40-c-attendus-ce-jeudi-dans-plusieurs-regions-13507182.php",
-   "n_members": 517,
+   "n_members": 519,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -1145,7 +1145,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.248,
+   "divergence": 0.244,
    "category": "environnement",
    "terms_left": [
     "direct incendies",
@@ -1153,8 +1153,8 @@
     "feu"
    ],
    "terms_right": [
-    "placés",
     "départements",
+    "placés",
     "placés vigilance"
    ]
   },
