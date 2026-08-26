@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-26T12:30:38+00:00",
+ "generated_at": "2026-08-26T13:35:43+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -97,7 +97,7 @@
   {
    "title": "Présidentielle 2027 : Raphaël Glucksmann annonce sa candidature",
    "url": "https://www.bfmtv.com/politique/parti-socialiste/video-retraites-le-depute-ps-philippe-brun-propose-de-reactiver-un-fonds-de-reserve-public-et-souverain-pour-completer-le-systeme-par-repartition_VN-202608200282.html",
-   "n_members": 132,
+   "n_members": 134,
    "n_sources": 33,
    "counts": {
     "left": 6,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.309,
+   "divergence": 0.3,
    "category": "politique",
    "terms_left": [
     "campagne",
@@ -121,7 +121,7 @@
    "terms_right": [
     "élection",
     "présidentielle raphaël",
-    "officiellement"
+    "élection présidentielle"
    ]
   },
   {
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.42,
+   "divergence": 0.413,
    "category": "politique",
    "terms_left": [
     "présidentielle",
@@ -150,8 +150,8 @@
    ],
    "terms_right": [
     "aisés",
-    "retraités aisés",
-    "retraités"
+    "retraités",
+    "retraités aisés"
    ]
   },
   {
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.56,
+   "divergence": 0.562,
    "category": "politique",
    "terms_left": [
     "insoumis",
@@ -187,7 +187,7 @@
   {
    "title": "Russie : deux enfants tués par une frappe de drones ukrainiens",
    "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/08/20/nuit-meurtriere-a-kiev-16-morts-et-une-cinquantaine-de-blesses-apres-des-frappes-russes",
-   "n_members": 548,
+   "n_members": 549,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.279,
+   "divergence": 0.28,
    "category": "international",
    "terms_left": [
     "direct",
@@ -245,39 +245,9 @@
    ]
   },
   {
-   "title": "Le Canada riposte après les nouveaux droits de douane imposés par Donald Trump",
-   "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
-   "n_members": 163,
-   "n_sources": 30,
-   "counts": {
-    "left": 8,
-    "centre": 12,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 11,
-    "opinion": 3
-   },
-   "blindspot_score": 0.111,
-   "blindspot_for": null,
-   "divergence": 0.334,
-   "category": "international",
-   "terms_left": [
-    "guerre commerciale",
-    "guerre",
-    "commerciale"
-   ],
-   "terms_right": [
-    "états-unis",
-    "commercial",
-    "français"
-   ]
-  },
-  {
    "title": "Tornade dans l'Aude: les images du village dévasté de Pomas vu du ciel",
    "url": "https://www.lefigaro.fr/meteo/aude-les-images-impressionnantes-d-une-tornade-pres-de-carcassonne-20260824",
-   "n_members": 163,
+   "n_members": 165,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -291,7 +261,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.255,
+   "divergence": 0.253,
    "category": "environnement",
    "terms_left": [
     "victimes",
@@ -302,6 +272,36 @@
     "dégâts",
     "touchées",
     "habitations"
+   ]
+  },
+  {
+   "title": "Le Canada riposte après les nouveaux droits de douane imposés par Donald Trump",
+   "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
+   "n_members": 164,
+   "n_sources": 30,
+   "counts": {
+    "left": 8,
+    "centre": 12,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 11,
+    "opinion": 3
+   },
+   "blindspot_score": 0.111,
+   "blindspot_for": null,
+   "divergence": 0.33,
+   "category": "international",
+   "terms_left": [
+    "guerre commerciale",
+    "guerre",
+    "ministre canadien"
+   ],
+   "terms_right": [
+    "commercial",
+    "états-unis",
+    "français"
    ]
   },
   {
@@ -397,7 +397,7 @@
   {
    "title": "«The dog stars» : on a vu le nouveau film de Ridley Scott avec Jacob Elordi, et voici ce qu'on en a pensé",
    "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/dans-fjord-palme-d-or-2026-cristian-mungiu-denonce-les-dangers-de-la-polarisation-a-travers-l-histoire-d-une-famille-roumaine-chretienne-integriste-exilee-en-norvege_8143226.html",
-   "n_members": 62,
+   "n_members": 63,
    "n_sources": 28,
    "counts": {
     "left": 10,
@@ -414,8 +414,8 @@
    "divergence": 0.442,
    "category": "culture",
    "terms_left": [
-    "cristian mungiu",
     "mungiu",
+    "cristian mungiu",
     "cristian"
    ],
    "terms_right": [
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.695,
+   "divergence": 0.697,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -575,9 +575,39 @@
    ]
   },
   {
+   "title": "La légende de la country Dolly Parton est morte à 80 ans",
+   "url": "http://fr.euronews.com/culture/2026/08/24/dolly-parton-evoque-sa-sante-et-envisage-des-concerts-en-avatar",
+   "n_members": 81,
+   "n_sources": 26,
+   "counts": {
+    "left": 8,
+    "centre": 13,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": -0.231,
+   "blindspot_for": null,
+   "divergence": 0.182,
+   "category": "culture",
+   "terms_left": [
+    "popularité",
+    "parton inoubliable",
+    "figure"
+   ],
+   "terms_right": [
+    "hommage",
+    "chanteuse",
+    "qu"
+   ]
+  },
+  {
    "title": "Présidentielle: retour du certificat d'études, revalorisation des salaires… Ce que propose Gabriel Attal pour l'école",
    "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260823-br%C3%A9sil-la-campagne-pour-la-pr%C3%A9sidentielle-oppose-deux-visions-sociale-contre-s%C3%A9curitaire",
-   "n_members": 67,
+   "n_members": 68,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -591,7 +621,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.648,
+   "divergence": 0.646,
    "category": "politique",
    "terms_left": [
     "candidat présidentielle",
@@ -607,7 +637,7 @@
   {
    "title": "L'interdiction des téléphones portables dans les lycées \"pourra être effective dès la rentrée\", annonce le gouvernement",
    "url": "https://www.franceinfo.fr/societe/education/les-personnels-de-l-education-nationale-regrettent-d-avoir-ete-avertis-beaucoup-trop-tard-pour-bannir-les-telephones-portables-des-lycees-des-la-rentree_8157302.html",
-   "n_members": 64,
+   "n_members": 65,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -621,7 +651,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.378,
+   "divergence": 0.377,
    "category": "société",
    "terms_left": [
     "mesure",
@@ -695,39 +725,9 @@
    ]
   },
   {
-   "title": "La légende de la country Dolly Parton est morte à 80 ans",
-   "url": "http://fr.euronews.com/culture/2026/08/24/dolly-parton-evoque-sa-sante-et-envisage-des-concerts-en-avatar",
-   "n_members": 78,
-   "n_sources": 25,
-   "counts": {
-    "left": 7,
-    "centre": 13,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 1
-   },
-   "blindspot_score": -0.167,
-   "blindspot_for": null,
-   "divergence": 0.181,
-   "category": "culture",
-   "terms_left": [
-    "popularité",
-    "parton inoubliable",
-    "tennessee"
-   ],
-   "terms_right": [
-    "hommage",
-    "chanteuse",
-    "qu"
-   ]
-  },
-  {
    "title": "La rentrée hackée",
    "url": "https://www.lejdd.fr/Societe/secours-populaire-la-chance-dune-journee-de-vacances-181188",
-   "n_members": 71,
+   "n_members": 72,
    "n_sources": 25,
    "counts": {
     "left": 8,
@@ -741,7 +741,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.786,
+   "divergence": 0.781,
    "category": "société",
    "terms_left": [
     "élèves",
@@ -750,8 +750,8 @@
    ],
    "terms_right": [
     "français",
-    "incendies",
-    "rentrée"
+    "rentrée",
+    "incendies"
    ]
   },
   {
@@ -771,7 +771,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.414,
+   "divergence": 0.415,
    "category": "société",
    "terms_left": [
     "médicales gouvernement",
@@ -801,7 +801,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.508,
+   "divergence": 0.502,
    "category": "international",
    "terms_left": [
     "organiser",
@@ -811,7 +811,7 @@
    "terms_right": [
     "volodymyr zelensky",
     "volodymyr",
-    "guerre ukraine"
+    "français"
    ]
   },
   {
@@ -947,13 +947,13 @@
    "category": "international",
    "terms_left": [
     "mbs",
-    "france",
-    "visite"
+    "économiques",
+    "france"
    ],
    "terms_right": [
     "saoudien mohammed",
-    "mohammed ben",
-    "mohammed"
+    "emmanuel macron",
+    "emmanuel"
    ]
   },
   {
@@ -983,7 +983,7 @@
    "terms_right": [
     "rapport",
     "france",
-    "hausse"
+    "français"
    ]
   },
   {
@@ -1003,7 +1003,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.416,
+   "divergence": 0.417,
    "category": "économie",
    "terms_left": [
     "qu",
@@ -1033,7 +1033,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.251,
+   "divergence": 0.252,
    "category": "culture",
    "terms_left": [
     "judiciaire patrick",
@@ -1115,7 +1115,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.851,
+   "divergence": 0.85,
    "category": "politique",
    "terms_left": [
     "extrême",
