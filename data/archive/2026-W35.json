@@ -1,13 +1,13 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-26T16:11:33+00:00",
+ "generated_at": "2026-08-26T18:12:43+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Piratage du fisc : les victimes s’organisent pour attaquer l’État après la fuite de leurs données",
    "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 205,
+   "n_members": 206,
    "n_sources": 36,
    "counts": {
     "left": 6,
@@ -21,17 +21,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.242,
+   "divergence": 0.247,
    "category": "sciences-tech",
    "terms_left": [
     "direction",
-    "crise",
-    "finances"
+    "finances",
+    "finances publiques"
    ],
    "terms_right": [
     "impôts",
     "cyberattaque",
-    "dgfip"
+    "données"
    ]
   },
   {
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.279,
+   "divergence": 0.281,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -111,11 +111,11 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.302,
+   "divergence": 0.306,
    "category": "politique",
    "terms_left": [
-    "campagne",
     "candidature raphaël",
+    "campagne",
     "débat"
    ],
    "terms_right": [
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.405,
+   "divergence": 0.408,
    "category": "politique",
    "terms_left": [
     "présidentielle",
@@ -171,17 +171,77 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.562,
+   "divergence": 0.556,
    "category": "politique",
    "terms_left": [
     "gauche",
-    "université",
-    "écologie"
+    "politique",
+    "insoumis"
    ],
    "terms_right": [
     "jean-luc mélenchon",
     "jean-luc",
     "mélenchon"
+   ]
+  },
+  {
+   "title": "Paris annonce la construction de trois parcs d'attractions près de Paris, financés par l'Arabie saoudite",
+   "url": "https://www.tf1info.fr/societe/videos/video-bientot-un-nouveau-parc-d-attractions-geant-pres-de-paris-62088-2460107.html",
+   "n_members": 69,
+   "n_sources": 31,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 11,
+    "opinion": 4
+   },
+   "blindspot_score": 0.222,
+   "blindspot_for": null,
+   "divergence": 0.322,
+   "category": "économie",
+   "terms_left": [
+    "vu",
+    "directs",
+    "emplois directs"
+   ],
+   "terms_right": [
+    "mangas",
+    "cergy-pontoise",
+    "univers"
+   ]
+  },
+  {
+   "title": "Réseaux sociaux : Meta débourse 16 milliards de dollars pour mettre fin à son procès",
+   "url": "https://www.europe1.fr/societe/je-pense-que-cest-tres-dangereux-la-facture-electronique-prochaine-cibles-des-hackers-1026188",
+   "n_members": 65,
+   "n_sources": 31,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": 0.176,
+   "blindspot_for": null,
+   "divergence": 0.731,
+   "category": "économie",
+   "terms_left": [
+    "dollars",
+    "milliards dollars",
+    "meta"
+   ],
+   "terms_right": [
+    "entreprises",
+    "ans",
+    "électronique"
    ]
   },
   {
@@ -201,7 +261,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.279,
+   "divergence": 0.278,
    "category": "international",
    "terms_left": [
     "direct",
@@ -211,13 +271,13 @@
    "terms_right": [
     "russie",
     "ukraine morts",
-    "drone"
+    "enfants"
    ]
   },
   {
    "title": "Sophie Adenot est retournée dans l'espace pour une deuxième sortie extravéhiculaire",
    "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 229,
+   "n_members": 235,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -241,13 +301,13 @@
    "terms_right": [
     "mission",
     "station spatiale",
-    "vide"
+    "station"
    ]
   },
   {
    "title": "Tornade dans l'Aude: les images du village dévasté de Pomas vu du ciel",
    "url": "https://www.lefigaro.fr/meteo/aude-les-images-impressionnantes-d-une-tornade-pres-de-carcassonne-20260824",
-   "n_members": 167,
+   "n_members": 168,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -261,7 +321,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.254,
+   "divergence": 0.252,
    "category": "environnement",
    "terms_left": [
     "victimes",
@@ -275,9 +335,9 @@
    ]
   },
   {
-   "title": "Le Canada riposte après les nouveaux droits de douane imposés par Donald Trump",
+   "title": "«Le Canada dépouille les Etats-Unis d'Amérique depuis des années» : Donald trump durcit le ton et annonce de nouvelles hausses des droits de douane",
    "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
-   "n_members": 164,
+   "n_members": 165,
    "n_sources": 30,
    "counts": {
     "left": 8,
@@ -291,47 +351,17 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.327,
+   "divergence": 0.335,
    "category": "international",
    "terms_left": [
     "guerre commerciale",
     "guerre",
-    "commerciale"
+    "ministre canadien"
    ],
    "terms_right": [
     "états-unis",
-    "commercial",
-    "français"
-   ]
-  },
-  {
-   "title": "Paris annonce la construction de trois parcs d'attractions près de Paris, financés par l'Arabie saoudite",
-   "url": "https://www.tf1info.fr/societe/videos/video-bientot-un-nouveau-parc-d-attractions-geant-pres-de-paris-62088-2460107.html",
-   "n_members": 68,
-   "n_sources": 30,
-   "counts": {
-    "left": 7,
-    "centre": 12,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 11,
-    "opinion": 4
-   },
-   "blindspot_score": 0.222,
-   "blindspot_for": null,
-   "divergence": 0.322,
-   "category": "économie",
-   "terms_left": [
-    "vu",
-    "directs",
-    "emplois directs"
-   ],
-   "terms_right": [
-    "mangas",
-    "cergy-pontoise",
-    "univers"
+    "français",
+    "commercial"
    ]
   },
   {
@@ -381,7 +411,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.19,
+   "divergence": 0.191,
    "category": "culture",
    "terms_left": [
     "médias",
@@ -397,7 +427,7 @@
   {
    "title": "Canicule : cinq indicateurs d’un été 2026 en surchauffe en Europe",
    "url": "https://www.humanite.fr/monde/allemagne/en-allemagne-sahra-wagenknecht-egerie-de-la-gauche-populiste-allemande-prete-a-sallier-a-lafd",
-   "n_members": 70,
+   "n_members": 71,
    "n_sources": 28,
    "counts": {
     "left": 8,
@@ -411,7 +441,7 @@
    },
    "blindspot_score": -0.231,
    "blindspot_for": null,
-   "divergence": 0.801,
+   "divergence": 0.804,
    "category": "environnement",
    "terms_left": [
     "climatique",
@@ -444,8 +474,8 @@
    "divergence": 0.442,
    "category": "culture",
    "terms_left": [
-    "mungiu",
     "cristian mungiu",
+    "mungiu",
     "cristian"
    ],
    "terms_right": [
@@ -455,9 +485,9 @@
    ]
   },
   {
-   "title": "Ebola en RDC : cent jours d’une épidémie hors de contrôle",
+   "title": "Ebola : l'OMS alerte et réclame davantage de moyens face à l'épidémie en RDC",
    "url": "https://www.leparisien.fr/sciences/odeur-sucree-groupe-sanguin-ou-rien-de-cela-pourquoi-les-moustiques-raffolent-de-votre-peau-et-pas-de-celle-du-voisin-03-08-2026-7XIS34AZTNEVJPXNPS2WH45HDQ.php",
-   "n_members": 140,
+   "n_members": 141,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -471,12 +501,12 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.451,
+   "divergence": 0.453,
    "category": "international",
    "terms_left": [
     "rdc épidémie",
     "rdc",
-    "épidémie"
+    "ebola"
    ],
    "terms_right": [
     "ebola épidémie",
@@ -501,7 +531,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.663,
+   "divergence": 0.661,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -517,7 +547,7 @@
   {
    "title": "Pommes de terre : les producteurs français s’attendent à une chute de 23 % de la récolte suite à la sécheresse",
    "url": "https://www.ladepeche.fr/2026/08/14/pour-nous-la-canicule-est-le-moins-pire-des-fleaux-dans-le-vignoble-de-fronton-pres-de-toulouse-contre-toute-attente-les-vendanges-sannoncent-superbes-13509253.php",
-   "n_members": 65,
+   "n_members": 66,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -531,7 +561,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.668,
+   "divergence": 0.672,
    "category": "environnement",
    "terms_left": [
     "face",
@@ -561,7 +591,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.541,
+   "divergence": 0.542,
    "category": "international",
    "terms_left": [
     "accusée",
@@ -577,7 +607,7 @@
   {
    "title": "La légende de la country Dolly Parton est morte à 80 ans",
    "url": "http://fr.euronews.com/culture/2026/08/24/dolly-parton-evoque-sa-sante-et-envisage-des-concerts-en-avatar",
-   "n_members": 87,
+   "n_members": 88,
    "n_sources": 26,
    "counts": {
     "left": 8,
@@ -591,7 +621,7 @@
    },
    "blindspot_score": -0.231,
    "blindspot_for": null,
-   "divergence": 0.181,
+   "divergence": 0.179,
    "category": "culture",
    "terms_left": [
     "popularité",
@@ -607,7 +637,7 @@
   {
    "title": "Présidentielle: retour du certificat d'études, revalorisation des salaires… Ce que propose Gabriel Attal pour l'école",
    "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260823-br%C3%A9sil-la-campagne-pour-la-pr%C3%A9sidentielle-oppose-deux-visions-sociale-contre-s%C3%A9curitaire",
-   "n_members": 72,
+   "n_members": 75,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -621,12 +651,12 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.616,
+   "divergence": 0.588,
    "category": "politique",
    "terms_left": [
     "candidat présidentielle",
-    "organisation",
-    "peser"
+    "candidat",
+    "mesures"
    ],
    "terms_right": [
     "candidats",
@@ -637,7 +667,7 @@
   {
    "title": "L'interdiction des téléphones portables dans les lycées \"pourra être effective dès la rentrée\", annonce le gouvernement",
    "url": "https://www.franceinfo.fr/societe/education/les-personnels-de-l-education-nationale-regrettent-d-avoir-ete-avertis-beaucoup-trop-tard-pour-bannir-les-telephones-portables-des-lycees-des-la-rentree_8157302.html",
-   "n_members": 65,
+   "n_members": 66,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -651,17 +681,47 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.378,
+   "divergence": 0.375,
    "category": "société",
    "terms_left": [
     "mesure",
-    "place",
-    "mise place"
+    "mise place",
+    "place"
    ],
    "terms_right": [
     "lycées",
     "portables lycées",
     "gouvernement"
+   ]
+  },
+  {
+   "title": "Inondations meurtrières au Népal: le bilan humain grimpe désormais à 95 morts",
+   "url": "https://www.sudouest.fr/international/chine/chine-une-coulee-de-boue-cote-nepalais-a-fait-de-nombreuses-victimes-au-tibet-30371272.php",
+   "n_members": 54,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 15,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": -0.091,
+   "blindspot_for": null,
+   "divergence": 0.482,
+   "category": "international",
+   "terms_left": [
+    "déferlé",
+    "népal tibet",
+    "provoqué"
+   ],
+   "terms_right": [
+    "inondations",
+    "autorités",
+    "morts"
    ]
   },
   {
@@ -681,7 +741,7 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.61,
+   "divergence": 0.576,
    "category": "international",
    "terms_left": [
     "guerre ukraine",
@@ -689,9 +749,9 @@
     "direct"
    ],
    "terms_right": [
-    "russes",
     "russe",
-    "entrepôt"
+    "russes",
+    "iran"
    ]
   },
   {
@@ -741,12 +801,12 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.782,
+   "divergence": 0.781,
    "category": "société",
    "terms_left": [
-    "élèves",
     "mer",
-    "journée"
+    "journée",
+    "niveau"
    ],
    "terms_right": [
     "français",
@@ -812,36 +872,6 @@
     "guerre ukraine",
     "français",
     "volodymyr zelensky"
-   ]
-  },
-  {
-   "title": "Réseaux sociaux : Meta débourse 16 milliards de dollars pour mettre fin à son procès",
-   "url": "https://www.europe1.fr/societe/je-pense-que-cest-tres-dangereux-la-facture-electronique-prochaine-cibles-des-hackers-1026188",
-   "n_members": 57,
-   "n_sources": 25,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 6,
-    "opinion": 4
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.759,
-   "category": "économie",
-   "terms_left": [
-    "accord",
-    "meta",
-    "dollars"
-   ],
-   "terms_right": [
-    "entreprises",
-    "ans",
-    "électronique"
    ]
   },
   {
@@ -943,7 +973,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.335,
+   "divergence": 0.334,
    "category": "international",
    "terms_left": [
     "mbs",
@@ -1063,7 +1093,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.248,
+   "divergence": 0.249,
    "category": "culture",
    "terms_left": [
     "judiciaire patrick",
@@ -1145,47 +1175,17 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.849,
+   "divergence": 0.853,
    "category": "politique",
    "terms_left": [
     "extrême",
     "victimes",
-    "pouvoir"
+    "présidentielle"
    ],
    "terms_right": [
-    "préfets",
     "mélenchon",
+    "préfets",
     "insoumise"
-   ]
-  },
-  {
-   "title": "Le ministre de l’Éducation annonce un questionnaire sur les violences sexuelles et sexistes pour tous les élèves",
-   "url": "https://www.ouest-france.fr/politique/aurore-berge/entretien-nous-avons-besoin-dune-revolution-aurore-berge-detaille-le-plan-de-lexecutif-apres-la-mort-de-lyhanna-7857fb80-9d69-11f1-a8ad-3219df531147",
-   "n_members": 55,
-   "n_sources": 23,
-   "counts": {
-    "left": 7,
-    "centre": 10,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": -0.077,
-   "blindspot_for": null,
-   "divergence": 0.489,
-   "category": "société",
-   "terms_left": [
-    "handicap",
-    "unapei",
-    "enfants"
-   ],
-   "terms_right": [
-    "ministre",
-    "violences sexuelles",
-    "édouard"
    ]
   }
  ]
