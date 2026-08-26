@@ -1,13 +1,13 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-26T14:36:11+00:00",
+ "generated_at": "2026-08-26T16:11:33+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Piratage du fisc : les victimes s’organisent pour attaquer l’État après la fuite de leurs données",
    "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 203,
+   "n_members": 205,
    "n_sources": 36,
    "counts": {
     "left": 6,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.241,
+   "divergence": 0.242,
    "category": "sciences-tech",
    "terms_left": [
     "direction",
@@ -30,8 +30,8 @@
    ],
    "terms_right": [
     "impôts",
-    "dgfip",
-    "cyberattaque"
+    "cyberattaque",
+    "dgfip"
    ]
   },
   {
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.3,
+   "divergence": 0.302,
    "category": "politique",
    "terms_left": [
     "campagne",
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.411,
+   "divergence": 0.405,
    "category": "politique",
    "terms_left": [
     "présidentielle",
@@ -171,12 +171,12 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.566,
+   "divergence": 0.562,
    "category": "politique",
    "terms_left": [
     "gauche",
-    "politique",
-    "insoumis"
+    "université",
+    "écologie"
    ],
    "terms_right": [
     "jean-luc mélenchon",
@@ -187,7 +187,7 @@
   {
    "title": "Russie : deux enfants tués par une frappe de drones ukrainiens",
    "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/08/20/nuit-meurtriere-a-kiev-16-morts-et-une-cinquantaine-de-blesses-apres-des-frappes-russes",
-   "n_members": 549,
+   "n_members": 548,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -217,7 +217,7 @@
   {
    "title": "Sophie Adenot est retournée dans l'espace pour une deuxième sortie extravéhiculaire",
    "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 227,
+   "n_members": 229,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -240,14 +240,14 @@
    ],
    "terms_right": [
     "mission",
-    "vide",
-    "station spatiale"
+    "station spatiale",
+    "vide"
    ]
   },
   {
    "title": "Tornade dans l'Aude: les images du village dévasté de Pomas vu du ciel",
    "url": "https://www.lefigaro.fr/meteo/aude-les-images-impressionnantes-d-une-tornade-pres-de-carcassonne-20260824",
-   "n_members": 166,
+   "n_members": 167,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.253,
+   "divergence": 0.254,
    "category": "environnement",
    "terms_left": [
     "victimes",
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.324,
+   "divergence": 0.327,
    "category": "international",
    "terms_left": [
     "guerre commerciale",
@@ -299,15 +299,15 @@
     "commerciale"
    ],
    "terms_right": [
-    "commercial",
     "états-unis",
+    "commercial",
     "français"
    ]
   },
   {
    "title": "Paris annonce la construction de trois parcs d'attractions près de Paris, financés par l'Arabie saoudite",
    "url": "https://www.tf1info.fr/societe/videos/video-bientot-un-nouveau-parc-d-attractions-geant-pres-de-paris-62088-2460107.html",
-   "n_members": 67,
+   "n_members": 68,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -321,12 +321,12 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.325,
+   "divergence": 0.322,
    "category": "économie",
    "terms_left": [
     "vu",
-    "macron",
-    "directs"
+    "directs",
+    "emplois directs"
    ],
    "terms_right": [
     "mangas",
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.375,
+   "divergence": 0.376,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -457,7 +457,7 @@
   {
    "title": "Ebola en RDC : cent jours d’une épidémie hors de contrôle",
    "url": "https://www.leparisien.fr/sciences/odeur-sucree-groupe-sanguin-ou-rien-de-cela-pourquoi-les-moustiques-raffolent-de-votre-peau-et-pas-de-celle-du-voisin-03-08-2026-7XIS34AZTNEVJPXNPS2WH45HDQ.php",
-   "n_members": 139,
+   "n_members": 140,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.45,
+   "divergence": 0.451,
    "category": "international",
    "terms_left": [
     "rdc épidémie",
@@ -485,9 +485,9 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : Bruno Le Maire publie « un manifeste pour une autre France »",
+   "title": "\"Je ne suis pas candidat\": Bruno Le Maire ferme la porte à la présidentielle de 2027",
    "url": "https://www.europe1.fr/politique/jusqua-400eu-le-week-end-le-tarif-des-universites-dete-de-lfi-fait-polemique-1014659",
-   "n_members": 90,
+   "n_members": 91,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.661,
+   "divergence": 0.663,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -577,7 +577,7 @@
   {
    "title": "La légende de la country Dolly Parton est morte à 80 ans",
    "url": "http://fr.euronews.com/culture/2026/08/24/dolly-parton-evoque-sa-sante-et-envisage-des-concerts-en-avatar",
-   "n_members": 83,
+   "n_members": 87,
    "n_sources": 26,
    "counts": {
     "left": 8,
@@ -591,7 +591,7 @@
    },
    "blindspot_score": -0.231,
    "blindspot_for": null,
-   "divergence": 0.182,
+   "divergence": 0.181,
    "category": "culture",
    "terms_left": [
     "popularité",
@@ -600,14 +600,14 @@
    ],
    "terms_right": [
     "hommage",
-    "chanteuse",
-    "qu"
+    "qu",
+    "décès"
    ]
   },
   {
    "title": "Présidentielle: retour du certificat d'études, revalorisation des salaires… Ce que propose Gabriel Attal pour l'école",
    "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260823-br%C3%A9sil-la-campagne-pour-la-pr%C3%A9sidentielle-oppose-deux-visions-sociale-contre-s%C3%A9curitaire",
-   "n_members": 69,
+   "n_members": 72,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -621,16 +621,16 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.617,
+   "divergence": 0.616,
    "category": "politique",
    "terms_left": [
     "candidat présidentielle",
-    "dévoile",
-    "souhaite"
+    "organisation",
+    "peser"
    ],
    "terms_right": [
-    "primaire",
     "candidats",
+    "primaire",
     "publique"
    ]
   },
@@ -651,7 +651,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.377,
+   "divergence": 0.378,
    "category": "société",
    "terms_left": [
     "mesure",
@@ -727,7 +727,7 @@
   {
    "title": "La rentrée hackée",
    "url": "https://www.lejdd.fr/Societe/secours-populaire-la-chance-dune-journee-de-vacances-181188",
-   "n_members": 72,
+   "n_members": 73,
    "n_sources": 25,
    "counts": {
     "left": 8,
@@ -741,7 +741,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.781,
+   "divergence": 0.782,
    "category": "société",
    "terms_left": [
     "élèves",
@@ -809,15 +809,45 @@
     "guerre tsunami"
    ],
    "terms_right": [
-    "volodymyr zelensky",
-    "volodymyr",
-    "guerre ukraine"
+    "guerre ukraine",
+    "français",
+    "volodymyr zelensky"
+   ]
+  },
+  {
+   "title": "Réseaux sociaux : Meta débourse 16 milliards de dollars pour mettre fin à son procès",
+   "url": "https://www.europe1.fr/societe/je-pense-que-cest-tres-dangereux-la-facture-electronique-prochaine-cibles-des-hackers-1026188",
+   "n_members": 57,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 4
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.759,
+   "category": "économie",
+   "terms_left": [
+    "accord",
+    "meta",
+    "dollars"
+   ],
+   "terms_right": [
+    "entreprises",
+    "ans",
+    "électronique"
    ]
   },
   {
    "title": "Franchises médicales : le gouvernement va bien augmenter le plafond annuel… au détriment des grands malades",
    "url": "https://www.sudouest.fr/economie/l-autorite-des-marches-financiers-alerte-sur-une-plateforme-de-trading-frauduleuse-usurpant-l-identite-de-medias-30303314.php",
-   "n_members": 53,
+   "n_members": 55,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -831,17 +861,17 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.577,
-   "category": "société",
+   "divergence": 0.584,
+   "category": "économie",
    "terms_left": [
     "comptes",
-    "gouvernement veut",
-    "renoncé"
+    "rentrée",
+    "gouvernement veut"
    ],
    "terms_right": [
     "moyenne",
     "rémunération",
-    "philippe"
+    "français"
    ]
   },
   {
@@ -897,6 +927,36 @@
    ]
   },
   {
+   "title": "Les “relations étroites” entre Macron et MBS rapportent une pluie de contrats à la France",
+   "url": "https://www.sudouest.fr/politique/emmanuel-macron-recevra-le-prince-heritier-saoudien-mohammed-ben-salmane-dimanche-et-lundi-30319759.php",
+   "n_members": 62,
+   "n_sources": 24,
+   "counts": {
+    "left": 7,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.335,
+   "category": "international",
+   "terms_left": [
+    "mbs",
+    "économiques",
+    "moyen-orient"
+   ],
+   "terms_right": [
+    "saoudien mohammed",
+    "mohammed ben",
+    "mohammed"
+   ]
+  },
+  {
    "title": "Présidentielle 2027 : Léa Salamé se retire du 20H de France 2 après la candidature de son compagnon Raphaël Glucksmann",
    "url": "https://www.tf1info.fr/politique/videos/video-retraite-a-65-ans-hausse-de-la-tva-un-portrait-sombre-de-la-france-malgre-son-retrait-de-la-vie-politique-bruno-le-maire-tente-de-peser-sur-la-presidentielle-30188-2459878.html",
    "n_members": 62,
@@ -913,7 +973,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.662,
+   "divergence": 0.663,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -924,36 +984,6 @@
     "candidat",
     "socialiste",
     "philippe"
-   ]
-  },
-  {
-   "title": "Que vient faire le prince héritier saoudien Mohammed ben Salmane en France ce dimanche et lundi ?",
-   "url": "https://www.sudouest.fr/politique/emmanuel-macron-recevra-le-prince-heritier-saoudien-mohammed-ben-salmane-dimanche-et-lundi-30319759.php",
-   "n_members": 61,
-   "n_sources": 24,
-   "counts": {
-    "left": 7,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.316,
-   "category": "international",
-   "terms_left": [
-    "mbs",
-    "économiques",
-    "visite"
-   ],
-   "terms_right": [
-    "saoudien mohammed",
-    "emmanuel macron",
-    "emmanuel"
    ]
   },
   {
@@ -973,17 +1003,17 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.599,
+   "divergence": 0.608,
    "category": "économie",
    "terms_left": [
     "gouvernement",
-    "loi",
-    "ans"
+    "ans",
+    "loi"
    ],
    "terms_right": [
-    "rapport",
     "france",
-    "français"
+    "rapport",
+    "budget"
    ]
   },
   {
@@ -1003,7 +1033,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.417,
+   "divergence": 0.418,
    "category": "économie",
    "terms_left": [
     "qu",
@@ -1115,7 +1145,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.848,
+   "divergence": 0.849,
    "category": "politique",
    "terms_left": [
     "extrême",
@@ -1156,36 +1186,6 @@
     "ministre",
     "violences sexuelles",
     "édouard"
-   ]
-  },
-  {
-   "title": "Saint-Denis : Bally Bagayoko visé par une enquête pour détournement de fonds publics",
-   "url": "https://www.liberation.fr/politique/rentree-de-lfi-lete-sous-pression-de-bally-bagayoko-20260821_HGOCOSJMVNEIPAKWDB4ADXVJ24/",
-   "n_members": 44,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 9,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 5
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.2,
-   "category": "politique",
-   "terms_left": [
-    "association",
-    "ac",
-    "anti-corruption"
-   ],
-   "terms_right": [
-    "bally",
-    "bally bagayoko",
-    "qu"
    ]
   }
  ]
