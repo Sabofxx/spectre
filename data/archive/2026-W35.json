@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-26T10:59:54+00:00",
+ "generated_at": "2026-08-26T11:28:14+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.276,
+   "divergence": 0.279,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -171,11 +171,11 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.551,
+   "divergence": 0.553,
    "category": "politique",
    "terms_left": [
-    "gauche",
     "insoumis",
+    "gauche",
     "week-end"
    ],
    "terms_right": [
@@ -245,6 +245,36 @@
    ]
   },
   {
+   "title": "Le Canada riposte après les nouveaux droits de douane imposés par Donald Trump",
+   "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
+   "n_members": 163,
+   "n_sources": 30,
+   "counts": {
+    "left": 8,
+    "centre": 12,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 11,
+    "opinion": 3
+   },
+   "blindspot_score": 0.111,
+   "blindspot_for": null,
+   "divergence": 0.334,
+   "category": "international",
+   "terms_left": [
+    "guerre commerciale",
+    "guerre",
+    "commerciale"
+   ],
+   "terms_right": [
+    "états-unis",
+    "commercial",
+    "français"
+   ]
+  },
+  {
    "title": "Tornade dans l'Aude: les images du village dévasté de Pomas vu du ciel",
    "url": "https://www.lefigaro.fr/meteo/aude-les-images-impressionnantes-d-une-tornade-pres-de-carcassonne-20260824",
    "n_members": 161,
@@ -302,36 +332,6 @@
     "mangas",
     "cergy-pontoise",
     "univers"
-   ]
-  },
-  {
-   "title": "Le Canada riposte après les nouveaux droits de douane imposés par Donald Trump",
-   "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
-   "n_members": 162,
-   "n_sources": 29,
-   "counts": {
-    "left": 8,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 11,
-    "opinion": 2
-   },
-   "blindspot_score": 0.059,
-   "blindspot_for": null,
-   "divergence": 0.337,
-   "category": "international",
-   "terms_left": [
-    "guerre commerciale",
-    "guerre",
-    "commerciale"
-   ],
-   "terms_right": [
-    "états-unis",
-    "commercial",
-    "annonce"
    ]
   },
   {
@@ -414,8 +414,8 @@
    "divergence": 0.442,
    "category": "culture",
    "terms_left": [
-    "cristian mungiu",
     "mungiu",
+    "cristian mungiu",
     "cristian"
    ],
    "terms_right": [
@@ -425,9 +425,9 @@
    ]
   },
   {
-   "title": "Plus de 2 500 morts : la progression d'Ebola inquiète",
+   "title": "Ebola en RDC : cent jours d’une épidémie hors de contrôle",
    "url": "https://www.leparisien.fr/sciences/odeur-sucree-groupe-sanguin-ou-rien-de-cela-pourquoi-les-moustiques-raffolent-de-votre-peau-et-pas-de-celle-du-voisin-03-08-2026-7XIS34AZTNEVJPXNPS2WH45HDQ.php",
-   "n_members": 138,
+   "n_members": 139,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -575,6 +575,36 @@
    ]
   },
   {
+   "title": "L'interdiction des téléphones portables dans les lycées \"pourra être effective dès la rentrée\", annonce le gouvernement",
+   "url": "https://www.franceinfo.fr/societe/education/les-personnels-de-l-education-nationale-regrettent-d-avoir-ete-avertis-beaucoup-trop-tard-pour-bannir-les-telephones-portables-des-lycees-des-la-rentree_8157302.html",
+   "n_members": 64,
+   "n_sources": 26,
+   "counts": {
+    "left": 4,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.378,
+   "category": "société",
+   "terms_left": [
+    "mesure",
+    "place",
+    "mise place"
+   ],
+   "terms_right": [
+    "lycées",
+    "portables lycées",
+    "gouvernement"
+   ]
+  },
+  {
    "title": "Présidentielle: retour du certificat d'études, revalorisation des salaires… Ce que propose Gabriel Attal pour l'école",
    "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260823-br%C3%A9sil-la-campagne-pour-la-pr%C3%A9sidentielle-oppose-deux-visions-sociale-contre-s%C3%A9curitaire",
    "n_members": 64,
@@ -602,36 +632,6 @@
     "candidats",
     "primaire",
     "publique"
-   ]
-  },
-  {
-   "title": "L'interdiction des téléphones portables dans les lycées \"pourra être effective dès la rentrée\", annonce le gouvernement",
-   "url": "https://www.franceinfo.fr/societe/education/les-personnels-de-l-education-nationale-regrettent-d-avoir-ete-avertis-beaucoup-trop-tard-pour-bannir-les-telephones-portables-des-lycees-des-la-rentree_8157302.html",
-   "n_members": 63,
-   "n_sources": 26,
-   "counts": {
-    "left": 4,
-    "centre": 14,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 10,
-    "opinion": 2
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.449,
-   "category": "société",
-   "terms_left": [
-    "mesure",
-    "interdiction réseaux",
-    "portables interdits"
-   ],
-   "terms_right": [
-    "lycées",
-    "interdiction téléphones",
-    "portables lycées"
    ]
   },
   {
@@ -681,7 +681,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.264,
+   "divergence": 0.265,
    "category": "international",
    "terms_left": [
     "arrêtés",
@@ -697,7 +697,7 @@
   {
    "title": "Dolly Parton, légende américaine de la musique country, meurt à 80 ans",
    "url": "http://fr.euronews.com/culture/2026/08/24/dolly-parton-evoque-sa-sante-et-envisage-des-concerts-en-avatar",
-   "n_members": 72,
+   "n_members": 74,
    "n_sources": 25,
    "counts": {
     "left": 7,
@@ -711,7 +711,7 @@
    },
    "blindspot_score": -0.167,
    "blindspot_for": null,
-   "divergence": 0.175,
+   "divergence": 0.176,
    "category": "culture",
    "terms_left": [
     "tennessee",
@@ -812,6 +812,36 @@
     "volodymyr zelensky",
     "volodymyr",
     "guerre ukraine"
+   ]
+  },
+  {
+   "title": "Franchises médicales : le gouvernement va bien augmenter le plafond annuel… au détriment des grands malades",
+   "url": "https://www.sudouest.fr/economie/l-autorite-des-marches-financiers-alerte-sur-une-plateforme-de-trading-frauduleuse-usurpant-l-identite-de-medias-30303314.php",
+   "n_members": 53,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 9,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": 0.375,
+   "blindspot_for": null,
+   "divergence": 0.577,
+   "category": "société",
+   "terms_left": [
+    "comptes",
+    "gouvernement veut",
+    "renoncé"
+   ],
+   "terms_right": [
+    "moyenne",
+    "rémunération",
+    "philippe"
    ]
   },
   {
@@ -957,36 +987,6 @@
    ]
   },
   {
-   "title": "Franchises médicales : le gouvernement va bien augmenter le plafond annuel… au détriment des grands malades",
-   "url": "https://www.sudouest.fr/economie/l-autorite-des-marches-financiers-alerte-sur-une-plateforme-de-trading-frauduleuse-usurpant-l-identite-de-medias-30303314.php",
-   "n_members": 52,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 9,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 5
-   },
-   "blindspot_score": 0.467,
-   "blindspot_for": null,
-   "divergence": 0.582,
-   "category": "société",
-   "terms_left": [
-    "comptes",
-    "gouvernement veut",
-    "renoncé"
-   ],
-   "terms_right": [
-    "moyenne",
-    "hausse",
-    "rémunération"
-   ]
-  },
-  {
    "title": "Rentrée scolaire : malgré la baisse des prix affichée, la facture des fournitures reste lourde pour les parents",
    "url": "https://www.franceinfo.fr/culture/livres/la-rentree-litteraire/rentree-litteraire-2026-quelque-461-romans-pour-une-reprise-resolument-variee_8146112.html",
    "n_members": 72,
@@ -1038,7 +1038,7 @@
    "terms_left": [
     "judiciaire patrick",
     "quitter",
-    "autorisé quitter"
+    "bruel allégé"
    ],
    "terms_right": [
     "affaire",
