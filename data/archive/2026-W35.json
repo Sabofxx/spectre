@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-26T06:39:02+00:00",
+ "generated_at": "2026-08-26T07:39:30+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.271,
+   "divergence": 0.27,
    "category": "international",
    "terms_left": [
     "direct",
@@ -125,6 +125,36 @@
    ]
   },
   {
+   "title": "Censure du budget 2027: Sébastien Lecornu répond à Jean-Luc Mélenchon",
+   "url": "https://www.ouest-france.fr/economie/retraites/mode-de-calcul-trimestres-pour-enfant-que-vont-changer-ces-nouveaux-decrets-sur-la-retraite-des-meres-de-famille-e5f79f04-90d2-11f1-9add-57c399f24235",
+   "n_members": 200,
+   "n_sources": 31,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 11,
+    "opinion": 4
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.403,
+   "category": "politique",
+   "terms_left": [
+    "présidentielle",
+    "politiques familiales",
+    "rentrée"
+   ],
+   "terms_right": [
+    "aisés",
+    "retraités aisés",
+    "retraités"
+   ]
+  },
+  {
    "title": "Présidentielle 2027: à quoi faut-il s'attendre pour le discours de rentrée politique de Jean-Luc Mélenchon aux universités d'été de LFI?",
    "url": "https://www.ladepeche.fr/2026/08/13/decryptage-dette-francaise-peut-on-vraiment-effacer-18-de-la-dette-dun-coup-de-baguette-magique-comme-le-suggere-jean-luc-melenchon-13505988.php",
    "n_members": 199,
@@ -155,36 +185,6 @@
    ]
   },
   {
-   "title": "Sébastien Lecornu somme les députés de voter \"un budget pour 2027\" faute de quoi le pays risque \"le désordre économique\"",
-   "url": "https://www.ouest-france.fr/economie/retraites/mode-de-calcul-trimestres-pour-enfant-que-vont-changer-ces-nouveaux-decrets-sur-la-retraite-des-meres-de-famille-e5f79f04-90d2-11f1-9add-57c399f24235",
-   "n_members": 198,
-   "n_sources": 31,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 12
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 11,
-    "opinion": 4
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.404,
-   "category": "politique",
-   "terms_left": [
-    "présidentielle",
-    "politiques familiales",
-    "politiques"
-   ],
-   "terms_right": [
-    "aisés",
-    "retraités aisés",
-    "adopter"
-   ]
-  },
-  {
    "title": "Guerre en Ukraine: deux enfants tués dans le sud de la Russie par une frappe de drones ukrainiens",
    "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/08/20/nuit-meurtriere-a-kiev-16-morts-et-une-cinquantaine-de-blesses-apres-des-frappes-russes",
    "n_members": 545,
@@ -210,8 +210,8 @@
    ],
    "terms_right": [
     "ukraine morts",
-    "enfants",
-    "russie"
+    "russie",
+    "drone"
    ]
   },
   {
@@ -305,9 +305,9 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : quel bilan tirer du déplacement d'Edouard Philippe à Mayotte ?",
+   "title": "Présidentielle 2027 : à La Réunion, Edouard Philippe veut compter ses forces et des ralliements",
    "url": "https://www.20minutes.fr/societe/4239546-20260817-info-midi-2-minutes-star-eteint-hollywood-lecornu-hue-gironde-roi-leon",
-   "n_members": 149,
+   "n_members": 150,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.372,
+   "divergence": 0.382,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -337,7 +337,7 @@
   {
    "title": "Philippe Bouvard, animateur historique des \"Grosses Têtes\", est décédé à 96 ans",
    "url": "https://www.leprogres.fr/societe/2026/08/24/ex-animateur-vedette-des-i-grosses-tetes-i-philippe-bouvard-a-tire-sa-reverence",
-   "n_members": 105,
+   "n_members": 106,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -367,7 +367,7 @@
   {
    "title": "Un village de l'Aude, dans le sud de la France, dévasté par une tornade",
    "url": "https://www.lefigaro.fr/meteo/aude-les-images-impressionnantes-d-une-tornade-pres-de-carcassonne-20260824",
-   "n_members": 142,
+   "n_members": 145,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -381,7 +381,7 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.282,
+   "divergence": 0.281,
    "category": "environnement",
    "terms_left": [
     "victimes",
@@ -390,8 +390,8 @@
    ],
    "terms_right": [
     "dégâts",
-    "après-midi",
-    "touchées"
+    "touchées",
+    "après-midi"
    ]
   },
   {
@@ -427,7 +427,7 @@
   {
    "title": "Présidentielle 2027 : Bruno Le Maire publie « un manifeste pour une autre France »",
    "url": "https://www.europe1.fr/politique/jusqua-400eu-le-week-end-le-tarif-des-universites-dete-de-lfi-fait-polemique-1014659",
-   "n_members": 85,
+   "n_members": 90,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.661,
+   "divergence": 0.679,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -449,8 +449,8 @@
     "roussel"
    ],
    "terms_right": [
-    "bruno maire",
     "bruno",
+    "bruno maire",
     "maire"
    ]
   },
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.671,
+   "divergence": 0.672,
    "category": "environnement",
    "terms_left": [
     "face",
@@ -531,7 +531,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.539,
+   "divergence": 0.54,
    "category": "international",
    "terms_left": [
     "accusée",
@@ -564,8 +564,8 @@
    "divergence": 0.442,
    "category": "culture",
    "terms_left": [
-    "mungiu",
     "cristian mungiu",
+    "mungiu",
     "cristian"
    ],
    "terms_right": [
@@ -577,7 +577,7 @@
   {
    "title": "L'interdiction des téléphones portables dans les lycées \"pourra être effective dès la rentrée\", annonce le gouvernement",
    "url": "https://www.franceinfo.fr/societe/education/les-personnels-de-l-education-nationale-regrettent-d-avoir-ete-avertis-beaucoup-trop-tard-pour-bannir-les-telephones-portables-des-lycees-des-la-rentree_8157302.html",
-   "n_members": 61,
+   "n_members": 62,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.448,
+   "divergence": 0.451,
    "category": "société",
    "terms_left": [
     "mesure",
@@ -607,7 +607,7 @@
   {
    "title": "Présidentielle: retour du certificat d'études, revalorisation des salaires… Ce que propose Gabriel Attal pour l'école",
    "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260823-br%C3%A9sil-la-campagne-pour-la-pr%C3%A9sidentielle-oppose-deux-visions-sociale-contre-s%C3%A9curitaire",
-   "n_members": 58,
+   "n_members": 59,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -621,7 +621,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.665,
+   "divergence": 0.662,
    "category": "politique",
    "terms_left": [
     "candidat présidentielle",
@@ -755,9 +755,31 @@
    ]
   },
   {
-   "title": "Rentrée scolaire : attention aux sites frauduleux qui prétendent révéler dans quelle classe sera votre enfant",
+   "title": "Des résultats « prometteurs pour le domaine du mélanome et du cancer en général » : pourquoi le vaccin n’a jamais semblé autant à portée de main",
+   "url": "https://www.sudouest.fr/sante/cancer-de-la-peau-moderna-et-merck-annoncent-les-resultats-positifs-d-un-vaccin-experimental-30304119.php",
+   "n_members": 34,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.414,
+   "category": "société",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "La rentrée hackée",
    "url": "https://www.lejdd.fr/Societe/secours-populaire-la-chance-dune-journee-de-vacances-181188",
-   "n_members": 68,
+   "n_members": 69,
    "n_sources": 24,
    "counts": {
     "left": 8,
@@ -891,7 +913,7 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.615,
+   "divergence": 0.611,
    "category": "économie",
    "terms_left": [
     "gouvernement",
@@ -933,28 +955,6 @@
     "moyenne",
     "hausse"
    ]
-  },
-  {
-   "title": "Des résultats « prometteurs pour le domaine du mélanome et du cancer en général » : pourquoi le vaccin n’a jamais semblé autant à portée de main",
-   "url": "https://www.sudouest.fr/sante/cancer-de-la-peau-moderna-et-merck-annoncent-les-resultats-positifs-d-un-vaccin-experimental-30304119.php",
-   "n_members": 33,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.414,
-   "category": "société",
-   "terms_left": [],
-   "terms_right": []
   },
   {
    "title": "Rentrée scolaire : malgré la baisse des prix affichée, la facture des fournitures reste lourde pour les parents",
@@ -1123,15 +1123,15 @@
     "anti-corruption"
    ],
    "terms_right": [
-    "bally bagayoko",
     "bally",
+    "bally bagayoko",
     "conditions"
    ]
   },
   {
    "title": "Météo. Orages : neuf départements du Sud-Ouest en vigilance orange lundi, de la grêle possiblement attendue",
    "url": "https://www.ladepeche.fr/2026/08/13/direct-canicule-80-departements-en-vigilance-orange-jusqua-40-c-attendus-ce-jeudi-dans-plusieurs-regions-13507182.php",
-   "n_members": 521,
+   "n_members": 522,
    "n_sources": 22,
    "counts": {
     "left": 4,
