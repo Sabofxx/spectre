@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-26T09:14:37+00:00",
+ "generated_at": "2026-08-26T10:05:36+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.272,
+   "divergence": 0.274,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -141,12 +141,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.395,
+   "divergence": 0.405,
    "category": "politique",
    "terms_left": [
     "présidentielle",
     "politiques familiales",
-    "rentrée"
+    "politiques"
    ],
    "terms_right": [
     "aisés",
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.564,
+   "divergence": 0.546,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.278,
+   "divergence": 0.279,
    "category": "international",
    "terms_left": [
     "direct",
@@ -245,9 +245,39 @@
    ]
   },
   {
+   "title": "Tornade dans l'Aude: les images du village dévasté de Pomas vu du ciel",
+   "url": "https://www.lefigaro.fr/meteo/aude-les-images-impressionnantes-d-une-tornade-pres-de-carcassonne-20260824",
+   "n_members": 161,
+   "n_sources": 30,
+   "counts": {
+    "left": 7,
+    "centre": 17,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": -0.077,
+   "blindspot_for": null,
+   "divergence": 0.254,
+   "category": "environnement",
+   "terms_left": [
+    "victimes",
+    "sud carcassonne",
+    "commune pomas"
+   ],
+   "terms_right": [
+    "dégâts",
+    "habitations",
+    "touchées"
+   ]
+  },
+  {
    "title": "Paris annonce la construction de trois parcs d'attractions près de Paris, financés par l'Arabie saoudite",
    "url": "https://www.tf1info.fr/societe/videos/video-bientot-un-nouveau-parc-d-attractions-geant-pres-de-paris-62088-2460107.html",
-   "n_members": 65,
+   "n_members": 66,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -261,17 +291,17 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.334,
+   "divergence": 0.329,
    "category": "économie",
    "terms_left": [
     "macron",
     "vu",
-    "investissement"
+    "directs"
    ],
    "terms_right": [
     "mangas",
-    "univers",
-    "cergy-pontoise"
+    "cergy-pontoise",
+    "univers"
    ]
   },
   {
@@ -305,36 +335,6 @@
    ]
   },
   {
-   "title": "Tornade dans l'Aude: les images du village dévasté de Pomas vu du ciel",
-   "url": "https://www.lefigaro.fr/meteo/aude-les-images-impressionnantes-d-une-tornade-pres-de-carcassonne-20260824",
-   "n_members": 157,
-   "n_sources": 29,
-   "counts": {
-    "left": 6,
-    "centre": 17,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 18,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.277,
-   "category": "environnement",
-   "terms_left": [
-    "victimes",
-    "aude village",
-    "stade"
-   ],
-   "terms_right": [
-    "dégâts",
-    "touchées",
-    "habitations"
-   ]
-  },
-  {
    "title": "Présidentielle 2027 : à La Réunion, Edouard Philippe veut compter ses forces et des ralliements",
    "url": "https://www.20minutes.fr/societe/4239546-20260817-info-midi-2-minutes-star-eteint-hollywood-lecornu-hue-gironde-roi-leon",
    "n_members": 150,
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.388,
+   "divergence": 0.389,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -392,6 +392,36 @@
     "français",
     "journaliste animateur",
     "éteint"
+   ]
+  },
+  {
+   "title": "«The dog stars» : on a vu le nouveau film de Ridley Scott avec Jacob Elordi, et voici ce qu'on en a pensé",
+   "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/dans-fjord-palme-d-or-2026-cristian-mungiu-denonce-les-dangers-de-la-polarisation-a-travers-l-histoire-d-une-famille-roumaine-chretienne-integriste-exilee-en-norvege_8143226.html",
+   "n_members": 62,
+   "n_sources": 28,
+   "counts": {
+    "left": 10,
+    "centre": 10,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 9,
+    "opinion": 7
+   },
+   "blindspot_score": -0.111,
+   "blindspot_for": null,
+   "divergence": 0.442,
+   "category": "culture",
+   "terms_left": [
+    "mungiu",
+    "cristian mungiu",
+    "cristian"
+   ],
+   "terms_right": [
+    "nouveau",
+    "qu",
+    "post-apocalyptique"
    ]
   },
   {
@@ -441,7 +471,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.691,
+   "divergence": 0.697,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -457,7 +487,7 @@
   {
    "title": "Canicules en Europe: cinq signes d'un été en surchauffe",
    "url": "https://www.humanite.fr/monde/allemagne/en-allemagne-sahra-wagenknecht-egerie-de-la-gauche-populiste-allemande-prete-a-sallier-a-lafd",
-   "n_members": 68,
+   "n_members": 69,
    "n_sources": 27,
    "counts": {
     "left": 8,
@@ -471,7 +501,7 @@
    },
    "blindspot_score": -0.231,
    "blindspot_for": null,
-   "divergence": 0.791,
+   "divergence": 0.801,
    "category": "environnement",
    "terms_left": [
     "climatique",
@@ -531,47 +561,47 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.54,
+   "divergence": 0.533,
    "category": "international",
    "terms_left": [
     "accusée",
-    "ancien",
-    "accusée appâté"
+    "accusée appâté",
+    "procès meta"
    ],
    "terms_right": [
-    "instagram",
     "facebook",
+    "instagram",
     "facebook instagram"
    ]
   },
   {
-   "title": "«The dog stars» : on a vu le nouveau film de Ridley Scott avec Jacob Elordi, et voici ce qu'on en a pensé",
-   "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/dans-fjord-palme-d-or-2026-cristian-mungiu-denonce-les-dangers-de-la-polarisation-a-travers-l-histoire-d-une-famille-roumaine-chretienne-integriste-exilee-en-norvege_8143226.html",
-   "n_members": 61,
-   "n_sources": 27,
+   "title": "Présidentielle: retour du certificat d'études, revalorisation des salaires… Ce que propose Gabriel Attal pour l'école",
+   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260823-br%C3%A9sil-la-campagne-pour-la-pr%C3%A9sidentielle-oppose-deux-visions-sociale-contre-s%C3%A9curitaire",
+   "n_members": 64,
+   "n_sources": 26,
    "counts": {
-    "left": 10,
-    "centre": 9,
-    "right": 8
+    "left": 5,
+    "centre": 12,
+    "right": 9
    },
    "style_counts": {
-    "factuel": 11,
-    "mixte": 9,
-    "opinion": 7
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 3
    },
-   "blindspot_score": -0.111,
+   "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.441,
-   "category": "culture",
+   "divergence": 0.658,
+   "category": "politique",
    "terms_left": [
-    "mungiu",
-    "cristian mungiu",
-    "cristian"
+    "candidat présidentielle",
+    "peser",
+    "candidat"
    ],
    "terms_right": [
-    "nouveau",
-    "qu",
-    "post-apocalyptique"
+    "candidats",
+    "primaire",
+    "publique"
    ]
   },
   {
@@ -602,36 +632,6 @@
     "lycées",
     "interdiction téléphones",
     "portables lycées"
-   ]
-  },
-  {
-   "title": "Présidentielle: retour du certificat d'études, revalorisation des salaires… Ce que propose Gabriel Attal pour l'école",
-   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260823-br%C3%A9sil-la-campagne-pour-la-pr%C3%A9sidentielle-oppose-deux-visions-sociale-contre-s%C3%A9curitaire",
-   "n_members": 63,
-   "n_sources": 26,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.657,
-   "category": "politique",
-   "terms_left": [
-    "candidat présidentielle",
-    "peser",
-    "candidat"
-   ],
-   "terms_right": [
-    "candidats",
-    "primaire",
-    "publique"
    ]
   },
   {
@@ -725,6 +725,36 @@
    ]
   },
   {
+   "title": "Dolly Parton, légende américaine de la musique country, meurt à 80 ans",
+   "url": "http://fr.euronews.com/culture/2026/08/24/dolly-parton-evoque-sa-sante-et-envisage-des-concerts-en-avatar",
+   "n_members": 67,
+   "n_sources": 25,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 1
+   },
+   "blindspot_score": -0.167,
+   "blindspot_for": null,
+   "divergence": 0.179,
+   "category": "culture",
+   "terms_left": [
+    "tennessee",
+    "retour",
+    "popularité"
+   ],
+   "terms_right": [
+    "hommage",
+    "chanteuse",
+    "personnes"
+   ]
+  },
+  {
    "title": "Le gouvernement «travaille à une reconduction» des aides au carburant et du chèque énergie",
    "url": "https://www.challenges.fr/economie/impots-ce-cadeau-fiscal-pour-24-millions-de-familles-menace-car-il-nemporte-pas-deffets-redistributifs-utiles_645272",
    "n_members": 66,
@@ -771,12 +801,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.544,
+   "divergence": 0.555,
    "category": "international",
    "terms_left": [
+    "organiser",
     "scrutin",
-    "tenue",
-    "tenue scrutin"
+    "défense"
    ],
    "terms_right": [
     "volodymyr zelensky",
@@ -927,36 +957,6 @@
    ]
   },
   {
-   "title": "Dolly Parton, légende américaine de la musique country, meurt à 80 ans",
-   "url": "http://fr.euronews.com/culture/2026/08/24/dolly-parton-evoque-sa-sante-et-envisage-des-concerts-en-avatar",
-   "n_members": 60,
-   "n_sources": 24,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 1
-   },
-   "blindspot_score": -0.091,
-   "blindspot_for": null,
-   "divergence": 0.196,
-   "category": "culture",
-   "terms_left": [
-    "retour",
-    "tennessee",
-    "figure"
-   ],
-   "terms_right": [
-    "hommage",
-    "chanteuse",
-    "qu"
-   ]
-  },
-  {
    "title": "Franchises médicales : le gouvernement va bien augmenter le plafond annuel… au détriment des grands malades",
    "url": "https://www.sudouest.fr/economie/l-autorite-des-marches-financiers-alerte-sur-une-plateforme-de-trading-frauduleuse-usurpant-l-identite-de-medias-30303314.php",
    "n_members": 52,
@@ -1003,7 +1003,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.417,
+   "divergence": 0.416,
    "category": "économie",
    "terms_left": [
     "qu",
@@ -1063,7 +1063,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.901,
+   "divergence": 0.902,
    "category": "faits-divers",
    "terms_left": [
     "ministre",
@@ -1115,7 +1115,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.852,
+   "divergence": 0.851,
    "category": "politique",
    "terms_left": [
     "extrême",
