@@ -1,13 +1,13 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-27T05:42:21+00:00",
+ "generated_at": "2026-08-27T17:05:48+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Piratage du fisc : les victimes s’organisent pour attaquer l’État après la fuite de leurs données",
    "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
-   "n_members": 206,
+   "n_members": 207,
    "n_sources": 36,
    "counts": {
     "left": 6,
@@ -30,8 +30,8 @@
    ],
    "terms_right": [
     "impôts",
-    "cyberattaque",
-    "données"
+    "données",
+    "cyberattaque"
    ]
   },
   {
@@ -67,7 +67,7 @@
   {
    "title": "Comment les États-Unis comptent \"asphyxier l'économie\" de l'Iran",
    "url": "https://www.europe1.fr/international/moyen-orient-donald-trump-menace-de-bombarder-oman-sil-entrave-un-accord-sur-le-detroit-dormuz-1020452",
-   "n_members": 375,
+   "n_members": 361,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.285,
+   "divergence": 0.284,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -111,23 +111,23 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.25,
+   "divergence": 0.244,
    "category": "politique",
    "terms_left": [
-    "candidature raphaël",
-    "débat",
-    "yannick"
+    "yannick",
+    "yannick jadot",
+    "primaire ps"
    ],
    "terms_right": [
-    "présidentielle raphaël",
     "élection",
-    "écologiste"
+    "présidentielle raphaël",
+    "glucksmann candidat"
    ]
   },
   {
-   "title": "Réseaux sociaux : Meta débourse 16 milliards de dollars pour mettre fin à son procès",
+   "title": "Meta évite un procès grâce à un accord à plus de 12 milliards de dollars pour protéger les mineurs des réseaux sociaux",
    "url": "https://www.europe1.fr/societe/je-pense-que-cest-tres-dangereux-la-facture-electronique-prochaine-cibles-des-hackers-1026188",
-   "n_members": 71,
+   "n_members": 80,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.651,
+   "divergence": 0.629,
    "category": "économie",
    "terms_left": [
     "dollars",
@@ -149,9 +149,9 @@
     "meta"
    ],
    "terms_right": [
+    "ans",
     "entreprises",
-    "électronique",
-    "facturation électronique"
+    "électronique"
    ]
   },
   {
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.415,
+   "divergence": 0.408,
    "category": "politique",
    "terms_left": [
     "présidentielle",
@@ -181,7 +181,7 @@
    "terms_right": [
     "retraités",
     "aisés",
-    "retraités aisés"
+    "pensions"
    ]
   },
   {
@@ -201,12 +201,12 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.565,
+   "divergence": 0.567,
    "category": "politique",
    "terms_left": [
     "gauche",
-    "politique",
-    "insoumis"
+    "insoumis",
+    "marine"
    ],
    "terms_right": [
     "jean-luc mélenchon",
@@ -215,9 +215,39 @@
    ]
   },
   {
+   "title": "Au moins 160 morts, des centaines de disparus… Ce que l’on sait sur les inondations entre le Népal et le Tibet",
+   "url": "https://www.sudouest.fr/international/chine/chine-une-coulee-de-boue-cote-nepalais-a-fait-de-nombreuses-victimes-au-tibet-30371272.php",
+   "n_members": 137,
+   "n_sources": 31,
+   "counts": {
+    "left": 8,
+    "centre": 17,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 19,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": -0.143,
+   "blindspot_for": null,
+   "divergence": 0.317,
+   "category": "international",
+   "terms_left": [
+    "morts disparus",
+    "népal tibet",
+    "effondrement"
+   ],
+   "terms_right": [
+    "autorités",
+    "touristes étrangers",
+    "coulée boue"
+   ]
+  },
+  {
    "title": "Paris annonce la construction de trois parcs d'attractions près de Paris, financés par l'Arabie saoudite",
    "url": "https://www.tf1info.fr/societe/videos/video-bientot-un-nouveau-parc-d-attractions-geant-pres-de-paris-62088-2460107.html",
-   "n_members": 70,
+   "n_members": 71,
    "n_sources": 31,
    "counts": {
     "left": 7,
@@ -231,12 +261,12 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.322,
+   "divergence": 0.314,
    "category": "économie",
    "terms_left": [
     "vu",
-    "directs",
-    "emplois directs"
+    "disneyland paris",
+    "directs"
    ],
    "terms_right": [
     "mangas",
@@ -245,9 +275,9 @@
    ]
   },
   {
-   "title": "Russie : deux enfants tués par une frappe de drones ukrainiens",
+   "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
    "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/08/20/nuit-meurtriere-a-kiev-16-morts-et-une-cinquantaine-de-blesses-apres-des-frappes-russes",
-   "n_members": 548,
+   "n_members": 545,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -261,7 +291,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.275,
+   "divergence": 0.274,
    "category": "international",
    "terms_left": [
     "direct",
@@ -277,7 +307,7 @@
   {
    "title": "Sophie Adenot est retournée dans l'espace pour une deuxième sortie extravéhiculaire",
    "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
-   "n_members": 236,
+   "n_members": 239,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -291,7 +321,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.16,
+   "divergence": 0.161,
    "category": "sciences-tech",
    "terms_left": [
     "française sortir",
@@ -299,15 +329,15 @@
     "devenir"
    ],
    "terms_right": [
+    "vide",
     "mission",
-    "station spatiale",
-    "station"
+    "spatiale"
    ]
   },
   {
    "title": "Tornade dans l'Aude: les images du village dévasté de Pomas vu du ciel",
    "url": "https://www.lefigaro.fr/meteo/aude-les-images-impressionnantes-d-une-tornade-pres-de-carcassonne-20260824",
-   "n_members": 170,
+   "n_members": 171,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -330,14 +360,14 @@
    ],
    "terms_right": [
     "dégâts",
-    "touchées",
-    "habitations"
+    "habitations",
+    "touchées"
    ]
   },
   {
-   "title": "«Le Canada dépouille les Etats-Unis d'Amérique depuis des années» : Donald trump durcit le ton et annonce de nouvelles hausses des droits de douane",
+   "title": "Le Canada face au risque d’une escalade mortifère : pourquoi Mark Carney risque gros en reprenant la guerre commerciale avec Donald Trump",
    "url": "https://www.bfmtv.com/economie/international/apres-2-8-en-juin-elle-passe-a-3-en-juillet-l-inflation-poursuit-sa-hausse-au-canada-sous-l-effet-de-la-remontee-des-prix-des-carburants-et-de-la-coupe-du-monde_AD-202608180065.html",
-   "n_members": 165,
+   "n_members": 166,
    "n_sources": 30,
    "counts": {
     "left": 8,
@@ -351,7 +381,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.341,
+   "divergence": 0.332,
    "category": "international",
    "terms_left": [
     "guerre commerciale",
@@ -360,8 +390,8 @@
    ],
    "terms_right": [
     "états-unis",
-    "français",
-    "accord"
+    "canadiens",
+    "français"
    ]
   },
   {
@@ -381,7 +411,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.378,
+   "divergence": 0.38,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -411,23 +441,83 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.191,
+   "divergence": 0.174,
    "category": "culture",
    "terms_left": [
-    "médias",
-    "bouvard décédé",
-    "animateur grosses"
+    "bouvard journaliste",
+    "homme",
+    "bouvard mort"
    ],
    "terms_right": [
-    "français",
-    "journaliste animateur",
-    "éteint"
+    "ans",
+    "animateur",
+    "vie"
    ]
   },
   {
-   "title": "Canicule : cinq indicateurs d’un été 2026 en surchauffe en Europe",
+   "title": "EN DIRECT - Présidentielle 2027 : les candidats ont rendez-vous au Medef pour un premier débat",
+   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260823-br%C3%A9sil-la-campagne-pour-la-pr%C3%A9sidentielle-oppose-deux-visions-sociale-contre-s%C3%A9curitaire",
+   "n_members": 110,
+   "n_sources": 28,
+   "counts": {
+    "left": 5,
+    "centre": 14,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.522,
+   "category": "politique",
+   "terms_left": [
+    "chefs",
+    "chefs entreprise",
+    "programme"
+   ],
+   "terms_right": [
+    "candidats",
+    "primaire",
+    "publique"
+   ]
+  },
+  {
+   "title": "\"Je ne suis pas candidat\": Bruno Le Maire ferme la porte à la présidentielle de 2027",
+   "url": "https://www.europe1.fr/politique/jusqua-400eu-le-week-end-le-tarif-des-universites-dete-de-lfi-fait-polemique-1014659",
+   "n_members": 94,
+   "n_sources": 28,
+   "counts": {
+    "left": 6,
+    "centre": 10,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 6
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.666,
+   "category": "politique",
+   "terms_left": [
+    "gauche",
+    "fabien",
+    "roussel"
+   ],
+   "terms_right": [
+    "bruno maire",
+    "bruno",
+    "maire"
+   ]
+  },
+  {
+   "title": "Canicule : plus de 30.000 décès survenus en Europe cet été liés aux différentes vagues de chaleur",
    "url": "https://www.humanite.fr/monde/allemagne/en-allemagne-sahra-wagenknecht-egerie-de-la-gauche-populiste-allemande-prete-a-sallier-a-lafd",
-   "n_members": 71,
+   "n_members": 72,
    "n_sources": 28,
    "counts": {
     "left": 8,
@@ -441,7 +531,7 @@
    },
    "blindspot_score": -0.231,
    "blindspot_for": null,
-   "divergence": 0.804,
+   "divergence": 0.8,
    "category": "environnement",
    "terms_left": [
     "climatique",
@@ -449,15 +539,15 @@
     "changement climatique"
    ],
    "terms_right": [
-    "canicule",
+    "chaleur",
     "france",
-    "chaleur"
+    "fois"
    ]
   },
   {
    "title": "«The dog stars» : on a vu le nouveau film de Ridley Scott avec Jacob Elordi, et voici ce qu'on en a pensé",
    "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/dans-fjord-palme-d-or-2026-cristian-mungiu-denonce-les-dangers-de-la-polarisation-a-travers-l-histoire-d-une-famille-roumaine-chretienne-integriste-exilee-en-norvege_8143226.html",
-   "n_members": 64,
+   "n_members": 65,
    "n_sources": 28,
    "counts": {
     "left": 10,
@@ -474,14 +564,14 @@
    "divergence": 0.442,
    "category": "culture",
    "terms_left": [
-    "mungiu",
     "cristian mungiu",
+    "mungiu",
     "cristian"
    ],
    "terms_right": [
-    "nouveau",
     "qu",
-    "post-apocalyptique"
+    "affiche",
+    "nouveau"
    ]
   },
   {
@@ -501,7 +591,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.447,
+   "divergence": 0.46,
    "category": "international",
    "terms_left": [
     "rdc épidémie",
@@ -509,45 +599,15 @@
     "épidémie"
    ],
    "terms_right": [
-    "virus",
     "ebola épidémie",
+    "virus",
     "incendies"
-   ]
-  },
-  {
-   "title": "\"Je ne suis pas candidat\": Bruno Le Maire ferme la porte à la présidentielle de 2027",
-   "url": "https://www.europe1.fr/politique/jusqua-400eu-le-week-end-le-tarif-des-universites-dete-de-lfi-fait-polemique-1014659",
-   "n_members": 93,
-   "n_sources": 27,
-   "counts": {
-    "left": 6,
-    "centre": 10,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 6
-   },
-   "blindspot_score": 0.294,
-   "blindspot_for": null,
-   "divergence": 0.664,
-   "category": "politique",
-   "terms_left": [
-    "gauche",
-    "fabien",
-    "roussel"
-   ],
-   "terms_right": [
-    "bruno maire",
-    "bruno",
-    "maire"
    ]
   },
   {
    "title": "La légende de la country Dolly Parton est morte à 80 ans",
    "url": "http://fr.euronews.com/culture/2026/08/24/dolly-parton-evoque-sa-sante-et-envisage-des-concerts-en-avatar",
-   "n_members": 89,
+   "n_members": 92,
    "n_sources": 27,
    "counts": {
     "left": 9,
@@ -561,7 +621,7 @@
    },
    "blindspot_score": -0.286,
    "blindspot_for": null,
-   "divergence": 0.175,
+   "divergence": 0.17,
    "category": "culture",
    "terms_left": [
     "popularité",
@@ -569,39 +629,9 @@
     "figure"
    ],
    "terms_right": [
-    "hommage",
     "qu",
-    "décès"
-   ]
-  },
-  {
-   "title": "Inondations au Népal et au Tibet: les images de cette coulée de boue qui emporte tout sur son passage",
-   "url": "https://www.sudouest.fr/international/chine/chine-une-coulee-de-boue-cote-nepalais-a-fait-de-nombreuses-victimes-au-tibet-30371272.php",
-   "n_members": 87,
-   "n_sources": 27,
-   "counts": {
-    "left": 6,
-    "centre": 15,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.447,
-   "category": "international",
-   "terms_left": [
-    "déferlé",
-    "vague",
-    "mortes"
-   ],
-   "terms_right": [
-    "inondations",
-    "autorités",
-    "coulée boue"
+    "décès",
+    "hommage"
    ]
   },
   {
@@ -621,12 +651,12 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.672,
+   "divergence": 0.68,
    "category": "environnement",
    "terms_left": [
     "face",
-    "soutien",
-    "agriculteurs"
+    "agriculteurs",
+    "précoces"
    ],
    "terms_right": [
     "terre",
@@ -651,7 +681,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.544,
+   "divergence": 0.545,
    "category": "international",
    "terms_left": [
     "accusée",
@@ -665,39 +695,9 @@
    ]
   },
   {
-   "title": "EN DIRECT - Présidentielle 2027 : les candidats ont rendez-vous au Medef pour un premier débat",
-   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260823-br%C3%A9sil-la-campagne-pour-la-pr%C3%A9sidentielle-oppose-deux-visions-sociale-contre-s%C3%A9curitaire",
-   "n_members": 89,
-   "n_sources": 26,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.547,
-   "category": "politique",
-   "terms_left": [
-    "programme",
-    "organisation",
-    "candidat présidentielle"
-   ],
-   "terms_right": [
-    "candidats",
-    "primaire",
-    "publique"
-   ]
-  },
-  {
-   "title": "L'interdiction des téléphones portables dans les lycées \"pourra être effective dès la rentrée\", annonce le gouvernement",
+   "title": "Lycée : l’interdiction des téléphones portables « effective dès la rentrée »",
    "url": "https://www.franceinfo.fr/societe/education/les-personnels-de-l-education-nationale-regrettent-d-avoir-ete-avertis-beaucoup-trop-tard-pour-bannir-les-telephones-portables-des-lycees-des-la-rentree_8157302.html",
-   "n_members": 70,
+   "n_members": 72,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -711,22 +711,22 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.375,
+   "divergence": 0.244,
    "category": "société",
    "terms_left": [
-    "mesure",
-    "mise place",
-    "place"
+    "rentrée scolaire",
+    "scolaire",
+    "portables interdits"
    ],
    "terms_right": [
-    "lycées",
-    "portables lycées",
-    "gouvernement"
+    "sud",
+    "ministre",
+    "portable"
    ]
   },
   {
    "title": "Guerre en Ukraine: Kiev s'attaque au géant du e-commerce russe Ozon en visant deux entrepôts en deux jours",
-   "url": "https://www.tf1info.fr/international/la-coree-du-nord-et-la-russie-sur-le-point-d-achever-la-construction-d-un-pont-pouvant-faciliter-la-logistique-dans-la-guerre-en-ukraine-2455563.html",
+   "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-100-millions-de-dollars-passage-strategique-que-sait-on-du-premier-pont-routier-entre-la-russie-et-la-coree-du-nord-28-07-2026-SGZTAE6TGNDIHCJL5BX6ZVUOMM.php",
    "n_members": 103,
    "n_sources": 25,
    "counts": {
@@ -745,13 +745,13 @@
    "category": "international",
    "terms_left": [
     "direct",
-    "géant russe",
-    "guerre ukraine"
+    "guerre ukraine",
+    "géant russe"
    ],
    "terms_right": [
     "qu",
-    "iran",
-    "russe"
+    "russe",
+    "iran"
    ]
   },
   {
@@ -771,7 +771,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.265,
+   "divergence": 0.264,
    "category": "international",
    "terms_left": [
     "arrêtés",
@@ -785,9 +785,9 @@
    ]
   },
   {
-   "title": "« On n’a accès à rien » : la difficile rentrée des chefs d’établissement après une cyberattaque d’envergure nationale",
+   "title": "Rentrée scolaire 2026 : l'inquiétude grandit après plusieurs cyberattaques contre l'Éducation nationale",
    "url": "https://www.lejdd.fr/Societe/secours-populaire-la-chance-dune-journee-de-vacances-181188",
-   "n_members": 75,
+   "n_members": 78,
    "n_sources": 25,
    "counts": {
     "left": 8,
@@ -801,17 +801,17 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.778,
+   "divergence": 0.749,
    "category": "société",
    "terms_left": [
-    "niveau",
+    "mer",
     "journée",
-    "mer"
+    "secours"
    ],
    "terms_right": [
-    "rentrée",
-    "cyberattaque",
-    "vacances"
+    "scolaire",
+    "rentrée scolaire",
+    "rentrée"
    ]
   },
   {
@@ -869,7 +869,7 @@
   {
    "title": "Franchises médicales : le gouvernement va bien augmenter le plafond annuel… au détriment des grands malades",
    "url": "https://www.sudouest.fr/economie/l-autorite-des-marches-financiers-alerte-sur-une-plateforme-de-trading-frauduleuse-usurpant-l-identite-de-medias-30303314.php",
-   "n_members": 57,
+   "n_members": 58,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -883,12 +883,12 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.596,
+   "divergence": 0.576,
    "category": "économie",
    "terms_left": [
     "comptes",
-    "rentrée",
-    "gouvernement veut"
+    "gouvernement",
+    "euros an"
    ],
    "terms_right": [
     "moyenne",
@@ -899,7 +899,7 @@
   {
    "title": "Cancer du pancréas : un traitement prometteur approuvé par les Etats-Unis",
    "url": "https://www.sudouest.fr/sante/cancer-de-la-peau-moderna-et-merck-annoncent-les-resultats-positifs-d-un-vaccin-experimental-30304119.php",
-   "n_members": 38,
+   "n_members": 40,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -913,10 +913,18 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.414,
+   "divergence": 0.403,
    "category": "société",
-   "terms_left": [],
-   "terms_right": []
+   "terms_left": [
+    "durée",
+    "arn",
+    "messager"
+   ],
+   "terms_right": [
+    "résultats",
+    "mois",
+    "vaccin"
+   ]
   },
   {
    "title": "Les États-Unis retirent la Syrie de leur liste des pays accusés de soutenir le terrorisme",
@@ -935,17 +943,17 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.788,
+   "divergence": 0.758,
    "category": "international",
    "terms_left": [
-    "année",
     "pays-bas",
-    "europe"
+    "eurovision",
+    "concours"
    ],
    "terms_right": [
     "pays",
-    "euros",
-    "états-unis"
+    "états-unis",
+    "prix"
    ]
   },
   {
@@ -965,17 +973,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.333,
+   "divergence": 0.417,
    "category": "international",
    "terms_left": [
     "mbs",
-    "économiques",
-    "khashoggi"
+    "france",
+    "saoudite"
    ],
    "terms_right": [
-    "saoudien mohammed",
-    "mohammed ben",
-    "mohammed"
+    "emmanuel macron",
+    "emmanuel",
+    "mohammed ben"
    ]
   },
   {
@@ -995,17 +1003,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.664,
+   "divergence": 0.682,
    "category": "politique",
    "terms_left": [
-    "gauche",
     "incendies",
-    "jt"
+    "glucksmann",
+    "raphaël"
    ],
    "terms_right": [
     "candidat",
-    "socialiste",
-    "philippe"
+    "philippe",
+    "primaire"
    ]
   },
   {
@@ -1025,7 +1033,7 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.615,
+   "divergence": 0.613,
    "category": "économie",
    "terms_left": [
     "gouvernement",
@@ -1151,9 +1159,9 @@
    "terms_right": []
   },
   {
-   "title": "«Pas de leçons d'impartialité à recevoir» : Laurent Nuñez répond à Jean-Luc Mélenchon qui accuse des préfets de «procès» contre des députés LFI",
+   "title": "LFI : Manon Aubry veut \"interdire les milliardaires\" car ils sont \"des formes de nuisibles\"… Les propos polémiques de la députée européenne",
    "url": "https://www.lefigaro.fr/secteur/high-tech/cybersecurite-qu-est-ce-qu-un-systeme-de-bug-bounty-que-l-etat-veut-utiliser-contre-les-piratages-20260820",
-   "n_members": 56,
+   "n_members": 57,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1167,16 +1175,16 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.855,
+   "divergence": 0.908,
    "category": "politique",
    "terms_left": [
     "extrême",
     "victimes",
-    "pouvoir"
+    "droite"
    ],
    "terms_right": [
-    "mélenchon",
-    "insoumise",
+    "france",
+    "qu",
     "veut"
    ]
   }
