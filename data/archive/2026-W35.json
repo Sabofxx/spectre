@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-29T19:01:30+00:00",
+ "generated_at": "2026-08-29T21:34:16+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -81,37 +81,37 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.61,
+   "divergence": 0.623,
    "category": "économie",
    "terms_left": [
     "accord",
-    "dollars",
-    "milliards dollars"
+    "milliards dollars",
+    "dollars"
    ],
    "terms_right": [
-    "ans",
     "électronique",
+    "facturation",
     "facturation électronique"
    ]
   },
   {
    "title": "Crue au Népal-Tibet en direct : près de 1 500 disparus dans des coulées de boue",
    "url": "https://www.sudouest.fr/international/chine/chine-une-coulee-de-boue-cote-nepalais-a-fait-de-nombreuses-victimes-au-tibet-30371272.php",
-   "n_members": 256,
-   "n_sources": 33,
+   "n_members": 262,
+   "n_sources": 34,
    "counts": {
     "left": 8,
     "centre": 17,
-    "right": 8
+    "right": 9
    },
    "style_counts": {
-    "factuel": 20,
+    "factuel": 21,
     "mixte": 10,
     "opinion": 3
    },
-   "blindspot_score": 0.0,
+   "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.205,
+   "divergence": 0.209,
    "category": "international",
    "terms_left": [
     "morts disparus",
@@ -141,12 +141,12 @@
    },
    "blindspot_score": 0.158,
    "blindspot_for": null,
-   "divergence": 0.403,
+   "divergence": 0.399,
    "category": "politique",
    "terms_left": [
     "programme",
-    "chefs",
-    "chefs entreprise"
+    "programme économique",
+    "chefs"
    ],
    "terms_right": [
     "face",
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.258,
+   "divergence": 0.259,
    "category": "politique",
    "terms_left": [
     "primaire",
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.365,
+   "divergence": 0.364,
    "category": "économie",
    "terms_left": [
     "macron",
@@ -331,13 +331,13 @@
    "terms_right": [
     "france",
     "saoudiens",
-    "dragon ball"
+    "ball"
    ]
   },
   {
    "title": "Guerre en Ukraine : au moins 27 morts dans une frappe russe sur un entrepôt près de Kiev",
    "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/08/20/nuit-meurtriere-a-kiev-16-morts-et-une-cinquantaine-de-blesses-apres-des-frappes-russes",
-   "n_members": 550,
+   "n_members": 552,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.296,
+   "divergence": 0.297,
    "category": "international",
    "terms_left": [
     "direct",
@@ -360,8 +360,8 @@
    ],
    "terms_right": [
     "entrepôt",
-    "frappe",
-    "russie"
+    "drone",
+    "frappe"
    ]
   },
   {
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.636,
+   "divergence": 0.637,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -591,11 +591,11 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.398,
+   "divergence": 0.397,
    "category": "culture",
    "terms_left": [
-    "mungiu",
     "cristian mungiu",
+    "mungiu",
     "cristian"
    ],
    "terms_right": [
@@ -651,17 +651,17 @@
    },
    "blindspot_score": -0.286,
    "blindspot_for": null,
-   "divergence": 0.147,
+   "divergence": 0.149,
    "category": "culture",
    "terms_left": [
+    "amérique",
     "parton morte",
-    "états-unis",
-    "amérique"
+    "états-unis"
    ],
    "terms_right": [
     "légende",
-    "trump",
-    "donald"
+    "chanteuse",
+    "âge ans"
    ]
   },
   {
@@ -831,7 +831,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.751,
+   "divergence": 0.752,
    "category": "société",
    "terms_left": [
     "mer",
@@ -973,17 +973,47 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.402,
+   "divergence": 0.397,
    "category": "société",
    "terms_left": [
-    "durée",
-    "messager",
-    "arn"
+    "cancer pancréas",
+    "pancréas",
+    "traitement"
    ],
    "terms_right": [
+    "vaccin",
     "résultats",
-    "mois",
-    "vaccin"
+    "cancer"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : Xavier Bertrand officialise sa candidature et écarte toute primaire",
+   "url": "https://www.ouest-france.fr/elections/presidentielle/karim-bouamrane-candidat-ps-a-lelection-presidentielle-ne-participera-pas-a-la-primaire-socialiste-doctobre-b3c93008-a110-11f1-bba4-fb5ac80a227f",
+   "n_members": 66,
+   "n_sources": 24,
+   "counts": {
+    "left": 7,
+    "centre": 9,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.488,
+   "category": "politique",
+   "terms_left": [
+    "olivier",
+    "olivier faure",
+    "ps"
+   ],
+   "terms_right": [
+    "droite",
+    "centre",
+    "élection présidentielle"
    ]
   },
   {
@@ -1014,36 +1044,6 @@
     "prix",
     "guerre",
     "eau"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : Xavier Bertrand officialise sa candidature et écarte toute primaire",
-   "url": "https://www.ouest-france.fr/elections/presidentielle/karim-bouamrane-candidat-ps-a-lelection-presidentielle-ne-participera-pas-a-la-primaire-socialiste-doctobre-b3c93008-a110-11f1-bba4-fb5ac80a227f",
-   "n_members": 64,
-   "n_sources": 24,
-   "counts": {
-    "left": 7,
-    "centre": 9,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 9,
-    "opinion": 4
-   },
-   "blindspot_score": 0.067,
-   "blindspot_for": null,
-   "divergence": 0.49,
-   "category": "politique",
-   "terms_left": [
-    "olivier",
-    "olivier faure",
-    "ps"
-   ],
-   "terms_right": [
-    "droite",
-    "centre",
-    "élection présidentielle"
    ]
   },
   {
@@ -1169,7 +1169,7 @@
   {
    "title": "Venezuela. Trump signe un accord « historique » avec Caracas pour contrôler la majorité des réserves de pétrole",
    "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260828-des-n%C3%A9gociations-en-vue-d-un-accord-entre-les-%C3%A9tats-unis-et-le-venezuela-pour-le-p%C3%A9trole",
-   "n_members": 29,
+   "n_members": 30,
    "n_sources": 24,
    "counts": {
     "left": 5,
