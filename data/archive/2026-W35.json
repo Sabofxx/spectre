@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-29T04:14:52+00:00",
+ "generated_at": "2026-08-29T11:16:19+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.247,
+   "divergence": 0.248,
    "category": "sciences-tech",
    "terms_left": [
     "direction",
@@ -67,7 +67,7 @@
   {
    "title": "Meta évite un procès grâce à un accord à plus de 12 milliards de dollars pour protéger les mineurs des réseaux sociaux",
    "url": "https://www.europe1.fr/societe/je-pense-que-cest-tres-dangereux-la-facture-electronique-prochaine-cibles-des-hackers-1026188",
-   "n_members": 89,
+   "n_members": 90,
    "n_sources": 35,
    "counts": {
     "left": 7,
@@ -81,23 +81,83 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.598,
+   "divergence": 0.589,
    "category": "économie",
    "terms_left": [
-    "accord",
+    "milliards dollars",
     "dollars",
-    "milliards dollars"
+    "accord"
    ],
    "terms_right": [
-    "ans",
     "électronique",
+    "ans",
     "facturation électronique"
    ]
   },
   {
-   "title": "Présidentielle 2027 : Accord entre le PS et le parti de Glucksmann sur la primaire",
+   "title": "Crue au Népal-Tibet en direct : près de 1 500 disparus dans des coulées de boue",
+   "url": "https://www.sudouest.fr/international/chine/chine-une-coulee-de-boue-cote-nepalais-a-fait-de-nombreuses-victimes-au-tibet-30371272.php",
+   "n_members": 247,
+   "n_sources": 33,
+   "counts": {
+    "left": 8,
+    "centre": 17,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 20,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.225,
+   "category": "international",
+   "terms_left": [
+    "morts disparus",
+    "inondations népal",
+    "effondrement"
+   ],
+   "terms_right": [
+    "frontière népal",
+    "français",
+    "nouveau"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027. Suivez le tout premier débat entre les principaux candidats, devant les patrons du Medef",
+   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260823-br%C3%A9sil-la-campagne-pour-la-pr%C3%A9sidentielle-oppose-deux-visions-sociale-contre-s%C3%A9curitaire",
+   "n_members": 157,
+   "n_sources": 33,
+   "counts": {
+    "left": 8,
+    "centre": 14,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 10,
+    "opinion": 5
+   },
+   "blindspot_score": 0.158,
+   "blindspot_for": null,
+   "divergence": 0.407,
+   "category": "politique",
+   "terms_left": [
+    "programme",
+    "chefs",
+    "chefs entreprise"
+   ],
+   "terms_right": [
+    "face",
+    "candidats présidentielle",
+    "roland-garros"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : le Parti socialiste fait sa rentrée politique à Blois, avec en ligne de mire la primaire",
    "url": "https://www.bfmtv.com/politique/parti-socialiste/video-retraites-le-depute-ps-philippe-brun-propose-de-reactiver-un-fonds-de-reserve-public-et-souverain-pour-completer-le-systeme-par-repartition_VN-202608200282.html",
-   "n_members": 138,
+   "n_members": 140,
    "n_sources": 33,
    "counts": {
     "left": 6,
@@ -111,12 +171,12 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.24,
+   "divergence": 0.249,
    "category": "politique",
    "terms_left": [
+    "primaire",
     "primaire ps",
-    "candidature raphaël",
-    "primaire"
+    "candidature raphaël"
    ],
    "terms_right": [
     "présidentielle raphaël",
@@ -141,77 +201,17 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.27,
+   "divergence": 0.277,
    "category": "international",
    "terms_left": [
     "direct",
-    "direct guerre",
-    "etats-unis"
+    "etats-unis",
+    "téhéran"
    ],
    "terms_right": [
     "états-unis",
     "détroit",
     "ormuz"
-   ]
-  },
-  {
-   "title": "Crue au Népal-Tibet en direct : près de 1 500 disparus dans des coulées de boue",
-   "url": "https://www.sudouest.fr/international/chine/chine-une-coulee-de-boue-cote-nepalais-a-fait-de-nombreuses-victimes-au-tibet-30371272.php",
-   "n_members": 228,
-   "n_sources": 32,
-   "counts": {
-    "left": 8,
-    "centre": 17,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 19,
-    "mixte": 10,
-    "opinion": 3
-   },
-   "blindspot_score": -0.067,
-   "blindspot_for": null,
-   "divergence": 0.227,
-   "category": "international",
-   "terms_left": [
-    "morts disparus",
-    "effondrement",
-    "inondations népal"
-   ],
-   "terms_right": [
-    "frontière népal",
-    "français",
-    "touristes étrangers"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027. Suivez le tout premier débat entre les principaux candidats, devant les patrons du Medef",
-   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260823-br%C3%A9sil-la-campagne-pour-la-pr%C3%A9sidentielle-oppose-deux-visions-sociale-contre-s%C3%A9curitaire",
-   "n_members": 156,
-   "n_sources": 32,
-   "counts": {
-    "left": 7,
-    "centre": 14,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 18,
-    "mixte": 9,
-    "opinion": 5
-   },
-   "blindspot_score": 0.222,
-   "blindspot_for": null,
-   "divergence": 0.414,
-   "category": "politique",
-   "terms_left": [
-    "programme",
-    "chefs",
-    "chefs entreprise"
-   ],
-   "terms_right": [
-    "face",
-    "ref",
-    "candidats présidentielle"
    ]
   },
   {
@@ -291,17 +291,17 @@
    },
    "blindspot_score": -0.143,
    "blindspot_for": null,
-   "divergence": 0.225,
+   "divergence": 0.228,
    "category": "environnement",
    "terms_left": [
-    "lendemain",
-    "toits",
-    "commune pomas"
+    "blessés",
+    "détruit",
+    "partiellement"
    ],
    "terms_right": [
     "dégâts",
-    "tornade pomas",
-    "endommagées"
+    "images",
+    "pomas aude"
    ]
   },
   {
@@ -321,47 +321,17 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.333,
+   "divergence": 0.356,
    "category": "économie",
    "terms_left": [
     "macron",
     "annonce",
-    "créer"
+    "financés"
    ],
    "terms_right": [
     "france",
-    "ball",
-    "dragon ball"
-   ]
-  },
-  {
-   "title": "Deux morts dans la chute d'un drone en Russie, un immense entrepôt de Wildberries ravagé par un incendie",
-   "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/08/20/nuit-meurtriere-a-kiev-16-morts-et-une-cinquantaine-de-blesses-apres-des-frappes-russes",
-   "n_members": 541,
-   "n_sources": 30,
-   "counts": {
-    "left": 7,
-    "centre": 13,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 10,
-    "opinion": 3
-   },
-   "blindspot_score": 0.176,
-   "blindspot_for": null,
-   "divergence": 0.283,
-   "category": "international",
-   "terms_left": [
-    "direct",
-    "direct guerre",
-    "guerre ukraine"
-   ],
-   "terms_right": [
-    "russie",
-    "ukraine morts",
-    "frappe"
+    "dragon ball",
+    "ball"
    ]
   },
   {
@@ -425,6 +395,36 @@
    ]
   },
   {
+   "title": "Guerre en Ukraine : au moins 27 morts dans une frappe russe sur un entrepôt près de Kiev",
+   "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/08/20/nuit-meurtriere-a-kiev-16-morts-et-une-cinquantaine-de-blesses-apres-des-frappes-russes",
+   "n_members": 545,
+   "n_sources": 29,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.125,
+   "blindspot_for": null,
+   "divergence": 0.295,
+   "category": "international",
+   "terms_left": [
+    "direct",
+    "direct guerre",
+    "guerre ukraine"
+   ],
+   "terms_right": [
+    "russie",
+    "ukraine morts",
+    "frappe"
+   ]
+  },
+  {
    "title": "Présidentielle 2027 : à La Réunion, Edouard Philippe veut compter ses forces et des ralliements",
    "url": "https://www.20minutes.fr/societe/4239546-20260817-info-midi-2-minutes-star-eteint-hollywood-lecornu-hue-gironde-roi-leon",
    "n_members": 153,
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.383,
+   "divergence": 0.381,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -501,17 +501,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.668,
+   "divergence": 0.669,
    "category": "environnement",
    "terms_left": [
-    "face",
     "canicules",
+    "face",
     "précoces"
    ],
    "terms_right": [
     "pommes",
     "terre",
-    "canicule"
+    "pommes terre"
    ]
   },
   {
@@ -531,7 +531,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.659,
+   "divergence": 0.658,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -561,7 +561,7 @@
    },
    "blindspot_score": -0.231,
    "blindspot_for": null,
-   "divergence": 0.792,
+   "divergence": 0.789,
    "category": "environnement",
    "terms_left": [
     "climatique",
@@ -591,7 +591,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.407,
+   "divergence": 0.398,
    "category": "culture",
    "terms_left": [
     "mungiu",
@@ -599,9 +599,9 @@
     "cristian"
    ],
    "terms_right": [
-    "affiche",
     "qu",
-    "cinéaste"
+    "cinéaste",
+    "affiche"
    ]
   },
   {
@@ -651,17 +651,17 @@
    },
    "blindspot_score": -0.286,
    "blindspot_for": null,
-   "divergence": 0.175,
+   "divergence": 0.152,
    "category": "culture",
    "terms_left": [
-    "interprète jolene",
-    "jolene",
-    "figure"
+    "morte ans",
+    "amérique",
+    "états-unis"
    ],
    "terms_right": [
-    "qu",
-    "hommage",
-    "âge"
+    "américaine",
+    "légende",
+    "country morte"
    ]
   },
   {
@@ -684,14 +684,14 @@
    "divergence": 0.273,
    "category": "société",
    "terms_left": [
-    "rentrée scolaire",
     "portables interdits",
-    "scolaire"
+    "rentrée scolaire",
+    "interdits"
    ],
    "terms_right": [
-    "interdiction",
     "lycées",
-    "portable lycée"
+    "interdiction",
+    "portables lycées"
    ]
   },
   {
@@ -711,12 +711,12 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.558,
+   "divergence": 0.556,
    "category": "international",
    "terms_left": [
-    "tiktok",
     "accusée",
-    "millions"
+    "tiktok",
+    "accusée appâté"
    ],
    "terms_right": [
     "facebook",
@@ -741,22 +741,22 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.379,
+   "divergence": 0.369,
    "category": "politique",
    "terms_left": [
     "déplacement",
     "annoncé",
-    "chido ministre"
+    "lutte"
    ],
    "terms_right": [
     "français",
-    "an",
-    "présidentielle"
+    "lecornu",
+    "face"
    ]
   },
   {
    "title": "Guerre en Ukraine: Kiev s'attaque au géant du e-commerce russe Ozon en visant deux entrepôts en deux jours",
-   "url": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-l-ex-ministre-de-la-defense-ukrainien-mykhailo-fedorov-affirme-que-son-eviction-est-liee-a-la-resistance-suscitee-par-ses-reformes_6732775_3210.html",
+   "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-une-enorme-detonation-un-missile-russe-parcourt-100-km-au-dessus-de-la-pologne-et-secrase-dans-un-champ-30-07-2026-T3DYWS3VJ5GJXPO6TNRZCX7EYE.php",
    "n_members": 103,
    "n_sources": 25,
    "counts": {
@@ -817,7 +817,7 @@
   {
    "title": "Rentrée scolaire 2026 : l'inquiétude grandit après plusieurs cyberattaques contre l'Éducation nationale",
    "url": "https://www.lejdd.fr/Societe/secours-populaire-la-chance-dune-journee-de-vacances-181188",
-   "n_members": 83,
+   "n_members": 84,
    "n_sources": 25,
    "counts": {
     "left": 8,
@@ -913,7 +913,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.442,
+   "divergence": 0.443,
    "category": "international",
    "terms_left": [
     "mbs",
@@ -943,17 +943,17 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.501,
+   "divergence": 0.518,
    "category": "économie",
    "terms_left": [
     "gouvernement",
-    "rentrée",
-    "gouvernement veut"
+    "gouvernement veut",
+    "veut"
    ],
    "terms_right": [
     "français",
-    "moyenne",
-    "qu"
+    "qu",
+    "moyenne"
    ]
   },
   {
@@ -973,7 +973,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.402,
+   "divergence": 0.401,
    "category": "société",
    "terms_left": [
     "durée",
@@ -1079,7 +1079,7 @@
   {
    "title": "Rentrée scolaire : les changements attendus pour les élèves, de la maternelle à la terminale",
    "url": "https://www.ouest-france.fr/politique/aurore-berge/entretien-nous-avons-besoin-dune-revolution-aurore-berge-detaille-le-plan-de-lexecutif-apres-la-mort-de-lyhanna-7857fb80-9d69-11f1-a8ad-3219df531147",
-   "n_members": 58,
+   "n_members": 60,
    "n_sources": 24,
    "counts": {
     "left": 7,
@@ -1093,23 +1093,23 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.536,
+   "divergence": 0.543,
    "category": "société",
    "terms_left": [
-    "sexistes sexuelles",
-    "violences sexistes",
-    "edouard"
+    "élèves handicapés",
+    "handicapés",
+    "scolarisation"
    ],
    "terms_right": [
-    "ministre éducation",
     "violences sexuelles",
+    "ministre éducation",
     "ministre"
    ]
   },
   {
    "title": "Le député insoumis Sébastien Delogu placé en garde à vue après une altercation avec des policiers à Marseille",
    "url": "https://www.bfmtv.com/police-justice/info-bfmtv-le-depute-lfi-sebastien-delogu-vise-par-une-plainte-de-policiers-pour-outrage_AN-202608250576.html",
-   "n_members": 56,
+   "n_members": 57,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -1123,17 +1123,17 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.247,
+   "divergence": 0.254,
    "category": "politique",
    "terms_left": [
     "opposé",
     "parlementaire",
-    "civil"
+    "début"
    ],
    "terms_right": [
     "outrage",
-    "delogu",
-    "sébastien delogu"
+    "insoumis",
+    "député insoumis"
    ]
   },
   {
