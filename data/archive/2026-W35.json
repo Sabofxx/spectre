@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-29T15:43:37+00:00",
+ "generated_at": "2026-08-29T19:01:30+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -29,9 +29,9 @@
     "finances"
    ],
    "terms_right": [
-    "état",
+    "dgfip",
     "données",
-    "dgfip"
+    "état"
    ]
   },
   {
@@ -81,12 +81,12 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.6,
+   "divergence": 0.61,
    "category": "économie",
    "terms_left": [
+    "accord",
     "dollars",
-    "milliards dollars",
-    "accord"
+    "milliards dollars"
    ],
    "terms_right": [
     "ans",
@@ -97,7 +97,7 @@
   {
    "title": "Crue au Népal-Tibet en direct : près de 1 500 disparus dans des coulées de boue",
    "url": "https://www.sudouest.fr/international/chine/chine-une-coulee-de-boue-cote-nepalais-a-fait-de-nombreuses-victimes-au-tibet-30371272.php",
-   "n_members": 254,
+   "n_members": 256,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.213,
+   "divergence": 0.205,
    "category": "international",
    "terms_left": [
     "morts disparus",
@@ -119,15 +119,15 @@
     "effondrement"
    ],
    "terms_right": [
-    "français",
-    "frontière népal",
-    "portés disparus"
+    "portés disparus",
+    "portés",
+    "frontière népal"
    ]
   },
   {
    "title": "Présidentielle 2027. Suivez le tout premier débat entre les principaux candidats, devant les patrons du Medef",
    "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260823-br%C3%A9sil-la-campagne-pour-la-pr%C3%A9sidentielle-oppose-deux-visions-sociale-contre-s%C3%A9curitaire",
-   "n_members": 158,
+   "n_members": 159,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.158,
    "blindspot_for": null,
-   "divergence": 0.421,
+   "divergence": 0.403,
    "category": "politique",
    "terms_left": [
     "programme",
@@ -201,12 +201,12 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.274,
+   "divergence": 0.271,
    "category": "international",
    "terms_left": [
     "direct",
     "etats-unis",
-    "discussions"
+    "guerre iran"
    ],
    "terms_right": [
     "états-unis",
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.364,
+   "divergence": 0.365,
    "category": "économie",
    "terms_left": [
     "macron",
@@ -337,7 +337,7 @@
   {
    "title": "Guerre en Ukraine : au moins 27 morts dans une frappe russe sur un entrepôt près de Kiev",
    "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/08/20/nuit-meurtriere-a-kiev-16-morts-et-une-cinquantaine-de-blesses-apres-des-frappes-russes",
-   "n_members": 551,
+   "n_members": 550,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.298,
+   "divergence": 0.296,
    "category": "international",
    "terms_left": [
     "direct",
@@ -361,7 +361,7 @@
    "terms_right": [
     "entrepôt",
     "frappe",
-    "drone"
+    "russie"
    ]
   },
   {
@@ -455,9 +455,9 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : Sébastien Lecornu réaffirme ne pas être candidat et esquisse ses pistes budgétaires",
+   "title": "Politique. Pas de candidature en 2027, pistes pour le budget... Sébastien Lecornu s'exprime avant la rentrée",
    "url": "https://www.europe1.fr/politique/jusqua-400eu-le-week-end-le-tarif-des-universites-dete-de-lfi-fait-polemique-1014659",
-   "n_members": 112,
+   "n_members": 114,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.646,
+   "divergence": 0.636,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -480,8 +480,8 @@
    ],
    "terms_right": [
     "candidat",
-    "lecornu",
-    "sébastien lecornu"
+    "bruno maire",
+    "bruno"
    ]
   },
   {
@@ -541,7 +541,7 @@
    "terms_right": [
     "pommes",
     "terre",
-    "pommes terre"
+    "canicule"
    ]
   },
   {
@@ -561,17 +561,17 @@
    },
    "blindspot_score": -0.231,
    "blindspot_for": null,
-   "divergence": 0.789,
+   "divergence": 0.787,
    "category": "environnement",
    "terms_left": [
-    "climatique",
     "changement climatique",
-    "changement"
+    "changement",
+    "climatique"
    ],
    "terms_right": [
     "chaleur",
-    "incendies",
-    "sécheresse"
+    "fois",
+    "surfaces brûlées"
    ]
   },
   {
@@ -594,8 +594,8 @@
    "divergence": 0.398,
    "category": "culture",
    "terms_left": [
-    "cristian mungiu",
     "mungiu",
+    "cristian mungiu",
     "cristian"
    ],
    "terms_right": [
@@ -635,9 +635,9 @@
    ]
   },
   {
-   "title": "La légende de la country Dolly Parton est morte à 80 ans",
+   "title": "Mort de Dolly Parton : la reine de la country a laissé une chanson inédite qui ne pourra être écoutée qu'en 2046",
    "url": "http://fr.euronews.com/culture/2026/08/24/dolly-parton-evoque-sa-sante-et-envisage-des-concerts-en-avatar",
-   "n_members": 92,
+   "n_members": 93,
    "n_sources": 27,
    "counts": {
     "left": 9,
@@ -651,17 +651,17 @@
    },
    "blindspot_score": -0.286,
    "blindspot_for": null,
-   "divergence": 0.145,
+   "divergence": 0.147,
    "category": "culture",
    "terms_left": [
-    "amérique",
+    "parton morte",
     "états-unis",
-    "parton morte"
+    "amérique"
    ],
    "terms_right": [
     "légende",
-    "country morte",
-    "trump"
+    "trump",
+    "donald"
    ]
   },
   {
@@ -681,7 +681,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.274,
+   "divergence": 0.275,
    "category": "société",
    "terms_left": [
     "portables interdits",
@@ -689,8 +689,8 @@
     "interdits"
    ],
    "terms_right": [
-    "lycées",
     "interdiction",
+    "lycées",
     "portables lycées"
    ]
   },
@@ -711,7 +711,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.556,
+   "divergence": 0.555,
    "category": "international",
    "terms_left": [
     "accusée",
@@ -725,32 +725,32 @@
    ]
   },
   {
-   "title": "Militaires, drones, navires... À Mayotte, Sébastien Lecornu veut changer d'échelle face à l'immigration clandestine",
+   "title": "Mayotte : un laboratoire à ciel ouvert pour les politiques migratoires françaises",
    "url": "https://www.lefigaro.fr/elections/presidentielles/mayotte-c-est-ceuta-et-melilla-au-carre-le-cri-d-alerte-de-la-deputee-estelle-youssouffa-aux-candidats-a-la-presidentielle-20260820",
-   "n_members": 61,
-   "n_sources": 26,
+   "n_members": 62,
+   "n_sources": 27,
    "counts": {
-    "left": 5,
+    "left": 6,
     "centre": 12,
     "right": 9
    },
    "style_counts": {
     "factuel": 14,
-    "mixte": 7,
+    "mixte": 8,
     "opinion": 5
    },
-   "blindspot_score": 0.286,
+   "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.354,
+   "divergence": 0.343,
    "category": "politique",
    "terms_left": [
     "déplacement",
-    "déplacement mayotte",
-    "lecornu mayotte"
+    "lutte",
+    "déplacement mayotte"
    ],
    "terms_right": [
     "français",
-    "face",
+    "propos",
     "ans"
    ]
   },
@@ -943,7 +943,7 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.516,
+   "divergence": 0.514,
    "category": "économie",
    "terms_left": [
     "gouvernement",
@@ -973,7 +973,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.401,
+   "divergence": 0.402,
    "category": "société",
    "terms_left": [
     "durée",
@@ -1014,6 +1014,36 @@
     "prix",
     "guerre",
     "eau"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : Xavier Bertrand officialise sa candidature et écarte toute primaire",
+   "url": "https://www.ouest-france.fr/elections/presidentielle/karim-bouamrane-candidat-ps-a-lelection-presidentielle-ne-participera-pas-a-la-primaire-socialiste-doctobre-b3c93008-a110-11f1-bba4-fb5ac80a227f",
+   "n_members": 64,
+   "n_sources": 24,
+   "counts": {
+    "left": 7,
+    "centre": 9,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.49,
+   "category": "politique",
+   "terms_left": [
+    "olivier",
+    "olivier faure",
+    "ps"
+   ],
+   "terms_right": [
+    "droite",
+    "centre",
+    "élection présidentielle"
    ]
   },
   {
@@ -1093,7 +1123,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.575,
+   "divergence": 0.574,
    "category": "société",
    "terms_left": [
     "élèves handicapés",
@@ -1123,23 +1153,23 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.259,
+   "divergence": 0.233,
    "category": "politique",
    "terms_left": [
     "opposé",
-    "parlementaire",
-    "début"
+    "début",
+    "libre"
    ],
    "terms_right": [
+    "marseille",
     "outrage",
-    "insoumis",
-    "député insoumis"
+    "insoumis"
    ]
   },
   {
    "title": "Venezuela. Trump signe un accord « historique » avec Caracas pour contrôler la majorité des réserves de pétrole",
    "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260828-des-n%C3%A9gociations-en-vue-d-un-accord-entre-les-%C3%A9tats-unis-et-le-venezuela-pour-le-p%C3%A9trole",
-   "n_members": 28,
+   "n_members": 29,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -1164,36 +1194,6 @@
     "états-unis",
     "grand",
     "pays"
-   ]
-  },
-  {
-   "title": "Rentrée scolaire : malgré la baisse des prix affichée, la facture des fournitures reste lourde pour les parents",
-   "url": "https://www.franceinfo.fr/culture/livres/la-rentree-litteraire/rentree-litteraire-2026-quelque-461-romans-pour-une-reprise-resolument-variee_8146112.html",
-   "n_members": 72,
-   "n_sources": 23,
-   "counts": {
-    "left": 6,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 10,
-    "opinion": 2
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.419,
-   "category": "économie",
-   "terms_left": [
-    "qu",
-    "budget",
-    "familles"
-   ],
-   "terms_right": [
-    "fournitures",
-    "année",
-    "fin"
    ]
   }
  ]
