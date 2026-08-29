@@ -1,6 +1,6 @@
 {
  "week": "2026-W35",
- "generated_at": "2026-08-29T11:16:19+00:00",
+ "generated_at": "2026-08-29T15:43:37+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,17 +21,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.248,
+   "divergence": 0.242,
    "category": "sciences-tech",
    "terms_left": [
     "direction",
-    "finances",
-    "finances publiques"
+    "crise",
+    "finances"
    ],
    "terms_right": [
     "état",
     "données",
-    "impôts"
+    "dgfip"
    ]
   },
   {
@@ -81,23 +81,23 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.589,
+   "divergence": 0.6,
    "category": "économie",
    "terms_left": [
-    "milliards dollars",
     "dollars",
+    "milliards dollars",
     "accord"
    ],
    "terms_right": [
-    "électronique",
     "ans",
+    "électronique",
     "facturation électronique"
    ]
   },
   {
    "title": "Crue au Népal-Tibet en direct : près de 1 500 disparus dans des coulées de boue",
    "url": "https://www.sudouest.fr/international/chine/chine-une-coulee-de-boue-cote-nepalais-a-fait-de-nombreuses-victimes-au-tibet-30371272.php",
-   "n_members": 247,
+   "n_members": 254,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.225,
+   "divergence": 0.213,
    "category": "international",
    "terms_left": [
     "morts disparus",
@@ -119,15 +119,15 @@
     "effondrement"
    ],
    "terms_right": [
-    "frontière népal",
     "français",
-    "nouveau"
+    "frontière népal",
+    "portés disparus"
    ]
   },
   {
    "title": "Présidentielle 2027. Suivez le tout premier débat entre les principaux candidats, devant les patrons du Medef",
    "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260823-br%C3%A9sil-la-campagne-pour-la-pr%C3%A9sidentielle-oppose-deux-visions-sociale-contre-s%C3%A9curitaire",
-   "n_members": 157,
+   "n_members": 158,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.158,
    "blindspot_for": null,
-   "divergence": 0.407,
+   "divergence": 0.421,
    "category": "politique",
    "terms_left": [
     "programme",
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.249,
+   "divergence": 0.258,
    "category": "politique",
    "terms_left": [
     "primaire",
@@ -201,12 +201,12 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.277,
+   "divergence": 0.274,
    "category": "international",
    "terms_left": [
     "direct",
     "etats-unis",
-    "téhéran"
+    "discussions"
    ],
    "terms_right": [
     "états-unis",
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.561,
+   "divergence": 0.562,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -291,7 +291,7 @@
    },
    "blindspot_score": -0.143,
    "blindspot_for": null,
-   "divergence": 0.228,
+   "divergence": 0.227,
    "category": "environnement",
    "terms_left": [
     "blessés",
@@ -301,7 +301,7 @@
    "terms_right": [
     "dégâts",
     "images",
-    "pomas aude"
+    "tornade aude"
    ]
   },
   {
@@ -321,17 +321,47 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.356,
+   "divergence": 0.364,
    "category": "économie",
    "terms_left": [
     "macron",
-    "annonce",
-    "financés"
+    "emmanuel",
+    "emmanuel macron"
    ],
    "terms_right": [
     "france",
-    "dragon ball",
-    "ball"
+    "saoudiens",
+    "dragon ball"
+   ]
+  },
+  {
+   "title": "Guerre en Ukraine : au moins 27 morts dans une frappe russe sur un entrepôt près de Kiev",
+   "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/08/20/nuit-meurtriere-a-kiev-16-morts-et-une-cinquantaine-de-blesses-apres-des-frappes-russes",
+   "n_members": 551,
+   "n_sources": 30,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 11,
+    "opinion": 3
+   },
+   "blindspot_score": 0.176,
+   "blindspot_for": null,
+   "divergence": 0.298,
+   "category": "international",
+   "terms_left": [
+    "direct",
+    "direct guerre",
+    "guerre ukraine"
+   ],
+   "terms_right": [
+    "entrepôt",
+    "frappe",
+    "drone"
    ]
   },
   {
@@ -351,7 +381,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.141,
+   "divergence": 0.14,
    "category": "sciences-tech",
    "terms_left": [
     "française sortir",
@@ -395,36 +425,6 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine : au moins 27 morts dans une frappe russe sur un entrepôt près de Kiev",
-   "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/08/20/nuit-meurtriere-a-kiev-16-morts-et-une-cinquantaine-de-blesses-apres-des-frappes-russes",
-   "n_members": 545,
-   "n_sources": 29,
-   "counts": {
-    "left": 7,
-    "centre": 13,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 10,
-    "opinion": 3
-   },
-   "blindspot_score": 0.125,
-   "blindspot_for": null,
-   "divergence": 0.295,
-   "category": "international",
-   "terms_left": [
-    "direct",
-    "direct guerre",
-    "guerre ukraine"
-   ],
-   "terms_right": [
-    "russie",
-    "ukraine morts",
-    "frappe"
-   ]
-  },
-  {
    "title": "Présidentielle 2027 : à La Réunion, Edouard Philippe veut compter ses forces et des ralliements",
    "url": "https://www.20minutes.fr/societe/4239546-20260817-info-midi-2-minutes-star-eteint-hollywood-lecornu-hue-gironde-roi-leon",
    "n_members": 153,
@@ -452,6 +452,36 @@
     "édouard",
     "édouard philippe",
     "mayotte"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : Sébastien Lecornu réaffirme ne pas être candidat et esquisse ses pistes budgétaires",
+   "url": "https://www.europe1.fr/politique/jusqua-400eu-le-week-end-le-tarif-des-universites-dete-de-lfi-fait-polemique-1014659",
+   "n_members": 112,
+   "n_sources": 29,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 6
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.646,
+   "category": "politique",
+   "terms_left": [
+    "gauche",
+    "fabien",
+    "roussel"
+   ],
+   "terms_right": [
+    "candidat",
+    "lecornu",
+    "sébastien lecornu"
    ]
   },
   {
@@ -515,36 +545,6 @@
    ]
   },
   {
-   "title": "Présidentielle 2027: François Hollande n'écarte pas une candidature \"si la situation l'exige\"",
-   "url": "https://www.europe1.fr/politique/jusqua-400eu-le-week-end-le-tarif-des-universites-dete-de-lfi-fait-polemique-1014659",
-   "n_members": 96,
-   "n_sources": 28,
-   "counts": {
-    "left": 6,
-    "centre": 10,
-    "right": 12
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 6
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.658,
-   "category": "politique",
-   "terms_left": [
-    "gauche",
-    "fabien",
-    "roussel"
-   ],
-   "terms_right": [
-    "bruno maire",
-    "bruno",
-    "maire"
-   ]
-  },
-  {
    "title": "Canicule : plus de 30.000 décès survenus en Europe cet été liés aux différentes vagues de chaleur",
    "url": "https://www.humanite.fr/monde/allemagne/en-allemagne-sahra-wagenknecht-egerie-de-la-gauche-populiste-allemande-prete-a-sallier-a-lafd",
    "n_members": 72,
@@ -594,8 +594,8 @@
    "divergence": 0.398,
    "category": "culture",
    "terms_left": [
-    "mungiu",
     "cristian mungiu",
+    "mungiu",
     "cristian"
    ],
    "terms_right": [
@@ -651,17 +651,17 @@
    },
    "blindspot_score": -0.286,
    "blindspot_for": null,
-   "divergence": 0.152,
+   "divergence": 0.145,
    "category": "culture",
    "terms_left": [
-    "morte ans",
     "amérique",
-    "états-unis"
+    "états-unis",
+    "parton morte"
    ],
    "terms_right": [
-    "américaine",
     "légende",
-    "country morte"
+    "country morte",
+    "trump"
    ]
   },
   {
@@ -681,7 +681,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.273,
+   "divergence": 0.274,
    "category": "société",
    "terms_left": [
     "portables interdits",
@@ -741,22 +741,22 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.369,
+   "divergence": 0.354,
    "category": "politique",
    "terms_left": [
     "déplacement",
-    "annoncé",
-    "lutte"
+    "déplacement mayotte",
+    "lecornu mayotte"
    ],
    "terms_right": [
     "français",
-    "lecornu",
-    "face"
+    "face",
+    "ans"
    ]
   },
   {
    "title": "Guerre en Ukraine: Kiev s'attaque au géant du e-commerce russe Ozon en visant deux entrepôts en deux jours",
-   "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-une-enorme-detonation-un-missile-russe-parcourt-100-km-au-dessus-de-la-pologne-et-secrase-dans-un-champ-30-07-2026-T3DYWS3VJ5GJXPO6TNRZCX7EYE.php",
+   "url": "https://www.ladepeche.fr/2026/07/31/guerre-en-ukraine-poutine-va-t-il-mobiliser-300-000-nouveaux-soldats-russes-a-lautomne-pourquoi-les-craintes-de-zelensky-sont-fondees-13488674.php",
    "n_members": 103,
    "n_sources": 25,
    "counts": {
@@ -831,7 +831,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.749,
+   "divergence": 0.751,
    "category": "société",
    "terms_left": [
     "mer",
@@ -943,7 +943,7 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.518,
+   "divergence": 0.516,
    "category": "économie",
    "terms_left": [
     "gouvernement",
@@ -953,7 +953,7 @@
    "terms_right": [
     "français",
     "qu",
-    "moyenne"
+    "ans"
    ]
   },
   {
@@ -1093,7 +1093,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.543,
+   "divergence": 0.575,
    "category": "société",
    "terms_left": [
     "élèves handicapés",
@@ -1101,15 +1101,15 @@
     "scolarisation"
    ],
    "terms_right": [
+    "ministre",
     "violences sexuelles",
-    "ministre éducation",
-    "ministre"
+    "rentrée scolaire"
    ]
   },
   {
    "title": "Le député insoumis Sébastien Delogu placé en garde à vue après une altercation avec des policiers à Marseille",
    "url": "https://www.bfmtv.com/police-justice/info-bfmtv-le-depute-lfi-sebastien-delogu-vise-par-une-plainte-de-policiers-pour-outrage_AN-202608250576.html",
-   "n_members": 57,
+   "n_members": 59,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -1123,7 +1123,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.254,
+   "divergence": 0.259,
    "category": "politique",
    "terms_left": [
     "opposé",
@@ -1134,6 +1134,36 @@
     "outrage",
     "insoumis",
     "député insoumis"
+   ]
+  },
+  {
+   "title": "Venezuela. Trump signe un accord « historique » avec Caracas pour contrôler la majorité des réserves de pétrole",
+   "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260828-des-n%C3%A9gociations-en-vue-d-un-accord-entre-les-%C3%A9tats-unis-et-le-venezuela-pour-le-p%C3%A9trole",
+   "n_members": 28,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 1
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.435,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "contrôle milliards",
+    "historique"
+   ],
+   "terms_right": [
+    "états-unis",
+    "grand",
+    "pays"
    ]
   },
   {
@@ -1164,36 +1194,6 @@
     "fournitures",
     "année",
     "fin"
-   ]
-  },
-  {
-   "title": "Affaire Patrick Bruel: le fils de Gisèle Pelicot s'indigne que les concerts se poursuivent et dénonce le \"silence des hommes\"",
-   "url": "https://www.mediapart.fr/journal/france/140826/le-controle-judiciaire-de-patrick-bruel-ete-allege",
-   "n_members": 64,
-   "n_sources": 23,
-   "counts": {
-    "left": 7,
-    "centre": 10,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": -0.077,
-   "blindspot_for": null,
-   "divergence": 0.249,
-   "category": "culture",
-   "terms_left": [
-    "judiciaire patrick",
-    "quitter",
-    "autorisé quitter"
-   ],
-   "terms_right": [
-    "chanteur",
-    "affaire",
-    "patrick bruel"
    ]
   }
  ]
