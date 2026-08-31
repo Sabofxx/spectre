@@ -1,13 +1,13 @@
 {
  "week": "2026-W36",
- "generated_at": "2026-08-31T14:37:10+00:00",
+ "generated_at": "2026-08-31T20:30:08+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "Népal : le bilan de la crue dévastatrice s'aggrave et atteint 579 morts",
+   "title": "Le bilan de la crue au Népal passe à 734 morts et 2.498 disparus",
    "url": "https://www.sudouest.fr/international/chine/chine-une-coulee-de-boue-cote-nepalais-a-fait-de-nombreuses-victimes-au-tibet-30371272.php",
-   "n_members": 323,
+   "n_members": 326,
    "n_sources": 34,
    "counts": {
     "left": 8,
@@ -21,17 +21,17 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.193,
+   "divergence": 0.181,
    "category": "international",
    "terms_left": [
     "inondations népal",
-    "coulées",
-    "coulées boue"
+    "népal tibet",
+    "coulées"
    ],
    "terms_right": [
     "frontière",
-    "portés disparus",
-    "portés"
+    "bilan",
+    "crue"
    ]
   },
   {
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.278,
+   "divergence": 0.279,
    "category": "politique",
    "terms_left": [
     "primaire",
@@ -67,30 +67,30 @@
   {
    "title": "Politique. Pas de candidature en 2027, pistes pour le budget... Sébastien Lecornu s'exprime avant la rentrée",
    "url": "https://www.europe1.fr/politique/jusqua-400eu-le-week-end-le-tarif-des-universites-dete-de-lfi-fait-polemique-1014659",
-   "n_members": 136,
-   "n_sources": 31,
+   "n_members": 139,
+   "n_sources": 33,
    "counts": {
     "left": 6,
-    "centre": 12,
+    "centre": 14,
     "right": 13
    },
    "style_counts": {
-    "factuel": 15,
+    "factuel": 17,
     "mixte": 10,
     "opinion": 6
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.576,
+   "divergence": 0.575,
    "category": "politique",
    "terms_left": [
     "gauche",
-    "fabien",
-    "roussel"
+    "rentrée",
+    "fabien"
    ],
    "terms_right": [
-    "candidat",
     "gouvernement",
+    "candidat",
     "séminaire"
    ]
   },
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.302,
+   "divergence": 0.303,
    "category": "international",
    "terms_left": [
     "direct",
@@ -127,7 +127,7 @@
   {
    "title": "Adhésion à l'UE : les Islandais disent «non» à une reprise des négociations",
    "url": "http://fr.euronews.com/my-europe/2026/08/24/lheure-de-verite-pour-lislande-ce-que-le-referendum-dadhesion-signifie-pour-lue",
-   "n_members": 91,
+   "n_members": 93,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.309,
+   "divergence": 0.31,
    "category": "international",
    "terms_left": [
     "islandais voté",
@@ -157,7 +157,7 @@
   {
    "title": "Présidentielle 2027 : Olivier Faure sera candidat à la primaire de la gauche",
    "url": "https://www.ouest-france.fr/elections/presidentielle/karim-bouamrane-candidat-ps-a-lelection-presidentielle-ne-participera-pas-a-la-primaire-socialiste-doctobre-b3c93008-a110-11f1-bba4-fb5ac80a227f",
-   "n_members": 105,
+   "n_members": 106,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -185,9 +185,39 @@
    ]
   },
   {
+   "title": "850 000 enseignants font une rentrée perturbée après la cyberattaque de cet été",
+   "url": "https://www.lejdd.fr/Societe/secours-populaire-la-chance-dune-journee-de-vacances-181188",
+   "n_members": 97,
+   "n_sources": 28,
+   "counts": {
+    "left": 8,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 11,
+    "opinion": 3
+   },
+   "blindspot_score": -0.067,
+   "blindspot_for": null,
+   "divergence": 0.754,
+   "category": "société",
+   "terms_left": [
+    "mer",
+    "journée",
+    "secours"
+   ],
+   "terms_right": [
+    "rentrée",
+    "cyberattaque",
+    "éducation nationale"
+   ]
+  },
+  {
    "title": "EN DIRECT - Présidentielle 2027 : Gérald Darmanin fait sa rentrée politique avec Édouard Philippe",
    "url": "https://www.lemonde.fr/economie/article/2026/08/25/la-cfdt-se-prononce-pour-la-taxation-des-heritages-des-le-premier-euro-une-mesure-de-justice-sociale-estime-marylise-leon_6756584_3234.html",
-   "n_members": 85,
+   "n_members": 86,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -201,7 +231,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.605,
+   "divergence": 0.609,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -239,59 +269,29 @@
     "interdits"
    ],
    "terms_right": [
-    "lycée",
+    "lycées",
     "portables lycées",
-    "portable"
-   ]
-  },
-  {
-   "title": "850 000 enseignants font une rentrée perturbée après la cyberattaque de cet été",
-   "url": "https://www.lejdd.fr/Societe/secours-populaire-la-chance-dune-journee-de-vacances-181188",
-   "n_members": 94,
-   "n_sources": 27,
-   "counts": {
-    "left": 8,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 11,
-    "opinion": 3
-   },
-   "blindspot_score": -0.067,
-   "blindspot_for": null,
-   "divergence": 0.754,
-   "category": "société",
-   "terms_left": [
-    "mer",
-    "journée",
-    "secours"
-   ],
-   "terms_right": [
-    "cyberattaque",
-    "éducation nationale",
-    "éducation"
+    "lycée"
    ]
   },
   {
    "title": "Venezuela. Trump signe un accord « historique » avec Caracas pour contrôler la majorité des réserves de pétrole",
    "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260828-des-n%C3%A9gociations-en-vue-d-un-accord-entre-les-%C3%A9tats-unis-et-le-venezuela-pour-le-p%C3%A9trole",
-   "n_members": 39,
-   "n_sources": 26,
+   "n_members": 45,
+   "n_sources": 27,
    "counts": {
     "left": 6,
-    "centre": 13,
+    "centre": 14,
     "right": 7
    },
    "style_counts": {
-    "factuel": 16,
+    "factuel": 17,
     "mixte": 8,
     "opinion": 2
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.403,
+   "divergence": 0.404,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -305,9 +305,39 @@
    ]
   },
   {
+   "title": "L'ancien Premier ministre Édouard Balladur est mort à Paris à l'âge de 97 ans",
+   "url": "https://www.tf1info.fr/politique/l-ancien-premier-ministre-edouard-balladur-est-decede-2345013.html",
+   "n_members": 53,
+   "n_sources": 26,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.445,
+   "category": "politique",
+   "terms_left": [
+    "edouard",
+    "edouard balladur",
+    "mort edouard"
+   ],
+   "terms_right": [
+    "édouard",
+    "politique",
+    "histoire"
+   ]
+  },
+  {
    "title": "Le lac Ontario devient le lac d'Amérique sur le Google Maps américain",
    "url": "https://www.lefigaro.fr/flash-actu/la-cour-supreme-autorise-provisoirement-le-decret-de-donald-trump-encadrant-le-vote-par-correspondance-20260824",
-   "n_members": 72,
+   "n_members": 73,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -321,7 +351,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.329,
+   "divergence": 0.291,
    "category": "international",
    "terms_left": [
     "vote",
@@ -331,7 +361,7 @@
    "terms_right": [
     "google",
     "google maps",
-    "maps"
+    "lac"
    ]
   },
   {
@@ -367,7 +397,7 @@
   {
    "title": "2027, Marine Le Pen... Jordan Bardella fait sa rentrée politique à la foire agricole de Châlons-en-Champagne",
    "url": "https://www.leparisien.fr/politique/senatoriales-2026-dans-la-sarthe-le-rassemblement-national-presente-une-liste-le-pen-de-gaulle-25-08-2026-EMRIXHUGDNAQHFONEDA4OVAAN4.php",
-   "n_members": 56,
+   "n_members": 58,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -381,17 +411,77 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.55,
+   "divergence": 0.564,
    "category": "politique",
    "terms_left": [
-    "candidate",
     "pen jordan",
-    "mis"
+    "mis",
+    "extrême"
    ],
    "terms_right": [
     "président",
     "gauche",
     "cause"
+   ]
+  },
+  {
+   "title": "Arrêts de travail, retraite… Ce qui change au 1er septembre 2026",
+   "url": "https://www.ladepeche.fr/2026/08/24/temoignages-kine-si-le-remboursement-baisse-je-ne-pourrai-plus-me-soigner-trop-de-seances-inutiles-les-patients-partages-entre-economies-et-necessite-13515640.php",
+   "n_members": 67,
+   "n_sources": 23,
+   "counts": {
+    "left": 5,
+    "centre": 9,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.741,
+   "category": "économie",
+   "terms_left": [
+    "chômage",
+    "indemnisation",
+    "réforme"
+   ],
+   "terms_right": [
+    "maladie",
+    "arrêts maladie",
+    "santé"
+   ]
+  },
+  {
+   "title": "Blandine L'Hirondel remporte l'Ultra-Trail du Mont-Blanc",
+   "url": "https://www.ouest-france.fr/leditiondusoir/2026-08-19/rescape-du-bataclan-il-va-relever-un-sacre-challenge-participer-a-la-mythique-course-de-l-utmb-en-fauteuil-roulant-1423a906-1ed5-4e6b-a9a4-73f1cbdf4d13",
+   "n_members": 61,
+   "n_sources": 23,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 1
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.478,
+   "category": "sport",
+   "terms_left": [
+    "reine",
+    "face",
+    "discipline"
+   ],
+   "terms_right": [
+    "blandine hirondel",
+    "hirondel",
+    "blandine"
    ]
   },
   {
@@ -425,39 +515,69 @@
    ]
   },
   {
-   "title": "Blandine L'Hirondel remporte l'Ultra-Trail du Mont-Blanc",
-   "url": "https://www.ouest-france.fr/leditiondusoir/2026-08-19/rescape-du-bataclan-il-va-relever-un-sacre-challenge-participer-a-la-mythique-course-de-l-utmb-en-fauteuil-roulant-1423a906-1ed5-4e6b-a9a4-73f1cbdf4d13",
-   "n_members": 60,
+   "title": "Présidentielle 2027. « Jusqu'à 25% » : Raphaël Glucksmann veut augmenter les salaires des enseignants",
+   "url": "https://www.liberation.fr/idees-et-debats/faut-il-vraiment-legiferer-lamitie-20260825_BXPP3SWD5JAEXAYX7K6YAASDBY/",
+   "n_members": 59,
    "n_sources": 23,
    "counts": {
     "left": 5,
-    "centre": 13,
-    "right": 5
+    "centre": 9,
+    "right": 9
    },
    "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 1
+    "factuel": 11,
+    "mixte": 6,
+    "opinion": 6
    },
-   "blindspot_score": 0.0,
+   "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.477,
-   "category": "sport",
+   "divergence": 0.707,
+   "category": "politique",
    "terms_left": [
     "face",
-    "discipline",
-    "traileur"
+    "amitié",
+    "droite"
    ],
    "terms_right": [
-    "utmb",
-    "blandine hirondel",
-    "hirondel"
+    "retailleau",
+    "bruno retailleau",
+    "bruno"
    ]
   },
   {
-   "title": "L'ancien général serbe R.Mladic, condamné pour génocide, aura des obsèques nationales",
+   "title": "Rock en Seine 2026 : The Cure, Nick Cave, Tyler, The Creator… nos coups de cœur (et déceptions) d’une édition très rock",
+   "url": "https://www.nicematin.com/societe/vie-locale/festival-pyrotechnique-de-cannes-le-dernier-feu-d-artifice-qui-devait-avoir-lieu-ce-lundi-reporte-a-mardi-en-raison-du-mauvais-temps-10711177",
+   "n_members": 56,
+   "n_sources": 23,
+   "counts": {
+    "left": 5,
+    "centre": 8,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.518,
+   "category": "culture",
+   "terms_left": [
+    "the",
+    "nick cave",
+    "cave"
+   ],
+   "terms_right": [
+    "festival rock",
+    "incendie",
+    "feu"
+   ]
+  },
+  {
+   "title": "Serbie : la glorification de Ratko Mladic n'a pas sa place dans l'UE, selon la commissaire Marta Kos",
    "url": "https://www.liberation.fr/international/europe/ratko-mladic-mort-dun-genocidaire-20260827_UNSQGC6OKVHMPMERVFGR7FA3XY/",
-   "n_members": 43,
+   "n_members": 44,
    "n_sources": 23,
    "counts": {
     "left": 7,
@@ -471,7 +591,7 @@
    },
    "blindspot_score": -0.273,
    "blindspot_for": null,
-   "divergence": 0.566,
+   "divergence": 0.568,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -479,15 +599,15 @@
     "ratko"
    ],
    "terms_right": [
+    "serbes",
     "ancien",
-    "chef",
-    "militaire"
+    "chef"
    ]
   },
   {
-   "title": "Crise migratoire à Ceuta : le Maroc aurait tenté d'envoyer ses migrants demandeurs d'asile",
+   "title": "Crise migratoire à Ceuta: une \"internationale d'ultra-droite\", dont la Russie et Israël, accusée de désinformation",
    "url": "https://www.rfi.fr/fr/afrique/20260817-ceuta-un-camerounais-arriv%C3%A9-dans-l-enclave-espagnole-t%C3%A9moigne-sur-ses-conditions-de-vie",
-   "n_members": 85,
+   "n_members": 87,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -507,39 +627,9 @@
    "terms_right": []
   },
   {
-   "title": "Arrêts de travail, retraite… Ce qui change au 1er septembre 2026",
-   "url": "https://www.ladepeche.fr/2026/08/24/temoignages-kine-si-le-remboursement-baisse-je-ne-pourrai-plus-me-soigner-trop-de-seances-inutiles-les-patients-partages-entre-economies-et-necessite-13515640.php",
-   "n_members": 66,
-   "n_sources": 22,
-   "counts": {
-    "left": 4,
-    "centre": 9,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.746,
-   "category": "économie",
-   "terms_left": [
-    "chômage",
-    "indemnisation",
-    "france"
-   ],
-   "terms_right": [
-    "maladie",
-    "er",
-    "arrêts maladie"
-   ]
-  },
-  {
    "title": "Suisse : au moins un mort et cinq blessés après des coups de feu en marge d'une rave party",
    "url": "https://www.bfmtv.com/international/europe/suisse/des-coups-de-feu-en-marge-d-une-rave-party-dans-nord-de-la-suisse-plusieurs-victimes-a-deplorer_AD-202608300066.html",
-   "n_members": 55,
+   "n_members": 57,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -553,7 +643,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.317,
+   "divergence": 0.318,
    "category": "international",
    "terms_left": [
     "police suisse",
@@ -567,9 +657,69 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : Raphaël Glucksmann propose d’augmenter les salaires des enseignants d’au moins 10%",
-   "url": "https://www.liberation.fr/idees-et-debats/faut-il-vraiment-legiferer-lamitie-20260825_BXPP3SWD5JAEXAYX7K6YAASDBY/",
+   "title": "Vous achetez sur Shein, Temu ou AliExpress ? Voici pourquoi vos vêtements de l’ultra-fast fashion vont bientôt coûter jusqu’à 19,50 € plus cher",
+   "url": "https://www.nicematin.com/conso/la-taxe-fonciere-arrive-cette-semaine-dans-les-boites-aux-lettres-et-vous-pouvez-pretendre-a-une-reduction-voire-une-exoneration-voici-ce-qu-il-faut-savoir-10711143",
    "n_members": 53,
+   "n_sources": 22,
+   "counts": {
+    "left": 3,
+    "centre": 9,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.538,
+   "blindspot_for": null,
+   "divergence": 0.728,
+   "category": "économie",
+   "terms_left": [
+    "euros",
+    "ultra",
+    "fast-fashion"
+   ],
+   "terms_right": [
+    "taxe",
+    "petits",
+    "petits colis"
+   ]
+  },
+  {
+   "title": "Patrick Pouyanné : TotalEnergies maintiendra le plafonnement des prix des carburants \"tant que le conflit durera\"",
+   "url": "https://www.lefigaro.fr/societes/en-chine-plus-de-4-millions-de-voitures-rappelees-a-cause-de-leurs-poignees-de-porte-affleurantes-20260822",
+   "n_members": 49,
+   "n_sources": 22,
+   "counts": {
+    "left": 5,
+    "centre": 9,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.665,
+   "category": "économie",
+   "terms_left": [
+    "patrick",
+    "patrick pouyanné",
+    "pouyanné"
+   ],
+   "terms_right": [
+    "euros",
+    "moyen-orient",
+    "prix"
+   ]
+  },
+  {
+   "title": "Présidentielle : en cas de victoire du RN, le port du voile islamique sera sanctionné d'une amende",
+   "url": "https://www.leparisien.fr/elections/presidentielle/elles-auront-une-amende-en-cas-delection-de-marine-le-pen-a-la-presidentielle-les-femmes-portant-le-voile-seront-sanctionnees-30-08-2026-GU2ZGE7NJNBIVOIWNISEILGYWI.php",
+   "n_members": 38,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -578,22 +728,52 @@
    },
    "style_counts": {
     "factuel": 10,
-    "mixte": 6,
-    "opinion": 6
+    "mixte": 7,
+    "opinion": 5
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.716,
+   "divergence": 0.357,
    "category": "politique",
    "terms_left": [
-    "face",
-    "amitié",
-    "droite"
+    "rien",
+    "référendum interdiction",
+    "interdiction"
    ],
    "terms_right": [
-    "retailleau",
-    "primaire",
-    "bruno retailleau"
+    "sanctionner",
+    "sanctionner port",
+    "amende"
+   ]
+  },
+  {
+   "title": "Guerre en Ukraine : La Russie promet des « frappes massives » et Kiev débat sur ses dépôts de munitions en pleine ville",
+   "url": "https://www.leparisien.fr/paris-75/paris-la-tour-eiffel-silluminera-en-bleu-et-jaune-pour-le-35e-anniversaire-de-lindependance-ukrainienne-lundi-soir-21-08-2026-BZQTY5B7UVHV7AV2TD5BEWMW6Q.php",
+   "n_members": 67,
+   "n_sources": 21,
+   "counts": {
+    "left": 5,
+    "centre": 10,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.742,
+   "category": "international",
+   "terms_left": [
+    "célèbre",
+    "célèbre dessin",
+    "sanctionné"
+   ],
+   "terms_right": [
+    "russe",
+    "europe",
+    "présidentielle"
    ]
   },
   {
@@ -613,23 +793,23 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.514,
+   "divergence": 0.505,
    "category": "société",
    "terms_left": [
+    "sapeurs-pompiers",
     "france",
-    "var provoqué",
-    "millions euros"
+    "moyens"
    ],
    "terms_right": [
-    "autorités",
-    "environ",
-    "colère"
+    "pompiers",
+    "incendie",
+    "jours"
    ]
   },
   {
    "title": "Le naufrage d'un bateau de croisière fait plusieurs morts et des disparus au large de Chypre",
    "url": "https://www.sudouest.fr/faits-divers/un-chalutier-de-saint-brieuc-coule-au-large-de-la-cote-anglaise-deux-marins-francais-portes-disparus-30419148.php",
-   "n_members": 62,
+   "n_members": 63,
    "n_sources": 21,
    "counts": {
     "left": 5,
@@ -643,7 +823,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.417,
+   "divergence": 0.423,
    "category": "international",
    "terms_left": [
     "croisière",
@@ -652,8 +832,8 @@
    ],
    "terms_right": [
     "chalutier",
-    "côtes",
-    "portés disparus"
+    "portés disparus",
+    "portés"
    ]
   },
   {
@@ -673,7 +853,7 @@
    },
    "blindspot_score": -0.2,
    "blindspot_for": null,
-   "divergence": 0.939,
+   "divergence": 0.934,
    "category": "international",
    "terms_left": [
     "cisjordanie",
@@ -682,66 +862,14 @@
    ],
    "terms_right": [
     "orages",
-    "soir",
-    "village"
+    "dégâts",
+    "km"
    ]
-  },
-  {
-   "title": "Rock en Seine 2026 : The Cure, Nick Cave, Tyler, The Creator… nos coups de cœur (et déceptions) d’une édition très rock",
-   "url": "https://www.nicematin.com/societe/vie-locale/festival-pyrotechnique-de-cannes-le-dernier-feu-d-artifice-qui-devait-avoir-lieu-ce-lundi-reporte-a-mardi-en-raison-du-mauvais-temps-10711177",
-   "n_members": 53,
-   "n_sources": 21,
-   "counts": {
-    "left": 5,
-    "centre": 8,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.561,
-   "category": "culture",
-   "terms_left": [
-    "the",
-    "the cure",
-    "cure"
-   ],
-   "terms_right": [
-    "festival rock",
-    "incendie",
-    "feu"
-   ]
-  },
-  {
-   "title": "Vous achetez sur Shein, Temu ou AliExpress ? Voici pourquoi vos vêtements de l’ultra-fast fashion vont bientôt coûter jusqu’à 19,50 € plus cher",
-   "url": "https://www.nicematin.com/conso/la-taxe-fonciere-arrive-cette-semaine-dans-les-boites-aux-lettres-et-vous-pouvez-pretendre-a-une-reduction-voire-une-exoneration-voici-ce-qu-il-faut-savoir-10711143",
-   "n_members": 52,
-   "n_sources": 21,
-   "counts": {
-    "left": 2,
-    "centre": 9,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.667,
-   "blindspot_for": "gauche",
-   "divergence": 0.79,
-   "category": "économie",
-   "terms_left": [],
-   "terms_right": []
   },
   {
    "title": "Les États-Unis ont frappé l'Iran pour la première fois en un mois, Téhéran promet des représailles",
    "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
-   "n_members": 45,
+   "n_members": 50,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -755,17 +883,47 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.495,
+   "divergence": 0.508,
    "category": "international",
    "terms_left": [
     "etats-unis",
-    "donald",
-    "donald trump"
+    "etats-unis iran",
+    "donald"
    ],
    "terms_right": [
     "américaines",
-    "états-unis",
-    "iran"
+    "nouvelles",
+    "états-unis"
+   ]
+  },
+  {
+   "title": "Dette : l'agence de notation Fitch maintient la note A+ de la France et sa perspective stable",
+   "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/les-mises-en-garde-du-patronat-a-l-approche-de-la-bataille-pour-le-budget-2027_8132957.html",
+   "n_members": 31,
+   "n_sources": 21,
+   "counts": {
+    "left": 3,
+    "centre": 6,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": 0.618,
+   "category": "économie",
+   "terms_left": [
+    "présidentielle",
+    "partie",
+    "élection"
+   ],
+   "terms_right": [
+    "note",
+    "france",
+    "fitch"
    ]
   },
   {
@@ -785,65 +943,35 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.661,
+   "divergence": 0.66,
    "category": "international",
    "terms_left": [
-    "guerre ukraine",
     "assure",
-    "frappes"
+    "guerre ukraine",
+    "drones"
    ],
    "terms_right": [
+    "mois",
     "états-unis",
-    "iran",
-    "mois"
+    "iran"
    ]
   },
   {
-   "title": "Dette : l'agence de notation Fitch maintient la note A+ de la France et sa perspective stable",
-   "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/les-mises-en-garde-du-patronat-a-l-approche-de-la-bataille-pour-le-budget-2027_8132957.html",
-   "n_members": 30,
-   "n_sources": 20,
-   "counts": {
-    "left": 3,
-    "centre": 6,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.571,
-   "blindspot_for": null,
-   "divergence": 0.621,
-   "category": "économie",
-   "terms_left": [
-    "présidentielle",
-    "partie",
-    "élection"
-   ],
-   "terms_right": [
-    "note",
-    "fitch",
-    "france"
-   ]
-  },
-  {
-   "title": "Après six mois de guerre en Iran, une armée américaine fragilisée et des rivaux aux aguets",
+   "title": "G20: Washington veut obliger ses alliés à renforcer sa guerre économique contre l'Iran",
    "url": "https://www.bfmtv.com/economie/entreprises/defense/250-jours-sans-escale-deux-marins-qui-tentent-de-se-jeter-par-dessus-bord-33-700-jours-de-retard-la-guerre-contre-l-iran-revele-les-failles-de-l-us-navy_AN-202608240292.html",
-   "n_members": 49,
-   "n_sources": 19,
+   "n_members": 52,
+   "n_sources": 20,
    "counts": {
     "left": 2,
     "centre": 12,
-    "right": 5
+    "right": 6
    },
    "style_counts": {
-    "factuel": 15,
+    "factuel": 16,
     "mixte": 2,
     "opinion": 2
    },
-   "blindspot_score": 0.429,
+   "blindspot_score": 0.5,
    "blindspot_for": null,
    "divergence": null,
    "category": "international",
@@ -851,34 +979,108 @@
    "terms_right": []
   },
   {
-   "title": "Patrick Pouyanné : TotalEnergies maintiendra le plafonnement des prix des carburants \"tant que le conflit durera\"",
-   "url": "https://www.lefigaro.fr/societes/en-chine-plus-de-4-millions-de-voitures-rappelees-a-cause-de-leurs-poignees-de-porte-affleurantes-20260822",
-   "n_members": 42,
-   "n_sources": 19,
+   "title": "Etats-Unis. Plus de 20 personnes recherchées après des crues soudaines dans le Grand Canyon",
+   "url": "https://www.leprogres.fr/faits-divers-justice/2026/08/30/plus-de-20-personnes-recherchees-apres-des-crues-soudaines-dans-le-grand-canyon",
+   "n_members": 29,
+   "n_sources": 20,
    "counts": {
     "left": 3,
-    "centre": 8,
+    "centre": 12,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 5,
+    "opinion": 1
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.544,
+   "category": "international",
+   "terms_left": [
+    "boueuse",
+    "mort",
+    "recherche"
+   ],
+   "terms_right": [
+    "états-unis",
+    "personnes",
+    "canyon"
+   ]
+  },
+  {
+   "title": "La France vend 4 frégates pour 4,3 milliards d’euros à la Suède",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-eco-en-vo/l-eco-en-vo-du-samedi-29-aout-2026-2399420",
+   "n_members": 25,
+   "n_sources": 20,
+   "counts": {
+    "left": 2,
+    "centre": 10,
     "right": 8
    },
    "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 1
+    "factuel": 12,
+    "mixte": 5,
+    "opinion": 3
    },
-   "blindspot_score": 0.455,
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Tour d’Espagne : lourdement touché après une chute, Tadej Pogacar abandonne",
+   "url": "https://www.nicematin.com/sports/cyclisme/a-monaco-tout-est-toujours-possible-a-quelques-jours-du-depart-de-la-vuelta-2026-comment-monaco-s-apprete-a-entrer-dans-l-histoire-des-grands-tours-de-cyclisme-10705845",
+   "n_members": 96,
+   "n_sources": 19,
+   "counts": {
+    "left": 2,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 5,
+    "opinion": 2
+   },
+   "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.662,
-   "category": "économie",
+   "divergence": 0.431,
+   "category": "sport",
    "terms_left": [
-    "patrick",
-    "patrick pouyanné",
-    "pouyanné"
+    "rouge",
+    "maillot",
+    "maillot rouge"
    ],
    "terms_right": [
-    "euros",
-    "moyen-orient",
-    "plafonnement prix"
+    "lourde chute",
+    "lourde",
+    "slovène"
    ]
+  },
+  {
+   "title": "« Je suis inquiet pour la rentrée scolaire » : après l’orage, la course contre la montre pour réparer les écoles du Val-de-Marne",
+   "url": "https://www.leprogres.fr/education/2026/08/20/resultats-mitiges-eleves-reticents-cout-excessif-l-uniforme-a-l-ecole-tombe-a-l-eau",
+   "n_members": 61,
+   "n_sources": 19,
+   "counts": {
+    "left": 3,
+    "centre": 9,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.4,
+   "blindspot_for": null,
+   "divergence": 0.788,
+   "category": "environnement",
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Croissance révisée à la baisse: pour Roland Lescure, \"c'est le premier impact concret de l'été horrible qu'on a vécu\"",
@@ -899,6 +1101,28 @@
    "blindspot_for": "gauche",
    "divergence": 0.691,
    "category": "économie",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Colombie: le groupe armé EMC revendique l'enlèvement d'un Colombien de la Légion étrangère française",
+   "url": "https://www.europe1.fr/international/colombie-un-soldat-de-la-legion-etrangere-francaise-enleve-par-des-dissidents-des-farc-1039538",
+   "n_members": 32,
+   "n_sources": 19,
+   "counts": {
+    "left": 2,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 5,
+    "opinion": 3
+   },
+   "blindspot_score": 0.556,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "international",
    "terms_left": [],
    "terms_right": []
   },
@@ -929,231 +1153,7 @@
    "terms_right": [
     "heures",
     "travail",
-    "tf"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : derrière Marine Le Pen, Jean-Luc Mélenchon recule et Raphaël Glucksmann progresse",
-   "url": "https://www.20minutes.fr/politique/4240535-20260824-presidentielle-2027-duel-melenchon-pen-profile-second-tour-selon-sondage",
-   "n_members": 59,
-   "n_sources": 18,
-   "counts": {
-    "left": 2,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.556,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "politique",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Après les crues au Népal, quatre Français, un homme et trois femmes, sont toujours portés disparus",
-   "url": "https://www.leparisien.fr/environnement/crue-devastatrice-au-nepal-comment-les-experts-francais-tentent-de-comprendre-la-catastrophe-a-plusieurs-milliers-de-kilometres-27-08-2026-ZM4CDO4YK5DAFLRBNN6NBJGZOU.php",
-   "n_members": 51,
-   "n_sources": 18,
-   "counts": {
-    "left": 3,
-    "centre": 10,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 3,
-    "opinion": 3
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.774,
-   "category": "international",
-   "terms_left": [
-    "victimes",
-    "pays",
-    "retrouver"
-   ],
-   "terms_right": [
-    "français",
-    "personnes",
-    "népal"
-   ]
-  },
-  {
-   "title": "Présidentielle : Olivier Faure, nouveau candidat à la primaire",
-   "url": "https://www.liberation.fr/politique/olivier-faure-si-le-budget-ressemble-aux-programmes-dattal-et-philippe-nous-naurons-pas-dautre-reponse-que-la-censure-20260827_RI6RDRG2J5DY3CINWVLLGKG6ZQ/",
-   "n_members": 38,
-   "n_sources": 18,
-   "counts": {
-    "left": 4,
-    "centre": 8,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.425,
-   "category": "politique",
-   "terms_left": [
-    "extrême",
-    "primaire socialiste",
-    "candidat"
-   ],
-   "terms_right": [
-    "parti socialiste",
-    "parti",
-    "secrétaire parti"
-   ]
-  },
-  {
-   "title": "Colombie: le groupe armé EMC revendique l'enlèvement d'un Colombien de la Légion étrangère française",
-   "url": "https://www.europe1.fr/international/colombie-un-soldat-de-la-legion-etrangere-francaise-enleve-par-des-dissidents-des-farc-1039538",
-   "n_members": 31,
-   "n_sources": 18,
-   "counts": {
-    "left": 2,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.556,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Etats-Unis. Plus de 20 personnes recherchées après des crues soudaines dans le Grand Canyon",
-   "url": "https://www.leprogres.fr/faits-divers-justice/2026/08/30/plus-de-20-personnes-recherchees-apres-des-crues-soudaines-dans-le-grand-canyon",
-   "n_members": 21,
-   "n_sources": 18,
-   "counts": {
-    "left": 3,
-    "centre": 10,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 5,
-    "opinion": 1
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.541,
-   "category": "international",
-   "terms_left": [
-    "mort",
-    "mort quinzaine",
-    "eau"
-   ],
-   "terms_right": [
-    "personnes",
-    "états-unis",
-    "service parcs"
-   ]
-  },
-  {
-   "title": "L'UEFA prépare une plainte : Gianni Infantino sous pression",
-   "url": "https://www.ladepeche.fr/2026/08/16/controle-paredes-je-ne-veux-pas-lexpulser-il-a-deja-un-jaune-letrange-echange-entre-larbitre-et-messi-en-finale-de-la-coupe-du-monde-intrigue-les-13510890.php",
-   "n_members": 63,
-   "n_sources": 17,
-   "counts": {
-    "left": 2,
-    "centre": 10,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 5,
-    "opinion": 1
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": 0.473,
-   "category": "sport",
-   "terms_left": [
-    "monde",
-    "coupe",
-    "coupe monde"
-   ],
-   "terms_right": [
-    "président",
-    "paredes suspendu",
-    "argentin"
-   ]
-  },
-  {
-   "title": "Cyberattaque : les hackers du fisc revendiquent un nouveau piratage, un site du ministère du Logement visé",
-   "url": "https://www.bfmtv.com/economie/entreprises/les-exigences-en-cybersecurite-sont-les-plus-elevees-en-europe-quelques-jours-apres-le-piratage-du-fisc-bercy-rassure-sur-les-risques-de-fuites-de-donnees-liees-a-la-mise-en-place-de-la-facturation-electronique_AV-202608260490.html",
-   "n_members": 23,
-   "n_sources": 17,
-   "counts": {
-    "left": 4,
-    "centre": 7,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 4,
-    "opinion": 2
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.5,
-   "category": "économie",
-   "terms_left": [
-    "données",
-    "service",
-    "personnes"
-   ],
-   "terms_right": [
-    "site",
-    "zerobytes",
-    "piratage"
-   ]
-  },
-  {
-   "title": "Novak Djokovic éliminé dès le 1er tour de l'US Open, une première en Grand Chelem depuis 2006",
-   "url": "https://www.cnews.fr/sport/2026-08-25/tennis-lois-boisson-victime-dune-torsion-de-la-cheville-juste-avant-lus-open",
-   "n_members": 45,
-   "n_sources": 15,
-   "counts": {
-    "left": 3,
-    "centre": 7,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 8,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.537,
-   "category": "sport",
-   "terms_left": [
-    "tournoi",
-    "éloigne",
-    "battu"
-   ],
-   "terms_right": [
-    "open",
-    "français",
-    "us open"
+    "signe"
    ]
   }
  ]
