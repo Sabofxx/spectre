@@ -1,13 +1,13 @@
 {
  "week": "2026-W36",
- "generated_at": "2026-08-31T20:30:08+00:00",
+ "generated_at": "2026-09-01T00:00:24+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Le bilan de la crue au Népal passe à 734 morts et 2.498 disparus",
    "url": "https://www.sudouest.fr/international/chine/chine-une-coulee-de-boue-cote-nepalais-a-fait-de-nombreuses-victimes-au-tibet-30371272.php",
-   "n_members": 326,
+   "n_members": 328,
    "n_sources": 34,
    "counts": {
     "left": 8,
@@ -21,17 +21,17 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.181,
+   "divergence": 0.177,
    "category": "international",
    "terms_left": [
     "inondations népal",
-    "népal tibet",
-    "coulées"
+    "coulées",
+    "coulées boue"
    ],
    "terms_right": [
-    "frontière",
     "bilan",
-    "crue"
+    "crue",
+    "crue népal"
    ]
   },
   {
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.575,
+   "divergence": 0.576,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.303,
+   "divergence": 0.305,
    "category": "international",
    "terms_left": [
     "direct",
@@ -157,7 +157,7 @@
   {
    "title": "Présidentielle 2027 : Olivier Faure sera candidat à la primaire de la gauche",
    "url": "https://www.ouest-france.fr/elections/presidentielle/karim-bouamrane-candidat-ps-a-lelection-presidentielle-ne-participera-pas-a-la-primaire-socialiste-doctobre-b3c93008-a110-11f1-bba4-fb5ac80a227f",
-   "n_members": 106,
+   "n_members": 107,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -277,7 +277,7 @@
   {
    "title": "Venezuela. Trump signe un accord « historique » avec Caracas pour contrôler la majorité des réserves de pétrole",
    "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260828-des-n%C3%A9gociations-en-vue-d-un-accord-entre-les-%C3%A9tats-unis-et-le-venezuela-pour-le-p%C3%A9trole",
-   "n_members": 45,
+   "n_members": 46,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -307,7 +307,7 @@
   {
    "title": "L'ancien Premier ministre Édouard Balladur est mort à Paris à l'âge de 97 ans",
    "url": "https://www.tf1info.fr/politique/l-ancien-premier-ministre-edouard-balladur-est-decede-2345013.html",
-   "n_members": 53,
+   "n_members": 57,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.445,
+   "divergence": 0.435,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -331,7 +331,7 @@
    "terms_right": [
     "édouard",
     "politique",
-    "histoire"
+    "décédé"
    ]
   },
   {
@@ -385,8 +385,8 @@
    "category": "politique",
    "terms_left": [
     "jean-marc",
-    "jean-marc jancovici",
-    "jancovici"
+    "jancovici",
+    "jean-marc jancovici"
    ],
    "terms_right": [
     "medef",
@@ -397,7 +397,7 @@
   {
    "title": "2027, Marine Le Pen... Jordan Bardella fait sa rentrée politique à la foire agricole de Châlons-en-Champagne",
    "url": "https://www.leparisien.fr/politique/senatoriales-2026-dans-la-sarthe-le-rassemblement-national-presente-une-liste-le-pen-de-gaulle-25-08-2026-EMRIXHUGDNAQHFONEDA4OVAAN4.php",
-   "n_members": 58,
+   "n_members": 60,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -411,17 +411,47 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.564,
+   "divergence": 0.598,
    "category": "politique",
    "terms_left": [
+    "extrême",
     "pen jordan",
-    "mis",
-    "extrême"
+    "mis"
    ],
    "terms_right": [
     "président",
-    "gauche",
-    "cause"
+    "rn",
+    "jordan bardella"
+   ]
+  },
+  {
+   "title": "Présidentielle : en cas de victoire du RN, le port du voile islamique sera sanctionné d'une amende",
+   "url": "https://www.leparisien.fr/elections/presidentielle/elles-auront-une-amende-en-cas-delection-de-marine-le-pen-a-la-presidentielle-les-femmes-portant-le-voile-seront-sanctionnees-30-08-2026-GU2ZGE7NJNBIVOIWNISEILGYWI.php",
+   "n_members": 42,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 10,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 7,
+    "opinion": 5
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.357,
+   "category": "politique",
+   "terms_left": [
+    "rien",
+    "interdire",
+    "interdiction"
+   ],
+   "terms_right": [
+    "sanctionner",
+    "sanctionner port",
+    "amende"
    ]
   },
   {
@@ -501,7 +531,7 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.636,
+   "divergence": 0.637,
    "category": "international",
    "terms_left": [
     "ans",
@@ -517,7 +547,7 @@
   {
    "title": "Présidentielle 2027. « Jusqu'à 25% » : Raphaël Glucksmann veut augmenter les salaires des enseignants",
    "url": "https://www.liberation.fr/idees-et-debats/faut-il-vraiment-legiferer-lamitie-20260825_BXPP3SWD5JAEXAYX7K6YAASDBY/",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -531,7 +561,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.707,
+   "divergence": 0.712,
    "category": "politique",
    "terms_left": [
     "face",
@@ -547,7 +577,7 @@
   {
    "title": "Rock en Seine 2026 : The Cure, Nick Cave, Tyler, The Creator… nos coups de cœur (et déceptions) d’une édition très rock",
    "url": "https://www.nicematin.com/societe/vie-locale/festival-pyrotechnique-de-cannes-le-dernier-feu-d-artifice-qui-devait-avoir-lieu-ce-lundi-reporte-a-mardi-en-raison-du-mauvais-temps-10711177",
-   "n_members": 56,
+   "n_members": 57,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -687,9 +717,39 @@
    ]
   },
   {
+   "title": "Les États-Unis ont frappé l'Iran pour la première fois en un mois, Téhéran promet des représailles",
+   "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
+   "n_members": 52,
+   "n_sources": 22,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 0
+   },
+   "blindspot_score": 0.4,
+   "blindspot_for": null,
+   "divergence": 0.511,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "etats-unis iran",
+    "emirats"
+   ],
+   "terms_right": [
+    "américaines",
+    "nouvelles",
+    "états-unis"
+   ]
+  },
+  {
    "title": "Patrick Pouyanné : TotalEnergies maintiendra le plafonnement des prix des carburants \"tant que le conflit durera\"",
    "url": "https://www.lefigaro.fr/societes/en-chine-plus-de-4-millions-de-voitures-rappelees-a-cause-de-leurs-poignees-de-porte-affleurantes-20260822",
-   "n_members": 49,
+   "n_members": 51,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -703,47 +763,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.665,
+   "divergence": 0.667,
    "category": "économie",
    "terms_left": [
     "patrick",
-    "patrick pouyanné",
-    "pouyanné"
+    "pouyanné",
+    "patrick pouyanné"
    ],
    "terms_right": [
     "euros",
-    "moyen-orient",
-    "prix"
-   ]
-  },
-  {
-   "title": "Présidentielle : en cas de victoire du RN, le port du voile islamique sera sanctionné d'une amende",
-   "url": "https://www.leparisien.fr/elections/presidentielle/elles-auront-une-amende-en-cas-delection-de-marine-le-pen-a-la-presidentielle-les-femmes-portant-le-voile-seront-sanctionnees-30-08-2026-GU2ZGE7NJNBIVOIWNISEILGYWI.php",
-   "n_members": 38,
-   "n_sources": 22,
-   "counts": {
-    "left": 5,
-    "centre": 8,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 7,
-    "opinion": 5
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.357,
-   "category": "politique",
-   "terms_left": [
-    "rien",
-    "référendum interdiction",
-    "interdiction"
-   ],
-   "terms_right": [
-    "sanctionner",
-    "sanctionner port",
-    "amende"
+    "prix",
+    "moyen-orient"
    ]
   },
   {
@@ -793,7 +823,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.505,
+   "divergence": 0.508,
    "category": "société",
    "terms_left": [
     "sapeurs-pompiers",
@@ -802,8 +832,8 @@
    ],
    "terms_right": [
     "pompiers",
-    "incendie",
-    "jours"
+    "jours",
+    "victimes"
    ]
   },
   {
@@ -867,34 +897,26 @@
    ]
   },
   {
-   "title": "Les États-Unis ont frappé l'Iran pour la première fois en un mois, Téhéran promet des représailles",
-   "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
-   "n_members": 50,
+   "title": "Baisse démographique : un défi pour l’école de demain ?",
+   "url": "https://www.challenges.fr/vie-de-lentreprise/pres-dun-tiers-des-entreprises-francaises-veulent-encore-embaucher-en-cdi-en-2026-ces-profils-aux-competences-rares-quelles-sarrachent_645307",
+   "n_members": 40,
    "n_sources": 21,
    "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 6
+    "left": 2,
+    "centre": 11,
+    "right": 8
    },
    "style_counts": {
     "factuel": 14,
-    "mixte": 7,
-    "opinion": 0
+    "mixte": 6,
+    "opinion": 1
    },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.508,
-   "category": "international",
-   "terms_left": [
-    "etats-unis",
-    "etats-unis iran",
-    "donald"
-   ],
-   "terms_right": [
-    "américaines",
-    "nouvelles",
-    "états-unis"
-   ]
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": 0.691,
+   "category": "économie",
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Dette : l'agence de notation Fitch maintient la note A+ de la France et sa perspective stable",
@@ -913,12 +935,12 @@
    },
    "blindspot_score": 0.6,
    "blindspot_for": "gauche",
-   "divergence": 0.618,
+   "divergence": 0.558,
    "category": "économie",
    "terms_left": [
-    "présidentielle",
     "partie",
-    "élection"
+    "française",
+    "publique"
    ],
    "terms_right": [
     "note",
@@ -929,7 +951,7 @@
   {
    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
    "url": "https://www.rfi.fr/fr/afrique/20260824-tchad-ndjamena-d%C3%A9nonce-une-nouvelle-incursion-de-l-arm%C3%A9e-soudanaise-sur-son-sol",
-   "n_members": 68,
+   "n_members": 70,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -943,12 +965,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.66,
+   "divergence": 0.649,
    "category": "international",
    "terms_left": [
-    "assure",
     "guerre ukraine",
-    "drones"
+    "assure",
+    "direct"
    ],
    "terms_right": [
     "mois",
@@ -959,7 +981,7 @@
   {
    "title": "G20: Washington veut obliger ses alliés à renforcer sa guerre économique contre l'Iran",
    "url": "https://www.bfmtv.com/economie/entreprises/defense/250-jours-sans-escale-deux-marins-qui-tentent-de-se-jeter-par-dessus-bord-33-700-jours-de-retard-la-guerre-contre-l-iran-revele-les-failles-de-l-us-navy_AN-202608240292.html",
-   "n_members": 52,
+   "n_members": 53,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -1079,28 +1101,6 @@
    "blindspot_for": null,
    "divergence": 0.788,
    "category": "environnement",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Croissance révisée à la baisse: pour Roland Lescure, \"c'est le premier impact concret de l'été horrible qu'on a vécu\"",
-   "url": "https://www.challenges.fr/vie-de-lentreprise/pres-dun-tiers-des-entreprises-francaises-veulent-encore-embaucher-en-cdi-en-2026-ces-profils-aux-competences-rares-quelles-sarrachent_645307",
-   "n_members": 36,
-   "n_sources": 19,
-   "counts": {
-    "left": 2,
-    "centre": 9,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 5,
-    "opinion": 1
-   },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": 0.691,
-   "category": "économie",
    "terms_left": [],
    "terms_right": []
   },
