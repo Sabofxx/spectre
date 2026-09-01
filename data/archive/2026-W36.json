@@ -1,6 +1,6 @@
 {
  "week": "2026-W36",
- "generated_at": "2026-09-01T20:19:23+00:00",
+ "generated_at": "2026-09-01T22:43:18+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,17 +21,17 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.173,
+   "divergence": 0.174,
    "category": "international",
    "terms_left": [
     "inondations népal",
     "népal tibet",
-    "inondations"
+    "tibet"
    ],
    "terms_right": [
     "crue népal",
     "coulée boue",
-    "inondations meurtrières"
+    "crue"
    ]
   },
   {
@@ -97,7 +97,7 @@
   {
    "title": "Rentrée scolaire : pour ou contre l'interdiction des téléphones au lycée ?",
    "url": "https://www.franceinfo.fr/societe/education/les-personnels-de-l-education-nationale-regrettent-d-avoir-ete-avertis-beaucoup-trop-tard-pour-bannir-les-telephones-portables-des-lycees-des-la-rentree_8157302.html",
-   "n_members": 104,
+   "n_members": 105,
    "n_sources": 32,
    "counts": {
     "left": 7,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.266,
+   "divergence": 0.262,
    "category": "société",
    "terms_left": [
     "rentrée scolaire",
@@ -121,7 +121,7 @@
    "terms_right": [
     "élèves",
     "portables lycées",
-    "établissements"
+    "ministre"
    ]
   },
   {
@@ -217,7 +217,7 @@
   {
    "title": "Accord avec les Etats-Unis : le Venezuela «conserve la propriété et la souveraineté» de son pétrole, assure sa présidente",
    "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260828-des-n%C3%A9gociations-en-vue-d-un-accord-entre-les-%C3%A9tats-unis-et-le-venezuela-pour-le-p%C3%A9trole",
-   "n_members": 51,
+   "n_members": 52,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -231,7 +231,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.449,
+   "divergence": 0.441,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -321,11 +321,11 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.615,
+   "divergence": 0.618,
    "category": "politique",
    "terms_left": [
-    "edouard",
     "hollande",
+    "edouard",
     "edouard philippe"
    ],
    "terms_right": [
@@ -365,6 +365,36 @@
    ]
   },
   {
+   "title": "Les États-Unis ont frappé l'Iran pour la première fois en un mois, Téhéran promet des représailles",
+   "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
+   "n_members": 74,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 1
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.453,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "etats-unis iran",
+    "dernières"
+   ],
+   "terms_right": [
+    "américaines",
+    "états-unis",
+    "militaires"
+   ]
+  },
+  {
    "title": "Arrêts de travail, retraite… Ce qui change au 1er septembre 2026",
    "url": "https://www.ladepeche.fr/2026/08/24/temoignages-kine-si-le-remboursement-baisse-je-ne-pourrai-plus-me-soigner-trop-de-seances-inutiles-les-patients-partages-entre-economies-et-necessite-13515640.php",
    "n_members": 72,
@@ -392,36 +422,6 @@
     "maladie",
     "arrêts maladie",
     "er"
-   ]
-  },
-  {
-   "title": "Guerre au Moyen-Orient : Les Etats-Unis reprennent les frappes contre l’Iran, Téhéran riposte",
-   "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
-   "n_members": 71,
-   "n_sources": 25,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 1
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.451,
-   "category": "international",
-   "terms_left": [
-    "etats-unis",
-    "etats-unis iran",
-    "dernières"
-   ],
-   "terms_right": [
-    "américaines",
-    "états-unis",
-    "mois"
    ]
   },
   {
@@ -531,23 +531,23 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.609,
+   "divergence": 0.614,
    "category": "politique",
    "terms_left": [
     "qu",
-    "pen jordan",
-    "assure"
+    "campagne",
+    "pen jordan"
    ],
    "terms_right": [
     "présidentielle",
-    "france",
-    "gauche"
+    "jordan bardella",
+    "jordan"
    ]
   },
   {
    "title": "Éducation nationale : Bruno Retailleau souhaite créer des «internats disciplinaires» pour les élèves violents",
    "url": "https://www.challenges.fr/vie-de-lentreprise/pres-dun-tiers-des-entreprises-francaises-veulent-encore-embaucher-en-cdi-en-2026-ces-profils-aux-competences-rares-quelles-sarrachent_645307",
-   "n_members": 54,
+   "n_members": 55,
    "n_sources": 24,
    "counts": {
     "left": 2,
@@ -575,9 +575,9 @@
    ]
   },
   {
-   "title": "La Norvège en deuil rend hommage au roi Harald",
+   "title": "Norvège : le roi Haakon VIII a prêté serment sans son épouse, convalescente",
    "url": "https://www.bfmtv.com/people/tetes-couronnees/toujours-hospitalise-le-roi-harald-de-norvege-89-ans-annule-un-deplacement-prevu-debut-septembre_AD-202608210393.html",
-   "n_members": 78,
+   "n_members": 81,
    "n_sources": 23,
    "counts": {
     "left": 2,
@@ -777,6 +777,36 @@
    ]
   },
   {
+   "title": "Mis en examen dans des affaires de violences sexuelles, Patrick Bruel annonce l'annulation de sa tournée",
+   "url": "https://www.leprogres.fr/faits-divers-justice/2026/08/31/concert-de-patrick-bruel-a-saint-etienne-en-novembre-regis-juanico-dit-toujours-non",
+   "n_members": 31,
+   "n_sources": 23,
+   "counts": {
+    "left": 7,
+    "centre": 10,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": -0.077,
+   "blindspot_for": null,
+   "divergence": 0.31,
+   "category": "culture",
+   "terms_left": [
+    "concerts",
+    "affaires",
+    "examen affaires"
+   ],
+   "terms_right": [
+    "devenue",
+    "examen dossiers",
+    "dossiers"
+   ]
+  },
+  {
    "title": "Crise migratoire à Ceuta: une \"internationale d'ultra-droite\", dont la Russie et Israël, accusée de désinformation",
    "url": "https://www.rfi.fr/fr/afrique/20260817-ceuta-un-camerounais-arriv%C3%A9-dans-l-enclave-espagnole-t%C3%A9moigne-sur-ses-conditions-de-vie",
    "n_members": 87,
@@ -815,7 +845,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.431,
+   "divergence": 0.43,
    "category": "international",
    "terms_left": [
     "croisière",
@@ -908,36 +938,6 @@
     "prix",
     "fin",
     "euros"
-   ]
-  },
-  {
-   "title": "Mis en examen dans des affaires de violences sexuelles, Patrick Bruel annonce l'annulation de sa tournée",
-   "url": "https://www.leprogres.fr/faits-divers-justice/2026/08/31/concert-de-patrick-bruel-a-saint-etienne-en-novembre-regis-juanico-dit-toujours-non",
-   "n_members": 29,
-   "n_sources": 22,
-   "counts": {
-    "left": 7,
-    "centre": 10,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": -0.167,
-   "blindspot_for": null,
-   "divergence": 0.311,
-   "category": "culture",
-   "terms_left": [
-    "concerts",
-    "affaires",
-    "examen affaires"
-   ],
-   "terms_right": [
-    "devenue",
-    "examen dossiers",
-    "dossiers"
    ]
   },
   {
@@ -1087,13 +1087,13 @@
    "terms_right": [
     "er",
     "émission",
-    "fitch maintient"
+    "maintient note"
    ]
   },
   {
    "title": "«Je demande pardon à toutes les victimes» : un animateur du périscolaire parisien reconnaît avoir agressé sexuellement neuf petites filles",
    "url": "https://www.lejdd.fr/Societe/periscolaire-a-paris-anne-hidalgo-et-son-ancien-premier-adjoint-vise-par-plusieurs-plaintes-de-familles-181893",
-   "n_members": 34,
+   "n_members": 36,
    "n_sources": 21,
    "counts": {
     "left": 6,
@@ -1107,7 +1107,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.377,
+   "divergence": 0.384,
    "category": "société",
    "terms_left": [
     "directement",
@@ -1137,7 +1137,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.641,
+   "divergence": 0.642,
    "category": "international",
    "terms_left": [
     "guerre ukraine",
@@ -1151,9 +1151,9 @@
    ]
   },
   {
-   "title": "Etats-Unis. Plus de 20 personnes recherchées après des crues soudaines dans le Grand Canyon",
-   "url": "https://www.leprogres.fr/faits-divers-justice/2026/08/30/plus-de-20-personnes-recherchees-apres-des-crues-soudaines-dans-le-grand-canyon",
-   "n_members": 35,
+   "title": "\"Dans la lignée de cet été interminable\" : la chaleur va faire son retour cette semaine en France, jusqu'à 38°C attendus dans le Sud-Ouest",
+   "url": "http://fr.euronews.com/my-europe/2026/08/27/litalie-fait-face-a-la-vague-de-chaleur-la-plus-intense-de-lete-avec-des-maximales-atteign",
+   "n_members": 39,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -1161,23 +1161,23 @@
     "right": 5
    },
    "style_counts": {
-    "factuel": 14,
+    "factuel": 13,
     "mixte": 5,
-    "opinion": 1
+    "opinion": 2
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.547,
-   "category": "international",
+   "divergence": 0.714,
+   "category": "environnement",
    "terms_left": [
-    "boueuse",
-    "mort",
-    "recherche"
+    "france",
+    "épisode",
+    "mois"
    ],
    "terms_right": [
-    "états-unis",
-    "personnes",
-    "canyon"
+    "semaine",
+    "face",
+    "fin"
    ]
   }
  ]
