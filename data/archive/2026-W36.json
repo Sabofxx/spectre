@@ -1,13 +1,13 @@
 {
  "week": "2026-W36",
- "generated_at": "2026-09-01T14:01:05+00:00",
+ "generated_at": "2026-09-01T17:39:41+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Le bilan de la crue au Népal passe à 734 morts et 2.498 disparus",
    "url": "https://www.sudouest.fr/international/chine/chine-une-coulee-de-boue-cote-nepalais-a-fait-de-nombreuses-victimes-au-tibet-30371272.php",
-   "n_members": 341,
+   "n_members": 348,
    "n_sources": 34,
    "counts": {
     "left": 8,
@@ -26,12 +26,12 @@
    "terms_left": [
     "inondations népal",
     "népal tibet",
-    "tibet"
+    "inondations"
    ],
    "terms_right": [
-    "bilan",
     "crue népal",
-    "coulée boue"
+    "coulée boue",
+    "inondations meurtrières"
    ]
   },
   {
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.279,
+   "divergence": 0.278,
    "category": "politique",
    "terms_left": [
     "primaire",
@@ -81,37 +81,37 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.567,
+   "divergence": 0.558,
    "category": "politique",
    "terms_left": [
     "gauche",
-    "rentrée",
-    "fabien"
+    "fabien",
+    "roussel"
    ],
    "terms_right": [
-    "gouvernement",
     "déficit",
-    "candidat"
+    "gouvernement",
+    "bruno maire"
    ]
   },
   {
-   "title": "Interdiction du portable au lycée : pour la rentrée, une nouvelle règle mais plusieurs façons de l'appliquer",
+   "title": "Rentrée scolaire : pour ou contre l'interdiction des téléphones au lycée ?",
    "url": "https://www.franceinfo.fr/societe/education/les-personnels-de-l-education-nationale-regrettent-d-avoir-ete-avertis-beaucoup-trop-tard-pour-bannir-les-telephones-portables-des-lycees-des-la-rentree_8157302.html",
-   "n_members": 96,
-   "n_sources": 31,
+   "n_members": 102,
+   "n_sources": 32,
    "counts": {
     "left": 7,
-    "centre": 16,
+    "centre": 17,
     "right": 8
    },
    "style_counts": {
-    "factuel": 16,
+    "factuel": 17,
     "mixte": 13,
     "opinion": 2
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.269,
+   "divergence": 0.27,
    "category": "société",
    "terms_left": [
     "rentrée scolaire",
@@ -127,21 +127,21 @@
   {
    "title": "L'ancien Premier ministre Édouard Balladur est mort à Paris à l'âge de 97 ans",
    "url": "https://www.tf1info.fr/politique/l-ancien-premier-ministre-edouard-balladur-est-decede-2345013.html",
-   "n_members": 73,
-   "n_sources": 30,
+   "n_members": 81,
+   "n_sources": 32,
    "counts": {
-    "left": 5,
-    "centre": 13,
+    "left": 6,
+    "centre": 14,
     "right": 12
    },
    "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
+    "factuel": 16,
+    "mixte": 10,
     "opinion": 6
    },
-   "blindspot_score": 0.412,
+   "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.35,
+   "divergence": 0.344,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -155,9 +155,9 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine : une attaque russe « massive » fait 9 morts à Kiev et dans sa région",
+   "title": "Guerre en Ukraine : au moins 12 morts dans une attaque russe massive sur Kiev et dans sa région",
    "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/08/20/nuit-meurtriere-a-kiev-16-morts-et-une-cinquantaine-de-blesses-apres-des-frappes-russes",
-   "n_members": 540,
+   "n_members": 541,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.304,
+   "divergence": 0.305,
    "category": "international",
    "terms_left": [
     "direct",
@@ -215,6 +215,36 @@
    ]
   },
   {
+   "title": "Accord avec les Etats-Unis : le Venezuela «conserve la propriété et la souveraineté» de son pétrole, assure sa présidente",
+   "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260828-des-n%C3%A9gociations-en-vue-d-un-accord-entre-les-%C3%A9tats-unis-et-le-venezuela-pour-le-p%C3%A9trole",
+   "n_members": 50,
+   "n_sources": 29,
+   "counts": {
+    "left": 8,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": -0.067,
+   "blindspot_for": null,
+   "divergence": 0.445,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "etats-unis venezuela",
+    "vénézuélien"
+   ],
+   "terms_right": [
+    "grand accord",
+    "contrôle",
+    "delcy"
+   ]
+  },
+  {
    "title": "Présidentielle 2027 : Olivier Faure sera candidat à la primaire de la gauche",
    "url": "https://www.ouest-france.fr/elections/presidentielle/karim-bouamrane-candidat-ps-a-lelection-presidentielle-ne-participera-pas-a-la-primaire-socialiste-doctobre-b3c93008-a110-11f1-bba4-fb5ac80a227f",
    "n_members": 110,
@@ -231,12 +261,12 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.305,
+   "divergence": 0.312,
    "category": "politique",
    "terms_left": [
-    "discours",
-    "blois",
-    "universités"
+    "françois hollande",
+    "boris",
+    "vallaud"
    ],
    "terms_right": [
     "droite",
@@ -261,7 +291,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.726,
+   "divergence": 0.727,
    "category": "société",
    "terms_left": [
     "élèves",
@@ -291,12 +321,12 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.612,
+   "divergence": 0.615,
    "category": "politique",
    "terms_left": [
+    "république",
     "edouard",
-    "edouard philippe",
-    "union"
+    "edouard philippe"
    ],
    "terms_right": [
     "édouard philippe",
@@ -305,58 +335,28 @@
    ]
   },
   {
-   "title": "Accord avec les Etats-Unis : le Venezuela «conserve la propriété et la souveraineté» de son pétrole, assure sa présidente",
-   "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260828-des-n%C3%A9gociations-en-vue-d-un-accord-entre-les-%C3%A9tats-unis-et-le-venezuela-pour-le-p%C3%A9trole",
-   "n_members": 49,
-   "n_sources": 28,
-   "counts": {
-    "left": 7,
-    "centre": 14,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.459,
-   "category": "international",
-   "terms_left": [
-    "etats-unis",
-    "etats-unis venezuela",
-    "vénézuélien"
-   ],
-   "terms_right": [
-    "trump",
-    "grand accord",
-    "contrôle"
-   ]
-  },
-  {
    "title": "Présidentielle : en cas de victoire du RN, le port du voile islamique sera sanctionné d'une amende",
    "url": "https://www.leparisien.fr/elections/presidentielle/elles-auront-une-amende-en-cas-delection-de-marine-le-pen-a-la-presidentielle-les-femmes-portant-le-voile-seront-sanctionnees-30-08-2026-GU2ZGE7NJNBIVOIWNISEILGYWI.php",
-   "n_members": 60,
-   "n_sources": 26,
+   "n_members": 69,
+   "n_sources": 27,
    "counts": {
     "left": 7,
-    "centre": 10,
+    "centre": 11,
     "right": 9
    },
    "style_counts": {
     "factuel": 12,
-    "mixte": 9,
+    "mixte": 10,
     "opinion": 5
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.326,
+   "divergence": 0.321,
    "category": "politique",
    "terms_left": [
     "interdiction voile",
-    "interdiction",
-    "parti"
+    "droite",
+    "interdiction"
    ],
    "terms_right": [
     "sanctionner",
@@ -365,9 +365,39 @@
    ]
   },
   {
+   "title": "Arrêts de travail, retraite… Ce qui change au 1er septembre 2026",
+   "url": "https://www.ladepeche.fr/2026/08/24/temoignages-kine-si-le-remboursement-baisse-je-ne-pourrai-plus-me-soigner-trop-de-seances-inutiles-les-patients-partages-entre-economies-et-necessite-13515640.php",
+   "n_members": 72,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 10,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.744,
+   "category": "économie",
+   "terms_left": [
+    "chômage",
+    "réforme",
+    "indemnisation"
+   ],
+   "terms_right": [
+    "maladie",
+    "arrêts maladie",
+    "er"
+   ]
+  },
+  {
    "title": "Guerre au Moyen-Orient : Les Etats-Unis reprennent les frappes contre l’Iran, Téhéran riposte",
    "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
-   "n_members": 62,
+   "n_members": 67,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -381,7 +411,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.484,
+   "divergence": 0.467,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -390,8 +420,8 @@
    ],
    "terms_right": [
     "américaines",
-    "nouvelles",
-    "états-unis"
+    "états-unis",
+    "mois"
    ]
   },
   {
@@ -471,17 +501,47 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.599,
+   "divergence": 0.602,
    "category": "politique",
    "terms_left": [
-    "extrême",
     "pen jordan",
-    "qu"
+    "qu",
+    "assure"
    ],
    "terms_right": [
     "présidentielle",
-    "président",
+    "france",
     "gauche"
+   ]
+  },
+  {
+   "title": "Éducation nationale : Bruno Retailleau souhaite créer des «internats disciplinaires» pour les élèves violents",
+   "url": "https://www.challenges.fr/vie-de-lentreprise/pres-dun-tiers-des-entreprises-francaises-veulent-encore-embaucher-en-cdi-en-2026-ces-profils-aux-competences-rares-quelles-sarrachent_645307",
+   "n_members": 53,
+   "n_sources": 24,
+   "counts": {
+    "left": 2,
+    "centre": 11,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 4
+   },
+   "blindspot_score": 0.692,
+   "blindspot_for": "gauche",
+   "divergence": 0.709,
+   "category": "économie",
+   "terms_left": [
+    "ecologistes",
+    "éducation",
+    "panne"
+   ],
+   "terms_right": [
+    "élèves",
+    "france",
+    "bruno retailleau"
    ]
   },
   {
@@ -503,21 +563,13 @@
    "blindspot_for": "gauche",
    "divergence": 0.403,
    "category": "international",
-   "terms_left": [
-    "roi norvège",
-    "populaire",
-    "nouveau"
-   ],
-   "terms_right": [
-    "ans",
-    "norvège",
-    "harald"
-   ]
+   "terms_left": [],
+   "terms_right": []
   },
   {
-   "title": "Arrêts de travail, retraite… Ce qui change au 1er septembre 2026",
-   "url": "https://www.ladepeche.fr/2026/08/24/temoignages-kine-si-le-remboursement-baisse-je-ne-pourrai-plus-me-soigner-trop-de-seances-inutiles-les-patients-partages-entre-economies-et-necessite-13515640.php",
-   "n_members": 68,
+   "title": "Présidentielle 2027. « Jusqu'à 25% » : Raphaël Glucksmann veut augmenter les salaires des enseignants",
+   "url": "https://www.liberation.fr/idees-et-debats/faut-il-vraiment-legiferer-lamitie-20260825_BXPP3SWD5JAEXAYX7K6YAASDBY/",
+   "n_members": 64,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -525,23 +577,23 @@
     "right": 9
    },
    "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
-    "opinion": 3
+    "factuel": 11,
+    "mixte": 6,
+    "opinion": 6
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.745,
-   "category": "économie",
+   "divergence": 0.705,
+   "category": "politique",
    "terms_left": [
-    "chômage",
-    "réforme",
-    "indemnisation"
+    "face",
+    "amitié",
+    "droite"
    ],
    "terms_right": [
-    "maladie",
-    "arrêts maladie",
-    "santé"
+    "retailleau",
+    "bruno retailleau",
+    "bruno"
    ]
   },
   {
@@ -561,17 +613,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.487,
+   "divergence": 0.466,
    "category": "sport",
    "terms_left": [
     "face",
-    "discipline",
-    "trail"
+    "trail",
+    "ultra-trail"
    ],
    "terms_right": [
+    "utmb",
     "blandine hirondel",
-    "hirondel",
-    "blandine"
+    "hirondel"
    ]
   },
   {
@@ -605,39 +657,9 @@
    ]
   },
   {
-   "title": "Présidentielle 2027. « Jusqu'à 25% » : Raphaël Glucksmann veut augmenter les salaires des enseignants",
-   "url": "https://www.liberation.fr/idees-et-debats/faut-il-vraiment-legiferer-lamitie-20260825_BXPP3SWD5JAEXAYX7K6YAASDBY/",
-   "n_members": 61,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 9,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 6,
-    "opinion": 6
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.71,
-   "category": "politique",
-   "terms_left": [
-    "face",
-    "amitié",
-    "droite"
-   ],
-   "terms_right": [
-    "retailleau",
-    "bruno retailleau",
-    "bruno"
-   ]
-  },
-  {
    "title": "C’est quoi ce malus sur les vêtements de mode éphémère qui entre en vigueur ce mardi ?",
    "url": "https://www.nicematin.com/conso/la-taxe-fonciere-arrive-cette-semaine-dans-les-boites-aux-lettres-et-vous-pouvez-pretendre-a-une-reduction-voire-une-exoneration-voici-ce-qu-il-faut-savoir-10711143",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -651,7 +673,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.738,
+   "divergence": 0.723,
    "category": "économie",
    "terms_left": [
     "pénalités",
@@ -692,36 +714,6 @@
     "festival rock",
     "incendie",
     "feu"
-   ]
-  },
-  {
-   "title": "Éducation nationale : Bruno Retailleau souhaite créer des «internats disciplinaires» pour les élèves violents",
-   "url": "https://www.challenges.fr/vie-de-lentreprise/pres-dun-tiers-des-entreprises-francaises-veulent-encore-embaucher-en-cdi-en-2026-ces-profils-aux-competences-rares-quelles-sarrachent_645307",
-   "n_members": 50,
-   "n_sources": 23,
-   "counts": {
-    "left": 2,
-    "centre": 11,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.667,
-   "blindspot_for": "gauche",
-   "divergence": 0.719,
-   "category": "économie",
-   "terms_left": [
-    "éducation",
-    "école",
-    "panne"
-   ],
-   "terms_right": [
-    "france",
-    "bruno retailleau",
-    "retailleau"
    ]
   },
   {
@@ -779,7 +771,7 @@
   {
    "title": "Le naufrage d'un bateau de croisière fait plusieurs morts et des disparus au large de Chypre",
    "url": "https://www.sudouest.fr/faits-divers/un-chalutier-de-saint-brieuc-coule-au-large-de-la-cote-anglaise-deux-marins-francais-portes-disparus-30419148.php",
-   "n_members": 71,
+   "n_members": 73,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -793,7 +785,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.43,
+   "divergence": 0.431,
    "category": "international",
    "terms_left": [
     "croisière",
@@ -807,9 +799,9 @@
    ]
   },
   {
-   "title": "G20: Washington veut obliger ses alliés à renforcer sa guerre économique contre l'Iran",
+   "title": "G20 Finance aux Etats-Unis : Washington cherche des alliés contre Téhéran",
    "url": "https://www.bfmtv.com/economie/entreprises/defense/250-jours-sans-escale-deux-marins-qui-tentent-de-se-jeter-par-dessus-bord-33-700-jours-de-retard-la-guerre-contre-l-iran-revele-les-failles-de-l-us-navy_AN-202608240292.html",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -875,23 +867,23 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.652,
+   "divergence": 0.611,
    "category": "économie",
    "terms_left": [
-    "superprofits",
     "patrick",
-    "pouyanné"
+    "pouyanné",
+    "patrick pouyanné"
    ],
    "terms_right": [
     "prix",
-    "euros",
-    "moyen-orient"
+    "moyen-orient",
+    "fin"
    ]
   },
   {
    "title": "Un ancien membre de gang reconnu coupable du meurtre de Tupac Shakur, trente ans après la mort du rappeur",
    "url": "https://www.france24.com/fr/am%C3%A9riques/20260901-etats-unis-meurtre-du-rappeur-tupac-shakur-duane-davis-ex-membre-de-gang-reconnu-coupable",
-   "n_members": 25,
+   "n_members": 26,
    "n_sources": 22,
    "counts": {
     "left": 7,
@@ -905,7 +897,7 @@
    },
    "blindspot_score": -0.4,
    "blindspot_for": null,
-   "divergence": 0.278,
+   "divergence": 0.279,
    "category": "international",
    "terms_left": [
     "shakur duane",
@@ -919,9 +911,9 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine : La Russie promet des « frappes massives » et Kiev débat sur ses dépôts de munitions en pleine ville",
+   "title": "Guerre en Ukraine. L’UE veut contrer les attaques hybrides russes, quatre morts près de Kiev… Le point sur la nuit",
    "url": "https://www.leparisien.fr/paris-75/paris-la-tour-eiffel-silluminera-en-bleu-et-jaune-pour-le-35e-anniversaire-de-lindependance-ukrainienne-lundi-soir-21-08-2026-BZQTY5B7UVHV7AV2TD5BEWMW6Q.php",
-   "n_members": 68,
+   "n_members": 69,
    "n_sources": 21,
    "counts": {
     "left": 5,
@@ -935,7 +927,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.742,
+   "divergence": 0.743,
    "category": "international",
    "terms_left": [
     "célèbre",
@@ -974,8 +966,8 @@
    ],
    "terms_right": [
     "pompiers",
-    "jours",
-    "victimes"
+    "victimes",
+    "jours"
    ]
   },
   {
@@ -1041,7 +1033,7 @@
   {
    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
    "url": "https://www.rfi.fr/fr/afrique/20260824-tchad-ndjamena-d%C3%A9nonce-une-nouvelle-incursion-de-l-arm%C3%A9e-soudanaise-sur-son-sol",
-   "n_members": 75,
+   "n_members": 76,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -1055,11 +1047,11 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.656,
+   "divergence": 0.644,
    "category": "international",
    "terms_left": [
     "guerre ukraine",
-    "frappes",
+    "drones",
     "assure"
    ],
    "terms_right": [
@@ -1096,6 +1088,36 @@
     "états-unis",
     "personnes",
     "canyon"
+   ]
+  },
+  {
+   "title": "«Je demande pardon à toutes les victimes» : un animateur du périscolaire parisien reconnaît avoir agressé sexuellement neuf petites filles",
+   "url": "https://www.lejdd.fr/Societe/periscolaire-a-paris-anne-hidalgo-et-son-ancien-premier-adjoint-vise-par-plusieurs-plaintes-de-familles-181893",
+   "n_members": 32,
+   "n_sources": 20,
+   "counts": {
+    "left": 6,
+    "centre": 7,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.371,
+   "category": "société",
+   "terms_left": [
+    "directement",
+    "paris anne",
+    "plaintes"
+   ],
+   "terms_right": [
+    "ans",
+    "scandale",
+    "qu"
    ]
   },
   {
@@ -1137,7 +1159,7 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.431,
+   "divergence": 0.386,
    "category": "sport",
    "terms_left": [
     "rouge",
@@ -1145,32 +1167,10 @@
     "maillot rouge"
    ],
    "terms_right": [
-    "lourde chute",
-    "lourde",
-    "slovène"
+    "tour",
+    "tour espagne",
+    "espagne"
    ]
-  },
-  {
-   "title": "« Je suis inquiet pour la rentrée scolaire » : après l’orage, la course contre la montre pour réparer les écoles du Val-de-Marne",
-   "url": "https://www.leprogres.fr/education/2026/08/20/resultats-mitiges-eleves-reticents-cout-excessif-l-uniforme-a-l-ecole-tombe-a-l-eau",
-   "n_members": 61,
-   "n_sources": 19,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.788,
-   "category": "environnement",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
