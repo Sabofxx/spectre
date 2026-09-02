@@ -1,13 +1,13 @@
 {
  "week": "2026-W36",
- "generated_at": "2026-09-02T20:18:10+00:00",
+ "generated_at": "2026-09-02T22:45:19+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Crue dans l'Himalaya : 987 morts au Népal, le bilan total dépasse 1.000 morts avec la Chine",
    "url": "https://www.sudouest.fr/international/chine/chine-une-coulee-de-boue-cote-nepalais-a-fait-de-nombreuses-victimes-au-tibet-30371272.php",
-   "n_members": 362,
+   "n_members": 363,
    "n_sources": 34,
    "counts": {
     "left": 8,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.559,
+   "divergence": 0.56,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.298,
+   "divergence": 0.297,
    "category": "international",
    "terms_left": [
     "direct",
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.287,
+   "divergence": 0.288,
    "category": "politique",
    "terms_left": [
     "droite",
@@ -247,7 +247,7 @@
   {
    "title": "Trump promet que les États-Unis prendront \"tout\" le pétrole du Venezuela",
    "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260828-des-n%C3%A9gociations-en-vue-d-un-accord-entre-les-%C3%A9tats-unis-et-le-venezuela-pour-le-p%C3%A9trole",
-   "n_members": 61,
+   "n_members": 64,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -367,7 +367,7 @@
   {
    "title": "Drones retrouvés à l'aéroport de Leipzig : l'Allemagne accuse formellement la Russie",
    "url": "https://www.rfi.fr/fr/europe/20260824-allemagne-le-parti-d-extr%C3%AAme-droite-afd-aux-portes-du-pouvoir-en-saxe-anhaltau",
-   "n_members": 87,
+   "n_members": 89,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.286,
+   "divergence": 0.285,
    "category": "international",
    "terms_left": [
     "europe",
@@ -397,7 +397,7 @@
   {
    "title": "EN DIRECT : Guerre au Moyen-Orient : l'Iran attaque des bases des États-Unis après de nouvelles frappes américaines",
    "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
-   "n_members": 104,
+   "n_members": 106,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -411,17 +411,17 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.414,
+   "divergence": 0.382,
    "category": "international",
    "terms_left": [
     "etats-unis",
-    "iraniens",
-    "emirats arabes"
+    "reprise",
+    "iraniens"
    ],
    "terms_right": [
     "américaines",
-    "washington",
-    "attaque"
+    "moyen-orient",
+    "guerre moyen-orient"
    ]
   },
   {
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.733,
    "blindspot_for": "gauche",
-   "divergence": 0.744,
+   "divergence": 0.743,
    "category": "économie",
    "terms_left": [
     "rentrée",
@@ -487,7 +487,7 @@
   {
    "title": "Mis en examen dans des affaires de violences sexuelles, Patrick Bruel annonce l'annulation de sa tournée",
    "url": "https://www.leprogres.fr/faits-divers-justice/2026/08/31/concert-de-patrick-bruel-a-saint-etienne-en-novembre-regis-juanico-dit-toujours-non",
-   "n_members": 72,
+   "n_members": 73,
    "n_sources": 25,
    "counts": {
     "left": 7,
@@ -531,17 +531,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.262,
+   "divergence": 0.263,
    "category": "international",
    "terms_left": [
-    "vote",
+    "vote correspondance",
     "correspondance",
-    "vote correspondance"
+    "vote"
    ],
    "terms_right": [
-    "google",
     "américain",
-    "google maps"
+    "ontario",
+    "rebaptiser"
    ]
   },
   {
@@ -655,8 +655,8 @@
    "category": "politique",
    "terms_left": [
     "jean-marc",
-    "jancovici",
-    "jean-marc jancovici"
+    "jean-marc jancovici",
+    "jancovici"
    ],
    "terms_right": [
     "medef",
@@ -695,9 +695,9 @@
    ]
   },
   {
-   "title": "Crise à Ceuta: un rapport de police met en cause le Maroc dans l'entrée massive de migrants, Madrid demande des explications",
+   "title": "Crise migratoire à Ceuta : un rapport des autorités espagnoles pointe la «permissivité» des policiers marocains",
    "url": "https://www.rfi.fr/fr/afrique/20260817-ceuta-un-camerounais-arriv%C3%A9-dans-l-enclave-espagnole-t%C3%A9moigne-sur-ses-conditions-de-vie",
-   "n_members": 98,
+   "n_members": 99,
    "n_sources": 23,
    "counts": {
     "left": 3,
@@ -711,12 +711,12 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.778,
+   "divergence": 0.764,
    "category": "international",
    "terms_left": [
-    "rôle",
-    "ceuta rapport",
-    "immigration"
+    "doute",
+    "sème",
+    "sème doute"
    ],
    "terms_right": [
     "ceuta",
@@ -741,17 +741,17 @@
    },
    "blindspot_score": 0.6,
    "blindspot_for": "gauche",
-   "divergence": 0.388,
+   "divergence": 0.393,
    "category": "international",
    "terms_left": [
     "roi norvège",
     "nouveau roi",
-    "mort"
+    "père"
    ],
    "terms_right": [
     "harald",
-    "ans",
-    "roi"
+    "roi",
+    "ans"
    ]
   },
   {
@@ -815,6 +815,36 @@
    ]
   },
   {
+   "title": "Scandale du périscolaire à Paris : deux nouveaux animateurs jugés cette semaine",
+   "url": "https://www.lejdd.fr/Societe/periscolaire-a-paris-anne-hidalgo-et-son-ancien-premier-adjoint-vise-par-plusieurs-plaintes-de-familles-181893",
+   "n_members": 60,
+   "n_sources": 23,
+   "counts": {
+    "left": 6,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.482,
+   "category": "société",
+   "terms_left": [
+    "violences périscolaire",
+    "violences",
+    "plaintes"
+   ],
+   "terms_right": [
+    "incendie",
+    "arrondissement",
+    "qu"
+   ]
+  },
+  {
    "title": "Le directeur de la CIA en Russie : chronique et raisons d’un voyage annoncé",
    "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/08/25/le-patron-de-la-cia-en-visite-surprise-a-moscou-ce-mardi",
    "n_members": 59,
@@ -845,36 +875,6 @@
    ]
   },
   {
-   "title": "Scandale du périscolaire à Paris : deux nouveaux animateurs jugés cette semaine",
-   "url": "https://www.lejdd.fr/Societe/periscolaire-a-paris-anne-hidalgo-et-son-ancien-premier-adjoint-vise-par-plusieurs-plaintes-de-familles-181893",
-   "n_members": 59,
-   "n_sources": 23,
-   "counts": {
-    "left": 6,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.477,
-   "category": "société",
-   "terms_left": [
-    "violences périscolaire",
-    "violences",
-    "plaintes"
-   ],
-   "terms_right": [
-    "arrondissement",
-    "incendie",
-    "qu"
-   ]
-  },
-  {
    "title": "Rock en Seine 2026 : The Cure, Nick Cave, Tyler, The Creator… nos coups de cœur (et déceptions) d’une édition très rock",
    "url": "https://www.nicematin.com/societe/vie-locale/festival-pyrotechnique-de-cannes-le-dernier-feu-d-artifice-qui-devait-avoir-lieu-ce-lundi-reporte-a-mardi-en-raison-du-mauvais-temps-10711177",
    "n_members": 58,
@@ -902,6 +902,36 @@
     "festival rock",
     "festival",
     "incendie"
+   ]
+  },
+  {
+   "title": "Plan pour l'agriculture : les annonces «décalées de quelques jours», indique le ministère",
+   "url": "https://www.bfmtv.com/economie/entreprises/les-exigences-en-cybersecurite-sont-les-plus-elevees-en-europe-quelques-jours-apres-le-piratage-du-fisc-bercy-rassure-sur-les-risques-de-fuites-de-donnees-liees-a-la-mise-en-place-de-la-facturation-electronique_AV-202608260490.html",
+   "n_members": 49,
+   "n_sources": 23,
+   "counts": {
+    "left": 6,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.721,
+   "category": "économie",
+   "terms_left": [
+    "données",
+    "cyberattaque",
+    "groupe"
+   ],
+   "terms_right": [
+    "urgence",
+    "jours",
+    "gouvernement"
    ]
   },
   {
@@ -937,7 +967,7 @@
   {
    "title": "Affaire Samuel Paty : un Tchétchène impliqué dans l'assassinat de l'enseignant de nouveau condamné",
    "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/la-procureure-de-la-republique-d-auch-en-premiere-ligne-pendant-l-affaire-lyhanna-a-quitte-son-poste_8170442.html",
-   "n_members": 42,
+   "n_members": 44,
    "n_sources": 23,
    "counts": {
     "left": 3,
@@ -951,7 +981,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.838,
+   "divergence": 0.834,
    "category": "faits-divers",
    "terms_left": [
     "affaire lyhanna",
@@ -1119,8 +1149,8 @@
    "category": "économie",
    "terms_left": [
     "maintiendra",
-    "maintiendra plafonnement",
-    "totalenergies maintiendra"
+    "totalenergies maintiendra",
+    "maintiendra plafonnement"
    ],
    "terms_right": [
     "prix",
@@ -1156,36 +1186,6 @@
     "jury",
     "jury reconnu",
     "arme"
-   ]
-  },
-  {
-   "title": "CARTE. Guerre en Ukraine : Moscou à l’origine de l’attaque à Leipzig, une raffinerie russe bombardée… Le point du jour",
-   "url": "https://www.leparisien.fr/paris-75/paris-la-tour-eiffel-silluminera-en-bleu-et-jaune-pour-le-35e-anniversaire-de-lindependance-ukrainienne-lundi-soir-21-08-2026-BZQTY5B7UVHV7AV2TD5BEWMW6Q.php",
-   "n_members": 71,
-   "n_sources": 21,
-   "counts": {
-    "left": 5,
-    "centre": 10,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.742,
-   "category": "international",
-   "terms_left": [
-    "célèbre",
-    "célèbre dessin",
-    "sanctionné"
-   ],
-   "terms_right": [
-    "russe",
-    "europe",
-    "présidentielle"
    ]
   }
  ]
