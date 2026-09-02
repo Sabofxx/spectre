@@ -1,13 +1,13 @@
 {
  "week": "2026-W36",
- "generated_at": "2026-09-02T13:58:41+00:00",
+ "generated_at": "2026-09-02T17:35:00+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Crue dans l'Himalaya : 987 morts au Népal, le bilan total dépasse 1.000 morts avec la Chine",
    "url": "https://www.sudouest.fr/international/chine/chine-une-coulee-de-boue-cote-nepalais-a-fait-de-nombreuses-victimes-au-tibet-30371272.php",
-   "n_members": 359,
+   "n_members": 362,
    "n_sources": 34,
    "counts": {
     "left": 8,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.183,
+   "divergence": 0.185,
    "category": "international",
    "terms_left": [
     "inondations népal",
@@ -30,8 +30,8 @@
    ],
    "terms_right": [
     "coulée boue",
-    "coulée",
-    "crue népal"
+    "crue népal",
+    "coulée"
    ]
   },
   {
@@ -81,17 +81,17 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.268,
+   "divergence": 0.269,
    "category": "politique",
    "terms_left": [
     "primaire",
     "primaire ps",
-    "blois"
+    "ps"
    ],
    "terms_right": [
     "présidentielle raphaël",
     "glucksmann candidat",
-    "présidentielle"
+    "candidat"
    ]
   },
   {
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.344,
+   "divergence": 0.342,
    "category": "international",
    "terms_left": [
     "adhésion union",
@@ -212,6 +212,36 @@
     "bruxelles",
     "pays",
     "référendum ue"
+   ]
+  },
+  {
+   "title": "Présidentielle : en cas de victoire du RN, le port du voile islamique sera sanctionné d'une amende",
+   "url": "https://www.leparisien.fr/elections/presidentielle/elles-auront-une-amende-en-cas-delection-de-marine-le-pen-a-la-presidentielle-les-femmes-portant-le-voile-seront-sanctionnees-30-08-2026-GU2ZGE7NJNBIVOIWNISEILGYWI.php",
+   "n_members": 92,
+   "n_sources": 29,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 10,
+    "opinion": 6
+   },
+   "blindspot_score": 0.176,
+   "blindspot_for": null,
+   "divergence": 0.284,
+   "category": "politique",
+   "terms_left": [
+    "droite",
+    "interdiction voile",
+    "parti"
+   ],
+   "terms_right": [
+    "sanctionner",
+    "amende",
+    "sanctionner port"
    ]
   },
   {
@@ -231,7 +261,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.41,
+   "divergence": 0.413,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -239,9 +269,9 @@
     "américaine"
    ],
    "terms_right": [
-    "grand accord",
+    "histoire",
     "américain",
-    "annonce"
+    "grand"
    ]
   },
   {
@@ -261,17 +291,17 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.294,
+   "divergence": 0.303,
    "category": "politique",
    "terms_left": [
-    "raphaël",
-    "raphaël glucksmann",
-    "présidentielle olivier"
+    "boris",
+    "vallaud",
+    "boris vallaud"
    ],
    "terms_right": [
-    "droite",
+    "secrétaire",
     "france",
-    "face"
+    "droite"
    ]
   },
   {
@@ -321,12 +351,12 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.613,
+   "divergence": 0.584,
    "category": "politique",
    "terms_left": [
     "edouard",
     "edouard philippe",
-    "hollande"
+    "philippe françois"
    ],
    "terms_right": [
     "édouard philippe",
@@ -335,39 +365,9 @@
    ]
   },
   {
-   "title": "Présidentielle : en cas de victoire du RN, le port du voile islamique sera sanctionné d'une amende",
-   "url": "https://www.leparisien.fr/elections/presidentielle/elles-auront-une-amende-en-cas-delection-de-marine-le-pen-a-la-presidentielle-les-femmes-portant-le-voile-seront-sanctionnees-30-08-2026-GU2ZGE7NJNBIVOIWNISEILGYWI.php",
-   "n_members": 88,
-   "n_sources": 28,
-   "counts": {
-    "left": 7,
-    "centre": 11,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 10,
-    "opinion": 6
-   },
-   "blindspot_score": 0.176,
-   "blindspot_for": null,
-   "divergence": 0.286,
-   "category": "politique",
-   "terms_left": [
-    "droite",
-    "publique",
-    "interdiction voile"
-   ],
-   "terms_right": [
-    "sanctionner",
-    "amende",
-    "sanctionner port"
-   ]
-  },
-  {
    "title": "EN DIRECT : Guerre au Moyen-Orient : l'Iran attaque des bases des États-Unis après de nouvelles frappes américaines",
    "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
-   "n_members": 100,
+   "n_members": 104,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -381,23 +381,53 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.422,
+   "divergence": 0.414,
    "category": "international",
    "terms_left": [
     "etats-unis",
-    "emirats arabes",
-    "etats-unis iran"
+    "iraniens",
+    "emirats arabes"
    ],
    "terms_right": [
     "américaines",
-    "nouvelles",
-    "washington"
+    "washington",
+    "attaque"
+   ]
+  },
+  {
+   "title": "Drones retrouvés à l'aéroport de Leipzig : l'Allemagne accuse formellement la Russie",
+   "url": "https://www.rfi.fr/fr/europe/20260824-allemagne-le-parti-d-extr%C3%AAme-droite-afd-aux-portes-du-pouvoir-en-saxe-anhaltau",
+   "n_members": 81,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.305,
+   "category": "international",
+   "terms_left": [
+    "attaque drone",
+    "guerre",
+    "explosif aéroport"
+   ],
+   "terms_right": [
+    "allemand",
+    "face",
+    "explosifs aéroport"
    ]
   },
   {
    "title": "Éducation nationale : Bruno Retailleau souhaite créer des «internats disciplinaires» pour les élèves violents",
    "url": "https://www.challenges.fr/vie-de-lentreprise/pres-dun-tiers-des-entreprises-francaises-veulent-encore-embaucher-en-cdi-en-2026-ces-profils-aux-competences-rares-quelles-sarrachent_645307",
-   "n_members": 62,
+   "n_members": 63,
    "n_sources": 26,
    "counts": {
     "left": 2,
@@ -411,7 +441,7 @@
    },
    "blindspot_score": 0.733,
    "blindspot_for": "gauche",
-   "divergence": 0.741,
+   "divergence": 0.744,
    "category": "économie",
    "terms_left": [
     "rentrée",
@@ -419,9 +449,9 @@
     "droits"
    ],
    "terms_right": [
-    "pension",
+    "retailleau",
     "bruno retailleau",
-    "retailleau"
+    "bruno"
    ]
   },
   {
@@ -457,7 +487,7 @@
   {
    "title": "Mis en examen dans des affaires de violences sexuelles, Patrick Bruel annonce l'annulation de sa tournée",
    "url": "https://www.leprogres.fr/faits-divers-justice/2026/08/31/concert-de-patrick-bruel-a-saint-etienne-en-novembre-regis-juanico-dit-toujours-non",
-   "n_members": 61,
+   "n_members": 71,
    "n_sources": 25,
    "counts": {
     "left": 7,
@@ -471,7 +501,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.298,
+   "divergence": 0.276,
    "category": "culture",
    "terms_left": [
     "affaires",
@@ -479,9 +509,9 @@
     "affaires violences"
    ],
    "terms_right": [
+    "examen viol",
     "dossiers",
-    "annoncé",
-    "femmes"
+    "examen dossiers"
    ]
   },
   {
@@ -501,7 +531,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.283,
+   "divergence": 0.281,
    "category": "international",
    "terms_left": [
     "vote",
@@ -531,12 +561,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.705,
+   "divergence": 0.711,
    "category": "politique",
    "terms_left": [
-    "face",
+    "rentrée",
     "amitié",
-    "monde"
+    "candidats"
    ],
    "terms_right": [
     "retailleau",
@@ -561,7 +591,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.598,
+   "divergence": 0.599,
    "category": "politique",
    "terms_left": [
     "campagne",
@@ -572,6 +602,36 @@
     "présidentielle",
     "mois",
     "gauche"
+   ]
+  },
+  {
+   "title": "C’est quoi ce malus sur les vêtements de mode éphémère qui entre en vigueur ce mardi ?",
+   "url": "https://www.nicematin.com/conso/la-taxe-fonciere-arrive-cette-semaine-dans-les-boites-aux-lettres-et-vous-pouvez-pretendre-a-une-reduction-voire-une-exoneration-voici-ce-qu-il-faut-savoir-10711143",
+   "n_members": 62,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 9,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.467,
+   "blindspot_for": null,
+   "divergence": 0.7,
+   "category": "économie",
+   "terms_left": [
+    "pénalités",
+    "fast-fashion",
+    "shein temu"
+   ],
+   "terms_right": [
+    "taxe",
+    "colis",
+    "petits"
    ]
   },
   {
@@ -591,17 +651,47 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.651,
+   "divergence": 0.652,
    "category": "politique",
    "terms_left": [
     "jean-marc",
-    "jean-marc jancovici",
-    "jancovici"
+    "jancovici",
+    "jean-marc jancovici"
    ],
    "terms_right": [
     "medef",
     "patrick martin",
     "martin"
+   ]
+  },
+  {
+   "title": "Interdiction du portable au lycée, éducation financière, questionnaire sur les violences sexuelles... Quelles sont les nouveautés de la rentrée 2026 ?",
+   "url": "https://www.liberation.fr/societe/education/salaire-moyen-dun-enseignant-a-3-090-euros-que-se-cache-t-il-derriere-ce-chiffre-largement-mediatise-20260828_XS2SVDBQBND4FJT4B3XUHPVOMI/",
+   "n_members": 59,
+   "n_sources": 24,
+   "counts": {
+    "left": 3,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.455,
+   "blindspot_for": null,
+   "divergence": 0.763,
+   "category": "société",
+   "terms_left": [
+    "coût rentrée",
+    "coût",
+    "universitaire"
+   ],
+   "terms_right": [
+    "lycée",
+    "scolaire",
+    "rentrée scolaire"
    ]
   },
   {
@@ -621,47 +711,17 @@
    },
    "blindspot_score": 0.6,
    "blindspot_for": "gauche",
-   "divergence": 0.386,
+   "divergence": 0.389,
    "category": "international",
    "terms_left": [
     "roi norvège",
     "nouveau roi",
-    "nouveau"
+    "mort"
    ],
    "terms_right": [
     "harald",
     "ans",
     "roi"
-   ]
-  },
-  {
-   "title": "Drones retrouvés à l'aéroport de Leipzig : l'Allemagne accuse formellement la Russie",
-   "url": "https://www.rfi.fr/fr/europe/20260824-allemagne-le-parti-d-extr%C3%AAme-droite-afd-aux-portes-du-pouvoir-en-saxe-anhaltau",
-   "n_members": 66,
-   "n_sources": 23,
-   "counts": {
-    "left": 6,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.324,
-   "category": "international",
-   "terms_left": [
-    "explosif aéroport",
-    "attaque drone",
-    "ukraine"
-   ],
-   "terms_right": [
-    "berlin",
-    "allemand",
-    "face"
    ]
   },
   {
@@ -691,37 +751,7 @@
    "terms_right": [
     "utmb",
     "blandine hirondel",
-    "hirondel"
-   ]
-  },
-  {
-   "title": "C’est quoi ce malus sur les vêtements de mode éphémère qui entre en vigueur ce mardi ?",
-   "url": "https://www.nicematin.com/conso/la-taxe-fonciere-arrive-cette-semaine-dans-les-boites-aux-lettres-et-vous-pouvez-pretendre-a-une-reduction-voire-une-exoneration-voici-ce-qu-il-faut-savoir-10711143",
-   "n_members": 61,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 9,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": 0.709,
-   "category": "économie",
-   "terms_left": [
-    "pénalités",
-    "fast-fashion",
-    "shein temu"
-   ],
-   "terms_right": [
-    "taxe",
-    "petits",
-    "petits colis"
+    "blandine"
    ]
   },
   {
@@ -741,17 +771,17 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.61,
+   "divergence": 0.611,
    "category": "international",
    "terms_left": [
     "ans",
-    "ans prison",
-    "condamné ans"
+    "artiste",
+    "chine"
    ],
    "terms_right": [
     "nicolas",
     "homme",
-    "pays"
+    "prison"
    ]
   },
   {
@@ -801,7 +831,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.506,
+   "divergence": 0.502,
    "category": "culture",
    "terms_left": [
     "the",
@@ -812,36 +842,6 @@
     "festival rock",
     "festival",
     "incendie"
-   ]
-  },
-  {
-   "title": "Interdiction du portable au lycée, éducation financière, questionnaire sur les violences sexuelles... Quelles sont les nouveautés de la rentrée 2026 ?",
-   "url": "https://www.liberation.fr/societe/education/salaire-moyen-dun-enseignant-a-3-090-euros-que-se-cache-t-il-derriere-ce-chiffre-largement-mediatise-20260828_XS2SVDBQBND4FJT4B3XUHPVOMI/",
-   "n_members": 56,
-   "n_sources": 23,
-   "counts": {
-    "left": 2,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": 0.81,
-   "category": "société",
-   "terms_left": [
-    "coût rentrée",
-    "coût",
-    "universitaire"
-   ],
-   "terms_right": [
-    "lycée",
-    "mois",
-    "scolaire"
    ]
   },
   {
@@ -877,7 +877,7 @@
   {
    "title": "Le réalisateur de Cyrano de Bergerac, Jean-Paul Rappeneau, est mort",
    "url": "https://www.liberation.fr/culture/cinema/mort-de-jean-paul-rappeneau-un-cineaste-qui-a-de-lallure-20260902_RI6BISXMFZD7DB7DBRXL3TRMJU/",
-   "n_members": 28,
+   "n_members": 33,
    "n_sources": 23,
    "counts": {
     "left": 8,
@@ -891,7 +891,7 @@
    },
    "blindspot_score": -0.143,
    "blindspot_for": null,
-   "divergence": 0.22,
+   "divergence": 0.218,
    "category": "culture",
    "terms_left": [
     "mort",
@@ -901,13 +901,13 @@
    "terms_right": [
     "afp",
     "rappeneau décédé",
-    "vie"
+    "ans annoncé"
    ]
   },
   {
-   "title": "Crise à Ceuta : Sanchez accuse la Russie et Israël d’avoir alimenté la désinformation",
+   "title": "Crise migratoire à Ceuta: une \"internationale d'ultra-droite\", dont la Russie et Israël, accusée de désinformation",
    "url": "https://www.rfi.fr/fr/afrique/20260817-ceuta-un-camerounais-arriv%C3%A9-dans-l-enclave-espagnole-t%C3%A9moigne-sur-ses-conditions-de-vie",
-   "n_members": 91,
+   "n_members": 94,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -929,7 +929,7 @@
   {
    "title": "Naufrage d'un ferry à Chypre du Nord: les autorités pensent que les 20 disparus sont prisonniers de l'épave",
    "url": "https://www.sudouest.fr/faits-divers/un-chalutier-de-saint-brieuc-coule-au-large-de-la-cote-anglaise-deux-marins-francais-portes-disparus-30419148.php",
-   "n_members": 77,
+   "n_members": 78,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -943,23 +943,23 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.373,
+   "divergence": 0.341,
    "category": "international",
    "terms_left": [
-    "croisière",
+    "morts",
     "morts disparus",
-    "morts"
+    "chypre"
    ],
    "terms_right": [
     "chalutier",
-    "naufrage",
-    "naufrage chalutier"
+    "française",
+    "autorités"
    ]
   },
   {
    "title": "Fusillade lors d'une rave en Suisse : un suspect suisse arrêté, annonce la police",
    "url": "https://www.bfmtv.com/international/europe/suisse/des-coups-de-feu-en-marge-d-une-rave-party-dans-nord-de-la-suisse-plusieurs-victimes-a-deplorer_AD-202608300066.html",
-   "n_members": 61,
+   "n_members": 62,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -1003,7 +1003,7 @@
   {
    "title": "La fête continue pour Donald Trump : la Cour suprême débloque le chantier de sa salle de balle",
    "url": "https://www.tf1info.fr/international/video-une-decision-extremement-symbolique-trump-menace-de-lacher-le-royaume-uni-au-sujet-des-iles-malouines-2461230.html",
-   "n_members": 58,
+   "n_members": 60,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -1017,17 +1017,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.732,
+   "divergence": 0.717,
    "category": "international",
    "terms_left": [
     "etats-unis",
     "veut",
-    "maire"
+    "trump veut"
    ],
    "terms_right": [
     "américain",
     "président américain",
-    "nbc"
+    "iran"
    ]
   },
   {
@@ -1051,8 +1051,8 @@
    "category": "économie",
    "terms_left": [
     "maintiendra",
-    "totalenergies maintiendra",
-    "maintiendra plafonnement"
+    "maintiendra plafonnement",
+    "totalenergies maintiendra"
    ],
    "terms_right": [
     "prix",
@@ -1063,7 +1063,7 @@
   {
    "title": "Scandale du périscolaire à Paris : deux nouveaux animateurs jugés cette semaine",
    "url": "https://www.lejdd.fr/Societe/periscolaire-a-paris-anne-hidalgo-et-son-ancien-premier-adjoint-vise-par-plusieurs-plaintes-de-familles-181893",
-   "n_members": 40,
+   "n_members": 42,
    "n_sources": 22,
    "counts": {
     "left": 6,
@@ -1077,12 +1077,12 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.391,
+   "divergence": 0.39,
    "category": "société",
    "terms_left": [
     "violences périscolaire",
-    "directement",
-    "paris anne"
+    "violences",
+    "directement"
    ],
    "terms_right": [
     "scandale",
