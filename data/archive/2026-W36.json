@@ -1,6 +1,6 @@
 {
  "week": "2026-W36",
- "generated_at": "2026-09-02T22:45:19+00:00",
+ "generated_at": "2026-09-03T00:52:02+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -217,7 +217,7 @@
   {
    "title": "Interdiction du voile dans l’espace public : le RN renoue avec ses fondamentaux islamophobes",
    "url": "https://www.leparisien.fr/elections/presidentielle/elles-auront-une-amende-en-cas-delection-de-marine-le-pen-a-la-presidentielle-les-femmes-portant-le-voile-seront-sanctionnees-30-08-2026-GU2ZGE7NJNBIVOIWNISEILGYWI.php",
-   "n_members": 93,
+   "n_members": 94,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.382,
+   "divergence": 0.381,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -695,6 +695,36 @@
    ]
   },
   {
+   "title": "Affaire Samuel Paty : un Tchétchène impliqué dans l'assassinat de l'enseignant de nouveau condamné",
+   "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/la-procureure-de-la-republique-d-auch-en-premiere-ligne-pendant-l-affaire-lyhanna-a-quitte-son-poste_8170442.html",
+   "n_members": 48,
+   "n_sources": 24,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.811,
+   "category": "faits-divers",
+   "terms_left": [
+    "mineurs",
+    "suspect",
+    "affaire lyhanna"
+   ],
+   "terms_right": [
+    "prison",
+    "condamné",
+    "homme"
+   ]
+  },
+  {
    "title": "Crise migratoire à Ceuta : un rapport des autorités espagnoles pointe la «permissivité» des policiers marocains",
    "url": "https://www.rfi.fr/fr/afrique/20260817-ceuta-un-camerounais-arriv%C3%A9-dans-l-enclave-espagnole-t%C3%A9moigne-sur-ses-conditions-de-vie",
    "n_members": 99,
@@ -781,7 +811,7 @@
    "terms_right": [
     "utmb",
     "blandine hirondel",
-    "blandine"
+    "hirondel"
    ]
   },
   {
@@ -907,7 +937,7 @@
   {
    "title": "Plan pour l'agriculture : les annonces «décalées de quelques jours», indique le ministère",
    "url": "https://www.bfmtv.com/economie/entreprises/les-exigences-en-cybersecurite-sont-les-plus-elevees-en-europe-quelques-jours-apres-le-piratage-du-fisc-bercy-rassure-sur-les-risques-de-fuites-de-donnees-liees-a-la-mise-en-place-de-la-facturation-electronique_AV-202608260490.html",
-   "n_members": 49,
+   "n_members": 50,
    "n_sources": 23,
    "counts": {
     "left": 6,
@@ -921,17 +951,17 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.721,
+   "divergence": 0.722,
    "category": "économie",
    "terms_left": [
     "données",
-    "cyberattaque",
-    "groupe"
+    "ministre",
+    "cyberattaque"
    ],
    "terms_right": [
     "urgence",
-    "jours",
-    "gouvernement"
+    "gouvernement",
+    "jours"
    ]
   },
   {
@@ -962,36 +992,6 @@
     "militaire",
     "serbes",
     "ancien"
-   ]
-  },
-  {
-   "title": "Affaire Samuel Paty : un Tchétchène impliqué dans l'assassinat de l'enseignant de nouveau condamné",
-   "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/la-procureure-de-la-republique-d-auch-en-premiere-ligne-pendant-l-affaire-lyhanna-a-quitte-son-poste_8170442.html",
-   "n_members": 44,
-   "n_sources": 23,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.834,
-   "category": "faits-divers",
-   "terms_left": [
-    "affaire lyhanna",
-    "suspect",
-    "affaire"
-   ],
-   "terms_right": [
-    "condamné",
-    "prison",
-    "parc"
    ]
   },
   {
