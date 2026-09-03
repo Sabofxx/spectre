@@ -1,13 +1,13 @@
 {
  "week": "2026-W36",
- "generated_at": "2026-09-03T20:19:35+00:00",
+ "generated_at": "2026-09-03T22:42:27+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Crue dans l'Himalaya : 987 morts au Népal, le bilan total dépasse 1.000 morts avec la Chine",
    "url": "https://www.sudouest.fr/international/chine/chine-une-coulee-de-boue-cote-nepalais-a-fait-de-nombreuses-victimes-au-tibet-30371272.php",
-   "n_members": 370,
+   "n_members": 371,
    "n_sources": 34,
    "counts": {
     "left": 8,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.364,
+   "divergence": 0.374,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -157,7 +157,7 @@
   {
    "title": "Guerre en Ukraine : au moins 12 morts dans une attaque russe massive sur Kiev et dans sa région",
    "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/08/20/nuit-meurtriere-a-kiev-16-morts-et-une-cinquantaine-de-blesses-apres-des-frappes-russes",
-   "n_members": 514,
+   "n_members": 506,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.292,
+   "divergence": 0.293,
    "category": "international",
    "terms_left": [
     "direct",
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.304,
+   "divergence": 0.308,
    "category": "politique",
    "terms_left": [
     "droite",
@@ -321,7 +321,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.713,
+   "divergence": 0.714,
    "category": "société",
    "terms_left": [
     "académies",
@@ -367,7 +367,7 @@
   {
    "title": "Crise migratoire de Ceuta : Pedro Sánchez dédouane encore le Maroc mais réaffirme la souveraineté espagnole",
    "url": "https://www.rfi.fr/fr/afrique/20260817-ceuta-un-camerounais-arriv%C3%A9-dans-l-enclave-espagnole-t%C3%A9moigne-sur-ses-conditions-de-vie",
-   "n_members": 128,
+   "n_members": 130,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.733,
    "blindspot_for": "gauche",
-   "divergence": 0.758,
+   "divergence": 0.757,
    "category": "économie",
    "terms_left": [
     "rentrée",
@@ -531,7 +531,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.777,
+   "divergence": 0.772,
    "category": "société",
    "terms_left": [
     "procureure auch",
@@ -541,7 +541,7 @@
    "terms_right": [
     "prison",
     "condamné",
-    "homme"
+    "assassinat"
    ]
   },
   {
@@ -771,7 +771,7 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.765,
+   "divergence": 0.764,
    "category": "société",
    "terms_left": [
     "coût rentrée",
@@ -781,7 +781,7 @@
    "terms_right": [
     "millions",
     "mois",
-    "scolaire"
+    "enseignants"
    ]
   },
   {
@@ -812,6 +812,36 @@
     "hussard",
     "hussard toit",
     "toit"
+   ]
+  },
+  {
+   "title": "Une intensité « très forte » jusqu'en 2027 : El Niño est plus puissant que jamais, alerte l'ONU",
+   "url": "https://www.lemonde.fr/economie/article/2026/09/01/dans-le-canal-de-panama-el-nino-impose-une-baisse-du-trafic-maritime-et-l-envolee-des-prix-de-passage_6763087_3234.html",
+   "n_members": 35,
+   "n_sources": 24,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": -0.091,
+   "blindspot_for": null,
+   "divergence": 0.448,
+   "category": "environnement",
+   "terms_left": [
+    "intensité forte",
+    "jusqu",
+    "météorologique"
+   ],
+   "terms_right": [
+    "panama",
+    "canal",
+    "épisode"
    ]
   },
   {
@@ -847,7 +877,7 @@
   {
    "title": "Météo : la chaleur revient en fin de semaine avec des températures potentiellement « inédites »",
    "url": "http://fr.euronews.com/my-europe/2026/08/27/litalie-fait-face-a-la-vague-de-chaleur-la-plus-intense-de-lete-avec-des-maximales-atteign",
-   "n_members": 66,
+   "n_members": 67,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1055,6 +1085,28 @@
    ]
   },
   {
+   "title": "Visite du pape Léon XIV : « 15.000 membres des forces de l’ordre » mobilisés pour « un dispositif exceptionnel »",
+   "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-du-pape-a-metz-les-tarifs-des-chambres-grimpent-en-fleche-pour-la-venue-du-souverain-pontife-fin-septembre_8152271.html",
+   "n_members": 56,
+   "n_sources": 23,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 4
+   },
+   "blindspot_score": 0.455,
+   "blindspot_for": null,
+   "divergence": 0.623,
+   "category": "société",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Après la mort du génocidaire Ratko Mladic, les embarrassants hommages au \"boucher des Balkans\" par les nationalistes serbes",
    "url": "https://www.liberation.fr/international/europe/ratko-mladic-mort-dun-genocidaire-20260827_UNSQGC6OKVHMPMERVFGR7FA3XY/",
    "n_members": 47,
@@ -1075,36 +1127,6 @@
    "category": "international",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Une intensité « très forte » jusqu'en 2027 : El Niño est plus puissant que jamais, alerte l'ONU",
-   "url": "https://www.lemonde.fr/economie/article/2026/09/01/dans-le-canal-de-panama-el-nino-impose-une-baisse-du-trafic-maritime-et-l-envolee-des-prix-de-passage_6763087_3234.html",
-   "n_members": 33,
-   "n_sources": 23,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": -0.091,
-   "blindspot_for": null,
-   "divergence": 0.448,
-   "category": "environnement",
-   "terms_left": [
-    "intensité forte",
-    "jusqu",
-    "météorologique"
-   ],
-   "terms_right": [
-    "panama",
-    "canal",
-    "épisode"
-   ]
   },
   {
    "title": "Naufrage d'un ferry à Chypre du Nord: les autorités pensent que les 20 disparus sont prisonniers de l'épave",
@@ -1157,36 +1179,6 @@
    "category": "international",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Prix de l'essence : TotalEnergies menace de mettre fin au plafonnement des prix en cas de taxe sur les superprofits",
-   "url": "https://www.lefigaro.fr/societes/en-chine-plus-de-4-millions-de-voitures-rappelees-a-cause-de-leurs-poignees-de-porte-affleurantes-20260822",
-   "n_members": 61,
-   "n_sources": 22,
-   "counts": {
-    "left": 5,
-    "centre": 9,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.565,
-   "category": "économie",
-   "terms_left": [
-    "maintiendra",
-    "maintiendra plafonnement",
-    "totalenergies maintiendra"
-   ],
-   "terms_right": [
-    "prix",
-    "euros",
-    "fin"
-   ]
   }
  ]
 }
