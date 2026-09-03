@@ -1,13 +1,13 @@
 {
  "week": "2026-W36",
- "generated_at": "2026-09-03T10:00:50+00:00",
+ "generated_at": "2026-09-03T14:09:30+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Crue dans l'Himalaya : 987 morts au Népal, le bilan total dépasse 1.000 morts avec la Chine",
    "url": "https://www.sudouest.fr/international/chine/chine-une-coulee-de-boue-cote-nepalais-a-fait-de-nombreuses-victimes-au-tibet-30371272.php",
-   "n_members": 364,
+   "n_members": 366,
    "n_sources": 34,
    "counts": {
     "left": 8,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.189,
+   "divergence": 0.188,
    "category": "international",
    "terms_left": [
     "inondations népal",
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.577,
+   "divergence": 0.573,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -59,9 +59,9 @@
     "roussel"
    ],
    "terms_right": [
-    "gouvernement",
     "bruno maire",
-    "bruno"
+    "bruno",
+    "maire"
    ]
   },
   {
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.268,
+   "divergence": 0.269,
    "category": "politique",
    "terms_left": [
     "primaire",
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.35,
+   "divergence": 0.349,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -180,8 +180,8 @@
    ],
    "terms_right": [
     "frappe",
-    "frappe russe",
-    "ukraine morts"
+    "ukraine morts",
+    "frappe russe"
    ]
   },
   {
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.288,
+   "divergence": 0.293,
    "category": "politique",
    "terms_left": [
     "droite",
@@ -210,8 +210,8 @@
    ],
    "terms_right": [
     "sanctionner",
-    "sanctionner port",
-    "amende"
+    "amende",
+    "sanctionner port"
    ]
   },
   {
@@ -231,17 +231,17 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.37,
+   "divergence": 0.375,
    "category": "international",
    "terms_left": [
-    "adhésion ue",
     "disent",
-    "adhésion union"
+    "adhésion union",
+    "islandais disent"
    ],
    "terms_right": [
     "pays",
-    "bruxelles",
-    "guerre"
+    "référendum ue",
+    "bruxelles"
    ]
   },
   {
@@ -266,7 +266,7 @@
    "terms_left": [
     "etats-unis",
     "etats-unis venezuela",
-    "nationale"
+    "pétrole"
    ],
    "terms_right": [
     "chevron",
@@ -367,7 +367,7 @@
   {
    "title": "Drones retrouvés à l'aéroport de Leipzig : l'Allemagne accuse formellement la Russie",
    "url": "https://www.rfi.fr/fr/europe/20260824-allemagne-le-parti-d-extr%C3%AAme-droite-afd-aux-portes-du-pouvoir-en-saxe-anhaltau",
-   "n_members": 92,
+   "n_members": 95,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -381,23 +381,23 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.286,
+   "divergence": 0.285,
    "category": "international",
    "terms_left": [
     "europe",
-    "attaque drone",
-    "allemagne accuse"
+    "ukraine",
+    "guerre"
    ],
    "terms_right": [
     "russe",
-    "face",
-    "explosifs aéroport"
+    "allemande",
+    "européenne"
    ]
   },
   {
    "title": "EN DIRECT : Guerre au Moyen-Orient : l'Iran attaque des bases des États-Unis après de nouvelles frappes américaines",
    "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
-   "n_members": 115,
+   "n_members": 122,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -411,17 +411,47 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.366,
+   "divergence": 0.361,
    "category": "international",
    "terms_left": [
     "etats-unis",
-    "etats-unis iran",
-    "reprise"
+    "iraniens",
+    "etats-unis iran"
    ],
    "terms_right": [
     "moyen-orient",
     "guerre moyen-orient",
-    "washington"
+    "frappes américaines"
+   ]
+  },
+  {
+   "title": "Migrants à Ceuta : un rapport policier sème le doute sur le rôle du Maroc, Madrid réfute toute implication de Rabat",
+   "url": "https://www.rfi.fr/fr/afrique/20260817-ceuta-un-camerounais-arriv%C3%A9-dans-l-enclave-espagnole-t%C3%A9moigne-sur-ses-conditions-de-vie",
+   "n_members": 121,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 5
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.572,
+   "category": "international",
+   "terms_left": [
+    "maroc crise",
+    "espagnol sème",
+    "immigration"
+   ],
+   "terms_right": [
+    "migratoire",
+    "crise migratoire",
+    "migrants"
    ]
   },
   {
@@ -471,7 +501,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.788,
+   "divergence": 0.784,
    "category": "société",
    "terms_left": [
     "sexuelles",
@@ -482,6 +512,66 @@
     "prison",
     "condamné",
     "homme"
+   ]
+  },
+  {
+   "title": "Plan pour l'agriculture : les annonces «décalées de quelques jours», indique le ministère",
+   "url": "https://www.bfmtv.com/economie/entreprises/les-exigences-en-cybersecurite-sont-les-plus-elevees-en-europe-quelques-jours-apres-le-piratage-du-fisc-bercy-rassure-sur-les-risques-de-fuites-de-donnees-liees-a-la-mise-en-place-de-la-facturation-electronique_AV-202608260490.html",
+   "n_members": 59,
+   "n_sources": 26,
+   "counts": {
+    "left": 7,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.674,
+   "category": "économie",
+   "terms_left": [
+    "données",
+    "attaque",
+    "ministre"
+   ],
+   "terms_right": [
+    "piratage",
+    "gouvernement",
+    "inaccessibles"
+   ]
+  },
+  {
+   "title": "Après Google, Apple cède à Donald Trump et renomme le lac Ontario sur Plans: MapQuest, une petite application rivale, s’y refuse et voit sa popularité exploser",
+   "url": "https://www.lefigaro.fr/flash-actu/la-cour-supreme-autorise-provisoirement-le-decret-de-donald-trump-encadrant-le-vote-par-correspondance-20260824",
+   "n_members": 79,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.264,
+   "category": "international",
+   "terms_left": [
+    "vote correspondance",
+    "correspondance",
+    "vote"
+   ],
+   "terms_right": [
+    "américain",
+    "ontario",
+    "rebaptiser"
    ]
   },
   {
@@ -501,17 +591,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.743,
+   "divergence": 0.738,
    "category": "économie",
    "terms_left": [
     "chômage",
     "gaz",
-    "rentrée"
+    "prix"
    ],
    "terms_right": [
     "maladie",
     "santé",
-    "er"
+    "transparence salariale"
    ]
   },
   {
@@ -531,7 +621,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.279,
+   "divergence": 0.28,
    "category": "culture",
    "terms_left": [
     "affaires",
@@ -545,88 +635,28 @@
    ]
   },
   {
-   "title": "Plan pour l'agriculture : les annonces «décalées de quelques jours», indique le ministère",
-   "url": "https://www.bfmtv.com/economie/entreprises/les-exigences-en-cybersecurite-sont-les-plus-elevees-en-europe-quelques-jours-apres-le-piratage-du-fisc-bercy-rassure-sur-les-risques-de-fuites-de-donnees-liees-a-la-mise-en-place-de-la-facturation-electronique_AV-202608260490.html",
-   "n_members": 56,
+   "title": "Présidentielle 2027 : De combien les différents candidats veulent-ils augmenter les enseignants ?",
+   "url": "https://www.liberation.fr/idees-et-debats/faut-il-vraiment-legiferer-lamitie-20260825_BXPP3SWD5JAEXAYX7K6YAASDBY/",
+   "n_members": 67,
    "n_sources": 25,
    "counts": {
     "left": 6,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.684,
-   "category": "économie",
-   "terms_left": [
-    "données",
-    "ministre",
-    "attaque"
-   ],
-   "terms_right": [
-    "urgence",
-    "piratage",
-    "jours"
-   ]
-  },
-  {
-   "title": "Etats-Unis : le lac Ontario devient le lac d'Amérique sur le Google Maps américain",
-   "url": "https://www.lefigaro.fr/flash-actu/la-cour-supreme-autorise-provisoirement-le-decret-de-donald-trump-encadrant-le-vote-par-correspondance-20260824",
-   "n_members": 78,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.263,
-   "category": "international",
-   "terms_left": [
-    "vote correspondance",
-    "correspondance",
-    "vote"
-   ],
-   "terms_right": [
-    "américain",
-    "ontario",
-    "rebaptiser"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027. « Jusqu'à 25% » : Raphaël Glucksmann veut augmenter les salaires des enseignants",
-   "url": "https://www.liberation.fr/idees-et-debats/faut-il-vraiment-legiferer-lamitie-20260825_BXPP3SWD5JAEXAYX7K6YAASDBY/",
-   "n_members": 66,
-   "n_sources": 24,
-   "counts": {
-    "left": 6,
     "centre": 9,
-    "right": 9
+    "right": 10
    },
    "style_counts": {
     "factuel": 11,
-    "mixte": 7,
+    "mixte": 8,
     "opinion": 6
    },
-   "blindspot_score": 0.2,
+   "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.713,
+   "divergence": 0.704,
    "category": "politique",
    "terms_left": [
     "amitié",
     "rentrée",
-    "candidats"
+    "candidat"
    ],
    "terms_right": [
     "retailleau",
@@ -651,17 +681,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.608,
+   "divergence": 0.628,
    "category": "politique",
    "terms_left": [
+    "sécheresse",
     "campagne",
-    "droite",
-    "sécheresse"
+    "économie"
    ],
    "terms_right": [
     "présidentielle",
-    "mois",
-    "gauche"
+    "gauche",
+    "mois"
    ]
   },
   {
@@ -681,12 +711,12 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.7,
+   "divergence": 0.699,
    "category": "économie",
    "terms_left": [
-    "pénalités",
     "fast-fashion",
-    "shein temu"
+    "temu aliexpress",
+    "aliexpress"
    ],
    "terms_right": [
     "taxe",
@@ -711,12 +741,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.652,
+   "divergence": 0.653,
    "category": "politique",
    "terms_left": [
     "jean-marc",
-    "jancovici",
-    "jean-marc jancovici"
+    "jean-marc jancovici",
+    "jancovici"
    ],
    "terms_right": [
     "medef",
@@ -725,9 +755,9 @@
    ]
   },
   {
-   "title": "Interdiction du portable au lycée, éducation financière, questionnaire sur les violences sexuelles... Quelles sont les nouveautés de la rentrée 2026 ?",
+   "title": "Avec un bond de 25 % depuis 2020, le coût de la rentrée universitaire dépasse les 3 200 euros, selon la Fage",
    "url": "https://www.liberation.fr/societe/education/salaire-moyen-dun-enseignant-a-3-090-euros-que-se-cache-t-il-derriere-ce-chiffre-largement-mediatise-20260828_XS2SVDBQBND4FJT4B3XUHPVOMI/",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 24,
    "counts": {
     "left": 3,
@@ -741,7 +771,7 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.776,
+   "divergence": 0.764,
    "category": "société",
    "terms_left": [
     "coût rentrée",
@@ -771,7 +801,7 @@
    },
    "blindspot_score": -0.143,
    "blindspot_for": null,
-   "divergence": 0.209,
+   "divergence": 0.208,
    "category": "culture",
    "terms_left": [
     "mort",
@@ -779,39 +809,9 @@
     "er"
    ],
    "terms_right": [
-    "hussard toit",
     "hussard",
+    "hussard toit",
     "toit"
-   ]
-  },
-  {
-   "title": "Crise migratoire à Ceuta : un rapport des autorités espagnoles pointe la «permissivité» des policiers marocains",
-   "url": "https://www.rfi.fr/fr/afrique/20260817-ceuta-un-camerounais-arriv%C3%A9-dans-l-enclave-espagnole-t%C3%A9moigne-sur-ses-conditions-de-vie",
-   "n_members": 109,
-   "n_sources": 23,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 5,
-    "opinion": 5
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.694,
-   "category": "international",
-   "terms_left": [
-    "ceuta rapport",
-    "immigration",
-    "rôle maroc"
-   ],
-   "terms_right": [
-    "ceuta",
-    "crise",
-    "espagne"
    ]
   },
   {
@@ -861,7 +861,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.462,
+   "divergence": 0.461,
    "category": "sport",
    "terms_left": [
     "face",
@@ -871,7 +871,7 @@
    "terms_right": [
     "utmb",
     "blandine hirondel",
-    "hirondel"
+    "blandine"
    ]
   },
   {
@@ -929,9 +929,9 @@
     "plaintes"
    ],
    "terms_right": [
-    "arrondissement",
     "incendie",
-    "ans"
+    "ans",
+    "personnes"
    ]
   },
   {
@@ -981,7 +981,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.495,
+   "divergence": 0.485,
    "category": "culture",
    "terms_left": [
     "the",
@@ -992,6 +992,36 @@
     "festival",
     "festival rock",
     "incendie"
+   ]
+  },
+  {
+   "title": "Le secrétaire américain à l'Armée de terre Dan Driscoll démissionne sur fond de tensions avec le ministre de la Défense",
+   "url": "https://www.ouest-france.fr/monde/coree-du-nord/coree-du-nord-le-ministre-de-la-defense-a-ete-limoge-4b854a50-a402-11f1-8465-547a0964275c",
+   "n_members": 58,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.804,
+   "category": "international",
+   "terms_left": [
+    "terre",
+    "présence",
+    "armée terre"
+   ],
+   "terms_right": [
+    "trump",
+    "donald",
+    "donald trump"
    ]
   },
   {
@@ -1027,7 +1057,7 @@
   {
    "title": "Naufrage d'un ferry à Chypre du Nord: les autorités pensent que les 20 disparus sont prisonniers de l'épave",
    "url": "https://www.sudouest.fr/faits-divers/un-chalutier-de-saint-brieuc-coule-au-large-de-la-cote-anglaise-deux-marins-francais-portes-disparus-30419148.php",
-   "n_members": 79,
+   "n_members": 81,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -1041,7 +1071,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.317,
+   "divergence": 0.325,
    "category": "international",
    "terms_left": [
     "morts disparus",
@@ -1050,8 +1080,8 @@
    ],
    "terms_right": [
     "chalutier",
-    "naufrage chalutier",
-    "france"
+    "marine",
+    "naufrage"
    ]
   },
   {
@@ -1093,12 +1123,12 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.566,
+   "divergence": 0.567,
    "category": "économie",
    "terms_left": [
     "maintiendra",
-    "totalenergies maintiendra",
-    "maintiendra plafonnement"
+    "maintiendra plafonnement",
+    "totalenergies maintiendra"
    ],
    "terms_right": [
     "prix",
@@ -1145,7 +1175,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.704,
+   "divergence": 0.705,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -1155,37 +1185,7 @@
    "terms_right": [
     "guerre",
     "iran",
-    "américain"
-   ]
-  },
-  {
-   "title": "\"Dans la lignée de cet été interminable\" : la chaleur va faire son retour cette semaine en France, jusqu'à 38°C attendus dans le Sud-Ouest",
-   "url": "http://fr.euronews.com/my-europe/2026/08/27/litalie-fait-face-a-la-vague-de-chaleur-la-plus-intense-de-lete-avec-des-maximales-atteign",
-   "n_members": 56,
-   "n_sources": 22,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.692,
-   "category": "environnement",
-   "terms_left": [
-    "épisode",
-    "canicules",
-    "vagues"
-   ],
-   "terms_right": [
-    "semaine",
-    "fin",
-    "jours"
+    "paris"
    ]
   }
  ]
