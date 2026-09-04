@@ -1,13 +1,13 @@
 {
  "week": "2026-W36",
- "generated_at": "2026-09-04T00:33:14+00:00",
+ "generated_at": "2026-09-04T05:15:02+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Crue dans l'Himalaya : 987 morts au Népal, le bilan total dépasse 1.000 morts avec la Chine",
    "url": "https://www.sudouest.fr/international/chine/chine-une-coulee-de-boue-cote-nepalais-a-fait-de-nombreuses-victimes-au-tibet-30371272.php",
-   "n_members": 371,
+   "n_members": 373,
    "n_sources": 34,
    "counts": {
     "left": 8,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.191,
+   "divergence": 0.194,
    "category": "international",
    "terms_left": [
     "inondations népal",
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.573,
+   "divergence": 0.565,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -59,9 +59,9 @@
     "roussel"
    ],
    "terms_right": [
+    "gouvernement",
     "bruno maire",
-    "bruno",
-    "maire"
+    "bruno"
    ]
   },
   {
@@ -97,7 +97,7 @@
   {
    "title": "Interdiction du portable au lycée : pour la rentrée, une nouvelle règle mais plusieurs façons de l'appliquer",
    "url": "https://www.franceinfo.fr/societe/education/les-personnels-de-l-education-nationale-regrettent-d-avoir-ete-avertis-beaucoup-trop-tard-pour-bannir-les-telephones-portables-des-lycees-des-la-rentree_8157302.html",
-   "n_members": 109,
+   "n_members": 111,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -111,17 +111,17 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.266,
+   "divergence": 0.264,
    "category": "société",
    "terms_left": [
-    "portables interdits",
     "rentrée scolaire",
+    "portables interdits",
     "scolaire"
    ],
    "terms_right": [
-    "élèves",
     "portables lycées",
-    "interdiction"
+    "portable",
+    "élèves"
    ]
   },
   {
@@ -182,6 +182,36 @@
     "frappe",
     "ukraine morts",
     "frappe russe"
+   ]
+  },
+  {
+   "title": "Drones retrouvés à l'aéroport de Leipzig : l'Allemagne accuse formellement la Russie",
+   "url": "https://www.rfi.fr/fr/europe/20260824-allemagne-le-parti-d-extr%C3%AAme-droite-afd-aux-portes-du-pouvoir-en-saxe-anhaltau",
+   "n_members": 99,
+   "n_sources": 29,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.125,
+   "blindspot_for": null,
+   "divergence": 0.289,
+   "category": "international",
+   "terms_left": [
+    "europe",
+    "ukraine",
+    "guerre"
+   ],
+   "terms_right": [
+    "russe",
+    "allemande",
+    "chargé explosifs"
    ]
   },
   {
@@ -291,17 +321,17 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.296,
+   "divergence": 0.306,
    "category": "politique",
    "terms_left": [
-    "raphaël",
-    "raphaël glucksmann",
-    "boris"
+    "boris",
+    "vallaud",
+    "boris vallaud"
    ],
    "terms_right": [
     "droite",
-    "faure candidat",
-    "candidat"
+    "candidat",
+    "faure candidat"
    ]
   },
   {
@@ -321,17 +351,17 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.714,
+   "divergence": 0.721,
    "category": "société",
    "terms_left": [
     "académies",
     "élèves",
-    "nantes"
+    "journée"
    ],
    "terms_right": [
     "rentrée",
-    "vacances",
-    "fournitures"
+    "éducation nationale",
+    "cyberattaque"
    ]
   },
   {
@@ -395,36 +425,6 @@
    ]
   },
   {
-   "title": "Drones retrouvés à l'aéroport de Leipzig : l'Allemagne accuse formellement la Russie",
-   "url": "https://www.rfi.fr/fr/europe/20260824-allemagne-le-parti-d-extr%C3%AAme-droite-afd-aux-portes-du-pouvoir-en-saxe-anhaltau",
-   "n_members": 96,
-   "n_sources": 27,
-   "counts": {
-    "left": 7,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.125,
-   "blindspot_for": null,
-   "divergence": 0.285,
-   "category": "international",
-   "terms_left": [
-    "europe",
-    "ukraine",
-    "guerre"
-   ],
-   "terms_right": [
-    "russe",
-    "allemande",
-    "européenne"
-   ]
-  },
-  {
    "title": "Plan pour l'agriculture : les annonces «décalées de quelques jours», indique le ministère",
    "url": "https://www.bfmtv.com/economie/entreprises/les-exigences-en-cybersecurite-sont-les-plus-elevees-en-europe-quelques-jours-apres-le-piratage-du-fisc-bercy-rassure-sur-les-risques-de-fuites-de-donnees-liees-a-la-mise-en-place-de-la-facturation-electronique_AV-202608260490.html",
    "n_members": 60,
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.676,
+   "divergence": 0.677,
    "category": "économie",
    "terms_left": [
     "france",
@@ -457,7 +457,7 @@
   {
    "title": "EN DIRECT : Guerre au Moyen-Orient : l'Iran attaque des bases des États-Unis après de nouvelles frappes américaines",
    "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
-   "n_members": 122,
+   "n_members": 123,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -501,12 +501,12 @@
    },
    "blindspot_score": 0.733,
    "blindspot_for": "gauche",
-   "divergence": 0.757,
+   "divergence": 0.756,
    "category": "économie",
    "terms_left": [
-    "rentrée",
     "droits",
-    "familiaux"
+    "familiaux",
+    "droits familiaux"
    ],
    "terms_right": [
     "retailleau",
@@ -542,6 +542,36 @@
     "prison",
     "condamné",
     "assassinat"
+   ]
+  },
+  {
+   "title": "Une intensité « très forte » jusqu'en 2027 : El Niño est plus puissant que jamais, alerte l'ONU",
+   "url": "https://www.lemonde.fr/economie/article/2026/09/01/dans-le-canal-de-panama-el-nino-impose-une-baisse-du-trafic-maritime-et-l-envolee-des-prix-de-passage_6763087_3234.html",
+   "n_members": 40,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.437,
+   "category": "environnement",
+   "terms_left": [
+    "intensité forte",
+    "jusqu",
+    "onu"
+   ],
+   "terms_right": [
+    "panama",
+    "canal",
+    "canal panama"
    ]
   },
   {
@@ -591,7 +621,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.276,
+   "divergence": 0.277,
    "category": "culture",
    "terms_left": [
     "affaires violences",
@@ -621,7 +651,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.736,
+   "divergence": 0.737,
    "category": "économie",
    "terms_left": [
     "chômage",
@@ -667,7 +697,7 @@
   {
    "title": "Présidentielle 2027 : à défaut de ralliements politiques, Gabriel Attal s’entoure de «nouveaux visages»",
    "url": "https://www.europe1.fr/societe/les-hommes-politiques-ne-sont-pas-trop-payes-pascal-praud-debat-avec-un-auditeur-sur-la-remuneration-des-elus-1040768",
-   "n_members": 50,
+   "n_members": 52,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -681,17 +711,17 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.726,
+   "divergence": 0.733,
    "category": "politique",
    "terms_left": [
     "céline",
-    "géraud",
-    "céline géraud"
+    "céline géraud",
+    "géraud"
    ],
    "terms_right": [
-    "gauche",
     "hollande",
-    "qu"
+    "candidature",
+    "gauche"
    ]
   },
   {
@@ -711,7 +741,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.626,
+   "divergence": 0.627,
    "category": "politique",
    "terms_left": [
     "sécheresse",
@@ -741,7 +771,7 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.716,
+   "divergence": 0.71,
    "category": "économie",
    "terms_left": [
     "fast-fashion",
@@ -801,7 +831,7 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.764,
+   "divergence": 0.77,
    "category": "société",
    "terms_left": [
     "coût rentrée",
@@ -809,9 +839,9 @@
     "universitaire"
    ],
    "terms_right": [
-    "millions",
-    "mois",
-    "enseignants"
+    "scolaire",
+    "rentrée scolaire",
+    "millions"
    ]
   },
   {
@@ -845,36 +875,6 @@
    ]
   },
   {
-   "title": "Une intensité « très forte » jusqu'en 2027 : El Niño est plus puissant que jamais, alerte l'ONU",
-   "url": "https://www.lemonde.fr/economie/article/2026/09/01/dans-le-canal-de-panama-el-nino-impose-une-baisse-du-trafic-maritime-et-l-envolee-des-prix-de-passage_6763087_3234.html",
-   "n_members": 36,
-   "n_sources": 24,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": -0.091,
-   "blindspot_for": null,
-   "divergence": 0.448,
-   "category": "environnement",
-   "terms_left": [
-    "intensité forte",
-    "jusqu",
-    "météorologique"
-   ],
-   "terms_right": [
-    "panama",
-    "canal",
-    "épisode"
-   ]
-  },
-  {
    "title": "Norvège: le roi Haakon VIII a prêté serment sans son épouse, convalescente",
    "url": "https://www.bfmtv.com/people/tetes-couronnees/toujours-hospitalise-le-roi-harald-de-norvege-89-ans-annule-un-deplacement-prevu-debut-septembre_AD-202608210393.html",
    "n_members": 84,
@@ -891,7 +891,7 @@
    },
    "blindspot_score": 0.6,
    "blindspot_for": "gauche",
-   "divergence": 0.395,
+   "divergence": 0.399,
    "category": "international",
    "terms_left": [
     "roi norvège",
@@ -907,7 +907,7 @@
   {
    "title": "Météo : la chaleur revient en fin de semaine avec des températures potentiellement « inédites »",
    "url": "http://fr.euronews.com/my-europe/2026/08/27/litalie-fait-face-a-la-vague-de-chaleur-la-plus-intense-de-lete-avec-des-maximales-atteign",
-   "n_members": 67,
+   "n_members": 69,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -921,17 +921,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.693,
+   "divergence": 0.677,
    "category": "environnement",
    "terms_left": [
-    "canicules",
     "partir",
-    "canicule"
+    "vagues",
+    "épisode chaleur"
    ],
    "terms_right": [
     "semaine",
-    "jours",
-    "météo-france"
+    "températures",
+    "jours"
    ]
   },
   {
@@ -1011,7 +1011,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.481,
+   "divergence": 0.483,
    "category": "société",
    "terms_left": [
     "violences périscolaire",
