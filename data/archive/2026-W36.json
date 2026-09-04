@@ -1,6 +1,6 @@
 {
  "week": "2026-W36",
- "generated_at": "2026-09-04T17:17:49+00:00",
+ "generated_at": "2026-09-04T19:45:54+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.278,
+   "divergence": 0.28,
    "category": "société",
    "terms_left": [
     "rentrée scolaire",
@@ -171,17 +171,17 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.3,
+   "divergence": 0.323,
    "category": "international",
    "terms_left": [
     "attaque drone",
     "allemagne accuse",
-    "hybrides"
+    "russie"
    ],
    "terms_right": [
-    "russe",
-    "leipzig allemagne",
-    "allemande"
+    "chargé explosifs",
+    "chargé",
+    "explosifs"
    ]
   },
   {
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.292,
+   "divergence": 0.288,
    "category": "politique",
    "terms_left": [
     "victoire",
@@ -209,15 +209,15 @@
     "laïcité"
    ],
    "terms_right": [
+    "qu",
     "français",
-    "port voile",
-    "port"
+    "veut"
    ]
   },
   {
-   "title": "Pourquoi l'Islande a-t-elle dit non à l'Europe ?",
+   "title": "Après le \"non\" islandais, l'UE veut relancer la dynamique de l'élargissement",
    "url": "http://fr.euronews.com/my-europe/2026/08/24/lheure-de-verite-pour-lislande-ce-que-le-referendum-dadhesion-signifie-pour-lue",
-   "n_members": 95,
+   "n_members": 96,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.439,
+   "divergence": 0.436,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -305,9 +305,9 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine : au moins 12 morts dans une attaque russe massive sur Kiev et dans sa région",
+   "title": "DIRECT - Guerre en Ukraine: Kiev et Odessa visées par une attaque de drones",
    "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/08/20/nuit-meurtriere-a-kiev-16-morts-et-une-cinquantaine-de-blesses-apres-des-frappes-russes",
-   "n_members": 506,
+   "n_members": 463,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.301,
+   "divergence": 0.304,
    "category": "international",
    "terms_left": [
     "direct",
@@ -381,12 +381,12 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.72,
+   "divergence": 0.703,
    "category": "société",
    "terms_left": [
-    "académies",
-    "élèves",
-    "journée"
+    "mer",
+    "journée",
+    "élèves"
    ],
    "terms_right": [
     "rentrée",
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.6,
+   "divergence": 0.601,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.37,
+   "divergence": 0.366,
    "category": "international",
    "terms_left": [
     "iraniens",
@@ -531,7 +531,7 @@
    },
    "blindspot_score": 0.733,
    "blindspot_for": "gauche",
-   "divergence": 0.747,
+   "divergence": 0.744,
    "category": "économie",
    "terms_left": [
     "rentrée",
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.77,
+   "divergence": 0.751,
    "category": "société",
    "terms_left": [
     "procureure auch",
@@ -621,7 +621,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.22,
+   "divergence": 0.213,
    "category": "culture",
    "terms_left": [
     "affaires violences",
@@ -711,17 +711,77 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.711,
+   "divergence": 0.71,
    "category": "politique",
    "terms_left": [
     "amitié",
-    "enseignants",
-    "glucksmann"
+    "glucksmann",
+    "raphaël"
    ],
    "terms_right": [
     "retailleau",
     "bruno retailleau",
     "bruno"
+   ]
+  },
+  {
+   "title": "Sécheresse : un plan d’aide à plus d’un milliard d’euros pour soutenir les agriculteurs",
+   "url": "https://france3-regions.franceinfo.fr/ca-me-tord-le-ventre-entre-passion-et-eco-anxiete-le-quotidien-bouleverse-de-deux-jeunes-agriculteurs-face-au-changement-climatique-3409532.html",
+   "n_members": 49,
+   "n_sources": 25,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.521,
+   "category": "environnement",
+   "terms_left": [
+    "cours eau",
+    "cours",
+    "eau"
+   ],
+   "terms_right": [
+    "euros",
+    "milliard",
+    "milliard euros"
+   ]
+  },
+  {
+   "title": "Visite du pape Léon XIV : « 15.000 membres des forces de l’ordre » mobilisés pour « un dispositif exceptionnel »",
+   "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-du-pape-a-metz-les-tarifs-des-chambres-grimpent-en-fleche-pour-la-venue-du-souverain-pontife-fin-septembre_8152271.html",
+   "n_members": 66,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.585,
+   "category": "société",
+   "terms_left": [
+    "eglise",
+    "victimes",
+    "sexuelles eglise"
+   ],
+   "terms_right": [
+    "pape",
+    "visite",
+    "france"
    ]
   },
   {
@@ -755,36 +815,6 @@
    ]
   },
   {
-   "title": "Visite du pape Léon XIV : « 15.000 membres des forces de l’ordre » mobilisés pour « un dispositif exceptionnel »",
-   "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-du-pape-a-metz-les-tarifs-des-chambres-grimpent-en-fleche-pour-la-venue-du-souverain-pontife-fin-septembre_8152271.html",
-   "n_members": 64,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.601,
-   "category": "société",
-   "terms_left": [
-    "victimes",
-    "victimes violences",
-    "violences"
-   ],
-   "terms_right": [
-    "pape",
-    "visite",
-    "france"
-   ]
-  },
-  {
    "title": "C’est quoi ce malus sur les vêtements de mode éphémère qui entre en vigueur ce mardi ?",
    "url": "https://www.nicematin.com/conso/la-taxe-fonciere-arrive-cette-semaine-dans-les-boites-aux-lettres-et-vous-pouvez-pretendre-a-une-reduction-voire-une-exoneration-voici-ce-qu-il-faut-savoir-10711143",
    "n_members": 62,
@@ -801,11 +831,11 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.727,
+   "divergence": 0.738,
    "category": "économie",
    "terms_left": [
     "fast-fashion",
-    "pénalités",
+    "shein temu",
     "temu aliexpress"
    ],
    "terms_right": [
@@ -907,7 +937,7 @@
   {
    "title": "Présidentielle 2027 : « Bruno Retailleau propose une révolution copernicienne » dans laquelle « la Constitution ne serait plus le bouclier » qui protège les institutions, relèvent les juristes",
    "url": "https://www.lemonde.fr/societe/article/2026/08/31/vincent-bollore-depose-plainte-pour-association-de-malfaiteurs-contre-des-magistrats-apres-son-renvoi-devant-le-tribunal-pour-corruption_6762587_3224.html",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 24,
    "counts": {
     "left": 7,
@@ -921,7 +951,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.765,
+   "divergence": 0.766,
    "category": "politique",
    "terms_left": [
     "bolloré",
@@ -937,7 +967,7 @@
   {
    "title": "Violences dans le périscolaire à Paris : le maire Emmanuel Grégoire et Anne Hidalgo visés par une plainte de familles",
    "url": "https://www.sudradio.fr/societe/la-police-chauffee-a-blanc-par-darmanin-pour-la-rentree",
-   "n_members": 52,
+   "n_members": 58,
    "n_sources": 24,
    "counts": {
     "left": 8,
@@ -951,7 +981,7 @@
    },
    "blindspot_score": -0.143,
    "blindspot_for": null,
-   "divergence": 0.417,
+   "divergence": 0.432,
    "category": "société",
    "terms_left": [
     "violences périscolaire",
@@ -959,9 +989,9 @@
     "ans"
    ],
    "terms_right": [
+    "police",
     "affaire",
-    "gérald darmanin",
-    "gérald"
+    "gérald darmanin"
    ]
   },
   {
@@ -1025,39 +1055,9 @@
    ]
   },
   {
-   "title": "Aides aux agriculteurs après la sécheresse : indemnités, carburant, engrais... le gouvernement dévoile un plan de plus d’un milliard d’euros",
-   "url": "https://www.tf1info.fr/economie/videos/video-agriculteurs-ils-demandent-de-l-aide-97053-2462221.html",
-   "n_members": 35,
-   "n_sources": 24,
-   "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.445,
-   "category": "environnement",
-   "terms_left": [
-    "agricole",
-    "aides",
-    "plan urgence"
-   ],
-   "terms_right": [
-    "euros",
-    "millions",
-    "milliard"
-   ]
-  },
-  {
    "title": "Crue au Népal : prisonniers dans un tunnel depuis dix jours, deux ouvriers miraculeusement sauvés",
    "url": "https://www.leparisien.fr/environnement/crue-devastatrice-au-nepal-comment-les-experts-francais-tentent-de-comprendre-la-catastrophe-a-plusieurs-milliers-de-kilometres-27-08-2026-ZM4CDO4YK5DAFLRBNN6NBJGZOU.php",
-   "n_members": 101,
+   "n_members": 102,
    "n_sources": 23,
    "counts": {
     "left": 3,
@@ -1071,7 +1071,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.54,
+   "divergence": 0.536,
    "category": "international",
    "terms_left": [
     "crue népal",
@@ -1081,7 +1081,7 @@
    "terms_right": [
     "qu",
     "français",
-    "annoncé"
+    "jours"
    ]
   },
   {
@@ -1117,7 +1117,7 @@
   {
    "title": "Pic de chaleur ce week-end: jusqu'à 40°C dans la moitié sud du pays",
    "url": "http://fr.euronews.com/my-europe/2026/08/27/litalie-fait-face-a-la-vague-de-chaleur-la-plus-intense-de-lete-avec-des-maximales-atteign",
-   "n_members": 77,
+   "n_members": 79,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1131,7 +1131,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.667,
+   "divergence": 0.669,
    "category": "environnement",
    "terms_left": [
     "partir",
