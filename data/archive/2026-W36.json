@@ -1,6 +1,6 @@
 {
  "week": "2026-W36",
- "generated_at": "2026-09-04T21:57:37+00:00",
+ "generated_at": "2026-09-04T23:36:45+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -565,8 +565,8 @@
    "category": "politique",
    "terms_left": [
     "céline",
-    "céline géraud",
-    "géraud"
+    "géraud",
+    "céline géraud"
    ],
    "terms_right": [
     "hollande",
@@ -757,7 +757,7 @@
   {
    "title": "Sécheresse : un plan d’aide à plus d’un milliard d’euros pour soutenir les agriculteurs",
    "url": "https://france3-regions.franceinfo.fr/ca-me-tord-le-ventre-entre-passion-et-eco-anxiete-le-quotidien-bouleverse-de-deux-jeunes-agriculteurs-face-au-changement-climatique-3409532.html",
-   "n_members": 50,
+   "n_members": 55,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -771,23 +771,53 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.52,
+   "divergence": 0.538,
    "category": "environnement",
    "terms_left": [
-    "eau",
+    "cours eau",
     "cours",
-    "cours eau"
+    "agricole"
    ],
    "terms_right": [
     "euros",
-    "aide",
+    "agriculteurs",
     "milliard"
+   ]
+  },
+  {
+   "title": "Handicap : Emmanuel Macron promet une société \"pleinement accessible\"",
+   "url": "https://www.humanite.fr/social-et-economie/financement-securite-sociale/quest-ce-que-la-tva-sociale-larnaque-patronale-que-veut-imposer-le-medef",
+   "n_members": 39,
+   "n_sources": 25,
+   "counts": {
+    "left": 8,
+    "centre": 11,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 11,
+    "opinion": 3
+   },
+   "blindspot_score": -0.143,
+   "blindspot_for": null,
+   "divergence": 0.57,
+   "category": "société",
+   "terms_left": [
+    "handicap",
+    "nationale",
+    "conférence nationale"
+   ],
+   "terms_right": [
+    "bobigny",
+    "présidentielle",
+    "tva sociale"
    ]
   },
   {
    "title": "Visite du pape Léon XIV : « 15.000 membres des forces de l’ordre » mobilisés pour « un dispositif exceptionnel »",
    "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-du-pape-a-metz-les-tarifs-des-chambres-grimpent-en-fleche-pour-la-venue-du-souverain-pontife-fin-septembre_8152271.html",
-   "n_members": 66,
+   "n_members": 67,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -801,17 +831,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.585,
+   "divergence": 0.579,
    "category": "société",
    "terms_left": [
     "eglise",
     "victimes",
-    "sexuelles eglise"
+    "collectif"
    ],
    "terms_right": [
     "pape",
-    "visite",
-    "france"
+    "france",
+    "visite"
    ]
   },
   {
@@ -995,6 +1025,36 @@
    ]
   },
   {
+   "title": "Rentrée scolaire à New York : temps d’écran limité et intelligence artificielle interdite jusqu’au lycée",
+   "url": "https://www.sudouest.fr/politique/fin-de-l-experimentation-de-l-uniforme-scolaire-en-france-l-etat-nous-a-sollicites-pour-aucun-compte-rendu-regrette-le-maire-bearnais-d-une-commune-volontaire-30419556.php",
+   "n_members": 55,
+   "n_sources": 24,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": -0.2,
+   "blindspot_for": null,
+   "divergence": 0.864,
+   "category": "société",
+   "terms_left": [
+    "école",
+    "retour",
+    "millions"
+   ],
+   "terms_right": [
+    "lycée",
+    "ia",
+    "présidentielle"
+   ]
+  },
+  {
    "title": "L’été 2026 a « été le plus chaud jamais enregistré » en France, annonce la ministre de l’écologie",
    "url": "https://www.leparisien.fr/international/allemagne/canicules-en-allemagne-nouveau-record-de-deces-lies-a-la-chaleur-cet-ete-environ-15-800-morts-27-08-2026-5OM4FCDVAZBYFNI5CRJ3S3WIBE.php",
    "n_members": 40,
@@ -1142,66 +1202,6 @@
     "jusqu",
     "mois",
     "jours"
-   ]
-  },
-  {
-   "title": "Milei, dopé par Trump, durcit le ton sur la revendication argentine sur les Malouines",
-   "url": "https://www.tf1info.fr/international/video-une-decision-extremement-symbolique-trump-menace-de-lacher-le-royaume-uni-au-sujet-des-iles-malouines-2461230.html",
-   "n_members": 62,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 4
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.736,
-   "category": "international",
-   "terms_left": [
-    "veut",
-    "maison",
-    "blanche"
-   ],
-   "terms_right": [
-    "guerre",
-    "iran",
-    "états-unis"
-   ]
-  },
-  {
-   "title": "Blandine L'Hirondel remporte l'Ultra-Trail du Mont-Blanc",
-   "url": "https://www.ouest-france.fr/leditiondusoir/2026-08-19/rescape-du-bataclan-il-va-relever-un-sacre-challenge-participer-a-la-mythique-course-de-l-utmb-en-fauteuil-roulant-1423a906-1ed5-4e6b-a9a4-73f1cbdf4d13",
-   "n_members": 61,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 1
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.46,
-   "category": "sport",
-   "terms_left": [
-    "face",
-    "ultra-trail",
-    "ultra-trail mont-blanc"
-   ],
-   "terms_right": [
-    "utmb",
-    "blandine hirondel",
-    "hirondel"
    ]
   }
  ]
