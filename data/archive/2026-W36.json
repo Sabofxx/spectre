@@ -1,6 +1,6 @@
 {
  "week": "2026-W36",
- "generated_at": "2026-09-03T22:42:27+00:00",
+ "generated_at": "2026-09-04T00:33:14+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -531,7 +531,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.772,
+   "divergence": 0.767,
    "category": "société",
    "terms_left": [
     "procureure auch",
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.256,
+   "divergence": 0.255,
    "category": "international",
    "terms_left": [
     "vote correspondance",
@@ -662,6 +662,36 @@
     "retailleau",
     "bruno retailleau",
     "bruno"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : à défaut de ralliements politiques, Gabriel Attal s’entoure de «nouveaux visages»",
+   "url": "https://www.europe1.fr/societe/les-hommes-politiques-ne-sont-pas-trop-payes-pascal-praud-debat-avec-un-auditeur-sur-la-remuneration-des-elus-1040768",
+   "n_members": 50,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.726,
+   "category": "politique",
+   "terms_left": [
+    "céline",
+    "géraud",
+    "céline géraud"
+   ],
+   "terms_right": [
+    "gauche",
+    "hollande",
+    "qu"
    ]
   },
   {
@@ -809,15 +839,15 @@
     "er"
    ],
    "terms_right": [
-    "hussard",
     "hussard toit",
+    "hussard",
     "toit"
    ]
   },
   {
    "title": "Une intensité « très forte » jusqu'en 2027 : El Niño est plus puissant que jamais, alerte l'ONU",
    "url": "https://www.lemonde.fr/economie/article/2026/09/01/dans-le-canal-de-panama-el-nino-impose-une-baisse-du-trafic-maritime-et-l-envolee-des-prix-de-passage_6763087_3234.html",
-   "n_members": 35,
+   "n_members": 36,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -1011,7 +1041,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.797,
+   "divergence": 0.785,
    "category": "international",
    "terms_left": [
     "terre",
@@ -1157,28 +1187,6 @@
     "chalutier",
     "épave"
    ]
-  },
-  {
-   "title": "Fusillade lors d'une rave en Suisse : un suspect suisse arrêté, annonce la police",
-   "url": "https://www.bfmtv.com/international/europe/suisse/des-coups-de-feu-en-marge-d-une-rave-party-dans-nord-de-la-suisse-plusieurs-victimes-a-deplorer_AD-202608300066.html",
-   "n_members": 63,
-   "n_sources": 22,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.318,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
