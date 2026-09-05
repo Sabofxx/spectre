@@ -1,6 +1,6 @@
 {
  "week": "2026-W36",
- "generated_at": "2026-09-05T11:03:58+00:00",
+ "generated_at": "2026-09-05T13:57:14+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -121,7 +121,7 @@
    "terms_right": [
     "lycées",
     "portables lycées",
-    "ministre"
+    "interdiction"
    ]
   },
   {
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.383,
+   "divergence": 0.367,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.363,
+   "divergence": 0.371,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -204,14 +204,14 @@
    "divergence": 0.291,
    "category": "politique",
    "terms_left": [
-    "laïcité",
     "interdiction voile",
+    "laïcité",
     "référendum"
    ],
    "terms_right": [
     "port voile",
-    "français",
-    "port"
+    "port",
+    "veut"
    ]
   },
   {
@@ -261,12 +261,12 @@
    },
    "blindspot_score": -0.059,
    "blindspot_for": null,
-   "divergence": 0.633,
+   "divergence": 0.641,
    "category": "économie",
    "terms_left": [
     "données",
-    "canicule",
-    "milliers"
+    "ministère",
+    "canicule"
    ],
    "terms_right": [
     "agricole",
@@ -291,17 +291,17 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.443,
+   "divergence": 0.442,
    "category": "international",
    "terms_left": [
     "etats-unis",
-    "etats-unis venezuela",
-    "pétrole"
+    "pétrole",
+    "etats-unis venezuela"
    ],
    "terms_right": [
-    "chevron",
     "grand",
-    "jour"
+    "états-unis",
+    "histoire"
    ]
   },
   {
@@ -441,7 +441,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.404,
+   "divergence": 0.405,
    "category": "environnement",
    "terms_left": [
     "jusqu",
@@ -452,6 +452,36 @@
     "panama",
     "canal",
     "épisode"
+   ]
+  },
+  {
+   "title": "Handicap en France : Emmanuel Macron annonce une série de mesures",
+   "url": "https://information.tv5monde.com/international/rentree-politique-pour-andy-burnham-confronte-ses-premiers-tests-2835489",
+   "n_members": 45,
+   "n_sources": 28,
+   "counts": {
+    "left": 8,
+    "centre": 14,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 11,
+    "opinion": 3
+   },
+   "blindspot_score": -0.143,
+   "blindspot_for": null,
+   "divergence": 0.577,
+   "category": "société",
+   "terms_left": [
+    "nationale",
+    "handicap",
+    "conférence nationale"
+   ],
+   "terms_right": [
+    "bobigny",
+    "ans",
+    "présidentielle"
    ]
   },
   {
@@ -471,7 +501,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.537,
+   "divergence": 0.536,
    "category": "international",
    "terms_left": [
     "crise ceuta",
@@ -485,33 +515,33 @@
    ]
   },
   {
-   "title": "Handicap : « L’inclusivité doit être au cœur de cette campagne présidentielle », espère Emmanuel Macron",
-   "url": "https://information.tv5monde.com/international/rentree-politique-pour-andy-burnham-confronte-ses-premiers-tests-2835489",
-   "n_members": 44,
+   "title": "Congrès du parti d'extrême droite Reform UK : marché conclu entre Farage et Bardella",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/histoire-politique/histoires-politiques-du-jeudi-03-septembre-2026-5778203",
+   "n_members": 51,
    "n_sources": 27,
    "counts": {
-    "left": 8,
-    "centre": 13,
-    "right": 6
+    "left": 5,
+    "centre": 11,
+    "right": 11
    },
    "style_counts": {
     "factuel": 13,
-    "mixte": 11,
-    "opinion": 3
+    "mixte": 9,
+    "opinion": 5
    },
-   "blindspot_score": -0.143,
+   "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.577,
-   "category": "société",
+   "divergence": 0.472,
+   "category": "politique",
    "terms_left": [
-    "nationale",
-    "handicap",
-    "conférence nationale"
+    "parti",
+    "extrême",
+    "extrême droite"
    ],
    "terms_right": [
-    "bobigny",
-    "ans",
-    "présidentielle"
+    "accord",
+    "bardella",
+    "jordan"
    ]
   },
   {
@@ -591,12 +621,12 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.676,
+   "divergence": 0.677,
    "category": "politique",
    "terms_left": [
     "céline",
-    "géraud",
-    "céline géraud"
+    "céline géraud",
+    "géraud"
    ],
    "terms_right": [
     "hollande",
@@ -627,33 +657,33 @@
    "terms_right": []
   },
   {
-   "title": "Congrès du parti d'extrême droite Reform UK : marché conclu entre Farage et Bardella",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/histoire-politique/histoires-politiques-du-jeudi-03-septembre-2026-5778203",
-   "n_members": 49,
+   "title": "Sécheresse : un plan d’aide à plus d’un milliard d’euros pour soutenir les agriculteurs",
+   "url": "https://france3-regions.franceinfo.fr/ca-me-tord-le-ventre-entre-passion-et-eco-anxiete-le-quotidien-bouleverse-de-deux-jeunes-agriculteurs-face-au-changement-climatique-3409532.html",
+   "n_members": 59,
    "n_sources": 26,
    "counts": {
-    "left": 4,
+    "left": 7,
     "centre": 11,
-    "right": 11
+    "right": 8
    },
    "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 5
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 3
    },
-   "blindspot_score": 0.467,
+   "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.492,
-   "category": "politique",
+   "divergence": 0.504,
+   "category": "environnement",
    "terms_left": [
-    "invité",
-    "loi",
-    "extrême"
+    "agricole",
+    "secteur",
+    "cours eau"
    ],
    "terms_right": [
-    "accord",
-    "birmingham",
-    "bardella"
+    "euros",
+    "milliard",
+    "milliard euros"
    ]
   },
   {
@@ -673,7 +703,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.215,
+   "divergence": 0.216,
    "category": "culture",
    "terms_left": [
     "affaires violences",
@@ -837,36 +867,6 @@
    ]
   },
   {
-   "title": "Sécheresse : un plan d’aide à plus d’un milliard d’euros pour soutenir les agriculteurs",
-   "url": "https://france3-regions.franceinfo.fr/ca-me-tord-le-ventre-entre-passion-et-eco-anxiete-le-quotidien-bouleverse-de-deux-jeunes-agriculteurs-face-au-changement-climatique-3409532.html",
-   "n_members": 58,
-   "n_sources": 25,
-   "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.517,
-   "category": "environnement",
-   "terms_left": [
-    "cours eau",
-    "cours",
-    "secteur"
-   ],
-   "terms_right": [
-    "euros",
-    "milliard",
-    "milliard euros"
-   ]
-  },
-  {
    "title": "L’été 2026 a « été le plus chaud jamais enregistré » en France, annonce la ministre de l’écologie",
    "url": "https://www.leparisien.fr/international/allemagne/canicules-en-allemagne-nouveau-record-de-deces-lies-a-la-chaleur-cet-ete-environ-15-800-morts-27-08-2026-5OM4FCDVAZBYFNI5CRJ3S3WIBE.php",
    "n_members": 41,
@@ -897,9 +897,39 @@
    ]
   },
   {
+   "title": "Mort de Jean-Paul Rappeneau, le cinéaste qui filmait la vie à toute allure",
+   "url": "https://www.liberation.fr/culture/cinema/mort-de-jean-paul-rappeneau-un-cineaste-qui-a-de-lallure-20260902_RI6BISXMFZD7DB7DBRXL3TRMJU/",
+   "n_members": 37,
+   "n_sources": 25,
+   "counts": {
+    "left": 8,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": -0.067,
+   "blindspot_for": null,
+   "divergence": 0.175,
+   "category": "culture",
+   "terms_left": [
+    "mort jean-paul",
+    "mort",
+    "er"
+   ],
+   "terms_right": [
+    "mort âge",
+    "âge",
+    "âge ans"
+   ]
+  },
+  {
    "title": "Crue au Népal : prisonniers dans un tunnel depuis dix jours, deux ouvriers miraculeusement sauvés",
    "url": "https://www.leparisien.fr/environnement/crue-devastatrice-au-nepal-comment-les-experts-francais-tentent-de-comprendre-la-catastrophe-a-plusieurs-milliers-de-kilometres-27-08-2026-ZM4CDO4YK5DAFLRBNN6NBJGZOU.php",
-   "n_members": 114,
+   "n_members": 118,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -913,7 +943,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.483,
+   "divergence": 0.48,
    "category": "international",
    "terms_left": [
     "sortis",
@@ -922,14 +952,14 @@
    ],
    "terms_right": [
     "qu",
-    "crue dévastatrice",
-    "dévastatrice"
+    "jours crue",
+    "français"
    ]
   },
   {
    "title": "Guerre en Ukraine : Trump envoie ses émissaires à Moscou et à Kiev",
    "url": "https://www.tf1info.fr/international/video-c-est-un-double-message-des-russes-pourquoi-moscou-decide-de-frapper-le-siege-des-services-de-securite-ukrainiens-a-kiev-avant-la-venue-d-emissaires-americains-2462402.html",
-   "n_members": 68,
+   "n_members": 76,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -943,17 +973,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.473,
+   "divergence": 0.443,
    "category": "international",
    "terms_left": [
     "détroit",
-    "détroit ormuz",
-    "ormuz"
+    "ormuz",
+    "détroit ormuz"
    ],
    "terms_right": [
     "kiev",
-    "moscou kiev",
-    "émissaires"
+    "émissaires",
+    "moscou kiev"
    ]
   },
   {
@@ -973,17 +1003,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.634,
+   "divergence": 0.638,
    "category": "politique",
    "terms_left": [
     "sécheresse",
-    "campagne",
-    "économie"
+    "économie",
+    "campagne"
    ],
    "terms_right": [
-    "présidentielle",
-    "gauche",
-    "mois"
+    "jordan bardella",
+    "jordan",
+    "présidentielle"
    ]
   },
   {
@@ -1095,16 +1125,8 @@
    "blindspot_for": null,
    "divergence": 0.821,
    "category": "société",
-   "terms_left": [
-    "coût",
-    "coût rentrée",
-    "année"
-   ],
-   "terms_right": [
-    "scolaire",
-    "nouveau",
-    "ans"
-   ]
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Fast fashion : la Chine menace la France de contre-mesures si elle n'abroge pas \"immédiatement\" son malus",
@@ -1128,12 +1150,12 @@
    "terms_left": [
     "trump",
     "canicule",
-    "enquête"
+    "ia"
    ],
    "terms_right": [
     "primaire",
-    "candidat",
-    "euros"
+    "euros",
+    "candidat"
    ]
   },
   {
@@ -1153,7 +1175,7 @@
    },
    "blindspot_score": -0.2,
    "blindspot_for": null,
-   "divergence": 0.864,
+   "divergence": 0.865,
    "category": "société",
    "terms_left": [
     "retour",
@@ -1164,36 +1186,6 @@
     "présidentielle",
     "new york",
     "york"
-   ]
-  },
-  {
-   "title": "Face aux crues meurtrières, le Népal appelle à la justice climatique pour financer sa reconstruction",
-   "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/en-images-apres-les-crues-meurtrieres-au-nepal-un-paysage-apocalyptique-et-des-degats-considerables_8166131.html",
-   "n_members": 57,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 14,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 7,
-    "opinion": 1
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.404,
-   "category": "international",
-   "terms_left": [
-    "climatique",
-    "quinzaine",
-    "parc"
-   ],
-   "terms_right": [
-    "grand canyon",
-    "canyon",
-    "grand"
    ]
   }
  ]
