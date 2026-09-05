@@ -1,6 +1,6 @@
 {
  "week": "2026-W36",
- "generated_at": "2026-09-05T01:57:57+00:00",
+ "generated_at": "2026-09-05T06:34:38+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.187,
+   "divergence": 0.189,
    "category": "international",
    "terms_left": [
     "inondations népal",
@@ -59,9 +59,9 @@
     "roussel"
    ],
    "terms_right": [
-    "gouvernement",
     "bruno maire",
-    "bruno"
+    "bruno",
+    "maire"
    ]
   },
   {
@@ -125,6 +125,36 @@
    ]
   },
   {
+   "title": "Drone explosif à l'aéroport de Leipzig : l'UE dénonce «une attaque menée par des agents russes»",
+   "url": "https://www.rfi.fr/fr/europe/20260824-allemagne-le-parti-d-extr%C3%AAme-droite-afd-aux-portes-du-pouvoir-en-saxe-anhaltau",
+   "n_members": 106,
+   "n_sources": 32,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": 0.222,
+   "blindspot_for": null,
+   "divergence": 0.365,
+   "category": "international",
+   "terms_left": [
+    "guerre",
+    "allemagne accuse",
+    "attaque drone"
+   ],
+   "terms_right": [
+    "chargé",
+    "drone chargé",
+    "chargé explosifs"
+   ]
+  },
+  {
    "title": "L'ancien Premier ministre Édouard Balladur est mort à Paris à l'âge de 97 ans",
    "url": "https://www.tf1info.fr/politique/l-ancien-premier-ministre-edouard-balladur-est-decede-2345013.html",
    "n_members": 84,
@@ -141,7 +171,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.359,
+   "divergence": 0.361,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -152,36 +182,6 @@
     "édouard balladur",
     "édouard",
     "mort édouard"
-   ]
-  },
-  {
-   "title": "Drone explosif à l'aéroport de Leipzig : l'UE dénonce «une attaque menée par des agents russes»",
-   "url": "https://www.rfi.fr/fr/europe/20260824-allemagne-le-parti-d-extr%C3%AAme-droite-afd-aux-portes-du-pouvoir-en-saxe-anhaltau",
-   "n_members": 105,
-   "n_sources": 31,
-   "counts": {
-    "left": 7,
-    "centre": 13,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 10,
-    "opinion": 4
-   },
-   "blindspot_score": 0.222,
-   "blindspot_for": null,
-   "divergence": 0.313,
-   "category": "international",
-   "terms_left": [
-    "guerre",
-    "russie",
-    "attaque drone"
-   ],
-   "terms_right": [
-    "chargé explosifs",
-    "chargé",
-    "russe"
    ]
   },
   {
@@ -201,17 +201,17 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.288,
+   "divergence": 0.29,
    "category": "politique",
    "terms_left": [
-    "victoire",
-    "cas victoire",
-    "laïcité"
+    "laïcité",
+    "interdiction voile",
+    "victoire"
    ],
    "terms_right": [
     "qu",
     "français",
-    "veut"
+    "port voile"
    ]
   },
   {
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.308,
+   "divergence": 0.31,
    "category": "international",
    "terms_left": [
     "direct",
@@ -330,8 +330,8 @@
    ],
    "terms_right": [
     "frappe",
-    "ukraine morts",
-    "frappe russe"
+    "frappe russe",
+    "ukraine morts"
    ]
   },
   {
@@ -425,6 +425,36 @@
    ]
   },
   {
+   "title": "L'ONU prévoit un El Niño «de très forte intensité» ces cinq prochains mois",
+   "url": "https://www.lemonde.fr/economie/article/2026/09/01/dans-le-canal-de-panama-el-nino-impose-une-baisse-du-trafic-maritime-et-l-envolee-des-prix-de-passage_6763087_3234.html",
+   "n_members": 48,
+   "n_sources": 28,
+   "counts": {
+    "left": 7,
+    "centre": 15,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": -0.077,
+   "blindspot_for": null,
+   "divergence": 0.405,
+   "category": "environnement",
+   "terms_left": [
+    "jusqu",
+    "intensité forte",
+    "météorologique"
+   ],
+   "terms_right": [
+    "panama",
+    "canal",
+    "épisode"
+   ]
+  },
+  {
    "title": "Crise migratoire de Ceuta : Pedro Sánchez dédouane encore le Maroc mais réaffirme la souveraineté espagnole",
    "url": "https://www.rfi.fr/fr/afrique/20260817-ceuta-un-camerounais-arriv%C3%A9-dans-l-enclave-espagnole-t%C3%A9moigne-sur-ses-conditions-de-vie",
    "n_members": 131,
@@ -446,42 +476,12 @@
    "terms_left": [
     "crise ceuta",
     "version",
-    "responsabilité"
+    "parlement"
    ],
    "terms_right": [
     "migratoire",
     "crise migratoire",
     "migrants"
-   ]
-  },
-  {
-   "title": "L'ONU prévoit un El Niño «de très forte intensité» ces cinq prochains mois",
-   "url": "https://www.lemonde.fr/economie/article/2026/09/01/dans-le-canal-de-panama-el-nino-impose-une-baisse-du-trafic-maritime-et-l-envolee-des-prix-de-passage_6763087_3234.html",
-   "n_members": 47,
-   "n_sources": 27,
-   "counts": {
-    "left": 7,
-    "centre": 14,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": -0.077,
-   "blindspot_for": null,
-   "divergence": 0.404,
-   "category": "environnement",
-   "terms_left": [
-    "jusqu",
-    "intensité forte",
-    "météorologique"
-   ],
-   "terms_right": [
-    "panama",
-    "canal",
-    "épisode"
    ]
   },
   {
@@ -501,17 +501,17 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.365,
+   "divergence": 0.374,
    "category": "international",
    "terms_left": [
-    "iraniens",
     "etats-unis",
+    "iraniens",
     "emirats"
    ],
    "terms_right": [
     "moyen-orient",
     "guerre moyen-orient",
-    "frappes américaines"
+    "guerre"
    ]
   },
   {
@@ -561,12 +561,12 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.69,
+   "divergence": 0.685,
    "category": "politique",
    "terms_left": [
     "céline",
-    "géraud",
-    "céline géraud"
+    "céline géraud",
+    "géraud"
    ],
    "terms_right": [
     "hollande",
@@ -593,16 +593,8 @@
    "blindspot_for": null,
    "divergence": 0.75,
    "category": "société",
-   "terms_left": [
-    "procureure auch",
-    "auch",
-    "procureure"
-   ],
-   "terms_right": [
-    "assassinat",
-    "condamné",
-    "parc"
-   ]
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Emmanuel Macron présente des mesures pour le handicap en 2030",
@@ -621,7 +613,7 @@
    },
    "blindspot_score": -0.143,
    "blindspot_for": null,
-   "divergence": 0.582,
+   "divergence": 0.583,
    "category": "société",
    "terms_left": [
     "nationale",
@@ -651,17 +643,17 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.218,
+   "divergence": 0.219,
    "category": "culture",
    "terms_left": [
     "affaires violences",
     "affaires",
-    "examen affaires"
+    "annule"
    ],
    "terms_right": [
     "femmes",
-    "viol",
-    "avocate"
+    "avocate",
+    "émission"
    ]
   },
   {
@@ -771,23 +763,23 @@
    },
    "blindspot_score": -0.143,
    "blindspot_for": null,
-   "divergence": 0.431,
+   "divergence": 0.433,
    "category": "société",
    "terms_left": [
     "violences périscolaire",
-    "maire",
-    "ans"
+    "ans",
+    "maire"
    ],
    "terms_right": [
     "police",
-    "laurent nuñez",
-    "laurent"
+    "affaire",
+    "gérald darmanin"
    ]
   },
   {
    "title": "Sécheresse : un plan d’aide à plus d’un milliard d’euros pour soutenir les agriculteurs",
    "url": "https://france3-regions.franceinfo.fr/ca-me-tord-le-ventre-entre-passion-et-eco-anxiete-le-quotidien-bouleverse-de-deux-jeunes-agriculteurs-face-au-changement-climatique-3409532.html",
-   "n_members": 56,
+   "n_members": 57,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -815,9 +807,39 @@
    ]
   },
   {
+   "title": "L’été 2026 a « été le plus chaud jamais enregistré » en France, annonce la ministre de l’écologie",
+   "url": "https://www.leparisien.fr/international/allemagne/canicules-en-allemagne-nouveau-record-de-deces-lies-a-la-chaleur-cet-ete-environ-15-800-morts-27-08-2026-5OM4FCDVAZBYFNI5CRJ3S3WIBE.php",
+   "n_members": 41,
+   "n_sources": 25,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 1
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.62,
+   "category": "environnement",
+   "terms_left": [
+    "réchauffement",
+    "incendies",
+    "face"
+   ],
+   "terms_right": [
+    "record",
+    "chaleur",
+    "canicules"
+   ]
+  },
+  {
    "title": "Visite du pape Léon XIV : « 15.000 membres des forces de l’ordre » mobilisés pour « un dispositif exceptionnel »",
    "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-du-pape-a-metz-les-tarifs-des-chambres-grimpent-en-fleche-pour-la-venue-du-souverain-pontife-fin-septembre_8152271.html",
-   "n_members": 67,
+   "n_members": 68,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -831,17 +853,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.579,
+   "divergence": 0.566,
    "category": "société",
    "terms_left": [
     "eglise",
-    "victimes",
-    "collectif"
+    "sexuelles eglise",
+    "catholique"
    ],
    "terms_right": [
     "pape",
     "france",
-    "visite"
+    "pape léon"
    ]
   },
   {
@@ -861,7 +883,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.632,
+   "divergence": 0.633,
    "category": "politique",
    "terms_left": [
     "sécheresse",
@@ -951,7 +973,7 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.789,
+   "divergence": 0.807,
    "category": "société",
    "terms_left": [
     "coût rentrée",
@@ -961,7 +983,37 @@
    "terms_right": [
     "scolaire",
     "nouveau",
-    "frais"
+    "rentrée scolaire"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : « Bruno Retailleau propose une révolution copernicienne » dans laquelle « la Constitution ne serait plus le bouclier » qui protège les institutions, relèvent les juristes",
+   "url": "https://www.lemonde.fr/societe/article/2026/08/31/vincent-bollore-depose-plainte-pour-association-de-malfaiteurs-contre-des-magistrats-apres-son-renvoi-devant-le-tribunal-pour-corruption_6762587_3224.html",
+   "n_members": 61,
+   "n_sources": 24,
+   "counts": {
+    "left": 7,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.774,
+   "category": "politique",
+   "terms_left": [
+    "bolloré",
+    "vincent",
+    "vincent bolloré"
+   ],
+   "terms_right": [
+    "retailleau",
+    "constitutionnel",
+    "bruno retailleau"
    ]
   },
   {
@@ -995,39 +1047,9 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : « Bruno Retailleau propose une révolution copernicienne » dans laquelle « la Constitution ne serait plus le bouclier » qui protège les institutions, relèvent les juristes",
-   "url": "https://www.lemonde.fr/societe/article/2026/08/31/vincent-bollore-depose-plainte-pour-association-de-malfaiteurs-contre-des-magistrats-apres-son-renvoi-devant-le-tribunal-pour-corruption_6762587_3224.html",
-   "n_members": 60,
-   "n_sources": 24,
-   "counts": {
-    "left": 7,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 10,
-    "opinion": 3
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.767,
-   "category": "politique",
-   "terms_left": [
-    "bolloré",
-    "vincent",
-    "vincent bolloré"
-   ],
-   "terms_right": [
-    "retailleau",
-    "bruno retailleau",
-    "bruno"
-   ]
-  },
-  {
    "title": "Rentrée scolaire à New York : temps d’écran limité et intelligence artificielle interdite jusqu’au lycée",
    "url": "https://www.sudouest.fr/politique/fin-de-l-experimentation-de-l-uniforme-scolaire-en-france-l-etat-nous-a-sollicites-pour-aucun-compte-rendu-regrette-le-maire-bearnais-d-une-commune-volontaire-30419556.php",
-   "n_members": 57,
+   "n_members": 58,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -1041,7 +1063,7 @@
    },
    "blindspot_score": -0.2,
    "blindspot_for": null,
-   "divergence": 0.864,
+   "divergence": 0.868,
    "category": "société",
    "terms_left": [
     "école",
@@ -1055,9 +1077,9 @@
    ]
   },
   {
-   "title": "Crue dévastatrice au Népal et au Tibet : le bilan passe à 1 280 morts, forte hausse du nombre de disparus à 5 624",
+   "title": "Face aux crues meurtrières, le Népal appelle à la justice climatique pour financer sa reconstruction",
    "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/en-images-apres-les-crues-meurtrieres-au-nepal-un-paysage-apocalyptique-et-des-degats-considerables_8166131.html",
-   "n_members": 55,
+   "n_members": 56,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -1071,47 +1093,47 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.368,
+   "divergence": 0.404,
    "category": "international",
    "terms_left": [
+    "climatique",
     "quinzaine",
-    "mort",
-    "népal"
+    "parc"
    ],
    "terms_right": [
-    "états-unis",
     "grand canyon",
-    "canyon"
+    "canyon",
+    "grand"
    ]
   },
   {
-   "title": "L’été 2026 a « été le plus chaud jamais enregistré » en France, annonce la ministre de l’écologie",
-   "url": "https://www.leparisien.fr/international/allemagne/canicules-en-allemagne-nouveau-record-de-deces-lies-a-la-chaleur-cet-ete-environ-15-800-morts-27-08-2026-5OM4FCDVAZBYFNI5CRJ3S3WIBE.php",
-   "n_members": 40,
+   "title": "Pourquoi Jordan Bardella rencontre Nigel Farage à Birmingham?",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/histoire-politique/histoires-politiques-du-jeudi-03-septembre-2026-5778203",
+   "n_members": 38,
    "n_sources": 24,
    "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 6
+    "left": 4,
+    "centre": 11,
+    "right": 9
    },
    "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 1
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 5
    },
-   "blindspot_score": 0.091,
+   "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.614,
-   "category": "environnement",
+   "divergence": 0.533,
+   "category": "politique",
    "terms_left": [
-    "réchauffement",
-    "gouvernement",
-    "bilan climatique"
+    "invité",
+    "loi",
+    "proche"
    ],
    "terms_right": [
-    "record",
-    "canicules",
-    "chaleur"
+    "birmingham",
+    "congrès",
+    "bardella"
    ]
   },
   {
@@ -1131,7 +1153,7 @@
    },
    "blindspot_score": -0.143,
    "blindspot_for": null,
-   "divergence": 0.21,
+   "divergence": 0.211,
    "category": "culture",
    "terms_left": [
     "mort",
@@ -1147,7 +1169,7 @@
   {
    "title": "Crue au Népal : prisonniers dans un tunnel depuis dix jours, deux ouvriers miraculeusement sauvés",
    "url": "https://www.leparisien.fr/environnement/crue-devastatrice-au-nepal-comment-les-experts-francais-tentent-de-comprendre-la-catastrophe-a-plusieurs-milliers-de-kilometres-27-08-2026-ZM4CDO4YK5DAFLRBNN6NBJGZOU.php",
-   "n_members": 103,
+   "n_members": 105,
    "n_sources": 23,
    "counts": {
     "left": 3,
@@ -1161,7 +1183,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.536,
+   "divergence": 0.537,
    "category": "international",
    "terms_left": [
     "crue népal",
@@ -1172,36 +1194,6 @@
     "qu",
     "français",
     "jours"
-   ]
-  },
-  {
-   "title": "Norvège: le roi Haakon VIII a prêté serment sans son épouse, convalescente",
-   "url": "https://www.bfmtv.com/people/tetes-couronnees/toujours-hospitalise-le-roi-harald-de-norvege-89-ans-annule-un-deplacement-prevu-debut-septembre_AD-202608210393.html",
-   "n_members": 84,
-   "n_sources": 23,
-   "counts": {
-    "left": 2,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": 0.409,
-   "category": "international",
-   "terms_left": [
-    "roi norvège",
-    "père",
-    "nouveau roi"
-   ],
-   "terms_right": [
-    "harald",
-    "roi",
-    "ans"
    ]
   }
  ]
