@@ -1,6 +1,6 @@
 {
  "week": "2026-W36",
- "generated_at": "2026-09-05T16:24:53+00:00",
+ "generated_at": "2026-09-05T18:29:29+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.382,
+   "divergence": 0.375,
    "category": "international",
    "terms_left": [
     "allemagne accuse",
@@ -149,9 +149,9 @@
     "attaque drone"
    ],
    "terms_right": [
-    "explosifs",
     "berlin",
-    "face"
+    "face",
+    "russes"
    ]
   },
   {
@@ -201,17 +201,17 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.293,
+   "divergence": 0.282,
    "category": "politique",
    "terms_left": [
     "interdiction voile",
-    "laïcité",
-    "référendum"
+    "référendum",
+    "laïcité"
    ],
    "terms_right": [
     "port",
-    "port voile",
-    "veut"
+    "veut",
+    "français"
    ]
   },
   {
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.315,
+   "divergence": 0.316,
    "category": "international",
    "terms_left": [
     "direct",
@@ -471,7 +471,7 @@
    },
    "blindspot_score": -0.143,
    "blindspot_for": null,
-   "divergence": 0.586,
+   "divergence": 0.585,
    "category": "société",
    "terms_left": [
     "nationale",
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.536,
+   "divergence": 0.535,
    "category": "international",
    "terms_left": [
     "crise ceuta",
@@ -517,7 +517,7 @@
   {
    "title": "Immigration, signature d'un accord... Au congrès annuel de Reform UK, Jordan Bardella en quête d'alliés pour le RN",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/histoire-politique/histoires-politiques-du-jeudi-03-septembre-2026-5778203",
-   "n_members": 52,
+   "n_members": 53,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -531,7 +531,7 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.473,
+   "divergence": 0.476,
    "category": "politique",
    "terms_left": [
     "parti",
@@ -547,7 +547,7 @@
   {
    "title": "L'armée américaine dit avoir \"détruit\" trois pétroliers iraniens",
    "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
-   "n_members": 138,
+   "n_members": 141,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.385,
+   "divergence": 0.383,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -673,7 +673,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.488,
+   "divergence": 0.487,
    "category": "environnement",
    "terms_left": [
     "agricole",
@@ -684,6 +684,36 @@
     "euros",
     "milliard",
     "plan aide"
+   ]
+  },
+  {
+   "title": "Guerre en Ukraine : Trump envoie ses émissaires à Moscou et à Kiev",
+   "url": "https://www.tf1info.fr/international/video-c-est-un-double-message-des-russes-pourquoi-moscou-decide-de-frapper-le-siege-des-services-de-securite-ukrainiens-a-kiev-avant-la-venue-d-emissaires-americains-2462402.html",
+   "n_members": 86,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.393,
+   "category": "international",
+   "terms_left": [
+    "détroit",
+    "ormuz",
+    "détroit ormuz"
+   ],
+   "terms_right": [
+    "kiev",
+    "moscou kiev",
+    "émissaires"
    ]
   },
   {
@@ -703,47 +733,17 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.207,
+   "divergence": 0.193,
    "category": "culture",
    "terms_left": [
     "affaires violences",
-    "affaires",
-    "examen affaires"
+    "violences",
+    "examen"
    ],
    "terms_right": [
     "avocate",
-    "ministre",
-    "émission"
-   ]
-  },
-  {
-   "title": "Guerre en Ukraine : Trump envoie ses émissaires à Moscou et à Kiev",
-   "url": "https://www.tf1info.fr/international/video-c-est-un-double-message-des-russes-pourquoi-moscou-decide-de-frapper-le-siege-des-services-de-securite-ukrainiens-a-kiev-avant-la-venue-d-emissaires-americains-2462402.html",
-   "n_members": 81,
-   "n_sources": 25,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.429,
-   "category": "international",
-   "terms_left": [
-    "détroit",
-    "ormuz",
-    "détroit ormuz"
-   ],
-   "terms_right": [
-    "kiev",
-    "émissaires",
-    "moscou kiev"
+    "qu",
+    "ministre"
    ]
   },
   {
@@ -773,7 +773,7 @@
    "terms_right": [
     "américain",
     "ontario",
-    "lac"
+    "rebaptiser"
    ]
   },
   {
@@ -853,7 +853,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.71,
+   "divergence": 0.709,
    "category": "politique",
    "terms_left": [
     "amitié",
@@ -927,9 +927,9 @@
    ]
   },
   {
-   "title": "Télévision. Mort de Jean-Paul Rappeneau : Arte, France 5... les chaînes bouleversent leurs programmes",
+   "title": "Décès de Jean-Paul Rappeneau, incarnation d’une légèreté si française…",
    "url": "https://www.liberation.fr/culture/cinema/mort-de-jean-paul-rappeneau-un-cineaste-qui-a-de-lallure-20260902_RI6BISXMFZD7DB7DBRXL3TRMJU/",
-   "n_members": 38,
+   "n_members": 39,
    "n_sources": 25,
    "counts": {
     "left": 8,
@@ -943,17 +943,17 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.184,
+   "divergence": 0.19,
    "category": "culture",
    "terms_left": [
-    "mort",
     "mort jean-paul",
-    "feu"
+    "mort",
+    "jean-paul rappeneau"
    ],
    "terms_right": [
-    "mort âge",
     "âge",
-    "âge ans"
+    "âge ans",
+    "ans"
    ]
   },
   {
@@ -1073,7 +1073,7 @@
    "terms_right": [
     "retailleau",
     "constitutionnel",
-    "bruno retailleau"
+    "conseil constitutionnel"
    ]
   },
   {
@@ -1145,12 +1145,12 @@
    },
    "blindspot_score": -0.167,
    "blindspot_for": null,
-   "divergence": 0.919,
+   "divergence": 0.92,
    "category": "international",
    "terms_left": [
     "trump",
-    "canicule",
-    "ia"
+    "ia",
+    "enquête"
    ],
    "terms_right": [
     "primaire",
