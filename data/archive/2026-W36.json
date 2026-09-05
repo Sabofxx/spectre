@@ -1,13 +1,13 @@
 {
  "week": "2026-W36",
- "generated_at": "2026-09-05T06:34:38+00:00",
+ "generated_at": "2026-09-05T11:03:58+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "Népal : le bilan de la crue s'aggrave à 1.114 morts, toujours 3.916 disparus",
+   "title": "Népal : le bilan s'alourdit à 1 225 morts et 4 757 disparus",
    "url": "https://www.sudouest.fr/international/chine/chine-une-coulee-de-boue-cote-nepalais-a-fait-de-nombreuses-victimes-au-tibet-30371272.php",
-   "n_members": 376,
+   "n_members": 377,
    "n_sources": 34,
    "counts": {
     "left": 8,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.189,
+   "divergence": 0.188,
    "category": "international",
    "terms_left": [
     "inondations népal",
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.566,
+   "divergence": 0.564,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.365,
+   "divergence": 0.383,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -149,9 +149,9 @@
     "attaque drone"
    ],
    "terms_right": [
-    "chargé",
-    "drone chargé",
-    "chargé explosifs"
+    "explosifs",
+    "russes",
+    "russe"
    ]
   },
   {
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.361,
+   "divergence": 0.363,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -185,9 +185,9 @@
    ]
   },
   {
-   "title": "Voile, fermeture de mosquées, expulsions : ces mesures contre l’islamisme que le RN veut proposer par référendum",
+   "title": "Présidentielle 2027 : comment la question du port du voile a fait son retour dans le débat politique",
    "url": "https://www.leparisien.fr/elections/presidentielle/elles-auront-une-amende-en-cas-delection-de-marine-le-pen-a-la-presidentielle-les-femmes-portant-le-voile-seront-sanctionnees-30-08-2026-GU2ZGE7NJNBIVOIWNISEILGYWI.php",
-   "n_members": 101,
+   "n_members": 103,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,17 +201,17 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.29,
+   "divergence": 0.291,
    "category": "politique",
    "terms_left": [
     "laïcité",
     "interdiction voile",
-    "victoire"
+    "référendum"
    ],
    "terms_right": [
-    "qu",
+    "port voile",
     "français",
-    "port voile"
+    "port"
    ]
   },
   {
@@ -245,9 +245,9 @@
    ]
   },
   {
-   "title": "Plan pour l'agriculture : les annonces «décalées de quelques jours», indique le ministère",
+   "title": "Agriculture : le gouvernement annonce un plan de soutien de plus d’un milliard d’euros",
    "url": "https://www.bfmtv.com/economie/entreprises/les-exigences-en-cybersecurite-sont-les-plus-elevees-en-europe-quelques-jours-apres-le-piratage-du-fisc-bercy-rassure-sur-les-risques-de-fuites-de-donnees-liees-a-la-mise-en-place-de-la-facturation-electronique_AV-202608260490.html",
-   "n_members": 72,
+   "n_members": 73,
    "n_sources": 29,
    "counts": {
     "left": 9,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": -0.059,
    "blindspot_for": null,
-   "divergence": 0.631,
+   "divergence": 0.633,
    "category": "économie",
    "terms_left": [
     "données",
@@ -269,9 +269,9 @@
     "milliers"
    ],
    "terms_right": [
-    "jours",
+    "agricole",
     "piratage",
-    "aides"
+    "milliard"
    ]
   },
   {
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.31,
+   "divergence": 0.315,
    "category": "international",
    "terms_left": [
     "direct",
@@ -441,7 +441,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.405,
+   "divergence": 0.404,
    "category": "environnement",
    "terms_left": [
     "jusqu",
@@ -471,23 +471,53 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.53,
+   "divergence": 0.537,
    "category": "international",
    "terms_left": [
     "crise ceuta",
-    "version",
-    "parlement"
+    "devant",
+    "gouvernement"
    ],
    "terms_right": [
     "migratoire",
     "crise migratoire",
-    "migrants"
+    "ceuta"
    ]
   },
   {
-   "title": "EN DIRECT : Guerre au Moyen-Orient : l'Iran attaque des bases des États-Unis après de nouvelles frappes américaines",
+   "title": "Handicap : « L’inclusivité doit être au cœur de cette campagne présidentielle », espère Emmanuel Macron",
+   "url": "https://information.tv5monde.com/international/rentree-politique-pour-andy-burnham-confronte-ses-premiers-tests-2835489",
+   "n_members": 44,
+   "n_sources": 27,
+   "counts": {
+    "left": 8,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 11,
+    "opinion": 3
+   },
+   "blindspot_score": -0.143,
+   "blindspot_for": null,
+   "divergence": 0.577,
+   "category": "société",
+   "terms_left": [
+    "nationale",
+    "handicap",
+    "conférence nationale"
+   ],
+   "terms_right": [
+    "bobigny",
+    "ans",
+    "présidentielle"
+   ]
+  },
+  {
+   "title": "EN DIRECT - Guerre au Moyen-Orient : Trump prêt à frapper à nouveau l'Iran \"à tout moment\"",
    "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
-   "n_members": 125,
+   "n_members": 127,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -501,17 +531,17 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.374,
+   "divergence": 0.379,
    "category": "international",
    "terms_left": [
-    "etats-unis",
     "iraniens",
-    "emirats"
+    "etats-unis",
+    "etats-unis iran"
    ],
    "terms_right": [
-    "moyen-orient",
     "guerre moyen-orient",
-    "guerre"
+    "guerre",
+    "moyen-orient"
    ]
   },
   {
@@ -531,7 +561,7 @@
    },
    "blindspot_score": 0.733,
    "blindspot_for": "gauche",
-   "divergence": 0.751,
+   "divergence": 0.757,
    "category": "économie",
    "terms_left": [
     "rentrée",
@@ -547,7 +577,7 @@
   {
    "title": "Présidentielle 2027 : à défaut de ralliements politiques, Gabriel Attal s’entoure de «nouveaux visages»",
    "url": "https://www.europe1.fr/societe/les-hommes-politiques-ne-sont-pas-trop-payes-pascal-praud-debat-avec-un-auditeur-sur-la-remuneration-des-elus-1040768",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -561,23 +591,23 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.685,
+   "divergence": 0.676,
    "category": "politique",
    "terms_left": [
     "céline",
-    "céline géraud",
-    "géraud"
+    "géraud",
+    "céline géraud"
    ],
    "terms_right": [
     "hollande",
     "élection présidentielle",
-    "élection"
+    "françois hollande"
    ]
   },
   {
-   "title": "Affaire Samuel Paty : un Tchétchène impliqué dans l'assassinat de l'enseignant de nouveau condamné",
+   "title": "\"Un soulagement\" : huit ans après la mort de son petit garçon dans un accident d'ascenseur, la mère d'Ismaïl réagit au jugement",
    "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/la-procureure-de-la-republique-d-auch-en-premiere-ligne-pendant-l-affaire-lyhanna-a-quitte-son-poste_8170442.html",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 26,
    "counts": {
     "left": 3,
@@ -597,33 +627,33 @@
    "terms_right": []
   },
   {
-   "title": "Emmanuel Macron présente des mesures pour le handicap en 2030",
-   "url": "https://information.tv5monde.com/international/rentree-politique-pour-andy-burnham-confronte-ses-premiers-tests-2835489",
-   "n_members": 43,
+   "title": "Congrès du parti d'extrême droite Reform UK : marché conclu entre Farage et Bardella",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/histoire-politique/histoires-politiques-du-jeudi-03-septembre-2026-5778203",
+   "n_members": 49,
    "n_sources": 26,
    "counts": {
-    "left": 8,
-    "centre": 12,
-    "right": 6
+    "left": 4,
+    "centre": 11,
+    "right": 11
    },
    "style_counts": {
-    "factuel": 12,
-    "mixte": 11,
-    "opinion": 3
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 5
    },
-   "blindspot_score": -0.143,
+   "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.583,
-   "category": "société",
+   "divergence": 0.492,
+   "category": "politique",
    "terms_left": [
-    "nationale",
-    "handicap",
-    "conférence nationale"
+    "invité",
+    "loi",
+    "extrême"
    ],
    "terms_right": [
-    "tva sociale",
-    "sociale",
-    "bobigny"
+    "accord",
+    "birmingham",
+    "bardella"
    ]
   },
   {
@@ -643,7 +673,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.219,
+   "divergence": 0.215,
    "category": "culture",
    "terms_left": [
     "affaires violences",
@@ -651,7 +681,7 @@
     "annule"
    ],
    "terms_right": [
-    "femmes",
+    "viol",
     "avocate",
     "émission"
    ]
@@ -673,7 +703,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.255,
+   "divergence": 0.25,
    "category": "international",
    "terms_left": [
     "vote correspondance",
@@ -683,7 +713,7 @@
    "terms_right": [
     "américain",
     "ontario",
-    "lac ontario"
+    "lac"
    ]
   },
   {
@@ -714,6 +744,36 @@
     "maladie",
     "santé",
     "er"
+   ]
+  },
+  {
+   "title": "Visite du pape Léon XIV : « 15.000 membres des forces de l’ordre » mobilisés pour « un dispositif exceptionnel »",
+   "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-du-pape-a-metz-les-tarifs-des-chambres-grimpent-en-fleche-pour-la-venue-du-souverain-pontife-fin-septembre_8152271.html",
+   "n_members": 69,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.54,
+   "category": "société",
+   "terms_left": [
+    "eglise",
+    "sexuelles eglise",
+    "catholique"
+   ],
+   "terms_right": [
+    "france",
+    "pape léon",
+    "visite"
    ]
   },
   {
@@ -779,7 +839,7 @@
   {
    "title": "Sécheresse : un plan d’aide à plus d’un milliard d’euros pour soutenir les agriculteurs",
    "url": "https://france3-regions.franceinfo.fr/ca-me-tord-le-ventre-entre-passion-et-eco-anxiete-le-quotidien-bouleverse-de-deux-jeunes-agriculteurs-face-au-changement-climatique-3409532.html",
-   "n_members": 57,
+   "n_members": 58,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -793,7 +853,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.525,
+   "divergence": 0.517,
    "category": "environnement",
    "terms_left": [
     "cours eau",
@@ -802,8 +862,8 @@
    ],
    "terms_right": [
     "euros",
-    "agriculteurs",
-    "milliard"
+    "milliard",
+    "milliard euros"
    ]
   },
   {
@@ -837,33 +897,63 @@
    ]
   },
   {
-   "title": "Visite du pape Léon XIV : « 15.000 membres des forces de l’ordre » mobilisés pour « un dispositif exceptionnel »",
-   "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-du-pape-a-metz-les-tarifs-des-chambres-grimpent-en-fleche-pour-la-venue-du-souverain-pontife-fin-septembre_8152271.html",
+   "title": "Crue au Népal : prisonniers dans un tunnel depuis dix jours, deux ouvriers miraculeusement sauvés",
+   "url": "https://www.leparisien.fr/environnement/crue-devastatrice-au-nepal-comment-les-experts-francais-tentent-de-comprendre-la-catastrophe-a-plusieurs-milliers-de-kilometres-27-08-2026-ZM4CDO4YK5DAFLRBNN6NBJGZOU.php",
+   "n_members": 114,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.483,
+   "category": "international",
+   "terms_left": [
+    "sortis",
+    "ouvriers retrouvés",
+    "face"
+   ],
+   "terms_right": [
+    "qu",
+    "crue dévastatrice",
+    "dévastatrice"
+   ]
+  },
+  {
+   "title": "Guerre en Ukraine : Trump envoie ses émissaires à Moscou et à Kiev",
+   "url": "https://www.tf1info.fr/international/video-c-est-un-double-message-des-russes-pourquoi-moscou-decide-de-frapper-le-siege-des-services-de-securite-ukrainiens-a-kiev-avant-la-venue-d-emissaires-americains-2462402.html",
    "n_members": 68,
    "n_sources": 24,
    "counts": {
     "left": 4,
-    "centre": 12,
-    "right": 8
+    "centre": 13,
+    "right": 7
    },
    "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 4
+    "factuel": 16,
+    "mixte": 5,
+    "opinion": 3
    },
-   "blindspot_score": 0.333,
+   "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.566,
-   "category": "société",
+   "divergence": 0.473,
+   "category": "international",
    "terms_left": [
-    "eglise",
-    "sexuelles eglise",
-    "catholique"
+    "détroit",
+    "détroit ormuz",
+    "ormuz"
    ],
    "terms_right": [
-    "pape",
-    "france",
-    "pape léon"
+    "kiev",
+    "moscou kiev",
+    "émissaires"
    ]
   },
   {
@@ -883,7 +973,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.633,
+   "divergence": 0.634,
    "category": "politique",
    "terms_left": [
     "sécheresse",
@@ -924,6 +1014,36 @@
     "taxe",
     "malus",
     "français"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : « Bruno Retailleau propose une révolution copernicienne » dans laquelle « la Constitution ne serait plus le bouclier » qui protège les institutions, relèvent les juristes",
+   "url": "https://www.lemonde.fr/societe/article/2026/08/31/vincent-bollore-depose-plainte-pour-association-de-malfaiteurs-contre-des-magistrats-apres-son-renvoi-devant-le-tribunal-pour-corruption_6762587_3224.html",
+   "n_members": 62,
+   "n_sources": 24,
+   "counts": {
+    "left": 7,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.774,
+   "category": "politique",
+   "terms_left": [
+    "bolloré",
+    "vincent",
+    "vincent bolloré"
+   ],
+   "terms_right": [
+    "retailleau",
+    "constitutionnel",
+    "bruno retailleau"
    ]
   },
   {
@@ -973,47 +1093,17 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.807,
+   "divergence": 0.821,
    "category": "société",
    "terms_left": [
+    "coût",
     "coût rentrée",
-    "universitaire",
-    "rentrée universitaire"
+    "année"
    ],
    "terms_right": [
     "scolaire",
     "nouveau",
-    "rentrée scolaire"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : « Bruno Retailleau propose une révolution copernicienne » dans laquelle « la Constitution ne serait plus le bouclier » qui protège les institutions, relèvent les juristes",
-   "url": "https://www.lemonde.fr/societe/article/2026/08/31/vincent-bollore-depose-plainte-pour-association-de-malfaiteurs-contre-des-magistrats-apres-son-renvoi-devant-le-tribunal-pour-corruption_6762587_3224.html",
-   "n_members": 61,
-   "n_sources": 24,
-   "counts": {
-    "left": 7,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 10,
-    "opinion": 3
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.774,
-   "category": "politique",
-   "terms_left": [
-    "bolloré",
-    "vincent",
-    "vincent bolloré"
-   ],
-   "terms_right": [
-    "retailleau",
-    "constitutionnel",
-    "bruno retailleau"
+    "ans"
    ]
   },
   {
@@ -1033,23 +1123,23 @@
    },
    "blindspot_score": -0.167,
    "blindspot_for": null,
-   "divergence": 0.931,
+   "divergence": 0.919,
    "category": "international",
    "terms_left": [
-    "seul",
     "trump",
-    "canicule"
+    "canicule",
+    "enquête"
    ],
    "terms_right": [
     "primaire",
-    "chine",
-    "présidentielle"
+    "candidat",
+    "euros"
    ]
   },
   {
    "title": "Rentrée scolaire à New York : temps d’écran limité et intelligence artificielle interdite jusqu’au lycée",
    "url": "https://www.sudouest.fr/politique/fin-de-l-experimentation-de-l-uniforme-scolaire-en-france-l-etat-nous-a-sollicites-pour-aucun-compte-rendu-regrette-le-maire-bearnais-d-une-commune-volontaire-30419556.php",
-   "n_members": 58,
+   "n_members": 60,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -1063,23 +1153,23 @@
    },
    "blindspot_score": -0.2,
    "blindspot_for": null,
-   "divergence": 0.868,
+   "divergence": 0.864,
    "category": "société",
    "terms_left": [
-    "école",
     "retour",
-    "millions"
+    "millions",
+    "école"
    ],
    "terms_right": [
-    "lycée",
-    "ia",
-    "présidentielle"
+    "présidentielle",
+    "new york",
+    "york"
    ]
   },
   {
    "title": "Face aux crues meurtrières, le Népal appelle à la justice climatique pour financer sa reconstruction",
    "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/en-images-apres-les-crues-meurtrieres-au-nepal-un-paysage-apocalyptique-et-des-degats-considerables_8166131.html",
-   "n_members": 56,
+   "n_members": 57,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -1104,96 +1194,6 @@
     "grand canyon",
     "canyon",
     "grand"
-   ]
-  },
-  {
-   "title": "Pourquoi Jordan Bardella rencontre Nigel Farage à Birmingham?",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/histoire-politique/histoires-politiques-du-jeudi-03-septembre-2026-5778203",
-   "n_members": 38,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 5
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.533,
-   "category": "politique",
-   "terms_left": [
-    "invité",
-    "loi",
-    "proche"
-   ],
-   "terms_right": [
-    "birmingham",
-    "congrès",
-    "bardella"
-   ]
-  },
-  {
-   "title": "Le réalisateur de Cyrano de Bergerac, Jean-Paul Rappeneau, est mort",
-   "url": "https://www.liberation.fr/culture/cinema/mort-de-jean-paul-rappeneau-un-cineaste-qui-a-de-lallure-20260902_RI6BISXMFZD7DB7DBRXL3TRMJU/",
-   "n_members": 36,
-   "n_sources": 24,
-   "counts": {
-    "left": 8,
-    "centre": 10,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": -0.143,
-   "blindspot_for": null,
-   "divergence": 0.211,
-   "category": "culture",
-   "terms_left": [
-    "mort",
-    "er",
-    "mort jean-paul"
-   ],
-   "terms_right": [
-    "hussard",
-    "hussard toit",
-    "toit"
-   ]
-  },
-  {
-   "title": "Crue au Népal : prisonniers dans un tunnel depuis dix jours, deux ouvriers miraculeusement sauvés",
-   "url": "https://www.leparisien.fr/environnement/crue-devastatrice-au-nepal-comment-les-experts-francais-tentent-de-comprendre-la-catastrophe-a-plusieurs-milliers-de-kilometres-27-08-2026-ZM4CDO4YK5DAFLRBNN6NBJGZOU.php",
-   "n_members": 105,
-   "n_sources": 23,
-   "counts": {
-    "left": 3,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.537,
-   "category": "international",
-   "terms_left": [
-    "crue népal",
-    "sortis",
-    "ouvriers retrouvés"
-   ],
-   "terms_right": [
-    "qu",
-    "français",
-    "jours"
    ]
   }
  ]
