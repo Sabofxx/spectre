@@ -1,6 +1,6 @@
 {
  "week": "2026-W36",
- "generated_at": "2026-09-05T18:29:29+00:00",
+ "generated_at": "2026-09-05T20:35:31+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.375,
+   "divergence": 0.371,
    "category": "international",
    "terms_left": [
     "allemagne accuse",
@@ -150,8 +150,8 @@
    ],
    "terms_right": [
     "berlin",
-    "face",
-    "russes"
+    "russes",
+    "face"
    ]
   },
   {
@@ -261,11 +261,11 @@
    },
    "blindspot_score": -0.059,
    "blindspot_for": null,
-   "divergence": 0.661,
+   "divergence": 0.668,
    "category": "économie",
    "terms_left": [
-    "données",
     "ministère",
+    "attaque",
     "canicule"
    ],
    "terms_right": [
@@ -485,6 +485,36 @@
    ]
   },
   {
+   "title": "Iran : les Gardiens de la Révolution affirment avoir visé des pétroliers liés aux États-Unis en riposte aux frappes",
+   "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
+   "n_members": 147,
+   "n_sources": 27,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.37,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "etats-unis iran",
+    "frappes iran"
+   ],
+   "terms_right": [
+    "états-unis",
+    "guerre",
+    "guerre moyen-orient"
+   ]
+  },
+  {
    "title": "Crise migratoire de Ceuta : Pedro Sánchez dédouane encore le Maroc mais réaffirme la souveraineté espagnole",
    "url": "https://www.rfi.fr/fr/afrique/20260817-ceuta-un-camerounais-arriv%C3%A9-dans-l-enclave-espagnole-t%C3%A9moigne-sur-ses-conditions-de-vie",
    "n_members": 131,
@@ -501,7 +531,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.535,
+   "divergence": 0.524,
    "category": "international",
    "terms_left": [
     "crise ceuta",
@@ -517,7 +547,7 @@
   {
    "title": "Immigration, signature d'un accord... Au congrès annuel de Reform UK, Jordan Bardella en quête d'alliés pour le RN",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/histoire-politique/histoires-politiques-du-jeudi-03-septembre-2026-5778203",
-   "n_members": 53,
+   "n_members": 55,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -531,47 +561,17 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.476,
+   "divergence": 0.449,
    "category": "politique",
    "terms_left": [
-    "parti",
-    "extrême",
-    "extrême droite"
+    "prévoit",
+    "farage protocole",
+    "signé nigel"
    ],
    "terms_right": [
-    "accord",
     "bardella",
+    "accord",
     "jordan"
-   ]
-  },
-  {
-   "title": "L'armée américaine dit avoir \"détruit\" trois pétroliers iraniens",
-   "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
-   "n_members": 141,
-   "n_sources": 26,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.383,
-   "category": "international",
-   "terms_left": [
-    "etats-unis",
-    "iraniens",
-    "golfe"
-   ],
-   "terms_right": [
-    "guerre moyen-orient",
-    "moyen-orient",
-    "guerre"
    ]
   },
   {
@@ -621,7 +621,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.672,
+   "divergence": 0.674,
    "category": "politique",
    "terms_left": [
     "céline",
@@ -630,8 +630,8 @@
    ],
    "terms_right": [
     "hollande",
-    "élection présidentielle",
-    "françois hollande"
+    "françois hollande",
+    "françois"
    ]
   },
   {
@@ -677,19 +677,19 @@
    "category": "environnement",
    "terms_left": [
     "agricole",
-    "secteur",
-    "cours eau"
+    "cours eau",
+    "cours"
    ],
    "terms_right": [
     "euros",
-    "milliard",
-    "plan aide"
+    "plan aide",
+    "millions"
    ]
   },
   {
    "title": "Guerre en Ukraine : Trump envoie ses émissaires à Moscou et à Kiev",
    "url": "https://www.tf1info.fr/international/video-c-est-un-double-message-des-russes-pourquoi-moscou-decide-de-frapper-le-siege-des-services-de-securite-ukrainiens-a-kiev-avant-la-venue-d-emissaires-americains-2462402.html",
-   "n_members": 86,
+   "n_members": 92,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -703,7 +703,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.393,
+   "divergence": 0.407,
    "category": "international",
    "terms_left": [
     "détroit",
@@ -712,8 +712,8 @@
    ],
    "terms_right": [
     "kiev",
-    "moscou kiev",
-    "émissaires"
+    "émissaires",
+    "émissaires américains"
    ]
   },
   {
@@ -733,7 +733,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.193,
+   "divergence": 0.194,
    "category": "culture",
    "terms_left": [
     "affaires violences",
@@ -763,7 +763,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.249,
+   "divergence": 0.251,
    "category": "international",
    "terms_left": [
     "vote correspondance",
@@ -771,9 +771,9 @@
     "vote"
    ],
    "terms_right": [
+    "veut",
     "américain",
-    "ontario",
-    "rebaptiser"
+    "google"
    ]
   },
   {
@@ -927,9 +927,9 @@
    ]
   },
   {
-   "title": "Décès de Jean-Paul Rappeneau, incarnation d’une légèreté si française…",
+   "title": "Pierre Salvadori : “Les films de Jean-Paul Rappeneau déclenchent une sorte d’ivresse heureuse”",
    "url": "https://www.liberation.fr/culture/cinema/mort-de-jean-paul-rappeneau-un-cineaste-qui-a-de-lallure-20260902_RI6BISXMFZD7DB7DBRXL3TRMJU/",
-   "n_members": 39,
+   "n_members": 40,
    "n_sources": 25,
    "counts": {
     "left": 8,
@@ -943,23 +943,23 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.19,
+   "divergence": 0.194,
    "category": "culture",
    "terms_left": [
     "mort jean-paul",
     "mort",
-    "jean-paul rappeneau"
+    "rappeneau mort"
    ],
    "terms_right": [
+    "ans",
     "âge",
-    "âge ans",
-    "ans"
+    "âge ans"
    ]
   },
   {
    "title": "Crue au Népal : prisonniers dans un tunnel depuis dix jours, deux ouvriers miraculeusement sauvés",
    "url": "https://www.leparisien.fr/environnement/crue-devastatrice-au-nepal-comment-les-experts-francais-tentent-de-comprendre-la-catastrophe-a-plusieurs-milliers-de-kilometres-27-08-2026-ZM4CDO4YK5DAFLRBNN6NBJGZOU.php",
-   "n_members": 121,
+   "n_members": 123,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -977,13 +977,13 @@
    "category": "international",
    "terms_left": [
     "sortis",
-    "jours catastrophe",
-    "ouvriers retrouvés"
+    "ouvriers retrouvés",
+    "jours catastrophe"
    ],
    "terms_right": [
     "qu",
-    "jours crue",
-    "français"
+    "français",
+    "jours crue"
    ]
   },
   {
@@ -1175,7 +1175,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.405,
+   "divergence": 0.404,
    "category": "international",
    "terms_left": [
     "climatique",
