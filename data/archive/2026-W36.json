@@ -1,6 +1,6 @@
 {
  "week": "2026-W36",
- "generated_at": "2026-09-04T23:36:45+00:00",
+ "generated_at": "2026-09-05T01:57:57+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.364,
+   "divergence": 0.365,
    "category": "international",
    "terms_left": [
     "iraniens",
@@ -602,6 +602,36 @@
     "assassinat",
     "condamné",
     "parc"
+   ]
+  },
+  {
+   "title": "Emmanuel Macron présente des mesures pour le handicap en 2030",
+   "url": "https://information.tv5monde.com/international/rentree-politique-pour-andy-burnham-confronte-ses-premiers-tests-2835489",
+   "n_members": 43,
+   "n_sources": 26,
+   "counts": {
+    "left": 8,
+    "centre": 12,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 11,
+    "opinion": 3
+   },
+   "blindspot_score": -0.143,
+   "blindspot_for": null,
+   "divergence": 0.582,
+   "category": "société",
+   "terms_left": [
+    "nationale",
+    "handicap",
+    "conférence nationale"
+   ],
+   "terms_right": [
+    "tva sociale",
+    "sociale",
+    "bobigny"
    ]
   },
   {
@@ -757,7 +787,7 @@
   {
    "title": "Sécheresse : un plan d’aide à plus d’un milliard d’euros pour soutenir les agriculteurs",
    "url": "https://france3-regions.franceinfo.fr/ca-me-tord-le-ventre-entre-passion-et-eco-anxiete-le-quotidien-bouleverse-de-deux-jeunes-agriculteurs-face-au-changement-climatique-3409532.html",
-   "n_members": 55,
+   "n_members": 56,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -771,47 +801,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.538,
+   "divergence": 0.525,
    "category": "environnement",
    "terms_left": [
     "cours eau",
     "cours",
-    "agricole"
+    "secteur"
    ],
    "terms_right": [
     "euros",
     "agriculteurs",
     "milliard"
-   ]
-  },
-  {
-   "title": "Handicap : Emmanuel Macron promet une société \"pleinement accessible\"",
-   "url": "https://www.humanite.fr/social-et-economie/financement-securite-sociale/quest-ce-que-la-tva-sociale-larnaque-patronale-que-veut-imposer-le-medef",
-   "n_members": 39,
-   "n_sources": 25,
-   "counts": {
-    "left": 8,
-    "centre": 11,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 11,
-    "opinion": 3
-   },
-   "blindspot_score": -0.143,
-   "blindspot_for": null,
-   "divergence": 0.57,
-   "category": "société",
-   "terms_left": [
-    "handicap",
-    "nationale",
-    "conférence nationale"
-   ],
-   "terms_right": [
-    "bobigny",
-    "présidentielle",
-    "tva sociale"
    ]
   },
   {
@@ -1027,7 +1027,7 @@
   {
    "title": "Rentrée scolaire à New York : temps d’écran limité et intelligence artificielle interdite jusqu’au lycée",
    "url": "https://www.sudouest.fr/politique/fin-de-l-experimentation-de-l-uniforme-scolaire-en-france-l-etat-nous-a-sollicites-pour-aucun-compte-rendu-regrette-le-maire-bearnais-d-une-commune-volontaire-30419556.php",
-   "n_members": 55,
+   "n_members": 57,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -1052,6 +1052,36 @@
     "lycée",
     "ia",
     "présidentielle"
+   ]
+  },
+  {
+   "title": "Crue dévastatrice au Népal et au Tibet : le bilan passe à 1 280 morts, forte hausse du nombre de disparus à 5 624",
+   "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/en-images-apres-les-crues-meurtrieres-au-nepal-un-paysage-apocalyptique-et-des-degats-considerables_8166131.html",
+   "n_members": 55,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 14,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 1
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.368,
+   "category": "international",
+   "terms_left": [
+    "quinzaine",
+    "mort",
+    "népal"
+   ],
+   "terms_right": [
+    "états-unis",
+    "grand canyon",
+    "canyon"
    ]
   },
   {
@@ -1172,36 +1202,6 @@
     "harald",
     "roi",
     "ans"
-   ]
-  },
-  {
-   "title": "Pic de chaleur ce week-end: jusqu'à 40°C dans la moitié sud du pays",
-   "url": "http://fr.euronews.com/my-europe/2026/08/27/litalie-fait-face-a-la-vague-de-chaleur-la-plus-intense-de-lete-avec-des-maximales-atteign",
-   "n_members": 80,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.67,
-   "category": "environnement",
-   "terms_left": [
-    "partir",
-    "épisode chaleur",
-    "nouvel"
-   ],
-   "terms_right": [
-    "jusqu",
-    "mois",
-    "jours"
    ]
   }
  ]
