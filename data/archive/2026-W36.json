@@ -1,13 +1,13 @@
 {
  "week": "2026-W36",
- "generated_at": "2026-09-06T04:55:35+00:00",
+ "generated_at": "2026-09-06T09:04:08+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "Népal : le bilan s'alourdit à 1 225 morts et 4 757 disparus",
+   "title": "Népal: après les crues meurtrières du 26 août, les recherches se poursuivent pour retrouver les milliers de disparus",
    "url": "https://www.sudouest.fr/international/chine/chine-une-coulee-de-boue-cote-nepalais-a-fait-de-nombreuses-victimes-au-tibet-30371272.php",
-   "n_members": 377,
+   "n_members": 379,
    "n_sources": 34,
    "counts": {
     "left": 8,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.374,
+   "divergence": 0.375,
    "category": "international",
    "terms_left": [
     "allemagne accuse",
@@ -185,9 +185,9 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : comment la question du port du voile a fait son retour dans le débat politique",
+   "title": "Voile islamique : Mobilisés contre la proposition du RN, des internautes se couvrent la tête",
    "url": "https://www.leparisien.fr/elections/presidentielle/elles-auront-une-amende-en-cas-delection-de-marine-le-pen-a-la-presidentielle-les-femmes-portant-le-voile-seront-sanctionnees-30-08-2026-GU2ZGE7NJNBIVOIWNISEILGYWI.php",
-   "n_members": 103,
+   "n_members": 104,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.281,
+   "divergence": 0.286,
    "category": "politique",
    "terms_left": [
     "interdiction voile",
@@ -210,8 +210,8 @@
    ],
    "terms_right": [
     "port",
-    "veut",
-    "français"
+    "port voile",
+    "veut"
    ]
   },
   {
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.376,
+   "divergence": 0.375,
    "category": "international",
    "terms_left": [
     "adhésion ue",
@@ -261,11 +261,11 @@
    },
    "blindspot_score": -0.059,
    "blindspot_for": null,
-   "divergence": 0.673,
+   "divergence": 0.684,
    "category": "économie",
    "terms_left": [
+    "urgence",
     "ministère",
-    "attaque",
     "canicule"
    ],
    "terms_right": [
@@ -291,16 +291,16 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.441,
+   "divergence": 0.455,
    "category": "international",
    "terms_left": [
     "etats-unis",
-    "pétrole",
-    "etats-unis venezuela"
+    "etats-unis venezuela",
+    "pétrole"
    ],
    "terms_right": [
-    "grand",
     "états-unis",
+    "grand",
     "histoire"
    ]
   },
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.321,
+   "divergence": 0.323,
    "category": "international",
    "terms_left": [
     "direct",
@@ -332,6 +332,36 @@
     "frappe",
     "frappe russe",
     "ukraine morts"
+   ]
+  },
+  {
+   "title": "Guerre en Iran: les Gardiens de la Révolution disent avoir attaqué des pétroliers liés aux États-Unis en représailles aux frappes",
+   "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
+   "n_members": 157,
+   "n_sources": 28,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.363,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "etats-unis iran",
+    "emirats"
+   ],
+   "terms_right": [
+    "guerre moyen-orient",
+    "guerre",
+    "états-unis"
    ]
   },
   {
@@ -441,17 +471,17 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.399,
+   "divergence": 0.434,
    "category": "environnement",
    "terms_left": [
-    "intensité forte",
     "jusqu",
-    "onu prévoit"
+    "onu prévoit",
+    "intensité forte"
    ],
    "terms_right": [
     "épisode",
     "panama",
-    "canal panama"
+    "températures"
    ]
   },
   {
@@ -485,36 +515,6 @@
    ]
   },
   {
-   "title": "Les Etats-Unis annoncent avoir frappé trois pétroliers iraniens",
-   "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
-   "n_members": 152,
-   "n_sources": 27,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.379,
-   "category": "international",
-   "terms_left": [
-    "etats-unis",
-    "etats-unis iran",
-    "frappes iran"
-   ],
-   "terms_right": [
-    "états-unis",
-    "guerre",
-    "ormuz"
-   ]
-  },
-  {
    "title": "Crise migratoire de Ceuta : Pedro Sánchez dédouane encore le Maroc mais réaffirme la souveraineté espagnole",
    "url": "https://www.rfi.fr/fr/afrique/20260817-ceuta-un-camerounais-arriv%C3%A9-dans-l-enclave-espagnole-t%C3%A9moigne-sur-ses-conditions-de-vie",
    "n_members": 131,
@@ -531,23 +531,53 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.533,
+   "divergence": 0.542,
    "category": "international",
    "terms_left": [
+    "devant",
     "crise ceuta",
-    "fin",
-    "devant"
+    "fin"
    ],
    "terms_right": [
     "migratoire",
     "crise migratoire",
-    "migrants"
+    "espagne"
+   ]
+  },
+  {
+   "title": "L'extrême droite en tête des élections régionales en Allemagne : le retour des vieux démons ?",
+   "url": "https://www.lemonde.fr/idees/article/2026/09/02/en-allemagne-un-land-gouverne-par-l-afd-en-ferait-un-laboratoire-pour-les-projets-du-parti-le-plus-radical-des-droites-europeennes_6763872_3232.html",
+   "n_members": 86,
+   "n_sources": 27,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.354,
+   "category": "international",
+   "terms_left": [
+    "gouvernement",
+    "droite allemande",
+    "guerre"
+   ],
+   "terms_right": [
+    "alternative",
+    "élection",
+    "parti"
    ]
   },
   {
    "title": "Immigration, signature d'un accord... Au congrès annuel de Reform UK, Jordan Bardella en quête d'alliés pour le RN",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/histoire-politique/histoires-politiques-du-jeudi-03-septembre-2026-5778203",
-   "n_members": 55,
+   "n_members": 58,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -561,17 +591,17 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.474,
+   "divergence": 0.47,
    "category": "politique",
    "terms_left": [
-    "prévoit",
     "farage protocole",
-    "parti"
+    "parti",
+    "prévoit"
    ],
    "terms_right": [
     "jordan",
-    "bardella",
-    "jordan bardella"
+    "accord",
+    "bardella"
    ]
   },
   {
@@ -591,7 +621,7 @@
    },
    "blindspot_score": 0.733,
    "blindspot_for": "gauche",
-   "divergence": 0.758,
+   "divergence": 0.759,
    "category": "économie",
    "terms_left": [
     "rentrée",
@@ -601,13 +631,13 @@
    "terms_right": [
     "france",
     "retailleau",
-    "ministre"
+    "bruno retailleau"
    ]
   },
   {
    "title": "Présidentielle 2027 : à défaut de ralliements politiques, Gabriel Attal s’entoure de «nouveaux visages»",
    "url": "https://www.europe1.fr/societe/les-hommes-politiques-ne-sont-pas-trop-payes-pascal-praud-debat-avec-un-auditeur-sur-la-remuneration-des-elus-1040768",
-   "n_members": 63,
+   "n_members": 64,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -621,17 +651,17 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.673,
+   "divergence": 0.678,
    "category": "politique",
    "terms_left": [
     "céline",
-    "géraud",
-    "céline géraud"
+    "céline géraud",
+    "géraud"
    ],
    "terms_right": [
     "marine",
-    "hollande",
-    "marine pen"
+    "marine pen",
+    "pen"
    ]
   },
   {
@@ -689,7 +719,7 @@
   {
    "title": "Guerre en Ukraine : Trump envoie ses émissaires à Moscou et à Kiev",
    "url": "https://www.tf1info.fr/international/video-c-est-un-double-message-des-russes-pourquoi-moscou-decide-de-frapper-le-siege-des-services-de-securite-ukrainiens-a-kiev-avant-la-venue-d-emissaires-americains-2462402.html",
-   "n_members": 100,
+   "n_members": 113,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -703,7 +733,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.383,
+   "divergence": 0.374,
    "category": "international",
    "terms_left": [
     "détroit",
@@ -711,8 +741,8 @@
     "détroit ormuz"
    ],
    "terms_right": [
-    "kiev",
     "américains",
+    "kiev",
     "émissaires américains"
    ]
   },
@@ -733,7 +763,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.195,
+   "divergence": 0.196,
    "category": "culture",
    "terms_left": [
     "affaires violences",
@@ -763,7 +793,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.251,
+   "divergence": 0.25,
    "category": "international",
    "terms_left": [
     "vote correspondance",
@@ -823,7 +853,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.543,
+   "divergence": 0.544,
    "category": "société",
    "terms_left": [
     "eglise",
@@ -853,7 +883,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.708,
+   "divergence": 0.709,
    "category": "politique",
    "terms_left": [
     "amitié",
@@ -864,36 +894,6 @@
     "retailleau",
     "bruno retailleau",
     "bruno"
-   ]
-  },
-  {
-   "title": "L'extrême droite en tête des élections régionales en Allemagne : le retour des vieux démons ?",
-   "url": "https://www.lemonde.fr/idees/article/2026/09/02/en-allemagne-un-land-gouverne-par-l-afd-en-ferait-un-laboratoire-pour-les-projets-du-parti-le-plus-radical-des-droites-europeennes_6763872_3232.html",
-   "n_members": 66,
-   "n_sources": 25,
-   "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.434,
-   "category": "international",
-   "terms_left": [
-    "veille",
-    "retour",
-    "milliers"
-   ],
-   "terms_right": [
-    "ulrich siegmund",
-    "siegmund",
-    "ulrich"
    ]
   },
   {
@@ -973,17 +973,17 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.195,
+   "divergence": 0.194,
    "category": "culture",
    "terms_left": [
     "mort jean-paul",
     "mort",
-    "rappeneau mort"
+    "jean-paul rappeneau"
    ],
    "terms_right": [
-    "ans",
     "âge",
-    "âge ans"
+    "âge ans",
+    "ans"
    ]
   },
   {
@@ -1013,7 +1013,7 @@
    "terms_right": [
     "qu",
     "armée",
-    "jours crue"
+    "français"
    ]
   },
   {
@@ -1093,7 +1093,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.753,
+   "divergence": 0.724,
    "category": "politique",
    "terms_left": [
     "bolloré",
@@ -1175,17 +1175,17 @@
    },
    "blindspot_score": -0.167,
    "blindspot_for": null,
-   "divergence": 0.924,
+   "divergence": 0.927,
    "category": "international",
    "terms_left": [
     "trump",
-    "ia",
-    "enquête"
+    "enquête",
+    "droits"
    ],
    "terms_right": [
+    "chine",
     "euros",
-    "incendies",
-    "grande"
+    "incendies"
    ]
   }
  ]
