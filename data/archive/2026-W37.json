@@ -1,6 +1,6 @@
 {
  "week": "2026-W37",
- "generated_at": "2026-09-07T20:04:50+00:00",
+ "generated_at": "2026-09-07T22:56:08+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -35,9 +35,9 @@
    ]
   },
   {
-   "title": "Elections régionales en Allemagne : le parti de l'AfD gouvernera t-il en Saxe-Anhalt ?",
+   "title": "Allemagne : très large victoire de l'AfD à l'élection régionale en Saxe-Anhalt",
    "url": "https://www.lemonde.fr/idees/article/2026/09/02/en-allemagne-un-land-gouverne-par-l-afd-en-ferait-un-laboratoire-pour-les-projets-du-parti-le-plus-radical-des-droites-europeennes_6763872_3232.html",
-   "n_members": 263,
+   "n_members": 267,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.158,
    "blindspot_for": null,
-   "divergence": 0.167,
+   "divergence": 0.165,
    "category": "international",
    "terms_left": [
     "absolue",
@@ -127,7 +127,7 @@
   {
    "title": "Guerre en Ukraine: les émissaires étatsuniens Kushner et Witkoff en mission à Moscou et Kiev",
    "url": "https://www.tf1info.fr/international/video-c-est-un-double-message-des-russes-pourquoi-moscou-decide-de-frapper-le-siege-des-services-de-securite-ukrainiens-a-kiev-avant-la-venue-d-emissaires-americains-2462402.html",
-   "n_members": 178,
+   "n_members": 179,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.211,
+   "divergence": 0.216,
    "category": "international",
    "terms_left": [
     "direct",
@@ -151,13 +151,13 @@
    "terms_right": [
     "russe",
     "kiev",
-    "moscou kiev"
+    "veille"
    ]
   },
   {
    "title": "Accord sur l'immigration avec Nigel Farage : Jordan Bardella précise ses ambitions à l’international",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/histoire-politique/histoires-politiques-du-jeudi-03-septembre-2026-5778203",
-   "n_members": 74,
+   "n_members": 75,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -185,9 +185,9 @@
    ]
   },
   {
-   "title": "Réseaux sociaux : Emmanuel Macron plaide pour une interdiction au niveau européen pour les moins de 15 ans",
+   "title": "Interdiction des réseaux sociaux aux moins de 15 ans : Emmanuel Macron réclame un texte européen",
    "url": "https://information.tv5monde.com/international/rentree-politique-pour-andy-burnham-confronte-ses-premiers-tests-2835489",
-   "n_members": 54,
+   "n_members": 56,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -201,17 +201,17 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.629,
+   "divergence": 0.637,
    "category": "société",
    "terms_left": [
     "handicap",
-    "nationale handicap",
-    "conférence nationale"
+    "nationale",
+    "conférence"
    ],
    "terms_right": [
-    "ans",
     "réseaux sociaux",
-    "sociaux"
+    "sociaux",
+    "réseaux"
    ]
   },
   {
@@ -335,9 +335,39 @@
    ]
   },
   {
+   "title": "Intelligence artificielle : des agents d’OpenAI se seraient coordonnés tout seuls bien avant la cyberattaque de Hugging Face",
+   "url": "https://www.leprogres.fr/science-et-technologie/2026/08/31/chatgpt-bientot-soumis-a-des-regles-renforcees-dans-l-union-europeenne",
+   "n_members": 53,
+   "n_sources": 26,
+   "counts": {
+    "left": 4,
+    "centre": 16,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 1
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.753,
+   "category": "sciences-tech",
+   "terms_left": [
+    "site",
+    "astra",
+    "lance"
+   ],
+   "terms_right": [
+    "ia",
+    "agents",
+    "forum"
+   ]
+  },
+  {
    "title": "\"Témoigner de la honte de l'Église\": le pape Léon à XIV recevra sept victimes de violences sexuelles à Lourdes mais pas le collectif de Bétharram",
    "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-du-pape-a-metz-les-tarifs-des-chambres-grimpent-en-fleche-pour-la-venue-du-souverain-pontife-fin-septembre_8152271.html",
-   "n_members": 72,
+   "n_members": 74,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -351,17 +381,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.525,
+   "divergence": 0.509,
    "category": "société",
    "terms_left": [
     "collectif",
-    "bétharram",
-    "victimes"
+    "victimes",
+    "bétharram"
    ],
    "terms_right": [
+    "pape",
     "visite",
-    "france",
-    "pape"
+    "france"
    ]
   },
   {
@@ -422,36 +452,6 @@
     "france",
     "voile",
     "politique"
-   ]
-  },
-  {
-   "title": "Intelligence artificielle : des agents d’OpenAI se seraient coordonnés tout seuls bien avant la cyberattaque de Hugging Face",
-   "url": "https://www.leprogres.fr/science-et-technologie/2026/08/31/chatgpt-bientot-soumis-a-des-regles-renforcees-dans-l-union-europeenne",
-   "n_members": 51,
-   "n_sources": 25,
-   "counts": {
-    "left": 4,
-    "centre": 16,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 1
-   },
-   "blindspot_score": 0.111,
-   "blindspot_for": null,
-   "divergence": 0.756,
-   "category": "sciences-tech",
-   "terms_left": [
-    "site",
-    "lance",
-    "pris"
-   ],
-   "terms_right": [
-    "ia",
-    "règles",
-    "agents"
    ]
   },
   {
@@ -545,6 +545,36 @@
    ]
   },
   {
+   "title": "Au Royaume-Uni, l’accès au port de Douvres brièvement perturbé par des manifestants anti-immigration cagoulés",
+   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260831-mexique-les-familles-des-disparus-prennent-une-nouvelle-fois-la-rue-pour-r%C3%A9clamer-de-l-aide",
+   "n_members": 64,
+   "n_sources": 24,
+   "counts": {
+    "left": 6,
+    "centre": 9,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.626,
+   "category": "international",
+   "terms_left": [
+    "manche",
+    "maroc",
+    "ministre"
+   ],
+   "terms_right": [
+    "migratoire ceuta",
+    "migratoire",
+    "migrants"
+   ]
+  },
+  {
    "title": "Consigne recyclage bouteilles : le gouvernement recule",
    "url": "https://www.nicematin.com/societe/education/drapeau-marseillaise-levee-des-couleurs-ce-qu-eric-ciotti-veut-changer-dans-les-ecoles-de-nice-des-la-rentree-10713247",
    "n_members": 63,
@@ -572,36 +602,6 @@
     "nice",
     "éric ciotti",
     "éric"
-   ]
-  },
-  {
-   "title": "Au Royaume-Uni, l’accès au port de Douvres brièvement perturbé par des manifestants anti-immigration cagoulés",
-   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260831-mexique-les-familles-des-disparus-prennent-une-nouvelle-fois-la-rue-pour-r%C3%A9clamer-de-l-aide",
-   "n_members": 63,
-   "n_sources": 24,
-   "counts": {
-    "left": 6,
-    "centre": 9,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 9,
-    "opinion": 5
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.621,
-   "category": "international",
-   "terms_left": [
-    "maroc",
-    "ministre",
-    "crise ceuta"
-   ],
-   "terms_right": [
-    "face",
-    "migrants",
-    "migratoire"
    ]
   },
   {
@@ -711,17 +711,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.559,
+   "divergence": 0.569,
    "category": "faits-divers",
    "terms_left": [
-    "examen placé",
-    "sexuelles",
-    "placé"
+    "placé",
+    "détention",
+    "placé détention"
    ],
    "terms_right": [
     "écroué",
-    "membre présumé",
-    "pirates"
+    "lyon",
+    "tête"
    ]
   },
   {
@@ -741,7 +741,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.893,
+   "divergence": 0.895,
    "category": "économie",
    "terms_left": [
     "europe",
@@ -752,6 +752,36 @@
     "prix",
     "budget",
     "pouvoir"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : « pourquoi pas », Sarah Knafo pourrait participer à un gouvernement Bardella",
+   "url": "https://www.bfmtv.com/politique/parti-socialiste/video-presidentielle-2027-il-n-y-avait-pas-un-monde-ou-nous-ne-ferions-pas-campagne-avec-le-parti-socialiste-assure-aurore-lalucq-co-presidente-place-publique_VN-202608290162.html",
+   "n_members": 75,
+   "n_sources": 21,
+   "counts": {
+    "left": 5,
+    "centre": 8,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.631,
+   "category": "politique",
+   "terms_left": [
+    "edouard",
+    "edouard philippe",
+    "rentrée"
+   ],
+   "terms_right": [
+    "édouard",
+    "candidat",
+    "président"
    ]
   },
   {
@@ -806,7 +836,7 @@
    "terms_left": [
     "record dons",
     "streameur",
-    "goals"
+    "donation goals"
    ],
    "terms_right": [
     "récoltés",
@@ -875,9 +905,9 @@
    ]
   },
   {
-   "title": "Éducation : dans 69% des établissements, il manque au moins un personnel éducatif, alerte le Snes-FSU",
+   "title": "Rentrée scolaire : des professeurs manquants dans 53% des collèges et lycées, selon le premier syndicat du second degré",
    "url": "https://www.bfmtv.com/immobilier/meme-le-logement-social-devient-inaccessible-60-des-loyers-du-parc-social-sont-superieurs-au-plafond-des-apl-12-ans-plus-tot-c-etait-39_AD-202609010767.html",
-   "n_members": 47,
+   "n_members": 48,
    "n_sources": 21,
    "counts": {
     "left": 5,
@@ -891,7 +921,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.625,
+   "divergence": 0.603,
    "category": "société",
    "terms_left": [
     "devant",
@@ -937,7 +967,7 @@
   {
    "title": "Un avion-cargo d'Amazon sort de piste à Miami aux États-Unis et percute des véhicules",
    "url": "https://www.lemonde.fr/international/article/2026/09/03/les-etats-unis-ont-coule-un-navire-suspecte-de-contribuer-au-narcotrafic-en-equateur_6764924_3210.html",
-   "n_members": 50,
+   "n_members": 53,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -951,7 +981,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.528,
+   "divergence": 0.52,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -1025,6 +1055,66 @@
    ]
   },
   {
+   "title": "Après avoir été enlevé en Colombie, un soldat de la Légion étrangère française réussit à échapper à ses ravisseurs",
+   "url": "https://www.nicematin.com/societe/defense/retenu-en-otage-par-des-ex-farc-le-soldat-de-la-legion-etrangere-francaise-enleve-en-colombie-a-reussi-a-s-echapper-10719535",
+   "n_members": 25,
+   "n_sources": 20,
+   "counts": {
+    "left": 2,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 4,
+    "opinion": 3
+   },
+   "blindspot_score": 0.556,
+   "blindspot_for": null,
+   "divergence": 0.433,
+   "category": "international",
+   "terms_left": [
+    "pris",
+    "pris otage",
+    "colombie soldat"
+   ],
+   "terms_right": [
+    "colombie",
+    "pays",
+    "police"
+   ]
+  },
+  {
+   "title": "Budget 2027 : Matignon annonce saisir la justice après une fuite sur «des travaux internes» autour de l'épargne salariale",
+   "url": "https://www.bfmtv.com/economie/entreprises/cette-mesure-pourrait-rapporter-1-milliard-d-euros-alors-qu-il-prepare-le-projet-de-budget-pour-2027-le-gouvernement-envisage-de-prelever-des-cotisations-sociales-sur-l-epargne-salariale-pour-reduire-le-deficit-de-la-securite-sociale_AV-202609060225.html",
+   "n_members": 31,
+   "n_sources": 19,
+   "counts": {
+    "left": 3,
+    "centre": 8,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.455,
+   "blindspot_for": null,
+   "divergence": 0.437,
+   "category": "économie",
+   "terms_left": [
+    "transmis",
+    "transmis procureure",
+    "paris"
+   ],
+   "terms_right": [
+    "épargne salariale",
+    "salariale",
+    "épargne"
+   ]
+  },
+  {
    "title": "Rachida Dati va redevenir magistrate, à quelques jours de son procès pour corruption",
    "url": "https://www.nouvelobs.com/justice/20260904.OBS117939/info-nouvel-obs-rachida-dati-va-redevenir-officiellement-magistrate.html",
    "n_members": 27,
@@ -1041,17 +1131,47 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.396,
+   "divergence": 0.35,
    "category": "politique",
    "terms_left": [
-    "tribunal",
+    "dati redevenir",
     "redevenir",
-    "dati redevenir"
+    "tribunal"
    ],
    "terms_right": [
     "ancienne",
     "réintégrer",
     "ancienne garde"
+   ]
+  },
+  {
+   "title": "Paris : la tour Eiffel fermée toute la journée ce lundi en raison d'une grève contre l'éviction du personnel féminin lors de la visite d'un groupe hindou",
+   "url": "https://www.bfmtv.com/societe/greves/video-tour-eiffel-le-monument-parisien-ferme-pour-des-raisons-operationnelles_VN-202609070638.html",
+   "n_members": 27,
+   "n_sources": 19,
+   "counts": {
+    "left": 5,
+    "centre": 7,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 8,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.297,
+   "category": "société",
+   "terms_left": [
+    "privée",
+    "visite privée",
+    "employées"
+   ],
+   "terms_right": [
+    "fermée",
+    "raison grève",
+    "paris"
    ]
   },
   {
@@ -1075,125 +1195,13 @@
    "category": "environnement",
    "terms_left": [
     "départements sud",
-    "aude drôme",
-    "ardèche aude"
+    "ardèche aude",
+    "aude drôme"
    ],
    "terms_right": [
     "placés vigilance",
     "placés",
     "météo-france"
-   ]
-  },
-  {
-   "title": "L'horoscope du samedi 5 septembre 2026",
-   "url": "https://www.sudradio.fr/horoscope/horoscope-du-samedi-15-aout-amour-travail-finances-les-previsions-des-astres-pour-votre-signe",
-   "n_members": 70,
-   "n_sources": 18,
-   "counts": {
-    "left": 5,
-    "centre": 7,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.926,
-   "category": "international",
-   "terms_left": [
-    "guerre",
-    "week-end",
-    "gauche"
-   ],
-   "terms_right": [
-    "heures",
-    "travail",
-    "tf"
-   ]
-  },
-  {
-   "title": "Liban: quatre morts dans des frappes israéliennes, selon Beyrouth",
-   "url": "https://www.courrierinternational.com/article/epidemie-en-rdc-une-rentree-scolaire-differenciee-sous-le-signe-d-ebola_265244",
-   "n_members": 65,
-   "n_sources": 18,
-   "counts": {
-    "left": 2,
-    "centre": 12,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 3,
-    "opinion": 1
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.845,
-   "category": "international",
-   "terms_left": [
-    "yémen",
-    "rebelles",
-    "gouvernementales"
-   ],
-   "terms_right": [
-    "accident",
-    "avion",
-    "armée"
-   ]
-  },
-  {
-   "title": "REPORTAGE. Céline Dion : à une semaine de son premier concert, Paris se prépare et les fans s’enflamment",
-   "url": "https://www.leparisien.fr/culture-loisirs/musique/celine-dion-est-arrivee-a-paris-pour-preparer-ses-concerts-a-la-plenitude-arena-28-08-2026-XXHRDD23GZC6RFCYSZFCFS6OOA.php",
-   "n_members": 51,
-   "n_sources": 18,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.56,
-   "category": "culture",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Budget 2027 : Matignon annonce saisir la justice après une fuite sur «des travaux internes» autour de l'épargne salariale",
-   "url": "https://www.bfmtv.com/economie/entreprises/cette-mesure-pourrait-rapporter-1-milliard-d-euros-alors-qu-il-prepare-le-projet-de-budget-pour-2027-le-gouvernement-envisage-de-prelever-des-cotisations-sociales-sur-l-epargne-salariale-pour-reduire-le-deficit-de-la-securite-sociale_AV-202609060225.html",
-   "n_members": 30,
-   "n_sources": 18,
-   "counts": {
-    "left": 2,
-    "centre": 8,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": 0.422,
-   "category": "économie",
-   "terms_left": [
-    "transmis",
-    "transmis procureure",
-    "paris"
-   ],
-   "terms_right": [
-    "épargne salariale",
-    "salariale",
-    "épargne"
    ]
   }
  ]
