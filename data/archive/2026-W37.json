@@ -1,6 +1,6 @@
 {
  "week": "2026-W37",
- "generated_at": "2026-09-07T10:35:12+00:00",
+ "generated_at": "2026-09-07T16:13:30+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.188,
+   "divergence": 0.19,
    "category": "international",
    "terms_left": [
     "inondations népal",
@@ -32,6 +32,36 @@
     "coulée boue",
     "coulée",
     "crue népal"
+   ]
+  },
+  {
+   "title": "Elections régionales en Allemagne : le parti de l'AfD gouvernera t-il en Saxe-Anhalt ?",
+   "url": "https://www.lemonde.fr/idees/article/2026/09/02/en-allemagne-un-land-gouverne-par-l-afd-en-ferait-un-laboratoire-pour-les-projets-du-parti-le-plus-radical-des-droites-europeennes_6763872_3232.html",
+   "n_members": 230,
+   "n_sources": 33,
+   "counts": {
+    "left": 8,
+    "centre": 14,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 11,
+    "opinion": 5
+   },
+   "blindspot_score": 0.158,
+   "blindspot_for": null,
+   "divergence": 0.182,
+   "category": "international",
+   "terms_left": [
+    "absolue",
+    "majorité absolue",
+    "saxe-anhalt parti"
+   ],
+   "terms_right": [
+    "élection régionale",
+    "régionale",
+    "score"
    ]
   },
   {
@@ -65,47 +95,17 @@
    ]
   },
   {
-   "title": "Elections régionales en Allemagne : le parti de l'AfD gouvernera t-il en Saxe-Anhalt ?",
-   "url": "https://www.lemonde.fr/idees/article/2026/09/02/en-allemagne-un-land-gouverne-par-l-afd-en-ferait-un-laboratoire-pour-les-projets-du-parti-le-plus-radical-des-droites-europeennes_6763872_3232.html",
-   "n_members": 194,
-   "n_sources": 32,
-   "counts": {
-    "left": 7,
-    "centre": 14,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 10,
-    "opinion": 5
-   },
-   "blindspot_score": 0.222,
-   "blindspot_for": null,
-   "divergence": 0.195,
-   "category": "international",
-   "terms_left": [
-    "absolue",
-    "majorité absolue",
-    "majorité"
-   ],
-   "terms_right": [
-    "score",
-    "élection",
-    "élection régionale"
-   ]
-  },
-  {
    "title": "Russie: Sergueï Lavrov accuse l'Allemagne de vouloir «à nouveau» la guerre",
    "url": "https://www.rfi.fr/fr/europe/20260824-allemagne-le-parti-d-extr%C3%AAme-droite-afd-aux-portes-du-pouvoir-en-saxe-anhaltau",
-   "n_members": 115,
-   "n_sources": 32,
+   "n_members": 117,
+   "n_sources": 33,
    "counts": {
     "left": 7,
-    "centre": 14,
+    "centre": 15,
     "right": 11
    },
    "style_counts": {
-    "factuel": 18,
+    "factuel": 19,
     "mixte": 10,
     "opinion": 4
    },
@@ -127,21 +127,21 @@
   {
    "title": "Guerre en Ukraine: les émissaires étatsuniens Kushner et Witkoff en mission à Moscou et Kiev",
    "url": "https://www.tf1info.fr/international/video-c-est-un-double-message-des-russes-pourquoi-moscou-decide-de-frapper-le-siege-des-services-de-securite-ukrainiens-a-kiev-avant-la-venue-d-emissaires-americains-2462402.html",
-   "n_members": 168,
-   "n_sources": 29,
+   "n_members": 175,
+   "n_sources": 30,
    "counts": {
     "left": 6,
-    "centre": 13,
+    "centre": 14,
     "right": 10
    },
    "style_counts": {
-    "factuel": 17,
+    "factuel": 18,
     "mixte": 9,
     "opinion": 3
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.221,
+   "divergence": 0.211,
    "category": "international",
    "terms_left": [
     "direct",
@@ -151,13 +151,13 @@
    "terms_right": [
     "russe",
     "kiev",
-    "émissaires américains"
+    "moscou kiev"
    ]
   },
   {
-   "title": "\"Protocole d’accord\" signé avec Nigel Farage : Jordan Bardella promet de \"réduire la voilure en matière d'immigration\" en France et en Angleterre si le RN remporte la présidentielle de 2027",
+   "title": "Accord sur l'immigration avec Nigel Farage : Jordan Bardella précise ses ambitions à l’international",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/histoire-politique/histoires-politiques-du-jeudi-03-septembre-2026-5778203",
-   "n_members": 73,
+   "n_members": 74,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -171,17 +171,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.373,
+   "divergence": 0.356,
    "category": "politique",
    "terms_left": [
-    "ukraine",
-    "signature",
-    "britannique nigel"
+    "droite",
+    "extrême droite",
+    "extrême"
    ],
    "terms_right": [
     "leader",
     "birmingham",
-    "bardella"
+    "accord"
    ]
   },
   {
@@ -215,9 +215,39 @@
    ]
   },
   {
-   "title": "Canicule, sécheresse, incendies : notre maison brûle, le temps de l’adaptation est venu",
+   "title": "Canal de Panama : El Niño aggrave la sécheresse, le nombre de navires autorisés à passer encore réduit, et ce n’est pas terminé…",
+   "url": "https://www.lemonde.fr/economie/article/2026/09/01/dans-le-canal-de-panama-el-nino-impose-une-baisse-du-trafic-maritime-et-l-envolee-des-prix-de-passage_6763087_3234.html",
+   "n_members": 49,
+   "n_sources": 28,
+   "counts": {
+    "left": 7,
+    "centre": 15,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": -0.077,
+   "blindspot_for": null,
+   "divergence": 0.397,
+   "category": "environnement",
+   "terms_left": [
+    "intensité",
+    "forte",
+    "onu"
+   ],
+   "terms_right": [
+    "panama",
+    "phénomène",
+    "canal panama"
+   ]
+  },
+  {
+   "title": "« On s’écharpe pour 30 % des situations » : face au risque de canicule, comment adapter nos logements sans tout climatiser ?",
    "url": "https://www.leparisien.fr/international/allemagne/canicules-en-allemagne-nouveau-record-de-deces-lies-a-la-chaleur-cet-ete-environ-15-800-morts-27-08-2026-5OM4FCDVAZBYFNI5CRJ3S3WIBE.php",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -231,91 +261,31 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.729,
+   "divergence": 0.739,
    "category": "environnement",
    "terms_left": [
+    "chaud",
     "gouvernement",
-    "chaud enregistré",
-    "enregistré"
+    "chaud enregistré"
    ],
    "terms_right": [
-    "températures",
-    "pays",
+    "record",
+    "canicule",
     "semaine"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : en meeting à la braderie de Lille, Jean-Luc Mélenchon s'attaque au RN dans le but d'instaurer un duel",
-   "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/montrer-mes-doutes-ma-vulnerabilite-leon-marchand-champion-olympique-de-natation-evoque-son-documentaire_8169854.html",
-   "n_members": 63,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 10,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
-    "opinion": 5
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.683,
-   "category": "politique",
-   "terms_left": [
-    "dette",
-    "française",
-    "partie dette"
-   ],
-   "terms_right": [
-    "voile",
-    "france",
-    "politique"
-   ]
-  },
-  {
-   "title": "Népal : deux nouveaux miraculés, les secours continuent",
-   "url": "https://www.leparisien.fr/environnement/crue-devastatrice-au-nepal-comment-les-experts-francais-tentent-de-comprendre-la-catastrophe-a-plusieurs-milliers-de-kilometres-27-08-2026-ZM4CDO4YK5DAFLRBNN6NBJGZOU.php",
-   "n_members": 126,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.47,
-   "category": "international",
-   "terms_left": [
-    "sortis",
-    "recherches",
-    "face"
-   ],
-   "terms_right": [
-    "crue",
-    "qu",
-    "jours"
    ]
   },
   {
    "title": "Présidentielle 2027 : Le Pen et Bardella, une rentrée toujours pas raccord",
    "url": "https://www.lemonde.fr/societe/article/2026/08/31/vincent-bollore-depose-plainte-pour-association-de-malfaiteurs-contre-des-magistrats-apres-son-renvoi-devant-le-tribunal-pour-corruption_6762587_3224.html",
-   "n_members": 67,
-   "n_sources": 24,
+   "n_members": 68,
+   "n_sources": 25,
    "counts": {
     "left": 7,
-    "centre": 10,
+    "centre": 11,
     "right": 7
    },
    "style_counts": {
-    "factuel": 11,
+    "factuel": 12,
     "mixte": 10,
     "opinion": 3
    },
@@ -335,9 +305,189 @@
    ]
   },
   {
+   "title": "Présidentielle 2027 : en meeting à la braderie de Lille, Jean-Luc Mélenchon s'attaque au RN dans le but d'instaurer un duel",
+   "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/montrer-mes-doutes-ma-vulnerabilite-leon-marchand-champion-olympique-de-natation-evoque-son-documentaire_8169854.html",
+   "n_members": 63,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 10,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.68,
+   "category": "politique",
+   "terms_left": [
+    "dette",
+    "française",
+    "partie dette"
+   ],
+   "terms_right": [
+    "france",
+    "voile",
+    "politique"
+   ]
+  },
+  {
+   "title": "Népal : 10 jours après la crue meurtrière, un troisième rescapé extrait des tunnels",
+   "url": "https://www.leparisien.fr/environnement/crue-devastatrice-au-nepal-comment-les-experts-francais-tentent-de-comprendre-la-catastrophe-a-plusieurs-milliers-de-kilometres-27-08-2026-ZM4CDO4YK5DAFLRBNN6NBJGZOU.php",
+   "n_members": 127,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.47,
+   "category": "international",
+   "terms_left": [
+    "recherches",
+    "sortis",
+    "face"
+   ],
+   "terms_right": [
+    "qu",
+    "jours",
+    "crue"
+   ]
+  },
+  {
+   "title": "40,3°C dans le Tarn : la France bat son record de chaleur pour un mois de septembre",
+   "url": "http://fr.euronews.com/my-europe/2026/08/27/litalie-fait-face-a-la-vague-de-chaleur-la-plus-intense-de-lete-avec-des-maximales-atteign",
+   "n_members": 102,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 14,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.623,
+   "category": "environnement",
+   "terms_left": [
+    "landes",
+    "canicules",
+    "partir"
+   ],
+   "terms_right": [
+    "jusqu",
+    "fin",
+    "pays"
+   ]
+  },
+  {
+   "title": "Le criminel de guerre Ratko Mladic doit être inhumé à Belgrade",
+   "url": "https://www.liberation.fr/international/europe/ratko-mladic-mort-dun-genocidaire-20260827_UNSQGC6OKVHMPMERVFGR7FA3XY/",
+   "n_members": 70,
+   "n_sources": 24,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": -0.167,
+   "blindspot_for": null,
+   "divergence": 0.424,
+   "category": "international",
+   "terms_left": [
+    "mort",
+    "milliers",
+    "général"
+   ],
+   "terms_right": [
+    "serbes",
+    "chef",
+    "bosnie"
+   ]
+  },
+  {
+   "title": "Consigne recyclage bouteilles : le gouvernement recule",
+   "url": "https://www.nicematin.com/societe/education/drapeau-marseillaise-levee-des-couleurs-ce-qu-eric-ciotti-veut-changer-dans-les-ecoles-de-nice-des-la-rentree-10713247",
+   "n_members": 63,
+   "n_sources": 24,
+   "counts": {
+    "left": 7,
+    "centre": 9,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.783,
+   "category": "politique",
+   "terms_left": [
+    "gouvernement",
+    "plastique",
+    "consigne"
+   ],
+   "terms_right": [
+    "nice",
+    "éric ciotti",
+    "éric"
+   ]
+  },
+  {
+   "title": "Au Royaume-Uni, l’accès au port de Douvres brièvement perturbé par des manifestants anti-immigration cagoulés",
+   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260831-mexique-les-familles-des-disparus-prennent-une-nouvelle-fois-la-rue-pour-r%C3%A9clamer-de-l-aide",
+   "n_members": 63,
+   "n_sources": 24,
+   "counts": {
+    "left": 6,
+    "centre": 9,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.627,
+   "category": "international",
+   "terms_left": [
+    "maroc",
+    "manche",
+    "ministre"
+   ],
+   "terms_right": [
+    "migrants",
+    "face",
+    "migratoire"
+   ]
+  },
+  {
    "title": "La France annonce changer sa représentation cartographique du monde",
    "url": "https://www.sciencesetavenir.fr/espace/astrophysique/qui-etait-nancy-grace-roman-la-mere-de-hubble-qui-donne-son-nom-au-nouveau-telescope-de-la-nasa_194490",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -351,12 +501,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.716,
+   "divergence": 0.719,
    "category": "sciences-tech",
    "terms_left": [
     "roman",
     "télescope",
-    "annonce"
+    "représentation"
    ],
    "terms_right": [
     "adopté",
@@ -365,9 +515,9 @@
    ]
   },
   {
-   "title": "Panique des chercheurs, architecture opaque, capacités démesurées : ce qu’il faut savoir sur Astra, la nouvelle IA qui nous fait «entrer dans l’ère de la superintelligence»",
+   "title": "Non, les agents IA d’OpenAI et Anthropic ne menacent pas vraiment la cybersécurité",
    "url": "https://www.leprogres.fr/science-et-technologie/2026/08/31/chatgpt-bientot-soumis-a-des-regles-renforcees-dans-l-union-europeenne",
-   "n_members": 47,
+   "n_members": 49,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -381,77 +531,17 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.769,
+   "divergence": 0.759,
    "category": "sciences-tech",
    "terms_left": [
-    "modèle",
     "site",
+    "openai",
     "lance"
    ],
    "terms_right": [
     "ia",
-    "décryptage",
+    "modèles",
     "règles"
-   ]
-  },
-  {
-   "title": "40,3°C dans le Tarn : la France bat son record de chaleur pour un mois de septembre",
-   "url": "http://fr.euronews.com/my-europe/2026/08/27/litalie-fait-face-a-la-vague-de-chaleur-la-plus-intense-de-lete-avec-des-maximales-atteign",
-   "n_members": 100,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.625,
-   "category": "environnement",
-   "terms_left": [
-    "canicules",
-    "landes",
-    "partir"
-   ],
-   "terms_right": [
-    "jusqu",
-    "fin",
-    "pays"
-   ]
-  },
-  {
-   "title": "Le criminel de guerre Ratko Mladic doit être inhumé à Belgrade",
-   "url": "https://www.liberation.fr/international/europe/ratko-mladic-mort-dun-genocidaire-20260827_UNSQGC6OKVHMPMERVFGR7FA3XY/",
-   "n_members": 64,
-   "n_sources": 23,
-   "counts": {
-    "left": 7,
-    "centre": 12,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": -0.273,
-   "blindspot_for": null,
-   "divergence": 0.446,
-   "category": "international",
-   "terms_left": [
-    "mort",
-    "personnes",
-    "milliers"
-   ],
-   "terms_right": [
-    "chef",
-    "chef militaire",
-    "ancien chef"
    ]
   },
   {
@@ -501,7 +591,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.862,
+   "divergence": 0.864,
    "category": "économie",
    "terms_left": [
     "santé",
@@ -510,44 +600,74 @@
    ],
    "terms_right": [
     "taux",
-    "france",
-    "année"
+    "année",
+    "ans"
    ]
   },
   {
-   "title": "Consigne recyclage bouteilles : le gouvernement recule",
-   "url": "https://www.nicematin.com/societe/education/drapeau-marseillaise-levee-des-couleurs-ce-qu-eric-ciotti-veut-changer-dans-les-ecoles-de-nice-des-la-rentree-10713247",
-   "n_members": 61,
+   "title": "Piratage du fisc : un hackeur de 18 ans mis en examen et placé en détention provisoire",
+   "url": "https://www.nicematin.com/faits-divers/un-signalement-penal-effectue-un-pretre-de-63-ans-a-la-tete-d-un-important-groupe-scolaire-de-lyon-demis-apres-une-relation-avec-une-eleve-majeure-10716699",
+   "n_members": 64,
    "n_sources": 22,
    "counts": {
-    "left": 6,
-    "centre": 8,
-    "right": 8
+    "left": 4,
+    "centre": 11,
+    "right": 7
    },
    "style_counts": {
-    "factuel": 10,
-    "mixte": 8,
-    "opinion": 4
+    "factuel": 12,
+    "mixte": 7,
+    "opinion": 3
    },
-   "blindspot_score": 0.143,
+   "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.782,
-   "category": "politique",
+   "divergence": 0.573,
+   "category": "faits-divers",
    "terms_left": [
-    "gouvernement",
-    "imposer",
-    "collectivités"
+    "sexuelles",
+    "pas-de-calais",
+    "examen placé"
    ],
    "terms_right": [
-    "nice",
-    "éric ciotti",
-    "éric"
+    "groupe",
+    "membre présumé",
+    "écroué"
+   ]
+  },
+  {
+   "title": "« Ras-le-bol fiscal… » Pourquoi les buralistes se mobilisent toute la semaine en France",
+   "url": "https://reporterre.net/622-000-hectares-brules-en-Europe-la-carte-inedite-des-incendies-de-cet-ete",
+   "n_members": 40,
+   "n_sources": 22,
+   "counts": {
+    "left": 3,
+    "centre": 10,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 1
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.893,
+   "category": "économie",
+   "terms_left": [
+    "europe",
+    "hectares",
+    "cigarettes"
+   ],
+   "terms_right": [
+    "prix",
+    "budget",
+    "pouvoir"
    ]
   },
   {
    "title": "Le RN parle de \"couper le robinet\" à l'Ukraine, ses adversaires l'accusent de \"servir la Russie\"",
    "url": "http://fr.euronews.com/next/2026/09/01/la-copie-russe-de-starlink-echoue-pour-linstant-mais-menace-toujours-lukraine",
-   "n_members": 61,
+   "n_members": 62,
    "n_sources": 21,
    "counts": {
     "left": 4,
@@ -561,10 +681,10 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.676,
+   "divergence": 0.67,
    "category": "politique",
    "terms_left": [
-    "kiev",
+    "aide",
     "guerre",
     "guerre ukraine"
    ],
@@ -577,7 +697,7 @@
   {
    "title": "ZEvent : record pulvérisé pour l'ultime édition avec près de 33 millions d'euros récoltés",
    "url": "https://www.konbini.com/internet/zevent-2026-le-big-don-de-bigflo-et-oli/",
-   "n_members": 57,
+   "n_members": 59,
    "n_sources": 21,
    "counts": {
     "left": 5,
@@ -591,12 +711,12 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.346,
+   "divergence": 0.337,
    "category": "sciences-tech",
    "terms_left": [
     "record dons",
     "streameur",
-    "récolté millions"
+    "zevent"
    ],
    "terms_right": [
     "récoltés",
@@ -605,9 +725,39 @@
    ]
   },
   {
+   "title": "Éducation : dans 69% des établissements, il manque au moins un personnel éducatif, alerte le Snes-FSU",
+   "url": "https://www.bfmtv.com/immobilier/meme-le-logement-social-devient-inaccessible-60-des-loyers-du-parc-social-sont-superieurs-au-plafond-des-apl-12-ans-plus-tot-c-etait-39_AD-202609010767.html",
+   "n_members": 45,
+   "n_sources": 21,
+   "counts": {
+    "left": 5,
+    "centre": 8,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.632,
+   "category": "société",
+   "terms_left": [
+    "devant",
+    "classe",
+    "devant classe"
+   ],
+   "terms_right": [
+    "france",
+    "français",
+    "europe"
+   ]
+  },
+  {
    "title": "Un avion-cargo d'Amazon sort de piste à Miami aux États-Unis et percute des véhicules",
    "url": "https://www.lemonde.fr/international/article/2026/09/03/les-etats-unis-ont-coule-un-navire-suspecte-de-contribuer-au-narcotrafic-en-equateur_6764924_3210.html",
-   "n_members": 48,
+   "n_members": 49,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -621,7 +771,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.53,
+   "divergence": 0.528,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -635,31 +785,39 @@
    ]
   },
   {
-   "title": "Budget 2027 : les syndicats tentent de mettre le pouvoir d'achat au cœur des discussions",
-   "url": "https://reporterre.net/622-000-hectares-brules-en-Europe-la-carte-inedite-des-incendies-de-cet-ete",
-   "n_members": 35,
+   "title": "Assassinat de l’ex-rugbyman argentin Federico Martin Aramburu : le procès de Loïk Le Priol et Romain Bouvier s’est ouvert à Paris",
+   "url": "https://www.liberation.fr/societe/police-justice/ce-que-jai-prefere-ce-sont-les-quatre-dernieres-bastos-que-je-lui-ai-mises-dans-le-buffet-les-propos-glacants-de-loik-le-priol-en-detention-accuse-de-lassassinat-daramburu-20260902_TWQ7QWNVQBGTZE2E57MIQUNMXQ/",
+   "n_members": 48,
    "n_sources": 20,
    "counts": {
-    "left": 3,
-    "centre": 8,
-    "right": 9
+    "left": 5,
+    "centre": 10,
+    "right": 5
    },
    "style_counts": {
-    "factuel": 12,
+    "factuel": 11,
     "mixte": 7,
-    "opinion": 1
+    "opinion": 2
    },
-   "blindspot_score": 0.5,
+   "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.951,
-   "category": "économie",
-   "terms_left": [],
-   "terms_right": []
+   "divergence": 0.488,
+   "category": "société",
+   "terms_left": [
+    "aramburú",
+    "martín aramburú",
+    "droite"
+   ],
+   "terms_right": [
+    "aramburu",
+    "martin aramburu",
+    "ultradroite"
+   ]
   },
   {
    "title": "Indonésie: un volcan entre en éruption, des suspensions des vols à l'aéroport de Jakarta et des perturbations à Bali",
    "url": "https://www.sciencesetavenir.fr/nature-environnement/malaisie-la-qualite-de-l-air-empire-a-cause-des-incendies-en-indonesie_194526",
-   "n_members": 35,
+   "n_members": 37,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -673,16 +831,16 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.664,
+   "divergence": 0.654,
    "category": "international",
    "terms_left": [
     "cendres",
-    "aéroports",
-    "volcanique"
+    "volcanique",
+    "éruption volcanique"
    ],
    "terms_right": [
-    "jakarta",
     "volcan",
+    "jakarta",
     "jusqu"
    ]
   },
@@ -703,16 +861,16 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.585,
+   "divergence": 0.597,
    "category": "international",
    "terms_left": [
-    "maison",
+    "maison blanche",
     "blanche",
-    "maison blanche"
+    "maison"
    ],
    "terms_right": [
     "migrants",
-    "états-unis",
+    "trump",
     "expulser"
    ]
   },
@@ -747,39 +905,39 @@
    ]
   },
   {
-   "title": "Mort du rugbyman Federico Martin Aramburu : le procès de Loïk Le Priol et Romain Bouvier s'ouvre ce lundi à Paris",
-   "url": "https://www.liberation.fr/societe/police-justice/ce-que-jai-prefere-ce-sont-les-quatre-dernieres-bastos-que-je-lui-ai-mises-dans-le-buffet-les-propos-glacants-de-loik-le-priol-en-detention-accuse-de-lassassinat-daramburu-20260902_TWQ7QWNVQBGTZE2E57MIQUNMXQ/",
-   "n_members": 41,
+   "title": "Violences sexistes et sexuelles : ce que prévoit la loi intégrale examinée dès ce lundi à l'Assemblée",
+   "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/la-ciivise-reclame-des-garanties-pour-les-eleves-qui-repondront-au-questionnaire-sur-les-violences-sexuelles-distrubue-dans-les-ecoles_8173751.html",
+   "n_members": 34,
    "n_sources": 19,
    "counts": {
-    "left": 5,
-    "centre": 9,
+    "left": 6,
+    "centre": 8,
     "right": 5
    },
    "style_counts": {
-    "factuel": 10,
-    "mixte": 7,
+    "factuel": 9,
+    "mixte": 8,
     "opinion": 2
    },
-   "blindspot_score": 0.0,
+   "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.504,
+   "divergence": 0.419,
    "category": "société",
    "terms_left": [
-    "aramburú",
-    "procès",
-    "martín aramburú"
+    "associations",
+    "associations féministes",
+    "féministes"
    ],
    "terms_right": [
-    "aramburu",
-    "ultradroite",
-    "assises paris"
+    "violences sexuelles",
+    "législatif",
+    "qu"
    ]
   },
   {
-   "title": "Canicule : les très fortes chaleurs vont persister jusqu'à dimanche sur la moitié sud... La vigilance orange étendue à 7 départements ce samedi",
+   "title": "Canicule : voici les 6 départements placés en vigilance orange ce lundi",
    "url": "https://www.lefigaro.fr/meteo/meteo-du-lundi-17-aout-les-orages-regressent-la-chaleur-resiste-dans-le-sud-est-20260816",
-   "n_members": 205,
+   "n_members": 208,
    "n_sources": 18,
    "counts": {
     "left": 3,
@@ -793,7 +951,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.593,
+   "divergence": 0.539,
    "category": "environnement",
    "terms_left": [
     "départements sud",
@@ -839,7 +997,7 @@
   {
    "title": "Liban: quatre morts dans des frappes israéliennes, selon Beyrouth",
    "url": "https://www.courrierinternational.com/article/epidemie-en-rdc-une-rentree-scolaire-differenciee-sous-le-signe-d-ebola_265244",
-   "n_members": 64,
+   "n_members": 65,
    "n_sources": 18,
    "counts": {
     "left": 2,
@@ -867,31 +1025,31 @@
    ]
   },
   {
-   "title": "Location, crédit, construction... Pourquoi les Français se retrouvent à la porte du marché locatif ?",
-   "url": "https://www.bfmtv.com/immobilier/meme-le-logement-social-devient-inaccessible-60-des-loyers-du-parc-social-sont-superieurs-au-plafond-des-apl-12-ans-plus-tot-c-etait-39_AD-202609010767.html",
-   "n_members": 36,
+   "title": "REPORTAGE. Céline Dion : à une semaine de son premier concert, Paris se prépare et les fans s’enflamment",
+   "url": "https://www.leparisien.fr/culture-loisirs/musique/celine-dion-est-arrivee-a-paris-pour-preparer-ses-concerts-a-la-plenitude-arena-28-08-2026-XXHRDD23GZC6RFCYSZFCFS6OOA.php",
+   "n_members": 51,
    "n_sources": 18,
    "counts": {
-    "left": 4,
-    "centre": 6,
-    "right": 8
+    "left": 3,
+    "centre": 9,
+    "right": 6
    },
    "style_counts": {
-    "factuel": 8,
-    "mixte": 7,
-    "opinion": 3
+    "factuel": 11,
+    "mixte": 6,
+    "opinion": 1
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.554,
-   "category": "économie",
+   "divergence": 0.56,
+   "category": "culture",
    "terms_left": [],
    "terms_right": []
   },
   {
-   "title": "Finistère : une femme tuée dans la rue par un forcené, l'individu est toujours «retranché dans un immeuble»",
+   "title": "Femme tuée dans le Finistère : l’homme suspecté d’avoir tiré est mort à l’hôpital",
    "url": "https://www.ladepeche.fr/2026/09/03/elle-fait-tomber-ses-cles-dans-un-conteneur-a-poubelles-une-femme-se-coince-a-linterieur-les-jambes-en-lair-13534103.php",
-   "n_members": 56,
+   "n_members": 60,
    "n_sources": 17,
    "counts": {
     "left": 2,
@@ -905,7 +1063,7 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.563,
+   "divergence": 0.549,
    "category": "faits-divers",
    "terms_left": [
     "aspe pyrénées-atlantiques",
@@ -913,9 +1071,9 @@
     "brûlés"
    ],
    "terms_right": [
+    "ans",
     "femme",
-    "finistère",
-    "femme tuée"
+    "tuée"
    ]
   },
   {
@@ -935,7 +1093,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.592,
+   "divergence": 0.591,
    "category": "environnement",
    "terms_left": [
     "végétation",
@@ -965,7 +1123,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.428,
+   "divergence": 0.426,
    "category": "politique",
    "terms_left": [
     "mois élection",
@@ -995,7 +1153,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.553,
+   "divergence": 0.554,
    "category": "économie",
    "terms_left": [
     "intelligence",
@@ -1003,8 +1161,8 @@
     "intelligence artificielle"
    ],
    "terms_right": [
-    "puces",
     "risque",
+    "puces",
     "sait"
    ]
   },
@@ -1029,140 +1187,6 @@
    "category": "économie",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Violences sexistes et sexuelles : ce que prévoit la loi intégrale examinée dès ce lundi à l'Assemblée",
-   "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/la-ciivise-reclame-des-garanties-pour-les-eleves-qui-repondront-au-questionnaire-sur-les-violences-sexuelles-distrubue-dans-les-ecoles_8173751.html",
-   "n_members": 28,
-   "n_sources": 17,
-   "counts": {
-    "left": 5,
-    "centre": 7,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 8,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.427,
-   "category": "société",
-   "terms_left": [
-    "associations",
-    "associations féministes",
-    "coalition"
-   ],
-   "terms_right": [
-    "violences sexuelles",
-    "législatif",
-    "qu"
-   ]
-  },
-  {
-   "title": "Ligue 1 : le PSG en quête d'une première victoire face à l'AS Monaco",
-   "url": "https://www.ladepeche.fr/2026/09/02/tfc-lille-alexis-vossah-la-saison-de-la-confirmation-un-an-apres-ses-debuts-en-ligue-1-le-jeune-milieu-de-terrain-est-lune-des-grandes-promesses-du-13532787.php",
-   "n_members": 60,
-   "n_sources": 15,
-   "counts": {
-    "left": 1,
-    "centre": 9,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 3,
-    "opinion": 1
-   },
-   "blindspot_score": 0.667,
-   "blindspot_for": "gauche",
-   "divergence": 0.728,
-   "category": "sport",
-   "terms_left": [
-    "face",
-    "défaite",
-    "fc"
-   ],
-   "terms_right": [
-    "direct",
-    "sud",
-    "journée"
-   ]
-  },
-  {
-   "title": "Netanyahu ordonne l'évacuation d'avant-postes de colons après la visite de l'ambassadeur américain en Cisjordanie",
-   "url": "https://www.sudouest.fr/international/moyen-orient/israel/cisjordanie-des-dizaines-de-colons-israeliens-attaquent-un-village-palestinien-30411510.php",
-   "n_members": 52,
-   "n_sources": 15,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 2,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.646,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Automobile : le budget mensuel essence désormais trois fois plus cher que la recharge électrique",
-   "url": "https://www.sudouest.fr/economie/auto-moto/automobile-le-marche-du-neuf-reste-morose-malgre-la-progression-de-l-electrique-30439268.php",
-   "n_members": 36,
-   "n_sources": 15,
-   "counts": {
-    "left": 1,
-    "centre": 6,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 5,
-    "opinion": 1
-   },
-   "blindspot_score": 0.778,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "économie",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Émission du 4 septembre 2026",
-   "url": "https://www.bfmtv.com/meteo/video-la-meteo-pour-ce-dimanche-30-aout-2026_VN-202608290261.html",
-   "n_members": 37,
-   "n_sources": 14,
-   "counts": {
-    "left": 3,
-    "centre": 3,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 6,
-    "mixte": 7,
-    "opinion": 1
-   },
-   "blindspot_score": 0.455,
-   "blindspot_for": null,
-   "divergence": 0.959,
-   "category": "économie",
-   "terms_left": [
-    "actualité",
-    "week-end",
-    "retenir"
-   ],
-   "terms_right": [
-    "grève",
-    "kiev",
-    "europe"
-   ]
   }
  ]
 }
