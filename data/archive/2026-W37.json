@@ -1,6 +1,6 @@
 {
  "week": "2026-W37",
- "generated_at": "2026-09-07T16:13:30+00:00",
+ "generated_at": "2026-09-07T20:04:50+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Elections régionales en Allemagne : le parti de l'AfD gouvernera t-il en Saxe-Anhalt ?",
    "url": "https://www.lemonde.fr/idees/article/2026/09/02/en-allemagne-un-land-gouverne-par-l-afd-en-ferait-un-laboratoire-pour-les-projets-du-parti-le-plus-radical-des-droites-europeennes_6763872_3232.html",
-   "n_members": 230,
+   "n_members": 263,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.158,
    "blindspot_for": null,
-   "divergence": 0.182,
+   "divergence": 0.167,
    "category": "international",
    "terms_left": [
     "absolue",
@@ -59,15 +59,15 @@
     "saxe-anhalt parti"
    ],
    "terms_right": [
-    "élection régionale",
     "régionale",
-    "score"
+    "élection régionale",
+    "élection"
    ]
   },
   {
-   "title": "Budget 2027 : Sébastien Lecornu tente de se frayer un chemin dans les ronces de la présidentielle",
+   "title": "Budget 2027 : le gouvernement Lecornu pris en étau entre dette, censure et pouvoir d’achat",
    "url": "https://www.europe1.fr/politique/jusqua-400eu-le-week-end-le-tarif-des-universites-dete-de-lfi-fait-polemique-1014659",
-   "n_members": 148,
+   "n_members": 149,
    "n_sources": 33,
    "counts": {
     "left": 6,
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.564,
+   "divergence": 0.565,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -97,7 +97,7 @@
   {
    "title": "Russie: Sergueï Lavrov accuse l'Allemagne de vouloir «à nouveau» la guerre",
    "url": "https://www.rfi.fr/fr/europe/20260824-allemagne-le-parti-d-extr%C3%AAme-droite-afd-aux-portes-du-pouvoir-en-saxe-anhaltau",
-   "n_members": 117,
+   "n_members": 118,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -111,23 +111,23 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.365,
+   "divergence": 0.35,
    "category": "international",
    "terms_left": [
+    "consulat",
     "attaque drone",
-    "allemagne accuse",
-    "attaque"
+    "allemagne accuse"
    ],
    "terms_right": [
-    "berlin",
-    "russe",
-    "moscou"
+    "chargé",
+    "drone chargé",
+    "berlin"
    ]
   },
   {
    "title": "Guerre en Ukraine: les émissaires étatsuniens Kushner et Witkoff en mission à Moscou et Kiev",
    "url": "https://www.tf1info.fr/international/video-c-est-un-double-message-des-russes-pourquoi-moscou-decide-de-frapper-le-siege-des-services-de-securite-ukrainiens-a-kiev-avant-la-venue-d-emissaires-americains-2462402.html",
-   "n_members": 175,
+   "n_members": 178,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.356,
+   "divergence": 0.35,
    "category": "politique",
    "terms_left": [
     "droite",
@@ -179,9 +179,39 @@
     "extrême"
    ],
    "terms_right": [
+    "accord",
     "leader",
-    "birmingham",
-    "accord"
+    "présidentielle"
+   ]
+  },
+  {
+   "title": "Réseaux sociaux : Emmanuel Macron plaide pour une interdiction au niveau européen pour les moins de 15 ans",
+   "url": "https://information.tv5monde.com/international/rentree-politique-pour-andy-burnham-confronte-ses-premiers-tests-2835489",
+   "n_members": 54,
+   "n_sources": 29,
+   "counts": {
+    "left": 8,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 11,
+    "opinion": 3
+   },
+   "blindspot_score": -0.067,
+   "blindspot_for": null,
+   "divergence": 0.629,
+   "category": "société",
+   "terms_left": [
+    "handicap",
+    "nationale handicap",
+    "conférence nationale"
+   ],
+   "terms_right": [
+    "ans",
+    "réseaux sociaux",
+    "sociaux"
    ]
   },
   {
@@ -275,6 +305,66 @@
    ]
   },
   {
+   "title": "Présidentielle 2027 : Fabien Roussel désigné candidat par les militants du PCF à 72 %",
+   "url": "https://www.europe1.fr/societe/les-hommes-politiques-ne-sont-pas-trop-payes-pascal-praud-debat-avec-un-auditeur-sur-la-remuneration-des-elus-1040768",
+   "n_members": 67,
+   "n_sources": 26,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.654,
+   "category": "politique",
+   "terms_left": [
+    "équipe",
+    "équipe campagne",
+    "campagne"
+   ],
+   "terms_right": [
+    "marine pen",
+    "pen",
+    "marine"
+   ]
+  },
+  {
+   "title": "\"Témoigner de la honte de l'Église\": le pape Léon à XIV recevra sept victimes de violences sexuelles à Lourdes mais pas le collectif de Bétharram",
+   "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-du-pape-a-metz-les-tarifs-des-chambres-grimpent-en-fleche-pour-la-venue-du-souverain-pontife-fin-septembre_8152271.html",
+   "n_members": 72,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.525,
+   "category": "société",
+   "terms_left": [
+    "collectif",
+    "bétharram",
+    "victimes"
+   ],
+   "terms_right": [
+    "visite",
+    "france",
+    "pape"
+   ]
+  },
+  {
    "title": "Présidentielle 2027 : Le Pen et Bardella, une rentrée toujours pas raccord",
    "url": "https://www.lemonde.fr/societe/article/2026/08/31/vincent-bollore-depose-plainte-pour-association-de-malfaiteurs-contre-des-magistrats-apres-son-renvoi-devant-le-tribunal-pour-corruption_6762587_3224.html",
    "n_members": 68,
@@ -321,7 +411,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.68,
+   "divergence": 0.681,
    "category": "politique",
    "terms_left": [
     "dette",
@@ -332,6 +422,36 @@
     "france",
     "voile",
     "politique"
+   ]
+  },
+  {
+   "title": "Intelligence artificielle : des agents d’OpenAI se seraient coordonnés tout seuls bien avant la cyberattaque de Hugging Face",
+   "url": "https://www.leprogres.fr/science-et-technologie/2026/08/31/chatgpt-bientot-soumis-a-des-regles-renforcees-dans-l-union-europeenne",
+   "n_members": 51,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 16,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 1
+   },
+   "blindspot_score": 0.111,
+   "blindspot_for": null,
+   "divergence": 0.756,
+   "category": "sciences-tech",
+   "terms_left": [
+    "site",
+    "lance",
+    "pris"
+   ],
+   "terms_right": [
+    "ia",
+    "règles",
+    "agents"
    ]
   },
   {
@@ -351,7 +471,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.47,
+   "divergence": 0.481,
    "category": "international",
    "terms_left": [
     "recherches",
@@ -359,7 +479,7 @@
     "face"
    ],
    "terms_right": [
-    "qu",
+    "troisième",
     "jours",
     "crue"
    ]
@@ -381,23 +501,23 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.623,
+   "divergence": 0.621,
    "category": "environnement",
    "terms_left": [
     "landes",
-    "canicules",
-    "partir"
+    "partir",
+    "précédent record"
    ],
    "terms_right": [
     "jusqu",
     "fin",
-    "pays"
+    "semaine"
    ]
   },
   {
-   "title": "Le criminel de guerre Ratko Mladic doit être inhumé à Belgrade",
+   "title": "Serbie: des milliers de personnes rassemblées à Belgrade pour les obsèques du criminel de guerre Ratko Mladic",
    "url": "https://www.liberation.fr/international/europe/ratko-mladic-mort-dun-genocidaire-20260827_UNSQGC6OKVHMPMERVFGR7FA3XY/",
-   "n_members": 70,
+   "n_members": 74,
    "n_sources": 24,
    "counts": {
     "left": 7,
@@ -411,17 +531,17 @@
    },
    "blindspot_score": -0.167,
    "blindspot_for": null,
-   "divergence": 0.424,
+   "divergence": 0.405,
    "category": "international",
    "terms_left": [
     "mort",
     "milliers",
-    "général"
+    "personnes"
    ],
    "terms_right": [
     "serbes",
     "chef",
-    "bosnie"
+    "chef militaire"
    ]
   },
   {
@@ -441,12 +561,12 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.783,
+   "divergence": 0.797,
    "category": "politique",
    "terms_left": [
     "gouvernement",
-    "plastique",
-    "consigne"
+    "consigne",
+    "plastique"
    ],
    "terms_right": [
     "nice",
@@ -471,16 +591,16 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.627,
+   "divergence": 0.621,
    "category": "international",
    "terms_left": [
     "maroc",
-    "manche",
-    "ministre"
+    "ministre",
+    "crise ceuta"
    ],
    "terms_right": [
-    "migrants",
     "face",
+    "migrants",
     "migratoire"
    ]
   },
@@ -501,47 +621,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.719,
+   "divergence": 0.811,
    "category": "sciences-tech",
    "terms_left": [
     "roman",
     "télescope",
-    "représentation"
+    "nouveau"
    ],
    "terms_right": [
-    "adopté",
-    "carte",
-    "états-unis"
-   ]
-  },
-  {
-   "title": "Non, les agents IA d’OpenAI et Anthropic ne menacent pas vraiment la cybersécurité",
-   "url": "https://www.leprogres.fr/science-et-technologie/2026/08/31/chatgpt-bientot-soumis-a-des-regles-renforcees-dans-l-union-europeenne",
-   "n_members": 49,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 15,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 9,
-    "opinion": 1
-   },
-   "blindspot_score": 0.111,
-   "blindspot_for": null,
-   "divergence": 0.759,
-   "category": "sciences-tech",
-   "terms_left": [
-    "site",
-    "openai",
-    "lance"
-   ],
-   "terms_right": [
-    "ia",
-    "modèles",
-    "règles"
+    "états-unis",
+    "france",
+    "résolution"
    ]
   },
   {
@@ -591,17 +681,17 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.864,
+   "divergence": 0.872,
    "category": "économie",
    "terms_left": [
     "santé",
-    "familiale",
-    "horaires"
+    "français",
+    "vie"
    ],
    "terms_right": [
     "taux",
     "année",
-    "ans"
+    "fin"
    ]
   },
   {
@@ -621,17 +711,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.573,
+   "divergence": 0.559,
    "category": "faits-divers",
    "terms_left": [
+    "examen placé",
     "sexuelles",
-    "pas-de-calais",
-    "examen placé"
+    "placé"
    ],
    "terms_right": [
-    "groupe",
+    "écroué",
     "membre présumé",
-    "écroué"
+    "pirates"
    ]
   },
   {
@@ -681,23 +771,23 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.67,
+   "divergence": 0.665,
    "category": "politique",
    "terms_left": [
     "aide",
-    "guerre",
-    "guerre ukraine"
+    "robinet",
+    "couper robinet"
    ],
    "terms_right": [
-    "présidentielle",
     "raphaël glucksmann",
-    "raphaël"
+    "raphaël",
+    "glucksmann"
    ]
   },
   {
    "title": "ZEvent : record pulvérisé pour l'ultime édition avec près de 33 millions d'euros récoltés",
    "url": "https://www.konbini.com/internet/zevent-2026-le-big-don-de-bigflo-et-oli/",
-   "n_members": 59,
+   "n_members": 61,
    "n_sources": 21,
    "counts": {
     "left": 5,
@@ -711,23 +801,83 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.337,
+   "divergence": 0.318,
    "category": "sciences-tech",
    "terms_left": [
     "record dons",
     "streameur",
-    "zevent"
+    "goals"
    ],
    "terms_right": [
     "récoltés",
     "euros récoltés",
-    "twitch"
+    "défis"
+   ]
+  },
+  {
+   "title": "Assassinat de l’ex-rugbyman argentin Federico Martin Aramburu : le procès de Loïk Le Priol et Romain Bouvier s’est ouvert à Paris",
+   "url": "https://www.liberation.fr/societe/police-justice/ce-que-jai-prefere-ce-sont-les-quatre-dernieres-bastos-que-je-lui-ai-mises-dans-le-buffet-les-propos-glacants-de-loik-le-priol-en-detention-accuse-de-lassassinat-daramburu-20260902_TWQ7QWNVQBGTZE2E57MIQUNMXQ/",
+   "n_members": 58,
+   "n_sources": 21,
+   "counts": {
+    "left": 5,
+    "centre": 10,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.45,
+   "category": "société",
+   "terms_left": [
+    "aramburú",
+    "droite",
+    "extrême"
+   ],
+   "terms_right": [
+    "aramburu",
+    "devant",
+    "assises paris"
+   ]
+  },
+  {
+   "title": "Football : la Fifa confirme la candidature de Gianni Infantino à sa réélection malgré la crise",
+   "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/pourquoi-luefa-pourrait-lever-sa-menace-de-boycott-des-competitions-de-la-fifa-26-08-2026-QMHPYH2MMZEDXGLKQSOCPRCHTM.php",
+   "n_members": 53,
+   "n_sources": 21,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.598,
+   "category": "sport",
+   "terms_left": [
+    "réélection malgré",
+    "candidat",
+    "foot"
+   ],
+   "terms_right": [
+    "français",
+    "projet",
+    "privés"
    ]
   },
   {
    "title": "Éducation : dans 69% des établissements, il manque au moins un personnel éducatif, alerte le Snes-FSU",
    "url": "https://www.bfmtv.com/immobilier/meme-le-logement-social-devient-inaccessible-60-des-loyers-du-parc-social-sont-superieurs-au-plafond-des-apl-12-ans-plus-tot-c-etait-39_AD-202609010767.html",
-   "n_members": 45,
+   "n_members": 47,
    "n_sources": 21,
    "counts": {
     "left": 5,
@@ -741,7 +891,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.632,
+   "divergence": 0.625,
    "category": "société",
    "terms_left": [
     "devant",
@@ -755,9 +905,39 @@
    ]
   },
   {
+   "title": "Violences sexistes et sexuelles : ce que prévoit la loi intégrale examinée dès ce lundi à l'Assemblée",
+   "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/la-ciivise-reclame-des-garanties-pour-les-eleves-qui-repondront-au-questionnaire-sur-les-violences-sexuelles-distrubue-dans-les-ecoles_8173751.html",
+   "n_members": 39,
+   "n_sources": 21,
+   "counts": {
+    "left": 7,
+    "centre": 9,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": -0.167,
+   "blindspot_for": null,
+   "divergence": 0.389,
+   "category": "société",
+   "terms_left": [
+    "associations",
+    "associations féministes",
+    "féministes"
+   ],
+   "terms_right": [
+    "violences sexuelles",
+    "législatif",
+    "qu"
+   ]
+  },
+  {
    "title": "Un avion-cargo d'Amazon sort de piste à Miami aux États-Unis et percute des véhicules",
    "url": "https://www.lemonde.fr/international/article/2026/09/03/les-etats-unis-ont-coule-un-navire-suspecte-de-contribuer-au-narcotrafic-en-equateur_6764924_3210.html",
-   "n_members": 49,
+   "n_members": 50,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -785,39 +965,9 @@
    ]
   },
   {
-   "title": "Assassinat de l’ex-rugbyman argentin Federico Martin Aramburu : le procès de Loïk Le Priol et Romain Bouvier s’est ouvert à Paris",
-   "url": "https://www.liberation.fr/societe/police-justice/ce-que-jai-prefere-ce-sont-les-quatre-dernieres-bastos-que-je-lui-ai-mises-dans-le-buffet-les-propos-glacants-de-loik-le-priol-en-detention-accuse-de-lassassinat-daramburu-20260902_TWQ7QWNVQBGTZE2E57MIQUNMXQ/",
-   "n_members": 48,
-   "n_sources": 20,
-   "counts": {
-    "left": 5,
-    "centre": 10,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.488,
-   "category": "société",
-   "terms_left": [
-    "aramburú",
-    "martín aramburú",
-    "droite"
-   ],
-   "terms_right": [
-    "aramburu",
-    "martin aramburu",
-    "ultradroite"
-   ]
-  },
-  {
    "title": "Indonésie: un volcan entre en éruption, des suspensions des vols à l'aéroport de Jakarta et des perturbations à Bali",
    "url": "https://www.sciencesetavenir.fr/nature-environnement/malaisie-la-qualite-de-l-air-empire-a-cause-des-incendies-en-indonesie_194526",
-   "n_members": 37,
+   "n_members": 39,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -831,7 +981,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.654,
+   "divergence": 0.655,
    "category": "international",
    "terms_left": [
     "cendres",
@@ -845,9 +995,9 @@
    ]
   },
   {
-   "title": "\"Expulser les migrants\", le nouveau jeu vidéo polémique de la Maison Blanche !",
+   "title": "Expulser des immigrés, construire un mur à la frontière… La Maison Blanche détourne des jeux vidéo, Tetris dénonce l’initiative",
    "url": "https://www.leparisien.fr/international/etats-unis/cela-me-rend-malade-la-maison-blanche-cree-un-jeu-video-sur-les-expulsions-dimmigres-suscitant-lindignation-04-09-2026-BZAAAPPN4JCTLCJC4MHP75E7MM.php",
-   "n_members": 30,
+   "n_members": 35,
    "n_sources": 20,
    "counts": {
     "left": 4,
@@ -861,77 +1011,47 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.597,
+   "divergence": 0.658,
    "category": "international",
    "terms_left": [
-    "maison blanche",
+    "maison",
     "blanche",
-    "maison"
+    "maison blanche"
    ],
    "terms_right": [
     "migrants",
     "trump",
-    "expulser"
+    "états-unis"
    ]
   },
   {
-   "title": "Football : la Fifa confirme la candidature de Gianni Infantino à sa réélection malgré la crise",
-   "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/pourquoi-luefa-pourrait-lever-sa-menace-de-boycott-des-competitions-de-la-fifa-26-08-2026-QMHPYH2MMZEDXGLKQSOCPRCHTM.php",
-   "n_members": 46,
+   "title": "Rachida Dati va redevenir magistrate, à quelques jours de son procès pour corruption",
+   "url": "https://www.nouvelobs.com/justice/20260904.OBS117939/info-nouvel-obs-rachida-dati-va-redevenir-officiellement-magistrate.html",
+   "n_members": 27,
    "n_sources": 19,
    "counts": {
-    "left": 3,
-    "centre": 11,
+    "left": 5,
+    "centre": 9,
     "right": 5
    },
    "style_counts": {
-    "factuel": 13,
-    "mixte": 5,
+    "factuel": 11,
+    "mixte": 7,
     "opinion": 1
    },
-   "blindspot_score": 0.25,
+   "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.543,
-   "category": "sport",
+   "divergence": 0.396,
+   "category": "politique",
    "terms_left": [
-    "qu",
-    "réélection malgré",
-    "foot"
+    "tribunal",
+    "redevenir",
+    "dati redevenir"
    ],
    "terms_right": [
-    "privés",
-    "tête",
-    "investisseurs privés"
-   ]
-  },
-  {
-   "title": "Violences sexistes et sexuelles : ce que prévoit la loi intégrale examinée dès ce lundi à l'Assemblée",
-   "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/la-ciivise-reclame-des-garanties-pour-les-eleves-qui-repondront-au-questionnaire-sur-les-violences-sexuelles-distrubue-dans-les-ecoles_8173751.html",
-   "n_members": 34,
-   "n_sources": 19,
-   "counts": {
-    "left": 6,
-    "centre": 8,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": -0.091,
-   "blindspot_for": null,
-   "divergence": 0.419,
-   "category": "société",
-   "terms_left": [
-    "associations",
-    "associations féministes",
-    "féministes"
-   ],
-   "terms_right": [
-    "violences sexuelles",
-    "législatif",
-    "qu"
+    "ancienne",
+    "réintégrer",
+    "ancienne garde"
    ]
   },
   {
@@ -956,7 +1076,7 @@
    "terms_left": [
     "départements sud",
     "aude drôme",
-    "drôme gard"
+    "ardèche aude"
    ],
    "terms_right": [
     "placés vigilance",
@@ -1011,12 +1131,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.839,
+   "divergence": 0.845,
    "category": "international",
    "terms_left": [
     "yémen",
-    "forces",
-    "prise"
+    "rebelles",
+    "gouvernementales"
    ],
    "terms_right": [
     "accident",
@@ -1047,146 +1167,34 @@
    "terms_right": []
   },
   {
-   "title": "Femme tuée dans le Finistère : l’homme suspecté d’avoir tiré est mort à l’hôpital",
-   "url": "https://www.ladepeche.fr/2026/09/03/elle-fait-tomber-ses-cles-dans-un-conteneur-a-poubelles-une-femme-se-coince-a-linterieur-les-jambes-en-lair-13534103.php",
-   "n_members": 60,
-   "n_sources": 17,
+   "title": "Budget 2027 : Matignon annonce saisir la justice après une fuite sur «des travaux internes» autour de l'épargne salariale",
+   "url": "https://www.bfmtv.com/economie/entreprises/cette-mesure-pourrait-rapporter-1-milliard-d-euros-alors-qu-il-prepare-le-projet-de-budget-pour-2027-le-gouvernement-envisage-de-prelever-des-cotisations-sociales-sur-l-epargne-salariale-pour-reduire-le-deficit-de-la-securite-sociale_AV-202609060225.html",
+   "n_members": 30,
+   "n_sources": 18,
    "counts": {
     "left": 2,
     "centre": 8,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.556,
-   "blindspot_for": null,
-   "divergence": 0.549,
-   "category": "faits-divers",
-   "terms_left": [
-    "aspe pyrénées-atlantiques",
-    "pyrénées-atlantiques",
-    "brûlés"
-   ],
-   "terms_right": [
-    "ans",
-    "femme",
-    "tuée"
-   ]
-  },
-  {
-   "title": "Incendie: un feu parcourt 150 hectares dans l'Aude, des dizaines de personnes évacuées",
-   "url": "https://www.sudouest.fr/faits-divers/incendies/incendie-en-haute-corse-sept-maisons-parcourues-par-les-flammes-des-conditions-defavorables-30391133.php",
-   "n_members": 56,
-   "n_sources": 17,
-   "counts": {
-    "left": 3,
-    "centre": 8,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.591,
-   "category": "environnement",
-   "terms_left": [
-    "végétation",
-    "hectares végétation",
-    "haute-corse incendie"
-   ],
-   "terms_right": [
-    "aude",
-    "fixé",
-    "pompiers"
-   ]
-  },
-  {
-   "title": "DIRECT. Présidentielle: Jean-Luc Mélenchon, Gabriel Attal, Marine Tondelier... De nombreux politiques attendus à la braderie de Lille",
-   "url": "https://www.bfmtv.com/grand-lille/replay-emissions/lille-politiques/video-braderie-de-lille-est-ce-que-l-evenement-rapporte-de-l-argent_VN-202609030899.html",
-   "n_members": 32,
-   "n_sources": 17,
-   "counts": {
-    "left": 3,
-    "centre": 8,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.426,
-   "category": "politique",
-   "terms_left": [
-    "mois élection",
-    "visiteurs attendus",
-    "politique"
-   ],
-   "terms_right": [
-    "braderie",
-    "braderie lille",
-    "lille"
-   ]
-  },
-  {
-   "title": "Hugging Face : quelle est cette IA franco-américaine rachetée à prix d'or par Nvidia ?",
-   "url": "https://www.bfmtv.com/tech/intelligence-artificielle/certains-des-drones-autonomes-russes-qui-frappent-l-ukraine-fonctionnent-grace-a-des-puces-nvidia-le-geant-americain-ne-les-vend-pourtant-plus-en-russie-depuis-le-debut-du-conflit_AV-202608260587.html",
-   "n_members": 29,
-   "n_sources": 17,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.554,
-   "category": "économie",
-   "terms_left": [
-    "intelligence",
-    "artificielle",
-    "intelligence artificielle"
-   ],
-   "terms_right": [
-    "risque",
-    "puces",
-    "sait"
-   ]
-  },
-  {
-   "title": "Cybercab, le nouveau robotaxti d'Elon Musk au Texas, et le FSD (supervisé) en test en France",
-   "url": "https://www.leparisien.fr/economie/tesla-apres-un-echange-avec-elon-musk-philippe-tabarot-annonce-des-essais-sur-route-de-deux-vehicules-autonomes-en-france-02-09-2026-PDFMOZRRJRFNPDTCQCLEIEORKI.php",
-   "n_members": 29,
-   "n_sources": 17,
-   "counts": {
-    "left": 0,
-    "centre": 10,
-    "right": 7
+    "right": 8
    },
    "style_counts": {
     "factuel": 11,
     "mixte": 5,
-    "opinion": 1
+    "opinion": 2
    },
-   "blindspot_score": 1.0,
+   "blindspot_score": 0.6,
    "blindspot_for": "gauche",
-   "divergence": null,
+   "divergence": 0.422,
    "category": "économie",
-   "terms_left": [],
-   "terms_right": []
+   "terms_left": [
+    "transmis",
+    "transmis procureure",
+    "paris"
+   ],
+   "terms_right": [
+    "épargne salariale",
+    "salariale",
+    "épargne"
+   ]
   }
  ]
 }
