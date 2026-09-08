@@ -1,9 +1,39 @@
 {
  "week": "2026-W37",
- "generated_at": "2026-09-08T14:01:17+00:00",
+ "generated_at": "2026-09-08T17:48:10+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
+  {
+   "title": "Allemagne : très large victoire de l'AfD à l'élection régionale en Saxe-Anhalt",
+   "url": "https://www.lemonde.fr/idees/article/2026/09/02/en-allemagne-un-land-gouverne-par-l-afd-en-ferait-un-laboratoire-pour-les-projets-du-parti-le-plus-radical-des-droites-europeennes_6763872_3232.html",
+   "n_members": 295,
+   "n_sources": 35,
+   "counts": {
+    "left": 8,
+    "centre": 15,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 19,
+    "mixte": 11,
+    "opinion": 5
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.165,
+   "category": "international",
+   "terms_left": [
+    "absolue",
+    "majorité absolue",
+    "démocratie"
+   ],
+   "terms_right": [
+    "tête",
+    "élection régionale",
+    "largement"
+   ]
+  },
   {
    "title": "Catastrophe dans l’Himalaya : le bilan côté Tibet passe à 43 morts et 519 disparus",
    "url": "https://www.sudouest.fr/international/chine/chine-une-coulee-de-boue-cote-nepalais-a-fait-de-nombreuses-victimes-au-tibet-30371272.php",
@@ -32,36 +62,6 @@
     "coulée boue",
     "coulée",
     "crue népal"
-   ]
-  },
-  {
-   "title": "Allemagne : très large victoire de l'AfD à l'élection régionale en Saxe-Anhalt",
-   "url": "https://www.lemonde.fr/idees/article/2026/09/02/en-allemagne-un-land-gouverne-par-l-afd-en-ferait-un-laboratoire-pour-les-projets-du-parti-le-plus-radical-des-droites-europeennes_6763872_3232.html",
-   "n_members": 285,
-   "n_sources": 34,
-   "counts": {
-    "left": 8,
-    "centre": 14,
-    "right": 12
-   },
-   "style_counts": {
-    "factuel": 18,
-    "mixte": 11,
-    "opinion": 5
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.165,
-   "category": "international",
-   "terms_left": [
-    "absolue",
-    "majorité absolue",
-    "majorité"
-   ],
-   "terms_right": [
-    "largement",
-    "élection",
-    "tête"
    ]
   },
   {
@@ -127,7 +127,7 @@
   {
    "title": "En direct : après Moscou, les émissaires de Trump se rendent pour la première fois en Ukraine",
    "url": "https://www.tf1info.fr/international/video-c-est-un-double-message-des-russes-pourquoi-moscou-decide-de-frapper-le-siege-des-services-de-securite-ukrainiens-a-kiev-avant-la-venue-d-emissaires-americains-2462402.html",
-   "n_members": 187,
+   "n_members": 189,
    "n_sources": 31,
    "counts": {
     "left": 6,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.221,
+   "divergence": 0.213,
    "category": "international",
    "terms_left": [
     "direct",
@@ -149,9 +149,69 @@
     "détroit"
    ],
    "terms_right": [
-    "russe",
     "kiev",
+    "russe",
     "discussions"
+   ]
+  },
+  {
+   "title": "Classement Pisa 2026 : les résultats des élèves français n'ont jamais été aussi bas, la baisse des performances en lecture \"particulièrement préoccupante\"",
+   "url": "https://www.sudradio.fr/societe/education-cinq-choses-a-savoir-sur-lenquete-pisa",
+   "n_members": 87,
+   "n_sources": 31,
+   "counts": {
+    "left": 8,
+    "centre": 13,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 13,
+    "opinion": 4
+   },
+   "blindspot_score": 0.111,
+   "blindspot_for": null,
+   "divergence": 0.263,
+   "category": "société",
+   "terms_left": [
+    "programme",
+    "programme international",
+    "international"
+   ],
+   "terms_right": [
+    "classement",
+    "classement pisa",
+    "qu"
+   ]
+  },
+  {
+   "title": "Interdiction des réseaux sociaux aux moins de 15 ans : Emmanuel Macron réclame un texte européen",
+   "url": "https://information.tv5monde.com/international/rentree-politique-pour-andy-burnham-confronte-ses-premiers-tests-2835489",
+   "n_members": 61,
+   "n_sources": 30,
+   "counts": {
+    "left": 8,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 12,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.645,
+   "category": "société",
+   "terms_left": [
+    "handicap",
+    "nationale",
+    "conférence"
+   ],
+   "terms_right": [
+    "réseaux",
+    "réseaux sociaux",
+    "sociaux"
    ]
   },
   {
@@ -171,7 +231,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.373,
+   "divergence": 0.374,
    "category": "politique",
    "terms_left": [
     "signature",
@@ -180,74 +240,44 @@
    ],
    "terms_right": [
     "présidentielle",
-    "nigel farage",
-    "nigel"
+    "nigel",
+    "nigel farage"
    ]
   },
   {
-   "title": "Le niveau des élèves français en chute libre, selon l'enquête Pisa 2025",
-   "url": "https://www.sudradio.fr/societe/education-cinq-choses-a-savoir-sur-lenquete-pisa",
-   "n_members": 67,
+   "title": "«Super El Niño» : quel impact réel le phénomène météorologique pourrait-il avoir en France ?",
+   "url": "https://www.lemonde.fr/economie/article/2026/09/01/dans-le-canal-de-panama-el-nino-impose-une-baisse-du-trafic-maritime-et-l-envolee-des-prix-de-passage_6763087_3234.html",
+   "n_members": 53,
    "n_sources": 29,
    "counts": {
-    "left": 8,
-    "centre": 11,
-    "right": 10
+    "left": 7,
+    "centre": 16,
+    "right": 6
    },
    "style_counts": {
-    "factuel": 12,
-    "mixte": 13,
-    "opinion": 4
+    "factuel": 19,
+    "mixte": 8,
+    "opinion": 2
    },
-   "blindspot_score": 0.111,
+   "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.281,
-   "category": "société",
+   "divergence": 0.392,
+   "category": "environnement",
    "terms_left": [
-    "programme",
-    "acquis",
-    "programme international"
+    "forte",
+    "intensité",
+    "onu"
    ],
    "terms_right": [
-    "classement",
-    "classement pisa",
-    "sciences"
+    "qu",
+    "phénomène",
+    "fin"
    ]
   },
   {
-   "title": "Interdiction des réseaux sociaux aux moins de 15 ans : Emmanuel Macron réclame un texte européen",
-   "url": "https://information.tv5monde.com/international/rentree-politique-pour-andy-burnham-confronte-ses-premiers-tests-2835489",
-   "n_members": 59,
-   "n_sources": 29,
-   "counts": {
-    "left": 8,
-    "centre": 14,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 11,
-    "opinion": 3
-   },
-   "blindspot_score": -0.067,
-   "blindspot_for": null,
-   "divergence": 0.63,
-   "category": "société",
-   "terms_left": [
-    "handicap",
-    "nationale",
-    "conférence"
-   ],
-   "terms_right": [
-    "réseaux sociaux",
-    "sociaux",
-    "réseaux"
-   ]
-  },
-  {
-   "title": "Les Etats-Unis affirment avoir détruit trois pétroliers iraniens après des tirs contre deux de ses navires dans le Golfe persique",
+   "title": "Guerre en Iran: les Gardiens de la Révolution disent avoir attaqué un drone naval américain dans le détroit d'Ormuz",
    "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
-   "n_members": 166,
+   "n_members": 172,
    "n_sources": 28,
    "counts": {
     "left": 5,
@@ -261,23 +291,23 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.361,
+   "divergence": 0.377,
    "category": "international",
    "terms_left": [
     "etats-unis",
     "etats-unis iran",
-    "attaques"
+    "frappes iran"
    ],
    "terms_right": [
     "détroit",
     "états-unis",
-    "guerre moyen-orient"
+    "armée"
    ]
   },
   {
    "title": "Le directeur scientifique d’OpenAI indique perdre le contrôle sur le raisonnement de ses IA",
    "url": "https://www.leprogres.fr/science-et-technologie/2026/08/31/chatgpt-bientot-soumis-a-des-regles-renforcees-dans-l-union-europeenne",
-   "n_members": 61,
+   "n_members": 62,
    "n_sources": 28,
    "counts": {
     "left": 5,
@@ -291,47 +321,77 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.776,
+   "divergence": 0.791,
    "category": "sciences-tech",
    "terms_left": [
     "astra",
-    "site",
-    "lance"
+    "santé",
+    "site"
    ],
    "terms_right": [
     "ia",
-    "hugging",
-    "hugging face"
+    "hugging face",
+    "hugging"
    ]
   },
   {
-   "title": "Canal de Panama : El Niño aggrave la sécheresse, le nombre de navires autorisés à passer encore réduit, et ce n’est pas terminé…",
-   "url": "https://www.lemonde.fr/economie/article/2026/09/01/dans-le-canal-de-panama-el-nino-impose-une-baisse-du-trafic-maritime-et-l-envolee-des-prix-de-passage_6763087_3234.html",
-   "n_members": 50,
+   "title": "Grève des pompiers pendant six semaines: les soldats du feu réclament plus de moyens",
+   "url": "https://www.europe1.fr/police-justice/il-ny-a-pas-de-juste-retour-face-au-manque-de-moyens-le-ras-le-bol-des-policiers-nationaux-pourrait-prendre-de-lampleur-1053245",
+   "n_members": 53,
    "n_sources": 28,
    "counts": {
-    "left": 7,
-    "centre": 15,
-    "right": 6
+    "left": 6,
+    "centre": 14,
+    "right": 8
    },
    "style_counts": {
-    "factuel": 18,
-    "mixte": 8,
-    "opinion": 2
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 3
    },
-   "blindspot_score": -0.077,
+   "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.398,
-   "category": "environnement",
+   "divergence": 0.571,
+   "category": "société",
    "terms_left": [
-    "intensité",
-    "forte",
-    "onu"
+    "marqué",
+    "ministère",
+    "intérieur"
    ],
    "terms_right": [
-    "panama",
-    "phénomène",
-    "canal panama"
+    "mobilisation",
+    "sapeurs-pompiers",
+    "nationale"
+   ]
+  },
+  {
+   "title": "Retour de l'abaya à l'école : plusieurs candidats à la présidentielle accusent LFI de «trahir» la laïcité",
+   "url": "https://www.telerama.fr/livre/prix-goncourt-2026-philippe-jaenada-sonia-devillers-anne-godard-la-premiere-selection-devoilee-7032686.php",
+   "n_members": 62,
+   "n_sources": 27,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.83,
+   "category": "politique",
+   "terms_left": [
+    "prix",
+    "sélection",
+    "goncourt"
+   ],
+   "terms_right": [
+    "présidentielle",
+    "françois",
+    "français"
    ]
   },
   {
@@ -351,7 +411,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.749,
+   "divergence": 0.746,
    "category": "environnement",
    "terms_left": [
     "chaud",
@@ -361,7 +421,37 @@
    "terms_right": [
     "températures",
     "semaine",
-    "annonce"
+    "record"
+   ]
+  },
+  {
+   "title": "Femmes écartées durant la visite d'une délégation hindoue : la tour Eiffel rouvre après la grève",
+   "url": "https://www.bfmtv.com/societe/greves/video-tour-eiffel-le-monument-parisien-ferme-pour-des-raisons-operationnelles_VN-202609070638.html",
+   "n_members": 74,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.26,
+   "category": "société",
+   "terms_left": [
+    "femmes",
+    "femmes employées",
+    "qu"
+   ],
+   "terms_right": [
+    "personnel féminin",
+    "féminin",
+    "mouvement"
    ]
   },
   {
@@ -395,66 +485,6 @@
    ]
   },
   {
-   "title": "Retour de l'abaya à l'école : plusieurs candidats à la présidentielle accusent LFI de «trahir» la laïcité",
-   "url": "https://www.telerama.fr/livre/prix-goncourt-2026-philippe-jaenada-sonia-devillers-anne-godard-la-premiere-selection-devoilee-7032686.php",
-   "n_members": 60,
-   "n_sources": 26,
-   "counts": {
-    "left": 7,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.832,
-   "category": "politique",
-   "terms_left": [
-    "prix",
-    "sélection",
-    "goncourt"
-   ],
-   "terms_right": [
-    "présidentielle",
-    "françois",
-    "français"
-   ]
-  },
-  {
-   "title": "Grève des pompiers pendant six semaines: les soldats du feu réclament plus de moyens",
-   "url": "https://www.europe1.fr/police-justice/il-ny-a-pas-de-juste-retour-face-au-manque-de-moyens-le-ras-le-bol-des-policiers-nationaux-pourrait-prendre-de-lampleur-1053245",
-   "n_members": 50,
-   "n_sources": 26,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.595,
-   "category": "société",
-   "terms_left": [
-    "marqué",
-    "organisations",
-    "réclamer moyens"
-   ],
-   "terms_right": [
-    "sapeurs-pompiers",
-    "mobilisation",
-    "nationale"
-   ]
-  },
-  {
    "title": "\"Témoigner de la honte de l'Église\": le pape Léon à XIV recevra sept victimes de violences sexuelles à Lourdes mais pas le collectif de Bétharram",
    "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-du-pape-a-metz-les-tarifs-des-chambres-grimpent-en-fleche-pour-la-venue-du-souverain-pontife-fin-septembre_8152271.html",
    "n_members": 74,
@@ -471,7 +501,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.508,
+   "divergence": 0.509,
    "category": "société",
    "terms_left": [
     "collectif",
@@ -487,7 +517,7 @@
   {
    "title": "Présidentielle 2027 : Bruno Retailleau dénonce l’amateurisme du Rassemblement national",
    "url": "https://www.lemonde.fr/societe/article/2026/08/31/vincent-bollore-depose-plainte-pour-association-de-malfaiteurs-contre-des-magistrats-apres-son-renvoi-devant-le-tribunal-pour-corruption_6762587_3224.html",
-   "n_members": 70,
+   "n_members": 71,
    "n_sources": 25,
    "counts": {
     "left": 7,
@@ -501,7 +531,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.694,
+   "divergence": 0.678,
    "category": "politique",
    "terms_left": [
     "bolloré",
@@ -510,8 +540,8 @@
    ],
    "terms_right": [
     "pen",
-    "marine",
-    "marine pen"
+    "marine pen",
+    "marine"
    ]
   },
   {
@@ -539,39 +569,9 @@
     "partie dette"
    ],
    "terms_right": [
-    "france",
     "voile",
-    "politique"
-   ]
-  },
-  {
-   "title": "Femmes écartées durant la visite d'une délégation hindoue : la tour Eiffel rouvre après la grève",
-   "url": "https://www.bfmtv.com/societe/greves/video-tour-eiffel-le-monument-parisien-ferme-pour-des-raisons-operationnelles_VN-202609070638.html",
-   "n_members": 59,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 4
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.27,
-   "category": "société",
-   "terms_left": [
-    "femmes",
-    "exclusion",
-    "hindoue société"
-   ],
-   "terms_right": [
-    "hindou",
-    "personnel féminin",
-    "féminin"
+    "france",
+    "guerre"
    ]
   },
   {
@@ -591,17 +591,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.486,
+   "divergence": 0.482,
    "category": "international",
    "terms_left": [
+    "retrouver",
     "sortis",
-    "face",
-    "retrouver"
+    "face"
    ],
    "terms_right": [
     "jours",
     "crue",
-    "secours"
+    "français"
    ]
   },
   {
@@ -651,7 +651,7 @@
    },
    "blindspot_score": -0.167,
    "blindspot_for": null,
-   "divergence": 0.382,
+   "divergence": 0.383,
    "category": "international",
    "terms_left": [
     "milliers",
@@ -662,6 +662,36 @@
     "chef",
     "mladic ancien",
     "chef militaire"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : le communiste Fabien Roussel officialise sa candidature",
+   "url": "https://www.ladepeche.fr/2026/09/03/presidentielle-2027-le-pen-en-tete-philippe-et-attal-decrochent-et-glucksmann-progresse-dans-lopinion-13534383.php",
+   "n_members": 71,
+   "n_sources": 24,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 4
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.566,
+   "category": "politique",
+   "terms_left": [
+    "nice",
+    "confirmé",
+    "elysée"
+   ],
+   "terms_right": [
+    "retailleau",
+    "présidentielle",
+    "philippe"
    ]
   },
   {
@@ -681,7 +711,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.625,
+   "divergence": 0.627,
    "category": "international",
    "terms_left": [
     "maroc",
@@ -689,9 +719,9 @@
     "ministre"
    ],
    "terms_right": [
-    "manifestants",
-    "france",
-    "douvres"
+    "migrants",
+    "migratoire",
+    "migratoire ceuta"
    ]
   },
   {
@@ -755,6 +785,36 @@
    ]
   },
   {
+   "title": "Budget 2027 : Matignon annonce saisir la justice après une fuite sur «des travaux internes» autour de l'épargne salariale",
+   "url": "https://www.challenges.fr/economie/glissez-vous-dans-la-peau-du-ministre-testez-la-bataille-du-budget-le-jeu-en-ligne-addictif-cree-par-lex-conseiller-budgetaire-de-gabriel-attal_645464",
+   "n_members": 59,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 9,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.467,
+   "blindspot_for": null,
+   "divergence": 0.412,
+   "category": "économie",
+   "terms_left": [
+    "annoncé",
+    "fuite",
+    "justice"
+   ],
+   "terms_right": [
+    "épargne salariale",
+    "épargne",
+    "salariale"
+   ]
+  },
+  {
    "title": "Ils sont réunis ce week-end à Monaco, pourquoi les réassureurs pourraient baisser leurs tarifs en 2027",
    "url": "https://www.latribune.fr/article/economie/vos-finances/66753959707786/assurance-vie-pourquoi-la-hausse-des-couts-d-emprunt-de-la-france-va-faire-grimper-les-rendements-des-fonds-euros",
    "n_members": 50,
@@ -785,63 +845,93 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : Éric Ciotti propose à Marine Le Pen «un pacte d'alliance»",
-   "url": "https://www.ladepeche.fr/2026/09/03/presidentielle-2027-le-pen-en-tete-philippe-et-attal-decrochent-et-glucksmann-progresse-dans-lopinion-13534383.php",
-   "n_members": 65,
+   "title": "Assassinat de l’ex-rugbyman argentin Federico Martin Aramburu : le procès de Loïk Le Priol et Romain Bouvier s’est ouvert à Paris",
+   "url": "https://www.liberation.fr/societe/police-justice/ce-que-jai-prefere-ce-sont-les-quatre-dernieres-bastos-que-je-lui-ai-mises-dans-le-buffet-les-propos-glacants-de-loik-le-priol-en-detention-accuse-de-lassassinat-daramburu-20260902_TWQ7QWNVQBGTZE2E57MIQUNMXQ/",
+   "n_members": 63,
    "n_sources": 23,
    "counts": {
-    "left": 3,
+    "left": 7,
+    "centre": 10,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": -0.077,
+   "blindspot_for": null,
+   "divergence": 0.419,
+   "category": "société",
+   "terms_left": [
+    "aramburú",
+    "droite",
+    "extrême"
+   ],
+   "terms_right": [
+    "aramburu",
+    "ultradroite",
+    "devant"
+   ]
+  },
+  {
+   "title": "Donald Trump publie une carte des États-Unis incluant les Antilles françaises",
+   "url": "https://www.leparisien.fr/international/etats-unis/cela-me-rend-malade-la-maison-blanche-cree-un-jeu-video-sur-les-expulsions-dimmigres-suscitant-lindignation-04-09-2026-BZAAAPPN4JCTLCJC4MHP75E7MM.php",
+   "n_members": 57,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
     "centre": 11,
-    "right": 9
+    "right": 8
    },
    "style_counts": {
     "factuel": 13,
     "mixte": 6,
     "opinion": 4
    },
-   "blindspot_score": 0.5,
+   "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.603,
-   "category": "politique",
+   "divergence": 0.641,
+   "category": "international",
    "terms_left": [
-    "droite",
-    "propositions",
-    "elysée"
+    "maison",
+    "blanche",
+    "maison blanche"
    ],
    "terms_right": [
-    "présidentielle",
-    "philippe",
-    "élection"
+    "trump",
+    "donald trump",
+    "donald"
    ]
   },
   {
-   "title": "Budget 2027 : Matignon annonce saisir la justice après une fuite sur «des travaux internes» autour de l'épargne salariale",
-   "url": "https://www.challenges.fr/economie/glissez-vous-dans-la-peau-du-ministre-testez-la-bataille-du-budget-le-jeu-en-ligne-addictif-cree-par-lex-conseiller-budgetaire-de-gabriel-attal_645464",
-   "n_members": 53,
-   "n_sources": 23,
+   "title": "EN DIRECT, guerre en Ukraine : après une nouvelle attaque russe, Volodymyr Zelensky veut demander à Donald Trump des missiles pour se protéger",
+   "url": "https://www.leparisien.fr/international/ukraine/un-nettoyage-culturel-plus-de-dix-millions-de-livres-ukrainiens-ont-brule-dans-des-attaques-russes-31-08-2026-PJAP7JBA2FBQXNF3XFVFHQN4VA.php",
+   "n_members": 102,
+   "n_sources": 22,
    "counts": {
-    "left": 4,
-    "centre": 8,
-    "right": 11
+    "left": 3,
+    "centre": 13,
+    "right": 6
    },
    "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 4
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 1
    },
-   "blindspot_score": 0.467,
+   "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.414,
-   "category": "économie",
+   "divergence": 0.45,
+   "category": "international",
    "terms_left": [
-    "annoncé",
-    "fuite",
-    "transmis"
+    "direct",
+    "direct guerre",
+    "qu"
    ],
    "terms_right": [
-    "épargne salariale",
-    "épargne",
-    "qu"
+    "russie",
+    "ukrainiens",
+    "services"
    ]
   },
   {
@@ -875,39 +965,69 @@
    ]
   },
   {
-   "title": "« Totalement inapproprié » : Donald Trump fait polémique après publication d’une fausse carte des États-Unis incluant les Antilles françaises, le Groenland, le Mexique…",
-   "url": "https://www.leparisien.fr/international/etats-unis/cela-me-rend-malade-la-maison-blanche-cree-un-jeu-video-sur-les-expulsions-dimmigres-suscitant-lindignation-04-09-2026-BZAAAPPN4JCTLCJC4MHP75E7MM.php",
-   "n_members": 51,
+   "title": "Etats-Unis : « Plus de ventes de Bombardier » en Amérique, Trump menace l’avionneur canadien",
+   "url": "https://www.cnews.fr/france/2026-09-01/prisons-la-france-compte-pres-de-90000-detenus-un-nouveau-record-1912322",
+   "n_members": 43,
    "n_sources": 22,
    "counts": {
     "left": 4,
-    "centre": 11,
-    "right": 7
+    "centre": 10,
+    "right": 8
    },
    "style_counts": {
-    "factuel": 13,
-    "mixte": 5,
-    "opinion": 4
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 2
    },
-   "blindspot_score": 0.273,
+   "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.662,
+   "divergence": 0.791,
    "category": "international",
    "terms_left": [
-    "maison",
-    "blanche",
-    "maison blanche"
+    "nouveau",
+    "commercial",
+    "vigueur"
    ],
    "terms_right": [
-    "trump",
-    "carte",
-    "migrants"
+    "états-unis",
+    "drones",
+    "américain"
+   ]
+  },
+  {
+   "title": "Cambriolage au musée Renoir Cagnes-sur-Mer : quatre tableaux ont été dérobés, les voleurs en perdent deux dans leur fuite, le préjudice chiffré à 9 millions d'euros",
+   "url": "https://www.nicematin.com/faits-divers/des-uvres-inestimables-portraits-de-famille-ou-scene-de-la-vie-courante-ce-que-l-on-sait-des-tableaux-de-renoir-volees-au-musee-de-cagnes-ce-mardi-matin-10719979",
+   "n_members": 43,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 10,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.366,
+   "category": "faits-divers",
+   "terms_left": [
+    "abandonnées",
+    "cagnes-sur-mer cambriolé",
+    "œuvres art"
+   ],
+   "terms_right": [
+    "millions euros",
+    "millions",
+    "euros"
    ]
   },
   {
    "title": "« Ras-le-bol fiscal… » Pourquoi les buralistes se mobilisent toute la semaine en France",
    "url": "https://reporterre.net/622-000-hectares-brules-en-Europe-la-carte-inedite-des-incendies-de-cet-ete",
-   "n_members": 41,
+   "n_members": 42,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -932,36 +1052,6 @@
     "prix",
     "mois",
     "hausse"
-   ]
-  },
-  {
-   "title": "EN DIRECT, guerre en Ukraine : après une nouvelle attaque russe, Volodymyr Zelensky veut demander à Donald Trump des missiles pour se protéger",
-   "url": "https://www.leparisien.fr/international/ukraine/un-nettoyage-culturel-plus-de-dix-millions-de-livres-ukrainiens-ont-brule-dans-des-attaques-russes-31-08-2026-PJAP7JBA2FBQXNF3XFVFHQN4VA.php",
-   "n_members": 99,
-   "n_sources": 21,
-   "counts": {
-    "left": 3,
-    "centre": 13,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 5,
-    "opinion": 1
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.454,
-   "category": "international",
-   "terms_left": [
-    "direct",
-    "direct guerre",
-    "qu"
-   ],
-   "terms_right": [
-    "russie",
-    "ukrainiens",
-    "services"
    ]
   },
   {
@@ -990,8 +1080,38 @@
    ],
    "terms_right": [
     "ans",
-    "knafo",
-    "édouard"
+    "édouard",
+    "veut"
+   ]
+  },
+  {
+   "title": "ZEvent : record pulvérisé pour l'ultime édition avec près de 33 millions d'euros récoltés",
+   "url": "https://www.konbini.com/internet/zevent-2026-le-big-don-de-bigflo-et-oli/",
+   "n_members": 65,
+   "n_sources": 21,
+   "counts": {
+    "left": 5,
+    "centre": 10,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.308,
+   "category": "sciences-tech",
+   "terms_left": [
+    "zevent",
+    "zevent records",
+    "fous"
+   ],
+   "terms_right": [
+    "récoltés",
+    "euros récoltés",
+    "défis"
    ]
   },
   {
@@ -1011,77 +1131,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.654,
+   "divergence": 0.67,
    "category": "politique",
    "terms_left": [
-    "parti",
-    "couper robinet",
-    "robinet"
+    "marine",
+    "argent",
+    "aide"
    ],
    "terms_right": [
     "présidentielle",
     "raphaël glucksmann",
     "raphaël"
-   ]
-  },
-  {
-   "title": "ZEvent : record pulvérisé pour l'ultime édition avec près de 33 millions d'euros récoltés",
-   "url": "https://www.konbini.com/internet/zevent-2026-le-big-don-de-bigflo-et-oli/",
-   "n_members": 61,
-   "n_sources": 21,
-   "counts": {
-    "left": 5,
-    "centre": 10,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.318,
-   "category": "sciences-tech",
-   "terms_left": [
-    "record dons",
-    "streameur",
-    "goals"
-   ],
-   "terms_right": [
-    "récoltés",
-    "euros récoltés",
-    "défis"
-   ]
-  },
-  {
-   "title": "Assassinat de l’ex-rugbyman argentin Federico Martin Aramburu : le procès de Loïk Le Priol et Romain Bouvier s’est ouvert à Paris",
-   "url": "https://www.liberation.fr/societe/police-justice/ce-que-jai-prefere-ce-sont-les-quatre-dernieres-bastos-que-je-lui-ai-mises-dans-le-buffet-les-propos-glacants-de-loik-le-priol-en-detention-accuse-de-lassassinat-daramburu-20260902_TWQ7QWNVQBGTZE2E57MIQUNMXQ/",
-   "n_members": 60,
-   "n_sources": 21,
-   "counts": {
-    "left": 5,
-    "centre": 10,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.454,
-   "category": "société",
-   "terms_left": [
-    "aramburú",
-    "droite",
-    "extrême"
-   ],
-   "terms_right": [
-    "aramburu",
-    "martin aramburu",
-    "devant"
    ]
   },
   {
@@ -1131,7 +1191,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.614,
+   "divergence": 0.613,
    "category": "société",
    "terms_left": [
     "devant",
@@ -1142,66 +1202,6 @@
     "france",
     "degré",
     "français"
-   ]
-  },
-  {
-   "title": "Violences sexistes et sexuelles : ce que prévoit la loi intégrale examinée dès ce lundi à l'Assemblée",
-   "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/la-ciivise-reclame-des-garanties-pour-les-eleves-qui-repondront-au-questionnaire-sur-les-violences-sexuelles-distrubue-dans-les-ecoles_8173751.html",
-   "n_members": 42,
-   "n_sources": 21,
-   "counts": {
-    "left": 7,
-    "centre": 9,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": -0.167,
-   "blindspot_for": null,
-   "divergence": 0.371,
-   "category": "société",
-   "terms_left": [
-    "associations",
-    "associations féministes",
-    "féministes"
-   ],
-   "terms_right": [
-    "violences sexuelles",
-    "législatif",
-    "parcours législatif"
-   ]
-  },
-  {
-   "title": "Cambriolage au musée Renoir Cagnes-sur-Mer : quatre tableaux ont été dérobés, les voleurs en perdent deux dans leur fuite, le préjudice chiffré à 9 millions d'euros",
-   "url": "https://www.nicematin.com/faits-divers/des-uvres-inestimables-portraits-de-famille-ou-scene-de-la-vie-courante-ce-que-l-on-sait-des-tableaux-de-renoir-volees-au-musee-de-cagnes-ce-mardi-matin-10719979",
-   "n_members": 35,
-   "n_sources": 21,
-   "counts": {
-    "left": 4,
-    "centre": 9,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.384,
-   "category": "faits-divers",
-   "terms_left": [
-    "abandonnées",
-    "cagnes-sur-mer cambriolé",
-    "œuvres art"
-   ],
-   "terms_right": [
-    "dérobés",
-    "millions euros",
-    "millions"
    ]
   }
  ]
