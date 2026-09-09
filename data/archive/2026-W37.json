@@ -1,13 +1,43 @@
 {
  "week": "2026-W37",
- "generated_at": "2026-09-09T10:23:41+00:00",
+ "generated_at": "2026-09-09T14:43:25+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
+   "title": "Allemagne : très large victoire de l'AfD à l'élection régionale en Saxe-Anhalt",
+   "url": "https://www.lemonde.fr/idees/article/2026/09/02/en-allemagne-un-land-gouverne-par-l-afd-en-ferait-un-laboratoire-pour-les-projets-du-parti-le-plus-radical-des-droites-europeennes_6763872_3232.html",
+   "n_members": 301,
+   "n_sources": 36,
+   "counts": {
+    "left": 9,
+    "centre": 15,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 19,
+    "mixte": 12,
+    "opinion": 5
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.167,
+   "category": "international",
+   "terms_left": [
+    "absolue",
+    "majorité",
+    "majorité absolue"
+   ],
+   "terms_right": [
+    "élection",
+    "élections saxe-anhalt",
+    "tête"
+   ]
+  },
+  {
    "title": "Classement Pisa 2026 : les résultats des élèves français n'ont jamais été aussi bas, la baisse des performances en lecture \"particulièrement préoccupante\"",
    "url": "https://www.sudradio.fr/societe/education-cinq-choses-a-savoir-sur-lenquete-pisa",
-   "n_members": 109,
+   "n_members": 117,
    "n_sources": 36,
    "counts": {
     "left": 8,
@@ -21,7 +51,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.251,
+   "divergence": 0.238,
    "category": "société",
    "terms_left": [
     "programme",
@@ -32,36 +62,6 @@
     "classement",
     "classement pisa",
     "qu"
-   ]
-  },
-  {
-   "title": "Allemagne : très large victoire de l'AfD à l'élection régionale en Saxe-Anhalt",
-   "url": "https://www.lemonde.fr/idees/article/2026/09/02/en-allemagne-un-land-gouverne-par-l-afd-en-ferait-un-laboratoire-pour-les-projets-du-parti-le-plus-radical-des-droites-europeennes_6763872_3232.html",
-   "n_members": 298,
-   "n_sources": 35,
-   "counts": {
-    "left": 8,
-    "centre": 15,
-    "right": 12
-   },
-   "style_counts": {
-    "factuel": 19,
-    "mixte": 11,
-    "opinion": 5
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.167,
-   "category": "international",
-   "terms_left": [
-    "absolue",
-    "majorité absolue",
-    "démocratie"
-   ],
-   "terms_right": [
-    "tête",
-    "élection",
-    "élections saxe-anhalt"
    ]
   },
   {
@@ -97,7 +97,7 @@
   {
    "title": "Budget 2027 : Sébastien Lecornu envisage de diminuer l’indemnité des ministres et conseillers de son gouvernement",
    "url": "https://www.europe1.fr/politique/jusqua-400eu-le-week-end-le-tarif-des-universites-dete-de-lfi-fait-polemique-1014659",
-   "n_members": 168,
+   "n_members": 178,
    "n_sources": 33,
    "counts": {
     "left": 6,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.54,
+   "divergence": 0.515,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -121,7 +121,7 @@
    "terms_right": [
     "gouvernement",
     "ministres",
-    "bruno maire"
+    "finances"
    ]
   },
   {
@@ -141,17 +141,17 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.349,
+   "divergence": 0.357,
    "category": "international",
    "terms_left": [
+    "allemagne accuse",
     "consulat",
-    "attaque drone",
-    "allemagne accuse"
+    "attaque drone"
    ],
    "terms_right": [
     "chargé",
-    "drone chargé",
-    "berlin"
+    "berlin",
+    "russes"
    ]
   },
   {
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.222,
+   "divergence": 0.234,
    "category": "international",
    "terms_left": [
     "direct",
@@ -180,8 +180,8 @@
    ],
    "terms_right": [
     "kiev",
-    "arrivés kiev",
-    "russe"
+    "russe",
+    "discussions"
    ]
   },
   {
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.645,
+   "divergence": 0.644,
    "category": "société",
    "terms_left": [
     "handicap",
@@ -212,6 +212,36 @@
     "réseaux",
     "réseaux sociaux",
     "sociaux"
+   ]
+  },
+  {
+   "title": "Moyen-Orient : Téhéran cible la Jordanie et le Golfe après des attaques américaines contre des pétroliers iraniens",
+   "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
+   "n_members": 205,
+   "n_sources": 29,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.331,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "américaines pétroliers",
+    "etats-unis iran"
+   ],
+   "terms_right": [
+    "ormuz",
+    "détroit ormuz",
+    "états-unis"
    ]
   },
   {
@@ -231,17 +261,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.364,
+   "divergence": 0.392,
    "category": "politique",
    "terms_left": [
+    "ukraine",
     "droite",
-    "extrême droite",
-    "signature"
+    "extrême droite"
    ],
    "terms_right": [
-    "présidentielle",
-    "politique",
-    "nigel farage"
+    "nigel farage",
+    "nigel",
+    "présidentielle"
    ]
   },
   {
@@ -275,36 +305,6 @@
    ]
   },
   {
-   "title": "Moyen-Orient : Téhéran cible la Jordanie et le Golfe après des attaques américaines contre des pétroliers iraniens",
-   "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
-   "n_members": 201,
-   "n_sources": 28,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.341,
-   "category": "international",
-   "terms_left": [
-    "etats-unis",
-    "américaines pétroliers",
-    "etats-unis iran"
-   ],
-   "terms_right": [
-    "détroit",
-    "états-unis",
-    "moyen-orient"
-   ]
-  },
-  {
    "title": "Présidentielle 2027 : Bruno Retailleau dénonce l’amateurisme du Rassemblement national",
    "url": "https://www.lemonde.fr/societe/article/2026/08/31/vincent-bollore-depose-plainte-pour-association-de-malfaiteurs-contre-des-magistrats-apres-son-renvoi-devant-le-tribunal-pour-corruption_6762587_3224.html",
    "n_members": 81,
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.676,
+   "divergence": 0.671,
    "category": "politique",
    "terms_left": [
     "bolloré",
@@ -332,6 +332,36 @@
     "pen",
     "marine pen",
     "marine"
+   ]
+  },
+  {
+   "title": "Femmes écartées durant la visite d'une délégation hindoue : la tour Eiffel rouvre après la grève",
+   "url": "https://www.bfmtv.com/societe/greves/video-tour-eiffel-le-monument-parisien-ferme-pour-des-raisons-operationnelles_VN-202609070638.html",
+   "n_members": 79,
+   "n_sources": 28,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.266,
+   "category": "société",
+   "terms_left": [
+    "femmes",
+    "exclusion",
+    "femmes employées"
+   ],
+   "terms_right": [
+    "personnel féminin",
+    "féminin",
+    "mouvement"
    ]
   },
   {
@@ -395,36 +425,6 @@
    ]
   },
   {
-   "title": "Femmes écartées durant la visite d'une délégation hindoue : la tour Eiffel rouvre après la grève",
-   "url": "https://www.bfmtv.com/societe/greves/video-tour-eiffel-le-monument-parisien-ferme-pour-des-raisons-operationnelles_VN-202609070638.html",
-   "n_members": 78,
-   "n_sources": 27,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 9,
-    "opinion": 4
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.266,
-   "category": "société",
-   "terms_left": [
-    "femmes",
-    "exclusion",
-    "femmes employées"
-   ],
-   "terms_right": [
-    "personnel féminin",
-    "féminin",
-    "mouvement"
-   ]
-  },
-  {
    "title": "Retour de l'abaya à l'école : plusieurs candidats à la présidentielle accusent LFI de «trahir» la laïcité",
    "url": "https://www.telerama.fr/livre/prix-goncourt-2026-philippe-jaenada-sonia-devillers-anne-godard-la-premiere-selection-devoilee-7032686.php",
    "n_members": 71,
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.751,
+   "divergence": 0.75,
    "category": "environnement",
    "terms_left": [
     "chaud",
@@ -512,6 +512,36 @@
     "hollande",
     "estime",
     "france"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : Fabien Roussel, secrétaire national du Parti communiste, officialise sa candidature",
+   "url": "https://www.ladepeche.fr/2026/09/03/presidentielle-2027-le-pen-en-tete-philippe-et-attal-decrochent-et-glucksmann-progresse-dans-lopinion-13534383.php",
+   "n_members": 83,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.544,
+   "category": "politique",
+   "terms_left": [
+    "nice",
+    "présidentielle edouard",
+    "qu"
+   ],
+   "terms_right": [
+    "bruno retailleau",
+    "bruno",
+    "campagne"
    ]
   },
   {
@@ -561,7 +591,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.652,
+   "divergence": 0.651,
    "category": "politique",
    "terms_left": [
     "dette",
@@ -572,6 +602,36 @@
     "voile",
     "france",
     "politique"
+   ]
+  },
+  {
+   "title": "Le conflit entre Washington et Ottawa s'envenime: Donald Trump réplique aux surtaxes du Canada en interdisant l'importation de certains produits et en relevant ses droits de douane sur plusieurs marchandises",
+   "url": "https://www.cnews.fr/france/2026-09-01/prisons-la-france-compte-pres-de-90000-detenus-un-nouveau-record-1912322",
+   "n_members": 63,
+   "n_sources": 25,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.705,
+   "category": "international",
+   "terms_left": [
+    "conflit",
+    "riposte",
+    "commercial"
+   ],
+   "terms_right": [
+    "trump",
+    "états-unis",
+    "donald trump"
    ]
   },
   {
@@ -591,7 +651,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.417,
+   "divergence": 0.42,
    "category": "économie",
    "terms_left": [
     "annoncé",
@@ -607,7 +667,7 @@
   {
    "title": "Cambriolage au musée Renoir Cagnes-sur-Mer : quatre tableaux ont été dérobés, les voleurs en perdent deux dans leur fuite, le préjudice chiffré à 9 millions d'euros",
    "url": "https://www.nicematin.com/faits-divers/des-uvres-inestimables-portraits-de-famille-ou-scene-de-la-vie-courante-ce-que-l-on-sait-des-tableaux-de-renoir-volees-au-musee-de-cagnes-ce-mardi-matin-10719979",
-   "n_members": 54,
+   "n_members": 57,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -621,11 +681,11 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.327,
+   "divergence": 0.325,
    "category": "faits-divers",
    "terms_left": [
-    "cagnes-sur-mer cambriolé",
     "abandonnées",
+    "cagnes-sur-mer cambriolé",
     "vols"
    ],
    "terms_right": [
@@ -651,17 +711,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.479,
+   "divergence": 0.48,
    "category": "international",
    "terms_left": [
-    "retrouver",
+    "face",
     "sortis",
-    "face"
+    "vivants tunnel"
    ],
    "terms_right": [
     "jours",
     "crue",
-    "français"
+    "népal"
    ]
   },
   {
@@ -681,7 +741,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.639,
+   "divergence": 0.64,
    "category": "environnement",
    "terms_left": [
     "landes",
@@ -689,39 +749,9 @@
     "précédent record"
    ],
    "terms_right": [
-    "fin",
     "semaine",
-    "jusqu"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : le communiste Fabien Roussel officialise sa candidature",
-   "url": "https://www.ladepeche.fr/2026/09/03/presidentielle-2027-le-pen-en-tete-philippe-et-attal-decrochent-et-glucksmann-progresse-dans-lopinion-13534383.php",
-   "n_members": 80,
-   "n_sources": 24,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 4
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.537,
-   "category": "politique",
-   "terms_left": [
-    "nice",
-    "propose",
-    "confirmé"
-   ],
-   "terms_right": [
-    "retailleau",
-    "bruno retailleau",
-    "bruno"
+    "jusqu",
+    "fin"
    ]
   },
   {
@@ -831,7 +861,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.83,
+   "divergence": 0.816,
    "category": "sciences-tech",
    "terms_left": [
     "télescope",
@@ -839,45 +869,15 @@
     "nouveau télescope"
    ],
    "terms_right": [
-    "france",
     "états-unis",
-    "cartographie mondiale"
-   ]
-  },
-  {
-   "title": "Le conflit entre Washington et Ottawa s'envenime: Donald Trump réplique aux surtaxes du Canada en interdisant l'importation de certains produits et en relevant ses droits de douane sur plusieurs marchandises",
-   "url": "https://www.cnews.fr/france/2026-09-01/prisons-la-france-compte-pres-de-90000-detenus-un-nouveau-record-1912322",
-   "n_members": 61,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.715,
-   "category": "international",
-   "terms_left": [
-    "conflit",
-    "commercial",
-    "riposte"
-   ],
-   "terms_right": [
-    "états-unis",
-    "trump",
-    "drones"
+    "cartographie mondiale",
+    "cartographie"
    ]
   },
   {
    "title": "Donald Trump publie une carte des États-Unis incluant les Antilles françaises",
    "url": "https://www.leparisien.fr/international/etats-unis/cela-me-rend-malade-la-maison-blanche-cree-un-jeu-video-sur-les-expulsions-dimmigres-suscitant-lindignation-04-09-2026-BZAAAPPN4JCTLCJC4MHP75E7MM.php",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -905,9 +905,9 @@
    ]
   },
   {
-   "title": "Ils sont réunis ce week-end à Monaco, pourquoi les réassureurs pourraient baisser leurs tarifs en 2027",
+   "title": "Les prix de la réassurance, qui \"assure les assureurs\", sont attendus en baisse pour 2027 car les sinistes ont jusqu'ici été moins coûteux que prévu (mais le deuxième semestre pourrait renverser la tendance)",
    "url": "https://www.latribune.fr/article/economie/vos-finances/66753959707786/assurance-vie-pourquoi-la-hausse-des-couts-d-emprunt-de-la-france-va-faire-grimper-les-rendements-des-fonds-euros",
-   "n_members": 50,
+   "n_members": 51,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -921,7 +921,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.874,
+   "divergence": 0.876,
    "category": "économie",
    "terms_left": [
     "santé",
@@ -930,14 +930,44 @@
    ],
    "terms_right": [
     "taux",
-    "france",
+    "gouvernement",
     "prix"
+   ]
+  },
+  {
+   "title": "7 octobre : Benyamin Nétanyahou mis en cause après une enquête affirmant qu’il avait été alerté d’une attaque du Hamas à venir",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/en-israel-le-7-octobre-s-invite-dans-la-campagne-electorale-6216732",
+   "n_members": 46,
+   "n_sources": 24,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": -0.091,
+   "blindspot_for": null,
+   "divergence": 0.728,
+   "category": "international",
+   "terms_left": [
+    "président",
+    "hamas",
+    "saison"
+   ],
+   "terms_right": [
+    "attaques",
+    "benyamin netanyahou",
+    "netanyahou"
    ]
   },
   {
    "title": "Assassinat de l’ex-rugbyman argentin Federico Martin Aramburu : le procès de Loïk Le Priol et Romain Bouvier s’est ouvert à Paris",
    "url": "https://www.liberation.fr/societe/police-justice/ce-que-jai-prefere-ce-sont-les-quatre-dernieres-bastos-que-je-lui-ai-mises-dans-le-buffet-les-propos-glacants-de-loik-le-priol-en-detention-accuse-de-lassassinat-daramburu-20260902_TWQ7QWNVQBGTZE2E57MIQUNMXQ/",
-   "n_members": 74,
+   "n_members": 75,
    "n_sources": 23,
    "counts": {
     "left": 7,
@@ -951,7 +981,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.401,
+   "divergence": 0.415,
    "category": "société",
    "terms_left": [
     "aramburú",
@@ -991,7 +1021,7 @@
    "terms_right": [
     "prix",
     "mois",
-    "buralistes"
+    "hausse"
    ]
   },
   {
@@ -1011,7 +1041,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.449,
+   "divergence": 0.448,
    "category": "international",
    "terms_left": [
     "direct",
@@ -1055,9 +1085,9 @@
    ]
   },
   {
-   "title": "Football : la Fifa confirme la candidature de Gianni Infantino à sa réélection malgré la crise",
+   "title": "Présidentielle de la Fifa : Gianni Infantino maintient sa candidature en 2027",
    "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/pourquoi-luefa-pourrait-lever-sa-menace-de-boycott-des-competitions-de-la-fifa-26-08-2026-QMHPYH2MMZEDXGLKQSOCPRCHTM.php",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -1071,23 +1101,23 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.635,
+   "divergence": 0.621,
    "category": "sport",
    "terms_left": [
     "candidat",
     "réélection malgré",
-    "foot"
+    "fifa"
    ],
    "terms_right": [
-    "français",
     "projet",
-    "privés"
+    "candidature",
+    "français"
    ]
   },
   {
    "title": "Violences sexistes et sexuelles : ce que prévoit la loi intégrale examinée dès ce lundi à l'Assemblée",
    "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/la-ciivise-reclame-des-garanties-pour-les-eleves-qui-repondront-au-questionnaire-sur-les-violences-sexuelles-distrubue-dans-les-ecoles_8173751.html",
-   "n_members": 44,
+   "n_members": 45,
    "n_sources": 22,
    "counts": {
     "left": 7,
@@ -1101,47 +1131,17 @@
    },
    "blindspot_score": -0.167,
    "blindspot_for": null,
-   "divergence": 0.362,
+   "divergence": 0.354,
    "category": "société",
    "terms_left": [
     "associations",
-    "associations féministes",
-    "féministes"
+    "féministes",
+    "associations féministes"
    ],
    "terms_right": [
     "violences sexuelles",
     "législatif",
     "parcours législatif"
-   ]
-  },
-  {
-   "title": "7-Octobre : le bureau de Netanyahou dément qu’il a été informé d’une attaque à venir",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/en-israel-le-7-octobre-s-invite-dans-la-campagne-electorale-6216732",
-   "n_members": 40,
-   "n_sources": 22,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": -0.2,
-   "blindspot_for": null,
-   "divergence": 0.725,
-   "category": "international",
-   "terms_left": [
-    "hamas",
-    "président",
-    "saison"
-   ],
-   "terms_right": [
-    "benyamin netanyahou",
-    "attaques",
-    "netanyahou"
    ]
   },
   {
@@ -1191,17 +1191,17 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.309,
+   "divergence": 0.314,
    "category": "sciences-tech",
    "terms_left": [
     "zevent",
     "zevent records",
-    "ultime édition"
+    "édition zevent"
    ],
    "terms_right": [
-    "récoltés",
     "dons",
-    "euros récoltés"
+    "récoltés",
+    "twitch"
    ]
   }
  ]
