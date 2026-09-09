@@ -1,6 +1,6 @@
 {
  "week": "2026-W37",
- "generated_at": "2026-09-09T18:11:27+00:00",
+ "generated_at": "2026-09-09T21:04:24+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "L'AfD aux portes du pouvoir : l'extrême droite allemande signe une victoire historique en Saxe-Anhalt",
    "url": "https://www.lemonde.fr/idees/article/2026/09/02/en-allemagne-un-land-gouverne-par-l-afd-en-ferait-un-laboratoire-pour-les-projets-du-parti-le-plus-radical-des-droites-europeennes_6763872_3232.html",
-   "n_members": 303,
+   "n_members": 305,
    "n_sources": 36,
    "counts": {
     "left": 9,
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.156,
+   "divergence": 0.15,
    "category": "international",
    "terms_left": [
+    "droite",
     "absolue",
-    "majorité",
-    "majorité absolue"
+    "extrême"
    ],
    "terms_right": [
     "élection",
@@ -97,7 +97,7 @@
   {
    "title": "Budget 2027 : Sébastien Lecornu envisage de diminuer l’indemnité des ministres et conseillers de son gouvernement",
    "url": "https://www.europe1.fr/politique/jusqua-400eu-le-week-end-le-tarif-des-universites-dete-de-lfi-fait-polemique-1014659",
-   "n_members": 182,
+   "n_members": 183,
    "n_sources": 33,
    "counts": {
     "left": 6,
@@ -141,17 +141,17 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.359,
+   "divergence": 0.363,
    "category": "international",
    "terms_left": [
     "allemagne accuse",
-    "consulat",
-    "ukraine"
+    "ukraine",
+    "direct"
    ],
    "terms_right": [
     "chargé",
-    "berlin",
-    "russes"
+    "face",
+    "explosifs aéroport"
    ]
   },
   {
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.249,
+   "divergence": 0.268,
    "category": "international",
    "terms_left": [
     "direct",
@@ -180,8 +180,8 @@
    ],
    "terms_right": [
     "kiev",
-    "pourparlers",
-    "russe"
+    "moscou kiev",
+    "visite émissaires"
    ]
   },
   {
@@ -217,7 +217,7 @@
   {
    "title": "Moyen-Orient : Téhéran cible la Jordanie et le Golfe après des attaques américaines contre des pétroliers iraniens",
    "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
-   "n_members": 207,
+   "n_members": 209,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.322,
+   "divergence": 0.32,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -239,9 +239,9 @@
     "américaines pétroliers"
    ],
    "terms_right": [
-    "ormuz",
     "moyen-orient",
-    "détroit ormuz"
+    "ormuz",
+    "guerre moyen-orient"
    ]
   },
   {
@@ -269,8 +269,8 @@
     "extrême droite"
    ],
    "terms_right": [
-    "nigel",
     "nigel farage",
+    "nigel",
     "président"
    ]
   },
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.562,
+   "divergence": 0.561,
    "category": "société",
    "terms_left": [
     "marqué",
@@ -325,8 +325,8 @@
    "category": "environnement",
    "terms_left": [
     "mondiale",
-    "organisation météorologique",
-    "météorologique mondiale"
+    "météorologique mondiale",
+    "organisation météorologique"
    ],
    "terms_right": [
     "phénomène",
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.667,
+   "divergence": 0.666,
    "category": "politique",
    "terms_left": [
     "bolloré",
@@ -367,7 +367,7 @@
   {
    "title": "Femmes écartées durant la visite d'une délégation hindoue : la tour Eiffel rouvre après la grève",
    "url": "https://www.bfmtv.com/societe/greves/video-tour-eiffel-le-monument-parisien-ferme-pour-des-raisons-operationnelles_VN-202609070638.html",
-   "n_members": 79,
+   "n_members": 80,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.266,
+   "divergence": 0.267,
    "category": "société",
    "terms_left": [
     "femmes",
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.806,
+   "divergence": 0.807,
    "category": "politique",
    "terms_left": [
     "prix",
@@ -487,7 +487,7 @@
   {
    "title": "7 octobre : Benyamin Nétanyahou mis en cause après une enquête affirmant qu’il avait été alerté d’une attaque du Hamas à venir",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/en-israel-le-7-octobre-s-invite-dans-la-campagne-electorale-6216732",
-   "n_members": 50,
+   "n_members": 53,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -515,9 +515,9 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : Fabien Roussel, secrétaire national du Parti communiste, officialise sa candidature",
+   "title": "Présidentielle 2027 : Edouard Philippe « tend la main » au centre et à la droite mais Attal, Retailleau Lisnard et Bayrou déclinent",
    "url": "https://www.ladepeche.fr/2026/09/03/presidentielle-2027-le-pen-en-tete-philippe-et-attal-decrochent-et-glucksmann-progresse-dans-lopinion-13534383.php",
-   "n_members": 86,
+   "n_members": 88,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -531,12 +531,12 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.546,
+   "divergence": 0.514,
    "category": "politique",
    "terms_left": [
-    "qu",
-    "nice",
-    "présidentielle edouard"
+    "edouard",
+    "edouard philippe",
+    "qu"
    ],
    "terms_right": [
     "bruno retailleau",
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.661,
+   "divergence": 0.658,
    "category": "politique",
    "terms_left": [
     "campagne",
@@ -571,7 +571,67 @@
    "terms_right": [
     "hollande",
     "françois hollande",
-    "françois"
+    "estime"
+   ]
+  },
+  {
+   "title": "Propos racistes de policiers municipaux à Carcassonne : ce que l'on sait de la polémique",
+   "url": "https://www.leparisien.fr/faits-divers/negres-bougnoules-connasses-enquete-ouverte-apres-des-propos-racistes-sexistes-et-complotistes-dun-policier-municipal-de-carcassonne-09-09-2026-BGANEAIYMJBIZEWMUI7WA7J36I.php",
+   "n_members": 60,
+   "n_sources": 26,
+   "counts": {
+    "left": 7,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.379,
+   "category": "société",
+   "terms_left": [
+    "libre",
+    "midi",
+    "midi libre"
+   ],
+   "terms_right": [
+    "propos",
+    "policiers",
+    "propos racistes"
+   ]
+  },
+  {
+   "title": "\"L’IA pourrait tous nous tuer d’ici 2030\" : l’avertissement terrifiant d’un ancien chercheur d’OpenAI et Anthropic qui affirme que l’IA pourrait \"tuer tous les humains\"",
+   "url": "https://www.bfmtv.com/tech/intelligence-artificielle/l-ia-est-la-promesse-pour-l-humanite-de-depasser-une-nouvelle-frontiere-de-la-connaissance-jean-luc-melenchon-plaide-pour-une-ia-regulee-par-l-onu-et-controlee-democratiquement_AN-202609040758.html",
+   "n_members": 54,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.534,
+   "category": "sciences-tech",
+   "terms_left": [
+    "tuer",
+    "chercheur",
+    "gens"
+   ],
+   "terms_right": [
+    "humanité",
+    "homme",
+    "the"
    ]
   },
   {
@@ -591,7 +651,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.507,
+   "divergence": 0.506,
    "category": "société",
    "terms_left": [
     "collectif",
@@ -621,7 +681,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.7,
+   "divergence": 0.698,
    "category": "international",
    "terms_left": [
     "commercial",
@@ -651,17 +711,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.651,
+   "divergence": 0.652,
    "category": "politique",
    "terms_left": [
     "dette",
-    "française",
-    "partie dette"
+    "partie",
+    "annulation"
    ],
    "terms_right": [
     "voile",
     "france",
-    "politique"
+    "maire"
    ]
   },
   {
@@ -697,7 +757,7 @@
   {
    "title": "Cambriolage au musée Renoir Cagnes-sur-Mer : quatre tableaux ont été dérobés, les voleurs en perdent deux dans leur fuite, le préjudice chiffré à 9 millions d'euros",
    "url": "https://www.nicematin.com/faits-divers/des-uvres-inestimables-portraits-de-famille-ou-scene-de-la-vie-courante-ce-que-l-on-sait-des-tableaux-de-renoir-volees-au-musee-de-cagnes-ce-mardi-matin-10719979",
-   "n_members": 57,
+   "n_members": 58,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -711,47 +771,17 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.325,
+   "divergence": 0.308,
    "category": "faits-divers",
    "terms_left": [
-    "abandonnées",
     "cagnes-sur-mer cambriolé",
+    "abandonnées",
     "vols"
    ],
    "terms_right": [
     "millions euros",
     "millions",
     "euros"
-   ]
-  },
-  {
-   "title": "Carcassonne : ce que l'on sait du policier municipal accusé d'avoir tenu des propos racistes et misogynes",
-   "url": "https://www.leparisien.fr/faits-divers/negres-bougnoules-connasses-enquete-ouverte-apres-des-propos-racistes-sexistes-et-complotistes-dun-policier-municipal-de-carcassonne-09-09-2026-BGANEAIYMJBIZEWMUI7WA7J36I.php",
-   "n_members": 55,
-   "n_sources": 25,
-   "counts": {
-    "left": 7,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 10,
-    "opinion": 3
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.391,
-   "category": "société",
-   "terms_left": [
-    "libre",
-    "midi",
-    "midi libre"
-   ],
-   "terms_right": [
-    "propos",
-    "policiers",
-    "propos racistes"
    ]
   },
   {
@@ -951,7 +981,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.651,
+   "divergence": 0.652,
    "category": "international",
    "terms_left": [
     "maison",
@@ -1025,6 +1055,36 @@
    ]
   },
   {
+   "title": "La Russie et la Corée du Nord inaugurent leur première liaison routière",
+   "url": "https://www.tf1info.fr/justice-faits-divers/seine-saint-denis-deux-morts-et-quatre-blesses-dans-un-accident-avec-une-lamborghini-sur-l-autoroute-a3-2462509.html",
+   "n_members": 60,
+   "n_sources": 23,
+   "counts": {
+    "left": 3,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 5,
+    "opinion": 2
+   },
+   "blindspot_score": 0.4,
+   "blindspot_for": null,
+   "divergence": 0.896,
+   "category": "international",
+   "terms_left": [
+    "amérique",
+    "pérou",
+    "russes"
+   ],
+   "terms_right": [
+    "ans",
+    "nord",
+    "russie"
+   ]
+  },
+  {
    "title": "Ils réclament le gel des taxes sur le tabac et la fin de l'indexation automatique du prix des cigarettes sur l'inflation: les buralistes se mobilisent toute la semaine contre la \"spirale fiscale\"",
    "url": "https://reporterre.net/622-000-hectares-brules-en-Europe-la-carte-inedite-des-incendies-de-cet-ete",
    "n_members": 43,
@@ -1055,39 +1115,9 @@
    ]
   },
   {
-   "title": "« L’IA pourrait tuer tous les humains ! » : un chercheur d’Anthropic claque la porte avec une sévère mise en garde",
-   "url": "https://www.bfmtv.com/tech/intelligence-artificielle/l-ia-est-la-promesse-pour-l-humanite-de-depasser-une-nouvelle-frontiere-de-la-connaissance-jean-luc-melenchon-plaide-pour-une-ia-regulee-par-l-onu-et-controlee-democratiquement_AN-202609040758.html",
-   "n_members": 35,
-   "n_sources": 23,
-   "counts": {
-    "left": 6,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 10,
-    "opinion": 2
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.554,
-   "category": "sciences-tech",
-   "terms_left": [
-    "gens",
-    "croient",
-    "qu tuer"
-   ],
-   "terms_right": [
-    "humanité",
-    "homme",
-    "risque"
-   ]
-  },
-  {
    "title": "EN DIRECT, guerre en Ukraine : après une nouvelle attaque russe, Volodymyr Zelensky veut demander à Donald Trump des missiles pour se protéger",
    "url": "https://www.leparisien.fr/international/ukraine/un-nettoyage-culturel-plus-de-dix-millions-de-livres-ukrainiens-ont-brule-dans-des-attaques-russes-31-08-2026-PJAP7JBA2FBQXNF3XFVFHQN4VA.php",
-   "n_members": 103,
+   "n_members": 105,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -1101,7 +1131,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.447,
+   "divergence": 0.44,
    "category": "international",
    "terms_left": [
     "direct",
@@ -1109,9 +1139,9 @@
     "qu"
    ],
    "terms_right": [
-    "russie",
-    "ukrainiens",
-    "services"
+    "poutine",
+    "américain",
+    "accord"
    ]
   },
   {
@@ -1171,37 +1201,7 @@
    "terms_right": [
     "français",
     "projet",
-    "ans"
-   ]
-  },
-  {
-   "title": "Élargir le champ du référendum, projet phare de Bruno Retailleau pour 2027",
-   "url": "https://www.rfi.fr/fr/afrique/20260830-guin%C3%A9e-bissau-les-%C3%A9lecteurs-appel%C3%A9s-aux-urnes-pour-un-r%C3%A9f%C3%A9rendum-constitutionnel",
-   "n_members": 55,
-   "n_sources": 22,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 6,
-    "opinion": 4
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.677,
-   "category": "politique",
-   "terms_left": [
-    "constitutionnel",
-    "guinée-bissau",
-    "référendum"
-   ],
-   "terms_right": [
-    "bruno maire",
-    "qu",
-    "an"
+    "campagne"
    ]
   }
  ]
