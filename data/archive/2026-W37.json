@@ -1,13 +1,13 @@
 {
  "week": "2026-W37",
- "generated_at": "2026-09-09T00:52:44+00:00",
+ "generated_at": "2026-09-09T05:33:48+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Allemagne : très large victoire de l'AfD à l'élection régionale en Saxe-Anhalt",
    "url": "https://www.lemonde.fr/idees/article/2026/09/02/en-allemagne-un-land-gouverne-par-l-afd-en-ferait-un-laboratoire-pour-les-projets-du-parti-le-plus-radical-des-droites-europeennes_6763872_3232.html",
-   "n_members": 295,
+   "n_members": 296,
    "n_sources": 35,
    "counts": {
     "left": 8,
@@ -21,17 +21,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.163,
+   "divergence": 0.166,
    "category": "international",
    "terms_left": [
     "absolue",
-    "majorité absolue",
-    "démocratie"
+    "démocratie",
+    "majorité absolue"
    ],
    "terms_right": [
     "tête",
-    "élection régionale",
-    "largement"
+    "largement",
+    "élection régionale"
    ]
   },
   {
@@ -65,9 +65,39 @@
    ]
   },
   {
+   "title": "Classement Pisa 2026 : les résultats des élèves français n'ont jamais été aussi bas, la baisse des performances en lecture \"particulièrement préoccupante\"",
+   "url": "https://www.sudradio.fr/societe/education-cinq-choses-a-savoir-sur-lenquete-pisa",
+   "n_members": 101,
+   "n_sources": 34,
+   "counts": {
+    "left": 8,
+    "centre": 15,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 13,
+    "opinion": 5
+   },
+   "blindspot_score": 0.158,
+   "blindspot_for": null,
+   "divergence": 0.249,
+   "category": "société",
+   "terms_left": [
+    "programme",
+    "programme international",
+    "international suivi"
+   ],
+   "terms_right": [
+    "classement",
+    "classement pisa",
+    "qu"
+   ]
+  },
+  {
    "title": "Budget 2027 : le gouvernement Lecornu pris en étau entre dette, censure et pouvoir d’achat",
    "url": "https://www.europe1.fr/politique/jusqua-400eu-le-week-end-le-tarif-des-universites-dete-de-lfi-fait-polemique-1014659",
-   "n_members": 149,
+   "n_members": 150,
    "n_sources": 33,
    "counts": {
     "left": 6,
@@ -81,7 +111,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.566,
+   "divergence": 0.564,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -125,39 +155,9 @@
    ]
   },
   {
-   "title": "Classement Pisa 2026 : les résultats des élèves français n'ont jamais été aussi bas, la baisse des performances en lecture \"particulièrement préoccupante\"",
-   "url": "https://www.sudradio.fr/societe/education-cinq-choses-a-savoir-sur-lenquete-pisa",
-   "n_members": 97,
-   "n_sources": 32,
-   "counts": {
-    "left": 8,
-    "centre": 13,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 13,
-    "opinion": 5
-   },
-   "blindspot_score": 0.158,
-   "blindspot_for": null,
-   "divergence": 0.251,
-   "category": "société",
-   "terms_left": [
-    "programme",
-    "programme international",
-    "international suivi"
-   ],
-   "terms_right": [
-    "classement",
-    "classement pisa",
-    "qu"
-   ]
-  },
-  {
-   "title": "En direct : après Moscou, les émissaires de Trump se rendent pour la première fois en Ukraine",
+   "title": "Guerre en Ukraine: l'émissaire américain Jared Kushner espère que les discussions à Kiev auront permis de dégager de \"nouvelles pistes\"",
    "url": "https://www.tf1info.fr/international/video-c-est-un-double-message-des-russes-pourquoi-moscou-decide-de-frapper-le-siege-des-services-de-securite-ukrainiens-a-kiev-avant-la-venue-d-emissaires-americains-2462402.html",
-   "n_members": 192,
+   "n_members": 193,
    "n_sources": 31,
    "counts": {
     "left": 6,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.211,
+   "divergence": 0.212,
    "category": "international",
    "terms_left": [
     "direct",
@@ -179,8 +179,8 @@
     "détroit"
    ],
    "terms_right": [
-    "kiev",
     "russe",
+    "kiev",
     "veille"
    ]
   },
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.645,
+   "divergence": 0.644,
    "category": "société",
    "terms_left": [
     "handicap",
@@ -240,8 +240,8 @@
    ],
    "terms_right": [
     "présidentielle",
-    "nigel",
-    "nigel farage"
+    "nigel farage",
+    "nigel"
    ]
   },
   {
@@ -261,7 +261,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.442,
+   "divergence": 0.441,
    "category": "environnement",
    "terms_left": [
     "mondiale",
@@ -275,9 +275,9 @@
    ]
   },
   {
-   "title": "Guerre en Iran: les Gardiens de la Révolution disent avoir attaqué un drone naval américain dans le détroit d'Ormuz",
+   "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran frappe des bateaux américains dans le Golfe après les attaques des États-Unis sur des pétroliers iraniens",
    "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
-   "n_members": 179,
+   "n_members": 194,
    "n_sources": 28,
    "counts": {
     "left": 5,
@@ -291,17 +291,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.386,
+   "divergence": 0.349,
    "category": "international",
    "terms_left": [
     "etats-unis",
-    "pétroliers iraniens",
+    "navires",
     "etats-unis iran"
    ],
    "terms_right": [
     "détroit",
-    "guerre moyen-orient",
-    "états-unis"
+    "états-unis",
+    "guerre moyen-orient"
    ]
   },
   {
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.791,
+   "divergence": 0.792,
    "category": "sciences-tech",
    "terms_left": [
     "astra",
@@ -330,14 +330,14 @@
    ],
    "terms_right": [
     "ia",
-    "hugging",
-    "hugging face"
+    "hugging face",
+    "hugging"
    ]
   },
   {
    "title": "Grève des pompiers pendant six semaines: les soldats du feu réclament plus de moyens",
    "url": "https://www.europe1.fr/police-justice/il-ny-a-pas-de-juste-retour-face-au-manque-de-moyens-le-ras-le-bol-des-policiers-nationaux-pourrait-prendre-de-lampleur-1053245",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -397,7 +397,7 @@
   {
    "title": "Retour de l'abaya à l'école : plusieurs candidats à la présidentielle accusent LFI de «trahir» la laïcité",
    "url": "https://www.telerama.fr/livre/prix-goncourt-2026-philippe-jaenada-sonia-devillers-anne-godard-la-premiere-selection-devoilee-7032686.php",
-   "n_members": 66,
+   "n_members": 67,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.843,
+   "divergence": 0.842,
    "category": "politique",
    "terms_left": [
     "prix",
@@ -421,7 +421,7 @@
    "terms_right": [
     "présidentielle",
     "qu",
-    "français"
+    "europe"
    ]
   },
   {
@@ -441,12 +441,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.746,
+   "divergence": 0.745,
    "category": "environnement",
    "terms_left": [
     "chaud",
-    "enregistré",
-    "chaud enregistré"
+    "chaud enregistré",
+    "enregistré"
    ],
    "terms_right": [
     "températures",
@@ -501,17 +501,17 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.657,
+   "divergence": 0.665,
    "category": "politique",
    "terms_left": [
+    "campagne",
     "équipe",
-    "équipe campagne",
-    "campagne"
+    "équipe campagne"
    ],
    "terms_right": [
-    "marine pen",
-    "pen",
-    "marine"
+    "hollande",
+    "estime",
+    "france"
    ]
   },
   {
@@ -531,7 +531,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.509,
+   "divergence": 0.508,
    "category": "société",
    "terms_left": [
     "collectif",
@@ -541,7 +541,7 @@
    "terms_right": [
     "pape",
     "visite",
-    "france"
+    "léon xiv"
    ]
   },
   {
@@ -577,7 +577,7 @@
   {
    "title": "Budget 2027 : Matignon annonce saisir la justice après une fuite sur «des travaux internes» autour de l'épargne salariale",
    "url": "https://www.challenges.fr/economie/glissez-vous-dans-la-peau-du-ministre-testez-la-bataille-du-budget-le-jeu-en-ligne-addictif-cree-par-lex-conseiller-budgetaire-de-gabriel-attal_645464",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.415,
+   "divergence": 0.416,
    "category": "économie",
    "terms_left": [
     "annoncé",
@@ -601,7 +601,7 @@
    "terms_right": [
     "épargne salariale",
     "épargne",
-    "salariale"
+    "qu"
    ]
   },
   {
@@ -697,7 +697,7 @@
   {
    "title": "Présidentielle 2027 : le communiste Fabien Roussel officialise sa candidature",
    "url": "https://www.ladepeche.fr/2026/09/03/presidentielle-2027-le-pen-en-tete-philippe-et-attal-decrochent-et-glucksmann-progresse-dans-lopinion-13534383.php",
-   "n_members": 73,
+   "n_members": 75,
    "n_sources": 24,
    "counts": {
     "left": 3,
@@ -711,7 +711,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.539,
+   "divergence": 0.543,
    "category": "politique",
    "terms_left": [
     "nice",
@@ -877,7 +877,7 @@
   {
    "title": "Cambriolage au musée Renoir Cagnes-sur-Mer : quatre tableaux ont été dérobés, les voleurs en perdent deux dans leur fuite, le préjudice chiffré à 9 millions d'euros",
    "url": "https://www.nicematin.com/faits-divers/des-uvres-inestimables-portraits-de-famille-ou-scene-de-la-vie-courante-ce-que-l-on-sait-des-tableaux-de-renoir-volees-au-musee-de-cagnes-ce-mardi-matin-10719979",
-   "n_members": 47,
+   "n_members": 49,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -891,12 +891,12 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.338,
+   "divergence": 0.333,
    "category": "faits-divers",
    "terms_left": [
-    "abandonnées",
     "cagnes-sur-mer cambriolé",
-    "œuvres art"
+    "abandonnées",
+    "retrouvés"
    ],
    "terms_right": [
     "millions euros",
@@ -907,7 +907,7 @@
   {
    "title": "Assassinat de l’ex-rugbyman argentin Federico Martin Aramburu : le procès de Loïk Le Priol et Romain Bouvier s’est ouvert à Paris",
    "url": "https://www.liberation.fr/societe/police-justice/ce-que-jai-prefere-ce-sont-les-quatre-dernieres-bastos-que-je-lui-ai-mises-dans-le-buffet-les-propos-glacants-de-loik-le-priol-en-detention-accuse-de-lassassinat-daramburu-20260902_TWQ7QWNVQBGTZE2E57MIQUNMXQ/",
-   "n_members": 70,
+   "n_members": 71,
    "n_sources": 23,
    "counts": {
     "left": 7,
@@ -921,7 +921,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.424,
+   "divergence": 0.414,
    "category": "société",
    "terms_left": [
     "aramburú",
@@ -935,9 +935,39 @@
    ]
   },
   {
+   "title": "Droits de douane américains : Le Canada riposte aux attaques de Trump, Carney monte au créneau",
+   "url": "https://www.cnews.fr/france/2026-09-01/prisons-la-france-compte-pres-de-90000-detenus-un-nouveau-record-1912322",
+   "n_members": 57,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.769,
+   "category": "international",
+   "terms_left": [
+    "conflit",
+    "commercial",
+    "nouveau"
+   ],
+   "terms_right": [
+    "états-unis",
+    "drones",
+    "américain"
+   ]
+  },
+  {
    "title": "EN DIRECT, guerre en Ukraine : après une nouvelle attaque russe, Volodymyr Zelensky veut demander à Donald Trump des missiles pour se protéger",
    "url": "https://www.leparisien.fr/international/ukraine/un-nettoyage-culturel-plus-de-dix-millions-de-livres-ukrainiens-ont-brule-dans-des-attaques-russes-31-08-2026-PJAP7JBA2FBQXNF3XFVFHQN4VA.php",
-   "n_members": 102,
+   "n_members": 103,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -951,7 +981,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.45,
+   "divergence": 0.449,
    "category": "international",
    "terms_left": [
     "direct",
@@ -1025,36 +1055,6 @@
    ]
   },
   {
-   "title": "Droits de douane américains : Le Canada riposte aux attaques de Trump, Carney monte au créneau",
-   "url": "https://www.cnews.fr/france/2026-09-01/prisons-la-france-compte-pres-de-90000-detenus-un-nouveau-record-1912322",
-   "n_members": 51,
-   "n_sources": 22,
-   "counts": {
-    "left": 4,
-    "centre": 10,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.788,
-   "category": "international",
-   "terms_left": [
-    "commercial",
-    "nouveau",
-    "produits américains"
-   ],
-   "terms_right": [
-    "états-unis",
-    "drones",
-    "qu"
-   ]
-  },
-  {
    "title": "« Ras-le-bol fiscal… » Pourquoi les buralistes se mobilisent toute la semaine en France",
    "url": "https://reporterre.net/622-000-hectares-brules-en-Europe-la-carte-inedite-des-incendies-de-cet-ete",
    "n_members": 42,
@@ -1087,7 +1087,7 @@
   {
    "title": "7-Octobre : le bureau de Netanyahou dément qu’il a été informé d’une attaque à venir",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/en-israel-le-7-octobre-s-invite-dans-la-campagne-electorale-6216732",
-   "n_members": 36,
+   "n_members": 37,
    "n_sources": 22,
    "counts": {
     "left": 6,
@@ -1101,17 +1101,17 @@
    },
    "blindspot_score": -0.2,
    "blindspot_for": null,
-   "divergence": 0.749,
+   "divergence": 0.748,
    "category": "international",
    "terms_left": [
     "hamas",
-    "saison",
-    "informé"
+    "informé",
+    "président"
    ],
    "terms_right": [
     "benyamin netanyahou",
-    "attaques",
-    "benyamin"
+    "netanyahou",
+    "attaques"
    ]
   },
   {
@@ -1166,12 +1166,12 @@
    "terms_left": [
     "zevent",
     "zevent records",
-    "édition zevent"
+    "ultime édition"
    ],
    "terms_right": [
     "récoltés",
-    "euros récoltés",
-    "dons"
+    "dons",
+    "euros récoltés"
    ]
   },
   {
@@ -1191,7 +1191,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.67,
+   "divergence": 0.669,
    "category": "politique",
    "terms_left": [
     "marine",
