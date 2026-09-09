@@ -1,6 +1,6 @@
 {
  "week": "2026-W37",
- "generated_at": "2026-09-08T22:53:28+00:00",
+ "generated_at": "2026-09-09T00:52:44+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -240,8 +240,8 @@
    ],
    "terms_right": [
     "présidentielle",
-    "nigel farage",
-    "nigel"
+    "nigel",
+    "nigel farage"
    ]
   },
   {
@@ -265,8 +265,8 @@
    "category": "environnement",
    "terms_left": [
     "mondiale",
-    "organisation météorologique",
-    "météorologique mondiale"
+    "météorologique mondiale",
+    "organisation météorologique"
    ],
    "terms_right": [
     "phénomène",
@@ -277,7 +277,7 @@
   {
    "title": "Guerre en Iran: les Gardiens de la Révolution disent avoir attaqué un drone naval américain dans le détroit d'Ormuz",
    "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
-   "n_members": 176,
+   "n_members": 179,
    "n_sources": 28,
    "counts": {
     "left": 5,
@@ -291,17 +291,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.391,
+   "divergence": 0.386,
    "category": "international",
    "terms_left": [
     "etats-unis",
-    "etats-unis iran",
-    "mené"
+    "pétroliers iraniens",
+    "etats-unis iran"
    ],
    "terms_right": [
     "détroit",
-    "états-unis",
-    "guerre moyen-orient"
+    "guerre moyen-orient",
+    "états-unis"
    ]
   },
   {
@@ -337,7 +337,7 @@
   {
    "title": "Grève des pompiers pendant six semaines: les soldats du feu réclament plus de moyens",
    "url": "https://www.europe1.fr/police-justice/il-ny-a-pas-de-juste-retour-face-au-manque-de-moyens-le-ras-le-bol-des-policiers-nationaux-pourrait-prendre-de-lampleur-1053245",
-   "n_members": 57,
+   "n_members": 59,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.656,
+   "divergence": 0.657,
    "category": "politique",
    "terms_left": [
     "équipe",
@@ -1027,7 +1027,7 @@
   {
    "title": "Droits de douane américains : Le Canada riposte aux attaques de Trump, Carney monte au créneau",
    "url": "https://www.cnews.fr/france/2026-09-01/prisons-la-france-compte-pres-de-90000-detenus-un-nouveau-record-1912322",
-   "n_members": 48,
+   "n_members": 51,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -1041,12 +1041,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.794,
+   "divergence": 0.788,
    "category": "international",
    "terms_left": [
-    "nouveau",
     "commercial",
-    "vigueur"
+    "nouveau",
+    "produits américains"
    ],
    "terms_right": [
     "états-unis",
@@ -1082,6 +1082,36 @@
     "prix",
     "hausse",
     "mois"
+   ]
+  },
+  {
+   "title": "7-Octobre : le bureau de Netanyahou dément qu’il a été informé d’une attaque à venir",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/en-israel-le-7-octobre-s-invite-dans-la-campagne-electorale-6216732",
+   "n_members": 36,
+   "n_sources": 22,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": -0.2,
+   "blindspot_for": null,
+   "divergence": 0.749,
+   "category": "international",
+   "terms_left": [
+    "hamas",
+    "saison",
+    "informé"
+   ],
+   "terms_right": [
+    "benyamin netanyahou",
+    "attaques",
+    "benyamin"
    ]
   },
   {
@@ -1172,36 +1202,6 @@
     "présidentielle",
     "raphaël glucksmann",
     "raphaël"
-   ]
-  },
-  {
-   "title": "Rentrée scolaire : des professeurs manquants dans 53% des collèges et lycées, selon le premier syndicat du second degré",
-   "url": "https://www.bfmtv.com/immobilier/meme-le-logement-social-devient-inaccessible-60-des-loyers-du-parc-social-sont-superieurs-au-plafond-des-apl-12-ans-plus-tot-c-etait-39_AD-202609010767.html",
-   "n_members": 49,
-   "n_sources": 21,
-   "counts": {
-    "left": 5,
-    "centre": 8,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.612,
-   "category": "société",
-   "terms_left": [
-    "devant",
-    "classe",
-    "fondation"
-   ],
-   "terms_right": [
-    "france",
-    "degré",
-    "français"
    ]
   }
  ]
