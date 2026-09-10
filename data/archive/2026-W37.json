@@ -1,13 +1,13 @@
 {
  "week": "2026-W37",
- "generated_at": "2026-09-10T01:15:10+00:00",
+ "generated_at": "2026-09-10T06:12:18+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "L'AfD aux portes du pouvoir : l'extrême droite allemande signe une victoire historique en Saxe-Anhalt",
    "url": "https://www.lemonde.fr/idees/article/2026/09/02/en-allemagne-un-land-gouverne-par-l-afd-en-ferait-un-laboratoire-pour-les-projets-du-parti-le-plus-radical-des-droites-europeennes_6763872_3232.html",
-   "n_members": 307,
+   "n_members": 308,
    "n_sources": 37,
    "counts": {
     "left": 9,
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.182,
    "blindspot_for": null,
-   "divergence": 0.149,
+   "divergence": 0.147,
    "category": "international",
    "terms_left": [
     "droite",
-    "absolue",
-    "extrême"
+    "extrême",
+    "extrême droite"
    ],
    "terms_right": [
     "élection",
@@ -37,7 +37,7 @@
   {
    "title": "Classement Pisa 2026 : les résultats des élèves français n'ont jamais été aussi bas, la baisse des performances en lecture \"particulièrement préoccupante\"",
    "url": "https://www.sudradio.fr/societe/education-cinq-choses-a-savoir-sur-lenquete-pisa",
-   "n_members": 130,
+   "n_members": 131,
    "n_sources": 37,
    "counts": {
     "left": 8,
@@ -97,15 +97,15 @@
   {
    "title": "Budget 2027 : Sébastien Lecornu envisage de diminuer l’indemnité des ministres et conseillers de son gouvernement",
    "url": "https://www.europe1.fr/politique/jusqua-400eu-le-week-end-le-tarif-des-universites-dete-de-lfi-fait-polemique-1014659",
-   "n_members": 184,
-   "n_sources": 33,
+   "n_members": 185,
+   "n_sources": 34,
    "counts": {
     "left": 6,
-    "centre": 14,
+    "centre": 15,
     "right": 13
    },
    "style_counts": {
-    "factuel": 17,
+    "factuel": 18,
     "mixte": 10,
     "opinion": 6
    },
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.27,
+   "divergence": 0.282,
    "category": "international",
    "terms_left": [
     "direct",
@@ -180,8 +180,8 @@
    ],
    "terms_right": [
     "kiev",
-    "visite émissaires",
-    "frappes"
+    "pourparlers",
+    "visite émissaires"
    ]
   },
   {
@@ -217,7 +217,7 @@
   {
    "title": "Moyen-Orient : Téhéran cible la Jordanie et le Golfe après des attaques américaines contre des pétroliers iraniens",
    "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
-   "n_members": 209,
+   "n_members": 210,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.322,
+   "divergence": 0.323,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -277,7 +277,7 @@
   {
    "title": "Grève des pompiers pendant six semaines: les soldats du feu réclament plus de moyens",
    "url": "https://www.europe1.fr/police-justice/il-ny-a-pas-de-juste-retour-face-au-manque-de-moyens-le-ras-le-bol-des-policiers-nationaux-pourrait-prendre-de-lampleur-1053245",
-   "n_members": 62,
+   "n_members": 63,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.561,
+   "divergence": 0.548,
    "category": "société",
    "terms_left": [
     "marqué",
@@ -299,9 +299,9 @@
     "intérieur"
    ],
    "terms_right": [
+    "professionnels",
     "nationale",
-    "sapeurs-pompiers",
-    "professionnels"
+    "sapeurs-pompiers"
    ]
   },
   {
@@ -321,12 +321,12 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.436,
+   "divergence": 0.433,
    "category": "environnement",
    "terms_left": [
-    "mondiale",
-    "météorologique mondiale",
-    "organisation météorologique"
+    "intensité",
+    "forte",
+    "mondiale"
    ],
    "terms_right": [
     "phénomène",
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.666,
+   "divergence": 0.665,
    "category": "politique",
    "terms_left": [
     "bolloré",
@@ -425,9 +425,39 @@
    ]
   },
   {
+   "title": "7 octobre : Benyamin Nétanyahou mis en cause après une enquête affirmant qu’il avait été alerté d’une attaque du Hamas à venir",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/en-israel-le-7-octobre-s-invite-dans-la-campagne-electorale-6216732",
+   "n_members": 55,
+   "n_sources": 28,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.711,
+   "category": "international",
+   "terms_left": [
+    "hamas",
+    "israélien",
+    "ministre israélien"
+   ],
+   "terms_right": [
+    "mis",
+    "europe",
+    "mort"
+   ]
+  },
+  {
    "title": "Retour de l'abaya à l'école : plusieurs candidats à la présidentielle accusent LFI de «trahir» la laïcité",
    "url": "https://www.telerama.fr/livre/prix-goncourt-2026-philippe-jaenada-sonia-devillers-anne-godard-la-premiere-selection-devoilee-7032686.php",
-   "n_members": 71,
+   "n_members": 72,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -446,7 +476,7 @@
    "terms_left": [
     "prix",
     "sélection",
-    "goncourt"
+    "rentrée"
    ],
    "terms_right": [
     "présidentielle",
@@ -455,39 +485,9 @@
    ]
   },
   {
-   "title": "« On s’écharpe pour 30 % des situations » : face au risque de canicule, comment adapter nos logements sans tout climatiser ?",
-   "url": "https://www.leparisien.fr/international/allemagne/canicules-en-allemagne-nouveau-record-de-deces-lies-a-la-chaleur-cet-ete-environ-15-800-morts-27-08-2026-5OM4FCDVAZBYFNI5CRJ3S3WIBE.php",
-   "n_members": 61,
-   "n_sources": 27,
-   "counts": {
-    "left": 7,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.748,
-   "category": "environnement",
-   "terms_left": [
-    "chaud",
-    "chaud enregistré",
-    "enregistré"
-   ],
-   "terms_right": [
-    "canicule",
-    "semaine",
-    "annonce"
-   ]
-  },
-  {
    "title": "Propos racistes de policiers municipaux à Carcassonne : ce que l'on sait de la polémique",
    "url": "https://www.leparisien.fr/faits-divers/negres-bougnoules-connasses-enquete-ouverte-apres-des-propos-racistes-sexistes-et-complotistes-dun-policier-municipal-de-carcassonne-09-09-2026-BGANEAIYMJBIZEWMUI7WA7J36I.php",
-   "n_members": 61,
+   "n_members": 66,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -515,9 +515,39 @@
    ]
   },
   {
+   "title": "« On s’écharpe pour 30 % des situations » : face au risque de canicule, comment adapter nos logements sans tout climatiser ?",
+   "url": "https://www.leparisien.fr/international/allemagne/canicules-en-allemagne-nouveau-record-de-deces-lies-a-la-chaleur-cet-ete-environ-15-800-morts-27-08-2026-5OM4FCDVAZBYFNI5CRJ3S3WIBE.php",
+   "n_members": 61,
+   "n_sources": 27,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.75,
+   "category": "environnement",
+   "terms_left": [
+    "chaud",
+    "chaud enregistré",
+    "enregistré"
+   ],
+   "terms_right": [
+    "canicule",
+    "semaine",
+    "annonce"
+   ]
+  },
+  {
    "title": "\"L’IA pourrait tous nous tuer d’ici 2030\" : l’avertissement terrifiant d’un ancien chercheur d’OpenAI et Anthropic qui affirme que l’IA pourrait \"tuer tous les humains\"",
    "url": "https://www.bfmtv.com/tech/intelligence-artificielle/l-ia-est-la-promesse-pour-l-humanite-de-depasser-une-nouvelle-frontiere-de-la-connaissance-jean-luc-melenchon-plaide-pour-une-ia-regulee-par-l-onu-et-controlee-democratiquement_AN-202609040758.html",
-   "n_members": 56,
+   "n_members": 60,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -531,53 +561,23 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.53,
+   "divergence": 0.523,
    "category": "sciences-tech",
    "terms_left": [
-    "tuer",
     "chercheur",
+    "tuer",
     "gens"
    ],
    "terms_right": [
     "humanité",
-    "homme",
-    "the"
-   ]
-  },
-  {
-   "title": "7 octobre : Benyamin Nétanyahou mis en cause après une enquête affirmant qu’il avait été alerté d’une attaque du Hamas à venir",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/en-israel-le-7-octobre-s-invite-dans-la-campagne-electorale-6216732",
-   "n_members": 53,
-   "n_sources": 27,
-   "counts": {
-    "left": 6,
-    "centre": 14,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.756,
-   "category": "international",
-   "terms_left": [
-    "hamas",
-    "président",
-    "ministre israélien"
-   ],
-   "terms_right": [
-    "benyamin netanyahou",
-    "attaques",
-    "mis"
+    "avancée",
+    "homme"
    ]
   },
   {
    "title": "Présidentielle 2027 : Edouard Philippe « tend la main » au centre et à la droite mais Attal, Retailleau Lisnard et Bayrou déclinent",
    "url": "https://www.ladepeche.fr/2026/09/03/presidentielle-2027-le-pen-en-tete-philippe-et-attal-decrochent-et-glucksmann-progresse-dans-lopinion-13534383.php",
-   "n_members": 88,
+   "n_members": 89,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.514,
+   "divergence": 0.511,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -741,7 +741,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.42,
+   "divergence": 0.425,
    "category": "économie",
    "terms_left": [
     "annoncé",
@@ -751,13 +751,13 @@
    "terms_right": [
     "épargne salariale",
     "épargne",
-    "qu"
+    "salariale"
    ]
   },
   {
    "title": "Cambriolage au musée Renoir Cagnes-sur-Mer : quatre tableaux ont été dérobés, les voleurs en perdent deux dans leur fuite, le préjudice chiffré à 9 millions d'euros",
    "url": "https://www.nicematin.com/faits-divers/des-uvres-inestimables-portraits-de-famille-ou-scene-de-la-vie-courante-ce-que-l-on-sait-des-tableaux-de-renoir-volees-au-musee-de-cagnes-ce-mardi-matin-10719979",
-   "n_members": 58,
+   "n_members": 60,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -771,7 +771,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.308,
+   "divergence": 0.309,
    "category": "faits-divers",
    "terms_left": [
     "cagnes-sur-mer cambriolé",
@@ -834,8 +834,8 @@
    "divergence": 0.641,
    "category": "environnement",
    "terms_left": [
-    "landes",
     "partir",
+    "landes",
     "précédent record"
    ],
    "terms_right": [
@@ -981,7 +981,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.651,
+   "divergence": 0.655,
    "category": "international",
    "terms_left": [
     "maison",
@@ -991,7 +991,7 @@
    "terms_right": [
     "donald trump",
     "donald",
-    "trump"
+    "carte"
    ]
   },
   {
@@ -1041,7 +1041,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.875,
+   "divergence": 0.876,
    "category": "économie",
    "terms_left": [
     "santé",
@@ -1071,17 +1071,47 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.419,
+   "divergence": 0.445,
    "category": "société",
    "terms_left": [
     "aramburú",
-    "droite",
+    "extrême droite",
     "extrême"
    ],
    "terms_right": [
     "aramburu",
-    "militants ultradroite",
-    "jugés"
+    "jugés",
+    "militants ultradroite"
+   ]
+  },
+  {
+   "title": "Élargir le champ du référendum, projet phare de Bruno Retailleau pour 2027",
+   "url": "https://www.rfi.fr/fr/afrique/20260830-guin%C3%A9e-bissau-les-%C3%A9lecteurs-appel%C3%A9s-aux-urnes-pour-un-r%C3%A9f%C3%A9rendum-constitutionnel",
+   "n_members": 57,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 4
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.663,
+   "category": "politique",
+   "terms_left": [
+    "constitutionnel",
+    "guinée-bissau",
+    "sujets"
+   ],
+   "terms_right": [
+    "bruno maire",
+    "qu",
+    "maire"
    ]
   },
   {
@@ -1101,7 +1131,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.902,
+   "divergence": 0.901,
    "category": "économie",
    "terms_left": [
     "europe",
@@ -1110,14 +1140,14 @@
    ],
    "terms_right": [
     "prix",
-    "mois",
+    "buralistes",
     "hausse"
    ]
   },
   {
    "title": "EN DIRECT, guerre en Ukraine : après une nouvelle attaque russe, Volodymyr Zelensky veut demander à Donald Trump des missiles pour se protéger",
    "url": "https://www.leparisien.fr/international/ukraine/un-nettoyage-culturel-plus-de-dix-millions-de-livres-ukrainiens-ont-brule-dans-des-attaques-russes-31-08-2026-PJAP7JBA2FBQXNF3XFVFHQN4VA.php",
-   "n_members": 105,
+   "n_members": 106,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -1172,36 +1202,6 @@
     "écroué",
     "piratage fisc",
     "groupe"
-   ]
-  },
-  {
-   "title": "Présidentielle de la Fifa : Gianni Infantino maintient sa candidature en 2027",
-   "url": "https://www.leparisien.fr/sports/football/coupe-du-monde/pourquoi-luefa-pourrait-lever-sa-menace-de-boycott-des-competitions-de-la-fifa-26-08-2026-QMHPYH2MMZEDXGLKQSOCPRCHTM.php",
-   "n_members": 61,
-   "n_sources": 22,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.601,
-   "category": "sport",
-   "terms_left": [
-    "candidat",
-    "qu",
-    "fifa"
-   ],
-   "terms_right": [
-    "français",
-    "projet",
-    "campagne"
    ]
   }
  ]
