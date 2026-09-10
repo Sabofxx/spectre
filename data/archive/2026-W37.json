@@ -1,6 +1,6 @@
 {
  "week": "2026-W37",
- "generated_at": "2026-09-10T18:38:13+00:00",
+ "generated_at": "2026-09-10T21:20:17+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,17 +51,17 @@
    },
    "blindspot_score": 0.182,
    "blindspot_for": null,
-   "divergence": 0.154,
+   "divergence": 0.156,
    "category": "international",
    "terms_left": [
     "démocratie",
     "majorité",
-    "extrême"
+    "allemande"
    ],
    "terms_right": [
     "élection",
     "régionale",
-    "europe"
+    "allemagne afd"
    ]
   },
   {
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.509,
+   "divergence": 0.508,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.294,
+   "divergence": 0.293,
    "category": "international",
    "terms_left": [
     "direct",
@@ -187,7 +187,7 @@
   {
    "title": "Propos racistes de policiers municipaux à Carcassonne : ce que l'on sait de la polémique",
    "url": "https://www.leparisien.fr/faits-divers/negres-bougnoules-connasses-enquete-ouverte-apres-des-propos-racistes-sexistes-et-complotistes-dun-policier-municipal-de-carcassonne-09-09-2026-BGANEAIYMJBIZEWMUI7WA7J36I.php",
-   "n_members": 102,
+   "n_members": 103,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.297,
+   "divergence": 0.293,
    "category": "société",
    "terms_left": [
     "libre",
@@ -231,23 +231,23 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.604,
+   "divergence": 0.583,
    "category": "société",
    "terms_left": [
     "handicap",
-    "nationale",
-    "conférence"
+    "nationale handicap",
+    "conférence nationale"
    ],
    "terms_right": [
-    "texte",
     "réseaux",
-    "réseaux sociaux"
+    "réseaux sociaux",
+    "sociaux"
    ]
   },
   {
    "title": "Moyen-Orient : Téhéran cible la Jordanie et le Golfe après des attaques américaines contre des pétroliers iraniens",
    "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
-   "n_members": 213,
+   "n_members": 214,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -307,7 +307,7 @@
   {
    "title": "Midterms 2026 : Donald Trump promet 5 000 dollars à chaque Américain si les républicains gagnent",
    "url": "https://www.france24.com/fr/vid%C3%A9o/20260908-deux-mois-avant-les-%C3%A9lections-de-mi-mandat-la-popularit%C3%A9-de-trump-est-au-plus-bas",
-   "n_members": 78,
+   "n_members": 82,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.417,
+   "divergence": 0.415,
    "category": "international",
    "terms_left": [
     "convention républicaine",
@@ -365,9 +365,39 @@
    ]
   },
   {
+   "title": "\"L’IA pourrait tous nous tuer d’ici 2030\" : l’avertissement terrifiant d’un ancien chercheur d’OpenAI et Anthropic qui affirme que l’IA pourrait \"tuer tous les humains\"",
+   "url": "https://www.bfmtv.com/tech/intelligence-artificielle/l-ia-est-la-promesse-pour-l-humanite-de-depasser-une-nouvelle-frontiere-de-la-connaissance-jean-luc-melenchon-plaide-pour-une-ia-regulee-par-l-onu-et-controlee-democratiquement_AN-202609040758.html",
+   "n_members": 69,
+   "n_sources": 29,
+   "counts": {
+    "left": 7,
+    "centre": 15,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 11,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.489,
+   "category": "sciences-tech",
+   "terms_left": [
+    "gens",
+    "équation navier-stokes",
+    "qu tuer"
+   ],
+   "terms_right": [
+    "humanité",
+    "résolu",
+    "avancée"
+   ]
+  },
+  {
    "title": "Grève des pompiers pendant six semaines: les soldats du feu réclament plus de moyens",
    "url": "https://www.europe1.fr/police-justice/il-ny-a-pas-de-juste-retour-face-au-manque-de-moyens-le-ras-le-bol-des-policiers-nationaux-pourrait-prendre-de-lampleur-1053245",
-   "n_members": 63,
+   "n_members": 64,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -416,7 +446,7 @@
    "terms_left": [
     "intensité",
     "forte",
-    "forte intensité"
+    "onu prévoit"
    ],
    "terms_right": [
     "qu",
@@ -441,47 +471,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.267,
+   "divergence": 0.218,
    "category": "société",
    "terms_left": [
-    "femmes",
-    "délégation hindoue",
+    "salariées",
+    "hindoue",
     "exclusion"
    ],
    "terms_right": [
     "mouvement",
-    "personnel féminin",
-    "féminin"
-   ]
-  },
-  {
-   "title": "\"L’IA pourrait tous nous tuer d’ici 2030\" : l’avertissement terrifiant d’un ancien chercheur d’OpenAI et Anthropic qui affirme que l’IA pourrait \"tuer tous les humains\"",
-   "url": "https://www.bfmtv.com/tech/intelligence-artificielle/l-ia-est-la-promesse-pour-l-humanite-de-depasser-une-nouvelle-frontiere-de-la-connaissance-jean-luc-melenchon-plaide-pour-une-ia-regulee-par-l-onu-et-controlee-democratiquement_AN-202609040758.html",
-   "n_members": 68,
-   "n_sources": 28,
-   "counts": {
-    "left": 7,
-    "centre": 14,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 11,
-    "opinion": 3
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.489,
-   "category": "sciences-tech",
-   "terms_left": [
-    "gens",
-    "équation navier-stokes",
-    "qu tuer"
-   ],
-   "terms_right": [
-    "humanité",
-    "résolu",
-    "avancée"
+    "hindou",
+    "personnel féminin"
    ]
   },
   {
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.755,
+   "divergence": 0.754,
    "category": "environnement",
    "terms_left": [
     "chaud",
@@ -697,7 +697,7 @@
   {
    "title": "Le conflit entre Washington et Ottawa s'envenime: Donald Trump réplique aux surtaxes du Canada en interdisant l'importation de certains produits et en relevant ses droits de douane sur plusieurs marchandises",
    "url": "https://www.cnews.fr/france/2026-09-01/prisons-la-france-compte-pres-de-90000-detenus-un-nouveau-record-1912322",
-   "n_members": 65,
+   "n_members": 67,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -711,17 +711,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.703,
+   "divergence": 0.668,
    "category": "international",
    "terms_left": [
-    "commercial",
     "riposte",
+    "conflit commercial",
     "conflit"
    ],
    "terms_right": [
+    "états-unis",
     "donald trump",
-    "donald",
-    "trump"
+    "donald"
    ]
   },
   {
@@ -771,7 +771,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.663,
+   "divergence": 0.666,
    "category": "international",
    "terms_left": [
     "maison",
@@ -782,6 +782,36 @@
     "amérique",
     "trump",
     "donald trump"
+   ]
+  },
+  {
+   "title": "Épargne salariale : Matignon dément vouloir la taxer, dénonce une \"fuite\" et annonce saisir la justice",
+   "url": "https://www.challenges.fr/economie/glissez-vous-dans-la-peau-du-ministre-testez-la-bataille-du-budget-le-jeu-en-ligne-addictif-cree-par-lex-conseiller-budgetaire-de-gabriel-attal_645464",
+   "n_members": 62,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 9,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 5
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.394,
+   "category": "économie",
+   "terms_left": [
+    "fuite",
+    "justice",
+    "presse"
+   ],
+   "terms_right": [
+    "épargne",
+    "taxer",
+    "qu"
    ]
   },
   {
@@ -815,39 +845,9 @@
    ]
   },
   {
-   "title": "Budget 2027 : Matignon annonce saisir la justice après une fuite sur «des travaux internes» autour de l'épargne salariale",
-   "url": "https://www.challenges.fr/economie/glissez-vous-dans-la-peau-du-ministre-testez-la-bataille-du-budget-le-jeu-en-ligne-addictif-cree-par-lex-conseiller-budgetaire-de-gabriel-attal_645464",
-   "n_members": 61,
-   "n_sources": 25,
-   "counts": {
-    "left": 4,
-    "centre": 9,
-    "right": 12
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 5
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.409,
-   "category": "économie",
-   "terms_left": [
-    "annoncé",
-    "fuite",
-    "justice"
-   ],
-   "terms_right": [
-    "épargne",
-    "épargne salariale",
-    "taxer"
-   ]
-  },
-  {
    "title": "Immobilier ancien : ce que révèle le dernier indice Notaires-Insee sur les prix",
    "url": "https://www.latribune.fr/article/economie/vos-finances/66753959707786/assurance-vie-pourquoi-la-hausse-des-couts-d-emprunt-de-la-france-va-faire-grimper-les-rendements-des-fonds-euros",
-   "n_members": 56,
+   "n_members": 57,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -861,7 +861,7 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.848,
+   "divergence": 0.846,
    "category": "économie",
    "terms_left": [
     "santé",
@@ -951,12 +951,12 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.495,
+   "divergence": 0.507,
    "category": "société",
    "terms_left": [
     "aramburú",
     "martín aramburú",
-    "droite"
+    "priol"
    ],
    "terms_right": [
     "aramburu",
@@ -1079,9 +1079,9 @@
     "russe"
    ],
    "terms_right": [
-    "russie",
+    "corée",
     "nord",
-    "accident"
+    "russie"
    ]
   },
   {
@@ -1145,6 +1145,36 @@
    ]
   },
   {
+   "title": "Affaire des assistants parlementaires du MoDem : François Bayrou de retour devant les juges à partir de mercredi",
+   "url": "https://www.franceinfo.fr/politique/modem/assistants-parlementaires-du-modem/francois-bayrou-se-dit-absolument-serein-avant-son-proces-en-appel-dans-l-affaire-des-assistants-d-eurodeputes-modem_8180960.html",
+   "n_members": 51,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.407,
+   "category": "faits-divers",
+   "terms_left": [
+    "devant justice",
+    "modem",
+    "modem françois"
+   ],
+   "terms_right": [
+    "qu",
+    "face",
+    "appel françois"
+   ]
+  },
+  {
    "title": "Aurore Bergé refuse de qualifier la théorie du grand remplacement de \"raciste\" : une vive polémique éclate, elle déplore un \"bien mauvais procès\"",
    "url": "https://www.leprogres.fr/faits-divers-justice/2026/09/03/affaire-christian-negre-l-ex-haut-fonctionnaire-accuse-d-avoir-drogue-pres-de-300-femmes-demasque-dans-un-poste-rh",
    "n_members": 66,
@@ -1172,36 +1202,6 @@
     "demande",
     "grand remplacement",
     "remplacement"
-   ]
-  },
-  {
-   "title": "Sommet international sur l'espace : Macron appelle l’Europe spatiale à changer d’échelle",
-   "url": "https://www.nicematin.com/societe/les-retombees-seront-pour-tout-le-village-saint-paul-de-vence-sous-les-feux-des-projecteurs-lundi-avec-le-sommet-lumiere-en-presence-d-emmanuel-macron-10718980",
-   "n_members": 63,
-   "n_sources": 23,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.455,
-   "blindspot_for": null,
-   "divergence": 0.675,
-   "category": "sciences-tech",
-   "terms_left": [
-    "cinéma",
-    "lumière",
-    "sommet lumière"
-   ],
-   "terms_right": [
-    "paris",
-    "espace",
-    "international"
    ]
   }
  ]
