@@ -1,6 +1,6 @@
 {
  "week": "2026-W37",
- "generated_at": "2026-09-11T01:16:49+00:00",
+ "generated_at": "2026-09-11T06:14:55+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.238,
+   "divergence": 0.24,
    "category": "société",
    "terms_left": [
     "programme",
     "programme international",
-    "international suivi"
+    "international"
    ],
    "terms_right": [
     "classement",
@@ -51,17 +51,17 @@
    },
    "blindspot_score": 0.182,
    "blindspot_for": null,
-   "divergence": 0.156,
+   "divergence": 0.155,
    "category": "international",
    "terms_left": [
     "démocratie",
     "majorité",
-    "allemande"
+    "france"
    ],
    "terms_right": [
     "élection",
-    "régionale",
-    "allemagne afd"
+    "allemagne afd",
+    "europe"
    ]
   },
   {
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.293,
+   "divergence": 0.299,
    "category": "international",
    "terms_left": [
     "direct",
@@ -181,13 +181,13 @@
    "terms_right": [
     "kiev",
     "pourparlers",
-    "visite émissaires"
+    "frappes"
    ]
   },
   {
    "title": "Propos racistes de policiers municipaux à Carcassonne : ce que l'on sait de la polémique",
    "url": "https://www.leparisien.fr/faits-divers/negres-bougnoules-connasses-enquete-ouverte-apres-des-propos-racistes-sexistes-et-complotistes-dun-policier-municipal-de-carcassonne-09-09-2026-BGANEAIYMJBIZEWMUI7WA7J36I.php",
-   "n_members": 103,
+   "n_members": 104,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -201,12 +201,12 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.293,
+   "divergence": 0.295,
    "category": "société",
    "terms_left": [
+    "rassemblement",
     "libre",
-    "midi",
-    "midi libre"
+    "midi"
    ],
    "terms_right": [
     "propos",
@@ -215,9 +215,9 @@
    ]
   },
   {
-   "title": "Réseaux sociaux : Emmanuel Macron plaide pour une interdiction au niveau européen pour les moins de 15 ans",
+   "title": "Réseaux sociaux : Macron réclame «un texte européen» pour interdire l’accès au moins de 15 ans",
    "url": "https://information.tv5monde.com/international/rentree-politique-pour-andy-burnham-confronte-ses-premiers-tests-2835489",
-   "n_members": 65,
+   "n_members": 66,
    "n_sources": 30,
    "counts": {
     "left": 8,
@@ -247,7 +247,7 @@
   {
    "title": "Moyen-Orient : Téhéran cible la Jordanie et le Golfe après des attaques américaines contre des pétroliers iraniens",
    "url": "https://www.rfi.fr/fr/moyen-orient/20260828-guerre-en-iran-washington-interdit-l-acc%C3%A8s-%C3%A0-son-syst%C3%A8me-financier-%C3%A0-la-branche-%C3%A9mirienne-de-la-banque-misr",
-   "n_members": 214,
+   "n_members": 215,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -275,39 +275,9 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : Philippe veut rassembler, le PS se divise, Le Pen - Bardella à l'épreuve",
-   "url": "https://www.lemonde.fr/societe/article/2026/08/31/vincent-bollore-depose-plainte-pour-association-de-malfaiteurs-contre-des-magistrats-apres-son-renvoi-devant-le-tribunal-pour-corruption_6762587_3224.html",
-   "n_members": 82,
-   "n_sources": 29,
-   "counts": {
-    "left": 7,
-    "centre": 14,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 10,
-    "opinion": 4
-   },
-   "blindspot_score": 0.067,
-   "blindspot_for": null,
-   "divergence": 0.664,
-   "category": "politique",
-   "terms_left": [
-    "bolloré",
-    "vincent",
-    "vincent bolloré"
-   ],
-   "terms_right": [
-    "pen",
-    "retailleau",
-    "marine pen"
-   ]
-  },
-  {
    "title": "Midterms 2026 : Donald Trump promet 5 000 dollars à chaque Américain si les républicains gagnent",
    "url": "https://www.france24.com/fr/vid%C3%A9o/20260908-deux-mois-avant-les-%C3%A9lections-de-mi-mandat-la-popularit%C3%A9-de-trump-est-au-plus-bas",
-   "n_members": 82,
+   "n_members": 84,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -321,7 +291,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.415,
+   "divergence": 0.413,
    "category": "international",
    "terms_left": [
     "convention républicaine",
@@ -332,6 +302,36 @@
     "états-unis",
     "américain",
     "dollars américain"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : Philippe veut rassembler, le PS se divise, Le Pen - Bardella à l'épreuve",
+   "url": "https://www.lemonde.fr/societe/article/2026/08/31/vincent-bollore-depose-plainte-pour-association-de-malfaiteurs-contre-des-magistrats-apres-son-renvoi-devant-le-tribunal-pour-corruption_6762587_3224.html",
+   "n_members": 83,
+   "n_sources": 29,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.662,
+   "category": "politique",
+   "terms_left": [
+    "bolloré",
+    "vincent",
+    "vincent bolloré"
+   ],
+   "terms_right": [
+    "pen",
+    "retailleau",
+    "marine pen"
    ]
   },
   {
@@ -367,7 +367,7 @@
   {
    "title": "\"L’IA pourrait tous nous tuer d’ici 2030\" : l’avertissement terrifiant d’un ancien chercheur d’OpenAI et Anthropic qui affirme que l’IA pourrait \"tuer tous les humains\"",
    "url": "https://www.bfmtv.com/tech/intelligence-artificielle/l-ia-est-la-promesse-pour-l-humanite-de-depasser-une-nouvelle-frontiere-de-la-connaissance-jean-luc-melenchon-plaide-pour-une-ia-regulee-par-l-onu-et-controlee-democratiquement_AN-202609040758.html",
-   "n_members": 70,
+   "n_members": 71,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -386,7 +386,7 @@
    "terms_left": [
     "gens",
     "qu tuer",
-    "tuer"
+    "croient"
    ],
    "terms_right": [
     "humanité",
@@ -411,16 +411,16 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.568,
+   "divergence": 0.586,
    "category": "société",
    "terms_left": [
-    "marqué",
     "ministère",
-    "intérieur"
+    "intérieur",
+    "ministère intérieur"
    ],
    "terms_right": [
-    "professionnels",
-    "mobilisation",
+    "grève",
+    "pompiers",
     "nationale"
    ]
   },
@@ -471,12 +471,12 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.218,
+   "divergence": 0.225,
    "category": "société",
    "terms_left": [
     "salariées",
     "hindoue",
-    "exclusion"
+    "délégation hindoue"
    ],
    "terms_right": [
     "mouvement",
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.78,
+   "divergence": 0.779,
    "category": "sciences-tech",
    "terms_left": [
     "astra",
@@ -531,7 +531,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.712,
+   "divergence": 0.719,
    "category": "international",
    "terms_left": [
     "ministre israélien",
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.783,
+   "divergence": 0.79,
    "category": "politique",
    "terms_left": [
     "prix",
@@ -711,7 +711,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.508,
+   "divergence": 0.509,
    "category": "société",
    "terms_left": [
     "collectif",
@@ -727,7 +727,7 @@
   {
    "title": "Le conflit entre Washington et Ottawa s'envenime: Donald Trump réplique aux surtaxes du Canada en interdisant l'importation de certains produits et en relevant ses droits de douane sur plusieurs marchandises",
    "url": "https://www.cnews.fr/france/2026-09-01/prisons-la-france-compte-pres-de-90000-detenus-un-nouveau-record-1912322",
-   "n_members": 67,
+   "n_members": 68,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -741,17 +741,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.668,
+   "divergence": 0.706,
    "category": "international",
    "terms_left": [
     "riposte",
-    "conflit commercial",
-    "conflit"
+    "vigueur",
+    "conflit commercial"
    ],
    "terms_right": [
-    "états-unis",
     "donald trump",
-    "donald"
+    "donald",
+    "états-unis"
    ]
   },
   {
@@ -861,7 +861,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.307,
+   "divergence": 0.304,
    "category": "faits-divers",
    "terms_left": [
     "cagnes-sur-mer cambriolé",
@@ -877,7 +877,7 @@
   {
    "title": "\"La situation reste majoritairement dégradée\" : plus de 60% des nappes phréatiques sous les normales mensuelles en France",
    "url": "https://www.sudradio.fr/societe/en-guadeloupe-la-secheresse-met-en-peril-la-future-recolte-de-canne-a-sucre",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 25,
    "counts": {
     "left": 8,
@@ -899,9 +899,9 @@
     "actuelles"
    ],
    "terms_right": [
+    "nappes",
     "nappes phréatiques",
-    "phréatiques",
-    "nappes"
+    "phréatiques"
    ]
   },
   {
@@ -1011,17 +1011,17 @@
    },
    "blindspot_score": -0.167,
    "blindspot_for": null,
-   "divergence": 0.433,
+   "divergence": 0.437,
    "category": "international",
    "terms_left": [
     "guerre",
     "personnes",
-    "milliers"
+    "ratko"
    ],
    "terms_right": [
-    "ancien",
     "militaire",
-    "mladic ancien"
+    "serbes",
+    "ancien"
    ]
   },
   {
@@ -1041,15 +1041,15 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.622,
+   "divergence": 0.626,
    "category": "international",
    "terms_left": [
+    "manche",
     "ministre",
-    "maroc",
-    "manche"
+    "maroc"
    ],
    "terms_right": [
-    "migrants",
+    "ceuta",
     "migratoire",
     "migratoire ceuta"
    ]
@@ -1161,12 +1161,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.675,
+   "divergence": 0.673,
    "category": "politique",
    "terms_left": [
+    "référendum",
     "constitutionnel",
-    "guinée-bissau",
-    "référendum"
+    "sujets"
    ],
    "terms_right": [
     "bruno maire",
@@ -1175,33 +1175,33 @@
    ]
   },
   {
-   "title": "Affaire des assistants d'eurodéputés MoDem : François Bayrou de retour devant la justice ce mercredi",
-   "url": "https://www.franceinfo.fr/politique/modem/assistants-parlementaires-du-modem/francois-bayrou-se-dit-absolument-serein-avant-son-proces-en-appel-dans-l-affaire-des-assistants-d-eurodeputes-modem_8180960.html",
-   "n_members": 56,
+   "title": "11-Septembre : la ville de New York aurait dissimulé des informations sur la qualité de l'air après les attentats",
+   "url": "https://www.courrierinternational.com/article/new-york-rudy-giuliani-ne-veut-pas-voir-zohran-mamdani-aux-ceremonies-du-11-septembre_268524",
+   "n_members": 60,
    "n_sources": 24,
    "counts": {
     "left": 5,
-    "centre": 12,
-    "right": 7
+    "centre": 13,
+    "right": 6
    },
    "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
+    "factuel": 15,
+    "mixte": 6,
     "opinion": 3
    },
-   "blindspot_score": 0.167,
+   "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.411,
-   "category": "faits-divers",
+   "divergence": 0.503,
+   "category": "international",
    "terms_left": [
-    "devant justice",
-    "justice",
-    "modem"
+    "qu",
+    "mamdani",
+    "zohran mamdani"
    ],
    "terms_right": [
-    "qu",
-    "appel françois",
-    "face"
+    "ans",
+    "attaques",
+    "états-unis"
    ]
   }
  ]
