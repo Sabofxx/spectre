@@ -1,6 +1,6 @@
 {
  "week": "2026-W37",
- "generated_at": "2026-09-11T18:44:38+00:00",
+ "generated_at": "2026-09-11T21:27:56+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.331,
+   "divergence": 0.335,
    "category": "société",
    "terms_left": [
-    "rapport",
-    "rapport pisa",
-    "direct"
+    "direct",
+    "enfants",
+    "tendance"
    ],
    "terms_right": [
     "classement pisa",
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.306,
+   "divergence": 0.316,
    "category": "international",
    "terms_left": [
     "direct",
@@ -181,13 +181,13 @@
    "terms_right": [
     "kiev",
     "pourparlers",
-    "moscou kiev"
+    "émissaires"
    ]
   },
   {
    "title": "Propos racistes de policiers municipaux à Carcassonne : ce que l'on sait de la polémique",
    "url": "https://www.leparisien.fr/faits-divers/negres-bougnoules-connasses-enquete-ouverte-apres-des-propos-racistes-sexistes-et-complotistes-dun-policier-municipal-de-carcassonne-09-09-2026-BGANEAIYMJBIZEWMUI7WA7J36I.php",
-   "n_members": 111,
+   "n_members": 112,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.283,
+   "divergence": 0.282,
    "category": "société",
    "terms_left": [
     "libre",
@@ -210,8 +210,38 @@
    ],
    "terms_right": [
     "propos",
-    "racistes",
-    "propos racistes"
+    "propos racistes",
+    "racistes"
+   ]
+  },
+  {
+   "title": "Midterms 2026 : Donald Trump promet 5 000 dollars à chaque Américain si les républicains gagnent",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20260908-deux-mois-avant-les-%C3%A9lections-de-mi-mandat-la-popularit%C3%A9-de-trump-est-au-plus-bas",
+   "n_members": 90,
+   "n_sources": 30,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.294,
+   "blindspot_for": null,
+   "divergence": 0.412,
+   "category": "international",
+   "terms_left": [
+    "convention républicaine",
+    "républicaine",
+    "citoyen adulte"
+   ],
+   "terms_right": [
+    "américain",
+    "états-unis",
+    "promet"
    ]
   },
   {
@@ -231,7 +261,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.467,
+   "divergence": 0.472,
    "category": "sciences-tech",
    "terms_left": [
     "tuer",
@@ -240,8 +270,8 @@
    ],
    "terms_right": [
     "humanité",
-    "résolu",
-    "avancée"
+    "avancée",
+    "responsable"
    ]
   },
   {
@@ -291,7 +321,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.799,
+   "divergence": 0.797,
    "category": "international",
    "terms_left": [
     "israélien",
@@ -299,9 +329,9 @@
     "benyamin"
    ],
    "terms_right": [
-    "mis",
     "europe",
-    "mort"
+    "allemagne",
+    "justice"
    ]
   },
   {
@@ -325,43 +355,13 @@
    "category": "international",
    "terms_left": [
     "etats-unis",
-    "américaines pétroliers",
-    "etats-unis iran"
+    "bases",
+    "américaines pétroliers"
    ],
    "terms_right": [
     "moyen-orient",
     "guerre moyen-orient",
     "guerre"
-   ]
-  },
-  {
-   "title": "Midterms 2026 : Donald Trump promet 5 000 dollars à chaque Américain si les républicains gagnent",
-   "url": "https://www.france24.com/fr/vid%C3%A9o/20260908-deux-mois-avant-les-%C3%A9lections-de-mi-mandat-la-popularit%C3%A9-de-trump-est-au-plus-bas",
-   "n_members": 89,
-   "n_sources": 29,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.416,
-   "category": "international",
-   "terms_left": [
-    "convention républicaine",
-    "républicaine",
-    "citoyen adulte"
-   ],
-   "terms_right": [
-    "américain",
-    "états-unis",
-    "dollars américain"
    ]
   },
   {
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.646,
+   "divergence": 0.648,
    "category": "politique",
    "terms_left": [
     "bolloré",
@@ -545,9 +545,9 @@
    ]
   },
   {
-   "title": "Commémoration du 11 septembre : New York, 25 ans après les attentas",
+   "title": "EN IMAGES - Les États-Unis se recueillent, 25 ans après les attentats du 11-Septembre",
    "url": "https://www.courrierinternational.com/article/new-york-rudy-giuliani-ne-veut-pas-voir-zohran-mamdani-aux-ceremonies-du-11-septembre_268524",
-   "n_members": 92,
+   "n_members": 100,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.425,
+   "divergence": 0.449,
    "category": "international",
    "terms_left": [
     "mamdani",
@@ -569,9 +569,9 @@
     "zohran mamdani"
    ],
    "terms_right": [
-    "attaques",
     "victimes",
-    "états-unis"
+    "ans attentats",
+    "ans"
    ]
   },
   {
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.792,
+   "divergence": 0.793,
    "category": "politique",
    "terms_left": [
     "prix",
@@ -600,8 +600,8 @@
    ],
    "terms_right": [
     "présidentielle",
-    "qu",
-    "français"
+    "françois",
+    "direct"
    ]
   },
   {
@@ -659,9 +659,9 @@
     "nice"
    ],
    "terms_right": [
-    "bruno retailleau",
-    "bruno",
-    "éric ciotti"
+    "éric ciotti",
+    "éric",
+    "bruno retailleau"
    ]
   },
   {
@@ -711,7 +711,7 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.848,
+   "divergence": 0.849,
    "category": "économie",
    "terms_left": [
     "santé",
@@ -722,6 +722,36 @@
     "immobilier",
     "france",
     "crise"
+   ]
+  },
+  {
+   "title": "\"L’année 2026 n’a pas épargné la France\": le gouvernement abaisse sa prévision de croissance à 0,5% sur l'année contre 0,7% espéré",
+   "url": "http://fr.euronews.com/business/2026/09/08/croissance-proche-de-1-du-pib-et-hausse-des-recettes-quel-impact-sur-la-loi-de-finances-20",
+   "n_members": 60,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 10,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.375,
+   "blindspot_for": null,
+   "divergence": 0.6,
+   "category": "économie",
+   "terms_left": [
+    "budget",
+    "rapport",
+    "décrochage"
+   ],
+   "terms_right": [
+    "prévision",
+    "prévision croissance",
+    "baisse"
    ]
   },
   {
@@ -831,7 +861,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.651,
+   "divergence": 0.654,
    "category": "international",
    "terms_left": [
     "maison",
@@ -840,8 +870,8 @@
    ],
    "terms_right": [
     "amérique",
-    "trump",
-    "états-unis"
+    "états-unis",
+    "trump"
    ]
   },
   {
@@ -861,7 +891,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.457,
+   "divergence": 0.459,
    "category": "économie",
    "terms_left": [
     "saisit",
@@ -871,7 +901,7 @@
    "terms_right": [
     "ministre",
     "euros",
-    "épargne salariale"
+    "gouvernement"
    ]
   },
   {
@@ -891,7 +921,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.211,
+   "divergence": 0.215,
    "category": "faits-divers",
    "terms_left": [
     "cagnes-sur-mer cambriolé",
@@ -899,9 +929,9 @@
     "cambriolé tableaux"
    ],
    "terms_right": [
+    "œuvres",
     "cambriolage musée",
-    "euros",
-    "millions"
+    "cambriolage"
    ]
   },
   {
@@ -932,36 +962,6 @@
     "eau",
     "sécheresse",
     "phréatiques"
-   ]
-  },
-  {
-   "title": "\"L’année 2026 n’a pas épargné la France\": le gouvernement abaisse sa prévision de croissance à 0,5% sur l'année contre 0,7% espéré",
-   "url": "http://fr.euronews.com/business/2026/09/08/croissance-proche-de-1-du-pib-et-hausse-des-recettes-quel-impact-sur-la-loi-de-finances-20",
-   "n_members": 58,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 10,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.607,
-   "category": "économie",
-   "terms_left": [
-    "chômage",
-    "décrochage",
-    "budget"
-   ],
-   "terms_right": [
-    "prévision",
-    "prévision croissance",
-    "baisse"
    ]
   },
   {
@@ -1052,6 +1052,36 @@
     "aramburu",
     "rugbyman",
     "ultradroite"
+   ]
+  },
+  {
+   "title": "Céline Dion : six ans après son dernier concert, la star s’apprête à faire vibrer Paris devant des centaines de milliers de fans",
+   "url": "https://www.leparisien.fr/culture-loisirs/musique/jai-depense-900-euros-la-boutique-celine-dion-aux-galeries-lafayette-met-ses-fans-en-ebullition-03-09-2026-3MOUQ23SEJDPDFW4QZIB27QT6Y.php",
+   "n_members": 81,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.35,
+   "category": "culture",
+   "terms_left": [
+    "concerts",
+    "série concerts",
+    "série"
+   ],
+   "terms_right": [
+    "ans",
+    "arena",
+    "karaoké"
    ]
   },
   {
@@ -1172,36 +1202,6 @@
     "paris",
     "espace",
     "emmanuel"
-   ]
-  },
-  {
-   "title": "Pourquoi le gouvernement abandonne la consigne obligatoire des bouteilles en plastique",
-   "url": "https://www.nicematin.com/societe/education/drapeau-marseillaise-levee-des-couleurs-ce-qu-eric-ciotti-veut-changer-dans-les-ecoles-de-nice-des-la-rentree-10713247",
-   "n_members": 64,
-   "n_sources": 24,
-   "counts": {
-    "left": 7,
-    "centre": 9,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 9,
-    "opinion": 4
-   },
-   "blindspot_score": 0.067,
-   "blindspot_for": null,
-   "divergence": 0.801,
-   "category": "politique",
-   "terms_left": [
-    "gouvernement",
-    "consigne",
-    "assemblée"
-   ],
-   "terms_right": [
-    "éric ciotti",
-    "éric",
-    "nice"
    ]
   }
  ]
