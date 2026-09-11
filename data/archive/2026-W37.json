@@ -1,13 +1,13 @@
 {
  "week": "2026-W37",
- "generated_at": "2026-09-11T15:31:07+00:00",
+ "generated_at": "2026-09-11T18:44:38+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "Le classement PISA 2025 inquiète : la France enregistre des résultats historiquement faibles en lecture et en mathématiques",
+   "title": "Éducation : l’Europe promet d’agir face à la baisse du niveau des élèves",
    "url": "https://www.sudradio.fr/societe/education-cinq-choses-a-savoir-sur-lenquete-pisa",
-   "n_members": 140,
+   "n_members": 141,
    "n_sources": 38,
    "counts": {
     "left": 8,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.306,
+   "divergence": 0.331,
    "category": "société",
    "terms_left": [
     "rapport",
@@ -37,7 +37,7 @@
   {
    "title": "Face à la victoire de l'extrême droite dans un Etat-région allemand, un cordon sanitaire est encore possible",
    "url": "https://www.lemonde.fr/idees/article/2026/09/02/en-allemagne-un-land-gouverne-par-l-afd-en-ferait-un-laboratoire-pour-les-projets-du-parti-le-plus-radical-des-droites-europeennes_6763872_3232.html",
-   "n_members": 314,
+   "n_members": 315,
    "n_sources": 37,
    "counts": {
     "left": 9,
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.182,
    "blindspot_for": null,
-   "divergence": 0.157,
+   "divergence": 0.159,
    "category": "international",
    "terms_left": [
     "démocratie",
     "majorité",
-    "france"
+    "choc"
    ],
    "terms_right": [
     "élection",
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.307,
+   "divergence": 0.306,
    "category": "international",
    "terms_left": [
     "direct",
@@ -217,7 +217,7 @@
   {
    "title": "\"L’IA pourrait tous nous tuer d’ici 2030\" : l’avertissement terrifiant d’un ancien chercheur d’OpenAI et Anthropic qui affirme que l’IA pourrait \"tuer tous les humains\"",
    "url": "https://www.bfmtv.com/tech/intelligence-artificielle/l-ia-est-la-promesse-pour-l-humanite-de-depasser-une-nouvelle-frontiere-de-la-connaissance-jean-luc-melenchon-plaide-pour-une-ia-regulee-par-l-onu-et-controlee-democratiquement_AN-202609040758.html",
-   "n_members": 75,
+   "n_members": 76,
    "n_sources": 30,
    "counts": {
     "left": 8,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.566,
+   "divergence": 0.57,
    "category": "société",
    "terms_left": [
     "handicap",
@@ -269,9 +269,39 @@
     "conférence nationale"
    ],
    "terms_right": [
-    "réseaux",
-    "réseaux sociaux",
-    "sociaux"
+    "européen",
+    "ans",
+    "texte européen"
+   ]
+  },
+  {
+   "title": "7 octobre : Benyamin Nétanyahou mis en cause après une enquête affirmant qu’il avait été alerté d’une attaque du Hamas à venir",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/en-israel-le-7-octobre-s-invite-dans-la-campagne-electorale-6216732",
+   "n_members": 61,
+   "n_sources": 30,
+   "counts": {
+    "left": 8,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.799,
+   "category": "international",
+   "terms_left": [
+    "israélien",
+    "ministre",
+    "benyamin"
+   ],
+   "terms_right": [
+    "mis",
+    "europe",
+    "mort"
    ]
   },
   {
@@ -291,7 +321,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.326,
+   "divergence": 0.329,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -301,7 +331,7 @@
    "terms_right": [
     "moyen-orient",
     "guerre moyen-orient",
-    "ormuz"
+    "guerre"
    ]
   },
   {
@@ -337,7 +367,7 @@
   {
    "title": "Présidentielle 2027 : Philippe veut rassembler, le PS se divise, Le Pen - Bardella à l'épreuve",
    "url": "https://www.lemonde.fr/societe/article/2026/08/31/vincent-bollore-depose-plainte-pour-association-de-malfaiteurs-contre-des-magistrats-apres-son-renvoi-devant-le-tribunal-pour-corruption_6762587_3224.html",
-   "n_members": 83,
+   "n_members": 85,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -351,7 +381,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.671,
+   "divergence": 0.646,
    "category": "politique",
    "terms_left": [
     "bolloré",
@@ -359,9 +389,9 @@
     "vincent bolloré"
    ],
    "terms_right": [
-    "retailleau",
     "pen",
-    "bruno retailleau"
+    "retailleau",
+    "marine pen"
    ]
   },
   {
@@ -395,9 +425,9 @@
    ]
   },
   {
-   "title": "Grève des pompiers pendant six semaines: les soldats du feu réclament plus de moyens",
+   "title": "Pompiers en grève : « Bla-bla politique », « mépris »… Après une rencontre au ministère de l’Intérieur, les syndicats sont « désabusés »",
    "url": "https://www.europe1.fr/police-justice/il-ny-a-pas-de-juste-retour-face-au-manque-de-moyens-le-ras-le-bol-des-policiers-nationaux-pourrait-prendre-de-lampleur-1053245",
-   "n_members": 64,
+   "n_members": 65,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -411,17 +441,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.607,
+   "divergence": 0.581,
    "category": "société",
    "terms_left": [
     "incendies",
-    "ministère",
-    "intérieur"
+    "appelés",
+    "pompiers appelés"
    ],
    "terms_right": [
     "pompiers",
-    "grève",
-    "veut"
+    "loi",
+    "grève"
    ]
   },
   {
@@ -450,38 +480,8 @@
    ],
    "terms_right": [
     "panama",
-    "france",
-    "qu"
-   ]
-  },
-  {
-   "title": "7 octobre : Benyamin Nétanyahou mis en cause après une enquête affirmant qu’il avait été alerté d’une attaque du Hamas à venir",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/en-israel-le-7-octobre-s-invite-dans-la-campagne-electorale-6216732",
-   "n_members": 60,
-   "n_sources": 29,
-   "counts": {
-    "left": 7,
-    "centre": 14,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 9,
-    "opinion": 4
-   },
-   "blindspot_score": 0.067,
-   "blindspot_for": null,
-   "divergence": 0.797,
-   "category": "international",
-   "terms_left": [
-    "israélien",
-    "ministre",
-    "benyamin"
-   ],
-   "terms_right": [
-    "mis",
-    "europe",
-    "mort"
+    "canal panama",
+    "canal"
    ]
   },
   {
@@ -501,17 +501,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.221,
+   "divergence": 0.215,
    "category": "société",
    "terms_left": [
-    "hindoue",
+    "femmes visite",
     "salariées",
-    "poste"
+    "grève"
    ],
    "terms_right": [
     "hindou",
-    "mouvement",
-    "groupe"
+    "groupe",
+    "eiffel"
    ]
   },
   {
@@ -547,7 +547,7 @@
   {
    "title": "Commémoration du 11 septembre : New York, 25 ans après les attentas",
    "url": "https://www.courrierinternational.com/article/new-york-rudy-giuliani-ne-veut-pas-voir-zohran-mamdani-aux-ceremonies-du-11-septembre_268524",
-   "n_members": 82,
+   "n_members": 92,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -561,17 +561,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.42,
+   "divergence": 0.425,
    "category": "international",
    "terms_left": [
-    "qu",
     "mamdani",
+    "zohran",
     "zohran mamdani"
    ],
    "terms_right": [
-    "ans",
+    "attaques",
     "victimes",
-    "vingt-cinq ans"
+    "états-unis"
    ]
   },
   {
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.791,
+   "divergence": 0.792,
    "category": "politique",
    "terms_left": [
     "prix",
@@ -651,17 +651,17 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.509,
+   "divergence": 0.503,
    "category": "politique",
    "terms_left": [
     "edouard",
     "edouard philippe",
-    "qu"
+    "nice"
    ],
    "terms_right": [
     "bruno retailleau",
     "bruno",
-    "toussaint"
+    "éric ciotti"
    ]
   },
   {
@@ -711,7 +711,7 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.849,
+   "divergence": 0.848,
    "category": "économie",
    "terms_left": [
     "santé",
@@ -831,7 +831,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.643,
+   "divergence": 0.651,
    "category": "international",
    "terms_left": [
     "maison",
@@ -839,9 +839,9 @@
     "maison blanche"
    ],
    "terms_right": [
-    "trump",
     "amérique",
-    "donald trump"
+    "trump",
+    "états-unis"
    ]
   },
   {
@@ -861,12 +861,12 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.456,
+   "divergence": 0.457,
    "category": "économie",
    "terms_left": [
     "saisit",
     "saisit justice",
-    "presse"
+    "fuite"
    ],
    "terms_right": [
     "ministre",
@@ -875,9 +875,9 @@
    ]
   },
   {
-   "title": "Cambriolage au musée Renoir Cagnes-sur-Mer : quatre tableaux ont été dérobés, les voleurs en perdent deux dans leur fuite, le préjudice chiffré à 9 millions d'euros",
+   "title": "Vols de tableaux au musée Renoir de Cagnes-sur-Mer: la surveillance sur place renforcée",
    "url": "https://www.nicematin.com/faits-divers/des-uvres-inestimables-portraits-de-famille-ou-scene-de-la-vie-courante-ce-que-l-on-sait-des-tableaux-de-renoir-volees-au-musee-de-cagnes-ce-mardi-matin-10719979",
-   "n_members": 62,
+   "n_members": 63,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -891,7 +891,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.226,
+   "divergence": 0.211,
    "category": "faits-divers",
    "terms_left": [
     "cagnes-sur-mer cambriolé",
@@ -899,9 +899,9 @@
     "cambriolé tableaux"
    ],
    "terms_right": [
-    "musée",
     "cambriolage musée",
-    "euros"
+    "euros",
+    "millions"
    ]
   },
   {
@@ -921,23 +921,23 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.793,
+   "divergence": 0.769,
    "category": "environnement",
    "terms_left": [
-    "valeurs",
     "droite",
+    "valeurs",
     "valeurs actuelles"
    ],
    "terms_right": [
     "eau",
-    "phréatiques",
-    "nappes phréatiques"
+    "sécheresse",
+    "phréatiques"
    ]
   },
   {
    "title": "\"L’année 2026 n’a pas épargné la France\": le gouvernement abaisse sa prévision de croissance à 0,5% sur l'année contre 0,7% espéré",
    "url": "http://fr.euronews.com/business/2026/09/08/croissance-proche-de-1-du-pib-et-hausse-des-recettes-quel-impact-sur-la-loi-de-finances-20",
-   "n_members": 54,
+   "n_members": 58,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -951,12 +951,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.616,
+   "divergence": 0.607,
    "category": "économie",
    "terms_left": [
     "chômage",
-    "budget",
-    "rapport"
+    "décrochage",
+    "budget"
    ],
    "terms_right": [
     "prévision",
@@ -1027,7 +1027,7 @@
   {
    "title": "Affaire Aramburu: les parcours de vie de Romain Bouvier et Loïk Le Priol décortiqués par la cour",
    "url": "https://www.liberation.fr/societe/police-justice/ce-que-jai-prefere-ce-sont-les-quatre-dernieres-bastos-que-je-lui-ai-mises-dans-le-buffet-les-propos-glacants-de-loik-le-priol-en-detention-accuse-de-lassassinat-daramburu-20260902_TWQ7QWNVQBGTZE2E57MIQUNMXQ/",
-   "n_members": 84,
+   "n_members": 86,
    "n_sources": 24,
    "counts": {
     "left": 7,
@@ -1041,17 +1041,17 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.515,
+   "divergence": 0.505,
    "category": "société",
    "terms_left": [
     "aramburú",
-    "priol",
-    "droite"
+    "martín aramburú",
+    "priol"
    ],
    "terms_right": [
     "aramburu",
-    "ultradroite",
-    "rugbyman"
+    "rugbyman",
+    "ultradroite"
    ]
   },
   {
@@ -1101,17 +1101,17 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.408,
+   "divergence": 0.406,
    "category": "politique",
    "terms_left": [
     "raciste",
-    "théorie raciste",
-    "politique"
+    "procès corruption",
+    "théorie raciste"
    ],
    "terms_right": [
-    "demande",
     "réintégrer",
-    "liberté expression"
+    "liberté expression",
+    "liberté"
    ]
   },
   {
@@ -1145,6 +1145,36 @@
    ]
   },
   {
+   "title": "Sommet international sur l'espace : Macron appelle l’Europe spatiale à changer d’échelle",
+   "url": "https://www.nicematin.com/societe/les-retombees-seront-pour-tout-le-village-saint-paul-de-vence-sous-les-feux-des-projecteurs-lundi-avec-le-sommet-lumiere-en-presence-d-emmanuel-macron-10718980",
+   "n_members": 65,
+   "n_sources": 24,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 5,
+    "opinion": 3
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.676,
+   "category": "sciences-tech",
+   "terms_left": [
+    "cinéma",
+    "lumière",
+    "sommet lumière"
+   ],
+   "terms_right": [
+    "paris",
+    "espace",
+    "emmanuel"
+   ]
+  },
+  {
    "title": "Pourquoi le gouvernement abandonne la consigne obligatoire des bouteilles en plastique",
    "url": "https://www.nicematin.com/societe/education/drapeau-marseillaise-levee-des-couleurs-ce-qu-eric-ciotti-veut-changer-dans-les-ecoles-de-nice-des-la-rentree-10713247",
    "n_members": 64,
@@ -1172,36 +1202,6 @@
     "éric ciotti",
     "éric",
     "nice"
-   ]
-  },
-  {
-   "title": "La Russie et la Corée du Nord inaugurent leur première liaison routière",
-   "url": "https://www.tf1info.fr/justice-faits-divers/seine-saint-denis-deux-morts-et-quatre-blesses-dans-un-accident-avec-une-lamborghini-sur-l-autoroute-a3-2462509.html",
-   "n_members": 62,
-   "n_sources": 24,
-   "counts": {
-    "left": 3,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.455,
-   "blindspot_for": null,
-   "divergence": 0.912,
-   "category": "international",
-   "terms_left": [
-    "russe",
-    "amérique",
-    "hongrie"
-   ],
-   "terms_right": [
-    "accident",
-    "nord",
-    "russie"
    ]
   }
  ]
