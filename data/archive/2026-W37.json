@@ -1,6 +1,6 @@
 {
  "week": "2026-W37",
- "generated_at": "2026-09-12T18:53:10+00:00",
+ "generated_at": "2026-09-12T21:07:26+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -26,7 +26,7 @@
    "terms_left": [
     "test",
     "décrochage",
-    "test pisa"
+    "français test"
    ],
    "terms_right": [
     "classement pisa",
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.182,
    "blindspot_for": null,
-   "divergence": 0.158,
+   "divergence": 0.16,
    "category": "international",
    "terms_left": [
     "démocratie",
-    "majorité",
-    "présidentielle"
+    "historique saxe-anhalt",
+    "choc"
    ],
    "terms_right": [
     "élection",
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.465,
+   "divergence": 0.466,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -155,6 +155,36 @@
    ]
   },
   {
+   "title": "«L’IA pourrait anéantir l’humanité» : pourquoi les experts s’inquiètent",
+   "url": "https://www.bfmtv.com/tech/intelligence-artificielle/l-ia-est-la-promesse-pour-l-humanite-de-depasser-une-nouvelle-frontiere-de-la-connaissance-jean-luc-melenchon-plaide-pour-une-ia-regulee-par-l-onu-et-controlee-democratiquement_AN-202609040758.html",
+   "n_members": 86,
+   "n_sources": 32,
+   "counts": {
+    "left": 9,
+    "centre": 15,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 12,
+    "opinion": 5
+   },
+   "blindspot_score": -0.059,
+   "blindspot_for": null,
+   "divergence": 0.479,
+   "category": "sciences-tech",
+   "terms_left": [
+    "croient",
+    "qu tuer",
+    "ia croient"
+   ],
+   "terms_right": [
+    "humanité",
+    "avancée",
+    "ans"
+   ]
+  },
+  {
    "title": "Pourparlers à Kiev : des propositions américaines «plus efficaces», pour la présidence ukrainienne",
    "url": "https://www.tf1info.fr/international/video-c-est-un-double-message-des-russes-pourquoi-moscou-decide-de-frapper-le-siege-des-services-de-securite-ukrainiens-a-kiev-avant-la-venue-d-emissaires-americains-2462402.html",
    "n_members": 195,
@@ -182,36 +212,6 @@
     "kiev",
     "pourparlers",
     "émissaires"
-   ]
-  },
-  {
-   "title": "«L’IA pourrait anéantir l’humanité» : pourquoi les experts s’inquiètent",
-   "url": "https://www.bfmtv.com/tech/intelligence-artificielle/l-ia-est-la-promesse-pour-l-humanite-de-depasser-une-nouvelle-frontiere-de-la-connaissance-jean-luc-melenchon-plaide-pour-une-ia-regulee-par-l-onu-et-controlee-democratiquement_AN-202609040758.html",
-   "n_members": 85,
-   "n_sources": 31,
-   "counts": {
-    "left": 9,
-    "centre": 15,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 12,
-    "opinion": 4
-   },
-   "blindspot_score": -0.125,
-   "blindspot_for": null,
-   "divergence": 0.475,
-   "category": "sciences-tech",
-   "terms_left": [
-    "croient",
-    "qu tuer",
-    "ia croient"
-   ],
-   "terms_right": [
-    "humanité",
-    "avancée",
-    "ans"
    ]
   },
   {
@@ -261,12 +261,12 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.266,
+   "divergence": 0.269,
    "category": "société",
    "terms_left": [
     "vidéo",
-    "proche",
-    "encarté"
+    "national",
+    "rassemblement"
    ],
    "terms_right": [
     "affaire",
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.428,
+   "divergence": 0.441,
    "category": "international",
    "terms_left": [
     "convention républicaine",
@@ -300,8 +300,8 @@
    ],
    "terms_right": [
     "américain",
-    "états-unis",
-    "promet"
+    "promet",
+    "dollars américain"
    ]
   },
   {
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.36,
+   "divergence": 0.359,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.652,
+   "divergence": 0.653,
    "category": "politique",
    "terms_left": [
     "bolloré",
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.21,
+   "divergence": 0.211,
    "category": "société",
    "terms_left": [
     "grève",
@@ -547,7 +547,7 @@
   {
    "title": "DIRECT. Céline Dion donne son premier concert à la Plenitude Arena: suivez l'événement en direct",
    "url": "https://www.leparisien.fr/culture-loisirs/musique/jai-depense-900-euros-la-boutique-celine-dion-aux-galeries-lafayette-met-ses-fans-en-ebullition-03-09-2026-3MOUQ23SEJDPDFW4QZIB27QT6Y.php",
-   "n_members": 126,
+   "n_members": 137,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -561,16 +561,16 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.279,
+   "divergence": 0.275,
    "category": "culture",
    "terms_left": [
-    "série concerts",
-    "nanterre",
-    "série"
+    "série",
+    "chanteuse québécoise",
+    "concerts"
    ],
    "terms_right": [
-    "ans",
     "concert",
+    "ans",
     "retour"
    ]
   },
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.453,
+   "divergence": 0.467,
    "category": "international",
    "terms_left": [
     "toxicité",
@@ -600,8 +600,8 @@
    ],
    "terms_right": [
     "victimes",
-    "états-unis",
-    "ans attentats"
+    "ans attentats",
+    "ans"
    ]
   },
   {
@@ -621,7 +621,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.521,
+   "divergence": 0.522,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -651,7 +651,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.784,
+   "divergence": 0.783,
    "category": "politique",
    "terms_left": [
     "prix",
@@ -681,7 +681,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.53,
+   "divergence": 0.531,
    "category": "économie",
    "terms_left": [
     "exécutif",
@@ -727,7 +727,7 @@
   {
    "title": "Déraillement d’un train en Seine-Maritime : la piste d’un acte malveillant privilégiée par les enquêteurs",
    "url": "https://www.tf1info.fr/international/nouveau-drame-routier-en-algerie-10-morts-dans-un-carambolage-a-l-est-d-alger-2462882.html",
-   "n_members": 111,
+   "n_members": 117,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -741,7 +741,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.347,
+   "divergence": 0.336,
    "category": "faits-divers",
    "terms_left": [
     "ter normandie",
@@ -845,9 +845,39 @@
    ]
   },
   {
+   "title": "L'IA d'Anthropic utilisée pour pirater plusieurs organisations d’extrême droite françaises",
+   "url": "https://www.lejdd.fr/politique/theses-racistes-propos-climatosceptiques-lfi-annonce-boycotter-bfmtv-en-raison-de-sa-ligne-editoriale-183108",
+   "n_members": 55,
+   "n_sources": 26,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": -0.167,
+   "blindspot_for": null,
+   "divergence": 0.737,
+   "category": "culture",
+   "terms_left": [
+    "extrême droite",
+    "extrême",
+    "droite"
+   ],
+   "terms_right": [
+    "ia",
+    "anthropic",
+    "claude"
+   ]
+  },
+  {
    "title": "Yémen : les Houtis s’emparent d’un verrou stratégique de la mer Rouge",
    "url": "https://www.courrierinternational.com/article/epidemie-en-rdc-une-rentree-scolaire-differenciee-sous-le-signe-d-ebola_265244",
-   "n_members": 116,
+   "n_members": 118,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -861,7 +891,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.491,
+   "divergence": 0.492,
    "category": "international",
    "terms_left": [
     "houthistes",
@@ -872,6 +902,36 @@
     "passage",
     "houthis",
     "emparés"
+   ]
+  },
+  {
+   "title": "Mort de Federico Martin Aramburu : au procès Le Priol et Bouvier, un enquêteur affirme que les dix détonations sont une « exécution »",
+   "url": "https://www.liberation.fr/societe/police-justice/ce-que-jai-prefere-ce-sont-les-quatre-dernieres-bastos-que-je-lui-ai-mises-dans-le-buffet-les-propos-glacants-de-loik-le-priol-en-detention-accuse-de-lassassinat-daramburu-20260902_TWQ7QWNVQBGTZE2E57MIQUNMXQ/",
+   "n_members": 89,
+   "n_sources": 25,
+   "counts": {
+    "left": 7,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.492,
+   "category": "société",
+   "terms_left": [
+    "aramburú",
+    "martín aramburú",
+    "assassinat federico"
+   ],
+   "terms_right": [
+    "aramburu",
+    "martin aramburu",
+    "federico aramburu"
    ]
   },
   {
@@ -951,7 +1011,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.623,
+   "divergence": 0.624,
    "category": "sciences-tech",
    "terms_left": [
     "lumière",
@@ -960,8 +1020,8 @@
    ],
    "terms_right": [
     "emmanuel",
-    "qu",
-    "sommet international"
+    "sommet international",
+    "international"
    ]
   },
   {
@@ -1101,7 +1161,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.797,
+   "divergence": 0.795,
    "category": "environnement",
    "terms_left": [
     "arrivée",
@@ -1142,66 +1202,6 @@
     "pris",
     "parti",
     "monde"
-   ]
-  },
-  {
-   "title": "L'IA d'Anthropic utilisée pour pirater plusieurs organisations d’extrême droite françaises",
-   "url": "https://www.lejdd.fr/politique/theses-racistes-propos-climatosceptiques-lfi-annonce-boycotter-bfmtv-en-raison-de-sa-ligne-editoriale-183108",
-   "n_members": 49,
-   "n_sources": 25,
-   "counts": {
-    "left": 7,
-    "centre": 13,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
-    "opinion": 5
-   },
-   "blindspot_score": -0.167,
-   "blindspot_for": null,
-   "divergence": 0.732,
-   "category": "culture",
-   "terms_left": [
-    "extrême droite",
-    "extrême",
-    "droite"
-   ],
-   "terms_right": [
-    "ia",
-    "anthropic",
-    "claude"
-   ]
-  },
-  {
-   "title": "Népal : deux nouveaux miraculés, les secours continuent",
-   "url": "https://www.leparisien.fr/environnement/crue-devastatrice-au-nepal-comment-les-experts-francais-tentent-de-comprendre-la-catastrophe-a-plusieurs-milliers-de-kilometres-27-08-2026-ZM4CDO4YK5DAFLRBNN6NBJGZOU.php",
-   "n_members": 128,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.48,
-   "category": "international",
-   "terms_left": [
-    "face",
-    "sortis",
-    "vivants tunnel"
-   ],
-   "terms_right": [
-    "jours",
-    "crue",
-    "népal"
    ]
   }
  ]
