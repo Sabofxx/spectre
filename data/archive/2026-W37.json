@@ -1,6 +1,6 @@
 {
  "week": "2026-W37",
- "generated_at": "2026-09-12T13:41:56+00:00",
+ "generated_at": "2026-09-12T16:39:12+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,17 +21,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.34,
+   "divergence": 0.333,
    "category": "société",
    "terms_left": [
-    "direct",
-    "tendance",
-    "test"
+    "pisa bas",
+    "test",
+    "décrochage"
    ],
    "terms_right": [
     "classement pisa",
     "classement",
-    "éducation"
+    "scolaire"
    ]
   },
   {
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.182,
    "blindspot_for": null,
-   "divergence": 0.157,
+   "divergence": 0.158,
    "category": "international",
    "terms_left": [
     "démocratie",
     "majorité",
-    "historique saxe-anhalt"
+    "présidentielle"
    ],
    "terms_right": [
     "élection",
@@ -121,7 +121,7 @@
    "terms_right": [
     "ministres",
     "gouvernement",
-    "indemnité"
+    "bruno maire"
    ]
   },
   {
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.315,
+   "divergence": 0.316,
    "category": "international",
    "terms_left": [
     "direct",
@@ -182,6 +182,36 @@
     "kiev",
     "pourparlers",
     "émissaires"
+   ]
+  },
+  {
+   "title": "«L’IA pourrait anéantir l’humanité» : pourquoi les experts s’inquiètent",
+   "url": "https://www.bfmtv.com/tech/intelligence-artificielle/l-ia-est-la-promesse-pour-l-humanite-de-depasser-une-nouvelle-frontiere-de-la-connaissance-jean-luc-melenchon-plaide-pour-une-ia-regulee-par-l-onu-et-controlee-democratiquement_AN-202609040758.html",
+   "n_members": 85,
+   "n_sources": 31,
+   "counts": {
+    "left": 9,
+    "centre": 15,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 12,
+    "opinion": 4
+   },
+   "blindspot_score": -0.125,
+   "blindspot_for": null,
+   "divergence": 0.459,
+   "category": "sciences-tech",
+   "terms_left": [
+    "qu",
+    "qu tuer",
+    "tuer"
+   ],
+   "terms_right": [
+    "humanité",
+    "ans",
+    "avancée"
    ]
   },
   {
@@ -231,7 +261,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.265,
+   "divergence": 0.254,
    "category": "société",
    "terms_left": [
     "rassemblement",
@@ -239,8 +269,8 @@
     "rassemblement national"
    ],
    "terms_right": [
-    "propos",
     "affaire",
+    "propos",
     "agent"
    ]
   },
@@ -261,47 +291,17 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.426,
+   "divergence": 0.428,
    "category": "international",
    "terms_left": [
     "convention républicaine",
     "républicaine",
-    "citoyen adulte"
+    "convention"
    ],
    "terms_right": [
     "américain",
     "états-unis",
     "promet"
-   ]
-  },
-  {
-   "title": "«L’IA pourrait anéantir l’humanité» : pourquoi les experts s’inquiètent",
-   "url": "https://www.bfmtv.com/tech/intelligence-artificielle/l-ia-est-la-promesse-pour-l-humanite-de-depasser-une-nouvelle-frontiere-de-la-connaissance-jean-luc-melenchon-plaide-pour-une-ia-regulee-par-l-onu-et-controlee-democratiquement_AN-202609040758.html",
-   "n_members": 83,
-   "n_sources": 30,
-   "counts": {
-    "left": 8,
-    "centre": 15,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 11,
-    "opinion": 4
-   },
-   "blindspot_score": -0.067,
-   "blindspot_for": null,
-   "divergence": 0.481,
-   "category": "sciences-tech",
-   "terms_left": [
-    "tuer",
-    "qu",
-    "équation"
-   ],
-   "terms_right": [
-    "humanité",
-    "ans",
-    "avancée"
    ]
   },
   {
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.772,
+   "divergence": 0.787,
    "category": "international",
    "terms_left": [
     "israël",
@@ -330,8 +330,8 @@
    ],
    "terms_right": [
     "allemagne",
-    "benjamin",
-    "état"
+    "état",
+    "justice"
    ]
   },
   {
@@ -351,12 +351,12 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.358,
+   "divergence": 0.36,
    "category": "international",
    "terms_left": [
     "etats-unis",
-    "américaines pétroliers",
-    "golfe"
+    "golfe",
+    "américaines pétroliers"
    ],
    "terms_right": [
     "moyen-orient",
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.651,
+   "divergence": 0.652,
    "category": "politique",
    "terms_left": [
     "bolloré",
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.576,
+   "divergence": 0.574,
    "category": "société",
    "terms_left": [
     "incendies",
@@ -545,9 +545,9 @@
    ]
   },
   {
-   "title": "Céline Dion : six ans après son dernier concert, la star s’apprête à faire vibrer Paris devant des centaines de milliers de fans",
+   "title": "DIRECT. Céline Dion donne son premier concert à la Plenitude Arena: suivez l'événement en direct",
    "url": "https://www.leparisien.fr/culture-loisirs/musique/jai-depense-900-euros-la-boutique-celine-dion-aux-galeries-lafayette-met-ses-fans-en-ebullition-03-09-2026-3MOUQ23SEJDPDFW4QZIB27QT6Y.php",
-   "n_members": 113,
+   "n_members": 117,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -561,17 +561,17 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.292,
+   "divergence": 0.298,
    "category": "culture",
    "terms_left": [
     "nanterre",
     "concerts",
-    "concerts céline"
+    "québécoise"
    ],
    "terms_right": [
     "concert",
     "ans",
-    "qu"
+    "retour"
    ]
   },
   {
@@ -591,17 +591,47 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.454,
+   "divergence": 0.453,
    "category": "international",
    "terms_left": [
     "toxicité",
     "toxicité air",
-    "mamdani"
+    "air"
    ],
    "terms_right": [
     "victimes",
-    "ans",
-    "états-unis"
+    "états-unis",
+    "ans attentats"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : Édouard Philippe mise sur l’union de la droite et du centre",
+   "url": "https://www.ladepeche.fr/2026/09/03/presidentielle-2027-le-pen-en-tete-philippe-et-attal-decrochent-et-glucksmann-progresse-dans-lopinion-13534383.php",
+   "n_members": 93,
+   "n_sources": 27,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.507,
+   "category": "politique",
+   "terms_left": [
+    "edouard",
+    "edouard philippe",
+    "nice"
+   ],
+   "terms_right": [
+    "droite centre",
+    "présidentielle",
+    "éric ciotti"
    ]
   },
   {
@@ -621,7 +651,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.783,
+   "divergence": 0.784,
    "category": "politique",
    "terms_left": [
     "prix",
@@ -667,7 +697,7 @@
   {
    "title": "Déraillement d’un train en Seine-Maritime : la piste d’un acte malveillant privilégiée par les enquêteurs",
    "url": "https://www.tf1info.fr/international/nouveau-drame-routier-en-algerie-10-morts-dans-un-carambolage-a-l-est-d-alger-2462882.html",
-   "n_members": 101,
+   "n_members": 104,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -681,47 +711,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.361,
+   "divergence": 0.352,
    "category": "faits-divers",
    "terms_left": [
-    "normandie",
+    "ter normandie",
     "piste",
-    "privilégiée"
+    "normandie"
    ],
    "terms_right": [
     "personnes",
     "blessées",
     "déraillement train"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : Edouard Philippe « tend la main » au centre et à la droite mais Attal, Retailleau Lisnard et Bayrou déclinent",
-   "url": "https://www.ladepeche.fr/2026/09/03/presidentielle-2027-le-pen-en-tete-philippe-et-attal-decrochent-et-glucksmann-progresse-dans-lopinion-13534383.php",
-   "n_members": 91,
-   "n_sources": 26,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.515,
-   "category": "politique",
-   "terms_left": [
-    "edouard",
-    "edouard philippe",
-    "nice"
-   ],
-   "terms_right": [
-    "éric ciotti",
-    "éric",
-    "présidentielle"
    ]
   },
   {
@@ -801,7 +801,7 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.865,
+   "divergence": 0.864,
    "category": "économie",
    "terms_left": [
     "santé",
@@ -811,7 +811,37 @@
    "terms_right": [
     "taux",
     "immobilier",
-    "crise"
+    "france"
+   ]
+  },
+  {
+   "title": "Budget 2027 : abattement de 10% ou indexation des retraites, le gouvernement choisira, affirme David Amiel",
+   "url": "https://www.mediapart.fr/journal/france/070926/en-depit-de-ses-revenus-le-depute-lfi-sebastien-delogu-ne-verse-pas-de-pension-alimentaire",
+   "n_members": 61,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 10,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.529,
+   "category": "politique",
+   "terms_left": [
+    "milliards",
+    "milliards euros",
+    "économies"
+   ],
+   "terms_right": [
+    "ans",
+    "qu",
+    "face"
    ]
   },
   {
@@ -861,16 +891,16 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.764,
+   "divergence": 0.769,
    "category": "international",
    "terms_left": [
     "conflit commercial",
-    "nouveau",
-    "nouveau record"
+    "nouveau record",
+    "conflit"
    ],
    "terms_right": [
-    "trump",
     "états-unis",
+    "trump",
     "donald"
    ]
   },
@@ -891,7 +921,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.641,
+   "divergence": 0.639,
    "category": "sciences-tech",
    "terms_left": [
     "lumière",
@@ -899,9 +929,39 @@
     "cinéma"
    ],
    "terms_right": [
-    "international",
     "sommet international",
+    "international",
     "spatiale"
+   ]
+  },
+  {
+   "title": "Cambriolage au musée Renoir à Cagnes-sur-Mer : après un casse en 5 minutes, des failles dans la sécurité du musée pointées par des experts",
+   "url": "https://www.nicematin.com/faits-divers/des-uvres-inestimables-portraits-de-famille-ou-scene-de-la-vie-courante-ce-que-l-on-sait-des-tableaux-de-renoir-volees-au-musee-de-cagnes-ce-mardi-matin-10719979",
+   "n_members": 65,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.217,
+   "category": "faits-divers",
+   "terms_left": [
+    "cagnes-sur-mer cambriolé",
+    "vols",
+    "dérobés"
+   ],
+   "terms_right": [
+    "cambriolage musée",
+    "cambriolage",
+    "œuvres"
    ]
   },
   {
@@ -951,7 +1011,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.654,
+   "divergence": 0.653,
    "category": "international",
    "terms_left": [
     "maison",
@@ -962,36 +1022,6 @@
     "amérique",
     "états-unis",
     "trump"
-   ]
-  },
-  {
-   "title": "\"C’est un vaste chantier\" : après le vol de deux Renoir, le défi de la sécurité des musées français",
-   "url": "https://www.nicematin.com/faits-divers/des-uvres-inestimables-portraits-de-famille-ou-scene-de-la-vie-courante-ce-que-l-on-sait-des-tableaux-de-renoir-volees-au-musee-de-cagnes-ce-mardi-matin-10719979",
-   "n_members": 64,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 4
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.214,
-   "category": "faits-divers",
-   "terms_left": [
-    "cagnes-sur-mer cambriolé",
-    "vols",
-    "dérobés"
-   ],
-   "terms_right": [
-    "cambriolage musée",
-    "cambriolage",
-    "œuvres"
    ]
   },
   {
@@ -1041,7 +1071,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.798,
+   "divergence": 0.795,
    "category": "environnement",
    "terms_left": [
     "arrivée",
@@ -1055,33 +1085,63 @@
    ]
   },
   {
-   "title": "Budget 2027 : abattement de 10% ou indexation des retraites, le gouvernement choisira, affirme David Amiel",
-   "url": "https://www.mediapart.fr/journal/france/070926/en-depit-de-ses-revenus-le-depute-lfi-sebastien-delogu-ne-verse-pas-de-pension-alimentaire",
-   "n_members": 59,
+   "title": "Sommet des Brics : Xi Jinping est arrivé en Inde, la guerre au Moyen-Orient divise",
+   "url": "https://www.lemonde.fr/international/article/2026/09/07/en-chine-la-memoire-interdite-de-la-plus-grande-famine-de-l-histoire_6767968_3210.html",
+   "n_members": 60,
    "n_sources": 25,
    "counts": {
-    "left": 6,
+    "left": 5,
     "centre": 10,
-    "right": 9
+    "right": 10
    },
    "style_counts": {
-    "factuel": 13,
+    "factuel": 14,
     "mixte": 8,
-    "opinion": 4
+    "opinion": 3
    },
-   "blindspot_score": 0.2,
+   "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.533,
-   "category": "politique",
+   "divergence": 0.863,
+   "category": "international",
    "terms_left": [
-    "milliards",
-    "milliards euros",
-    "économies"
+    "chine",
+    "mort",
+    "pays"
    ],
    "terms_right": [
-    "ans",
-    "qu",
-    "face"
+    "pris",
+    "parti",
+    "monde"
+   ]
+  },
+  {
+   "title": "L'IA d'Anthropic utilisée pour pirater plusieurs organisations d’extrême droite françaises",
+   "url": "https://www.lejdd.fr/politique/theses-racistes-propos-climatosceptiques-lfi-annonce-boycotter-bfmtv-en-raison-de-sa-ligne-editoriale-183108",
+   "n_members": 49,
+   "n_sources": 25,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": -0.167,
+   "blindspot_for": null,
+   "divergence": 0.732,
+   "category": "culture",
+   "terms_left": [
+    "extrême droite",
+    "extrême",
+    "droite"
+   ],
+   "terms_right": [
+    "ia",
+    "anthropic",
+    "claude"
    ]
   },
   {
@@ -1131,7 +1191,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.49,
+   "divergence": 0.491,
    "category": "international",
    "terms_left": [
     "houthistes",
@@ -1142,66 +1202,6 @@
     "passage",
     "houthis",
     "emparés"
-   ]
-  },
-  {
-   "title": "40,3°C dans le Tarn : la France bat son record de chaleur pour un mois de septembre",
-   "url": "http://fr.euronews.com/my-europe/2026/08/27/litalie-fait-face-a-la-vague-de-chaleur-la-plus-intense-de-lete-avec-des-maximales-atteign",
-   "n_members": 102,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 14,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.651,
-   "category": "environnement",
-   "terms_left": [
-    "partir",
-    "nouveau",
-    "nouvel"
-   ],
-   "terms_right": [
-    "semaine",
-    "fin",
-    "jusqu"
-   ]
-  },
-  {
-   "title": "Mort de Federico Martin Aramburu : au procès Le Priol et Bouvier, un enquêteur affirme que les dix détonations sont une « exécution »",
-   "url": "https://www.liberation.fr/societe/police-justice/ce-que-jai-prefere-ce-sont-les-quatre-dernieres-bastos-que-je-lui-ai-mises-dans-le-buffet-les-propos-glacants-de-loik-le-priol-en-detention-accuse-de-lassassinat-daramburu-20260902_TWQ7QWNVQBGTZE2E57MIQUNMXQ/",
-   "n_members": 88,
-   "n_sources": 24,
-   "counts": {
-    "left": 7,
-    "centre": 11,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
-    "opinion": 4
-   },
-   "blindspot_score": -0.077,
-   "blindspot_for": null,
-   "divergence": 0.497,
-   "category": "société",
-   "terms_left": [
-    "aramburú",
-    "martín aramburú",
-    "assassinat federico"
-   ],
-   "terms_right": [
-    "aramburu",
-    "rugbyman",
-    "federico aramburu"
    ]
   }
  ]
