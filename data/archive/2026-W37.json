@@ -1,13 +1,13 @@
 {
  "week": "2026-W37",
- "generated_at": "2026-09-12T10:19:44+00:00",
+ "generated_at": "2026-09-12T13:41:56+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Éducation : l’Europe promet d’agir face à la baisse du niveau des élèves",
    "url": "https://www.sudradio.fr/societe/education-cinq-choses-a-savoir-sur-lenquete-pisa",
-   "n_members": 141,
+   "n_members": 142,
    "n_sources": 38,
    "counts": {
     "left": 8,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.344,
+   "divergence": 0.34,
    "category": "société",
    "terms_left": [
     "direct",
@@ -31,7 +31,7 @@
    "terms_right": [
     "classement pisa",
     "classement",
-    "ocde"
+    "éducation"
    ]
   },
   {
@@ -56,7 +56,7 @@
    "terms_left": [
     "démocratie",
     "majorité",
-    "choc"
+    "historique saxe-anhalt"
    ],
    "terms_right": [
     "élection",
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.478,
+   "divergence": 0.476,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -217,7 +217,7 @@
   {
    "title": "Propos racistes de policiers municipaux à Carcassonne : ce que l'on sait de la polémique",
    "url": "https://www.leparisien.fr/faits-divers/negres-bougnoules-connasses-enquete-ouverte-apres-des-propos-racistes-sexistes-et-complotistes-dun-policier-municipal-de-carcassonne-09-09-2026-BGANEAIYMJBIZEWMUI7WA7J36I.php",
-   "n_members": 112,
+   "n_members": 113,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.267,
+   "divergence": 0.265,
    "category": "société",
    "terms_left": [
     "rassemblement",
@@ -240,8 +240,8 @@
    ],
    "terms_right": [
     "propos",
-    "police municipale",
-    "municipale"
+    "affaire",
+    "agent"
    ]
   },
   {
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.422,
+   "divergence": 0.426,
    "category": "international",
    "terms_left": [
     "convention républicaine",
@@ -275,9 +275,9 @@
    ]
   },
   {
-   "title": "\"L’IA pourrait tous nous tuer d’ici 2030\" : l’avertissement terrifiant d’un ancien chercheur d’OpenAI et Anthropic qui affirme que l’IA pourrait \"tuer tous les humains\"",
+   "title": "«L’IA pourrait anéantir l’humanité» : pourquoi les experts s’inquiètent",
    "url": "https://www.bfmtv.com/tech/intelligence-artificielle/l-ia-est-la-promesse-pour-l-humanite-de-depasser-une-nouvelle-frontiere-de-la-connaissance-jean-luc-melenchon-plaide-pour-une-ia-regulee-par-l-onu-et-controlee-democratiquement_AN-202609040758.html",
-   "n_members": 81,
+   "n_members": 83,
    "n_sources": 30,
    "counts": {
     "left": 8,
@@ -291,17 +291,17 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.483,
+   "divergence": 0.481,
    "category": "sciences-tech",
    "terms_left": [
-    "qu",
     "tuer",
+    "qu",
     "équation"
    ],
    "terms_right": [
     "humanité",
-    "avancée",
-    "ans"
+    "ans",
+    "avancée"
    ]
   },
   {
@@ -321,17 +321,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.77,
+   "divergence": 0.772,
    "category": "international",
    "terms_left": [
     "israël",
-    "israélien",
-    "benyamin"
+    "benyamin",
+    "israélien"
    ],
    "terms_right": [
-    "benjamin",
     "allemagne",
-    "attaques"
+    "benjamin",
+    "état"
    ]
   },
   {
@@ -351,12 +351,12 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.349,
+   "divergence": 0.358,
    "category": "international",
    "terms_left": [
     "etats-unis",
-    "golfe",
-    "américaines pétroliers"
+    "américaines pétroliers",
+    "golfe"
    ],
    "terms_right": [
     "moyen-orient",
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.65,
+   "divergence": 0.651,
    "category": "politique",
    "terms_left": [
     "bolloré",
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.578,
+   "divergence": 0.576,
    "category": "société",
    "terms_left": [
     "incendies",
@@ -471,7 +471,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.394,
+   "divergence": 0.395,
    "category": "environnement",
    "terms_left": [
     "intensité",
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.21,
+   "divergence": 0.211,
    "category": "société",
    "terms_left": [
     "grève",
@@ -545,6 +545,36 @@
    ]
   },
   {
+   "title": "Céline Dion : six ans après son dernier concert, la star s’apprête à faire vibrer Paris devant des centaines de milliers de fans",
+   "url": "https://www.leparisien.fr/culture-loisirs/musique/jai-depense-900-euros-la-boutique-celine-dion-aux-galeries-lafayette-met-ses-fans-en-ebullition-03-09-2026-3MOUQ23SEJDPDFW4QZIB27QT6Y.php",
+   "n_members": 113,
+   "n_sources": 27,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.292,
+   "category": "culture",
+   "terms_left": [
+    "nanterre",
+    "concerts",
+    "concerts céline"
+   ],
+   "terms_right": [
+    "concert",
+    "ans",
+    "qu"
+   ]
+  },
+  {
    "title": "EN IMAGES - Les États-Unis se recueillent, 25 ans après les attentats du 11-Septembre",
    "url": "https://www.courrierinternational.com/article/new-york-rudy-giuliani-ne-veut-pas-voir-zohran-mamdani-aux-ceremonies-du-11-septembre_268524",
    "n_members": 102,
@@ -561,7 +591,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.456,
+   "divergence": 0.454,
    "category": "international",
    "terms_left": [
     "toxicité",
@@ -571,7 +601,7 @@
    "terms_right": [
     "victimes",
     "ans",
-    "ans attentats"
+    "états-unis"
    ]
   },
   {
@@ -635,33 +665,33 @@
    ]
   },
   {
-   "title": "Céline Dion : six ans après son dernier concert, la star s’apprête à faire vibrer Paris devant des centaines de milliers de fans",
-   "url": "https://www.leparisien.fr/culture-loisirs/musique/jai-depense-900-euros-la-boutique-celine-dion-aux-galeries-lafayette-met-ses-fans-en-ebullition-03-09-2026-3MOUQ23SEJDPDFW4QZIB27QT6Y.php",
-   "n_members": 107,
+   "title": "Déraillement d’un train en Seine-Maritime : la piste d’un acte malveillant privilégiée par les enquêteurs",
+   "url": "https://www.tf1info.fr/international/nouveau-drame-routier-en-algerie-10-morts-dans-un-carambolage-a-l-est-d-alger-2462882.html",
+   "n_members": 101,
    "n_sources": 26,
    "counts": {
     "left": 5,
-    "centre": 14,
-    "right": 7
+    "centre": 13,
+    "right": 8
    },
    "style_counts": {
-    "factuel": 16,
+    "factuel": 14,
     "mixte": 8,
-    "opinion": 2
+    "opinion": 4
    },
-   "blindspot_score": 0.167,
+   "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.29,
-   "category": "culture",
+   "divergence": 0.361,
+   "category": "faits-divers",
    "terms_left": [
-    "nanterre",
-    "concerts",
-    "concerts céline"
+    "normandie",
+    "piste",
+    "privilégiée"
    ],
    "terms_right": [
-    "qu",
-    "ans",
-    "public"
+    "personnes",
+    "blessées",
+    "déraillement train"
    ]
   },
   {
@@ -681,12 +711,12 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.512,
+   "divergence": 0.515,
    "category": "politique",
    "terms_left": [
     "edouard",
     "edouard philippe",
-    "droite"
+    "nice"
    ],
    "terms_right": [
     "éric ciotti",
@@ -711,7 +741,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.648,
+   "divergence": 0.649,
    "category": "politique",
    "terms_left": [
     "campagne",
@@ -771,16 +801,16 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.852,
+   "divergence": 0.865,
    "category": "économie",
    "terms_left": [
     "santé",
     "vie",
-    "hausse"
+    "horaires"
    ],
    "terms_right": [
+    "taux",
     "immobilier",
-    "france",
     "crise"
    ]
   },
@@ -861,7 +891,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.645,
+   "divergence": 0.641,
    "category": "sciences-tech",
    "terms_left": [
     "lumière",
@@ -951,17 +981,17 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.211,
+   "divergence": 0.214,
    "category": "faits-divers",
    "terms_left": [
     "cagnes-sur-mer cambriolé",
     "vols",
-    "cambriolé tableaux"
+    "dérobés"
    ],
    "terms_right": [
-    "œuvres",
     "cambriolage musée",
-    "cambriolage"
+    "cambriolage",
+    "œuvres"
    ]
   },
   {
@@ -1011,23 +1041,23 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.784,
+   "divergence": 0.798,
    "category": "environnement",
    "terms_left": [
-    "droite",
     "arrivée",
-    "france inter"
+    "droite",
+    "arrivée charles"
    ],
    "terms_right": [
     "eau",
     "sécheresse",
-    "phréatiques"
+    "niveau"
    ]
   },
   {
    "title": "Budget 2027 : abattement de 10% ou indexation des retraites, le gouvernement choisira, affirme David Amiel",
    "url": "https://www.mediapart.fr/journal/france/070926/en-depit-de-ses-revenus-le-depute-lfi-sebastien-delogu-ne-verse-pas-de-pension-alimentaire",
-   "n_members": 58,
+   "n_members": 59,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -1041,7 +1071,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.535,
+   "divergence": 0.533,
    "category": "politique",
    "terms_left": [
     "milliards",
@@ -1087,7 +1117,7 @@
   {
    "title": "Yémen : les Houtis s’emparent d’un verrou stratégique de la mer Rouge",
    "url": "https://www.courrierinternational.com/article/epidemie-en-rdc-une-rentree-scolaire-differenciee-sous-le-signe-d-ebola_265244",
-   "n_members": 112,
+   "n_members": 115,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -1101,17 +1131,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.518,
+   "divergence": 0.49,
    "category": "international",
    "terms_left": [
-    "rebelles",
     "houthistes",
-    "iran"
+    "détroit ormuz",
+    "rebelles"
    ],
    "terms_right": [
     "passage",
-    "emparés",
-    "houthis"
+    "houthis",
+    "emparés"
    ]
   },
   {
@@ -1145,36 +1175,6 @@
    ]
   },
   {
-   "title": "Déraillement d’un train en Seine-Maritime : la piste d’un acte malveillant privilégiée par les enquêteurs",
-   "url": "https://www.tf1info.fr/international/nouveau-drame-routier-en-algerie-10-morts-dans-un-carambolage-a-l-est-d-alger-2462882.html",
-   "n_members": 89,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 4
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.39,
-   "category": "faits-divers",
-   "terms_left": [
-    "bord",
-    "malveillant",
-    "acte malveillant"
-   ],
-   "terms_right": [
-    "personnes",
-    "blessées",
-    "ans"
-   ]
-  },
-  {
    "title": "Mort de Federico Martin Aramburu : au procès Le Priol et Bouvier, un enquêteur affirme que les dix détonations sont une « exécution »",
    "url": "https://www.liberation.fr/societe/police-justice/ce-que-jai-prefere-ce-sont-les-quatre-dernieres-bastos-que-je-lui-ai-mises-dans-le-buffet-les-propos-glacants-de-loik-le-priol-en-detention-accuse-de-lassassinat-daramburu-20260902_TWQ7QWNVQBGTZE2E57MIQUNMXQ/",
    "n_members": 88,
@@ -1191,7 +1191,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.491,
+   "divergence": 0.497,
    "category": "société",
    "terms_left": [
     "aramburú",
