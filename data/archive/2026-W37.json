@@ -1,6 +1,6 @@
 {
  "week": "2026-W37",
- "generated_at": "2026-09-13T06:26:12+00:00",
+ "generated_at": "2026-09-13T12:11:24+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,17 +21,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.337,
+   "divergence": 0.343,
    "category": "société",
    "terms_left": [
     "test",
-    "décrochage",
-    "test pisa"
+    "test pisa",
+    "français test"
    ],
    "terms_right": [
     "classement pisa",
     "classement",
-    "scolaire"
+    "ans"
    ]
   },
   {
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.182,
    "blindspot_for": null,
-   "divergence": 0.16,
+   "divergence": 0.161,
    "category": "international",
    "terms_left": [
     "démocratie",
-    "historique saxe-anhalt",
-    "choc"
+    "régionales saxe-anhalt",
+    "historique saxe-anhalt"
    ],
    "terms_right": [
     "élection",
@@ -97,7 +97,7 @@
   {
    "title": "Budget 2027 : Roland Lescure évoque un « effort » de 30 milliards d’économies",
    "url": "https://www.europe1.fr/politique/jusqua-400eu-le-week-end-le-tarif-des-universites-dete-de-lfi-fait-polemique-1014659",
-   "n_members": 203,
+   "n_members": 207,
    "n_sources": 34,
    "counts": {
     "left": 6,
@@ -111,12 +111,12 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.467,
+   "divergence": 0.457,
    "category": "politique",
    "terms_left": [
     "gauche",
-    "grandes",
-    "grandes entreprises"
+    "fabien",
+    "roussel"
    ],
    "terms_right": [
     "ministres",
@@ -174,9 +174,9 @@
    "divergence": 0.484,
    "category": "sciences-tech",
    "terms_left": [
+    "qu",
     "croient",
-    "qu tuer",
-    "ia croient"
+    "qu tuer"
    ],
    "terms_right": [
     "humanité",
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.573,
+   "divergence": 0.567,
    "category": "société",
    "terms_left": [
     "handicap",
@@ -240,8 +240,8 @@
    ],
    "terms_right": [
     "ans",
-    "européen",
-    "réseaux sociaux"
+    "réseaux sociaux",
+    "sociaux"
    ]
   },
   {
@@ -261,17 +261,17 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.269,
+   "divergence": 0.289,
    "category": "société",
    "terms_left": [
+    "raciste",
     "vidéo",
-    "national",
-    "rassemblement"
+    "encarté"
    ],
    "terms_right": [
-    "affaire",
     "propos",
-    "tenus"
+    "racistes",
+    "police"
    ]
   },
   {
@@ -291,17 +291,17 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.434,
+   "divergence": 0.427,
    "category": "international",
    "terms_left": [
+    "citoyens",
     "convention républicaine",
-    "républicaine",
-    "citoyens"
+    "dallas trump"
    ],
    "terms_right": [
     "américain",
-    "promet",
-    "dollars américain"
+    "états-unis",
+    "parti"
    ]
   },
   {
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.653,
+   "divergence": 0.654,
    "category": "politique",
    "terms_left": [
     "bolloré",
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.572,
+   "divergence": 0.57,
    "category": "société",
    "terms_left": [
     "gouvernement",
@@ -471,7 +471,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.393,
+   "divergence": 0.392,
    "category": "environnement",
    "terms_left": [
     "intensité",
@@ -482,6 +482,36 @@
     "panama",
     "canal panama",
     "canal"
+   ]
+  },
+  {
+   "title": "Concert de Céline Dion: les premières réactions des fans à la sortie du concert",
+   "url": "https://www.leparisien.fr/culture-loisirs/musique/jai-depense-900-euros-la-boutique-celine-dion-aux-galeries-lafayette-met-ses-fans-en-ebullition-03-09-2026-3MOUQ23SEJDPDFW4QZIB27QT6Y.php",
+   "n_members": 176,
+   "n_sources": 28,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.245,
+   "category": "culture",
+   "terms_left": [
+    "nanterre",
+    "série",
+    "concerts"
+   ],
+   "terms_right": [
+    "concert",
+    "dates",
+    "fans"
    ]
   },
   {
@@ -545,36 +575,6 @@
    ]
   },
   {
-   "title": "Concert de Céline Dion: les premières réactions des fans à la sortie du concert",
-   "url": "https://www.leparisien.fr/culture-loisirs/musique/jai-depense-900-euros-la-boutique-celine-dion-aux-galeries-lafayette-met-ses-fans-en-ebullition-03-09-2026-3MOUQ23SEJDPDFW4QZIB27QT6Y.php",
-   "n_members": 161,
-   "n_sources": 27,
-   "counts": {
-    "left": 6,
-    "centre": 14,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.28,
-   "category": "culture",
-   "terms_left": [
-    "nanterre",
-    "concerts",
-    "québécoise"
-   ],
-   "terms_right": [
-    "concert",
-    "ans",
-    "retour"
-   ]
-  },
-  {
    "title": "EN IMAGES - Les États-Unis se recueillent, 25 ans après les attentats du 11-Septembre",
    "url": "https://www.courrierinternational.com/article/new-york-rudy-giuliani-ne-veut-pas-voir-zohran-mamdani-aux-ceremonies-du-11-septembre_268524",
    "n_members": 102,
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.468,
+   "divergence": 0.465,
    "category": "international",
    "terms_left": [
     "toxicité",
@@ -599,9 +599,9 @@
     "air"
    ],
    "terms_right": [
-    "victimes",
     "ans attentats",
-    "ans"
+    "président",
+    "victimes"
    ]
   },
   {
@@ -667,7 +667,7 @@
   {
    "title": "Budget 2027 : abattement de 10% ou indexation des retraites, le gouvernement choisira, affirme David Amiel",
    "url": "https://www.mediapart.fr/journal/france/070926/en-depit-de-ses-revenus-le-depute-lfi-sebastien-delogu-ne-verse-pas-de-pension-alimentaire",
-   "n_members": 66,
+   "n_members": 68,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -681,17 +681,17 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.526,
+   "divergence": 0.529,
    "category": "économie",
    "terms_left": [
-    "exécutif",
     "verse",
-    "verse pension"
+    "verse pension",
+    "soit"
    ],
    "terms_right": [
+    "ans",
     "qu",
-    "face",
-    "ans"
+    "face"
    ]
   },
   {
@@ -727,7 +727,7 @@
   {
    "title": "Déraillement d’un train en Seine-Maritime : la piste d’un acte malveillant privilégiée par les enquêteurs",
    "url": "https://www.tf1info.fr/international/nouveau-drame-routier-en-algerie-10-morts-dans-un-carambolage-a-l-est-d-alger-2462882.html",
-   "n_members": 119,
+   "n_members": 125,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -741,7 +741,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.336,
+   "divergence": 0.331,
    "category": "faits-divers",
    "terms_left": [
     "ter normandie",
@@ -801,7 +801,7 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.603,
+   "divergence": 0.602,
    "category": "économie",
    "terms_left": [
     "budget",
@@ -861,12 +861,12 @@
    },
    "blindspot_score": -0.167,
    "blindspot_for": null,
-   "divergence": 0.737,
+   "divergence": 0.752,
    "category": "culture",
    "terms_left": [
+    "droite",
     "extrême droite",
-    "extrême",
-    "droite"
+    "extrême"
    ],
    "terms_right": [
     "ia",
@@ -877,7 +877,7 @@
   {
    "title": "Yémen : les Houtis s’emparent d’un verrou stratégique de la mer Rouge",
    "url": "https://www.courrierinternational.com/article/epidemie-en-rdc-une-rentree-scolaire-differenciee-sous-le-signe-d-ebola_265244",
-   "n_members": 120,
+   "n_members": 121,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -891,17 +891,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.487,
+   "divergence": 0.488,
    "category": "international",
    "terms_left": [
     "houthistes",
-    "rebelles",
+    "iran",
     "détroit ormuz"
    ],
    "terms_right": [
     "passage",
     "houthis",
-    "emparés"
+    "commerce"
    ]
   },
   {
@@ -1011,7 +1011,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.627,
+   "divergence": 0.631,
    "category": "sciences-tech",
    "terms_left": [
     "lumière",
@@ -1020,8 +1020,8 @@
    ],
    "terms_right": [
     "emmanuel",
-    "emmanuel macron",
-    "sommet international"
+    "sommet international",
+    "international"
    ]
   },
   {
@@ -1041,7 +1041,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.232,
+   "divergence": 0.234,
    "category": "faits-divers",
    "terms_left": [
     "cagnes-sur-mer cambriolé",
@@ -1147,7 +1147,7 @@
   {
    "title": "Sommet des Brics : Xi Jinping est arrivé en Inde, la guerre au Moyen-Orient divise",
    "url": "https://www.lemonde.fr/international/article/2026/09/07/en-chine-la-memoire-interdite-de-la-plus-grande-famine-de-l-histoire_6767968_3210.html",
-   "n_members": 61,
+   "n_members": 62,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -1161,12 +1161,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.841,
+   "divergence": 0.815,
    "category": "international",
    "terms_left": [
     "chine",
-    "new",
-    "delhi"
+    "pays",
+    "mort"
    ],
    "terms_right": [
     "pris",
@@ -1191,12 +1191,12 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.793,
+   "divergence": 0.787,
    "category": "environnement",
    "terms_left": [
     "arrivée",
     "arrivée charles",
-    "france inter"
+    "extrême droite"
    ],
    "terms_right": [
     "eau",
