@@ -1,6 +1,6 @@
 {
  "week": "2026-W38",
- "generated_at": "2026-09-14T19:42:44+00:00",
+ "generated_at": "2026-09-14T22:52:51+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.344,
+   "divergence": 0.343,
    "category": "société",
    "terms_left": [
     "test",
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.509,
+   "divergence": 0.51,
    "category": "sciences-tech",
    "terms_left": [
     "qu",
@@ -97,21 +97,21 @@
   {
    "title": "EN DIRECT, présidentielle 2027 : Marine Le Pen fait sa rentrée à Hénin-Beaumont et annonce un grand plan logement",
    "url": "https://www.lefigaro.fr/politique/primaire-de-la-droite-et-du-centre-la-charte-de-valeurs-redigee-par-herve-morin-a-l-adresse-des-candidats-sur-le-point-d-etre-finalisee-20260907",
-   "n_members": 143,
-   "n_sources": 31,
+   "n_members": 144,
+   "n_sources": 32,
    "counts": {
     "left": 6,
     "centre": 13,
-    "right": 12
+    "right": 13
    },
    "style_counts": {
     "factuel": 16,
     "mixte": 9,
-    "opinion": 6
+    "opinion": 7
    },
-   "blindspot_score": 0.333,
+   "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.436,
+   "divergence": 0.437,
    "category": "politique",
    "terms_left": [
     "monde",
@@ -215,6 +215,36 @@
    ]
   },
   {
+   "title": "Budget 2027: les deux options du gouvernement pour faire contribuer les retraités",
+   "url": "https://www.mediapart.fr/journal/france/070926/en-depit-de-ses-revenus-le-depute-lfi-sebastien-delogu-ne-verse-pas-de-pension-alimentaire",
+   "n_members": 96,
+   "n_sources": 29,
+   "counts": {
+    "left": 6,
+    "centre": 10,
+    "right": 13
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 6
+   },
+   "blindspot_score": 0.368,
+   "blindspot_for": null,
+   "divergence": 0.563,
+   "category": "économie",
+   "terms_left": [
+    "verse",
+    "verse pension",
+    "ministre comptes"
+   ],
+   "terms_right": [
+    "qu",
+    "économies",
+    "retraités"
+   ]
+  },
+  {
    "title": "Le retour de Marion Maréchal au RN, un sujet qui déchaîne les crispations",
    "url": "https://www.lemonde.fr/societe/article/2026/08/31/vincent-bollore-depose-plainte-pour-association-de-malfaiteurs-contre-des-magistrats-apres-son-renvoi-devant-le-tribunal-pour-corruption_6762587_3224.html",
    "n_members": 86,
@@ -247,7 +277,7 @@
   {
    "title": "Intelligence artificielle : les patrons d'Anthropic, d'OpenAI et Elon Musk souhaitent un ralentissement de son développement",
    "url": "https://www.courrierinternational.com/article/mathematiques-l-ia-formalise-le-dernier-theoreme-de-fermat-en-seulement-onze-jours_268898",
-   "n_members": 72,
+   "n_members": 73,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -261,47 +291,17 @@
    },
    "blindspot_score": -0.143,
    "blindspot_for": null,
-   "divergence": 0.43,
+   "divergence": 0.4,
    "category": "sciences-tech",
    "terms_left": [
-    "patrons",
     "ralentir ia",
-    "musk altman"
+    "musk altman",
+    "patrons"
    ],
    "terms_right": [
-    "openai",
     "appelé ralentir",
-    "appelé"
-   ]
-  },
-  {
-   "title": "Budget 2027: les deux options du gouvernement pour faire contribuer les retraités",
-   "url": "https://www.mediapart.fr/journal/france/070926/en-depit-de-ses-revenus-le-depute-lfi-sebastien-delogu-ne-verse-pas-de-pension-alimentaire",
-   "n_members": 94,
-   "n_sources": 28,
-   "counts": {
-    "left": 6,
-    "centre": 10,
-    "right": 12
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 9,
-    "opinion": 5
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.56,
-   "category": "économie",
-   "terms_left": [
-    "verse",
-    "verse pension",
-    "ministre comptes"
-   ],
-   "terms_right": [
-    "qu",
-    "économies",
-    "retraités"
+    "ralentir développement",
+    "développement intelligence"
    ]
   },
   {
@@ -321,23 +321,23 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.317,
+   "divergence": 0.316,
    "category": "faits-divers",
    "terms_left": [
     "ter normandie",
-    "privilégiée",
-    "proximité"
+    "proximité",
+    "privilégiée"
    ],
    "terms_right": [
     "déraillement train",
-    "personnes",
-    "blessées"
+    "train",
+    "personnes"
    ]
   },
   {
    "title": "Législatives en Suède: la gauche en tête, selon des sondages à la sortie des urnes, l'extrême droite recule",
    "url": "https://www.challenges.fr/monde/le-modele-suedois-a-lepreuve-des-urnes_645628",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.412,
+   "divergence": 0.413,
    "category": "international",
    "terms_left": [
     "andersson",
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.58,
+   "divergence": 0.579,
    "category": "société",
    "terms_left": [
     "projet",
@@ -397,7 +397,7 @@
   {
    "title": "Guerre en Ukraine : un drone russe frappe un train de voyageurs à proximité de la frontière polonaise",
    "url": "https://www.nicematin.com/faits-divers/explosion-a-monaco/explosion-a-monaco-visant-vadim-ermolaev-la-detention-provisoire-des-deux-assassins-presumes-de-la-poseuse-de-bombe-prolongee-en-ukraine-10719624",
-   "n_members": 106,
+   "n_members": 108,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.366,
+   "divergence": 0.36,
    "category": "international",
    "terms_left": [
     "rail",
@@ -419,8 +419,8 @@
     "locomotive"
    ],
    "terms_right": [
-    "vladimir poutine",
-    "vladimir",
+    "boris johnson",
+    "johnson",
     "guerre russie"
    ]
   },
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.591,
+   "divergence": 0.592,
    "category": "économie",
    "terms_left": [
     "plein",
@@ -457,7 +457,7 @@
   {
    "title": "Bab-el-Mandeb, l'autre détroit qui perturbe le trafic mondial",
    "url": "https://www.courrierinternational.com/article/epidemie-en-rdc-une-rentree-scolaire-differenciee-sous-le-signe-d-ebola_265244",
-   "n_members": 130,
+   "n_members": 131,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -547,7 +547,7 @@
   {
    "title": "Un ministre israélien veut déchoir de leur nationalité les réalisateurs du documentaire « NAZA » primé à Venise",
    "url": "https://www.liberation.fr/culture/cinema/naza-a-la-mostra-un-documentaire-fondamental-sur-le-systeme-de-tueries-de-masse-a-gaza-raconte-par-larmee-israelienne-20260910_Z2OMIBLGMFDNPHDABMAWSXOFUQ/",
-   "n_members": 45,
+   "n_members": 46,
    "n_sources": 25,
    "counts": {
     "left": 7,
@@ -575,9 +575,9 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine : Donald Trump réclame la fin des attaques ukrainiennes sur le diesel russe",
+   "title": "Guerre en Ukraine : Donald Trump affirme que Kiev et Moscou ont accepté de ne pas frapper d’infrastructures énergétiques",
    "url": "https://www.leparisien.fr/international/ukraine/un-nettoyage-culturel-plus-de-dix-millions-de-livres-ukrainiens-ont-brule-dans-des-attaques-russes-31-08-2026-PJAP7JBA2FBQXNF3XFVFHQN4VA.php",
-   "n_members": 147,
+   "n_members": 151,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -591,17 +591,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.378,
+   "divergence": 0.388,
    "category": "international",
    "terms_left": [
     "direct",
     "direct guerre",
-    "guerre"
+    "guerre ukraine"
    ],
    "terms_right": [
     "trump",
-    "zelensky dit",
-    "sanctions"
+    "russie",
+    "donald trump"
    ]
   },
   {
@@ -621,17 +621,47 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.849,
+   "divergence": 0.844,
    "category": "international",
    "terms_left": [
+    "minute",
     "zacarias",
-    "zacarias moussaoui",
     "moussaoui"
    ],
    "terms_right": [
     "ans",
-    "états-unis",
-    "victimes"
+    "trump",
+    "donald"
+   ]
+  },
+  {
+   "title": "Un SDF jeté à terre par un policier à Carcassonne : enquête de l’IGPN ouverte pour « violences volontaires »",
+   "url": "https://www.ouest-france.fr/faits-divers/emeutes-urbaines/tirs-de-mortiers-incendies-scenes-demeutes-et-degats-importants-a-laval-dans-le-quartier-saint-nicolas-7b3c5d5c-ae83-11f1-b773-22a20d9d91fa",
+   "n_members": 52,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.615,
+   "category": "faits-divers",
+   "terms_left": [
+    "jours",
+    "français",
+    "famille"
+   ],
+   "terms_right": [
+    "police",
+    "procès",
+    "nuit"
    ]
   },
   {
@@ -667,7 +697,7 @@
   {
    "title": "«Ça finira par arriver» : Donald Trump surprend sur l'unification de l'Irlande",
    "url": "https://www.bfmtv.com/culture/cinema-series/south-park-change-de-nom-pour-devenir-south-america-et-se-moque-de-donald-trump_AN-202609080913.html",
-   "n_members": 57,
+   "n_members": 58,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -681,7 +711,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.679,
+   "divergence": 0.681,
    "category": "international",
    "terms_left": [
     "south",
@@ -691,7 +721,7 @@
    "terms_right": [
     "irlande",
     "golf",
-    "visite"
+    "président"
    ]
   },
   {
@@ -727,7 +757,7 @@
   {
    "title": "En direct : les Houthis disent avoir attaqué une base militaire en Arabie saoudite",
    "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/au-liban-des-frappes-israeliennes-dans-le-sud-et-l-est-font-trois-morts-et-23-blesses_8177951.html",
-   "n_members": 73,
+   "n_members": 75,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -745,8 +775,8 @@
    "category": "international",
    "terms_left": [
     "arabie saoudite",
-    "saoudite",
-    "arabie"
+    "arabie",
+    "saoudite"
    ],
    "terms_right": [
     "face",
@@ -771,7 +801,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.256,
+   "divergence": 0.255,
    "category": "sport",
    "terms_left": [
     "jo",
@@ -783,6 +813,28 @@
     "gouvernance",
     "intérim"
    ]
+  },
+  {
+   "title": "Gironde : le père d'une élève placé en garde à vue pour avoir menacé de mort un surveillant et la principale d'un collège",
+   "url": "https://www.ladepeche.fr/2026/09/09/un-pere-menace-de-decapitation-une-institutrice-au-fauga-choc-et-garde-a-vue-apres-lincident-scolaire-13543382.php",
+   "n_members": 55,
+   "n_sources": 22,
+   "counts": {
+    "left": 3,
+    "centre": 10,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 6,
+    "opinion": 5
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.417,
+   "category": "société",
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "EN DIRECT - États-Unis-France : deux ans après les JO de Paris, les Américaines accélèrent face aux Bleues en finale du Mondial",
@@ -801,7 +853,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.463,
+   "divergence": 0.462,
    "category": "sport",
    "terms_left": [
     "partenaires",
@@ -867,9 +919,9 @@
    ]
   },
   {
-   "title": "Volodymyr Zelensky se dit prêt à rencontrer Vladimir Poutine au G20 à Miami en décembre",
+   "title": "Guerre en Ukraine : Kiev prendra des « mesures de désescalade » si la Russie fait de même, affirme Volodymyr Zelensky",
    "url": "https://www.tf1info.fr/international/aujourd-hui-dans-24h-pujadas-frappes-russes-nous-entrons-dans-un-nouveau-monde-2463066.html",
-   "n_members": 47,
+   "n_members": 54,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -883,17 +935,17 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.487,
+   "divergence": 0.486,
    "category": "international",
    "terms_left": [
     "président",
-    "rencontrer",
-    "russes"
+    "corruption",
+    "rencontrer"
    ],
    "terms_right": [
-    "route",
-    "qu route",
-    "failli touché"
+    "volodymyr",
+    "volodymyr zelensky",
+    "zelensky"
    ]
   },
   {
@@ -959,7 +1011,7 @@
   {
    "title": "Crise de Ceuta : plus de 5 300 migrants sont retournés au Maroc en un mois, selon le gouvernement espagnol",
    "url": "http://fr.euronews.com/my-europe/2026/09/06/espagne-le-gouvernement-requisitionne-une-partie-du-port-de-ceuta-pour-heberger-1-000-migr",
-   "n_members": 65,
+   "n_members": 66,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -989,7 +1041,7 @@
   {
    "title": "Économie. Donations familiales : le gouvernement veut faire « circuler l'argent » plus tôt",
    "url": "https://www.franceinfo.fr/economie/info-franceinfo-les-notaires-proposent-de-diviser-par-deux-les-taxes-dues-a-l-etat-sur-les-donations-familiales_8185412.html",
-   "n_members": 44,
+   "n_members": 46,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -1003,47 +1055,17 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.717,
+   "divergence": 0.736,
    "category": "économie",
    "terms_left": [
     "budget gouvernement",
     "héritage",
-    "fiscalité"
+    "exécutif"
    ],
    "terms_right": [
     "qu",
     "marine",
-    "pen"
-   ]
-  },
-  {
-   "title": "Un SDF jeté à terre par un policier à Carcassonne : enquête de l’IGPN ouverte pour « violences volontaires »",
-   "url": "https://www.ouest-france.fr/faits-divers/emeutes-urbaines/tirs-de-mortiers-incendies-scenes-demeutes-et-degats-importants-a-laval-dans-le-quartier-saint-nicolas-7b3c5d5c-ae83-11f1-b773-22a20d9d91fa",
-   "n_members": 28,
-   "n_sources": 20,
-   "counts": {
-    "left": 4,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.567,
-   "category": "faits-divers",
-   "terms_left": [
-    "jours",
-    "mort",
-    "victime"
-   ],
-   "terms_right": [
-    "police",
-    "nuit",
-    "enquête"
+    "présidentielle"
    ]
   },
   {
@@ -1093,7 +1115,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.468,
+   "divergence": 0.477,
    "category": "société",
    "terms_left": [
     "naufrage migrants",
@@ -1102,9 +1124,31 @@
    ],
    "terms_right": [
     "personnes",
-    "examen",
-    "corps"
+    "qu",
+    "mort"
    ]
+  },
+  {
+   "title": "Un homme tué par balle en Guadeloupe, une enquête ouverte pour homicide volontaire",
+   "url": "https://www.ladepeche.fr/2026/09/06/tragique-accident-a-albi-en-pleine-nuit-les-deux-jeunes-femmes-entrent-en-collision-avec-un-tractopelle-stationne-dans-la-rue-en-travaux-13538162.php",
+   "n_members": 61,
+   "n_sources": 18,
+   "counts": {
+    "left": 2,
+    "centre": 9,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 4,
+    "opinion": 3
+   },
+   "blindspot_score": 0.556,
+   "blindspot_for": null,
+   "divergence": 0.511,
+   "category": "faits-divers",
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Prix des carburants: \"On est dans une situation intenable, il faut baisser d'urgence les taxes\", estime Philippe Brun, député PS de l'Eure",
@@ -1124,58 +1168,6 @@
    "blindspot_score": 0.556,
    "blindspot_for": null,
    "divergence": 0.683,
-   "category": "économie",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Journées du patrimoine : la Marine ouvre grand ses portes pour ses 400 ans, à Toulon",
-   "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/carte-decouvrez-le-parcours-que-va-emprunter-le-pape-leon-xiv-lors-de-sa-visite-historique-a-paris_8176799.html",
-   "n_members": 50,
-   "n_sources": 18,
-   "counts": {
-    "left": 3,
-    "centre": 7,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.455,
-   "blindspot_for": null,
-   "divergence": 0.629,
-   "category": "société",
-   "terms_left": [
-    "voir",
-    "paris",
-    "visite pape"
-   ],
-   "terms_right": [
-    "léon xiv",
-    "xiv",
-    "léon"
-   ]
-  },
-  {
-   "title": "Revolut transmet par erreur des données de clients à des pirates, risques d'usurpations d'identité",
-   "url": "https://www.ouest-france.fr/faits-divers/arnaques/attention-a-cette-arnaque-prime-video-un-faux-mail-vous-reclame-pres-de-270-euros-59ff7c36-a542-11f1-9a23-2458a7833d0a",
-   "n_members": 44,
-   "n_sources": 18,
-   "counts": {
-    "left": 2,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.556,
-   "blindspot_for": null,
-   "divergence": 0.746,
    "category": "économie",
    "terms_left": [],
    "terms_right": []
