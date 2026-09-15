@@ -1,6 +1,6 @@
 {
  "week": "2026-W38",
- "generated_at": "2026-09-14T22:52:51+00:00",
+ "generated_at": "2026-09-15T01:05:34+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -25,8 +25,8 @@
    "category": "société",
    "terms_left": [
     "test",
-    "français test",
-    "test pisa"
+    "test pisa",
+    "français test"
    ],
    "terms_right": [
     "classement pisa",
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.224,
+   "divergence": 0.225,
    "category": "culture",
    "terms_left": [
     "nanterre",
@@ -277,7 +277,7 @@
   {
    "title": "Intelligence artificielle : les patrons d'Anthropic, d'OpenAI et Elon Musk souhaitent un ralentissement de son développement",
    "url": "https://www.courrierinternational.com/article/mathematiques-l-ia-formalise-le-dernier-theoreme-de-fermat-en-seulement-onze-jours_268898",
-   "n_members": 73,
+   "n_members": 74,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -291,12 +291,12 @@
    },
    "blindspot_score": -0.143,
    "blindspot_for": null,
-   "divergence": 0.4,
+   "divergence": 0.398,
    "category": "sciences-tech",
    "terms_left": [
+    "patrons",
     "ralentir ia",
-    "musk altman",
-    "patrons"
+    "musk altman"
    ],
    "terms_right": [
     "appelé ralentir",
@@ -566,7 +566,7 @@
    "terms_left": [
     "israéliens",
     "gaza",
-    "rachel szor"
+    "szor"
    ],
    "terms_right": [
     "woman",
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.388,
+   "divergence": 0.389,
    "category": "international",
    "terms_left": [
     "direct",
@@ -626,7 +626,7 @@
    "terms_left": [
     "minute",
     "zacarias",
-    "moussaoui"
+    "zacarias moussaoui"
    ],
    "terms_right": [
     "ans",
@@ -637,7 +637,7 @@
   {
    "title": "Un SDF jeté à terre par un policier à Carcassonne : enquête de l’IGPN ouverte pour « violences volontaires »",
    "url": "https://www.ouest-france.fr/faits-divers/emeutes-urbaines/tirs-de-mortiers-incendies-scenes-demeutes-et-degats-importants-a-laval-dans-le-quartier-saint-nicolas-7b3c5d5c-ae83-11f1-b773-22a20d9d91fa",
-   "n_members": 52,
+   "n_members": 53,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -691,13 +691,43 @@
    "terms_right": [
     "iran",
     "guerre",
-    "charlie kirk"
+    "kirk"
+   ]
+  },
+  {
+   "title": "« Tarif agent » : pourquoi les électriciens et gaziers manifesteront ce mardi",
+   "url": "https://www.sudradio.fr/emission/le-tour-de-table-du-petit-matin-218",
+   "n_members": 60,
+   "n_sources": 23,
+   "counts": {
+    "left": 2,
+    "centre": 10,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 5,
+    "opinion": 4
+   },
+   "blindspot_score": 0.692,
+   "blindspot_for": "gauche",
+   "divergence": 0.852,
+   "category": "économie",
+   "terms_left": [
+    "mobilisation",
+    "climatique",
+    "face"
+   ],
+   "terms_right": [
+    "grand",
+    "euros",
+    "gouvernement"
    ]
   },
   {
    "title": "«Ça finira par arriver» : Donald Trump surprend sur l'unification de l'Irlande",
    "url": "https://www.bfmtv.com/culture/cinema-series/south-park-change-de-nom-pour-devenir-south-america-et-se-moque-de-donald-trump_AN-202609080913.html",
-   "n_members": 58,
+   "n_members": 59,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -711,7 +741,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.681,
+   "divergence": 0.679,
    "category": "international",
    "terms_left": [
     "south",
@@ -721,7 +751,7 @@
    "terms_right": [
     "irlande",
     "golf",
-    "président"
+    "visite"
    ]
   },
   {
@@ -774,8 +804,8 @@
    "divergence": 0.801,
    "category": "international",
    "terms_left": [
-    "arabie saoudite",
     "arabie",
+    "arabie saoudite",
     "saoudite"
    ],
    "terms_right": [
@@ -812,6 +842,36 @@
     "démission",
     "gouvernance",
     "intérim"
+   ]
+  },
+  {
+   "title": "Guerre en Ukraine : Kiev prendra des « mesures de désescalade » si la Russie fait de même, affirme Volodymyr Zelensky",
+   "url": "https://www.tf1info.fr/international/aujourd-hui-dans-24h-pujadas-frappes-russes-nous-entrons-dans-un-nouveau-monde-2463066.html",
+   "n_members": 56,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 1
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.495,
+   "category": "international",
+   "terms_left": [
+    "président",
+    "ukrainien",
+    "président ukrainien"
+   ],
+   "terms_right": [
+    "volodymyr zelensky",
+    "volodymyr",
+    "route"
    ]
   },
   {
@@ -919,36 +979,6 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine : Kiev prendra des « mesures de désescalade » si la Russie fait de même, affirme Volodymyr Zelensky",
-   "url": "https://www.tf1info.fr/international/aujourd-hui-dans-24h-pujadas-frappes-russes-nous-entrons-dans-un-nouveau-monde-2463066.html",
-   "n_members": 54,
-   "n_sources": 21,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.486,
-   "category": "international",
-   "terms_left": [
-    "président",
-    "corruption",
-    "rencontrer"
-   ],
-   "terms_right": [
-    "volodymyr",
-    "volodymyr zelensky",
-    "zelensky"
-   ]
-  },
-  {
    "title": "France Inter : Radio France en grève pour protester contre l’arrivée de Charles Sapin",
    "url": "https://www.leparisien.fr/paris-75/nous-sommes-en-train-de-couler-au-bhv-les-salaries-alertent-le-parquet-de-paris-et-redoutent-la-fermeture-09-09-2026-VVWLMUDUBZEZDARRMUABPXG5BA.php",
    "n_members": 46,
@@ -995,12 +1025,12 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.342,
+   "divergence": 0.344,
    "category": "sport",
    "terms_left": [
     "français",
-    "terme",
-    "huitièmes"
+    "mondial",
+    "terme"
    ],
    "terms_right": [
     "titre",
@@ -1041,7 +1071,7 @@
   {
    "title": "Économie. Donations familiales : le gouvernement veut faire « circuler l'argent » plus tôt",
    "url": "https://www.franceinfo.fr/economie/info-franceinfo-les-notaires-proposent-de-diviser-par-deux-les-taxes-dues-a-l-etat-sur-les-donations-familiales_8185412.html",
-   "n_members": 46,
+   "n_members": 49,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -1055,7 +1085,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.736,
+   "divergence": 0.752,
    "category": "économie",
    "terms_left": [
     "budget gouvernement",
@@ -1064,8 +1094,8 @@
    ],
    "terms_right": [
     "qu",
-    "marine",
-    "présidentielle"
+    "présidentielle",
+    "marine"
    ]
   },
   {
@@ -1147,28 +1177,6 @@
    "blindspot_for": null,
    "divergence": 0.511,
    "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Prix des carburants: \"On est dans une situation intenable, il faut baisser d'urgence les taxes\", estime Philippe Brun, député PS de l'Eure",
-   "url": "https://www.tf1info.fr/conso/on-va-faire-des-arbitrages-sur-la-nourriture-comment-la-hausse-des-prix-des-carburants-change-le-quotidien-des-menages-2462702.html",
-   "n_members": 55,
-   "n_sources": 18,
-   "counts": {
-    "left": 2,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 5,
-    "opinion": 1
-   },
-   "blindspot_score": 0.556,
-   "blindspot_for": null,
-   "divergence": 0.683,
-   "category": "économie",
    "terms_left": [],
    "terms_right": []
   }
