@@ -1,13 +1,13 @@
 {
  "week": "2026-W38",
- "generated_at": "2026-09-15T15:56:50+00:00",
+ "generated_at": "2026-09-15T19:23:40+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "Classement PISA : comment penser l'école de demain ?",
+   "title": "Pisa 2025 et classements scolaires : nous posons‑nous les bonnes questions ?",
    "url": "https://www.sudradio.fr/societe/education-cinq-choses-a-savoir-sur-lenquete-pisa",
-   "n_members": 143,
+   "n_members": 144,
    "n_sources": 38,
    "counts": {
     "left": 8,
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.333,
+   "divergence": 0.331,
    "category": "société",
    "terms_left": [
-    "test",
-    "test pisa",
-    "français test"
+    "pays",
+    "français test",
+    "test pisa"
    ],
    "terms_right": [
     "classement pisa",
@@ -37,7 +37,7 @@
   {
    "title": "Budget 2027 : Roland Lescure évoque un « effort » de 30 milliards d’économies",
    "url": "https://www.publicsenat.fr/actualites/politique/serie-1-4-macron-et-le-senat-10-ans-de-relations-un-debut-constructif-avant-la-montee-des-tensions",
-   "n_members": 211,
+   "n_members": 215,
    "n_sources": 34,
    "counts": {
     "left": 6,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.433,
+   "divergence": 0.42,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -59,15 +59,15 @@
     "roussel"
    ],
    "terms_right": [
+    "dépenses",
     "ministres",
-    "bruno maire",
-    "bruno"
+    "bruno maire"
    ]
   },
   {
-   "title": "« Je crois sincèrement que l’IA a le potentiel de nous tuer tous et qu’il est peut-être trop tard pour l’éviter » : démissionnaire, cet ex-employé de Google alerte sur l’intelligence artificielle",
+   "title": "Un ex-ingénieur de Google affirme que « l’IA a le potentiel de nous tuer tous »",
    "url": "https://www.bfmtv.com/tech/intelligence-artificielle/l-ia-est-la-promesse-pour-l-humanite-de-depasser-une-nouvelle-frontiere-de-la-connaissance-jean-luc-melenchon-plaide-pour-une-ia-regulee-par-l-onu-et-controlee-democratiquement_AN-202609040758.html",
-   "n_members": 95,
+   "n_members": 99,
    "n_sources": 34,
    "counts": {
     "left": 9,
@@ -81,17 +81,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.539,
+   "divergence": 0.524,
    "category": "sciences-tech",
    "terms_left": [
+    "qu",
     "croient",
-    "qu tuer",
-    "ia croient"
+    "qu tuer"
    ],
    "terms_right": [
-    "chercheur",
-    "risque",
-    "alerte"
+    "alerte",
+    "risque existentiel",
+    "existentiel"
    ]
   },
   {
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.548,
+   "divergence": 0.549,
    "category": "société",
    "terms_left": [
     "handicap",
@@ -157,7 +157,7 @@
   {
    "title": "Budget 2027 : de nombreux retraités redoutent d’être mis à contribution",
    "url": "https://www.mediapart.fr/journal/france/070926/en-depit-de-ses-revenus-le-depute-lfi-sebastien-delogu-ne-verse-pas-de-pension-alimentaire",
-   "n_members": 102,
+   "n_members": 104,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.614,
+   "divergence": 0.615,
    "category": "économie",
    "terms_left": [
     "verse",
@@ -181,7 +181,37 @@
    "terms_right": [
     "retraités",
     "qu",
-    "milliards"
+    "euros"
+   ]
+  },
+  {
+   "title": "Catherine Ringer, moitié des Rita Mitsouko, est morte",
+   "url": "https://www.liberation.fr/musique/2018/02/21/catherine-ringer-c-est-comme-ca_1631366/",
+   "n_members": 66,
+   "n_sources": 30,
+   "counts": {
+    "left": 10,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 12,
+    "opinion": 3
+   },
+   "blindspot_score": -0.176,
+   "blindspot_for": null,
+   "divergence": 0.136,
+   "category": "culture",
+   "terms_left": [
+    "morte",
+    "ringer chanteuse",
+    "mort catherine"
+   ],
+   "terms_right": [
+    "célèbre",
+    "décédée",
+    "emportée cancer"
    ]
   },
   {
@@ -231,7 +261,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.213,
+   "divergence": 0.193,
    "category": "culture",
    "terms_left": [
     "nanterre",
@@ -240,7 +270,7 @@
    ],
    "terms_right": [
     "fans",
-    "scène paris",
+    "star",
     "concert"
    ]
   },
@@ -275,9 +305,9 @@
    ]
   },
   {
-   "title": "Intelligence artificielle : les patrons d'Anthropic, d'OpenAI et Elon Musk souhaitent un ralentissement de son développement",
+   "title": "Les appels à ralentir le développement de l'IA secouent les marchés et relancent le débat sur la régulation",
    "url": "https://www.courrierinternational.com/article/mathematiques-l-ia-formalise-le-dernier-theoreme-de-fermat-en-seulement-onze-jours_268898",
-   "n_members": 78,
+   "n_members": 83,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -291,47 +321,17 @@
    },
    "blindspot_score": -0.143,
    "blindspot_for": null,
-   "divergence": 0.401,
+   "divergence": 0.407,
    "category": "sciences-tech",
    "terms_left": [
-    "tech",
+    "altman",
     "ralentir ia",
     "musk altman"
    ],
    "terms_right": [
-    "appelé ralentir",
-    "ralentir développement",
-    "openai"
-   ]
-  },
-  {
-   "title": "Catherine Ringer, moitié des Rita Mitsouko, est morte",
-   "url": "https://www.liberation.fr/musique/2018/02/21/catherine-ringer-c-est-comme-ca_1631366/",
-   "n_members": 56,
-   "n_sources": 28,
-   "counts": {
-    "left": 9,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 11,
-    "opinion": 3
-   },
-   "blindspot_score": -0.125,
-   "blindspot_for": null,
-   "divergence": 0.14,
-   "category": "culture",
-   "terms_left": [
-    "ringer chanteuse",
-    "morte",
-    "mitsouko morte"
-   ],
-   "terms_right": [
-    "célèbre",
-    "emportée",
-    "emportée cancer"
+    "ia",
+    "openai",
+    "développement ia"
    ]
   },
   {
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.576,
+   "divergence": 0.575,
    "category": "société",
    "terms_left": [
     "france",
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.361,
+   "divergence": 0.356,
    "category": "faits-divers",
    "terms_left": [
     "ter normandie",
@@ -392,6 +392,36 @@
     "train",
     "déraillement train",
     "seine-maritime"
+   ]
+  },
+  {
+   "title": "Guerre en Ukraine : un drone russe frappe un train de voyageurs à proximité de la frontière polonaise",
+   "url": "https://www.nicematin.com/faits-divers/explosion-a-monaco/explosion-a-monaco-visant-vadim-ermolaev-la-detention-provisoire-des-deux-assassins-presumes-de-la-poseuse-de-bombe-prolongee-en-ukraine-10719624",
+   "n_members": 109,
+   "n_sources": 27,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.355,
+   "category": "international",
+   "terms_left": [
+    "otan",
+    "rail",
+    "escalade"
+   ],
+   "terms_right": [
+    "frappé",
+    "boris johnson",
+    "johnson"
    ]
   },
   {
@@ -457,7 +487,7 @@
   {
    "title": "Mer Rouge : le détroit s'embrase-t-il ? Les Houthis frappent l’Arabie saoudite et gagnent du terrain",
    "url": "https://www.courrierinternational.com/article/epidemie-en-rdc-une-rentree-scolaire-differenciee-sous-le-signe-d-ebola_265244",
-   "n_members": 135,
+   "n_members": 137,
    "n_sources": 26,
    "counts": {
     "left": 7,
@@ -471,12 +501,12 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.502,
+   "divergence": 0.493,
    "category": "international",
    "terms_left": [
     "houthistes",
     "iran",
-    "mer"
+    "trump"
    ],
    "terms_right": [
     "ormuz",
@@ -485,33 +515,33 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine : un drone russe frappe un train de voyageurs à proximité de la frontière polonaise",
-   "url": "https://www.nicematin.com/faits-divers/explosion-a-monaco/explosion-a-monaco-visant-vadim-ermolaev-la-detention-provisoire-des-deux-assassins-presumes-de-la-poseuse-de-bombe-prolongee-en-ukraine-10719624",
-   "n_members": 108,
+   "title": "« Tarif agent » : pourquoi les électriciens et gaziers manifesteront ce mardi",
+   "url": "https://www.sudradio.fr/emission/le-tour-de-table-du-petit-matin-218",
+   "n_members": 81,
    "n_sources": 26,
    "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 7
+    "left": 3,
+    "centre": 12,
+    "right": 11
    },
    "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 3
+    "factuel": 16,
+    "mixte": 6,
+    "opinion": 4
    },
-   "blindspot_score": 0.077,
+   "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.357,
-   "category": "international",
+   "divergence": 0.69,
+   "category": "économie",
    "terms_left": [
-    "rail",
-    "escalade",
-    "locomotive"
+    "climat",
+    "ministère",
+    "france"
    ],
    "terms_right": [
-    "frappé",
-    "boris johnson",
-    "johnson"
+    "préférentiel",
+    "tarif préférentiel",
+    "cour"
    ]
   },
   {
@@ -537,9 +567,9 @@
    "terms_right": []
   },
   {
-   "title": "Un homme jeté à terre à Carcassonne par la police: la gauche dénonce des images \"révoltantes\"",
+   "title": "Un SDF violemment jeté à terre par un policier à Carcassonne, une enquête ouverte après la diffusion de la vidéo",
    "url": "https://www.ouest-france.fr/faits-divers/emeutes-urbaines/tirs-de-mortiers-incendies-scenes-demeutes-et-degats-importants-a-laval-dans-le-quartier-saint-nicolas-7b3c5d5c-ae83-11f1-b773-22a20d9d91fa",
-   "n_members": 63,
+   "n_members": 64,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -553,7 +583,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.594,
+   "divergence": 0.595,
    "category": "faits-divers",
    "terms_left": [
     "jours",
@@ -567,9 +597,9 @@
    ]
   },
   {
-   "title": "DIRECT. Procès de l'assassinat de Federico Martin Aramburu: l'enquêtrice de personnalité de la famille de l'ex-rugbyman et sa mère attendues à la barre",
+   "title": "DIRECT. Procès de l'assassinat de Federico Martin Aramburu: son ami Shaun Hegarty retrace la soirée du drame",
    "url": "https://www.liberation.fr/societe/police-justice/ce-que-jai-prefere-ce-sont-les-quatre-dernieres-bastos-que-je-lui-ai-mises-dans-le-buffet-les-propos-glacants-de-loik-le-priol-en-detention-accuse-de-lassassinat-daramburu-20260902_TWQ7QWNVQBGTZE2E57MIQUNMXQ/",
-   "n_members": 114,
+   "n_members": 116,
    "n_sources": 25,
    "counts": {
     "left": 7,
@@ -583,7 +613,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.38,
+   "divergence": 0.35,
    "category": "société",
    "terms_left": [
     "aramburú",
@@ -592,38 +622,8 @@
    ],
    "terms_right": [
     "aramburu",
-    "paris",
-    "mère"
-   ]
-  },
-  {
-   "title": "« Tarif agent » : pourquoi les électriciens et gaziers manifesteront ce mardi",
-   "url": "https://www.sudradio.fr/emission/le-tour-de-table-du-petit-matin-218",
-   "n_members": 78,
-   "n_sources": 25,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 6,
-    "opinion": 4
-   },
-   "blindspot_score": 0.571,
-   "blindspot_for": null,
-   "divergence": 0.718,
-   "category": "économie",
-   "terms_left": [
-    "climat",
-    "ministère",
-    "france"
-   ],
-   "terms_right": [
-    "salariés",
-    "préférentiel",
-    "tarif"
+    "mère",
+    "paris"
    ]
   },
   {
@@ -643,12 +643,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.824,
+   "divergence": 0.837,
    "category": "international",
    "terms_left": [
-    "pays",
     "chine",
-    "mort"
+    "mort",
+    "grande"
    ],
    "terms_right": [
     "monde",
@@ -657,9 +657,9 @@
    ]
   },
   {
-   "title": "Israël: «Naza», documentaire primé à Venise sur les civils tués par l'armée à Gaza, provoque une vive polémique",
+   "title": "Un ministre israélien veut déchoir de leur nationalité les réalisateurs du documentaire « NAZA » primé à Venise",
    "url": "https://www.liberation.fr/culture/cinema/naza-a-la-mostra-un-documentaire-fondamental-sur-le-systeme-de-tueries-de-masse-a-gaza-raconte-par-larmee-israelienne-20260910_Z2OMIBLGMFDNPHDABMAWSXOFUQ/",
-   "n_members": 49,
+   "n_members": 50,
    "n_sources": 25,
    "counts": {
     "left": 7,
@@ -673,23 +673,23 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.398,
+   "divergence": 0.4,
    "category": "culture",
    "terms_left": [
     "israéliens",
-    "gaza",
-    "szor"
+    "réalisateurs",
+    "gaza"
    ],
    "terms_right": [
-    "woman",
+    "el-toukhy",
     "may el-toukhy",
-    "el-toukhy"
+    "may"
    ]
   },
   {
    "title": "Guerre en Ukraine : Donald Trump affirme que Kiev et Moscou ont accepté de ne pas frapper d’infrastructures énergétiques",
    "url": "https://www.leparisien.fr/international/ukraine/un-nettoyage-culturel-plus-de-dix-millions-de-livres-ukrainiens-ont-brule-dans-des-attaques-russes-31-08-2026-PJAP7JBA2FBQXNF3XFVFHQN4VA.php",
-   "n_members": 155,
+   "n_members": 156,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -703,7 +703,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.388,
+   "divergence": 0.407,
    "category": "international",
    "terms_left": [
     "direct",
@@ -737,7 +737,7 @@
    "category": "international",
    "terms_left": [
     "minute",
-    "zacarias",
+    "moussaoui",
     "zacarias moussaoui"
    ],
    "terms_right": [
@@ -749,7 +749,7 @@
   {
    "title": "Dette publique : mise en cause par LFI, la Banque de France dément toute vente de dette sur les marchés",
    "url": "https://www.liberation.fr/politique/les-bons-et-les-mauvais-prix-nobel-selon-lfi-20260907_5ZOFIQM3SFCRNO2GPWEYHBMREQ/",
-   "n_members": 47,
+   "n_members": 48,
    "n_sources": 24,
    "counts": {
     "left": 3,
@@ -763,7 +763,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.649,
+   "divergence": 0.65,
    "category": "politique",
    "terms_left": [
     "publique",
@@ -771,9 +771,9 @@
     "monétaire"
    ],
    "terms_right": [
-    "mélenchon",
     "française",
-    "candidat"
+    "mélenchon",
+    "france"
    ]
   },
   {
@@ -793,7 +793,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.875,
+   "divergence": 0.889,
    "category": "international",
    "terms_left": [
     "face",
@@ -801,7 +801,7 @@
     "histoire"
    ],
    "terms_right": [
-    "iran",
+    "moyen-orient",
     "kirk",
     "charlie kirk"
    ]
@@ -823,7 +823,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.684,
+   "divergence": 0.685,
    "category": "international",
    "terms_left": [
     "south",
@@ -837,9 +837,39 @@
    ]
   },
   {
+   "title": "France Inter : Radio France en grève pour protester contre l’arrivée de Charles Sapin",
+   "url": "https://www.leparisien.fr/paris-75/nous-sommes-en-train-de-couler-au-bhv-les-salaries-alertent-le-parquet-de-paris-et-redoutent-la-fermeture-09-09-2026-VVWLMUDUBZEZDARRMUABPXG5BA.php",
+   "n_members": 59,
+   "n_sources": 23,
+   "counts": {
+    "left": 7,
+    "centre": 8,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.34,
+   "category": "culture",
+   "terms_left": [
+    "adjoint",
+    "directeur adjoint",
+    "directeur"
+   ],
+   "terms_right": [
+    "sapin france",
+    "personnalités",
+    "sapin"
+   ]
+  },
+  {
    "title": "En direct : les Houthis disent avoir attaqué une base militaire en Arabie saoudite",
    "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/au-liban-des-frappes-israeliennes-dans-le-sud-et-l-est-font-trois-morts-et-23-blesses_8177951.html",
-   "n_members": 79,
+   "n_members": 80,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -923,13 +953,13 @@
    "terms_right": [
     "route",
     "ukraine",
-    "frappes"
+    "volodymyr"
    ]
   },
   {
    "title": "Gironde : le père d'une élève placé en garde à vue pour avoir menacé de mort un surveillant et la principale d'un collège",
    "url": "https://www.ladepeche.fr/2026/09/09/un-pere-menace-de-decapitation-une-institutrice-au-fauga-choc-et-garde-a-vue-apres-lincident-scolaire-13543382.php",
-   "n_members": 58,
+   "n_members": 60,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -943,8 +973,8 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.507,
-   "category": "société",
+   "divergence": 0.518,
+   "category": "faits-divers",
    "terms_left": [
     "parents",
     "parent",
@@ -952,38 +982,38 @@
    ],
    "terms_right": [
     "enseignante",
-    "surveillant",
-    "père"
+    "père",
+    "surveillant"
    ]
   },
   {
-   "title": "France Inter : Radio France en grève pour protester contre l’arrivée de Charles Sapin",
-   "url": "https://www.leparisien.fr/paris-75/nous-sommes-en-train-de-couler-au-bhv-les-salaries-alertent-le-parquet-de-paris-et-redoutent-la-fermeture-09-09-2026-VVWLMUDUBZEZDARRMUABPXG5BA.php",
-   "n_members": 56,
+   "title": "Budget : le gouvernement ne proposera pas de «gel» du barème de l’impôt sur le revenu",
+   "url": "https://www.franceinfo.fr/economie/info-franceinfo-les-notaires-proposent-de-diviser-par-deux-les-taxes-dues-a-l-etat-sur-les-donations-familiales_8185412.html",
+   "n_members": 58,
    "n_sources": 22,
    "counts": {
-    "left": 7,
-    "centre": 7,
-    "right": 8
+    "left": 3,
+    "centre": 9,
+    "right": 10
    },
    "style_counts": {
-    "factuel": 9,
-    "mixte": 9,
-    "opinion": 4
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 3
    },
-   "blindspot_score": 0.067,
+   "blindspot_score": 0.538,
    "blindspot_for": null,
-   "divergence": 0.349,
-   "category": "culture",
+   "divergence": 0.743,
+   "category": "économie",
    "terms_left": [
-    "adjoint",
-    "directeur adjoint",
-    "directeur"
+    "budget gouvernement",
+    "fiscalité",
+    "exécutif"
    ],
    "terms_right": [
-    "sapin france",
-    "fronde",
-    "sapin"
+    "qu",
+    "marine",
+    "présidentielle"
    ]
   },
   {
@@ -1003,23 +1033,23 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.464,
+   "divergence": 0.461,
    "category": "sport",
    "terms_left": [
-    "mondial",
-    "françaises",
-    "partenaires"
+    "argent",
+    "basket bleues",
+    "françaises"
    ],
    "terms_right": [
     "france",
     "équipe",
-    "féminine"
+    "équipe france"
    ]
   },
   {
-   "title": "Prendre la voiture «uniquement pour les trajets longs» : face à l'explosion des prix du carburant, de plus en plus de Français laissent leur voiture au garage",
+   "title": "Prix record des carburants : quels sont les risques si l'on roule à l’huile alimentaire ?",
    "url": "https://www.sudouest.fr/economie/auto-moto/automobile-le-marche-du-neuf-reste-morose-malgre-la-progression-de-l-electrique-30439268.php",
-   "n_members": 65,
+   "n_members": 66,
    "n_sources": 21,
    "counts": {
     "left": 2,
@@ -1069,39 +1099,69 @@
    ]
   },
   {
-   "title": "Économie. Donations familiales : le gouvernement veut faire « circuler l'argent » plus tôt",
-   "url": "https://www.franceinfo.fr/economie/info-franceinfo-les-notaires-proposent-de-diviser-par-deux-les-taxes-dues-a-l-etat-sur-les-donations-familiales_8185412.html",
-   "n_members": 54,
+   "title": "La Finlande rejoint cette initiative française : qu'est-ce que la dissuasion nucléaire \"avancée\" ?",
+   "url": "https://fr.euronews.com/my-europe/2026/09/11/la-france-rejoint-la-slovaquie-pour-demander-la-radiation-dalicher-ousmanov-des-sanctions-",
+   "n_members": 46,
    "n_sources": 21,
    "counts": {
     "left": 3,
-    "centre": 8,
-    "right": 10
+    "centre": 9,
+    "right": 9
    },
    "style_counts": {
     "factuel": 12,
-    "mixte": 6,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.519,
+   "category": "international",
+   "terms_left": [
+    "nucléaire française",
+    "mois",
+    "rejoindre"
+   ],
+   "terms_right": [
+    "face",
+    "arctique",
+    "français"
+   ]
+  },
+  {
+   "title": "Violences sexuelles dans le périscolaire à Paris : Anne Hidalgo et son ex-adjoint rattrapés par dix ans d’alertes",
+   "url": "https://www.tf1info.fr/education/etre-pret-a-observer-et-a-signaler-un-comportement-c-est-important-une-ecole-du-periscolaire-inauguree-a-paris-pour-former-les-animateurs-2463929.html",
+   "n_members": 46,
+   "n_sources": 21,
+   "counts": {
+    "left": 5,
+    "centre": 8,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 9,
     "opinion": 3
    },
-   "blindspot_score": 0.538,
+   "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.752,
-   "category": "économie",
+   "divergence": 0.27,
+   "category": "société",
    "terms_left": [
-    "budget gouvernement",
-    "monde",
-    "projet"
+    "prison ferme",
+    "enquête violences",
+    "périscolaire france"
    ],
    "terms_right": [
     "qu",
-    "présidentielle",
-    "marine"
+    "enfants",
+    "sexuelles enfants"
    ]
   },
   {
    "title": "Nouveau service militaire : Emmanuel Macron nomme la première promotion Henri Fertet, en hommage au résistant fusillé à 16 ans",
    "url": "https://www.europe1.fr/international/securite-terrorisme-petrole-emmanuel-macron-recoit-lundi-le-premier-ministre-irakien-pour-renforcer-la-cooperation-entre-les-deux-pays-1071650",
-   "n_members": 43,
+   "n_members": 44,
    "n_sources": 21,
    "counts": {
     "left": 2,
@@ -1115,77 +1175,17 @@
    },
    "blindspot_score": 0.6,
    "blindspot_for": "gauche",
-   "divergence": 0.519,
+   "divergence": 0.498,
    "category": "politique",
    "terms_left": [
     "fusillé ans",
     "militaire emmanuel",
-    "ans"
+    "résistant fusillé"
    ],
    "terms_right": [
     "français",
-    "national",
-    "visite"
-   ]
-  },
-  {
-   "title": "EN DIRECT - Guerre en Ukraine : l'Otan abat un drone dans le ciel de la Lituanie",
-   "url": "https://www.cnews.fr/monde/2026-09-14/guerre-en-ukraine-en-mer-noire-un-drone-naval-ukrainien-detruit-une-embarcation",
-   "n_members": 30,
-   "n_sources": 21,
-   "counts": {
-    "left": 2,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": 0.593,
-   "category": "international",
-   "terms_left": [
-    "pays",
-    "drone abattu",
-    "au-dessus"
-   ],
-   "terms_right": [
-    "guerre",
-    "drone",
-    "ukraine"
-   ]
-  },
-  {
-   "title": "US Open 2026 : Alexander Zverev remporte le tournoi, son deuxième titre en Grand Chelem",
-   "url": "https://www.sudradio.fr/sport-rugby/sport/us-open-medvedev-sort-rinderknech-et-va-en-huitieme-2",
-   "n_members": 89,
-   "n_sources": 20,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.329,
-   "category": "sport",
-   "terms_left": [
-    "français",
-    "mondial",
-    "terme"
-   ],
-   "terms_right": [
-    "titre",
-    "zverev",
-    "qu"
+    "visite",
+    "lecornu"
    ]
   }
  ]
