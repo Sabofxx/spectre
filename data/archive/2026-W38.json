@@ -1,6 +1,6 @@
 {
  "week": "2026-W38",
- "generated_at": "2026-09-15T11:57:40+00:00",
+ "generated_at": "2026-09-15T15:56:50+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Budget 2027 : Roland Lescure évoque un « effort » de 30 milliards d’économies",
    "url": "https://www.publicsenat.fr/actualites/politique/serie-1-4-macron-et-le-senat-10-ans-de-relations-un-debut-constructif-avant-la-montee-des-tensions",
-   "n_members": 208,
+   "n_members": 211,
    "n_sources": 34,
    "counts": {
     "left": 6,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.444,
+   "divergence": 0.433,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -65,53 +65,53 @@
    ]
   },
   {
-   "title": "« Plus de 10 % de chances » : et si l’IA provoquait la fin de l’humanité",
+   "title": "« Je crois sincèrement que l’IA a le potentiel de nous tuer tous et qu’il est peut-être trop tard pour l’éviter » : démissionnaire, cet ex-employé de Google alerte sur l’intelligence artificielle",
    "url": "https://www.bfmtv.com/tech/intelligence-artificielle/l-ia-est-la-promesse-pour-l-humanite-de-depasser-une-nouvelle-frontiere-de-la-connaissance-jean-luc-melenchon-plaide-pour-une-ia-regulee-par-l-onu-et-controlee-democratiquement_AN-202609040758.html",
-   "n_members": 91,
-   "n_sources": 33,
+   "n_members": 95,
+   "n_sources": 34,
    "counts": {
     "left": 9,
-    "centre": 15,
+    "centre": 16,
     "right": 9
    },
    "style_counts": {
-    "factuel": 15,
+    "factuel": 16,
     "mixte": 12,
     "opinion": 6
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.529,
+   "divergence": 0.539,
    "category": "sciences-tech",
    "terms_left": [
-    "qu",
-    "ia croient",
-    "qu tuer"
+    "croient",
+    "qu tuer",
+    "ia croient"
    ],
    "terms_right": [
-    "humanité",
     "chercheur",
-    "risque existentiel"
+    "risque",
+    "alerte"
    ]
   },
   {
    "title": "EN DIRECT, présidentielle 2027 : Marine Le Pen fait sa rentrée à Hénin-Beaumont et annonce un grand plan logement",
    "url": "https://www.lefigaro.fr/politique/primaire-de-la-droite-et-du-centre-la-charte-de-valeurs-redigee-par-herve-morin-a-l-adresse-des-candidats-sur-le-point-d-etre-finalisee-20260907",
-   "n_members": 148,
-   "n_sources": 32,
+   "n_members": 152,
+   "n_sources": 33,
    "counts": {
     "left": 6,
     "centre": 13,
-    "right": 13
+    "right": 14
    },
    "style_counts": {
     "factuel": 16,
-    "mixte": 9,
+    "mixte": 10,
     "opinion": 7
    },
-   "blindspot_score": 0.368,
+   "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.434,
+   "divergence": 0.383,
    "category": "politique",
    "terms_left": [
     "monde",
@@ -120,7 +120,7 @@
    ],
    "terms_right": [
     "priorité",
-    "logement",
+    "français",
     "priorité nationale"
    ]
   },
@@ -157,7 +157,7 @@
   {
    "title": "Budget 2027 : de nombreux retraités redoutent d’être mis à contribution",
    "url": "https://www.mediapart.fr/journal/france/070926/en-depit-de-ses-revenus-le-depute-lfi-sebastien-delogu-ne-verse-pas-de-pension-alimentaire",
-   "n_members": 101,
+   "n_members": 102,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.368,
    "blindspot_for": null,
-   "divergence": 0.61,
+   "divergence": 0.614,
    "category": "économie",
    "terms_left": [
     "verse",
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.366,
+   "divergence": 0.365,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -231,12 +231,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.214,
+   "divergence": 0.213,
    "category": "culture",
    "terms_left": [
     "nanterre",
-    "vie",
-    "série"
+    "série",
+    "concerts"
    ],
    "terms_right": [
     "fans",
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.662,
+   "divergence": 0.661,
    "category": "politique",
    "terms_left": [
     "bolloré",
@@ -277,7 +277,7 @@
   {
    "title": "Intelligence artificielle : les patrons d'Anthropic, d'OpenAI et Elon Musk souhaitent un ralentissement de son développement",
    "url": "https://www.courrierinternational.com/article/mathematiques-l-ia-formalise-le-dernier-theoreme-de-fermat-en-seulement-onze-jours_268898",
-   "n_members": 77,
+   "n_members": 78,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": -0.143,
    "blindspot_for": null,
-   "divergence": 0.399,
+   "divergence": 0.401,
    "category": "sciences-tech",
    "terms_left": [
     "tech",
@@ -299,15 +299,45 @@
     "musk altman"
    ],
    "terms_right": [
-    "développement",
     "appelé ralentir",
-    "ralentir développement"
+    "ralentir développement",
+    "openai"
+   ]
+  },
+  {
+   "title": "Catherine Ringer, moitié des Rita Mitsouko, est morte",
+   "url": "https://www.liberation.fr/musique/2018/02/21/catherine-ringer-c-est-comme-ca_1631366/",
+   "n_members": 56,
+   "n_sources": 28,
+   "counts": {
+    "left": 9,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 11,
+    "opinion": 3
+   },
+   "blindspot_score": -0.125,
+   "blindspot_for": null,
+   "divergence": 0.14,
+   "category": "culture",
+   "terms_left": [
+    "ringer chanteuse",
+    "morte",
+    "mitsouko morte"
+   ],
+   "terms_right": [
+    "célèbre",
+    "emportée",
+    "emportée cancer"
    ]
   },
   {
    "title": "« Nous irons au bout » : la France soumet un nouveau texte sur l’interdiction des réseaux sociaux pour les moins de 15 ans à Bruxelles",
    "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/des-ong-et-des-experts-demandent-a-l-ue-des-restrictions-proportionnees-des-reseaux-sociaux-pour-les-plus-jeunes-plutot-qu-une-interdiction_8183690.html",
-   "n_members": 51,
+   "n_members": 52,
    "n_sources": 28,
    "counts": {
     "left": 4,
@@ -335,9 +365,9 @@
    ]
   },
   {
-   "title": "Déraillement d'un TER en Normandie : bilan, enquête, piste d'un \"acte malveillant privilégiée\"... ce que l'on sait de l'accident survenu sur la ligne Rouen-Caen",
+   "title": "Seine-Maritime. Déraillement du TER Rouen-Caen : la piste malveillante évoquée, l'enquête se poursuit",
    "url": "https://www.tf1info.fr/international/nouveau-drame-routier-en-algerie-10-morts-dans-un-carambolage-a-l-est-d-alger-2462882.html",
-   "n_members": 139,
+   "n_members": 140,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -351,16 +381,16 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.356,
+   "divergence": 0.361,
    "category": "faits-divers",
    "terms_left": [
     "ter normandie",
-    "déclaré",
-    "privilégiée"
+    "privilégiée",
+    "grave"
    ],
    "terms_right": [
-    "déraillement train",
     "train",
+    "déraillement train",
     "seine-maritime"
    ]
   },
@@ -381,7 +411,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.51,
+   "divergence": 0.523,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -411,7 +441,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.413,
+   "divergence": 0.415,
    "category": "international",
    "terms_left": [
     "andersson",
@@ -421,7 +451,37 @@
    "terms_right": [
     "suédois",
     "gouvernement",
-    "suède"
+    "scrutin"
+   ]
+  },
+  {
+   "title": "Mer Rouge : le détroit s'embrase-t-il ? Les Houthis frappent l’Arabie saoudite et gagnent du terrain",
+   "url": "https://www.courrierinternational.com/article/epidemie-en-rdc-une-rentree-scolaire-differenciee-sous-le-signe-d-ebola_265244",
+   "n_members": 135,
+   "n_sources": 26,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": -0.077,
+   "blindspot_for": null,
+   "divergence": 0.502,
+   "category": "international",
+   "terms_left": [
+    "houthistes",
+    "iran",
+    "mer"
+   ],
+   "terms_right": [
+    "ormuz",
+    "houthis yémen",
+    "désormais"
    ]
   },
   {
@@ -493,7 +553,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.596,
+   "divergence": 0.594,
    "category": "faits-divers",
    "terms_left": [
     "jours",
@@ -503,43 +563,13 @@
    "terms_right": [
     "police",
     "procès",
-    "nuit"
-   ]
-  },
-  {
-   "title": "Mer Rouge : le détroit s'embrase-t-il ? Les Houthis frappent l’Arabie saoudite et gagnent du terrain",
-   "url": "https://www.courrierinternational.com/article/epidemie-en-rdc-une-rentree-scolaire-differenciee-sous-le-signe-d-ebola_265244",
-   "n_members": 133,
-   "n_sources": 25,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.507,
-   "category": "international",
-   "terms_left": [
-    "houthistes",
-    "iran",
-    "forces gouvernementales"
-   ],
-   "terms_right": [
-    "ormuz",
-    "houthis yémen",
-    "mondial"
+    "devant"
    ]
   },
   {
    "title": "DIRECT. Procès de l'assassinat de Federico Martin Aramburu: l'enquêtrice de personnalité de la famille de l'ex-rugbyman et sa mère attendues à la barre",
    "url": "https://www.liberation.fr/societe/police-justice/ce-que-jai-prefere-ce-sont-les-quatre-dernieres-bastos-que-je-lui-ai-mises-dans-le-buffet-les-propos-glacants-de-loik-le-priol-en-detention-accuse-de-lassassinat-daramburu-20260902_TWQ7QWNVQBGTZE2E57MIQUNMXQ/",
-   "n_members": 107,
+   "n_members": 114,
    "n_sources": 25,
    "counts": {
     "left": 7,
@@ -553,7 +583,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.404,
+   "divergence": 0.38,
    "category": "société",
    "terms_left": [
     "aramburú",
@@ -569,7 +599,7 @@
   {
    "title": "« Tarif agent » : pourquoi les électriciens et gaziers manifesteront ce mardi",
    "url": "https://www.sudradio.fr/emission/le-tour-de-table-du-petit-matin-218",
-   "n_members": 74,
+   "n_members": 78,
    "n_sources": 25,
    "counts": {
     "left": 3,
@@ -583,17 +613,17 @@
    },
    "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.793,
+   "divergence": 0.718,
    "category": "économie",
    "terms_left": [
     "climat",
-    "france",
-    "ministère"
+    "ministère",
+    "france"
    ],
    "terms_right": [
-    "tarif",
-    "cour",
-    "euros"
+    "salariés",
+    "préférentiel",
+    "tarif"
    ]
   },
   {
@@ -629,7 +659,7 @@
   {
    "title": "Israël: «Naza», documentaire primé à Venise sur les civils tués par l'armée à Gaza, provoque une vive polémique",
    "url": "https://www.liberation.fr/culture/cinema/naza-a-la-mostra-un-documentaire-fondamental-sur-le-systeme-de-tueries-de-masse-a-gaza-raconte-par-larmee-israelienne-20260910_Z2OMIBLGMFDNPHDABMAWSXOFUQ/",
-   "n_members": 48,
+   "n_members": 49,
    "n_sources": 25,
    "counts": {
     "left": 7,
@@ -643,12 +673,12 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.397,
+   "divergence": 0.398,
    "category": "culture",
    "terms_left": [
     "israéliens",
     "gaza",
-    "rachel szor"
+    "szor"
    ],
    "terms_right": [
     "woman",
@@ -659,7 +689,7 @@
   {
    "title": "Guerre en Ukraine : Donald Trump affirme que Kiev et Moscou ont accepté de ne pas frapper d’infrastructures énergétiques",
    "url": "https://www.leparisien.fr/international/ukraine/un-nettoyage-culturel-plus-de-dix-millions-de-livres-ukrainiens-ont-brule-dans-des-attaques-russes-31-08-2026-PJAP7JBA2FBQXNF3XFVFHQN4VA.php",
-   "n_members": 154,
+   "n_members": 155,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -673,7 +703,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.39,
+   "divergence": 0.388,
    "category": "international",
    "terms_left": [
     "direct",
@@ -717,9 +747,9 @@
    ]
   },
   {
-   "title": "Dette publique : accusée par LFI, la Banque de France réfute toute vente sur les marchés",
+   "title": "Dette publique : mise en cause par LFI, la Banque de France dément toute vente de dette sur les marchés",
    "url": "https://www.liberation.fr/politique/les-bons-et-les-mauvais-prix-nobel-selon-lfi-20260907_5ZOFIQM3SFCRNO2GPWEYHBMREQ/",
-   "n_members": 44,
+   "n_members": 47,
    "n_sources": 24,
    "counts": {
     "left": 3,
@@ -733,7 +763,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.695,
+   "divergence": 0.649,
    "category": "politique",
    "terms_left": [
     "publique",
@@ -741,9 +771,9 @@
     "monétaire"
    ],
    "terms_right": [
-    "présidentielle",
     "mélenchon",
-    "jean-luc mélenchon"
+    "française",
+    "candidat"
    ]
   },
   {
@@ -763,7 +793,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.874,
+   "divergence": 0.875,
    "category": "international",
    "terms_left": [
     "face",
@@ -772,8 +802,8 @@
    ],
    "terms_right": [
     "iran",
-    "moyen-orient",
-    "kirk"
+    "kirk",
+    "charlie kirk"
    ]
   },
   {
@@ -793,7 +823,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.679,
+   "divergence": 0.684,
    "category": "international",
    "terms_left": [
     "south",
@@ -802,44 +832,14 @@
    ],
    "terms_right": [
     "irlande",
-    "golf",
+    "pays",
     "europe"
    ]
   },
   {
-   "title": "Catherine Ringer, célèbre voix des Rita Mitsouko, est morte à l’âge de 68 ans",
-   "url": "https://www.liberation.fr/musique/2018/02/21/catherine-ringer-c-est-comme-ca_1631366/",
-   "n_members": 33,
-   "n_sources": 23,
-   "counts": {
-    "left": 7,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.148,
-   "category": "culture",
-   "terms_left": [
-    "mort",
-    "morte",
-    "ringer chanteuse"
-   ],
-   "terms_right": [
-    "décédée",
-    "célèbre",
-    "mitsouko décédée"
-   ]
-  },
-  {
-   "title": "Yémen: les Houthis disent avoir attaqué une base militaire en Arabie saoudite",
+   "title": "En direct : les Houthis disent avoir attaqué une base militaire en Arabie saoudite",
    "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/au-liban-des-frappes-israeliennes-dans-le-sud-et-l-est-font-trois-morts-et-23-blesses_8177951.html",
-   "n_members": 78,
+   "n_members": 79,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -922,14 +922,14 @@
    ],
    "terms_right": [
     "route",
-    "frappes",
-    "ukraine"
+    "ukraine",
+    "frappes"
    ]
   },
   {
    "title": "Gironde : le père d'une élève placé en garde à vue pour avoir menacé de mort un surveillant et la principale d'un collège",
    "url": "https://www.ladepeche.fr/2026/09/09/un-pere-menace-de-decapitation-une-institutrice-au-fauga-choc-et-garde-a-vue-apres-lincident-scolaire-13543382.php",
-   "n_members": 57,
+   "n_members": 58,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -943,10 +943,48 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.417,
+   "divergence": 0.507,
    "category": "société",
-   "terms_left": [],
-   "terms_right": []
+   "terms_left": [
+    "parents",
+    "parent",
+    "parent élève"
+   ],
+   "terms_right": [
+    "enseignante",
+    "surveillant",
+    "père"
+   ]
+  },
+  {
+   "title": "France Inter : Radio France en grève pour protester contre l’arrivée de Charles Sapin",
+   "url": "https://www.leparisien.fr/paris-75/nous-sommes-en-train-de-couler-au-bhv-les-salaries-alertent-le-parquet-de-paris-et-redoutent-la-fermeture-09-09-2026-VVWLMUDUBZEZDARRMUABPXG5BA.php",
+   "n_members": 56,
+   "n_sources": 22,
+   "counts": {
+    "left": 7,
+    "centre": 7,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.349,
+   "category": "culture",
+   "terms_left": [
+    "adjoint",
+    "directeur adjoint",
+    "directeur"
+   ],
+   "terms_right": [
+    "sapin france",
+    "fronde",
+    "sapin"
+   ]
   },
   {
    "title": "EN DIRECT - États-Unis-France : deux ans après les JO de Paris, les Américaines accélèrent face aux Bleues en finale du Mondial",
@@ -969,8 +1007,8 @@
    "category": "sport",
    "terms_left": [
     "mondial",
-    "partenaires",
-    "françaises"
+    "françaises",
+    "partenaires"
    ],
    "terms_right": [
     "france",
@@ -1031,33 +1069,93 @@
    ]
   },
   {
-   "title": "France Inter : Radio France en grève pour protester contre l’arrivée de Charles Sapin",
-   "url": "https://www.leparisien.fr/paris-75/nous-sommes-en-train-de-couler-au-bhv-les-salaries-alertent-le-parquet-de-paris-et-redoutent-la-fermeture-09-09-2026-VVWLMUDUBZEZDARRMUABPXG5BA.php",
-   "n_members": 46,
+   "title": "Économie. Donations familiales : le gouvernement veut faire « circuler l'argent » plus tôt",
+   "url": "https://www.franceinfo.fr/economie/info-franceinfo-les-notaires-proposent-de-diviser-par-deux-les-taxes-dues-a-l-etat-sur-les-donations-familiales_8185412.html",
+   "n_members": 54,
    "n_sources": 21,
    "counts": {
-    "left": 7,
-    "centre": 6,
+    "left": 3,
+    "centre": 8,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.538,
+   "blindspot_for": null,
+   "divergence": 0.752,
+   "category": "économie",
+   "terms_left": [
+    "budget gouvernement",
+    "monde",
+    "projet"
+   ],
+   "terms_right": [
+    "qu",
+    "présidentielle",
+    "marine"
+   ]
+  },
+  {
+   "title": "Nouveau service militaire : Emmanuel Macron nomme la première promotion Henri Fertet, en hommage au résistant fusillé à 16 ans",
+   "url": "https://www.europe1.fr/international/securite-terrorisme-petrole-emmanuel-macron-recoit-lundi-le-premier-ministre-irakien-pour-renforcer-la-cooperation-entre-les-deux-pays-1071650",
+   "n_members": 43,
+   "n_sources": 21,
+   "counts": {
+    "left": 2,
+    "centre": 11,
     "right": 8
    },
    "style_counts": {
-    "factuel": 8,
-    "mixte": 9,
-    "opinion": 4
+    "factuel": 12,
+    "mixte": 6,
+    "opinion": 3
    },
-   "blindspot_score": 0.067,
-   "blindspot_for": null,
-   "divergence": 0.41,
-   "category": "culture",
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": 0.519,
+   "category": "politique",
    "terms_left": [
-    "adjoint",
-    "directeur adjoint",
-    "directeur"
+    "fusillé ans",
+    "militaire emmanuel",
+    "ans"
    ],
    "terms_right": [
-    "sapin france",
-    "sapin",
-    "public"
+    "français",
+    "national",
+    "visite"
+   ]
+  },
+  {
+   "title": "EN DIRECT - Guerre en Ukraine : l'Otan abat un drone dans le ciel de la Lituanie",
+   "url": "https://www.cnews.fr/monde/2026-09-14/guerre-en-ukraine-en-mer-noire-un-drone-naval-ukrainien-detruit-une-embarcation",
+   "n_members": 30,
+   "n_sources": 21,
+   "counts": {
+    "left": 2,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": 0.593,
+   "category": "international",
+   "terms_left": [
+    "pays",
+    "drone abattu",
+    "au-dessus"
+   ],
+   "terms_right": [
+    "guerre",
+    "drone",
+    "ukraine"
    ]
   },
   {
@@ -1088,96 +1186,6 @@
     "titre",
     "zverev",
     "qu"
-   ]
-  },
-  {
-   "title": "Crise de Ceuta : plus de 5 300 migrants sont retournés au Maroc en un mois, selon le gouvernement espagnol",
-   "url": "http://fr.euronews.com/my-europe/2026/09/06/espagne-le-gouvernement-requisitionne-une-partie-du-port-de-ceuta-pour-heberger-1-000-migr",
-   "n_members": 66,
-   "n_sources": 20,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.645,
-   "category": "international",
-   "terms_left": [
-    "crise",
-    "pedro",
-    "ville"
-   ],
-   "terms_right": [
-    "gouvernement",
-    "ministre",
-    "migrants"
-   ]
-  },
-  {
-   "title": "INFOGRAPHIE. Dette : le taux d’intérêt demandé à la France s’envole à un niveau inédit depuis 18 ans",
-   "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/il-est-etonnament-au-plus-haut-depuis-2022-le-moral-des-investisseurs-de-la-zone-euro-n-avait-pas-ete-aussi-bon-depuis-quatre-ans_AV-202609070414.html",
-   "n_members": 61,
-   "n_sources": 20,
-   "counts": {
-    "left": 5,
-    "centre": 7,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.734,
-   "category": "économie",
-   "terms_left": [
-    "france",
-    "direct",
-    "qu"
-   ],
-   "terms_right": [
-    "bce",
-    "taux",
-    "inflation"
-   ]
-  },
-  {
-   "title": "Économie. Donations familiales : le gouvernement veut faire « circuler l'argent » plus tôt",
-   "url": "https://www.franceinfo.fr/economie/info-franceinfo-les-notaires-proposent-de-diviser-par-deux-les-taxes-dues-a-l-etat-sur-les-donations-familiales_8185412.html",
-   "n_members": 51,
-   "n_sources": 20,
-   "counts": {
-    "left": 3,
-    "centre": 8,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.746,
-   "category": "économie",
-   "terms_left": [
-    "budget gouvernement",
-    "héritage",
-    "exécutif"
-   ],
-   "terms_right": [
-    "qu",
-    "présidentielle",
-    "marine"
    ]
   }
  ]
