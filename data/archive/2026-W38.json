@@ -1,6 +1,6 @@
 {
  "week": "2026-W38",
- "generated_at": "2026-09-15T22:25:57+00:00",
+ "generated_at": "2026-09-16T00:37:46+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.524,
+   "divergence": 0.525,
    "category": "sciences-tech",
    "terms_left": [
     "qu",
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.384,
+   "divergence": 0.387,
    "category": "politique",
    "terms_left": [
     "monde",
@@ -122,6 +122,36 @@
     "priorité",
     "français",
     "priorité nationale"
+   ]
+  },
+  {
+   "title": "Catherine Ringer, moitié des Rita Mitsouko, est morte",
+   "url": "https://www.liberation.fr/musique/2018/02/21/catherine-ringer-c-est-comme-ca_1631366/",
+   "n_members": 69,
+   "n_sources": 32,
+   "counts": {
+    "left": 10,
+    "centre": 15,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 12,
+    "opinion": 3
+   },
+   "blindspot_score": -0.176,
+   "blindspot_for": null,
+   "divergence": 0.137,
+   "category": "culture",
+   "terms_left": [
+    "morte",
+    "ringer chanteuse",
+    "mort catherine"
+   ],
+   "terms_right": [
+    "décédée",
+    "célèbre",
+    "emportée cancer"
    ]
   },
   {
@@ -152,36 +182,6 @@
     "ans",
     "européen",
     "réseaux sociaux"
-   ]
-  },
-  {
-   "title": "Catherine Ringer, moitié des Rita Mitsouko, est morte",
-   "url": "https://www.liberation.fr/musique/2018/02/21/catherine-ringer-c-est-comme-ca_1631366/",
-   "n_members": 68,
-   "n_sources": 31,
-   "counts": {
-    "left": 10,
-    "centre": 14,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 12,
-    "opinion": 3
-   },
-   "blindspot_score": -0.176,
-   "blindspot_for": null,
-   "divergence": 0.137,
-   "category": "culture",
-   "terms_left": [
-    "morte",
-    "ringer chanteuse",
-    "mort catherine"
-   ],
-   "terms_right": [
-    "décédée",
-    "célèbre",
-    "emportée cancer"
    ]
   },
   {
@@ -305,6 +305,36 @@
    ]
   },
   {
+   "title": "Les appels à ralentir le développement de l'IA secouent les marchés et relancent le débat sur la régulation",
+   "url": "https://www.courrierinternational.com/article/mathematiques-l-ia-formalise-le-dernier-theoreme-de-fermat-en-seulement-onze-jours_268898",
+   "n_members": 87,
+   "n_sources": 29,
+   "counts": {
+    "left": 8,
+    "centre": 15,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 12,
+    "opinion": 2
+   },
+   "blindspot_score": -0.143,
+   "blindspot_for": null,
+   "divergence": 0.42,
+   "category": "sciences-tech",
+   "terms_left": [
+    "amodei",
+    "altman",
+    "ralentir ia"
+   ],
+   "terms_right": [
+    "ia",
+    "création",
+    "openai"
+   ]
+  },
+  {
    "title": "Le retour de Marion Maréchal au RN, un sujet qui déchaîne les crispations",
    "url": "https://www.lemonde.fr/societe/article/2026/08/31/vincent-bollore-depose-plainte-pour-association-de-malfaiteurs-contre-des-magistrats-apres-son-renvoi-devant-le-tribunal-pour-corruption_6762587_3224.html",
    "n_members": 86,
@@ -332,36 +362,6 @@
     "pen",
     "marine pen",
     "marine"
-   ]
-  },
-  {
-   "title": "Les appels à ralentir le développement de l'IA secouent les marchés et relancent le débat sur la régulation",
-   "url": "https://www.courrierinternational.com/article/mathematiques-l-ia-formalise-le-dernier-theoreme-de-fermat-en-seulement-onze-jours_268898",
-   "n_members": 86,
-   "n_sources": 29,
-   "counts": {
-    "left": 8,
-    "centre": 15,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 12,
-    "opinion": 2
-   },
-   "blindspot_score": -0.143,
-   "blindspot_for": null,
-   "divergence": 0.42,
-   "category": "sciences-tech",
-   "terms_left": [
-    "amodei",
-    "altman",
-    "ralentir ia"
-   ],
-   "terms_right": [
-    "ia",
-    "création",
-    "openai"
    ]
   },
   {
@@ -687,6 +687,36 @@
    ]
   },
   {
+   "title": "« Une croissance plus faible, c’est une dette plus difficile à gérer » : pourquoi la France est vulnérable à la hausse des taux d’intérêt",
+   "url": "https://www.liberation.fr/politique/les-bons-et-les-mauvais-prix-nobel-selon-lfi-20260907_5ZOFIQM3SFCRNO2GPWEYHBMREQ/",
+   "n_members": 52,
+   "n_sources": 25,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.538,
+   "blindspot_for": null,
+   "divergence": 0.64,
+   "category": "économie",
+   "terms_left": [
+    "monétaire",
+    "dangereuse inutile",
+    "publique"
+   ],
+   "terms_right": [
+    "france",
+    "française",
+    "candidat"
+   ]
+  },
+  {
    "title": "Un ministre israélien veut déchoir de leur nationalité les réalisateurs du documentaire « NAZA » primé à Venise",
    "url": "https://www.liberation.fr/culture/cinema/naza-a-la-mostra-un-documentaire-fondamental-sur-le-systeme-de-tueries-de-masse-a-gaza-raconte-par-larmee-israelienne-20260910_Z2OMIBLGMFDNPHDABMAWSXOFUQ/",
    "n_members": 50,
@@ -703,7 +733,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.399,
+   "divergence": 0.398,
    "category": "culture",
    "terms_left": [
     "israéliens",
@@ -714,36 +744,6 @@
     "minutes",
     "venise",
     "israël"
-   ]
-  },
-  {
-   "title": "Dette publique : mise en cause par LFI, la Banque de France dément toute vente de dette sur les marchés",
-   "url": "https://www.liberation.fr/politique/les-bons-et-les-mauvais-prix-nobel-selon-lfi-20260907_5ZOFIQM3SFCRNO2GPWEYHBMREQ/",
-   "n_members": 50,
-   "n_sources": 25,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.538,
-   "blindspot_for": null,
-   "divergence": 0.649,
-   "category": "économie",
-   "terms_left": [
-    "monétaire",
-    "dangereuse inutile",
-    "publique"
-   ],
-   "terms_right": [
-    "française",
-    "france",
-    "candidat"
    ]
   },
   {
@@ -809,7 +809,7 @@
   {
    "title": "Violences sexuelles dans le périscolaire à Paris : Anne Hidalgo et son ex-adjoint rattrapés par dix ans d’alertes",
    "url": "https://www.tf1info.fr/education/etre-pret-a-observer-et-a-signaler-un-comportement-c-est-important-une-ecole-du-periscolaire-inauguree-a-paris-pour-former-les-animateurs-2463929.html",
-   "n_members": 53,
+   "n_members": 54,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -837,6 +837,36 @@
    ]
   },
   {
+   "title": "Budget : le gouvernement ne proposera pas de «gel» du barème de l’impôt sur le revenu",
+   "url": "https://www.franceinfo.fr/economie/info-franceinfo-les-notaires-proposent-de-diviser-par-deux-les-taxes-dues-a-l-etat-sur-les-donations-familiales_8185412.html",
+   "n_members": 60,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 9,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.733,
+   "category": "économie",
+   "terms_left": [
+    "budget gouvernement",
+    "fiscalité",
+    "exécutif"
+   ],
+   "terms_right": [
+    "qu",
+    "marine",
+    "pen"
+   ]
+  },
+  {
    "title": "Les pays des Brics exhortent à la \"retenue maximale\" dans le conflit au Moyen-Orient",
    "url": "https://www.bvoltaire.fr/un-an-apres-la-mort-de-charlie-kirk-que-sait-on-de-son-assassin-presume/",
    "n_members": 60,
@@ -853,16 +883,16 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.891,
+   "divergence": 0.892,
    "category": "international",
    "terms_left": [
     "face",
     "europe",
-    "grande"
+    "mort"
    ],
    "terms_right": [
     "moyen-orient",
-    "kirk",
+    "guerre",
     "charlie kirk"
    ]
   },
@@ -883,7 +913,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.685,
+   "divergence": 0.686,
    "category": "international",
    "terms_left": [
     "south",
@@ -923,7 +953,37 @@
    "terms_right": [
     "sapin france",
     "personnalités",
-    "sapin"
+    "fronde"
+   ]
+  },
+  {
+   "title": "EN DIRECT - Guerre en Ukraine : l'Otan abat un drone dans le ciel de la Lituanie",
+   "url": "https://www.tf1info.fr/international/document-lci-c-est-inacceptable-face-aux-violentes-mobilisations-forcees-guerre-en-ukraine-un-agent-recruteur-temoigne-2463891.html",
+   "n_members": 43,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.716,
+   "category": "international",
+   "terms_left": [
+    "russes",
+    "pays",
+    "frappes"
+   ],
+   "terms_right": [
+    "drone",
+    "guerre",
+    "espace"
    ]
   },
   {
@@ -1043,43 +1103,13 @@
    "terms_right": [
     "route",
     "ukraine",
-    "volodymyr"
-   ]
-  },
-  {
-   "title": "Budget : le gouvernement ne proposera pas de «gel» du barème de l’impôt sur le revenu",
-   "url": "https://www.franceinfo.fr/economie/info-franceinfo-les-notaires-proposent-de-diviser-par-deux-les-taxes-dues-a-l-etat-sur-les-donations-familiales_8185412.html",
-   "n_members": 59,
-   "n_sources": 22,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.538,
-   "blindspot_for": null,
-   "divergence": 0.732,
-   "category": "économie",
-   "terms_left": [
-    "budget gouvernement",
-    "fiscalité",
-    "exécutif"
-   ],
-   "terms_right": [
-    "qu",
-    "marine",
-    "pen"
+    "volodymyr zelensky"
    ]
   },
   {
    "title": "La Finlande rejoint cette initiative française : qu'est-ce que la dissuasion nucléaire \"avancée\" ?",
    "url": "https://fr.euronews.com/my-europe/2026/09/11/la-france-rejoint-la-slovaquie-pour-demander-la-radiation-dalicher-ousmanov-des-sanctions-",
-   "n_members": 54,
+   "n_members": 56,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -1093,7 +1123,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.547,
+   "divergence": 0.551,
    "category": "international",
    "terms_left": [
     "nucléaire française",
@@ -1157,36 +1187,6 @@
    "category": "économie",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Présidentielle 2027 : le doute commence à gagner le cœur des militants venus assister à la rentrée de Bruno Retailleau",
-   "url": "https://www.ouest-france.fr/provence-alpes-cote-dazur/marseille-13000/frais-universitaires-aix-marseille-exonere-1-500-etudiants-etrangers-47d9b4aa-ab09-11f1-a618-771a80631f2f",
-   "n_members": 65,
-   "n_sources": 21,
-   "counts": {
-    "left": 3,
-    "centre": 10,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 5,
-    "opinion": 4
-   },
-   "blindspot_score": 0.455,
-   "blindspot_for": null,
-   "divergence": 0.69,
-   "category": "politique",
-   "terms_left": [
-    "fête",
-    "roussel",
-    "fabien roussel"
-   ],
-   "terms_right": [
-    "retailleau",
-    "bruno retailleau",
-    "bruno"
-   ]
   }
  ]
 }
