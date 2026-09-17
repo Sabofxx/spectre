@@ -1,13 +1,13 @@
 {
  "week": "2026-W38",
- "generated_at": "2026-09-17T20:46:32+00:00",
+ "generated_at": "2026-09-17T23:16:23+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Lecornu présente un budget \"offensif\", avec 54 milliards d'économies",
-   "url": "https://www.publicsenat.fr/actualites/economie/budget-2027-sebastien-lecornu-demande-un-nouvel-effort-sur-les-depenses-de-letat",
-   "n_members": 49,
+   "url": "https://www.publicsenat.fr/actualites/politique/budget-bruno-retailleau-demande-au-gouvernement-le-retour-de-la-reforme-des-retraites",
+   "n_members": 56,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.472,
+   "divergence": 0.464,
    "category": "politique",
    "terms_left": [
     "présidentielle",
@@ -31,27 +31,27 @@
    "terms_right": [
     "milliards euros",
     "euros",
-    "fonctionnaires"
+    "économies"
    ]
   },
   {
    "title": "Les pêcheurs s'engagent à débloquer les barrages, les aides «suivront la variation des cours du carburant»",
-   "url": "https://www.nicematin.com/societe/social/s-il-le-faut-on-le-refera-les-marins-pecheurs-de-nice-ont-leve-le-blocus-du-port-de-nice-10725246",
-   "n_members": 25,
-   "n_sources": 17,
+   "url": "https://www.nouvelobs.com/economie/20260915.OBS118251/pourquoi-des-pecheurs-bloquent-ils-un-depot-petrolier-a-fos-sur-mer.html",
+   "n_members": 26,
+   "n_sources": 18,
    "counts": {
-    "left": 5,
+    "left": 6,
     "centre": 8,
     "right": 4
    },
    "style_counts": {
     "factuel": 9,
-    "mixte": 6,
+    "mixte": 7,
     "opinion": 2
    },
-   "blindspot_score": -0.111,
+   "blindspot_score": -0.2,
    "blindspot_for": null,
-   "divergence": 0.442,
+   "divergence": 0.436,
    "category": "société",
    "terms_left": [
     "lever",
@@ -60,14 +60,14 @@
    ],
    "terms_right": [
     "ministre pêche",
-    "sète",
-    "dépôt pétrolier"
+    "frontignan",
+    "sète"
    ]
   },
   {
    "title": "Trump en colère, «membre associé»... Ce qu'il faut savoir sur la proposition de l'Union européenne au Canada",
-   "url": "https://information.tv5monde.com/international/ursula-von-der-leyen-favorable-lintegration-du-canada-comme-membre-associe-de-lunion-europeenne-2837739",
-   "n_members": 32,
+   "url": "https://www.publicsenat.fr/actualites/politique/union-europeenne-ce-nest-pas-aux-etats-unis-de-choisir-les-orientations-geopolitiques-des-europeens-affirme-benjamin-haddad",
+   "n_members": 33,
    "n_sources": 16,
    "counts": {
     "left": 4,
@@ -90,44 +90,74 @@
    ],
    "terms_right": [
     "discours",
-    "ursula",
-    "ursula von"
+    "ursula von",
+    "ursula"
    ]
   },
   {
-   "title": "Primaire socialiste : Philippe Brun écarté, cinq candidats sur la ligne de départ",
-   "url": "https://www.nouvelobs.com/politique/20260915.OBS118250/presidentielle-2027-francois-ruffin-rejete-de-la-primaire-socialiste-et-toujours-plus-isole-continue-de-rever-a-l-union-de-la-gauche.html",
+   "title": "Jugée pour \"un pacte de corruption\" avec Ghosn, Dati assène avoir \"exercé comme avocate\"",
+   "url": "https://www.liberation.fr/societe/police-justice/jai-rarement-vu-un-climat-pareil-au-proces-de-rachida-dati-la-charge-des-associations-anticorruption-contre-lintimidation-de-la-defense-20260917_TVBOAA6JYNBYNBNAPVSATTID2Q/",
    "n_members": 20,
-   "n_sources": 12,
+   "n_sources": 15,
+   "counts": {
+    "left": 3,
+    "centre": 9,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 5,
+    "opinion": 0
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.706,
+   "category": "politique",
+   "terms_left": [
+    "procès",
+    "défense",
+    "maire"
+   ],
+   "terms_right": [
+    "jugée",
+    "ghosn",
+    "qu"
+   ]
+  },
+  {
+   "title": "Suspendu du PS pour des \"accusations de violence\", le député Philippe Brun ne participera pas à la primaire de gauche",
+   "url": "https://www.nouvelobs.com/politique/20260915.OBS118250/presidentielle-2027-francois-ruffin-rejete-de-la-primaire-socialiste-et-toujours-plus-isole-continue-de-rever-a-l-union-de-la-gauche.html",
+   "n_members": 24,
+   "n_sources": 13,
    "counts": {
     "left": 1,
     "centre": 6,
-    "right": 5
+    "right": 6
    },
    "style_counts": {
-    "factuel": 6,
+    "factuel": 7,
     "mixte": 3,
     "opinion": 3
    },
-   "blindspot_score": 0.667,
+   "blindspot_score": 0.714,
    "blindspot_for": "gauche",
-   "divergence": 0.454,
+   "divergence": 0.511,
    "category": "politique",
    "terms_left": [
     "gauche",
     "primaire gauche",
-    "place"
+    "rémy"
    ],
    "terms_right": [
     "accusations violences",
-    "député eure",
-    "écarté"
+    "primaire socialiste",
+    "député eure"
    ]
   },
   {
    "title": "Menaces de mort au collège : un père condamné à six mois de prison ferme à Bordeaux",
    "url": "https://www.leprogres.fr/faits-divers-justice/2026/09/17/il-menace-un-surveillant-et-la-principale-du-college-de-sa-fille-il-ecope-de-six-mois-de-prison",
-   "n_members": 12,
+   "n_members": 13,
    "n_sources": 11,
    "counts": {
     "left": 2,
@@ -169,39 +199,61 @@
    "terms_right": []
   },
   {
-   "title": "Depuis le Liban, Carlos Ghosn échoue à faire dérailler son procès pour corruption avec Rachida Dati",
-   "url": "https://www.liberation.fr/societe/police-justice/jai-rarement-vu-un-climat-pareil-au-proces-de-rachida-dati-la-charge-des-associations-anticorruption-contre-lintimidation-de-la-defense-20260917_TVBOAA6JYNBYNBNAPVSATTID2Q/",
-   "n_members": 13,
-   "n_sources": 9,
+   "title": "Yvelines. Un policier mis en examen pour « préparation d'un acte de terrorisme »",
+   "url": "https://www.tf1info.fr/justice-faits-divers/info-tf1-lci-un-policier-des-yvelines-mis-en-examen-pour-preparation-d-un-acte-de-terrorisme-2464805.html",
+   "n_members": 11,
+   "n_sources": 10,
    "counts": {
-    "left": 3,
+    "left": 1,
     "centre": 6,
-    "right": 0
+    "right": 3
    },
    "style_counts": {
-    "factuel": 5,
-    "mixte": 4,
+    "factuel": 8,
+    "mixte": 2,
     "opinion": 0
    },
-   "blindspot_score": -1.0,
-   "blindspot_for": "droite",
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
    "divergence": null,
-   "category": "politique",
+   "category": "faits-divers",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Le Congrès américain adopte un nouveau paquet de sanctions contre la Russie",
+   "url": "https://www.20minutes.fr/monde/ukraine/4246053-20260917-direct-guerre-ukraine-congres-americain-adopte-nouvelles-sanctions-contre-russie",
+   "n_members": 15,
+   "n_sources": 9,
+   "counts": {
+    "left": 1,
+    "centre": 7,
+    "right": 1
+   },
+   "style_counts": {
+    "factuel": 8,
+    "mixte": 1,
+    "opinion": 0
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "international",
    "terms_left": [],
    "terms_right": []
   },
   {
    "title": "“Je ne veux pas établir de priorité dans la souffrance”: Kylian Mbappé s’explique après la polémique sur Ceuta",
    "url": "https://lcp.fr/actualites/kylian-mbappe-pris-pour-cible-par-le-rn-apres-avoir-masque-un-message-de-soutien-a-ceuta",
-   "n_members": 12,
-   "n_sources": 8,
+   "n_members": 13,
+   "n_sources": 9,
    "counts": {
     "left": 1,
-    "centre": 3,
+    "centre": 4,
     "right": 4
    },
    "style_counts": {
-    "factuel": 3,
+    "factuel": 4,
     "mixte": 1,
     "opinion": 4
    },
@@ -213,17 +265,17 @@
    "terms_right": []
   },
   {
-   "title": "«Le projet d'une génération» : Gabriel Attal appelle à créer les «États-Unis d'Europe»",
-   "url": "https://www.publicsenat.fr/actualites/politique/gabriel-attal-veut-construire-les-etats-unis-deurope-proposition-choc-pour-relancer-lideal-europeen",
-   "n_members": 8,
-   "n_sources": 8,
+   "title": "Gabriel Attal plaide pour des \"Etats-Unis d'Europe\", le \"projet d'une génération\"",
+   "url": "https://www.franceinfo.fr/monde/europe/gabriel-attal-juge-que-l-europe-des-27-a-atteint-ses-limites-et-plaide-pour-des-etats-unis-d-europe_8197754.html",
+   "n_members": 9,
+   "n_sources": 9,
    "counts": {
     "left": 1,
-    "centre": 5,
+    "centre": 6,
     "right": 2
    },
    "style_counts": {
-    "factuel": 5,
+    "factuel": 6,
     "mixte": 3,
     "opinion": 0
    },
@@ -231,6 +283,58 @@
    "blindspot_for": null,
    "divergence": null,
    "category": "politique",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Présidentielle 2027 : \"La tournure que prend le pays m'angoisse...\" Teddy Riner inquiet par la montée de l'extrême droite en France",
+   "url": "https://information.tv5monde.com/international/au-bresil-deux-juges-de-la-cour-supreme-couteaux-tires-2837558",
+   "n_members": 12,
+   "n_sources": 8,
+   "counts": {
+    "left": 3,
+    "centre": 3,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 3,
+    "mixte": 3,
+    "opinion": 2
+   },
+   "blindspot_score": -0.2,
+   "blindspot_for": null,
+   "divergence": 0.634,
+   "category": "politique",
+   "terms_left": [
+    "rn",
+    "marine",
+    "pen"
+   ],
+   "terms_right": [
+    "présidentielle",
+    "tatamis",
+    "judo"
+   ]
+  },
+  {
+   "title": "Budget 2027 : Lecornu propose un gel du point d'indice des fonctionnaires, colère des syndicats",
+   "url": "https://www.liberation.fr/economie/social/gel-du-point-dindice-des-fonctionnaires-dans-le-budget-2027-sophie-binet-denonce-un-scandale-et-promet-une-journee-noire-le-29-septembre-20260917_CLM5XBZ6SJHMXJE5P7B4XF3MSE/",
+   "n_members": 8,
+   "n_sources": 8,
+   "counts": {
+    "left": 1,
+    "centre": 3,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 5,
+    "mixte": 3,
+    "opinion": 0
+   },
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "économie",
    "terms_left": [],
    "terms_right": []
   },
@@ -265,36 +369,6 @@
    ]
   },
   {
-   "title": "Présidentielle : Teddy Riner «flippé» par «la montée de «l'extrême droite» en France",
-   "url": "https://www.lejdd.fr/politique/presidentielle-teddy-riner-flippe-par-la-montee-de-lextreme-droite-en-france-183711",
-   "n_members": 8,
-   "n_sources": 7,
-   "counts": {
-    "left": 3,
-    "centre": 2,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 2,
-    "mixte": 3,
-    "opinion": 2
-   },
-   "blindspot_score": -0.2,
-   "blindspot_for": null,
-   "divergence": 0.635,
-   "category": "politique",
-   "terms_left": [
-    "rn",
-    "marine",
-    "pen"
-   ],
-   "terms_right": [
-    "présidentielle",
-    "tatamis",
-    "judo"
-   ]
-  },
-  {
    "title": "Montauban : saisie record de protoxyde d'azote lors d'un contrôle routier",
    "url": "https://www.franceinfo.fr/societe/justice/30-tonnes-de-protoxyde-d-azote-saisies-apres-un-controle-a-un-peage-de-montauban_8197757.html",
    "n_members": 7,
@@ -317,9 +391,31 @@
    "terms_right": []
   },
   {
+   "title": "Présidentielle: Éric Zemmour annonce sur BFMTV qu'il \"sera candidat\" en 2027",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-crise-sociale-eric-zemmour-president-de-reconquete-estime-que-les-francais-sont-excedes-legitimement_VN-202609170887.html",
+   "n_members": 28,
+   "n_sources": 6,
+   "counts": {
+    "left": 0,
+    "centre": 5,
+    "right": 1
+   },
+   "style_counts": {
+    "factuel": 6,
+    "mixte": 0,
+    "opinion": 0
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "politique",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Violences sexuelles dans le périscolaire parisien : ce qu'il faut retenir de l'audition d'Emmanuel Grégoire au Sénat",
-   "url": "https://www.la-croix.com/societe/apres-les-scandales-le-periscolaire-parisien-fait-une-rentree-sous-haute-surveillance-20260914",
-   "n_members": 11,
+   "url": "https://www.la-croix.com/societe/periscolaire-a-paris-un-animateur-condamne-a-cinq-ans-de-prison-pour-agressions-sexuelles-20260915",
+   "n_members": 12,
    "n_sources": 6,
    "counts": {
     "left": 1,
@@ -333,7 +429,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.676,
+   "divergence": 0.677,
    "category": "société",
    "terms_left": [
     "périscolaire paris",
@@ -345,6 +441,72 @@
     "violences",
     "sexuelles"
    ]
+  },
+  {
+   "title": "SONDAGE - 87% des Français estiment qu’il faut baisser les taxes sur les carburants",
+   "url": "https://www.nouvelobs.com/economie/20260916.OBS118307/la-flambee-du-prix-des-carburants-preoccupe-le-gouvernement-entre-difficulte-d-approvisionnement-et-inflation.html",
+   "n_members": 12,
+   "n_sources": 6,
+   "counts": {
+    "left": 1,
+    "centre": 1,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 2,
+    "mixte": 2,
+    "opinion": 2
+   },
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "économie",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Réseaux sociaux : Ursula von der Leyen propose une interdiction pour les moins de 13 ans",
+   "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/reseaux-sociaux-interdits-avant-13-ans-fonctionnalites-addictives-bloquees-pour-les-mineurs-ce-que-contient-le-kids-act-presente-par-la-commission-europeenne_8197241.html",
+   "n_members": 9,
+   "n_sources": 6,
+   "counts": {
+    "left": 0,
+    "centre": 4,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 2,
+    "mixte": 2,
+    "opinion": 2
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "société",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Un cratère géant de 222 mètres vient d’apparaître sur la Lune, et la Nasa l’a découvert par hasard",
+   "url": "https://www.cnews.fr/science/2026-09-17/un-impact-dune-rarete-centennale-la-lune-possede-un-nouveau-cratere-de-plus-de",
+   "n_members": 7,
+   "n_sources": 6,
+   "counts": {
+    "left": 0,
+    "centre": 4,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 5,
+    "mixte": 0,
+    "opinion": 1
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "sciences-tech",
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "La possible libération du « logisticien » des attentats du 13 novembre en Belgique soulève l’incompréhension des victimes",
@@ -367,36 +529,14 @@
    "category": "société",
    "terms_left": [
     "procès",
-    "logisticien",
-    "logisticien attentats"
+    "logisticien attentats",
+    "logisticien"
    ],
    "terms_right": [
     "droit",
     "grand",
     "etat"
    ]
-  },
-  {
-   "title": "Un cratère géant de 222 mètres vient d’apparaître sur la Lune, et la Nasa l’a découvert par hasard",
-   "url": "https://www.cnews.fr/science/2026-09-17/un-impact-dune-rarete-centennale-la-lune-possede-un-nouveau-cratere-de-plus-de",
-   "n_members": 6,
-   "n_sources": 6,
-   "counts": {
-    "left": 0,
-    "centre": 4,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 5,
-    "mixte": 0,
-    "opinion": 1
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "sciences-tech",
-   "terms_left": [],
-   "terms_right": []
   },
   {
    "title": "Brevet et bac 2027 : mal maîtriser le français coûtera deux points en moins par copie dans toutes les matières",
@@ -437,7 +577,7 @@
    },
    "blindspot_score": -0.2,
    "blindspot_for": null,
-   "divergence": 0.39,
+   "divergence": 0.389,
    "category": "culture",
    "terms_left": [
     "syndicats",
@@ -451,43 +591,21 @@
    ]
   },
   {
-   "title": "Budget 2027 : Lecornu propose un gel du point d'indice des fonctionnaires, colère des syndicats",
-   "url": "https://www.liberation.fr/economie/social/gel-du-point-dindice-des-fonctionnaires-dans-le-budget-2027-sophie-binet-denonce-un-scandale-et-promet-une-journee-noire-le-29-septembre-20260917_CLM5XBZ6SJHMXJE5P7B4XF3MSE/",
+   "title": "Le maire de Concarneau placé en garde à vue dans le cadre d’une enquête pour viol",
+   "url": "https://www.franceinfo.fr/societe/justice/vise-par-une-plainte-pour-viol-le-maire-de-concarneau-place-en-garde-a-vue_8197814.html",
    "n_members": 6,
    "n_sources": 6,
    "counts": {
-    "left": 1,
-    "centre": 2,
-    "right": 3
+    "left": 2,
+    "centre": 3,
+    "right": 1
    },
    "style_counts": {
     "factuel": 4,
     "mixte": 2,
     "opinion": 0
    },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "économie",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Réseaux sociaux : Ursula von der Leyen propose une interdiction pour les moins de 13 ans",
-   "url": "https://www.la-croix.com/societe/reseaux-sociaux-von-der-leyen-veut-faire-un-pas-de-plus-vers-l-interdiction-aux-jeunes-europeens-20260916",
-   "n_members": 7,
-   "n_sources": 5,
-   "counts": {
-    "left": 0,
-    "centre": 3,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 1,
-    "mixte": 2,
-    "opinion": 2
-   },
-   "blindspot_score": 1.0,
+   "blindspot_score": -0.333,
    "blindspot_for": null,
    "divergence": null,
    "category": "société",
@@ -495,24 +613,68 @@
    "terms_right": []
   },
   {
-   "title": "Guerre en Ukraine : Donald Trump se félicite d'un projet de base militaire américaine en Pologne",
-   "url": "https://www.20minutes.fr/monde/ukraine/4246053-20260917-direct-guerre-ukraine-congres-americain-adopte-nouvelles-sanctions-contre-russie",
+   "title": "L'OM subit une nouvelle défaite face à Besiktas en Ligue Europa",
+   "url": "https://www.lefigaro.fr/sports/football/ligue-europa/besiktas-marseille-en-video-le-minot-keyliane-abdallah-marque-pour-sa-premiere-en-ligue-europa-20260917",
+   "n_members": 9,
+   "n_sources": 5,
+   "counts": {
+    "left": 0,
+    "centre": 1,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 2,
+    "mixte": 2,
+    "opinion": 1
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "sport",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "EN IMAGES L'« Histoire d’A. » à Z de Catherine Ringer, la voix des Rita Mitsouko",
+   "url": "https://reporterre.net/Mort-de-Catherine-Ringer-chanteuse-et-militante-pour-l-ecologie",
    "n_members": 6,
    "n_sources": 5,
    "counts": {
-    "left": 1,
-    "centre": 3,
+    "left": 4,
+    "centre": 1,
+    "right": 0
+   },
+   "style_counts": {
+    "factuel": 1,
+    "mixte": 4,
+    "opinion": 0
+   },
+   "blindspot_score": -1.0,
+   "blindspot_for": "droite",
+   "divergence": null,
+   "category": "culture",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Présidentielle 2027 : les ministres participant «activement» à la campagne devront quitter le gouvernement",
+   "url": "https://www.lemonde.fr/politique/article/2026/09/17/presidentielle-2027-les-candidats-desormais-interdits-de-campagne-dans-les-ecoles-annonce-le-ministre-de-l-education-nationale_6776416_823448.html",
+   "n_members": 6,
+   "n_sources": 5,
+   "counts": {
+    "left": 3,
+    "centre": 1,
     "right": 1
    },
    "style_counts": {
-    "factuel": 4,
-    "mixte": 1,
+    "factuel": 2,
+    "mixte": 3,
     "opinion": 0
    },
-   "blindspot_score": 0.0,
+   "blindspot_score": -0.5,
    "blindspot_for": null,
    "divergence": null,
-   "category": "international",
+   "category": "politique",
    "terms_left": [],
    "terms_right": []
   },
@@ -539,24 +701,46 @@
    "terms_right": []
   },
   {
-   "title": "Catherine Ringer, chanteuse emblématique des Rita Mitsouko, est morte à l’âge de 68 ans",
-   "url": "https://reporterre.net/Mort-de-Catherine-Ringer-chanteuse-et-militante-pour-l-ecologie",
+   "title": "Présidentielle en France: Édouard Philippe se positionne sur l'adaptation au changement climatique",
+   "url": "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-souhaite-doter-la-france-d-une-veritable-politique-de-securite-climatique_8197976.html",
    "n_members": 5,
    "n_sources": 5,
    "counts": {
-    "left": 4,
-    "centre": 1,
+    "left": 1,
+    "centre": 2,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 2,
+    "mixte": 2,
+    "opinion": 1
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "politique",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Crues meurtrières au Népal: le changement climatique \"moteur\" de la catastrophe révèle une étude scientifique",
+   "url": "https://reporterre.net/Crue-au-Nepal-le-bilan-revu-a-la-hausse-au-moins-1-400-personnes-sont-mortes",
+   "n_members": 5,
+   "n_sources": 5,
+   "counts": {
+    "left": 1,
+    "centre": 4,
     "right": 0
    },
    "style_counts": {
-    "factuel": 1,
-    "mixte": 4,
+    "factuel": 4,
+    "mixte": 1,
     "opinion": 0
    },
    "blindspot_score": -1.0,
-   "blindspot_for": "droite",
+   "blindspot_for": null,
    "divergence": null,
-   "category": "culture",
+   "category": "environnement",
    "terms_left": [],
    "terms_right": []
   },
@@ -583,6 +767,50 @@
    "terms_right": []
   },
   {
+   "title": "Consommation. Prix des carburants : le gazole a égalé ce jeudi son record historique en France",
+   "url": "https://www.la-croix.com/economie/t-as-vu-les-prix-de-lessence-portrait-dune-france-entre-grogne-debrouille-et-transition-20260917",
+   "n_members": 5,
+   "n_sources": 5,
+   "counts": {
+    "left": 0,
+    "centre": 3,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 3,
+    "mixte": 1,
+    "opinion": 1
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "économie",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Guerre en Iran: les États-Unis admettent être en \"pénurie\" de munitions et évaluent le conflit à 33 milliards de dollars",
+   "url": "https://information.tv5monde.com/international/guerre-au-moyen-orient-koweit-arabie-saoudite-des-images-inedites-montrent-les-degats-de-liran-sur-des-bases-americaines-2837748",
+   "n_members": 8,
+   "n_sources": 4,
+   "counts": {
+    "left": 1,
+    "centre": 2,
+    "right": 1
+   },
+   "style_counts": {
+    "factuel": 2,
+    "mixte": 2,
+    "opinion": 0
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Yémen: les Houthis font état de frappes de Ryad, qui les accuse d'attaque à La Mecque",
    "url": "https://www.liberation.fr/international/moyen-orient/yemen-comment-les-houthis-sont-parvenus-a-humilier-larabie-saoudite-20260917_F5K4LO42SFGLJMPZCK2IM24ADE/",
    "n_members": 8,
@@ -605,31 +833,9 @@
    "terms_right": []
   },
   {
-   "title": "Guerre en Iran: les États-Unis admettent être en \"pénurie\" de munitions et évaluent le conflit à 33 milliards de dollars",
-   "url": "https://information.tv5monde.com/international/guerre-en-iran-les-etats-unis-admettent-etre-en-penurie-de-munitions-et-evaluent-le-conflit-33-milliards-de-dollars-2837584",
-   "n_members": 7,
-   "n_sources": 4,
-   "counts": {
-    "left": 1,
-    "centre": 2,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 2,
-    "mixte": 2,
-    "opinion": 0
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Sondage : 87% des Français estiment qu’il faut baisser les taxes sur les carburants",
-   "url": "https://www.tf1info.fr/conso/videos/video-carburants-quand-payer-moins-cher-peut-nous-couter-cher-56845-2464747.html",
-   "n_members": 7,
+   "title": "Visite du pape Léon XIV à Paris : le défi sécuritaire des forces de l’ordre",
+   "url": "https://www.tf1info.fr/societe/dans-un-monde-en-crise-on-a-besoin-de-se-retrouver-dans-des-reperes-comment-expliquer-l-engouement-pour-la-visite-du-pape-2464794.html",
+   "n_members": 8,
    "n_sources": 4,
    "counts": {
     "left": 0,
@@ -644,29 +850,7 @@
    "blindspot_score": 1.0,
    "blindspot_for": null,
    "divergence": null,
-   "category": "économie",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Le Congrès américain adopte un nouveau paquet de sanctions contre la Russie",
-   "url": "https://information.tv5monde.com/international/le-congres-americain-adopte-un-nouveau-paquet-de-sanctions-contre-la-russie-2837833",
-   "n_members": 7,
-   "n_sources": 4,
-   "counts": {
-    "left": 0,
-    "centre": 4,
-    "right": 0
-   },
-   "style_counts": {
-    "factuel": 4,
-    "mixte": 0,
-    "opinion": 0
-   },
-   "blindspot_score": null,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
+   "category": "société",
    "terms_left": [],
    "terms_right": []
   },
@@ -737,28 +921,6 @@
    "terms_right": []
   },
   {
-   "title": "Le 13h de nos régions - Hausse des prix des carburants : les raisons d'une colère qui enfle partout en France",
-   "url": "https://www.nouvelobs.com/economie/20260916.OBS118307/la-flambee-du-prix-des-carburants-preoccupe-le-gouvernement-entre-difficulte-d-approvisionnement-et-inflation.html",
-   "n_members": 5,
-   "n_sources": 4,
-   "counts": {
-    "left": 1,
-    "centre": 1,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 1,
-    "mixte": 2,
-    "opinion": 1
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "société",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
    "title": "Israël: une loi pour déchoir les réalisateurs du documentaire choc «Naza» de la nationalité israélienne",
    "url": "https://www.nouvelobs.com/cinema/20260914.OBS118239/qui-sont-yuval-abraham-et-rachel-szor-les-realisateurs-israeliens-de-naza.html",
    "n_members": 4,
@@ -781,8 +943,8 @@
    "terms_right": []
   },
   {
-   "title": "Emmanuel Macron reçoit Joseph Aoun et le roi Abdallah II pour soutenir l'armée libanaise",
-   "url": "https://information.tv5monde.com/international/le-president-libanais-veut-un-accord-de-securite-avec-israel-qui-pourrait-preluder-la-paix-2837774",
+   "title": "Intelligence artificielle : a-t-on vraiment perdu le contrôle ?",
+   "url": "https://www.nouvelobs.com/economie/20260917.OBS118336/intelligence-artificielle-dario-amodei-anthropic-et-le-syndrome-de-l-apprenti-sorcier.html",
    "n_members": 4,
    "n_sources": 4,
    "counts": {
@@ -791,168 +953,14 @@
     "right": 1
    },
    "style_counts": {
-    "factuel": 2,
+    "factuel": 1,
     "mixte": 2,
-    "opinion": 0
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Les réserves d'eau douce dans le monde se dégradent à un rythme alarmant",
-   "url": "https://reporterre.net/Les-reserves-d-eau-douce-dans-le-monde-se-degradent-a-un-rythme-alarmant",
-   "n_members": 4,
-   "n_sources": 4,
-   "counts": {
-    "left": 1,
-    "centre": 2,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 2,
-    "mixte": 1,
     "opinion": 1
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
    "divergence": null,
-   "category": "environnement",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Crues meurtrières au Népal: le changement climatique \"moteur\" de la catastrophe révèle une étude scientifique",
-   "url": "https://reporterre.net/Crue-au-Nepal-le-bilan-revu-a-la-hausse-au-moins-1-400-personnes-sont-mortes",
-   "n_members": 4,
-   "n_sources": 4,
-   "counts": {
-    "left": 1,
-    "centre": 3,
-    "right": 0
-   },
-   "style_counts": {
-    "factuel": 3,
-    "mixte": 1,
-    "opinion": 0
-   },
-   "blindspot_score": -1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Nice : Christian Estrosi visé par une enquête pour détournement de fonds",
-   "url": "https://www.lejdd.fr/politique/nice-christian-estrosi-vise-par-une-enquete-pour-detournement-de-fonds-183699",
-   "n_members": 4,
-   "n_sources": 4,
-   "counts": {
-    "left": 0,
-    "centre": 2,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 2,
-    "mixte": 0,
-    "opinion": 2
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "politique",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Pourquoi le film russe « Minotaure » va représenter la France aux Oscars",
-   "url": "https://fr.euronews.com/culture/2026/09/17/minotaure-dandrei-zviaguintsev-representera-la-france-aux-oscars",
-   "n_members": 4,
-   "n_sources": 4,
-   "counts": {
-    "left": 1,
-    "centre": 2,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 2,
-    "mixte": 1,
-    "opinion": 1
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "culture",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "EN DIRECT - Besiktas-Marseille : l’OM désormais sans réponse à Istanbul",
-   "url": "https://rmcsport.bfmtv.com/football/europa-league/direct-besiktas-om-suivez-en-live-le-match-de-la-1ere-journee-de-ligue-europa_LS-202609170660.html",
-   "n_members": 4,
-   "n_sources": 4,
-   "counts": {
-    "left": 0,
-    "centre": 1,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 2,
-    "mixte": 1,
-    "opinion": 1
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Consommation. Prix des carburants : le gazole a égalé ce jeudi son record historique en France",
-   "url": "https://www.la-croix.com/economie/t-as-vu-les-prix-de-lessence-portrait-dune-france-entre-grogne-debrouille-et-transition-20260917",
-   "n_members": 4,
-   "n_sources": 4,
-   "counts": {
-    "left": 0,
-    "centre": 3,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 3,
-    "mixte": 1,
-    "opinion": 0
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "économie",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Le maire de Concarneau placé en garde à vue dans le cadre d’une enquête pour viol",
-   "url": "https://www.franceinfo.fr/societe/justice/vise-par-une-plainte-pour-viol-le-maire-de-concarneau-place-en-garde-a-vue_8197814.html",
-   "n_members": 4,
-   "n_sources": 4,
-   "counts": {
-    "left": 2,
-    "centre": 2,
-    "right": 0
-   },
-   "style_counts": {
-    "factuel": 2,
-    "mixte": 2,
-    "opinion": 0
-   },
-   "blindspot_score": -1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "société",
+   "category": "sciences-tech",
    "terms_left": [],
    "terms_right": []
   }
