@@ -1,6 +1,6 @@
 {
  "week": "2026-W38",
- "generated_at": "2026-09-16T23:59:17+00:00",
+ "generated_at": "2026-09-17T03:12:07+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -111,17 +111,17 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.358,
+   "divergence": 0.364,
    "category": "politique",
    "terms_left": [
-    "monde",
     "direct présidentielle",
-    "campagne"
+    "campagne",
+    "monde"
    ],
    "terms_right": [
     "priorité",
-    "français",
-    "logements sociaux"
+    "rentrée politique",
+    "français"
    ]
   },
   {
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.378,
+   "divergence": 0.383,
    "category": "international",
    "terms_left": [
     "tête",
@@ -601,7 +601,7 @@
    "terms_right": [
     "suède",
     "gouvernement",
-    "pays"
+    "scrutin"
    ]
   },
   {
@@ -959,7 +959,7 @@
   {
    "title": "EN DIRECT - Guerre en Ukraine : l'Otan abat un drone dans le ciel de la Lituanie",
    "url": "https://www.tf1info.fr/international/document-lci-c-est-inacceptable-face-aux-violentes-mobilisations-forcees-guerre-en-ukraine-un-agent-recruteur-temoigne-2463891.html",
-   "n_members": 55,
+   "n_members": 58,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -973,17 +973,47 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.745,
+   "divergence": 0.748,
    "category": "international",
    "terms_left": [
-    "russes",
     "pays",
+    "russes",
     "frappes"
    ],
    "terms_right": [
     "drone",
     "otan",
     "russe"
+   ]
+  },
+  {
+   "title": "Le Pentagone reconnaît une \"pénurie\" de munitions causée par la guerre contre l'Iran",
+   "url": "https://www.ouest-france.fr/monde/iran/la-reunion-prevue-entre-liran-et-les-pays-du-golfe-sur-le-detroit-dormuz-lundi-est-finalement-reportee-9894bc06-afa9-11f1-b773-22a20d9d91fa",
+   "n_members": 51,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 10,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.653,
+   "category": "international",
+   "terms_left": [
+    "amini",
+    "liberté",
+    "mahsa amini"
+   ],
+   "terms_right": [
+    "milliards",
+    "munitions",
+    "guerre iran"
    ]
   },
   {
@@ -1107,69 +1137,9 @@
    ]
   },
   {
-   "title": "Les pays des Brics exhortent à la \"retenue maximale\" dans le conflit au Moyen-Orient",
-   "url": "https://www.bvoltaire.fr/un-an-apres-la-mort-de-charlie-kirk-que-sait-on-de-son-assassin-presume/",
-   "n_members": 60,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 5,
-    "opinion": 4
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.902,
-   "category": "international",
-   "terms_left": [
-    "face",
-    "mort",
-    "europe"
-   ],
-   "terms_right": [
-    "kirk",
-    "charlie kirk",
-    "charlie"
-   ]
-  },
-  {
-   "title": "Génocide à Gaza : l’administration Trump approuve la vente d’au moins 40 000 bombes à Israël",
-   "url": "https://www.valeursactuelles.com/monde/liban-le-cessez-le-feu-entre-le-hezbollah-et-israel-rompu-la-population-epuisee-et-meurtrie",
-   "n_members": 60,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 4,
-    "opinion": 4
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.667,
-   "category": "international",
-   "terms_left": [
-    "colons",
-    "israélienne",
-    "vente"
-   ],
-   "terms_right": [
-    "israël",
-    "liban",
-    "hezbollah"
-   ]
-  },
-  {
    "title": "Moyen-Orient en direct : Trump minimise la fourniture présumée de renseignements chinois à l'Iran",
    "url": "https://www.bfmtv.com/culture/cinema-series/south-park-change-de-nom-pour-devenir-south-america-et-se-moque-de-donald-trump_AN-202609080913.html",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1183,7 +1153,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.666,
+   "divergence": 0.671,
    "category": "international",
    "terms_left": [
     "south",
@@ -1192,8 +1162,38 @@
    ],
    "terms_right": [
     "irlande",
-    "pays",
-    "canada"
+    "canada",
+    "pays"
+   ]
+  },
+  {
+   "title": "Tuerie de Chevaline : la justice veut faire revenir les deux sœurs rescapées sur les lieux du drame",
+   "url": "https://www.ladepeche.fr/2026/09/07/il-fait-de-lapnee-dans-un-lac-et-decouvre-le-corps-dun-homme-au-fond-de-leau-le-jeune-homme-de-20-ans-na-pas-pu-etre-sauve-13539804.php",
+   "n_members": 60,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.626,
+   "category": "société",
+   "terms_left": [
+    "naufrage migrants",
+    "naufrage",
+    "manche"
+   ],
+   "terms_right": [
+    "ans",
+    "personnes",
+    "qu"
    ]
   }
  ]
