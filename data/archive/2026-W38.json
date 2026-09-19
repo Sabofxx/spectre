@@ -1,6 +1,6 @@
 {
  "week": "2026-W38",
- "generated_at": "2026-09-18T23:26:32+00:00",
+ "generated_at": "2026-09-19T01:21:51+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "DIRECT. Situation géopolitique et carburants: les chefs de parti vont être reçus par Emmanuel Macron à l'Élysée",
    "url": "https://information.tv5monde.com/international/le-president-libanais-veut-un-accord-de-securite-avec-israel-qui-pourrait-preluder-la-paix-2837774",
-   "n_members": 99,
+   "n_members": 100,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -67,7 +67,7 @@
   {
    "title": "Suspendu du PS pour des \"accusations de violence\", le député Philippe Brun ne participera pas à la primaire de gauche",
    "url": "https://www.nouvelobs.com/politique/20260915.OBS118250/presidentielle-2027-francois-ruffin-rejete-de-la-primaire-socialiste-et-toujours-plus-isole-continue-de-rever-a-l-union-de-la-gauche.html",
-   "n_members": 54,
+   "n_members": 55,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -97,7 +97,7 @@
   {
    "title": "«Le projet d'une génération» : Gabriel Attal appelle à créer les «États-Unis d'Europe»",
    "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/reseaux-sociaux-interdits-avant-13-ans-fonctionnalites-addictives-bloquees-pour-les-mineurs-ce-que-contient-le-kids-act-presente-par-la-commission-europeenne_8197241.html",
-   "n_members": 50,
+   "n_members": 52,
    "n_sources": 25,
    "counts": {
     "left": 3,
@@ -157,7 +157,7 @@
   {
    "title": "Les pêcheurs s'engagent à débloquer les barrages, les aides «suivront la variation des cours du carburant»",
    "url": "https://www.nouvelobs.com/economie/20260915.OBS118251/pourquoi-des-pecheurs-bloquent-ils-un-depot-petrolier-a-fos-sur-mer.html",
-   "n_members": 39,
+   "n_members": 40,
    "n_sources": 23,
    "counts": {
     "left": 6,
@@ -180,14 +180,44 @@
    ],
    "terms_right": [
     "ministre pêche",
-    "mois",
-    "début"
+    "début",
+    "mois"
+   ]
+  },
+  {
+   "title": "Budget 2027 : face aux 54 milliards d'euros d’économies, l'opposition dénonce un «budget de casse sociale»",
+   "url": "https://www.liberation.fr/economie/social/gel-du-point-dindice-des-fonctionnaires-dans-le-budget-2027-sophie-binet-denonce-un-scandale-et-promet-une-journee-noire-le-29-septembre-20260917_CLM5XBZ6SJHMXJE5P7B4XF3MSE/",
+   "n_members": 48,
+   "n_sources": 22,
+   "counts": {
+    "left": 3,
+    "centre": 10,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 1
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.675,
+   "category": "économie",
+   "terms_left": [
+    "ministre sébastien",
+    "ministre",
+    "année"
+   ],
+   "terms_right": [
+    "carburants",
+    "marine",
+    "hausse"
    ]
   },
   {
    "title": "Présidentielle 2027 : Zinedine Zidane ne souhaite pas «partager» ses «convictions»",
    "url": "https://www.lemonde.fr/politique/article/2026/09/17/presidentielle-2027-les-candidats-desormais-interdits-de-campagne-dans-les-ecoles-annonce-le-ministre-de-l-education-nationale_6776416_823448.html",
-   "n_members": 41,
+   "n_members": 42,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -201,7 +231,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.767,
+   "divergence": 0.77,
    "category": "politique",
    "terms_left": [
     "campagne",
@@ -247,7 +277,7 @@
   {
    "title": "Trump en colère, «membre associé»... Ce qu'il faut savoir sur la proposition de l'Union européenne au Canada",
    "url": "https://www.publicsenat.fr/actualites/politique/union-europeenne-ce-nest-pas-aux-etats-unis-de-choisir-les-orientations-geopolitiques-des-europeens-affirme-benjamin-haddad",
-   "n_members": 48,
+   "n_members": 49,
    "n_sources": 21,
    "counts": {
     "left": 5,
@@ -261,7 +291,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.39,
+   "divergence": 0.396,
    "category": "international",
    "terms_left": [
     "président",
@@ -270,8 +300,38 @@
    ],
    "terms_right": [
     "discours",
-    "canada",
-    "commission européenne"
+    "commission européenne",
+    "état"
+   ]
+  },
+  {
+   "title": "Panique : des tirs à la sortie d'une école",
+   "url": "https://www.ouest-france.fr/societe/faits-divers/des-coups-de-feu-tires-pendant-a-proximite-dune-ecole-dans-loise-deux-personnes-blessees-des-eleves-confines-4a9c1022-b2cd-11f1-bc32-13ddcee9efa7",
+   "n_members": 43,
+   "n_sources": 21,
+   "counts": {
+    "left": 4,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.866,
+   "category": "société",
+   "terms_left": [
+    "priol",
+    "assassinat",
+    "loïk priol"
+   ],
+   "terms_right": [
+    "personnes",
+    "école",
+    "ans"
    ]
   },
   {
@@ -291,7 +351,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.503,
+   "divergence": 0.504,
    "category": "sport",
    "terms_left": [
     "équipe",
@@ -307,7 +367,7 @@
   {
    "title": "Russie : début des législatives, en pleine guerre en Ukraine",
    "url": "https://www.20minutes.fr/monde/ukraine/4246053-20260917-direct-guerre-ukraine-congres-americain-adopte-nouvelles-sanctions-contre-russie",
-   "n_members": 58,
+   "n_members": 59,
    "n_sources": 20,
    "counts": {
     "left": 5,
@@ -321,7 +381,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.74,
+   "divergence": 0.741,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -335,17 +395,47 @@
    ]
   },
   {
+   "title": "États-Unis. « Propagateurs de fausses informations » : Donald Trump interdit des médias d'accès à la Maison Blanche",
+   "url": "https://www.humanite.fr/monde/donald-trump/midterms-comment-les-republicains-tentent-de-confisquer-le-vote-des-americains",
+   "n_members": 40,
+   "n_sources": 20,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 5,
+    "opinion": 1
+   },
+   "blindspot_score": -0.25,
+   "blindspot_for": null,
+   "divergence": 0.797,
+   "category": "international",
+   "terms_left": [
+    "trump",
+    "donald trump",
+    "donald"
+   ],
+   "terms_right": [
+    "états-unis",
+    "américaine",
+    "accès"
+   ]
+  },
+  {
    "title": "Zinédine Zidane dévoile une toute première liste pleine de nouveaux et de surprises avant les quatre matchs de Ligue des Nations avec les Bleus",
    "url": "https://www.leparisien.fr/sports/football/equipe-de-france/equipe-de-france-lepaul-truffert-jacquet-quels-pourraient-etre-les-nouveaux-visages-de-la-premiere-liste-de-zidane-17-09-2026-YEWBEM6EGZDDJB2XXLMNIFAO2M.php",
-   "n_members": 62,
-   "n_sources": 18,
+   "n_members": 63,
+   "n_sources": 19,
    "counts": {
     "left": 2,
-    "centre": 9,
+    "centre": 10,
     "right": 7
    },
    "style_counts": {
-    "factuel": 11,
+    "factuel": 12,
     "mixte": 5,
     "opinion": 2
    },
@@ -433,7 +523,7 @@
    },
    "blindspot_score": -0.333,
    "blindspot_for": null,
-   "divergence": 0.623,
+   "divergence": 0.622,
    "category": "société",
    "terms_left": [
     "procès",
@@ -468,7 +558,7 @@
    "terms_left": [
     "alourdie appel",
     "avocats",
-    "pourvoi"
+    "pourvoi cassation"
    ],
    "terms_right": [
     "plaza condamné",
@@ -523,7 +613,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.892,
+   "divergence": 0.891,
    "category": "politique",
    "terms_left": [
     "candidature",
@@ -537,31 +627,9 @@
    ]
   },
   {
-   "title": "La Fed relève ses taux de 0,25 point : pourquoi la hausse de mercredi pourrait n’être qu’un début",
-   "url": "https://www.publicsenat.fr/actualites/economie/une-croissance-plus-faible-cest-une-dette-plus-difficile-a-gerer-pourquoi-la-france-est-vulnerable-a-la-hausse-des-taux-dinteret",
-   "n_members": 31,
-   "n_sources": 15,
-   "counts": {
-    "left": 1,
-    "centre": 7,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 4,
-    "opinion": 0
-   },
-   "blindspot_score": 0.75,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "économie",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
    "title": "Carburants : l'aide aux «gros rouleurs» ne «s'arrêtera pas le 30 septembre» annonce le ministre du Commerce",
    "url": "https://www.tf1info.fr/replay-lci/videos/video-lci-direct-du-jeudi-17-septembre-2026-2464826.html",
-   "n_members": 29,
+   "n_members": 32,
    "n_sources": 15,
    "counts": {
     "left": 2,
@@ -575,77 +643,16 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.649,
+   "divergence": 0.652,
    "category": "économie",
    "terms_left": [
     "nouveau",
-    "dispositif",
-    "gouvernement"
+    "dispositif"
    ],
    "terms_right": [
     "ministre",
     "commerce",
     "ministre commerce"
-   ]
-  },
-  {
-   "title": "Procès Aramburu: une semaine à charge pour Romain Bouvier et Loïk Le Priol, les deux principaux accusés",
-   "url": "https://www.leparisien.fr/faits-divers/cest-tempete-sous-un-crane-alcoolise-dans-la-tete-de-loik-le-priol-le-soir-de-lassassinat-daramburu-17-09-2026-5RALTJACPVDEZEJHJQ6X46D7XU.php",
-   "n_members": 22,
-   "n_sources": 15,
-   "counts": {
-    "left": 4,
-    "centre": 8,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 8,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": -0.143,
-   "blindspot_for": null,
-   "divergence": 0.763,
-   "category": "société",
-   "terms_left": [
-    "assassinat",
-    "extrême",
-    "cour"
-   ],
-   "terms_right": [
-    "stress post-traumatique",
-    "stress",
-    "aramburu"
-   ]
-  },
-  {
-   "title": "États-Unis : le Kennedy Center en passe d’être démoli ?",
-   "url": "https://www.humanite.fr/monde/donald-trump/midterms-comment-les-republicains-tentent-de-confisquer-le-vote-des-americains",
-   "n_members": 28,
-   "n_sources": 14,
-   "counts": {
-    "left": 4,
-    "centre": 8,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": -0.333,
-   "blindspot_for": null,
-   "divergence": 0.948,
-   "category": "international",
-   "terms_left": [
-    "trump",
-    "donald",
-    "donald trump"
-   ],
-   "terms_right": [
-    "états-unis",
-    "américaine",
-    "tensions"
    ]
   },
   {
@@ -679,70 +686,18 @@
    ]
   },
   {
-   "title": "Oise : deux hommes blessés après des tirs près d’une école primaire à l’heure de la sortie des classes",
-   "url": "https://www.ouest-france.fr/societe/faits-divers/des-coups-de-feu-tires-pendant-a-proximite-dune-ecole-dans-loise-deux-personnes-blessees-des-eleves-confines-4a9c1022-b2cd-11f1-bc32-13ddcee9efa7",
-   "n_members": 21,
-   "n_sources": 12,
-   "counts": {
-    "left": 0,
-    "centre": 7,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 1,
-    "opinion": 2
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Budget 2027 : Lecornu propose un gel du point d'indice des fonctionnaires, colère des syndicats",
-   "url": "https://www.liberation.fr/economie/social/gel-du-point-dindice-des-fonctionnaires-dans-le-budget-2027-sophie-binet-denonce-un-scandale-et-promet-une-journee-noire-le-29-septembre-20260917_CLM5XBZ6SJHMXJE5P7B4XF3MSE/",
-   "n_members": 17,
-   "n_sources": 12,
-   "counts": {
-    "left": 2,
-    "centre": 4,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 6,
-    "mixte": 5,
-    "opinion": 1
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.477,
-   "category": "économie",
-   "terms_left": [
-    "ministre sébastien",
-    "ministre",
-    "point"
-   ],
-   "terms_right": [
-    "milliards",
-    "projet",
-    "économies"
-   ]
-  },
-  {
-   "title": "Des chercheurs ont piraté OpenAI en utilisant une IA d'Anthropic",
+   "title": "OpenAI : des chercheurs piratent des comptes ChatGPT avec l'aide d'une IA concurrente",
    "url": "https://www.la-croix.com/societe/openai-anthropic-et-google-travaillent-a-la-creation-d-un-organe-de-supervision-des-risques-ia-20260915",
-   "n_members": 14,
-   "n_sources": 12,
+   "n_members": 15,
+   "n_sources": 13,
    "counts": {
     "left": 1,
-    "centre": 7,
+    "centre": 8,
     "right": 4
    },
    "style_counts": {
     "factuel": 6,
-    "mixte": 5,
+    "mixte": 6,
     "opinion": 1
    },
    "blindspot_score": 0.6,
@@ -753,9 +708,61 @@
    "terms_right": []
   },
   {
+   "title": "Au Yémen, les combats entre forces gouvernementales et les Houthis font 63 morts en 24 heures",
+   "url": "https://www.liberation.fr/international/moyen-orient/yemen-comment-les-houthis-sont-parvenus-a-humilier-larabie-saoudite-20260917_F5K4LO42SFGLJMPZCK2IM24ADE/",
+   "n_members": 20,
+   "n_sources": 12,
+   "counts": {
+    "left": 3,
+    "centre": 7,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 8,
+    "mixte": 4,
+    "opinion": 0
+   },
+   "blindspot_score": -0.2,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Charles III met en garde contre les «risques existentiels» liés à l'intelligence artificielle",
+   "url": "https://www.lemonde.fr/international/article/2026/09/17/au-royaume-uni-charles-iii-relais-des-inquietudes-mondiales-sur-l-emballement-de-l-ia_6776479_3210.html",
+   "n_members": 15,
+   "n_sources": 12,
+   "counts": {
+    "left": 2,
+    "centre": 8,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 7,
+    "mixte": 4,
+    "opinion": 1
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.868,
+   "category": "sciences-tech",
+   "terms_left": [
+    "intelligence",
+    "artificielle",
+    "intelligence artificielle"
+   ],
+   "terms_right": [
+    "contrôle",
+    "jours",
+    "ia"
+   ]
+  },
+  {
    "title": "Groenland: Donald Trump annonce un accord pour renforcer la présence militaire américaine",
-   "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/donald-trump/un-controle-permanent-donald-trump-annonce-un-accord-avec-le-danemark-et-le-groenland-sur-la-securite-du-territoire-arctique_AD-202609180895.html",
-   "n_members": 12,
+   "url": "https://www.lefigaro.fr/international/le-danemark-salue-l-accord-sur-le-groenland-bon-pour-l-otan-et-l-europe-20260919",
+   "n_members": 14,
    "n_sources": 12,
    "counts": {
     "left": 1,
@@ -775,63 +782,33 @@
    "terms_right": []
   },
   {
-   "title": "Charles III met en garde contre les «risques existentiels» liés à l'intelligence artificielle",
-   "url": "https://www.lemonde.fr/international/article/2026/09/17/au-royaume-uni-charles-iii-relais-des-inquietudes-mondiales-sur-l-emballement-de-l-ia_6776479_3210.html",
-   "n_members": 14,
-   "n_sources": 11,
-   "counts": {
-    "left": 2,
-    "centre": 7,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 6,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.868,
-   "category": "international",
-   "terms_left": [
-    "intelligence",
-    "artificielle",
-    "intelligence artificielle"
-   ],
-   "terms_right": [
-    "contrôle",
-    "jours",
-    "ia"
-   ]
-  },
-  {
    "title": "Drôme : le meurtrier de Zakaria, 15 ans, tué alors qu'il s'interposait lors d'une altercation, condamné à 15 ans de prison",
    "url": "https://www.valeursactuelles.com/clubvaleurs/regions/auvergne-rhone-alpes/drome/valence/faits-divers/meurtre-de-zakaria-a-romans-sur-isere-chronique-dune-violence-ordinaire-dans-le-quartier-de-la-monnaie",
-   "n_members": 12,
-   "n_sources": 11,
+   "n_members": 13,
+   "n_sources": 12,
    "counts": {
-    "left": 1,
+    "left": 2,
     "centre": 5,
     "right": 5
    },
    "style_counts": {
     "factuel": 7,
-    "mixte": 2,
+    "mixte": 3,
     "opinion": 2
    },
-   "blindspot_score": 0.667,
-   "blindspot_for": "gauche",
-   "divergence": 0.709,
-   "category": "faits-divers",
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.527,
+   "category": "société",
    "terms_left": [
     "famille",
-    "membres",
-    "membres famille"
+    "accusé",
+    "membres"
    ],
    "terms_right": [
-    "ans",
-    "zakaria",
-    "romans-sur-isère"
+    "condamné ans",
+    "auteur coup",
+    "coup mortel"
    ]
   },
   {
@@ -947,7 +924,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.595,
+   "divergence": 0.596,
    "category": "culture",
    "terms_left": [
     "budget",
@@ -959,28 +936,6 @@
     "présidente",
     "économies"
    ]
-  },
-  {
-   "title": "États-Unis. « Propagateurs de fausses informations » : Donald Trump interdit des médias d'accès à la Maison Blanche",
-   "url": "https://www.lemonde.fr/international/article/2026/09/18/donald-trump-annonce-interdire-avec-effet-immediat-l-acces-de-la-maison-blanche-aux-chaines-cnn-et-msnow-ainsi-qu-a-politico_6776841_3210.html",
-   "n_members": 11,
-   "n_sources": 10,
-   "counts": {
-    "left": 2,
-    "centre": 7,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 8,
-    "mixte": 2,
-    "opinion": 0
-   },
-   "blindspot_score": -0.333,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
   },
   {
    "title": "Catherine Ringer, à chaudes larmes : adieu à la voix des Rita Mitsouko",
@@ -1007,7 +962,7 @@
   {
    "title": "Visite du pape Léon XIV à Paris : le défi sécuritaire des forces de l’ordre",
    "url": "https://www.tf1info.fr/societe/dans-un-monde-en-crise-on-a-besoin-de-se-retrouver-dans-des-reperes-comment-expliquer-l-engouement-pour-la-visite-du-pape-2464794.html",
-   "n_members": 18,
+   "n_members": 19,
    "n_sources": 8,
    "counts": {
     "left": 1,
@@ -1023,28 +978,6 @@
    "blindspot_for": "gauche",
    "divergence": null,
    "category": "société",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Au Yémen, les combats entre forces gouvernementales et les Houthis font 63 morts en 24 heures",
-   "url": "https://www.liberation.fr/international/moyen-orient/yemen-comment-les-houthis-sont-parvenus-a-humilier-larabie-saoudite-20260917_F5K4LO42SFGLJMPZCK2IM24ADE/",
-   "n_members": 16,
-   "n_sources": 8,
-   "counts": {
-    "left": 2,
-    "centre": 5,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 6,
-    "mixte": 2,
-    "opinion": 0
-   },
-   "blindspot_score": -0.333,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
    "terms_left": [],
    "terms_right": []
   },
@@ -1089,6 +1022,72 @@
    "blindspot_for": "droite",
    "divergence": null,
    "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Une femme et son bébé tués en Seine-Saint-Denis, le conjoint placé en garde à vue",
+   "url": "https://www.leparisien.fr/seine-saint-denis-93/bobigny-93000/drancy-une-femme-et-son-bebe-dun-mois-tues-le-conjoint-soupconne-et-en-fuite-17-09-2026-YHSYOGHIBJGOTNVRK7RVFQM6GA.php",
+   "n_members": 9,
+   "n_sources": 8,
+   "counts": {
+    "left": 0,
+    "centre": 5,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 6,
+    "mixte": 1,
+    "opinion": 1
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "faits-divers",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "\"Une détérioration récente, préoccupante et généralisée\": la vaccination des enfants montre des signaux de reflux dans plusieurs pays d'Europe",
+   "url": "https://www.cnews.fr/node/1920129",
+   "n_members": 8,
+   "n_sources": 8,
+   "counts": {
+    "left": 1,
+    "centre": 5,
+    "right": 2
+   },
+   "style_counts": {
+    "factuel": 6,
+    "mixte": 1,
+    "opinion": 1
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "société",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Appel à manifester le 17 octobre : y a-t-il une réalité derrière cette tendance des réseaux sociaux ?",
+   "url": "https://www.nouvelobs.com/politique/20260915.OBS118256/appel-du-17-octobre-tiktok-va-t-il-reveiller-les-ronds-points.html",
+   "n_members": 8,
+   "n_sources": 8,
+   "counts": {
+    "left": 3,
+    "centre": 5,
+    "right": 0
+   },
+   "style_counts": {
+    "factuel": 5,
+    "mixte": 2,
+    "opinion": 1
+   },
+   "blindspot_score": -1.0,
+   "blindspot_for": "droite",
+   "divergence": null,
+   "category": "société",
    "terms_left": [],
    "terms_right": []
   }
