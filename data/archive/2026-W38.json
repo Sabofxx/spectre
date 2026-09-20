@@ -1,13 +1,13 @@
 {
  "week": "2026-W38",
- "generated_at": "2026-09-20T12:46:44+00:00",
+ "generated_at": "2026-09-20T16:39:29+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Lecornu présente un budget \"offensif\", avec 54 milliards d'économies",
    "url": "https://www.publicsenat.fr/actualites/politique/budget-bruno-retailleau-demande-au-gouvernement-le-retour-de-la-reforme-des-retraites",
-   "n_members": 123,
+   "n_members": 124,
    "n_sources": 35,
    "counts": {
     "left": 8,
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.238,
    "blindspot_for": null,
-   "divergence": 0.355,
+   "divergence": 0.351,
    "category": "politique",
    "terms_left": [
     "présidentielle",
-    "milliards économies",
-    "qu faut"
+    "loi",
+    "austérité"
    ],
    "terms_right": [
     "milliards euros",
@@ -81,17 +81,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.521,
+   "divergence": 0.497,
    "category": "politique",
    "terms_left": [
-    "coalition",
-    "législatives",
-    "présidentielle"
+    "présidentielle",
+    "violence",
+    "coalition"
    ],
    "terms_right": [
+    "gouvernement",
     "titre",
-    "titre conservatoire",
-    "conservatoire"
+    "titre conservatoire"
    ]
   },
   {
@@ -111,12 +111,12 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.764,
+   "divergence": 0.768,
    "category": "international",
    "terms_left": [
-    "etats-unis",
     "malgré",
-    "interdiction"
+    "interdiction",
+    "etats-unis"
    ],
    "terms_right": [
     "attal",
@@ -125,9 +125,9 @@
    ]
   },
   {
-   "title": "États-Unis. « Propagateurs de fausses informations » : Donald Trump interdit des médias d'accès à la Maison Blanche",
+   "title": "Une atteinte inédite à la presse : Donald Trump interdit l’accès à la Maison-Blanche à trois médias",
    "url": "https://www.humanite.fr/monde/donald-trump/midterms-comment-les-republicains-tentent-de-confisquer-le-vote-des-americains",
-   "n_members": 73,
+   "n_members": 74,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -141,12 +141,12 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.533,
+   "divergence": 0.519,
    "category": "international",
    "terms_left": [
+    "maison-blanche",
     "américains",
-    "chaînes",
-    "blanche chaînes"
+    "chaînes"
    ],
    "terms_right": [
     "msnow",
@@ -155,53 +155,23 @@
    ]
   },
   {
-   "title": "Carburants : les pêcheurs lèvent les blocages dans les ports de Méditerranée, mais menacent de reprendre la mobilisation",
-   "url": "https://www.nouvelobs.com/economie/20260915.OBS118251/pourquoi-des-pecheurs-bloquent-ils-un-depot-petrolier-a-fos-sur-mer.html",
-   "n_members": 58,
-   "n_sources": 26,
-   "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.57,
-   "category": "économie",
-   "terms_left": [
-    "catherine",
-    "catherine chabaud",
-    "chabaud"
-   ],
-   "terms_right": [
-    "mois",
-    "semaine",
-    "face"
-   ]
-  },
-  {
    "title": "Groenland : Donald Trump annonce un accord conférant aux États-Unis «un contrôle permanent sur la sécurité» de l'archipel",
    "url": "https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/trump-qualifie-les-avertissements-sur-l-ia-de-complot-malfaisant_194819",
-   "n_members": 50,
-   "n_sources": 26,
+   "n_members": 52,
+   "n_sources": 27,
    "counts": {
-    "left": 5,
+    "left": 6,
     "centre": 13,
     "right": 8
    },
    "style_counts": {
     "factuel": 15,
     "mixte": 9,
-    "opinion": 2
+    "opinion": 3
    },
-   "blindspot_score": 0.231,
+   "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.372,
+   "divergence": 0.352,
    "category": "international",
    "terms_left": [
     "obtenu contrôle",
@@ -215,39 +185,69 @@
    ]
   },
   {
-   "title": "La Russie subit une attaque de drones massive au dernier jour des législatives",
+   "title": "Russie : le maire de Moscou dénonce une attaque de drones majeure visant à «perturber les élections»",
    "url": "https://www.20minutes.fr/monde/ukraine/4246053-20260917-direct-guerre-ukraine-congres-americain-adopte-nouvelles-sanctions-contre-russie",
-   "n_members": 104,
-   "n_sources": 25,
+   "n_members": 118,
+   "n_sources": 26,
    "counts": {
-    "left": 6,
+    "left": 7,
     "centre": 12,
     "right": 7
    },
    "style_counts": {
     "factuel": 15,
     "mixte": 8,
-    "opinion": 2
+    "opinion": 3
    },
-   "blindspot_score": 0.077,
+   "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.515,
+   "divergence": 0.487,
    "category": "international",
    "terms_left": [
-    "direct",
     "guerre",
-    "ukrainiens"
+    "direct",
+    "guerre ukraine"
    ],
    "terms_right": [
+    "législatives",
     "russie",
-    "élections législatives",
-    "législatives"
+    "élections législatives"
+   ]
+  },
+  {
+   "title": "Carburants : les pêcheurs lèvent les blocages dans les ports de Méditerranée, mais menacent de reprendre la mobilisation",
+   "url": "https://www.nouvelobs.com/economie/20260915.OBS118251/pourquoi-des-pecheurs-bloquent-ils-un-depot-petrolier-a-fos-sur-mer.html",
+   "n_members": 59,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.587,
+   "category": "économie",
+   "terms_left": [
+    "catherine",
+    "catherine chabaud",
+    "chabaud"
+   ],
+   "terms_right": [
+    "semaine",
+    "mois",
+    "france"
    ]
   },
   {
    "title": "Consommation. Prix des carburants : un nouveau record atteint en France",
    "url": "https://www.nouvelobs.com/economie/20260916.OBS118307/la-flambee-du-prix-des-carburants-preoccupe-le-gouvernement-entre-difficulte-d-approvisionnement-et-inflation.html",
-   "n_members": 63,
+   "n_members": 65,
    "n_sources": 25,
    "counts": {
     "left": 3,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.651,
+   "divergence": 0.649,
    "category": "économie",
    "terms_left": [
     "publiques",
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.728,
+   "divergence": 0.729,
    "category": "économie",
    "terms_left": [
     "écologique",
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.401,
+   "divergence": 0.4,
    "category": "société",
    "terms_left": [
     "ministre intérieur",
@@ -332,6 +332,36 @@
     "nuñez violation",
     "plainte laurent",
     "christian estrosi"
+   ]
+  },
+  {
+   "title": "Économie, sécurité, IA... Ce que gagneraient le Canada et l'UE à devenir «membres associés»",
+   "url": "https://www.publicsenat.fr/actualites/politique/union-europeenne-ce-nest-pas-aux-etats-unis-de-choisir-les-orientations-geopolitiques-des-europeens-affirme-benjamin-haddad",
+   "n_members": 59,
+   "n_sources": 24,
+   "counts": {
+    "left": 6,
+    "centre": 10,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.478,
+   "category": "international",
+   "terms_left": [
+    "rapprochement",
+    "associé union",
+    "mark carney"
+   ],
+   "terms_right": [
+    "ue",
+    "canada",
+    "qu"
    ]
   },
   {
@@ -365,36 +395,6 @@
    ]
   },
   {
-   "title": "Trump en colère, «membre associé»... Ce qu'il faut savoir sur la proposition de l'Union européenne au Canada",
-   "url": "https://www.publicsenat.fr/actualites/politique/union-europeenne-ce-nest-pas-aux-etats-unis-de-choisir-les-orientations-geopolitiques-des-europeens-affirme-benjamin-haddad",
-   "n_members": 58,
-   "n_sources": 24,
-   "counts": {
-    "left": 6,
-    "centre": 10,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.442,
-   "category": "international",
-   "terms_left": [
-    "rapprochement",
-    "mark carney",
-    "carney"
-   ],
-   "terms_right": [
-    "canada",
-    "discours",
-    "qu"
-   ]
-  },
-  {
    "title": "Panique : des tirs à la sortie d'une école",
    "url": "https://www.ouest-france.fr/societe/faits-divers/des-coups-de-feu-tires-pendant-a-proximite-dune-ecole-dans-loise-deux-personnes-blessees-des-eleves-confines-4a9c1022-b2cd-11f1-bc32-13ddcee9efa7",
    "n_members": 52,
@@ -411,23 +411,113 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.842,
+   "divergence": 0.843,
    "category": "société",
    "terms_left": [
     "priol",
-    "loïk priol",
-    "loïk"
+    "loïk",
+    "loïk priol"
    ],
    "terms_right": [
-    "othman garrido",
     "garrido",
-    "othman"
+    "othman",
+    "othman garrido"
    ]
   },
   {
-   "title": "Présidentielle 2027 : Nicolas Dupont-Aignan promet de «décoloniser la France» en sortant de l'UE",
+   "title": "Allemagne : Friedrich Merz risque sa place de chancelier ce dimanche lors des élections régionales",
+   "url": "https://www.liberation.fr/international/europe/montee-de-lextreme-droite-en-allemagne-jurgen-klopp-ne-veut-pas-laisser-la-fierte-nationale-aux-mauvaises-personnes-20260917_2WH334ZWYNBBRMZSY6MLPXAGCU/",
+   "n_members": 52,
+   "n_sources": 24,
+   "counts": {
+    "left": 7,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.434,
+   "category": "international",
+   "terms_left": [
+    "droite",
+    "extrême droite",
+    "extrême"
+   ],
+   "terms_right": [
+    "urnes",
+    "parti",
+    "land"
+   ]
+  },
+  {
+   "title": "Budget : la dette publique va atteindre 121,7% du PIB en 2027, un niveau record",
+   "url": "https://www.lemonde.fr/politique/article/2026/09/17/la-charge-de-la-dette-premier-budget-de-l-etat-une-realite-a-nuancer_6776421_823448.html",
+   "n_members": 49,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 9,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.467,
+   "blindspot_for": null,
+   "divergence": 0.737,
+   "category": "économie",
+   "terms_left": [
+    "hausse",
+    "budget",
+    "publiques"
+   ],
+   "terms_right": [
+    "euros",
+    "pib",
+    "france"
+   ]
+  },
+  {
+   "title": "Saint-Pierre-et-Miquelon : Emmanuel Macron en visite ce samedi sur l'archipel français convoité par Donald Trump",
+   "url": "https://www.tf1info.fr/societe/dans-un-monde-en-crise-on-a-besoin-de-se-retrouver-dans-des-reperes-comment-expliquer-l-engouement-pour-la-visite-du-pape-2464794.html",
+   "n_members": 80,
+   "n_sources": 23,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.558,
+   "category": "international",
+   "terms_left": [
+    "atlantique nord",
+    "nord",
+    "atlantique"
+   ],
+   "terms_right": [
+    "xiv",
+    "visite",
+    "léon xiv"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 en France: l'ingénieur Jean-Marc Jancovici lance une assemblée citoyenne pour nourrir le débat",
    "url": "https://www.lemonde.fr/politique/article/2026/09/17/presidentielle-2027-les-candidats-desormais-interdits-de-campagne-dans-les-ecoles-annonce-le-ministre-de-l-education-nationale_6776416_823448.html",
-   "n_members": 62,
+   "n_members": 64,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -441,17 +531,17 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.751,
+   "divergence": 0.744,
    "category": "politique",
    "terms_left": [
     "citoyenne",
     "climatique",
-    "marine"
+    "climat"
    ],
    "terms_right": [
     "france",
-    "nicolas dupont-aignan",
-    "dupont-aignan"
+    "dupont-aignan",
+    "nicolas dupont-aignan"
    ]
   },
   {
@@ -471,7 +561,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.462,
+   "divergence": 0.461,
    "category": "faits-divers",
    "terms_left": [
     "écroué",
@@ -485,99 +575,9 @@
    ]
   },
   {
-   "title": "Budget : la dette publique de la France grimpera jusqu’à 121,7 % du PIB en 2027, un record",
-   "url": "https://www.lemonde.fr/politique/article/2026/09/17/la-charge-de-la-dette-premier-budget-de-l-etat-une-realite-a-nuancer_6776421_823448.html",
-   "n_members": 43,
-   "n_sources": 23,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.571,
-   "blindspot_for": null,
-   "divergence": 0.703,
-   "category": "économie",
-   "terms_left": [
-    "hausse",
-    "budget",
-    "alerte"
-   ],
-   "terms_right": [
-    "france",
-    "pib",
-    "euros"
-   ]
-  },
-  {
-   "title": "Saint-Pierre-et-Miquelon : Emmanuel Macron en visite ce samedi sur l'archipel français convoité par Donald Trump",
-   "url": "https://www.tf1info.fr/societe/dans-un-monde-en-crise-on-a-besoin-de-se-retrouver-dans-des-reperes-comment-expliquer-l-engouement-pour-la-visite-du-pape-2464794.html",
-   "n_members": 72,
-   "n_sources": 22,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.603,
-   "category": "international",
-   "terms_left": [
-    "atlantique nord",
-    "recevoir",
-    "souveraineté"
-   ],
-   "terms_right": [
-    "xiv",
-    "visite",
-    "léon xiv"
-   ]
-  },
-  {
-   "title": "Football : Kylian Mbappé quitte Nike et signe avec l'équipementier suisse On",
-   "url": "https://www.liberation.fr/sports/riner-et-langoisse-du-rn-mbappe-et-le-t-shirt-hommage-a-ceuta-les-deux-stars-critiquees-par-lextreme-droite-et-ses-allies-mediatiques-20260917_XBAAKQSCGFAMRPNTDWWYLZBE5Q/",
-   "n_members": 41,
-   "n_sources": 22,
-   "counts": {
-    "left": 4,
-    "centre": 10,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.549,
-   "category": "sport",
-   "terms_left": [
-    "équipe",
-    "france",
-    "équipe france"
-   ],
-   "terms_right": [
-    "nike",
-    "marque",
-    "suisse"
-   ]
-  },
-  {
    "title": "France Inter : la direction cède à la pression des syndicats et supprime l’édito de Charles Sapin",
    "url": "https://www.lejdd.fr/Societe/france-inter-la-direction-propose-de-remplacer-ledito-de-charles-sapin-par-un-debat-contradictoire-183729",
-   "n_members": 40,
+   "n_members": 44,
    "n_sources": 22,
    "counts": {
     "left": 6,
@@ -591,53 +591,53 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.237,
+   "divergence": 0.233,
    "category": "société",
    "terms_left": [
-    "directeur",
-    "adjoint",
-    "directeur adjoint"
+    "arrivée",
+    "éditorialiste",
+    "droite"
    ],
    "terms_right": [
+    "édito",
     "suppression",
-    "suppression édito",
-    "édito hebdomadaire"
+    "édito charles"
    ]
   },
   {
-   "title": "Allemagne : Friedrich Merz risque sa place de chancelier ce dimanche lors des élections régionales",
-   "url": "https://www.liberation.fr/international/europe/montee-de-lextreme-droite-en-allemagne-jurgen-klopp-ne-veut-pas-laisser-la-fierte-nationale-aux-mauvaises-personnes-20260917_2WH334ZWYNBBRMZSY6MLPXAGCU/",
-   "n_members": 39,
+   "title": "Football : Kylian Mbappé quitte Nike et signe avec l'équipementier suisse On",
+   "url": "https://www.liberation.fr/sports/riner-et-langoisse-du-rn-mbappe-et-le-t-shirt-hommage-a-ceuta-les-deux-stars-critiquees-par-lextreme-droite-et-ses-allies-mediatiques-20260917_XBAAKQSCGFAMRPNTDWWYLZBE5Q/",
+   "n_members": 42,
    "n_sources": 22,
    "counts": {
-    "left": 7,
-    "centre": 9,
-    "right": 6
+    "left": 4,
+    "centre": 10,
+    "right": 8
    },
    "style_counts": {
-    "factuel": 12,
+    "factuel": 11,
     "mixte": 7,
-    "opinion": 3
+    "opinion": 4
    },
-   "blindspot_score": -0.077,
+   "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.501,
-   "category": "international",
+   "divergence": 0.539,
+   "category": "sport",
    "terms_left": [
-    "droite",
-    "scrutins",
-    "extrême droite"
+    "équipe",
+    "france",
+    "équipe france"
    ],
    "terms_right": [
-    "land",
-    "friedrich",
-    "friedrich merz"
+    "nike",
+    "marque",
+    "suisse"
    ]
   },
   {
    "title": "Zinédine Zidane dévoile une toute première liste pleine de nouveaux et de surprises avant les quatre matchs de Ligue des Nations avec les Bleus",
    "url": "https://www.leparisien.fr/sports/football/equipe-de-france/equipe-de-france-lepaul-truffert-jacquet-quels-pourraient-etre-les-nouveaux-visages-de-la-premiere-liste-de-zidane-17-09-2026-YEWBEM6EGZDDJB2XXLMNIFAO2M.php",
-   "n_members": 71,
+   "n_members": 72,
    "n_sources": 21,
    "counts": {
     "left": 4,
@@ -654,13 +654,13 @@
    "divergence": 0.387,
    "category": "sport",
    "terms_left": [
+    "matchs ligue",
     "fin",
-    "parmi",
-    "liste tête"
+    "parmi"
    ],
    "terms_right": [
+    "liste",
     "lepaul",
-    "zidane",
     "équipe"
    ]
   },
@@ -692,6 +692,36 @@
     "rouleurs",
     "prix",
     "aide"
+   ]
+  },
+  {
+   "title": "Dans la tourmente, Ed Sheeran dénonce la situation à Gaza et reconnaît \"des erreurs\"",
+   "url": "https://www.blast-info.fr/articles/2026/cancel-culture-ed-sheeran-ecarte-le-rappeur-macklemore-de-sa-tournee-sous-pression-du-lobby-sioniste-5QBbCe1kTU6Uauh4klGz_Q",
+   "n_members": 32,
+   "n_sources": 21,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 4,
+    "opinion": 1
+   },
+   "blindspot_score": -0.25,
+   "blindspot_for": null,
+   "divergence": 0.485,
+   "category": "culture",
+   "terms_left": [
+    "rappeur",
+    "rappeur macklemore",
+    "macklemore"
+   ],
+   "terms_right": [
+    "gaza",
+    "britannique",
+    "palestine"
    ]
   },
   {
@@ -741,7 +771,7 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.579,
+   "divergence": 0.57,
    "category": "faits-divers",
    "terms_left": [
     "père condamné",
@@ -771,7 +801,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.634,
+   "divergence": 0.635,
    "category": "faits-divers",
    "terms_left": [
     "calme",
@@ -782,36 +812,6 @@
     "police",
     "collision",
     "moto"
-   ]
-  },
-  {
-   "title": "Dans la tourmente, Ed Sheeran dénonce la situation à Gaza et reconnaît \"des erreurs\"",
-   "url": "https://www.blast-info.fr/articles/2026/cancel-culture-ed-sheeran-ecarte-le-rappeur-macklemore-de-sa-tournee-sous-pression-du-lobby-sioniste-5QBbCe1kTU6Uauh4klGz_Q",
-   "n_members": 29,
-   "n_sources": 18,
-   "counts": {
-    "left": 5,
-    "centre": 10,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": -0.25,
-   "blindspot_for": null,
-   "divergence": 0.483,
-   "category": "culture",
-   "terms_left": [
-    "rappeur",
-    "rappeur macklemore",
-    "macklemore"
-   ],
-   "terms_right": [
-    "gaza",
-    "britannique",
-    "palestine"
    ]
   },
   {
@@ -831,7 +831,7 @@
    },
    "blindspot_score": -0.333,
    "blindspot_for": null,
-   "divergence": 0.622,
+   "divergence": 0.621,
    "category": "société",
    "terms_left": [
     "ministre",
@@ -905,6 +905,96 @@
    ]
   },
   {
+   "title": "Moyen-Orient: Washington craint \"une escalade rapide\" après une attaque sur Ryad",
+   "url": "https://www.lefigaro.fr/international/l-iran-frappe-un-petrolier-dans-le-secteur-d-ormuz-20260918",
+   "n_members": 39,
+   "n_sources": 16,
+   "counts": {
+    "left": 2,
+    "centre": 9,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 3,
+    "opinion": 2
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.647,
+   "category": "international",
+   "terms_left": [
+    "fois",
+    "jours",
+    "derniers"
+   ],
+   "terms_right": [
+    "ryad",
+    "houthis",
+    "explosions"
+   ]
+  },
+  {
+   "title": "Au Yémen, les combats entre forces gouvernementales et les Houthis font 63 morts en 24 heures",
+   "url": "https://www.liberation.fr/international/moyen-orient/yemen-comment-les-houthis-sont-parvenus-a-humilier-larabie-saoudite-20260917_F5K4LO42SFGLJMPZCK2IM24ADE/",
+   "n_members": 38,
+   "n_sources": 16,
+   "counts": {
+    "left": 5,
+    "centre": 8,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 5,
+    "opinion": 2
+   },
+   "blindspot_score": -0.25,
+   "blindspot_for": null,
+   "divergence": 0.842,
+   "category": "international",
+   "terms_left": [
+    "yémen",
+    "guerre",
+    "ans"
+   ],
+   "terms_right": [
+    "police",
+    "général police",
+    "quartier général"
+   ]
+  },
+  {
+   "title": "Un aumônier militaire appelle \"les gauchistes\" à se calmer lors d'une messe à Carcassonne, une procédure disciplinaire engagée",
+   "url": "https://lcp.fr/actualites/un-homme-jete-a-terre-a-carcassonne-par-la-police-la-gauche-denonce-des-images",
+   "n_members": 21,
+   "n_sources": 16,
+   "counts": {
+    "left": 4,
+    "centre": 7,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 3,
+    "opinion": 4
+   },
+   "blindspot_score": 0.111,
+   "blindspot_for": null,
+   "divergence": 0.517,
+   "category": "société",
+   "terms_left": [
+    "propos",
+    "grand",
+    "devant"
+   ],
+   "terms_right": [
+    "disciplinaire",
+    "militaire",
+    "aumônier"
+   ]
+  },
+  {
    "title": "Des chercheurs ont piraté OpenAI en utilisant une IA d'Anthropic",
    "url": "https://www.la-croix.com/societe/openai-anthropic-et-google-travaillent-a-la-creation-d-un-organe-de-supervision-des-risques-ia-20260915",
    "n_members": 21,
@@ -949,94 +1039,56 @@
    "terms_right": []
   },
   {
-   "title": "Au Yémen, les combats entre forces gouvernementales et les Houthis font 63 morts en 24 heures",
-   "url": "https://www.liberation.fr/international/moyen-orient/yemen-comment-les-houthis-sont-parvenus-a-humilier-larabie-saoudite-20260917_F5K4LO42SFGLJMPZCK2IM24ADE/",
-   "n_members": 37,
+   "title": "Loi sur la présomption d’usage des armes : Laurent Nuñez appelle à la « particulière vigilance » lors des manifestations",
+   "url": "https://www.liberation.fr/societe/police-justice/le-message-aujourdhui-est-lunite-les-gauches-rassemblees-contre-la-presomption-de-legitime-defense-des-forces-de-lordre-20260919_IL47FQRNYBBHHBAWA34AWVKSXQ/",
+   "n_members": 25,
    "n_sources": 15,
    "counts": {
-    "left": 4,
-    "centre": 8,
-    "right": 3
+    "left": 3,
+    "centre": 6,
+    "right": 6
    },
    "style_counts": {
-    "factuel": 9,
-    "mixte": 4,
-    "opinion": 2
-   },
-   "blindspot_score": -0.143,
-   "blindspot_for": null,
-   "divergence": 0.841,
-   "category": "international",
-   "terms_left": [
-    "yémen",
-    "guerre",
-    "ans"
-   ],
-   "terms_right": [
-    "police",
-    "général police",
-    "quartier général"
-   ]
-  },
-  {
-   "title": "Arabie saoudite: fumée et flammes près de l'aéroport de Ryad, le trafic aérien perturbé",
-   "url": "https://www.lemonde.fr/international/article/2026/09/19/arabie-saoudite-des-explosions-entendues-a-riyad-apres-une-alerte-aerienne_6777045_3210.html",
-   "n_members": 26,
-   "n_sources": 15,
-   "counts": {
-    "left": 2,
-    "centre": 9,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 3,
+    "factuel": 8,
+    "mixte": 5,
     "opinion": 2
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.697,
-   "category": "international",
+   "divergence": 0.488,
+   "category": "société",
    "terms_left": [
-    "fois",
-    "combattants",
-    "jours"
+    "défense",
+    "présomption légitime",
+    "légitime défense"
    ],
    "terms_right": [
-    "ryad",
-    "explosions",
-    "houthis"
+    "armes",
+    "loi",
+    "manifestations"
    ]
   },
   {
-   "title": "Un aumônier militaire appelle \"les gauchistes\" à se calmer lors d'une messe à Carcassonne, une procédure disciplinaire engagée",
-   "url": "https://lcp.fr/actualites/un-homme-jete-a-terre-a-carcassonne-par-la-police-la-gauche-denonce-des-images",
-   "n_members": 20,
+   "title": "Logement : les APL seront «gelées» l'an prochain, annonce le ministre",
+   "url": "https://lcp.fr/actualites/logement-le-ministre-vincent-jeanbrun-veut-mettre-en-oeuvre-des-jeux-olympiques-du",
+   "n_members": 19,
    "n_sources": 15,
    "counts": {
-    "left": 4,
-    "centre": 7,
-    "right": 4
+    "left": 1,
+    "centre": 8,
+    "right": 6
    },
    "style_counts": {
-    "factuel": 9,
+    "factuel": 11,
     "mixte": 3,
-    "opinion": 3
+    "opinion": 1
    },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.519,
-   "category": "société",
-   "terms_left": [
-    "devant",
-    "grand",
-    "racistes"
-   ],
-   "terms_right": [
-    "disciplinaire",
-    "militaire",
-    "procédure disciplinaire"
-   ]
+   "blindspot_score": 0.714,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "économie",
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Charles III met en garde contre les «risques existentiels» liés à l'intelligence artificielle",
@@ -1055,11 +1107,11 @@
    },
    "blindspot_score": -0.2,
    "blindspot_for": null,
-   "divergence": 0.879,
+   "divergence": 0.887,
    "category": "sciences-tech",
    "terms_left": [
-    "intelligence artificielle",
     "artificielle",
+    "intelligence artificielle",
     "intelligence"
    ],
    "terms_right": [
@@ -1067,28 +1119,6 @@
     "iii",
     "charles"
    ]
-  },
-  {
-   "title": "Logement : les APL seront «gelées» l'an prochain, annonce le ministre",
-   "url": "https://lcp.fr/actualites/logement-le-ministre-vincent-jeanbrun-veut-mettre-en-oeuvre-des-jeux-olympiques-du",
-   "n_members": 17,
-   "n_sources": 14,
-   "counts": {
-    "left": 1,
-    "centre": 8,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 3,
-    "opinion": 1
-   },
-   "blindspot_score": 0.667,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "économie",
-   "terms_left": [],
-   "terms_right": []
   },
   {
    "title": "Ligue Europa: L'OM \"logiquement sanctionné\", selon Genesio",
@@ -1113,39 +1143,9 @@
    "terms_right": []
   },
   {
-   "title": "Première pour Abline, la surprise Diop… découvrez la composition de l’AS Monaco pour la réception de Lens",
-   "url": "https://www.nicematin.com/guide-conso/monaco-lens-a-quelle-heure-et-sur-quelle-chaine-voir-le-choc-en-direct-10725250",
-   "n_members": 30,
-   "n_sources": 13,
-   "counts": {
-    "left": 1,
-    "centre": 7,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 8,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": 0.667,
-   "blindspot_for": "gauche",
-   "divergence": 0.806,
-   "category": "sport",
-   "terms_left": [
-    "match",
-    "jonathan",
-    "ancien"
-   ],
-   "terms_right": [
-    "monaco",
-    "qu",
-    "tony parker"
-   ]
-  },
-  {
    "title": "CARTE. Journées du patrimoine 2026 : voici tous les sites exceptionnellement ouverts en France ce week-end",
    "url": "https://www.ladepeche.fr/2026/09/17/monastere-dynamite-chateau-prive-ouvert-abbaye-habitee-par-des-moniales-quelles-sont-les-visites-insolites-a-faire-lors-des-journees-du-patrimoine-en-13552431.php",
-   "n_members": 30,
+   "n_members": 31,
    "n_sources": 13,
    "counts": {
     "left": 2,
