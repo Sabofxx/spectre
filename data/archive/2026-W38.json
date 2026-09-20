@@ -1,13 +1,13 @@
 {
  "week": "2026-W38",
- "generated_at": "2026-09-20T16:39:29+00:00",
+ "generated_at": "2026-09-20T19:12:16+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "Lecornu présente un budget \"offensif\", avec 54 milliards d'économies",
+   "title": "Budget 2027 : de 30 à 54 milliards d’euros d'effort budgétaire, le grand écart de Lecornu",
    "url": "https://www.publicsenat.fr/actualites/politique/budget-bruno-retailleau-demande-au-gouvernement-le-retour-de-la-reforme-des-retraites",
-   "n_members": 124,
+   "n_members": 125,
    "n_sources": 35,
    "counts": {
     "left": 8,
@@ -21,23 +21,23 @@
    },
    "blindspot_score": 0.238,
    "blindspot_for": null,
-   "divergence": 0.351,
+   "divergence": 0.34,
    "category": "politique",
    "terms_left": [
-    "présidentielle",
     "loi",
+    "milliards économies",
     "austérité"
    ],
    "terms_right": [
     "milliards euros",
-    "économies",
-    "euros économies"
+    "effort",
+    "économies"
    ]
   },
   {
    "title": "DIRECT. Situation géopolitique et carburants: les chefs de parti vont être reçus par Emmanuel Macron à l'Élysée",
    "url": "https://information.tv5monde.com/international/le-president-libanais-veut-un-accord-de-securite-avec-israel-qui-pourrait-preluder-la-paix-2837774",
-   "n_members": 109,
+   "n_members": 110,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.491,
+   "divergence": 0.492,
    "category": "politique",
    "terms_left": [
     "elysée",
@@ -84,14 +84,14 @@
    "divergence": 0.497,
    "category": "politique",
    "terms_left": [
+    "primaire gauche",
     "présidentielle",
-    "violence",
-    "coalition"
+    "violence"
    ],
    "terms_right": [
     "gouvernement",
     "titre",
-    "titre conservatoire"
+    "face"
    ]
   },
   {
@@ -111,17 +111,47 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.768,
+   "divergence": 0.728,
    "category": "international",
    "terms_left": [
+    "etats-unis",
     "malgré",
-    "interdiction",
-    "etats-unis"
+    "interdiction"
    ],
    "terms_right": [
     "attal",
     "états-unis",
-    "face"
+    "europe"
+   ]
+  },
+  {
+   "title": "Russie : ce que l'on sait de l'attaque «sans précédent» de drones ukrainiens au dernier jour des législatives",
+   "url": "https://www.20minutes.fr/monde/ukraine/4246053-20260917-direct-guerre-ukraine-congres-americain-adopte-nouvelles-sanctions-contre-russie",
+   "n_members": 130,
+   "n_sources": 27,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.459,
+   "category": "international",
+   "terms_left": [
+    "guerre",
+    "direct",
+    "guerre ukraine"
+   ],
+   "terms_right": [
+    "élections législatives",
+    "perturber",
+    "législatives"
    ]
   },
   {
@@ -141,7 +171,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.519,
+   "divergence": 0.518,
    "category": "international",
    "terms_left": [
     "maison-blanche",
@@ -152,6 +182,36 @@
     "msnow",
     "maison",
     "annoncé"
+   ]
+  },
+  {
+   "title": "Élections régionales en Allemagne : Friedrich Merz fragilisé par la poussée de l’AfD",
+   "url": "https://www.liberation.fr/international/europe/montee-de-lextreme-droite-en-allemagne-jurgen-klopp-ne-veut-pas-laisser-la-fierte-nationale-aux-mauvaises-personnes-20260917_2WH334ZWYNBBRMZSY6MLPXAGCU/",
+   "n_members": 69,
+   "n_sources": 27,
+   "counts": {
+    "left": 7,
+    "centre": 10,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": 0.176,
+   "blindspot_for": null,
+   "divergence": 0.339,
+   "category": "international",
+   "terms_left": [
+    "scrutins",
+    "mecklembourg-poméranie-occidentale",
+    "mecklembourg"
+   ],
+   "terms_right": [
+    "cdu",
+    "régionales allemagne",
+    "parti"
    ]
   },
   {
@@ -185,39 +245,39 @@
    ]
   },
   {
-   "title": "Russie : le maire de Moscou dénonce une attaque de drones majeure visant à «perturber les élections»",
-   "url": "https://www.20minutes.fr/monde/ukraine/4246053-20260917-direct-guerre-ukraine-congres-americain-adopte-nouvelles-sanctions-contre-russie",
-   "n_members": 118,
+   "title": "Consommation. Prix des carburants : un nouveau record atteint en France",
+   "url": "https://www.nouvelobs.com/economie/20260916.OBS118307/la-flambee-du-prix-des-carburants-preoccupe-le-gouvernement-entre-difficulte-d-approvisionnement-et-inflation.html",
+   "n_members": 68,
    "n_sources": 26,
    "counts": {
-    "left": 7,
-    "centre": 12,
-    "right": 7
+    "left": 3,
+    "centre": 11,
+    "right": 12
    },
    "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 3
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 5
    },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.487,
-   "category": "international",
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": 0.646,
+   "category": "économie",
    "terms_left": [
-    "guerre",
-    "direct",
-    "guerre ukraine"
+    "publiques",
+    "euros moyenne",
+    "gouvernement"
    ],
    "terms_right": [
-    "législatives",
-    "russie",
-    "élections législatives"
+    "euros",
+    "france",
+    "litre"
    ]
   },
   {
-   "title": "Carburants : les pêcheurs lèvent les blocages dans les ports de Méditerranée, mais menacent de reprendre la mobilisation",
+   "title": "Carburants, réglementation... Les pêcheurs appellent le gouvernement à «prendre ses responsabilités»",
    "url": "https://www.nouvelobs.com/economie/20260915.OBS118251/pourquoi-des-pecheurs-bloquent-ils-un-depot-petrolier-a-fos-sur-mer.html",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -231,47 +291,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.587,
+   "divergence": 0.601,
    "category": "économie",
    "terms_left": [
-    "catherine",
-    "catherine chabaud",
-    "chabaud"
+    "pêcheurs",
+    "blocages",
+    "cours"
    ],
    "terms_right": [
+    "face",
     "semaine",
-    "mois",
-    "france"
-   ]
-  },
-  {
-   "title": "Consommation. Prix des carburants : un nouveau record atteint en France",
-   "url": "https://www.nouvelobs.com/economie/20260916.OBS118307/la-flambee-du-prix-des-carburants-preoccupe-le-gouvernement-entre-difficulte-d-approvisionnement-et-inflation.html",
-   "n_members": 65,
-   "n_sources": 25,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 5
-   },
-   "blindspot_score": 0.571,
-   "blindspot_for": null,
-   "divergence": 0.649,
-   "category": "économie",
-   "terms_left": [
-    "publiques",
-    "euros moyenne",
-    "gouvernement"
-   ],
-   "terms_right": [
-    "euros",
-    "litre",
-    "français"
+    "carburants"
    ]
   },
   {
@@ -291,17 +321,77 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.729,
+   "divergence": 0.703,
    "category": "économie",
    "terms_left": [
     "écologique",
     "transition",
-    "pouvoir"
+    "année"
    ],
    "terms_right": [
     "milliards",
     "carburants",
     "prix"
+   ]
+  },
+  {
+   "title": "Budget 2027 : le gouvernement envisage un plafond de 3.000 euros pour l'abattement fiscal des retraités",
+   "url": "https://www.lemonde.fr/politique/article/2026/09/17/la-charge-de-la-dette-premier-budget-de-l-etat-une-realite-a-nuancer_6776421_823448.html",
+   "n_members": 52,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 10,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.467,
+   "blindspot_for": null,
+   "divergence": 0.736,
+   "category": "économie",
+   "terms_left": [
+    "hausse",
+    "budget",
+    "publiques"
+   ],
+   "terms_right": [
+    "euros",
+    "pib",
+    "france"
+   ]
+  },
+  {
+   "title": "Saint-Pierre-et-Miquelon : Emmanuel Macron en visite ce samedi sur l'archipel français convoité par Donald Trump",
+   "url": "https://www.tf1info.fr/societe/dans-un-monde-en-crise-on-a-besoin-de-se-retrouver-dans-des-reperes-comment-expliquer-l-engouement-pour-la-visite-du-pape-2464794.html",
+   "n_members": 88,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.527,
+   "category": "international",
+   "terms_left": [
+    "atlantique nord",
+    "nord",
+    "atlantique"
+   ],
+   "terms_right": [
+    "visite",
+    "xiv",
+    "léon xiv"
    ]
   },
   {
@@ -321,7 +411,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.4,
+   "divergence": 0.382,
    "category": "société",
    "terms_left": [
     "ministre intérieur",
@@ -332,6 +422,36 @@
     "nuñez violation",
     "plainte laurent",
     "christian estrosi"
+   ]
+  },
+  {
+   "title": "Russie: Moscou prend le contrôle des filiales de Nestlé, Auchan et de l'ex-Leroy Merlin",
+   "url": "https://www.lefigaro.fr/international/en-russie-comment-le-parti-de-vladimir-poutine-a-prepare-sa-victoire-annoncee-aux-legislatives-20260917",
+   "n_members": 60,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.535,
+   "category": "international",
+   "terms_left": [
+    "législatives",
+    "chine",
+    "actifs russes"
+   ],
+   "terms_right": [
+    "leroy merlin",
+    "leroy",
+    "france"
    ]
   },
   {
@@ -351,47 +471,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.478,
+   "divergence": 0.539,
    "category": "international",
    "terms_left": [
     "rapprochement",
-    "associé union",
-    "mark carney"
+    "mark carney",
+    "carney"
    ],
    "terms_right": [
-    "ue",
     "canada",
+    "ue",
     "qu"
-   ]
-  },
-  {
-   "title": "Russie: Moscou prend le contrôle des filiales de Nestlé, Auchan et de l'ex-Leroy Merlin",
-   "url": "https://www.lefigaro.fr/international/en-russie-comment-le-parti-de-vladimir-poutine-a-prepare-sa-victoire-annoncee-aux-legislatives-20260917",
-   "n_members": 59,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.538,
-   "category": "international",
-   "terms_left": [
-    "élections",
-    "législatives",
-    "chine"
-   ],
-   "terms_right": [
-    "leroy merlin",
-    "leroy",
-    "merlin"
    ]
   },
   {
@@ -411,7 +501,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.843,
+   "divergence": 0.846,
    "category": "société",
    "terms_left": [
     "priol",
@@ -419,99 +509,9 @@
     "loïk priol"
    ],
    "terms_right": [
+    "othman garrido",
     "garrido",
-    "othman",
-    "othman garrido"
-   ]
-  },
-  {
-   "title": "Allemagne : Friedrich Merz risque sa place de chancelier ce dimanche lors des élections régionales",
-   "url": "https://www.liberation.fr/international/europe/montee-de-lextreme-droite-en-allemagne-jurgen-klopp-ne-veut-pas-laisser-la-fierte-nationale-aux-mauvaises-personnes-20260917_2WH334ZWYNBBRMZSY6MLPXAGCU/",
-   "n_members": 52,
-   "n_sources": 24,
-   "counts": {
-    "left": 7,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.434,
-   "category": "international",
-   "terms_left": [
-    "droite",
-    "extrême droite",
-    "extrême"
-   ],
-   "terms_right": [
-    "urnes",
-    "parti",
-    "land"
-   ]
-  },
-  {
-   "title": "Budget : la dette publique va atteindre 121,7% du PIB en 2027, un niveau record",
-   "url": "https://www.lemonde.fr/politique/article/2026/09/17/la-charge-de-la-dette-premier-budget-de-l-etat-une-realite-a-nuancer_6776421_823448.html",
-   "n_members": 49,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 9,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.467,
-   "blindspot_for": null,
-   "divergence": 0.737,
-   "category": "économie",
-   "terms_left": [
-    "hausse",
-    "budget",
-    "publiques"
-   ],
-   "terms_right": [
-    "euros",
-    "pib",
-    "france"
-   ]
-  },
-  {
-   "title": "Saint-Pierre-et-Miquelon : Emmanuel Macron en visite ce samedi sur l'archipel français convoité par Donald Trump",
-   "url": "https://www.tf1info.fr/societe/dans-un-monde-en-crise-on-a-besoin-de-se-retrouver-dans-des-reperes-comment-expliquer-l-engouement-pour-la-visite-du-pape-2464794.html",
-   "n_members": 80,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.558,
-   "category": "international",
-   "terms_left": [
-    "atlantique nord",
-    "nord",
-    "atlantique"
-   ],
-   "terms_right": [
-    "xiv",
-    "visite",
-    "léon xiv"
+    "othman"
    ]
   },
   {
@@ -531,7 +531,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.744,
+   "divergence": 0.754,
    "category": "politique",
    "terms_left": [
     "citoyenne",
@@ -540,14 +540,14 @@
    ],
    "terms_right": [
     "france",
-    "dupont-aignan",
-    "nicolas dupont-aignan"
+    "nicolas dupont-aignan",
+    "dupont-aignan"
    ]
   },
   {
-   "title": "Ultradroite : un policier écroué pour préparation d’actes terroristes",
+   "title": "\"Ultradroite\", \"particulièrement préparé\"... Ce que l'on sait sur le projet d'action violente par un ado de 15 ans contre un lycée de Lyon",
    "url": "https://www.tf1info.fr/justice-faits-divers/info-tf1-lci-un-policier-des-yvelines-mis-en-examen-pour-preparation-d-un-acte-de-terrorisme-2464805.html",
-   "n_members": 44,
+   "n_members": 45,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -561,12 +561,12 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.461,
+   "divergence": 0.459,
    "category": "faits-divers",
    "terms_left": [
     "écroué",
-    "préparation",
-    "acte terroriste"
+    "acte terroriste",
+    "préparation"
    ],
    "terms_right": [
     "lycée",
@@ -575,9 +575,9 @@
    ]
   },
   {
-   "title": "France Inter : la direction cède à la pression des syndicats et supprime l’édito de Charles Sapin",
+   "title": "Charles Sapin annonce la « suppression » de son édito par France Inter : retour sur trois semaines de bras de fer à la radio publique",
    "url": "https://www.lejdd.fr/Societe/france-inter-la-direction-propose-de-remplacer-ledito-de-charles-sapin-par-un-debat-contradictoire-183729",
-   "n_members": 44,
+   "n_members": 45,
    "n_sources": 22,
    "counts": {
     "left": 6,
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.233,
+   "divergence": 0.23,
    "category": "société",
    "terms_left": [
     "arrivée",
@@ -600,14 +600,14 @@
    ],
    "terms_right": [
     "édito",
-    "suppression",
-    "édito charles"
+    "hebdomadaire",
+    "suppression"
    ]
   },
   {
    "title": "Football : Kylian Mbappé quitte Nike et signe avec l'équipementier suisse On",
    "url": "https://www.liberation.fr/sports/riner-et-langoisse-du-rn-mbappe-et-le-t-shirt-hommage-a-ceuta-les-deux-stars-critiquees-par-lextreme-droite-et-ses-allies-mediatiques-20260917_XBAAKQSCGFAMRPNTDWWYLZBE5Q/",
-   "n_members": 42,
+   "n_members": 43,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -637,7 +637,7 @@
   {
    "title": "Zinédine Zidane dévoile une toute première liste pleine de nouveaux et de surprises avant les quatre matchs de Ligue des Nations avec les Bleus",
    "url": "https://www.leparisien.fr/sports/football/equipe-de-france/equipe-de-france-lepaul-truffert-jacquet-quels-pourraient-etre-les-nouveaux-visages-de-la-premiere-liste-de-zidane-17-09-2026-YEWBEM6EGZDDJB2XXLMNIFAO2M.php",
-   "n_members": 72,
+   "n_members": 74,
    "n_sources": 21,
    "counts": {
     "left": 4,
@@ -651,7 +651,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.387,
+   "divergence": 0.39,
    "category": "sport",
    "terms_left": [
     "matchs ligue",
@@ -659,9 +659,9 @@
     "parmi"
    ],
    "terms_right": [
-    "liste",
     "lepaul",
-    "équipe"
+    "liste",
+    "france"
    ]
   },
   {
@@ -690,14 +690,14 @@
    ],
    "terms_right": [
     "rouleurs",
-    "prix",
-    "aide"
+    "aide",
+    "prix"
    ]
   },
   {
    "title": "Dans la tourmente, Ed Sheeran dénonce la situation à Gaza et reconnaît \"des erreurs\"",
    "url": "https://www.blast-info.fr/articles/2026/cancel-culture-ed-sheeran-ecarte-le-rappeur-macklemore-de-sa-tournee-sous-pression-du-lobby-sioniste-5QBbCe1kTU6Uauh4klGz_Q",
-   "n_members": 32,
+   "n_members": 33,
    "n_sources": 21,
    "counts": {
     "left": 5,
@@ -711,7 +711,7 @@
    },
    "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.485,
+   "divergence": 0.486,
    "category": "culture",
    "terms_left": [
     "rappeur",
@@ -741,7 +741,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.311,
+   "divergence": 0.31,
    "category": "culture",
    "terms_left": [
     "qu",
@@ -771,12 +771,12 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.57,
+   "divergence": 0.577,
    "category": "faits-divers",
    "terms_left": [
     "père condamné",
     "campagne",
-    "planter"
+    "bordeaux"
    ],
    "terms_right": [
     "ans",
@@ -785,9 +785,9 @@
    ]
   },
   {
-   "title": "Il tirait des coups de feu au guidon de sa moto: un homme \"menaçant\" tué par la police à Beauvais après avoir blessé un des agents venus l'interpeller",
+   "title": "Rodéo, policiers blessés, véhicules incendiés... Ce que l’on sait de la nuit d’émeutes à Saint-Pierre-des-Corps",
    "url": "https://www.ladepeche.fr/2026/09/16/depuis-2026-ca-tire-plus-ici-qua-marseille-fusillade-mortelle-a-toulouse-deux-guerres-de-territoires-qui-annoncent-dautres-morts-13553804.php",
-   "n_members": 60,
+   "n_members": 64,
    "n_sources": 18,
    "counts": {
     "left": 3,
@@ -801,7 +801,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.635,
+   "divergence": 0.644,
    "category": "faits-divers",
    "terms_left": [
     "calme",
@@ -831,16 +831,16 @@
    },
    "blindspot_score": -0.333,
    "blindspot_for": null,
-   "divergence": 0.621,
+   "divergence": 0.629,
    "category": "société",
    "terms_left": [
-    "ministre",
     "procès",
-    "jour"
+    "ministre",
+    "fois"
    ],
    "terms_right": [
-    "avocate",
     "jugée",
+    "avocate",
     "ghosn"
    ]
   },
@@ -861,17 +861,77 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.203,
+   "divergence": 0.201,
    "category": "société",
    "terms_left": [
     "alourdie appel",
     "avocats",
-    "pourvoi"
+    "pourvoi cassation"
    ],
    "terms_right": [
     "plaza condamné",
-    "plaza",
-    "paris"
+    "paris",
+    "plaza"
+   ]
+  },
+  {
+   "title": "Loi sur la présomption d'usage des armes: des milliers de manifestants défilent à Paris",
+   "url": "https://www.liberation.fr/societe/police-justice/le-message-aujourdhui-est-lunite-les-gauches-rassemblees-contre-la-presomption-de-legitime-defense-des-forces-de-lordre-20260919_IL47FQRNYBBHHBAWA34AWVKSXQ/",
+   "n_members": 31,
+   "n_sources": 17,
+   "counts": {
+    "left": 4,
+    "centre": 7,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.495,
+   "category": "société",
+   "terms_left": [
+    "défense",
+    "légitime défense",
+    "présomption légitime"
+   ],
+   "terms_right": [
+    "armes",
+    "manifestations",
+    "usage"
+   ]
+  },
+  {
+   "title": "Moyen-Orient: Washington craint \"une escalade rapide\" après une attaque sur Ryad",
+   "url": "https://www.lefigaro.fr/international/l-iran-frappe-un-petrolier-dans-le-secteur-d-ormuz-20260918",
+   "n_members": 44,
+   "n_sources": 16,
+   "counts": {
+    "left": 2,
+    "centre": 9,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 3,
+    "opinion": 2
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.654,
+   "category": "international",
+   "terms_left": [
+    "fois",
+    "jours",
+    "derniers"
+   ],
+   "terms_right": [
+    "ryad",
+    "houthis",
+    "explosions"
    ]
   },
   {
@@ -905,36 +965,6 @@
    ]
   },
   {
-   "title": "Moyen-Orient: Washington craint \"une escalade rapide\" après une attaque sur Ryad",
-   "url": "https://www.lefigaro.fr/international/l-iran-frappe-un-petrolier-dans-le-secteur-d-ormuz-20260918",
-   "n_members": 39,
-   "n_sources": 16,
-   "counts": {
-    "left": 2,
-    "centre": 9,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 3,
-    "opinion": 2
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": 0.647,
-   "category": "international",
-   "terms_left": [
-    "fois",
-    "jours",
-    "derniers"
-   ],
-   "terms_right": [
-    "ryad",
-    "houthis",
-    "explosions"
-   ]
-  },
-  {
    "title": "Au Yémen, les combats entre forces gouvernementales et les Houthis font 63 morts en 24 heures",
    "url": "https://www.liberation.fr/international/moyen-orient/yemen-comment-les-houthis-sont-parvenus-a-humilier-larabie-saoudite-20260917_F5K4LO42SFGLJMPZCK2IM24ADE/",
    "n_members": 38,
@@ -951,12 +981,12 @@
    },
    "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.842,
+   "divergence": 0.856,
    "category": "international",
    "terms_left": [
-    "yémen",
     "guerre",
-    "ans"
+    "yémen",
+    "houthis"
    ],
    "terms_right": [
     "police",
@@ -1039,33 +1069,33 @@
    "terms_right": []
   },
   {
-   "title": "Loi sur la présomption d’usage des armes : Laurent Nuñez appelle à la « particulière vigilance » lors des manifestations",
-   "url": "https://www.liberation.fr/societe/police-justice/le-message-aujourdhui-est-lunite-les-gauches-rassemblees-contre-la-presomption-de-legitime-defense-des-forces-de-lordre-20260919_IL47FQRNYBBHHBAWA34AWVKSXQ/",
-   "n_members": 25,
+   "title": "Charles III met en garde contre les «risques existentiels» liés à l'intelligence artificielle",
+   "url": "https://www.lemonde.fr/international/article/2026/09/17/au-royaume-uni-charles-iii-relais-des-inquietudes-mondiales-sur-l-emballement-de-l-ia_6776479_3210.html",
+   "n_members": 22,
    "n_sources": 15,
    "counts": {
     "left": 3,
-    "centre": 6,
-    "right": 6
+    "centre": 9,
+    "right": 3
    },
    "style_counts": {
     "factuel": 8,
-    "mixte": 5,
-    "opinion": 2
+    "mixte": 6,
+    "opinion": 1
    },
-   "blindspot_score": 0.333,
+   "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.488,
-   "category": "société",
+   "divergence": 0.869,
+   "category": "sciences-tech",
    "terms_left": [
-    "défense",
-    "présomption légitime",
-    "légitime défense"
+    "artificielle",
+    "intelligence artificielle",
+    "intelligence"
    ],
    "terms_right": [
-    "armes",
-    "loi",
-    "manifestations"
+    "charles iii",
+    "iii",
+    "charles"
    ]
   },
   {
@@ -1091,69 +1121,17 @@
    "terms_right": []
   },
   {
-   "title": "Charles III met en garde contre les «risques existentiels» liés à l'intelligence artificielle",
-   "url": "https://www.lemonde.fr/international/article/2026/09/17/au-royaume-uni-charles-iii-relais-des-inquietudes-mondiales-sur-l-emballement-de-l-ia_6776479_3210.html",
-   "n_members": 21,
+   "title": "CARTE. Journées du patrimoine 2026 : voici tous les sites exceptionnellement ouverts en France ce week-end",
+   "url": "https://www.ladepeche.fr/2026/09/17/monastere-dynamite-chateau-prive-ouvert-abbaye-habitee-par-des-moniales-quelles-sont-les-visites-insolites-a-faire-lors-des-journees-du-patrimoine-en-13552431.php",
+   "n_members": 32,
    "n_sources": 14,
    "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 8,
-    "mixte": 5,
-    "opinion": 1
-   },
-   "blindspot_score": -0.2,
-   "blindspot_for": null,
-   "divergence": 0.887,
-   "category": "sciences-tech",
-   "terms_left": [
-    "artificielle",
-    "intelligence artificielle",
-    "intelligence"
-   ],
-   "terms_right": [
-    "charles iii",
-    "iii",
-    "charles"
-   ]
-  },
-  {
-   "title": "Ligue Europa: L'OM \"logiquement sanctionné\", selon Genesio",
-   "url": "https://www.lefigaro.fr/sports/football/ligue-europa/besiktas-marseille-en-video-le-minot-keyliane-abdallah-marque-pour-sa-premiere-en-ligue-europa-20260917",
-   "n_members": 38,
-   "n_sources": 13,
-   "counts": {
-    "left": 1,
+    "left": 2,
     "centre": 8,
     "right": 4
    },
    "style_counts": {
     "factuel": 9,
-    "mixte": 3,
-    "opinion": 1
-   },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "CARTE. Journées du patrimoine 2026 : voici tous les sites exceptionnellement ouverts en France ce week-end",
-   "url": "https://www.ladepeche.fr/2026/09/17/monastere-dynamite-chateau-prive-ouvert-abbaye-habitee-par-des-moniales-quelles-sont-les-visites-insolites-a-faire-lors-des-journees-du-patrimoine-en-13552431.php",
-   "n_members": 31,
-   "n_sources": 13,
-   "counts": {
-    "left": 2,
-    "centre": 7,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 8,
     "mixte": 4,
     "opinion": 1
    },
@@ -1161,6 +1139,28 @@
    "blindspot_for": null,
    "divergence": null,
    "category": "culture",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Corée du Nord : ce que l'on sait des deux missiles tirés par Pyongyang dans la mer du Japon",
+   "url": "https://www.cnews.fr/monde/2026-09-17/ils-seraient-jusqua-100000-qui-sont-ces-nord-coreens-envoyes-letranger-par-le",
+   "n_members": 17,
+   "n_sources": 14,
+   "counts": {
+    "left": 0,
+    "centre": 9,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 1,
+    "opinion": 1
+   },
+   "blindspot_score": 1.0,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "international",
    "terms_left": [],
    "terms_right": []
   }
