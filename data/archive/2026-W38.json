@@ -1,13 +1,13 @@
 {
  "week": "2026-W38",
- "generated_at": "2026-09-20T21:43:02+00:00",
+ "generated_at": "2026-09-20T23:43:35+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "Budget 2027 : de 30 à 54 milliards d’euros d'effort budgétaire, le grand écart de Lecornu",
+   "title": "Budget 2027 : les retraites dans le viseur du gouvernement qui vise un effort budgétaire général de 54 milliards d'euros",
    "url": "https://www.publicsenat.fr/actualites/politique/budget-bruno-retailleau-demande-au-gouvernement-le-retour-de-la-reforme-des-retraites",
-   "n_members": 125,
+   "n_members": 126,
    "n_sources": 35,
    "counts": {
     "left": 8,
@@ -21,17 +21,17 @@
    },
    "blindspot_score": 0.238,
    "blindspot_for": null,
-   "divergence": 0.338,
+   "divergence": 0.332,
    "category": "politique",
    "terms_left": [
     "loi",
-    "milliards économies",
-    "austérité"
+    "austérité",
+    "faut"
    ],
    "terms_right": [
     "milliards euros",
     "économies",
-    "effort"
+    "euros économies"
    ]
   },
   {
@@ -157,7 +157,7 @@
   {
    "title": "Élections régionales en Allemagne : Friedrich Merz fragilisé par la poussée de l’AfD",
    "url": "https://www.liberation.fr/international/europe/montee-de-lextreme-droite-en-allemagne-jurgen-klopp-ne-veut-pas-laisser-la-fierte-nationale-aux-mauvaises-personnes-20260917_2WH334ZWYNBBRMZSY6MLPXAGCU/",
-   "n_members": 77,
+   "n_members": 79,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.346,
+   "divergence": 0.348,
    "category": "international",
    "terms_left": [
     "scrutins",
@@ -217,7 +217,7 @@
   {
    "title": "Groenland : Donald Trump annonce un accord conférant aux États-Unis «un contrôle permanent sur la sécurité» de l'archipel",
    "url": "https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/trump-qualifie-les-avertissements-sur-l-ia-de-complot-malfaisant_194819",
-   "n_members": 57,
+   "n_members": 60,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.362,
+   "divergence": 0.365,
    "category": "international",
    "terms_left": [
     "obtenu contrôle",
@@ -245,9 +245,9 @@
    ]
   },
   {
-   "title": "Consommation. Prix des carburants : un nouveau record atteint en France",
+   "title": "Carburants : le prix du gazole atteint un nouveau record en France, à près de 2,41 euros en moyenne",
    "url": "https://www.nouvelobs.com/economie/20260916.OBS118307/la-flambee-du-prix-des-carburants-preoccupe-le-gouvernement-entre-difficulte-d-approvisionnement-et-inflation.html",
-   "n_members": 68,
+   "n_members": 69,
    "n_sources": 26,
    "counts": {
     "left": 3,
@@ -305,6 +305,36 @@
    ]
   },
   {
+   "title": "Budget 2027 : le gouvernement envisage un plafond de 3.000 euros pour l'abattement fiscal des retraités",
+   "url": "https://www.lemonde.fr/politique/article/2026/09/17/la-charge-de-la-dette-premier-budget-de-l-etat-une-realite-a-nuancer_6776421_823448.html",
+   "n_members": 56,
+   "n_sources": 26,
+   "counts": {
+    "left": 4,
+    "centre": 10,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.742,
+   "category": "économie",
+   "terms_left": [
+    "hausse",
+    "budget",
+    "publiques"
+   ],
+   "terms_right": [
+    "euros",
+    "pib",
+    "france"
+   ]
+  },
+  {
    "title": "Budget 2027 : face aux 54 milliards d'euros d’économies, l'opposition dénonce un «budget de casse sociale»",
    "url": "https://www.liberation.fr/economie/social/gel-du-point-dindice-des-fonctionnaires-dans-le-budget-2027-sophie-binet-denonce-un-scandale-et-promet-une-journee-noire-le-29-septembre-20260917_CLM5XBZ6SJHMXJE5P7B4XF3MSE/",
    "n_members": 60,
@@ -335,39 +365,9 @@
    ]
   },
   {
-   "title": "Budget 2027 : le gouvernement envisage un plafond de 3.000 euros pour l'abattement fiscal des retraités",
-   "url": "https://www.lemonde.fr/politique/article/2026/09/17/la-charge-de-la-dette-premier-budget-de-l-etat-une-realite-a-nuancer_6776421_823448.html",
-   "n_members": 54,
-   "n_sources": 25,
-   "counts": {
-    "left": 4,
-    "centre": 10,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 4
-   },
-   "blindspot_score": 0.467,
-   "blindspot_for": null,
-   "divergence": 0.737,
-   "category": "économie",
-   "terms_left": [
-    "hausse",
-    "budget",
-    "publiques"
-   ],
-   "terms_right": [
-    "euros",
-    "pib",
-    "france"
-   ]
-  },
-  {
-   "title": "Saint-Pierre-et-Miquelon. Face à Trump, Macron réaffirme que l'archipel est « français »",
+   "title": "Saint-Pierre-et-Miquelon est \"fier d'être français\" : Macron répond à Trump depuis l'archipel",
    "url": "https://www.tf1info.fr/societe/dans-un-monde-en-crise-on-a-besoin-de-se-retrouver-dans-des-reperes-comment-expliquer-l-engouement-pour-la-visite-du-pape-2464794.html",
-   "n_members": 96,
+   "n_members": 97,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.5,
+   "divergence": 0.501,
    "category": "international",
    "terms_left": [
     "atlantique nord",
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.364,
+   "divergence": 0.351,
    "category": "société",
    "terms_left": [
     "diffusion",
@@ -471,12 +471,12 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.54,
+   "divergence": 0.532,
    "category": "international",
    "terms_left": [
-    "rapprochement",
     "mark carney",
-    "mark"
+    "mark",
+    "carney"
    ],
    "terms_right": [
     "canada",
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.851,
+   "divergence": 0.85,
    "category": "société",
    "terms_left": [
     "priol",
@@ -540,8 +540,8 @@
    ],
    "terms_right": [
     "france",
-    "dupont-aignan",
-    "nicolas dupont-aignan"
+    "nicolas dupont-aignan",
+    "dupont-aignan"
    ]
   },
   {
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.459,
+   "divergence": 0.41,
    "category": "faits-divers",
    "terms_left": [
     "écroué",
@@ -570,8 +570,38 @@
    ],
    "terms_right": [
     "lycée",
-    "ans",
-    "attaque"
+    "attaque",
+    "ans"
+   ]
+  },
+  {
+   "title": "Charles Sapin annonce la « suppression » de son édito par France Inter : retour sur trois semaines de bras de fer à la radio publique",
+   "url": "https://www.lejdd.fr/Societe/france-inter-la-direction-propose-de-remplacer-ledito-de-charles-sapin-par-un-debat-contradictoire-183729",
+   "n_members": 46,
+   "n_sources": 22,
+   "counts": {
+    "left": 6,
+    "centre": 9,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.23,
+   "category": "société",
+   "terms_left": [
+    "arrivée",
+    "éditorialiste",
+    "droite"
+   ],
+   "terms_right": [
+    "édito",
+    "hebdomadaire",
+    "suppression"
    ]
   },
   {
@@ -602,36 +632,6 @@
     "nike",
     "marque",
     "suisse"
-   ]
-  },
-  {
-   "title": "Charles Sapin annonce la « suppression » de son édito par France Inter : retour sur trois semaines de bras de fer à la radio publique",
-   "url": "https://www.lejdd.fr/Societe/france-inter-la-direction-propose-de-remplacer-ledito-de-charles-sapin-par-un-debat-contradictoire-183729",
-   "n_members": 45,
-   "n_sources": 22,
-   "counts": {
-    "left": 6,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 8,
-    "opinion": 5
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.23,
-   "category": "société",
-   "terms_left": [
-    "arrivée",
-    "éditorialiste",
-    "droite"
-   ],
-   "terms_right": [
-    "édito",
-    "hebdomadaire",
-    "suppression"
    ]
   },
   {
@@ -722,6 +722,36 @@
     "gaza",
     "britannique",
     "palestine"
+   ]
+  },
+  {
+   "title": "Paris: plusieurs milliers de manifestants contre la proposition de loi sur l’usage des armes par les forces de l’ordre",
+   "url": "https://www.radiofrance.fr/franceculture/podcasts/le-regard-culturel/le-regard-culturel-chronique-du-vendredi-18-septembre-2026-9708140",
+   "n_members": 41,
+   "n_sources": 20,
+   "counts": {
+    "left": 5,
+    "centre": 9,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.532,
+   "category": "société",
+   "terms_left": [
+    "défense",
+    "légitime défense",
+    "présomption légitime"
+   ],
+   "terms_right": [
+    "armes",
+    "usage",
+    "manifestations"
    ]
   },
   {
@@ -837,6 +867,36 @@
    "terms_right": []
   },
   {
+   "title": "IA et discours apocalyptiques : le jeu trouble des poids lourds du secteur",
+   "url": "https://www.lemonde.fr/international/article/2026/09/17/au-royaume-uni-charles-iii-relais-des-inquietudes-mondiales-sur-l-emballement-de-l-ia_6776479_3210.html",
+   "n_members": 25,
+   "n_sources": 18,
+   "counts": {
+    "left": 4,
+    "centre": 10,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 8,
+    "opinion": 1
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.832,
+   "category": "sciences-tech",
+   "terms_left": [
+    "intelligence",
+    "intelligence artificielle",
+    "artificielle"
+   ],
+   "terms_right": [
+    "charles iii",
+    "iii",
+    "charles"
+   ]
+  },
+  {
    "title": "Violences conjugales : Stéphane Plaza condamné en appel, sa peine alourdie",
    "url": "https://www.cnews.fr/faits-divers/2026-09-18/stephane-plaza-juge-pour-violences-conjugales-lex-animateur-risque-six-mois",
    "n_members": 21,
@@ -858,7 +918,7 @@
    "terms_left": [
     "alourdie appel",
     "avocats",
-    "pourvoi cassation"
+    "pourvoi"
    ],
    "terms_right": [
     "plaza condamné",
@@ -867,39 +927,9 @@
    ]
   },
   {
-   "title": "Loi sur la présomption d'usage des armes: des milliers de manifestants défilent à Paris",
-   "url": "https://www.liberation.fr/societe/police-justice/loi-instaurant-une-presomption-de-legitime-defense-tout-ceder-aux-policiers-cest-dune-grande-lachete-20260919_APVL7D546BEFNGJAQODEOB7KZM/",
-   "n_members": 33,
-   "n_sources": 17,
-   "counts": {
-    "left": 4,
-    "centre": 7,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.506,
-   "category": "société",
-   "terms_left": [
-    "défense",
-    "présomption légitime",
-    "légitime défense"
-   ],
-   "terms_right": [
-    "armes",
-    "usage",
-    "manifestations"
-   ]
-  },
-  {
    "title": "Moyen-Orient: Washington craint \"une escalade rapide\" après une attaque sur Ryad",
    "url": "https://www.lefigaro.fr/international/l-iran-frappe-un-petrolier-dans-le-secteur-d-ormuz-20260918",
-   "n_members": 47,
+   "n_members": 48,
    "n_sources": 16,
    "counts": {
     "left": 2,
@@ -913,7 +943,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.658,
+   "divergence": 0.664,
    "category": "international",
    "terms_left": [
     "riyad",
@@ -922,8 +952,8 @@
    ],
    "terms_right": [
     "ryad",
-    "houthis",
-    "trump"
+    "guerre",
+    "houthis"
    ]
   },
   {
@@ -943,7 +973,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.838,
+   "divergence": 0.839,
    "category": "politique",
    "terms_left": [
     "candidature",
@@ -984,36 +1014,6 @@
     "police",
     "général police",
     "quartier général"
-   ]
-  },
-  {
-   "title": "Inquiétude sincère ou intérêt économique ? Pourquoi les géants de l'IA réclament plus de régulation du secteur",
-   "url": "https://www.lemonde.fr/international/article/2026/09/17/au-royaume-uni-charles-iii-relais-des-inquietudes-mondiales-sur-l-emballement-de-l-ia_6776479_3210.html",
-   "n_members": 23,
-   "n_sources": 16,
-   "counts": {
-    "left": 3,
-    "centre": 10,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.861,
-   "category": "sciences-tech",
-   "terms_left": [
-    "intelligence",
-    "intelligence artificielle",
-    "artificielle"
-   ],
-   "terms_right": [
-    "garde",
-    "charles iii",
-    "iii"
    ]
   },
   {
@@ -1137,7 +1137,7 @@
   {
    "title": "CARTE. Journées du patrimoine 2026 : voici tous les sites exceptionnellement ouverts en France ce week-end",
    "url": "https://www.ladepeche.fr/2026/09/17/monastere-dynamite-chateau-prive-ouvert-abbaye-habitee-par-des-moniales-quelles-sont-les-visites-insolites-a-faire-lors-des-journees-du-patrimoine-en-13552431.php",
-   "n_members": 33,
+   "n_members": 37,
    "n_sources": 14,
    "counts": {
     "left": 2,
