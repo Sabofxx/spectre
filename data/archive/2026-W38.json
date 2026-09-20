@@ -1,6 +1,6 @@
 {
  "week": "2026-W38",
- "generated_at": "2026-09-20T19:12:16+00:00",
+ "generated_at": "2026-09-20T21:43:02+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.238,
    "blindspot_for": null,
-   "divergence": 0.34,
+   "divergence": 0.338,
    "category": "politique",
    "terms_left": [
     "loi",
@@ -30,8 +30,8 @@
    ],
    "terms_right": [
     "milliards euros",
-    "effort",
-    "économies"
+    "économies",
+    "effort"
    ]
   },
   {
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.492,
+   "divergence": 0.493,
    "category": "politique",
    "terms_left": [
     "elysée",
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.497,
+   "divergence": 0.499,
    "category": "politique",
    "terms_left": [
     "primaire gauche",
@@ -111,12 +111,12 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.728,
+   "divergence": 0.745,
    "category": "international",
    "terms_left": [
     "etats-unis",
-    "malgré",
-    "interdiction"
+    "interdiction",
+    "mineurs"
    ],
    "terms_right": [
     "attal",
@@ -127,7 +127,7 @@
   {
    "title": "Russie : ce que l'on sait de l'attaque «sans précédent» de drones ukrainiens au dernier jour des législatives",
    "url": "https://www.20minutes.fr/monde/ukraine/4246053-20260917-direct-guerre-ukraine-congres-americain-adopte-nouvelles-sanctions-contre-russie",
-   "n_members": 130,
+   "n_members": 138,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -141,17 +141,47 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.459,
+   "divergence": 0.454,
    "category": "international",
    "terms_left": [
-    "guerre",
     "direct",
+    "guerre",
     "guerre ukraine"
    ],
    "terms_right": [
-    "élections législatives",
     "perturber",
+    "élections législatives",
     "législatives"
+   ]
+  },
+  {
+   "title": "Élections régionales en Allemagne : Friedrich Merz fragilisé par la poussée de l’AfD",
+   "url": "https://www.liberation.fr/international/europe/montee-de-lextreme-droite-en-allemagne-jurgen-klopp-ne-veut-pas-laisser-la-fierte-nationale-aux-mauvaises-personnes-20260917_2WH334ZWYNBBRMZSY6MLPXAGCU/",
+   "n_members": 77,
+   "n_sources": 27,
+   "counts": {
+    "left": 7,
+    "centre": 10,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": 0.176,
+   "blindspot_for": null,
+   "divergence": 0.346,
+   "category": "international",
+   "terms_left": [
+    "scrutins",
+    "mecklembourg-poméranie-occidentale",
+    "mecklembourg"
+   ],
+   "terms_right": [
+    "cdu",
+    "parti",
+    "régionales allemagne"
    ]
   },
   {
@@ -171,7 +201,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.518,
+   "divergence": 0.52,
    "category": "international",
    "terms_left": [
     "maison-blanche",
@@ -185,39 +215,9 @@
    ]
   },
   {
-   "title": "Élections régionales en Allemagne : Friedrich Merz fragilisé par la poussée de l’AfD",
-   "url": "https://www.liberation.fr/international/europe/montee-de-lextreme-droite-en-allemagne-jurgen-klopp-ne-veut-pas-laisser-la-fierte-nationale-aux-mauvaises-personnes-20260917_2WH334ZWYNBBRMZSY6MLPXAGCU/",
-   "n_members": 69,
-   "n_sources": 27,
-   "counts": {
-    "left": 7,
-    "centre": 10,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 10,
-    "opinion": 4
-   },
-   "blindspot_score": 0.176,
-   "blindspot_for": null,
-   "divergence": 0.339,
-   "category": "international",
-   "terms_left": [
-    "scrutins",
-    "mecklembourg-poméranie-occidentale",
-    "mecklembourg"
-   ],
-   "terms_right": [
-    "cdu",
-    "régionales allemagne",
-    "parti"
-   ]
-  },
-  {
    "title": "Groenland : Donald Trump annonce un accord conférant aux États-Unis «un contrôle permanent sur la sécurité» de l'archipel",
    "url": "https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/trump-qualifie-les-avertissements-sur-l-ia-de-complot-malfaisant_194819",
-   "n_members": 52,
+   "n_members": 57,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.352,
+   "divergence": 0.362,
    "category": "international",
    "terms_left": [
     "obtenu contrôle",
@@ -321,12 +321,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.703,
+   "divergence": 0.715,
    "category": "économie",
    "terms_left": [
-    "écologique",
-    "transition",
-    "année"
+    "sophie",
+    "sophie binet",
+    "écologique"
    ],
    "terms_right": [
     "milliards",
@@ -337,7 +337,7 @@
   {
    "title": "Budget 2027 : le gouvernement envisage un plafond de 3.000 euros pour l'abattement fiscal des retraités",
    "url": "https://www.lemonde.fr/politique/article/2026/09/17/la-charge-de-la-dette-premier-budget-de-l-etat-une-realite-a-nuancer_6776421_823448.html",
-   "n_members": 52,
+   "n_members": 54,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.736,
+   "divergence": 0.737,
    "category": "économie",
    "terms_left": [
     "hausse",
@@ -365,9 +365,9 @@
    ]
   },
   {
-   "title": "Saint-Pierre-et-Miquelon : Emmanuel Macron en visite ce samedi sur l'archipel français convoité par Donald Trump",
+   "title": "Saint-Pierre-et-Miquelon. Face à Trump, Macron réaffirme que l'archipel est « français »",
    "url": "https://www.tf1info.fr/societe/dans-un-monde-en-crise-on-a-besoin-de-se-retrouver-dans-des-reperes-comment-expliquer-l-engouement-pour-la-visite-du-pape-2464794.html",
-   "n_members": 88,
+   "n_members": 96,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -381,12 +381,12 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.527,
+   "divergence": 0.5,
    "category": "international",
    "terms_left": [
     "atlantique nord",
-    "nord",
-    "atlantique"
+    "atlantique",
+    "recevoir"
    ],
    "terms_right": [
     "visite",
@@ -411,12 +411,12 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.382,
+   "divergence": 0.364,
    "category": "société",
    "terms_left": [
+    "diffusion",
     "ministre intérieur",
-    "intérieur",
-    "diffusion"
+    "intérieur"
    ],
    "terms_right": [
     "nuñez violation",
@@ -441,12 +441,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.535,
+   "divergence": 0.519,
    "category": "international",
    "terms_left": [
     "législatives",
     "chine",
-    "actifs russes"
+    "guerre ukraine"
    ],
    "terms_right": [
     "leroy merlin",
@@ -471,12 +471,12 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.539,
+   "divergence": 0.54,
    "category": "international",
    "terms_left": [
     "rapprochement",
     "mark carney",
-    "carney"
+    "mark"
    ],
    "terms_right": [
     "canada",
@@ -501,17 +501,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.846,
+   "divergence": 0.851,
    "category": "société",
    "terms_left": [
     "priol",
-    "loïk",
-    "loïk priol"
+    "loïk priol",
+    "loïk"
    ],
    "terms_right": [
     "othman garrido",
-    "garrido",
-    "othman"
+    "othman",
+    "garrido"
    ]
   },
   {
@@ -531,17 +531,17 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.754,
+   "divergence": 0.742,
    "category": "politique",
    "terms_left": [
     "citoyenne",
     "climatique",
-    "climat"
+    "sécurité"
    ],
    "terms_right": [
     "france",
-    "nicolas dupont-aignan",
-    "dupont-aignan"
+    "dupont-aignan",
+    "nicolas dupont-aignan"
    ]
   },
   {
@@ -575,6 +575,36 @@
    ]
   },
   {
+   "title": "Football : Kylian Mbappé quitte Nike et signe avec l'équipementier suisse On",
+   "url": "https://www.liberation.fr/sports/riner-et-langoisse-du-rn-mbappe-et-le-t-shirt-hommage-a-ceuta-les-deux-stars-critiquees-par-lextreme-droite-et-ses-allies-mediatiques-20260917_XBAAKQSCGFAMRPNTDWWYLZBE5Q/",
+   "n_members": 45,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 10,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.535,
+   "category": "sport",
+   "terms_left": [
+    "crampons",
+    "équipe",
+    "france"
+   ],
+   "terms_right": [
+    "nike",
+    "marque",
+    "suisse"
+   ]
+  },
+  {
    "title": "Charles Sapin annonce la « suppression » de son édito par France Inter : retour sur trois semaines de bras de fer à la radio publique",
    "url": "https://www.lejdd.fr/Societe/france-inter-la-direction-propose-de-remplacer-ledito-de-charles-sapin-par-un-debat-contradictoire-183729",
    "n_members": 45,
@@ -602,36 +632,6 @@
     "édito",
     "hebdomadaire",
     "suppression"
-   ]
-  },
-  {
-   "title": "Football : Kylian Mbappé quitte Nike et signe avec l'équipementier suisse On",
-   "url": "https://www.liberation.fr/sports/riner-et-langoisse-du-rn-mbappe-et-le-t-shirt-hommage-a-ceuta-les-deux-stars-critiquees-par-lextreme-droite-et-ses-allies-mediatiques-20260917_XBAAKQSCGFAMRPNTDWWYLZBE5Q/",
-   "n_members": 43,
-   "n_sources": 22,
-   "counts": {
-    "left": 4,
-    "centre": 10,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.539,
-   "category": "sport",
-   "terms_left": [
-    "équipe",
-    "france",
-    "équipe france"
-   ],
-   "terms_right": [
-    "nike",
-    "marque",
-    "suisse"
    ]
   },
   {
@@ -667,7 +667,7 @@
   {
    "title": "Carburants : l'aide aux «gros rouleurs» ne «s'arrêtera pas le 30 septembre» annonce le ministre du Commerce",
    "url": "https://www.publicsenat.fr/actualites/politique/le-premier-ministre-est-tres-inquiet-sur-les-prix-de-lessence-avant-de-finaliser-sa-copie-budgetaire-sebastien-lecornu-a-recu-letat-major-du-senat",
-   "n_members": 53,
+   "n_members": 54,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -681,12 +681,12 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.723,
+   "divergence": 0.721,
    "category": "économie",
    "terms_left": [
     "dispositif",
     "nouveau",
-    "gazole"
+    "atteint"
    ],
    "terms_right": [
     "rouleurs",
@@ -711,7 +711,7 @@
    },
    "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.486,
+   "divergence": 0.485,
    "category": "culture",
    "terms_left": [
     "rappeur",
@@ -755,6 +755,36 @@
    ]
   },
   {
+   "title": "Rodéo, policiers blessés, véhicules incendiés... Ce que l’on sait de la nuit d’émeutes à Saint-Pierre-des-Corps",
+   "url": "https://www.ladepeche.fr/2026/09/16/depuis-2026-ca-tire-plus-ici-qua-marseille-fusillade-mortelle-a-toulouse-deux-guerres-de-territoires-qui-annoncent-dautres-morts-13553804.php",
+   "n_members": 66,
+   "n_sources": 18,
+   "counts": {
+    "left": 3,
+    "centre": 8,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 5,
+    "opinion": 3
+   },
+   "blindspot_score": 0.4,
+   "blindspot_for": null,
+   "divergence": 0.654,
+   "category": "faits-divers",
+   "terms_left": [
+    "calme",
+    "policier",
+    "maire"
+   ],
+   "terms_right": [
+    "police",
+    "collision",
+    "moto"
+   ]
+  },
+  {
    "title": "32 incendies en Charente : un trentenaire condamné à 12 ans de réclusion criminelle",
    "url": "https://www.liberation.fr/societe/police-justice/cedric-prizzon-aurait-oblige-son-fils-de-12-ans-a-laider-a-transporter-les-cadavres-de-sa-mere-et-de-sa-belle-mere-20260917_XXGKEUS3DJGUXOIWEPZ2U4X2NI/",
    "n_members": 65,
@@ -771,47 +801,17 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.577,
+   "divergence": 0.571,
    "category": "faits-divers",
    "terms_left": [
+    "bordeaux",
     "père condamné",
-    "campagne",
-    "bordeaux"
+    "mois"
    ],
    "terms_right": [
     "ans",
-    "qu",
-    "sud"
-   ]
-  },
-  {
-   "title": "Rodéo, policiers blessés, véhicules incendiés... Ce que l’on sait de la nuit d’émeutes à Saint-Pierre-des-Corps",
-   "url": "https://www.ladepeche.fr/2026/09/16/depuis-2026-ca-tire-plus-ici-qua-marseille-fusillade-mortelle-a-toulouse-deux-guerres-de-territoires-qui-annoncent-dautres-morts-13553804.php",
-   "n_members": 64,
-   "n_sources": 18,
-   "counts": {
-    "left": 3,
-    "centre": 8,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.644,
-   "category": "faits-divers",
-   "terms_left": [
-    "calme",
-    "maire",
-    "psychiatrique"
-   ],
-   "terms_right": [
-    "police",
-    "collision",
-    "moto"
+    "condamné ans",
+    "criminelle"
    ]
   },
   {
@@ -833,16 +833,8 @@
    "blindspot_for": null,
    "divergence": 0.629,
    "category": "société",
-   "terms_left": [
-    "procès",
-    "ministre",
-    "fois"
-   ],
-   "terms_right": [
-    "jugée",
-    "avocate",
-    "ghosn"
-   ]
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Violences conjugales : Stéphane Plaza condamné en appel, sa peine alourdie",
@@ -876,8 +868,8 @@
   },
   {
    "title": "Loi sur la présomption d'usage des armes: des milliers de manifestants défilent à Paris",
-   "url": "https://www.liberation.fr/societe/police-justice/le-message-aujourdhui-est-lunite-les-gauches-rassemblees-contre-la-presomption-de-legitime-defense-des-forces-de-lordre-20260919_IL47FQRNYBBHHBAWA34AWVKSXQ/",
-   "n_members": 31,
+   "url": "https://www.liberation.fr/societe/police-justice/loi-instaurant-une-presomption-de-legitime-defense-tout-ceder-aux-policiers-cest-dune-grande-lachete-20260919_APVL7D546BEFNGJAQODEOB7KZM/",
+   "n_members": 33,
    "n_sources": 17,
    "counts": {
     "left": 4,
@@ -891,23 +883,23 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.495,
+   "divergence": 0.506,
    "category": "société",
    "terms_left": [
     "défense",
-    "légitime défense",
-    "présomption légitime"
+    "présomption légitime",
+    "légitime défense"
    ],
    "terms_right": [
     "armes",
-    "manifestations",
-    "usage"
+    "usage",
+    "manifestations"
    ]
   },
   {
    "title": "Moyen-Orient: Washington craint \"une escalade rapide\" après une attaque sur Ryad",
    "url": "https://www.lefigaro.fr/international/l-iran-frappe-un-petrolier-dans-le-secteur-d-ormuz-20260918",
-   "n_members": 44,
+   "n_members": 47,
    "n_sources": 16,
    "counts": {
     "left": 2,
@@ -921,17 +913,17 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.654,
+   "divergence": 0.658,
    "category": "international",
    "terms_left": [
+    "riyad",
     "fois",
-    "jours",
-    "derniers"
+    "retenti"
    ],
    "terms_right": [
     "ryad",
     "houthis",
-    "explosions"
+    "trump"
    ]
   },
   {
@@ -951,17 +943,17 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.89,
+   "divergence": 0.838,
    "category": "politique",
    "terms_left": [
     "candidature",
-    "étrangers",
-    "droite"
+    "droite",
+    "extrême"
    ],
    "terms_right": [
     "zemmour",
     "reconquête",
-    "face"
+    "président"
    ]
   },
   {
@@ -981,7 +973,7 @@
    },
    "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.856,
+   "divergence": 0.855,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -992,6 +984,36 @@
     "police",
     "général police",
     "quartier général"
+   ]
+  },
+  {
+   "title": "Inquiétude sincère ou intérêt économique ? Pourquoi les géants de l'IA réclament plus de régulation du secteur",
+   "url": "https://www.lemonde.fr/international/article/2026/09/17/au-royaume-uni-charles-iii-relais-des-inquietudes-mondiales-sur-l-emballement-de-l-ia_6776479_3210.html",
+   "n_members": 23,
+   "n_sources": 16,
+   "counts": {
+    "left": 3,
+    "centre": 10,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 6,
+    "opinion": 1
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.861,
+   "category": "sciences-tech",
+   "terms_left": [
+    "intelligence",
+    "intelligence artificielle",
+    "artificielle"
+   ],
+   "terms_right": [
+    "garde",
+    "charles iii",
+    "iii"
    ]
   },
   {
@@ -1069,36 +1091,6 @@
    "terms_right": []
   },
   {
-   "title": "Charles III met en garde contre les «risques existentiels» liés à l'intelligence artificielle",
-   "url": "https://www.lemonde.fr/international/article/2026/09/17/au-royaume-uni-charles-iii-relais-des-inquietudes-mondiales-sur-l-emballement-de-l-ia_6776479_3210.html",
-   "n_members": 22,
-   "n_sources": 15,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 8,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.869,
-   "category": "sciences-tech",
-   "terms_left": [
-    "artificielle",
-    "intelligence artificielle",
-    "intelligence"
-   ],
-   "terms_right": [
-    "charles iii",
-    "iii",
-    "charles"
-   ]
-  },
-  {
    "title": "Logement : les APL seront «gelées» l'an prochain, annonce le ministre",
    "url": "https://lcp.fr/actualites/logement-le-ministre-vincent-jeanbrun-veut-mettre-en-oeuvre-des-jeux-olympiques-du",
    "n_members": 19,
@@ -1121,9 +1113,31 @@
    "terms_right": []
   },
   {
+   "title": "La Corée du Nord tire deux missiles balistiques dans la mer du Japon",
+   "url": "https://www.cnews.fr/monde/2026-09-17/ils-seraient-jusqua-100000-qui-sont-ces-nord-coreens-envoyes-letranger-par-le",
+   "n_members": 18,
+   "n_sources": 15,
+   "counts": {
+    "left": 1,
+    "centre": 9,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 2,
+    "opinion": 1
+   },
+   "blindspot_score": 0.667,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "CARTE. Journées du patrimoine 2026 : voici tous les sites exceptionnellement ouverts en France ce week-end",
    "url": "https://www.ladepeche.fr/2026/09/17/monastere-dynamite-chateau-prive-ouvert-abbaye-habitee-par-des-moniales-quelles-sont-les-visites-insolites-a-faire-lors-des-journees-du-patrimoine-en-13552431.php",
-   "n_members": 32,
+   "n_members": 33,
    "n_sources": 14,
    "counts": {
     "left": 2,
@@ -1139,28 +1153,6 @@
    "blindspot_for": null,
    "divergence": null,
    "category": "culture",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Corée du Nord : ce que l'on sait des deux missiles tirés par Pyongyang dans la mer du Japon",
-   "url": "https://www.cnews.fr/monde/2026-09-17/ils-seraient-jusqua-100000-qui-sont-ces-nord-coreens-envoyes-letranger-par-le",
-   "n_members": 17,
-   "n_sources": 14,
-   "counts": {
-    "left": 0,
-    "centre": 9,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 1,
-    "opinion": 1
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "international",
    "terms_left": [],
    "terms_right": []
   }
