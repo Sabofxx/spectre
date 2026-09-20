@@ -1,6 +1,6 @@
 {
  "week": "2026-W38",
- "generated_at": "2026-09-19T23:48:05+00:00",
+ "generated_at": "2026-09-20T02:18:30+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.527,
+   "divergence": 0.528,
    "category": "international",
    "terms_left": [
     "américains",
@@ -185,6 +185,36 @@
    ]
   },
   {
+   "title": "Carburants: la colère des pêcheurs retombe après des engagements du gouvernement",
+   "url": "https://www.nouvelobs.com/economie/20260915.OBS118251/pourquoi-des-pecheurs-bloquent-ils-un-depot-petrolier-a-fos-sur-mer.html",
+   "n_members": 53,
+   "n_sources": 25,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.527,
+   "category": "économie",
+   "terms_left": [
+    "lever",
+    "catherine",
+    "catherine chabaud"
+   ],
+   "terms_right": [
+    "prix",
+    "mois",
+    "semaine"
+   ]
+  },
+  {
    "title": "Groenland : Donald Trump annonce un accord conférant aux États-Unis «un contrôle permanent sur la sécurité» de l'archipel",
    "url": "https://www.lefigaro.fr/international/le-danemark-salue-l-accord-sur-le-groenland-bon-pour-l-otan-et-l-europe-20260919",
    "n_members": 41,
@@ -201,7 +231,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.359,
+   "divergence": 0.36,
    "category": "international",
    "terms_left": [
     "américain",
@@ -275,36 +305,6 @@
    ]
   },
   {
-   "title": "Carburants: la colère des pêcheurs retombe après des engagements du gouvernement",
-   "url": "https://www.nouvelobs.com/economie/20260915.OBS118251/pourquoi-des-pecheurs-bloquent-ils-un-depot-petrolier-a-fos-sur-mer.html",
-   "n_members": 51,
-   "n_sources": 24,
-   "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.519,
-   "category": "économie",
-   "terms_left": [
-    "lever",
-    "catherine",
-    "chabaud"
-   ],
-   "terms_right": [
-    "mois",
-    "semaine",
-    "france"
-   ]
-  },
-  {
    "title": "Panique : des tirs à la sortie d'une école",
    "url": "https://www.ouest-france.fr/societe/faits-divers/des-coups-de-feu-tires-pendant-a-proximite-dune-ecole-dans-loise-deux-personnes-blessees-des-eleves-confines-4a9c1022-b2cd-11f1-bc32-13ddcee9efa7",
    "n_members": 51,
@@ -330,8 +330,8 @@
    ],
    "terms_right": [
     "othman",
-    "othman garrido",
-    "garrido"
+    "garrido",
+    "othman garrido"
    ]
   },
   {
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.398,
+   "divergence": 0.399,
    "category": "international",
    "terms_left": [
     "rapprochement",
@@ -545,9 +545,39 @@
    ]
   },
   {
+   "title": "Budget : la dette publique de la France grimpera jusqu’à 121,7 % du PIB en 2027, un record",
+   "url": "https://www.lemonde.fr/politique/article/2026/09/17/la-charge-de-la-dette-premier-budget-de-l-etat-une-realite-a-nuancer_6776421_823448.html",
+   "n_members": 36,
+   "n_sources": 21,
+   "counts": {
+    "left": 2,
+    "centre": 9,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.667,
+   "blindspot_for": "gauche",
+   "divergence": 0.653,
+   "category": "économie",
+   "terms_left": [
+    "hausse",
+    "budget",
+    "etat"
+   ],
+   "terms_right": [
+    "euros",
+    "france",
+    "pib"
+   ]
+  },
+  {
    "title": "Russie : début des législatives, en pleine guerre en Ukraine",
    "url": "https://www.20minutes.fr/monde/ukraine/4246053-20260917-direct-guerre-ukraine-congres-americain-adopte-nouvelles-sanctions-contre-russie",
-   "n_members": 72,
+   "n_members": 73,
    "n_sources": 20,
    "counts": {
     "left": 5,
@@ -597,33 +627,33 @@
    "terms_right": []
   },
   {
-   "title": "Budget : la dette publique de la France grimpera jusqu’à 121,7 % du PIB en 2027, un record",
-   "url": "https://www.lemonde.fr/politique/article/2026/09/17/la-charge-de-la-dette-premier-budget-de-l-etat-une-realite-a-nuancer_6776421_823448.html",
-   "n_members": 34,
+   "title": "Saint-Pierre-et-Miquelon : Emmanuel Macron en visite ce samedi sur l'archipel français convoité par Donald Trump",
+   "url": "https://www.tf1info.fr/societe/dans-un-monde-en-crise-on-a-besoin-de-se-retrouver-dans-des-reperes-comment-expliquer-l-engouement-pour-la-visite-du-pape-2464794.html",
+   "n_members": 53,
    "n_sources": 19,
    "counts": {
     "left": 2,
-    "centre": 8,
-    "right": 9
+    "centre": 10,
+    "right": 7
    },
    "style_counts": {
-    "factuel": 11,
-    "mixte": 6,
+    "factuel": 12,
+    "mixte": 5,
     "opinion": 2
    },
-   "blindspot_score": 0.636,
-   "blindspot_for": "gauche",
-   "divergence": 0.65,
-   "category": "économie",
+   "blindspot_score": 0.556,
+   "blindspot_for": null,
+   "divergence": 0.736,
+   "category": "société",
    "terms_left": [
-    "hausse",
-    "budget",
-    "etat"
+    "relations",
+    "atlantique nord",
+    "président"
    ],
    "terms_right": [
-    "euros",
-    "france",
-    "pib"
+    "xiv",
+    "léon xiv",
+    "léon"
    ]
   },
   {
@@ -687,36 +717,6 @@
    ]
   },
   {
-   "title": "Saint-Pierre-et-Miquelon : Emmanuel Macron en visite ce samedi sur l'archipel français convoité par Donald Trump",
-   "url": "https://www.tf1info.fr/societe/dans-un-monde-en-crise-on-a-besoin-de-se-retrouver-dans-des-reperes-comment-expliquer-l-engouement-pour-la-visite-du-pape-2464794.html",
-   "n_members": 52,
-   "n_sources": 18,
-   "counts": {
-    "left": 2,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.556,
-   "blindspot_for": null,
-   "divergence": 0.736,
-   "category": "international",
-   "terms_left": [
-    "relations",
-    "atlantique nord",
-    "président"
-   ],
-   "terms_right": [
-    "xiv",
-    "léon xiv",
-    "léon"
-   ]
-  },
-  {
    "title": "Jugée pour \"un pacte de corruption\" avec Ghosn, Dati assène avoir \"exercé comme avocate\"",
    "url": "https://www.humanite.fr/societe/carlos-ghosn/proces-dati-ghosn-lancienne-ministre-multiplie-les-contestations-pour-jouer-la-montre",
    "n_members": 26,
@@ -772,8 +772,8 @@
    ],
    "terms_right": [
     "plaza condamné",
-    "paris",
-    "plaza"
+    "plaza",
+    "paris"
    ]
   },
   {
@@ -809,7 +809,7 @@
   {
    "title": "Il tirait des coups de feu au guidon de sa moto: un homme \"menaçant\" tué par la police à Beauvais après avoir blessé un des agents venus l'interpeller",
    "url": "https://www.ladepeche.fr/2026/09/16/depuis-2026-ca-tire-plus-ici-qua-marseille-fusillade-mortelle-a-toulouse-deux-guerres-de-territoires-qui-annoncent-dautres-morts-13553804.php",
-   "n_members": 35,
+   "n_members": 36,
    "n_sources": 16,
    "counts": {
     "left": 2,
@@ -1025,7 +1025,7 @@
   {
    "title": "CARTE. Journées du patrimoine 2026 : voici tous les sites exceptionnellement ouverts en France ce week-end",
    "url": "https://www.ladepeche.fr/2026/09/17/monastere-dynamite-chateau-prive-ouvert-abbaye-habitee-par-des-moniales-quelles-sont-les-visites-insolites-a-faire-lors-des-journees-du-patrimoine-en-13552431.php",
-   "n_members": 25,
+   "n_members": 26,
    "n_sources": 13,
    "counts": {
     "left": 2,
@@ -1065,6 +1065,36 @@
    "category": "société",
    "terms_left": [],
    "terms_right": []
+  },
+  {
+   "title": "Première pour Abline, la surprise Diop… découvrez la composition de l’AS Monaco pour la réception de Lens",
+   "url": "https://www.nicematin.com/guide-conso/monaco-lens-a-quelle-heure-et-sur-quelle-chaine-voir-le-choc-en-direct-10725250",
+   "n_members": 28,
+   "n_sources": 12,
+   "counts": {
+    "left": 1,
+    "centre": 6,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 7,
+    "mixte": 4,
+    "opinion": 1
+   },
+   "blindspot_score": 0.667,
+   "blindspot_for": "gauche",
+   "divergence": 0.804,
+   "category": "sport",
+   "terms_left": [
+    "match",
+    "jonathan",
+    "ancien"
+   ],
+   "terms_right": [
+    "monaco",
+    "qu",
+    "tony parker"
+   ]
   },
   {
    "title": "\"Un de ses amis lui a organisé une fête de mariage\" : Donald Trump annonce que son fils rembourse les festivités payées par un oligarque russe",
@@ -1125,28 +1155,6 @@
     "coup mortel",
     "auteur coup"
    ]
-  },
-  {
-   "title": "Première pour Abline, la surprise Diop… découvrez la composition de l’AS Monaco pour la réception de Lens",
-   "url": "https://www.nicematin.com/guide-conso/monaco-lens-a-quelle-heure-et-sur-quelle-chaine-voir-le-choc-en-direct-10725250",
-   "n_members": 25,
-   "n_sources": 11,
-   "counts": {
-    "left": 1,
-    "centre": 6,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 7,
-    "mixte": 4,
-    "opinion": 0
-   },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
