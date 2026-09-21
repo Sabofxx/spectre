@@ -1,13 +1,13 @@
 {
  "week": "2026-W39",
- "generated_at": "2026-09-21T08:06:54+00:00",
+ "generated_at": "2026-09-21T15:14:49+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "Budget 2027 : les retraites dans le viseur du gouvernement qui vise un effort budgétaire général de 54 milliards d'euros",
+   "title": "«Un budget difficile» : Sébastien Lecornu assume 54 milliards d’euros d’économies en 2027",
    "url": "https://www.publicsenat.fr/actualites/politique/budget-bruno-retailleau-demande-au-gouvernement-le-retour-de-la-reforme-des-retraites",
-   "n_members": 129,
+   "n_members": 131,
    "n_sources": 35,
    "counts": {
     "left": 8,
@@ -21,23 +21,23 @@
    },
    "blindspot_score": 0.238,
    "blindspot_for": null,
-   "divergence": 0.323,
+   "divergence": 0.34,
    "category": "politique",
    "terms_left": [
     "qu",
-    "loi",
-    "faut"
+    "dette",
+    "direct présidentielle"
    ],
    "terms_right": [
-    "milliards euros",
     "économies",
-    "milliards"
+    "milliards",
+    "milliards euros"
    ]
   },
   {
-   "title": "Menaces russes: pourquoi Emmanuel Macron a réuni les chefs de partis politiques?",
+   "title": "LES ÉCLAIREURS - Carburants: Emmanuel Macron tente de répondre à l'inquiétude",
    "url": "https://information.tv5monde.com/international/le-president-libanais-veut-un-accord-de-securite-avec-israel-qui-pourrait-preluder-la-paix-2837774",
-   "n_members": 112,
+   "n_members": 113,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.495,
+   "divergence": 0.515,
    "category": "politique",
    "terms_left": [
     "elysée",
@@ -65,77 +65,107 @@
    ]
   },
   {
-   "title": "Russie : ce que l'on sait de l'attaque «sans précédent» de drones ukrainiens au dernier jour des législatives",
-   "url": "https://www.20minutes.fr/monde/ukraine/4246053-20260917-direct-guerre-ukraine-congres-americain-adopte-nouvelles-sanctions-contre-russie",
-   "n_members": 143,
-   "n_sources": 28,
+   "title": "Consommation. Prix des carburants : un nouveau record atteint en France",
+   "url": "https://www.nouvelobs.com/economie/20260916.OBS118307/la-flambee-du-prix-des-carburants-preoccupe-le-gouvernement-entre-difficulte-d-approvisionnement-et-inflation.html",
+   "n_members": 92,
+   "n_sources": 30,
    "counts": {
-    "left": 7,
-    "centre": 13,
-    "right": 8
+    "left": 4,
+    "centre": 14,
+    "right": 12
    },
    "style_counts": {
-    "factuel": 16,
-    "mixte": 9,
-    "opinion": 3
+    "factuel": 17,
+    "mixte": 8,
+    "opinion": 5
    },
-   "blindspot_score": 0.067,
+   "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.44,
-   "category": "international",
+   "divergence": 0.482,
+   "category": "économie",
    "terms_left": [
-    "direct",
-    "guerre ukraine",
-    "guerre"
+    "prix essence",
+    "essence",
+    "record gazole"
    ],
    "terms_right": [
-    "perturber",
-    "attaque",
-    "drones"
+    "litre",
+    "euros litre",
+    "qu"
    ]
   },
   {
    "title": "Élections régionales en Allemagne : Friedrich Merz fragilisé par la poussée de l’AfD",
    "url": "https://www.liberation.fr/international/europe/montee-de-lextreme-droite-en-allemagne-jurgen-klopp-ne-veut-pas-laisser-la-fierte-nationale-aux-mauvaises-personnes-20260917_2WH334ZWYNBBRMZSY6MLPXAGCU/",
-   "n_members": 85,
-   "n_sources": 28,
+   "n_members": 104,
+   "n_sources": 29,
    "counts": {
     "left": 7,
-    "centre": 11,
+    "centre": 12,
     "right": 10
    },
    "style_counts": {
-    "factuel": 14,
+    "factuel": 15,
     "mixte": 10,
     "opinion": 4
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.335,
+   "divergence": 0.322,
    "category": "international",
    "terms_left": [
     "scrutins",
-    "semaines",
-    "mecklembourg-poméranie-occidentale"
+    "mecklembourg-poméranie-occidentale",
+    "politique"
    ],
    "terms_right": [
-    "désastre",
+    "parti",
     "régionales allemagne",
-    "parti"
+    "désastre"
+   ]
+  },
+  {
+   "title": "Une atteinte inédite à la presse : Donald Trump interdit l’accès à la Maison-Blanche à trois médias",
+   "url": "https://www.humanite.fr/monde/donald-trump/midterms-comment-les-republicains-tentent-de-confisquer-le-vote-des-americains",
+   "n_members": 86,
+   "n_sources": 29,
+   "counts": {
+    "left": 7,
+    "centre": 15,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.437,
+   "category": "international",
+   "terms_left": [
+    "ms",
+    "now",
+    "ms now"
+   ],
+   "terms_right": [
+    "msnow",
+    "cnn msnow",
+    "trump annoncé"
    ]
   },
   {
    "title": "Groenland : Donald Trump annonce un accord conférant aux États-Unis «un contrôle permanent sur la sécurité» de l'archipel",
    "url": "https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/trump-qualifie-les-avertissements-sur-l-ia-de-complot-malfaisant_194819",
-   "n_members": 61,
-   "n_sources": 28,
+   "n_members": 63,
+   "n_sources": 29,
    "counts": {
     "left": 7,
-    "centre": 13,
+    "centre": 14,
     "right": 8
    },
    "style_counts": {
-    "factuel": 15,
+    "factuel": 16,
     "mixte": 10,
     "opinion": 3
    },
@@ -155,23 +185,83 @@
    ]
   },
   {
+   "title": "Russie : ce que l'on sait de l'attaque «sans précédent» de drones ukrainiens au dernier jour des législatives",
+   "url": "https://www.20minutes.fr/monde/ukraine/4246053-20260917-direct-guerre-ukraine-congres-americain-adopte-nouvelles-sanctions-contre-russie",
+   "n_members": 153,
+   "n_sources": 28,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.429,
+   "category": "international",
+   "terms_left": [
+    "direct",
+    "guerre ukraine",
+    "guerre"
+   ],
+   "terms_right": [
+    "perturber",
+    "drones",
+    "attaque"
+   ]
+  },
+  {
+   "title": "Comment l'UE renforce la sécurité des enfants en ligne ? Demandez au chatbot IA d'Euronews",
+   "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/reseaux-sociaux-interdits-avant-13-ans-fonctionnalites-addictives-bloquees-pour-les-mineurs-ce-que-contient-le-kids-act-presente-par-la-commission-europeenne_8197241.html",
+   "n_members": 63,
+   "n_sources": 28,
+   "counts": {
+    "left": 3,
+    "centre": 16,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.698,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "interdiction",
+    "mineurs"
+   ],
+   "terms_right": [
+    "attal",
+    "états-unis",
+    "europe"
+   ]
+  },
+  {
    "title": "Budget : la dette publique va atteindre 121,7% du PIB en 2027, un niveau record",
    "url": "https://www.lemonde.fr/politique/article/2026/09/17/la-charge-de-la-dette-premier-budget-de-l-etat-une-realite-a-nuancer_6776421_823448.html",
-   "n_members": 60,
-   "n_sources": 27,
+   "n_members": 61,
+   "n_sources": 28,
    "counts": {
     "left": 5,
-    "centre": 10,
+    "centre": 11,
     "right": 12
    },
    "style_counts": {
-    "factuel": 13,
+    "factuel": 14,
     "mixte": 9,
     "opinion": 5
    },
    "blindspot_score": 0.412,
    "blindspot_for": null,
-   "divergence": 0.731,
+   "divergence": 0.732,
    "category": "économie",
    "terms_left": [
     "hausse",
@@ -185,39 +275,39 @@
    ]
   },
   {
-   "title": "Consommation. Prix des carburants : un nouveau record atteint en France",
-   "url": "https://www.nouvelobs.com/economie/20260916.OBS118307/la-flambee-du-prix-des-carburants-preoccupe-le-gouvernement-entre-difficulte-d-approvisionnement-et-inflation.html",
-   "n_members": 75,
+   "title": "Présidentielle 2027 en France: l'ingénieur Jean-Marc Jancovici lance une assemblée citoyenne pour nourrir le débat",
+   "url": "https://www.lemonde.fr/politique/article/2026/09/17/presidentielle-2027-les-candidats-desormais-interdits-de-campagne-dans-les-ecoles-annonce-le-ministre-de-l-education-nationale_6776416_823448.html",
+   "n_members": 69,
    "n_sources": 26,
    "counts": {
-    "left": 3,
+    "left": 6,
     "centre": 11,
-    "right": 12
+    "right": 9
    },
    "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 5
+    "factuel": 12,
+    "mixte": 10,
+    "opinion": 4
    },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": 0.579,
-   "category": "économie",
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.726,
+   "category": "politique",
    "terms_left": [
-    "semaine",
-    "euros moyenne",
-    "publiques"
+    "citoyenne",
+    "marine",
+    "gouvernement"
    ],
    "terms_right": [
-    "euros",
-    "français",
-    "litre"
+    "france",
+    "dupont-aignan",
+    "nicolas dupont-aignan"
    ]
   },
   {
-   "title": "Carburants, réglementation... Les pêcheurs appellent le gouvernement à «prendre ses responsabilités»",
+   "title": "Près d'une station sur cinq manque d'au moins un carburant : risque-t-on une pénurie d'essence en France ?",
    "url": "https://www.nouvelobs.com/economie/20260915.OBS118251/pourquoi-des-pecheurs-bloquent-ils-un-depot-petrolier-a-fos-sur-mer.html",
-   "n_members": 61,
+   "n_members": 68,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -231,23 +321,53 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.598,
+   "divergence": 0.613,
    "category": "économie",
    "terms_left": [
     "pêcheurs",
-    "blocages",
-    "cours"
+    "aides",
+    "blocages"
    ],
    "terms_right": [
+    "france",
     "face",
+    "flambée"
+   ]
+  },
+  {
+   "title": "Budget 2027 : le taux de prélèvements obligatoires va augmenter en 2027",
+   "url": "https://www.liberation.fr/economie/social/gel-du-point-dindice-des-fonctionnaires-dans-le-budget-2027-sophie-binet-denonce-un-scandale-et-promet-une-journee-noire-le-29-septembre-20260917_CLM5XBZ6SJHMXJE5P7B4XF3MSE/",
+   "n_members": 61,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 10,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.753,
+   "category": "économie",
+   "terms_left": [
+    "sophie",
+    "sophie binet",
+    "binet"
+   ],
+   "terms_right": [
+    "france",
     "carburants",
-    "france"
+    "prix"
    ]
   },
   {
    "title": "Saint-Pierre-et-Miquelon. Face à Trump, Macron réaffirme que l'archipel est « français »",
    "url": "https://www.tf1info.fr/societe/dans-un-monde-en-crise-on-a-besoin-de-se-retrouver-dans-des-reperes-comment-expliquer-l-engouement-pour-la-visite-du-pape-2464794.html",
-   "n_members": 102,
+   "n_members": 104,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -261,7 +381,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.482,
+   "divergence": 0.474,
    "category": "international",
    "terms_left": [
     "atlantique nord",
@@ -270,38 +390,8 @@
    ],
    "terms_right": [
     "xiv",
-    "léon xiv",
-    "léon"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 en France: l'ingénieur Jean-Marc Jancovici lance une assemblée citoyenne pour nourrir le débat",
-   "url": "https://www.lemonde.fr/politique/article/2026/09/17/presidentielle-2027-les-candidats-desormais-interdits-de-campagne-dans-les-ecoles-annonce-le-ministre-de-l-education-nationale_6776416_823448.html",
-   "n_members": 65,
-   "n_sources": 24,
-   "counts": {
-    "left": 6,
-    "centre": 9,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 9,
-    "opinion": 4
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.748,
-   "category": "politique",
-   "terms_left": [
-    "citoyenne",
-    "sécurité",
-    "marine"
-   ],
-   "terms_right": [
-    "france",
-    "dupont-aignan",
-    "nicolas dupont-aignan"
+    "visite",
+    "léon xiv"
    ]
   },
   {
@@ -321,12 +411,12 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.334,
+   "divergence": 0.299,
    "category": "société",
    "terms_left": [
-    "ministre intérieur",
-    "intérieur",
-    "diffusion"
+    "diffusion",
+    "mis",
+    "maire"
    ],
    "terms_right": [
     "nuñez violation",
@@ -335,9 +425,39 @@
    ]
   },
   {
-   "title": "Panique : des tirs à la sortie d'une école",
+   "title": "\"Si les États-Unis ne sont plus avec nous, qu’allons-nous faire?\": le rapprochement UE-Canada bouscule l’Europe",
+   "url": "https://www.publicsenat.fr/actualites/politique/union-europeenne-ce-nest-pas-aux-etats-unis-de-choisir-les-orientations-geopolitiques-des-europeens-affirme-benjamin-haddad",
+   "n_members": 60,
+   "n_sources": 24,
+   "counts": {
+    "left": 6,
+    "centre": 10,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.556,
+   "category": "international",
+   "terms_left": [
+    "union européenne",
+    "guerre",
+    "mark carney"
+   ],
+   "terms_right": [
+    "canada",
+    "qu",
+    "ursula von"
+   ]
+  },
+  {
+   "title": "DIRECT. Assassinat de Federico Martin Aramburu: à la barre, Loïk Le Priol revient sur son enfance, son passage à l'armée...",
    "url": "https://www.ouest-france.fr/societe/faits-divers/des-coups-de-feu-tires-pendant-a-proximite-dune-ecole-dans-loise-deux-personnes-blessees-des-eleves-confines-4a9c1022-b2cd-11f1-bc32-13ddcee9efa7",
-   "n_members": 53,
+   "n_members": 55,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -351,42 +471,102 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.807,
+   "divergence": 0.806,
    "category": "société",
    "terms_left": [
     "priol",
-    "loïk",
-    "loïk priol"
+    "loïk priol",
+    "loïk"
    ],
    "terms_right": [
-    "othman garrido",
-    "garrido",
-    "daillet"
+    "daillet",
+    "école",
+    "othman garrido"
+   ]
+  },
+  {
+   "title": "Don de Mbappé : le responsable de la sécurité des Bleus, et Varois d’adoption, mis en examen",
+   "url": "https://www.liberation.fr/sports/riner-et-langoisse-du-rn-mbappe-et-le-t-shirt-hommage-a-ceuta-les-deux-stars-critiquees-par-lextreme-droite-et-ses-allies-mediatiques-20260917_XBAAKQSCGFAMRPNTDWWYLZBE5Q/",
+   "n_members": 50,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.485,
+   "category": "sport",
+   "terms_left": [
+    "sécurité",
+    "ancien",
+    "mis"
+   ],
+   "terms_right": [
+    "nike",
+    "quitte nike",
+    "mbappé quitte"
+   ]
+  },
+  {
+   "title": "Charles Sapin annonce la « suppression » de son édito par France Inter : retour sur trois semaines de bras de fer à la radio publique",
+   "url": "https://www.lejdd.fr/Societe/france-inter-la-direction-propose-de-remplacer-ledito-de-charles-sapin-par-un-debat-contradictoire-183729",
+   "n_members": 49,
+   "n_sources": 23,
+   "counts": {
+    "left": 7,
+    "centre": 9,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.219,
+   "category": "société",
+   "terms_left": [
+    "directeur",
+    "adjoint",
+    "directeur adjoint"
+   ],
+   "terms_right": [
+    "édito",
+    "suppression",
+    "suppression édito"
    ]
   },
   {
    "title": "Paris: plusieurs milliers de manifestants contre la proposition de loi sur l’usage des armes par les forces de l’ordre",
    "url": "https://www.radiofrance.fr/franceculture/podcasts/le-regard-culturel/le-regard-culturel-chronique-du-vendredi-18-septembre-2026-9708140",
-   "n_members": 45,
-   "n_sources": 22,
+   "n_members": 46,
+   "n_sources": 23,
    "counts": {
-    "left": 5,
+    "left": 6,
     "centre": 11,
     "right": 6
    },
    "style_counts": {
     "factuel": 12,
     "mixte": 8,
-    "opinion": 2
+    "opinion": 3
    },
-   "blindspot_score": 0.091,
+   "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.521,
+   "divergence": 0.511,
    "category": "société",
    "terms_left": [
     "défense",
-    "présomption légitime",
-    "légitime défense"
+    "légitime défense",
+    "présomption légitime"
    ],
    "terms_right": [
     "armes",
@@ -395,9 +575,39 @@
    ]
   },
   {
+   "title": "Zinédine Zidane dévoile une toute première liste pleine de nouveaux et de surprises avant les quatre matchs de Ligue des Nations avec les Bleus",
+   "url": "https://www.leparisien.fr/sports/football/equipe-de-france/equipe-de-france-lepaul-truffert-jacquet-quels-pourraient-etre-les-nouveaux-visages-de-la-premiere-liste-de-zidane-17-09-2026-YEWBEM6EGZDDJB2XXLMNIFAO2M.php",
+   "n_members": 77,
+   "n_sources": 21,
+   "counts": {
+    "left": 4,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.37,
+   "category": "sport",
+   "terms_left": [
+    "parmi",
+    "français",
+    "matchs"
+   ],
+   "terms_right": [
+    "lepaul",
+    "bleus",
+    "estéban"
+   ]
+  },
+  {
    "title": "INFO BFMTV. Le gouvernement réfléchit à étendre ou augmenter la prime \"grands rouleurs\"",
    "url": "https://www.publicsenat.fr/actualites/politique/le-premier-ministre-est-tres-inquiet-sur-les-prix-de-lessence-avant-de-finaliser-sa-copie-budgetaire-sebastien-lecornu-a-recu-letat-major-du-senat",
-   "n_members": 62,
+   "n_members": 65,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -411,52 +621,113 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.713,
+   "divergence": 0.695,
    "category": "économie",
    "terms_left": [
-    "aides",
-    "dispositif"
+    "français",
+    "envisage",
+    "aides"
    ],
    "terms_right": [
-    "prix",
-    "euros",
-    "rouleurs"
+    "rouleurs",
+    "carburant",
+    "euros"
+   ]
+  },
+  {
+   "title": "Dans la tourmente, Ed Sheeran reconnaît \"des erreurs\"",
+   "url": "https://www.blast-info.fr/articles/2026/cancel-culture-ed-sheeran-ecarte-le-rappeur-macklemore-de-sa-tournee-sous-pression-du-lobby-sioniste-5QBbCe1kTU6Uauh4klGz_Q",
+   "n_members": 34,
+   "n_sources": 21,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 4,
+    "opinion": 1
+   },
+   "blindspot_score": -0.25,
+   "blindspot_for": null,
+   "divergence": 0.426,
+   "category": "culture",
+   "terms_left": [
+    "rappeur",
+    "macklemore",
+    "tournée"
+   ],
+   "terms_right": [
+    "gaza",
+    "britannique",
+    "erreurs"
    ]
   },
   {
    "title": "Saint-Pierre-des-Corps : nuit de violences après une collision entre un motard et une voiture de police",
    "url": "https://www.ladepeche.fr/2026/09/16/depuis-2026-ca-tire-plus-ici-qua-marseille-fusillade-mortelle-a-toulouse-deux-guerres-de-territoires-qui-annoncent-dautres-morts-13553804.php",
-   "n_members": 73,
-   "n_sources": 18,
+   "n_members": 79,
+   "n_sources": 19,
    "counts": {
-    "left": 3,
+    "left": 4,
     "centre": 8,
     "right": 7
    },
    "style_counts": {
     "factuel": 10,
-    "mixte": 5,
+    "mixte": 6,
     "opinion": 3
    },
-   "blindspot_score": 0.4,
+   "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.608,
+   "divergence": 0.465,
    "category": "faits-divers",
    "terms_left": [
-    "calme",
-    "maire",
-    "psychiatrique"
+    "collision motard",
+    "motard",
+    "quartier"
    ],
    "terms_right": [
-    "police",
-    "véhicule police",
-    "tours"
+    "blessés",
+    "moto",
+    "coups"
+   ]
+  },
+  {
+   "title": "Catherine Ringer, célèbre voix des Rita Mitsouko, inhumée à Paris aux côtés de Fred Chichin",
+   "url": "https://reporterre.net/Mort-de-Catherine-Ringer-chanteuse-et-militante-pour-l-ecologie",
+   "n_members": 26,
+   "n_sources": 19,
+   "counts": {
+    "left": 8,
+    "centre": 4,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 6,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": -0.067,
+   "blindspot_for": null,
+   "divergence": 0.319,
+   "category": "culture",
+   "terms_left": [
+    "ringer chanteuse",
+    "catherine",
+    "catherine ringer"
+   ],
+   "terms_right": [
+    "paris",
+    "inhumée",
+    "côtés"
    ]
   },
   {
    "title": "Moyen-Orient: Washington craint \"une escalade rapide\" après une attaque sur Ryad",
    "url": "https://information.tv5monde.com/afrique/video/mali-cinq-militaires-russes-dafrica-corps-tuees-lors-dune-attaque-djihadiste-2837567",
-   "n_members": 57,
+   "n_members": 60,
    "n_sources": 18,
    "counts": {
     "left": 2,
@@ -470,7 +741,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.683,
+   "divergence": 0.675,
    "category": "international",
    "terms_left": [
     "riyad",
@@ -481,6 +752,36 @@
     "ryad",
     "guerre",
     "houthis"
+   ]
+  },
+  {
+   "title": "Une rencontre Trump-Macron prévue en marge de l'Assemblée générale de l'ONU",
+   "url": "https://www.publicsenat.fr/actualites/international/emmanuel-macron-a-lonu-un-dernier-discours-sous-le-signe-du-pragmatisme-face-a-la-multiplication-des-crises",
+   "n_members": 39,
+   "n_sources": 18,
+   "counts": {
+    "left": 3,
+    "centre": 10,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 4,
+    "opinion": 2
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.523,
+   "category": "international",
+   "terms_left": [
+    "marge",
+    "heure",
+    "marge assemblée"
+   ],
+   "terms_right": [
+    "emmanuel",
+    "emmanuel macron",
+    "russie"
    ]
   },
   {
@@ -506,9 +807,39 @@
    "terms_right": []
   },
   {
-   "title": "Yémen : les affrontements entre les Houthis et le gouvernement obligent les habitants à fuir",
+   "title": "EN DIRECT - Présidentielle 2027 : «Moi, je n’ai pas quémandé des postes depuis 45 ans», Raphaël Glucksmann répond à Ségolène Royal",
+   "url": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-jordan-bardella-president-du-rn-annonce-presenter-un-contre-budget-dans-quelques-jours_VN-202609170904.html",
+   "n_members": 50,
+   "n_sources": 17,
+   "counts": {
+    "left": 3,
+    "centre": 7,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.4,
+   "blindspot_for": null,
+   "divergence": 0.647,
+   "category": "politique",
+   "terms_left": [
+    "présidente",
+    "gauche",
+    "candidat"
+   ],
+   "terms_right": [
+    "président",
+    "qu",
+    "politique"
+   ]
+  },
+  {
+   "title": "Pakistan: au moins 31 morts dans l'attaque d'un quartier général de police",
    "url": "https://www.liberation.fr/international/moyen-orient/yemen-comment-les-houthis-sont-parvenus-a-humilier-larabie-saoudite-20260917_F5K4LO42SFGLJMPZCK2IM24ADE/",
-   "n_members": 39,
+   "n_members": 41,
    "n_sources": 17,
    "counts": {
     "left": 5,
@@ -522,12 +853,12 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.831,
+   "divergence": 0.848,
    "category": "international",
    "terms_left": [
     "yémen",
-    "guerre",
-    "ans"
+    "trump",
+    "guerre"
    ],
    "terms_right": [
     "police",
@@ -536,39 +867,61 @@
    ]
   },
   {
-   "title": "EN DIRECT - Présidentielle 2027 : «Moi, je n’ai pas quémandé des postes depuis 45 ans», Raphaël Glucksmann répond à Ségolène Royal",
-   "url": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-jordan-bardella-president-du-rn-annonce-presenter-un-contre-budget-dans-quelques-jours_VN-202609170904.html",
-   "n_members": 44,
-   "n_sources": 16,
+   "title": "Intelligence artificielle : les États-Unis ont discuté avec la Chine d’un « mécanisme » de dialogue sur l’IA",
+   "url": "https://information.tv5monde.com/international/le-parti-communiste-chinois-menace-par-lia-le-chef-des-services-secrets-inquiet-de-forces-hostiles-2837741",
+   "n_members": 23,
+   "n_sources": 17,
    "counts": {
-    "left": 3,
-    "centre": 7,
-    "right": 6
+    "left": 2,
+    "centre": 11,
+    "right": 4
    },
    "style_counts": {
-    "factuel": 9,
-    "mixte": 6,
-    "opinion": 1
+    "factuel": 12,
+    "mixte": 5,
+    "opinion": 0
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.737,
-   "category": "politique",
+   "divergence": null,
+   "category": "économie",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Russie: le parti de Poutine donné sans surprise vainqueur aux législatives",
+   "url": "https://information.tv5monde.com/international/danemark-lituanie-lue-denonce-la-montee-des-provocations-russes-2837597",
+   "n_members": 33,
+   "n_sources": 16,
+   "counts": {
+    "left": 4,
+    "centre": 8,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 6,
+    "opinion": 0
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.844,
+   "category": "international",
    "terms_left": [
-    "présidente",
-    "candidat",
-    "candidat primaire"
+    "poutine",
+    "vladimir poutine",
+    "vladimir"
    ],
    "terms_right": [
-    "président",
-    "politique",
-    "qu"
+    "élections législatives",
+    "élections",
+    "ukraine"
    ]
   },
   {
    "title": "Corée du Nord : ce que l'on sait des deux missiles tirés par Pyongyang dans la mer du Japon",
    "url": "https://www.cnews.fr/monde/2026-09-17/ils-seraient-jusqua-100000-qui-sont-ces-nord-coreens-envoyes-letranger-par-le",
-   "n_members": 22,
+   "n_members": 23,
    "n_sources": 16,
    "counts": {
     "left": 1,
@@ -588,51 +941,73 @@
    "terms_right": []
   },
   {
-   "title": "Russie: le parti de Poutine donné sans surprise vainqueur aux législatives",
-   "url": "https://information.tv5monde.com/international/danemark-lituanie-lue-denonce-la-montee-des-provocations-russes-2837597",
-   "n_members": 32,
-   "n_sources": 15,
-   "counts": {
-    "left": 4,
-    "centre": 7,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 6,
-    "opinion": 0
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.845,
-   "category": "international",
-   "terms_left": [
-    "poutine",
-    "vladimir poutine",
-    "vladimir"
-   ],
-   "terms_right": [
-    "élections législatives",
-    "élections",
-    "ukraine"
-   ]
-  },
-  {
-   "title": "Vous êtes férus de patrimoine ? Ce nouveau « Pass » à petit prix permet de visiter 500 monuments dont plusieurs en région Provence-Alpes-Côte d’Azur",
-   "url": "https://www.ladepeche.fr/2026/09/17/monastere-dynamite-chateau-prive-ouvert-abbaye-habitee-par-des-moniales-quelles-sont-les-visites-insolites-a-faire-lors-des-journees-du-patrimoine-en-13552431.php",
-   "n_members": 39,
-   "n_sources": 14,
+   "title": "Les Etats-Unis ont expulsé plus de 25 000 étrangers dans des pays tiers, selon Forbidden Stories",
+   "url": "https://www.europe1.fr/police-justice/sondage-85-des-francais-estiment-quil-faut-emprisonner-systematiquement-tous-les-etrangers-sous-oqtf-auteurs-de-crimes-et-delits-en-attendant-leur-expulsion-1084706",
+   "n_members": 23,
+   "n_sources": 16,
    "counts": {
     "left": 2,
-    "centre": 8,
-    "right": 4
+    "centre": 9,
+    "right": 5
    },
    "style_counts": {
     "factuel": 9,
     "mixte": 4,
-    "opinion": 1
+    "opinion": 3
    },
-   "blindspot_score": 0.333,
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.98,
+   "category": "international",
+   "terms_left": [
+    "pays",
+    "trump",
+    "retour"
+   ],
+   "terms_right": [
+    "france",
+    "français",
+    "immigration"
+   ]
+  },
+  {
+   "title": "Des chercheurs ont piraté OpenAI en utilisant une IA d'Anthropic",
+   "url": "https://www.la-croix.com/societe/openai-anthropic-et-google-travaillent-a-la-creation-d-un-organe-de-supervision-des-risques-ia-20260915",
+   "n_members": 22,
+   "n_sources": 16,
+   "counts": {
+    "left": 1,
+    "centre": 8,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 7,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.75,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "sciences-tech",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "CARTE. Journées du patrimoine 2026 : voici tous les sites exceptionnellement ouverts en France ce week-end",
+   "url": "https://www.ladepeche.fr/2026/09/17/monastere-dynamite-chateau-prive-ouvert-abbaye-habitee-par-des-moniales-quelles-sont-les-visites-insolites-a-faire-lors-des-journees-du-patrimoine-en-13552431.php",
+   "n_members": 40,
+   "n_sources": 15,
+   "counts": {
+    "left": 2,
+    "centre": 8,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 4,
+    "opinion": 2
+   },
+   "blindspot_score": 0.429,
    "blindspot_for": null,
    "divergence": null,
    "category": "culture",
@@ -640,83 +1015,17 @@
    "terms_right": []
   },
   {
-   "title": "La Chine et le Japon remplacent-ils les travailleurs immigrés par des robots ?",
-   "url": "https://information.tv5monde.com/international/le-parti-communiste-chinois-menace-par-lia-le-chef-des-services-secrets-inquiet-de-forces-hostiles-2837741",
-   "n_members": 18,
-   "n_sources": 14,
-   "counts": {
-    "left": 2,
-    "centre": 8,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 4,
-    "opinion": 0
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "économie",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Etats-Unis : Donald Trump rencontrera Emmanuel Macron à New York ce lundi",
-   "url": "https://www.publicsenat.fr/actualites/international/emmanuel-macron-a-lonu-un-dernier-discours-sous-le-signe-du-pragmatisme-face-a-la-multiplication-des-crises",
-   "n_members": 16,
-   "n_sources": 14,
-   "counts": {
-    "left": 2,
-    "centre": 8,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Lyon s'impose 4-0 contre Rennes et grimpe à la deuxième place",
-   "url": "https://www.lefigaro.fr/sports/football/ligue-europa/besiktas-marseille-en-video-le-minot-keyliane-abdallah-marque-pour-sa-premiere-en-ligue-europa-20260917",
-   "n_members": 46,
-   "n_sources": 13,
-   "counts": {
-    "left": 1,
-    "centre": 8,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 3,
-    "opinion": 1
-   },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
    "title": "Isère. Deux morts dans un accident de deltaplane lors de la Coupe Icare",
    "url": "https://www.leprogres.fr/faits-divers-justice/2026/09/20/deux-morts-dans-un-accident-de-deltaplane-lors-de-la-coupe-icare",
-   "n_members": 13,
-   "n_sources": 13,
+   "n_members": 14,
+   "n_sources": 14,
    "counts": {
     "left": 1,
-    "centre": 6,
+    "centre": 7,
     "right": 6
    },
    "style_counts": {
-    "factuel": 8,
+    "factuel": 9,
     "mixte": 4,
     "opinion": 1
    },
@@ -728,28 +1037,80 @@
    "terms_right": []
   },
   {
-   "title": "La Pologne en état d'alerte face aux attaques russes en Ukraine",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 25,
-   "n_sources": 12,
+   "title": "Lyon s'impose 4-0 contre Rennes et grimpe à la deuxième place",
+   "url": "https://www.lefigaro.fr/sports/football/ligue-europa/besiktas-marseille-en-video-le-minot-keyliane-abdallah-marque-pour-sa-premiere-en-ligue-europa-20260917",
+   "n_members": 59,
+   "n_sources": 13,
    "counts": {
-    "left": 3,
-    "centre": 5,
+    "left": 1,
+    "centre": 8,
     "right": 4
    },
    "style_counts": {
+    "factuel": 9,
+    "mixte": 3,
+    "opinion": 1
+   },
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "sport",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Première réussie pour Abline, passeur décisif : découvrez les notes des joueurs de l’AS Monaco, vainqueur du RC Lens (2-1)",
+   "url": "https://www.nicematin.com/guide-conso/monaco-lens-a-quelle-heure-et-sur-quelle-chaine-voir-le-choc-en-direct-10725250",
+   "n_members": 31,
+   "n_sources": 13,
+   "counts": {
+    "left": 1,
+    "centre": 7,
+    "right": 5
+   },
+   "style_counts": {
     "factuel": 8,
+    "mixte": 4,
+    "opinion": 1
+   },
+   "blindspot_score": 0.667,
+   "blindspot_for": "gauche",
+   "divergence": 0.83,
+   "category": "sport",
+   "terms_left": [
+    "match",
+    "entraîneur",
+    "parker"
+   ],
+   "terms_right": [
+    "monaco",
+    "qu",
+    "lens"
+   ]
+  },
+  {
+   "title": "Guerre en Ukraine: BFMTV avec les lanceurs de drones ukrainiens",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
+   "n_members": 27,
+   "n_sources": 13,
+   "counts": {
+    "left": 3,
+    "centre": 6,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 9,
     "mixte": 4,
     "opinion": 0
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.744,
+   "divergence": 0.719,
    "category": "international",
    "terms_left": [
-    "bombardements",
     "direct",
-    "point"
+    "mondial",
+    "marché"
    ],
    "terms_right": [
     "drones",
@@ -758,306 +1119,34 @@
    ]
   },
   {
-   "title": "EN DIRECT OM - PSG : Dembélé fait passer un premier gros frisson dans le Vélodrome... Venez suivre le Classique avec nous",
-   "url": "https://www.leparisien.fr/sports/football/ligue-1/paris-fc-strasbourg-ca-sera-un-match-ouvert-predit-liam-rosenior-avant-ses-retrouvailles-avec-son-ancien-club-18-09-2026-ZS3BTZUM6BATZOEKHHUSBD7X4U.php",
-   "n_members": 35,
-   "n_sources": 11,
-   "counts": {
-    "left": 1,
-    "centre": 7,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 8,
-    "mixte": 3,
-    "opinion": 0
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.773,
-   "category": "sport",
-   "terms_left": [
-    "saint-germain",
-    "paris saint-germain",
-    "marseille"
-   ],
-   "terms_right": [
-    "classique",
-    "ligue",
-    "om"
-   ]
-  },
-  {
-   "title": "Affaire Bétharram : un évêque résistant mis en cause pour des violences sexuelles",
-   "url": "https://www.ouest-france.fr/faits-divers/violence-sexuelle/affaire-betharram-des-victimes-racontent-des-tortures-et-des-violences-systemiques-un-comite-de-suivi-est-cree-66adf27c-b2c7-11f1-bc32-13ddcee9efa7",
-   "n_members": 14,
-   "n_sources": 11,
+   "title": "Mondiaux de cyclisme 2026 : combien Paul Seixas va-t-il toucher grâce à sa médaille de bronze décrochée sur le contre-la-montre ?",
+   "url": "https://www.cnews.fr/sport/2026-09-19/mondiaux-de-cyclisme-2026-le-programme-complet-des-championnats-du-monde-montreal",
+   "n_members": 27,
+   "n_sources": 12,
    "counts": {
     "left": 2,
-    "centre": 5,
+    "centre": 6,
     "right": 4
    },
    "style_counts": {
     "factuel": 6,
     "mixte": 4,
-    "opinion": 1
+    "opinion": 2
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.655,
-   "category": "faits-divers",
+   "divergence": 0.661,
+   "category": "sport",
    "terms_left": [
-    "affaire",
-    "affaire bétharram",
-    "théas"
+    "mile",
+    "copenhague",
+    "championne"
    ],
    "terms_right": [
-    "france",
-    "léon",
-    "pape"
+    "seixas",
+    "contre-la-montre",
+    "paul seixas"
    ]
-  },
-  {
-   "title": "Emmanuel Macron interviewé jeudi à 20H sur TF1 et France 2",
-   "url": "https://www.tf1info.fr/politique/interview-emmanuel-macron-sera-l-invite-du-jt-de-20h-de-tf1-et-france-2-jeudi-24-septembre-2465240.html",
-   "n_members": 11,
-   "n_sources": 11,
-   "counts": {
-    "left": 1,
-    "centre": 6,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 8,
-    "mixte": 3,
-    "opinion": 0
-   },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "politique",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Le Best of Tech&Co La quotidienne du samedi 19 septembre",
-   "url": "https://www.radiofrance.fr/francebleu/podcasts/l-horoscope-de-catherine-viguie/l-horoscope-du-jeudi-17-septembre-2026-1586240",
-   "n_members": 40,
-   "n_sources": 10,
-   "counts": {
-    "left": 2,
-    "centre": 2,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 5,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "économie",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Mondiaux de cyclisme: Evenepoel puissance 4, Seixas en bronze sur le chrono",
-   "url": "https://www.cnews.fr/sport/2026-09-19/mondiaux-de-cyclisme-2026-le-programme-complet-des-championnats-du-monde-montreal",
-   "n_members": 18,
-   "n_sources": 9,
-   "counts": {
-    "left": 1,
-    "centre": 5,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 5,
-    "mixte": 3,
-    "opinion": 1
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Une femme et son bébé tués en Seine-Saint-Denis, le conjoint placé en garde à vue",
-   "url": "https://www.leparisien.fr/seine-saint-denis-93/bobigny-93000/drancy-une-femme-et-son-bebe-dun-mois-tues-le-conjoint-soupconne-et-en-fuite-17-09-2026-YHSYOGHIBJGOTNVRK7RVFQM6GA.php",
-   "n_members": 14,
-   "n_sources": 9,
-   "counts": {
-    "left": 0,
-    "centre": 6,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 7,
-    "mixte": 1,
-    "opinion": 1
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Grèce : un homme meurt après une altercation à propos d'un transat de plage",
-   "url": "https://www.sudouest.fr/faits-divers/un-homme-meurt-apres-une-violente-altercation-a-propos-d-un-transat-de-plage-en-grece-30711095.php",
-   "n_members": 9,
-   "n_sources": 9,
-   "counts": {
-    "left": 0,
-    "centre": 5,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 7,
-    "mixte": 1,
-    "opinion": 1
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Un TER percute une voiture près de Toulouse, la conductrice en urgence absolue",
-   "url": "https://www.ladepeche.fr/2026/09/17/que-sest-il-passe-sur-cette-ligne-sncf-pres-de-toulouse-ou-un-train-a-franchi-un-passage-a-niveau-ouvert-a-140-kmh-13556047.php",
-   "n_members": 12,
-   "n_sources": 8,
-   "counts": {
-    "left": 1,
-    "centre": 5,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 7,
-    "mixte": 1,
-    "opinion": 0
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Les Etats-Unis ont expulsé plus de 25 000 étrangers dans des pays tiers, selon Forbidden Stories",
-   "url": "https://www.france24.com/fr/vid%C3%A9o/20260920-the-deportation-project-r%C3%A9v%C3%A9lations-sur-les-expulsions-de-masse-de-l-administration-trump",
-   "n_members": 12,
-   "n_sources": 8,
-   "counts": {
-    "left": 1,
-    "centre": 7,
-    "right": 0
-   },
-   "style_counts": {
-    "factuel": 7,
-    "mixte": 1,
-    "opinion": 0
-   },
-   "blindspot_score": -1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Futurs billets en euros : il ne vous reste que jusqu'à lundi pour voter !",
-   "url": "https://www.radiofrance.fr/franceculture/podcasts/comme-personne/elle-a-relooke-les-billets-en-euro-la-designeuse-isabelle-daeron-4310662",
-   "n_members": 9,
-   "n_sources": 8,
-   "counts": {
-    "left": 2,
-    "centre": 2,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 4,
-    "mixte": 3,
-    "opinion": 1
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Allemagne : qui est Elif Eralp, la favorite de gauche pour remporter la mairie de Berlin ?",
-   "url": "https://www.liberation.fr/international/europe/issue-de-limmigration-membre-de-la-gauche-radicale-favorite-des-sondages-elif-eralp-a-le-vent-en-poupe-pour-la-mairie-de-berlin-20260919_HOVSSTDVOZF5VHDV5WS7BE7MOI/",
-   "n_members": 9,
-   "n_sources": 8,
-   "counts": {
-    "left": 4,
-    "centre": 4,
-    "right": 0
-   },
-   "style_counts": {
-    "factuel": 4,
-    "mixte": 3,
-    "opinion": 1
-   },
-   "blindspot_score": -1.0,
-   "blindspot_for": "droite",
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Une famille agressée chez elle dans le Pas-de-Calais, 40 000 euros en cryptomonnaie dérobés",
-   "url": "https://www.bfmtv.com/grand-littoral/une-famille-dont-le-pere-travaille-dans-la-cryptomonnaie-sequestree-et-ligotee-a-son-domicile-de-vendin-le-vieil-quatre-suspects-en-fuite_AN-202609200176.html",
-   "n_members": 9,
-   "n_sources": 8,
-   "counts": {
-    "left": 0,
-    "centre": 5,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 7,
-    "mixte": 0,
-    "opinion": 1
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Un homme grièvement blessé par un tir de l’ICE au Texas",
-   "url": "https://www.leparisien.fr/international/etats-unis/texas-un-homme-touche-par-des-tirs-de-lice-un-elu-democrate-demande-une-enquete-complete-et-independante-21-09-2026-A3GYSGWTVFCFVHX5KNW4VSCTME.php",
-   "n_members": 8,
-   "n_sources": 8,
-   "counts": {
-    "left": 0,
-    "centre": 6,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 7,
-    "mixte": 1,
-    "opinion": 0
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
