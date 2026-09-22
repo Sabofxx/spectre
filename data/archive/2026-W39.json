@@ -1,6 +1,6 @@
 {
  "week": "2026-W39",
- "generated_at": "2026-09-22T20:19:53+00:00",
+ "generated_at": "2026-09-22T23:05:44+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.412,
    "blindspot_for": null,
-   "divergence": 0.468,
+   "divergence": 0.469,
    "category": "économie",
    "terms_left": [
     "prix essence",
@@ -65,9 +65,39 @@
    ]
   },
   {
+   "title": "Donald Trump signe avec le Danemark et le Groenland un accord après des mois de tensions",
+   "url": "https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/trump-qualifie-les-avertissements-sur-l-ia-de-complot-malfaisant_194819",
+   "n_members": 85,
+   "n_sources": 31,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": 0.176,
+   "blindspot_for": null,
+   "divergence": 0.302,
+   "category": "international",
+   "terms_left": [
+    "obtenu",
+    "président états-unis",
+    "obtenu contrôle"
+   ],
+   "terms_right": [
+    "new york",
+    "york",
+    "new"
+   ]
+  },
+  {
    "title": "Carburants : le gouvernement français annonce de nouvelles aides pour faire face à la crise",
    "url": "https://www.publicsenat.fr/actualites/politique/le-premier-ministre-est-tres-inquiet-sur-les-prix-de-lessence-avant-de-finaliser-sa-copie-budgetaire-sebastien-lecornu-a-recu-letat-major-du-senat",
-   "n_members": 125,
+   "n_members": 126,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -81,11 +111,11 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.407,
+   "divergence": 0.408,
    "category": "économie",
    "terms_left": [
-    "élargissement",
     "français",
+    "élargissement",
     "gouvernement"
    ],
    "terms_right": [
@@ -111,7 +141,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.297,
+   "divergence": 0.296,
    "category": "international",
    "terms_left": [
     "scrutins",
@@ -141,7 +171,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.497,
+   "divergence": 0.498,
    "category": "politique",
    "terms_left": [
     "elysée",
@@ -157,7 +187,7 @@
   {
    "title": "Médias bannis de la Maison Blanche par Trump: CNN, MS NOW et Politico déposent un recours en justice",
    "url": "https://www.humanite.fr/monde/donald-trump/midterms-comment-les-republicains-tentent-de-confisquer-le-vote-des-americains",
-   "n_members": 110,
+   "n_members": 112,
    "n_sources": 30,
    "counts": {
     "left": 8,
@@ -171,7 +201,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.363,
+   "divergence": 0.365,
    "category": "international",
    "terms_left": [
     "américains",
@@ -179,39 +209,9 @@
     "presse"
    ],
    "terms_right": [
-    "télévision",
-    "médias maison",
-    "face"
-   ]
-  },
-  {
-   "title": "Donald Trump signe avec le Danemark et le Groenland un accord après des mois de tensions",
-   "url": "https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/trump-qualifie-les-avertissements-sur-l-ia-de-complot-malfaisant_194819",
-   "n_members": 84,
-   "n_sources": 30,
-   "counts": {
-    "left": 7,
-    "centre": 14,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 10,
-    "opinion": 3
-   },
-   "blindspot_score": 0.125,
-   "blindspot_for": null,
-   "divergence": 0.299,
-   "category": "international",
-   "terms_left": [
-    "obtenu",
-    "président états-unis",
-    "obtenu contrôle"
-   ],
-   "terms_right": [
-    "new york",
-    "york",
-    "new"
+    "trump tv",
+    "tv",
+    "télévision"
    ]
   },
   {
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.703,
+   "divergence": 0.704,
    "category": "politique",
    "terms_left": [
     "marine",
@@ -359,8 +359,8 @@
     "campagne"
    ],
    "terms_right": [
-    "nicolas dupont-aignan",
     "dupont-aignan",
+    "nicolas dupont-aignan",
     "nicolas"
    ]
   },
@@ -395,7 +395,7 @@
   {
    "title": "Emmanuel Macron rencontrera Donald Trump ce lundi à New York",
    "url": "https://www.publicsenat.fr/actualites/international/emmanuel-macron-a-lonu-un-dernier-discours-sous-le-signe-du-pragmatisme-face-a-la-multiplication-des-crises",
-   "n_members": 93,
+   "n_members": 94,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -409,17 +409,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.335,
+   "divergence": 0.327,
    "category": "international",
    "terms_left": [
-    "marge assemblée",
     "guerre",
-    "générale onu"
+    "guerre ukraine",
+    "ukraine"
    ],
    "terms_right": [
     "emmanuel",
     "emmanuel macron",
-    "macron"
+    "france"
    ]
   },
   {
@@ -469,12 +469,12 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.437,
+   "divergence": 0.441,
    "category": "international",
    "terms_left": [
+    "président",
     "recevoir",
-    "france canada",
-    "président"
+    "france canada"
    ],
    "terms_right": [
     "visite",
@@ -499,7 +499,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.643,
+   "divergence": 0.644,
    "category": "société",
    "terms_left": [
     "mort",
@@ -529,7 +529,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.444,
+   "divergence": 0.445,
    "category": "sport",
    "terms_left": [
     "tee-shirt",
@@ -679,7 +679,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.542,
+   "divergence": 0.541,
    "category": "international",
    "terms_left": [
     "union européenne",
@@ -783,6 +783,36 @@
    ]
   },
   {
+   "title": "Anthropic appelle à ralentir la course à l’IA… mais envisagerait déjà un nouveau modèle face à OpenAI",
+   "url": "https://www.la-croix.com/societe/openai-anthropic-et-google-travaillent-a-la-creation-d-un-organe-de-supervision-des-risques-ia-20260915",
+   "n_members": 36,
+   "n_sources": 22,
+   "counts": {
+    "left": 3,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.455,
+   "blindspot_for": null,
+   "divergence": 0.771,
+   "category": "sciences-tech",
+   "terms_left": [
+    "pays",
+    "ministère",
+    "impulsion"
+   ],
+   "terms_right": [
+    "openai",
+    "anthropic",
+    "ia"
+   ]
+  },
+  {
    "title": "Zinédine Zidane débute avec les Bleus lors d'un entraînement à Clairefontaine",
    "url": "https://www.leparisien.fr/sports/football/equipe-de-france/equipe-de-france-lepaul-truffert-jacquet-quels-pourraient-etre-les-nouveaux-visages-de-la-premiere-liste-de-zidane-17-09-2026-YEWBEM6EGZDDJB2XXLMNIFAO2M.php",
    "n_members": 93,
@@ -799,7 +829,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.398,
+   "divergence": 0.397,
    "category": "sport",
    "terms_left": [
     "liste",
@@ -840,6 +870,36 @@
     "sud",
     "mer",
     "feu"
+   ]
+  },
+  {
+   "title": "Guerre en Ukraine : Kiev et Washington veulent que la guerre s’arrête « avant l’hiver », indique Zelensky",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
+   "n_members": 52,
+   "n_sources": 21,
+   "counts": {
+    "left": 3,
+    "centre": 13,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 5,
+    "opinion": 0
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.65,
+   "category": "international",
+   "terms_left": [
+    "direct",
+    "guerre",
+    "direct guerre"
+   ],
+   "terms_right": [
+    "russes",
+    "drones",
+    "semaine"
    ]
   },
   {
@@ -923,8 +983,8 @@
    "category": "international",
    "terms_left": [
     "riyad",
-    "arabie",
-    "saoudite"
+    "arabie saoudite",
+    "arabie"
    ],
    "terms_right": [
     "guerre",
@@ -935,7 +995,7 @@
   {
    "title": "Grèce : un homme meurt après une altercation à propos d'un transat de plage",
    "url": "https://www.sudouest.fr/societe/animaux/un-nageur-decede-apres-une-attaque-de-requin-pres-de-perth-en-australie-30680575.php",
-   "n_members": 55,
+   "n_members": 56,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -963,33 +1023,63 @@
    ]
   },
   {
-   "title": "EN DIRECT, guerre en Ukraine : la Russie affirme avoir intercepté 45 drones ukrainiens en douze heures",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 44,
+   "title": "Migrants expulsés vers l'Afrique: plongée dans la mécanique de l’administration Trump",
+   "url": "https://www.lefigaro.fr/international/emmanuel-gregoire-va-rencontrer-zohran-mamdani-a-new-york-vendredi-20260918",
+   "n_members": 45,
    "n_sources": 20,
    "counts": {
-    "left": 3,
-    "centre": 12,
+    "left": 6,
+    "centre": 9,
     "right": 5
    },
    "style_counts": {
-    "factuel": 15,
-    "mixte": 5,
-    "opinion": 0
+    "factuel": 11,
+    "mixte": 6,
+    "opinion": 3
    },
-   "blindspot_score": 0.25,
+   "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.69,
+   "divergence": 0.81,
    "category": "international",
    "terms_left": [
-    "direct",
-    "russie",
-    "direct guerre"
+    "états-unis",
+    "etats-unis",
+    "ordre"
    ],
    "terms_right": [
-    "russes",
-    "semaine",
-    "drones"
+    "ceuta",
+    "projet",
+    "maire"
+   ]
+  },
+  {
+   "title": "Prix du carburant : la ministre de la Mer en déplacement pour tenter de calmer la colère des pêcheurs",
+   "url": "https://lcp.fr/actualites/un-homme-jete-a-terre-a-carcassonne-par-la-police-la-gauche-denonce-des-images",
+   "n_members": 44,
+   "n_sources": 20,
+   "counts": {
+    "left": 5,
+    "centre": 9,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 5,
+    "opinion": 4
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.59,
+   "category": "société",
+   "terms_left": [
+    "colère",
+    "jaunes",
+    "gilets jaunes"
+   ],
+   "terms_right": [
+    "pêcheurs",
+    "pêche",
+    "militaire"
    ]
   },
   {
@@ -1023,58 +1113,6 @@
    ]
   },
   {
-   "title": "Anthropic appelle à ralentir la course à l’IA… mais envisagerait déjà un nouveau modèle face à OpenAI",
-   "url": "https://www.la-croix.com/societe/openai-anthropic-et-google-travaillent-a-la-creation-d-un-organe-de-supervision-des-risques-ia-20260915",
-   "n_members": 32,
-   "n_sources": 20,
-   "counts": {
-    "left": 2,
-    "centre": 10,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "sciences-tech",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Migrants expulsés vers l'Afrique: plongée dans la mécanique de l’administration Trump",
-   "url": "https://www.lefigaro.fr/international/emmanuel-gregoire-va-rencontrer-zohran-mamdani-a-new-york-vendredi-20260918",
-   "n_members": 41,
-   "n_sources": 19,
-   "counts": {
-    "left": 6,
-    "centre": 8,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": -0.091,
-   "blindspot_for": null,
-   "divergence": 0.809,
-   "category": "international",
-   "terms_left": [
-    "états-unis",
-    "etats-unis",
-    "ordre"
-   ],
-   "terms_right": [
-    "ceuta",
-    "projet",
-    "maire"
-   ]
-  },
-  {
    "title": "Catherine Ringer, célèbre voix des Rita Mitsouko, inhumée à Paris aux côtés de Fred Chichin",
    "url": "https://reporterre.net/Mort-de-Catherine-Ringer-chanteuse-et-militante-pour-l-ecologie",
    "n_members": 26,
@@ -1091,17 +1129,17 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.27,
+   "divergence": 0.29,
    "category": "culture",
    "terms_left": [
-    "mitsouko",
     "rita mitsouko",
+    "mitsouko",
     "rita"
    ],
    "terms_right": [
-    "inhumée",
     "paris",
-    "côtés"
+    "côtés",
+    "inhumée"
    ]
   },
   {
@@ -1151,7 +1189,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.55,
+   "divergence": 0.551,
    "category": "politique",
    "terms_left": [
     "place",
@@ -1162,36 +1200,6 @@
     "stagiaire",
     "politique",
     "élection présidentielle"
-   ]
-  },
-  {
-   "title": "Russie: le parti de Vladimir Poutine donné vainqueur de législatives sans surprises",
-   "url": "https://information.tv5monde.com/international/danemark-lituanie-lue-denonce-la-montee-des-provocations-russes-2837597",
-   "n_members": 43,
-   "n_sources": 18,
-   "counts": {
-    "left": 4,
-    "centre": 10,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 6,
-    "opinion": 0
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.781,
-   "category": "international",
-   "terms_left": [
-    "poutine",
-    "ans",
-    "vladimir"
-   ],
-   "terms_right": [
-    "menace russe",
-    "élections législatives",
-    "élections"
    ]
   }
  ]
