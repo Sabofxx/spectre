@@ -1,13 +1,13 @@
 {
  "week": "2026-W39",
- "generated_at": "2026-09-22T01:42:25+00:00",
+ "generated_at": "2026-09-22T07:03:19+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Abattement fiscal, gel des pensions : le gouvernement affine ses propositions concernant les retraités pour son budget 2027",
    "url": "https://www.publicsenat.fr/actualites/politique/budget-bruno-retailleau-demande-au-gouvernement-le-retour-de-la-reforme-des-retraites",
-   "n_members": 134,
+   "n_members": 137,
    "n_sources": 35,
    "counts": {
     "left": 8,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.238,
    "blindspot_for": null,
-   "divergence": 0.341,
+   "divergence": 0.331,
    "category": "politique",
    "terms_left": [
     "qu",
@@ -35,9 +35,39 @@
    ]
   },
   {
+   "title": "Consommation. Prix des carburants : un nouveau record atteint en France",
+   "url": "https://www.nouvelobs.com/economie/20260916.OBS118307/la-flambee-du-prix-des-carburants-preoccupe-le-gouvernement-entre-difficulte-d-approvisionnement-et-inflation.html",
+   "n_members": 108,
+   "n_sources": 31,
+   "counts": {
+    "left": 5,
+    "centre": 14,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.412,
+   "blindspot_for": null,
+   "divergence": 0.462,
+   "category": "économie",
+   "terms_left": [
+    "prix essence",
+    "essence",
+    "record gazole"
+   ],
+   "terms_right": [
+    "euros litre",
+    "qu",
+    "litre"
+   ]
+  },
+  {
    "title": "Élections régionales en Allemagne : Friedrich Merz fragilisé par la poussée de l’AfD",
    "url": "https://www.liberation.fr/international/europe/montee-de-lextreme-droite-en-allemagne-jurgen-klopp-ne-veut-pas-laisser-la-fierte-nationale-aux-mauvaises-personnes-20260917_2WH334ZWYNBBRMZSY6MLPXAGCU/",
-   "n_members": 115,
+   "n_members": 116,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -51,7 +81,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.313,
+   "divergence": 0.306,
    "category": "international",
    "terms_left": [
     "scrutins",
@@ -81,53 +111,23 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.493,
+   "divergence": 0.488,
    "category": "politique",
    "terms_left": [
     "elysée",
-    "candidats",
-    "crises"
+    "crises",
+    "internationales"
    ],
    "terms_right": [
+    "pays",
     "crise",
-    "carburants",
-    "prix carburants"
-   ]
-  },
-  {
-   "title": "Consommation. Prix des carburants : un nouveau record atteint en France",
-   "url": "https://www.nouvelobs.com/economie/20260916.OBS118307/la-flambee-du-prix-des-carburants-preoccupe-le-gouvernement-entre-difficulte-d-approvisionnement-et-inflation.html",
-   "n_members": 103,
-   "n_sources": 30,
-   "counts": {
-    "left": 4,
-    "centre": 14,
-    "right": 12
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 8,
-    "opinion": 5
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.472,
-   "category": "économie",
-   "terms_left": [
-    "prix essence",
-    "essence",
-    "record gazole"
-   ],
-   "terms_right": [
-    "litre",
-    "euros litre",
-    "qu"
+    "carburants"
    ]
   },
   {
    "title": "Une atteinte inédite à la presse : Donald Trump interdit l’accès à la Maison-Blanche à trois médias",
    "url": "https://www.humanite.fr/monde/donald-trump/midterms-comment-les-republicains-tentent-de-confisquer-le-vote-des-americains",
-   "n_members": 93,
+   "n_members": 98,
    "n_sources": 30,
    "counts": {
     "left": 8,
@@ -141,47 +141,77 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.37,
+   "divergence": 0.386,
    "category": "international",
    "terms_left": [
     "américains",
     "médias américains",
-    "chaînes"
+    "effet immédiat"
    ],
    "terms_right": [
-    "msnow",
     "médias maison",
-    "trump annoncé"
+    "face",
+    "msnow"
    ]
   },
   {
    "title": "Groenland : Donald Trump annonce un accord conférant aux États-Unis «un contrôle permanent sur la sécurité» de l'archipel",
    "url": "https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/trump-qualifie-les-avertissements-sur-l-ia-de-complot-malfaisant_194819",
-   "n_members": 68,
-   "n_sources": 29,
+   "n_members": 71,
+   "n_sources": 30,
    "counts": {
     "left": 7,
     "centre": 14,
-    "right": 8
+    "right": 9
    },
    "style_counts": {
-    "factuel": 16,
+    "factuel": 17,
     "mixte": 10,
     "opinion": 3
    },
-   "blindspot_score": 0.067,
+   "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.322,
+   "divergence": 0.329,
    "category": "international",
    "terms_left": [
-    "obtenu contrôle",
-    "crise",
-    "groenland danemark"
+    "accord bon",
+    "europe",
+    "danois"
    ],
    "terms_right": [
     "états-unis",
-    "donald",
-    "donald trump"
+    "arctique",
+    "donald"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : Philippe Brun réclame d’être réintégré dans la primaire à gauche",
+   "url": "https://www.nouvelobs.com/politique/20260915.OBS118250/presidentielle-2027-francois-ruffin-rejete-de-la-primaire-socialiste-et-toujours-plus-isole-continue-de-rever-a-l-union-de-la-gauche.html",
+   "n_members": 73,
+   "n_sources": 29,
+   "counts": {
+    "left": 5,
+    "centre": 16,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 6,
+    "opinion": 6
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.493,
+   "category": "politique",
+   "terms_left": [
+    "primaire gauche",
+    "présidentielle",
+    "violence"
+   ],
+   "terms_right": [
+    "titre",
+    "qu",
+    "socialiste"
    ]
   },
   {
@@ -231,16 +261,16 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.713,
+   "divergence": 0.719,
    "category": "politique",
    "terms_left": [
     "citoyenne",
     "marine",
-    "marine tondelier"
+    "candidature"
    ],
    "terms_right": [
+    "france",
     "nicolas",
-    "dupont-aignan",
     "nicolas dupont-aignan"
    ]
   },
@@ -303,9 +333,39 @@
    ]
   },
   {
+   "title": "Mexique, Cameroun, Eswatini... Les États-Unis ont expulsé secrètement plus de 25.000 étrangers vers des pays tiers",
+   "url": "https://information.tv5monde.com/international/le-parti-communiste-chinois-menace-par-lia-le-chef-des-services-secrets-inquiet-de-forces-hostiles-2837741",
+   "n_members": 58,
+   "n_sources": 28,
+   "counts": {
+    "left": 4,
+    "centre": 15,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.917,
+   "category": "international",
+   "terms_left": [
+    "pays",
+    "etats-unis",
+    "trump"
+   ],
+   "terms_right": [
+    "france",
+    "français",
+    "états-unis"
+   ]
+  },
+  {
    "title": "Près d'une station sur cinq manque d'au moins un carburant : risque-t-on une pénurie d'essence en France ?",
    "url": "https://www.nouvelobs.com/economie/20260915.OBS118251/pourquoi-des-pecheurs-bloquent-ils-un-depot-petrolier-a-fos-sur-mer.html",
-   "n_members": 70,
+   "n_members": 71,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -319,7 +379,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.619,
+   "divergence": 0.618,
    "category": "économie",
    "terms_left": [
     "pêcheurs",
@@ -327,45 +387,15 @@
     "blocages"
    ],
    "terms_right": [
-    "face",
-    "france",
-    "flambée"
-   ]
-  },
-  {
-   "title": "Mexique, Cameroun, Eswatini... Les États-Unis ont expulsé secrètement plus de 25.000 étrangers vers des pays tiers",
-   "url": "https://information.tv5monde.com/international/le-parti-communiste-chinois-menace-par-lia-le-chef-des-services-secrets-inquiet-de-forces-hostiles-2837741",
-   "n_members": 53,
-   "n_sources": 26,
-   "counts": {
-    "left": 3,
-    "centre": 14,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.93,
-   "category": "international",
-   "terms_left": [
-    "etats-unis",
-    "pays",
-    "trump"
-   ],
-   "terms_right": [
-    "france",
-    "français",
-    "états-unis"
+    "guerre",
+    "mois",
+    "france"
    ]
   },
   {
    "title": "Mort de Federico Aramburu : Loïk Le Priol ajuste sa version mais continue d'affirmer s'être défendu face à \"un tabassage total\" et avoir tiré par \"pur réflexe militaire\"",
    "url": "https://www.ouest-france.fr/societe/faits-divers/des-coups-de-feu-tires-pendant-a-proximite-dune-ecole-dans-loise-deux-personnes-blessees-des-eleves-confines-4a9c1022-b2cd-11f1-bc32-13ddcee9efa7",
-   "n_members": 64,
+   "n_members": 65,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -379,23 +409,23 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.7,
+   "divergence": 0.686,
    "category": "société",
    "terms_left": [
     "procès",
-    "auteur",
-    "argentin"
+    "mort",
+    "loïk priol"
    ],
    "terms_right": [
-    "école",
     "tirs",
+    "école",
     "daillet"
    ]
   },
   {
-   "title": "Budget 2027 : le taux de prélèvements obligatoires va augmenter en 2027",
+   "title": "Budget: \"Des retraités vont très probablement payer plus d'impôts sur le revenu\", analyse Benoît Perrin, président de Contribuables Associés",
    "url": "https://www.liberation.fr/economie/social/gel-du-point-dindice-des-fonctionnaires-dans-le-budget-2027-sophie-binet-denonce-un-scandale-et-promet-une-journee-noire-le-29-septembre-20260917_CLM5XBZ6SJHMXJE5P7B4XF3MSE/",
-   "n_members": 61,
+   "n_members": 62,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -425,7 +455,7 @@
   {
    "title": "Paris: plusieurs milliers de manifestants contre la proposition de loi sur l’usage des armes par les forces de l’ordre",
    "url": "https://www.radiofrance.fr/franceculture/podcasts/le-regard-culturel/le-regard-culturel-chronique-du-vendredi-18-septembre-2026-9708140",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 25,
    "counts": {
     "left": 7,
@@ -439,7 +469,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.522,
+   "divergence": 0.521,
    "category": "société",
    "terms_left": [
     "défense",
@@ -453,9 +483,39 @@
    ]
   },
   {
-   "title": "Saint-Pierre-et-Miquelon. Face à Trump, Macron réaffirme que l'archipel est « français »",
+   "title": "Football. Kylian Mbappé : « il n'y a pas de tension » avec Ousmane Dembélé à propos du Ballon d'Or",
+   "url": "https://www.liberation.fr/sports/riner-et-langoisse-du-rn-mbappe-et-le-t-shirt-hommage-a-ceuta-les-deux-stars-critiquees-par-lextreme-droite-et-ses-allies-mediatiques-20260917_XBAAKQSCGFAMRPNTDWWYLZBE5Q/",
+   "n_members": 59,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.461,
+   "category": "sport",
+   "terms_left": [
+    "tee-shirt",
+    "sécurité",
+    "mis"
+   ],
+   "terms_right": [
+    "nike",
+    "soutien",
+    "face"
+   ]
+  },
+  {
+   "title": "Saint-Pierre-et-Miquelon est \"fier d'être français\" : Macron répond à Trump depuis l'archipel",
    "url": "https://www.tf1info.fr/societe/dans-un-monde-en-crise-on-a-besoin-de-se-retrouver-dans-des-reperes-comment-expliquer-l-engouement-pour-la-visite-du-pape-2464794.html",
-   "n_members": 105,
+   "n_members": 106,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -469,17 +529,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.451,
+   "divergence": 0.441,
    "category": "international",
    "terms_left": [
-    "atlantique nord",
     "recevoir",
-    "atlantique"
+    "france canada",
+    "atlantique nord"
    ],
    "terms_right": [
     "xiv",
-    "visite",
-    "léon xiv"
+    "léon xiv",
+    "léon"
    ]
   },
   {
@@ -529,16 +589,16 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.475,
+   "divergence": 0.494,
    "category": "international",
    "terms_left": [
-    "législatives",
-    "chine",
-    "mesures"
+    "actifs nestlé",
+    "guerre ukraine",
+    "sanctions russie"
    ],
    "terms_right": [
-    "leroy merlin",
-    "leroy",
+    "vladimir poutine",
+    "vladimir",
     "france"
    ]
   },
@@ -559,7 +619,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.552,
+   "divergence": 0.542,
    "category": "international",
    "terms_left": [
     "union européenne",
@@ -568,38 +628,8 @@
    ],
    "terms_right": [
     "europe",
-    "canada",
-    "qu"
-   ]
-  },
-  {
-   "title": "Don de Mbappé : le responsable de la sécurité des Bleus, et Varois d’adoption, mis en examen",
-   "url": "https://www.liberation.fr/sports/riner-et-langoisse-du-rn-mbappe-et-le-t-shirt-hommage-a-ceuta-les-deux-stars-critiquees-par-lextreme-droite-et-ses-allies-mediatiques-20260917_XBAAKQSCGFAMRPNTDWWYLZBE5Q/",
-   "n_members": 55,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
-    "opinion": 4
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.465,
-   "category": "sport",
-   "terms_left": [
-    "tee-shirt",
-    "sécurité",
-    "mis"
-   ],
-   "terms_right": [
-    "nike",
-    "soutien",
-    "face"
+    "qu",
+    "canada"
    ]
   },
   {
@@ -635,26 +665,26 @@
   {
    "title": "INFO BFMTV. Le gouvernement réfléchit à étendre ou augmenter la prime \"grands rouleurs\"",
    "url": "https://www.publicsenat.fr/actualites/politique/le-premier-ministre-est-tres-inquiet-sur-les-prix-de-lessence-avant-de-finaliser-sa-copie-budgetaire-sebastien-lecornu-a-recu-letat-major-du-senat",
-   "n_members": 74,
-   "n_sources": 22,
+   "n_members": 78,
+   "n_sources": 23,
    "counts": {
-    "left": 4,
+    "left": 5,
     "centre": 11,
     "right": 7
    },
    "style_counts": {
     "factuel": 14,
-    "mixte": 6,
+    "mixte": 7,
     "opinion": 2
    },
-   "blindspot_score": 0.273,
+   "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.64,
+   "divergence": 0.616,
    "category": "économie",
    "terms_left": [
     "français",
     "mesures",
-    "carburants gouvernement"
+    "ciblées"
    ],
    "terms_right": [
     "rouleurs",
@@ -663,9 +693,69 @@
    ]
   },
   {
-   "title": "Zinédine Zidane débute avec les Bleus lors d'un entraînement à Clairefontaine",
+   "title": "Emmanuel Macron rencontrera Donald Trump ce lundi à New York",
+   "url": "https://www.publicsenat.fr/actualites/international/emmanuel-macron-a-lonu-un-dernier-discours-sous-le-signe-du-pragmatisme-face-a-la-multiplication-des-crises",
+   "n_members": 75,
+   "n_sources": 23,
+   "counts": {
+    "left": 3,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 5,
+    "opinion": 3
+   },
+   "blindspot_score": 0.4,
+   "blindspot_for": null,
+   "divergence": 0.377,
+   "category": "international",
+   "terms_left": [
+    "marge",
+    "marge assemblée",
+    "heure"
+   ],
+   "terms_right": [
+    "emmanuel",
+    "emmanuel macron",
+    "macron"
+   ]
+  },
+  {
+   "title": "Projet terroriste : un jeune de quinze ans interpellé",
+   "url": "https://www.tf1info.fr/justice-faits-divers/info-tf1-lci-un-policier-des-yvelines-mis-en-examen-pour-preparation-d-un-acte-de-terrorisme-2464805.html",
+   "n_members": 46,
+   "n_sources": 23,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.493,
+   "category": "faits-divers",
+   "terms_left": [
+    "écroué",
+    "idéologie",
+    "acte terroriste"
+   ],
+   "terms_right": [
+    "lycée",
+    "ans",
+    "mis examen"
+   ]
+  },
+  {
+   "title": "Football : l'équipe de France entre dans sa nouvelle ère avec Zinedine Zidane",
    "url": "https://www.leparisien.fr/sports/football/equipe-de-france/equipe-de-france-lepaul-truffert-jacquet-quels-pourraient-etre-les-nouveaux-visages-de-la-premiere-liste-de-zidane-17-09-2026-YEWBEM6EGZDDJB2XXLMNIFAO2M.php",
-   "n_members": 85,
+   "n_members": 86,
    "n_sources": 21,
    "counts": {
     "left": 4,
@@ -693,36 +783,6 @@
    ]
   },
   {
-   "title": "Une rencontre Trump-Macron prévue en marge de l'Assemblée générale de l'ONU",
-   "url": "https://www.publicsenat.fr/actualites/international/emmanuel-macron-a-lonu-un-dernier-discours-sous-le-signe-du-pragmatisme-face-a-la-multiplication-des-crises",
-   "n_members": 56,
-   "n_sources": 21,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 4,
-    "opinion": 3
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.439,
-   "category": "international",
-   "terms_left": [
-    "marge",
-    "guerre",
-    "marge assemblée"
-   ],
-   "terms_right": [
-    "emmanuel",
-    "emmanuel macron",
-    "macron"
-   ]
-  },
-  {
    "title": "Dans la tourmente, Ed Sheeran reconnaît \"des erreurs\"",
    "url": "https://www.blast-info.fr/articles/2026/cancel-culture-ed-sheeran-ecarte-le-rappeur-macklemore-de-sa-tournee-sous-pression-du-lobby-sioniste-5QBbCe1kTU6Uauh4klGz_Q",
    "n_members": 34,
@@ -739,17 +799,107 @@
    },
    "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.425,
+   "divergence": 0.442,
    "category": "culture",
    "terms_left": [
-    "rappeur",
     "macklemore",
-    "tournée"
+    "tournée",
+    "rappeur"
    ],
    "terms_right": [
     "gaza",
-    "britannique",
-    "erreurs"
+    "erreurs",
+    "injustifiable"
+   ]
+  },
+  {
+   "title": "Corée du Nord : ce que l'on sait des deux missiles tirés par Pyongyang dans la mer du Japon",
+   "url": "https://reporterre.net/Crue-au-Nepal-le-bilan-revu-a-la-hausse-au-moins-1-400-personnes-sont-mortes",
+   "n_members": 56,
+   "n_sources": 20,
+   "counts": {
+    "left": 3,
+    "centre": 11,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 4,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.691,
+   "category": "international",
+   "terms_left": [
+    "électricité",
+    "foyers",
+    "personnes"
+   ],
+   "terms_right": [
+    "sud",
+    "mer",
+    "feu"
+   ]
+  },
+  {
+   "title": "EN DIRECT, guerre en Ukraine : la Russie affirme avoir intercepté 45 drones ukrainiens en douze heures",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
+   "n_members": 40,
+   "n_sources": 20,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 5,
+    "opinion": 0
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.69,
+   "category": "international",
+   "terms_left": [
+    "direct",
+    "russe",
+    "direct guerre"
+   ],
+   "terms_right": [
+    "pologne",
+    "russes",
+    "semaine"
+   ]
+  },
+  {
+   "title": "Affaire Renault-Nissan: à son procès, Rachida Dati affirme n'avoir \"jamais été en situation de conflit d’intérêts\"",
+   "url": "https://www.humanite.fr/societe/carlos-ghosn/proces-dati-ghosn-lancienne-ministre-multiplie-les-contestations-pour-jouer-la-montre",
+   "n_members": 37,
+   "n_sources": 20,
+   "counts": {
+    "left": 6,
+    "centre": 10,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": -0.2,
+   "blindspot_for": null,
+   "divergence": 0.526,
+   "category": "société",
+   "terms_left": [
+    "procès rachida",
+    "face",
+    "euros"
+   ],
+   "terms_right": [
+    "ghosn",
+    "renault-nissan",
+    "avocate"
    ]
   },
   {
@@ -777,69 +927,9 @@
     "quartier"
    ],
    "terms_right": [
-    "blessés",
     "moto",
+    "blessés",
     "police"
-   ]
-  },
-  {
-   "title": "EN DIRECT, guerre en Ukraine : la Russie affirme avoir intercepté 45 drones ukrainiens en douze heures",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 38,
-   "n_sources": 19,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 4,
-    "opinion": 0
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.692,
-   "category": "international",
-   "terms_left": [
-    "direct",
-    "guerre",
-    "russe"
-   ],
-   "terms_right": [
-    "pologne",
-    "semaine",
-    "russes"
-   ]
-  },
-  {
-   "title": "Affaire Renault-Nissan: à son procès, Rachida Dati affirme n'avoir \"jamais été en situation de conflit d’intérêts\"",
-   "url": "https://www.humanite.fr/societe/carlos-ghosn/proces-dati-ghosn-lancienne-ministre-multiplie-les-contestations-pour-jouer-la-montre",
-   "n_members": 34,
-   "n_sources": 19,
-   "counts": {
-    "left": 6,
-    "centre": 10,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": -0.333,
-   "blindspot_for": null,
-   "divergence": 0.619,
-   "category": "société",
-   "terms_left": [
-    "procès rachida",
-    "procès",
-    "défense"
-   ],
-   "terms_right": [
-    "jugée",
-    "corruption",
-    "ghosn"
    ]
   },
   {
@@ -875,7 +965,7 @@
   {
    "title": "Moyen-Orient: Washington craint \"une escalade rapide\" après une attaque sur Ryad",
    "url": "https://information.tv5monde.com/afrique/video/mali-cinq-militaires-russes-dafrica-corps-tuees-lors-dune-attaque-djihadiste-2837567",
-   "n_members": 61,
+   "n_members": 62,
    "n_sources": 18,
    "counts": {
     "left": 2,
@@ -889,7 +979,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.634,
+   "divergence": 0.643,
    "category": "international",
    "terms_left": [
     "riyad",
@@ -903,9 +993,9 @@
    ]
   },
   {
-   "title": "EN DIRECT - Présidentielle 2027 : «Moi, je n’ai pas quémandé des postes depuis 45 ans», Raphaël Glucksmann répond à Ségolène Royal",
+   "title": "Présidentielle 2027 : «Il n'a jamais géré quoi que ce soit», «stagiaire en politique».... La charge virulente de Ségolène Royal contre Raphaël Glucksmann",
    "url": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-jordan-bardella-president-du-rn-annonce-presenter-un-contre-budget-dans-quelques-jours_VN-202609170904.html",
-   "n_members": 54,
+   "n_members": 56,
    "n_sources": 18,
    "counts": {
     "left": 3,
@@ -919,12 +1009,12 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.605,
+   "divergence": 0.581,
    "category": "politique",
    "terms_left": [
-    "présidente",
-    "candidat",
-    "gauche"
+    "gauche",
+    "place",
+    "publique"
    ],
    "terms_right": [
     "stagiaire",
@@ -933,25 +1023,29 @@
    ]
   },
   {
-   "title": "Corée du Nord : ce que l'on sait des deux missiles tirés par Pyongyang dans la mer du Japon",
-   "url": "https://reporterre.net/Crue-au-Nepal-le-bilan-revu-a-la-hausse-au-moins-1-400-personnes-sont-mortes",
-   "n_members": 37,
+   "title": "IA et discours apocalyptiques : le jeu trouble des poids lourds du secteur",
+   "url": "https://www.lemonde.fr/international/article/2026/09/17/au-royaume-uni-charles-iii-relais-des-inquietudes-mondiales-sur-l-emballement-de-l-ia_6776479_3210.html",
+   "n_members": 27,
    "n_sources": 18,
    "counts": {
-    "left": 2,
+    "left": 4,
     "centre": 10,
-    "right": 6
+    "right": 4
    },
    "style_counts": {
-    "factuel": 13,
-    "mixte": 4,
+    "factuel": 9,
+    "mixte": 8,
     "opinion": 1
    },
-   "blindspot_score": 0.5,
+   "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
+   "divergence": 0.814,
+   "category": "sciences-tech",
+   "terms_left": [
+    "artificielle",
+    "intelligence artificielle",
+    "intelligence"
+   ],
    "terms_right": []
   },
   {
@@ -971,7 +1065,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.825,
+   "divergence": 0.799,
    "category": "international",
    "terms_left": [
     "yémen",
@@ -980,14 +1074,14 @@
    ],
    "terms_right": [
     "police",
-    "personnes",
-    "quartier général"
+    "pakistan",
+    "personnes"
    ]
   },
   {
    "title": "Russie: le parti de Poutine donné sans surprise vainqueur aux législatives",
    "url": "https://information.tv5monde.com/international/danemark-lituanie-lue-denonce-la-montee-des-provocations-russes-2837597",
-   "n_members": 36,
+   "n_members": 37,
    "n_sources": 17,
    "counts": {
     "left": 4,
@@ -1001,7 +1095,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.844,
+   "divergence": 0.845,
    "category": "international",
    "terms_left": [
     "poutine",
@@ -1015,9 +1109,9 @@
    ]
   },
   {
-   "title": "CARTE. Journées du patrimoine 2026 : voici tous les sites exceptionnellement ouverts en France ce week-end",
+   "title": "Du tramway de Lisbonne au marché de Séoul, quand le patrimoine continue de vivre",
    "url": "https://www.ladepeche.fr/2026/09/17/monastere-dynamite-chateau-prive-ouvert-abbaye-habitee-par-des-moniales-quelles-sont-les-visites-insolites-a-faire-lors-des-journees-du-patrimoine-en-13552431.php",
-   "n_members": 43,
+   "n_members": 44,
    "n_sources": 16,
    "counts": {
     "left": 2,
@@ -1037,9 +1131,31 @@
    "terms_right": []
   },
   {
+   "title": "Grèce : un homme meurt après une altercation à propos d'un transat de plage",
+   "url": "https://www.sudouest.fr/societe/animaux/un-nageur-decede-apres-une-attaque-de-requin-pres-de-perth-en-australie-30680575.php",
+   "n_members": 30,
+   "n_sources": 16,
+   "counts": {
+    "left": 1,
+    "centre": 10,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 3,
+    "opinion": 1
+   },
+   "blindspot_score": 0.667,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Des chercheurs ont piraté OpenAI en utilisant une IA d'Anthropic",
    "url": "https://www.la-croix.com/societe/openai-anthropic-et-google-travaillent-a-la-creation-d-un-organe-de-supervision-des-risques-ia-20260915",
-   "n_members": 22,
+   "n_members": 24,
    "n_sources": 16,
    "counts": {
     "left": 1,
@@ -1055,102 +1171,6 @@
    "blindspot_for": "gauche",
    "divergence": null,
    "category": "sciences-tech",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Allemagne : qui est Elif Eralp, la favorite de gauche pour remporter la mairie de Berlin ?",
-   "url": "https://www.liberation.fr/international/europe/issue-de-limmigration-membre-de-la-gauche-radicale-favorite-des-sondages-elif-eralp-a-le-vent-en-poupe-pour-la-mairie-de-berlin-20260919_HOVSSTDVOZF5VHDV5WS7BE7MOI/",
-   "n_members": 22,
-   "n_sources": 16,
-   "counts": {
-    "left": 4,
-    "centre": 8,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 8,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.538,
-   "category": "international",
-   "terms_left": [
-    "candidate",
-    "tête",
-    "eralp"
-   ],
-   "terms_right": [
-    "électorale",
-    "parti",
-    "figure"
-   ]
-  },
-  {
-   "title": "Grèce : un homme meurt après une altercation à propos d'un transat de plage",
-   "url": "https://www.sudouest.fr/faits-divers/un-homme-meurt-apres-une-violente-altercation-a-propos-d-un-transat-de-plage-en-grece-30711095.php",
-   "n_members": 24,
-   "n_sources": 15,
-   "counts": {
-    "left": 1,
-    "centre": 9,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 3,
-    "opinion": 1
-   },
-   "blindspot_score": 0.667,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Le cadavre d’un homme retrouvé pieds et poings liés dans le Rhône, une enquête ouverte pour meurtre",
-   "url": "https://www.leparisien.fr/seine-saint-denis-93/bobigny-93000/drancy-une-femme-et-son-bebe-dun-mois-tues-le-conjoint-soupconne-et-en-fuite-17-09-2026-YHSYOGHIBJGOTNVRK7RVFQM6GA.php",
-   "n_members": 39,
-   "n_sources": 14,
-   "counts": {
-    "left": 1,
-    "centre": 9,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 2,
-    "opinion": 1
-   },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Isère. Deux morts dans un accident de deltaplane lors de la Coupe Icare",
-   "url": "https://www.leprogres.fr/faits-divers-justice/2026/09/20/deux-morts-dans-un-accident-de-deltaplane-lors-de-la-coupe-icare",
-   "n_members": 14,
-   "n_sources": 14,
-   "counts": {
-    "left": 1,
-    "centre": 7,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": 0.714,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "faits-divers",
    "terms_left": [],
    "terms_right": []
   }
