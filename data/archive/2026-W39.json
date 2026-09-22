@@ -1,27 +1,27 @@
 {
  "week": "2026-W39",
- "generated_at": "2026-09-22T12:45:07+00:00",
+ "generated_at": "2026-09-22T17:27:42+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Politique. Prix des carburants : Sébastien Lecornu veut que les surplus de TVA soient « restitués » aux Français",
    "url": "https://www.publicsenat.fr/actualites/politique/budget-bruno-retailleau-demande-au-gouvernement-le-retour-de-la-reforme-des-retraites",
-   "n_members": 144,
-   "n_sources": 35,
+   "n_members": 150,
+   "n_sources": 36,
    "counts": {
     "left": 8,
-    "centre": 14,
+    "centre": 15,
     "right": 13
    },
    "style_counts": {
-    "factuel": 18,
+    "factuel": 19,
     "mixte": 12,
     "opinion": 5
    },
    "blindspot_score": 0.238,
    "blindspot_for": null,
-   "divergence": 0.32,
+   "divergence": 0.328,
    "category": "politique",
    "terms_left": [
     "qu",
@@ -29,15 +29,15 @@
     "austérité"
    ],
    "terms_right": [
+    "prix",
     "économies",
-    "budgétaire",
-    "prix"
+    "milliards"
    ]
   },
   {
    "title": "Consommation. Prix des carburants : un nouveau record atteint en France",
    "url": "https://www.nouvelobs.com/economie/20260916.OBS118307/la-flambee-du-prix-des-carburants-preoccupe-le-gouvernement-entre-difficulte-d-approvisionnement-et-inflation.html",
-   "n_members": 110,
+   "n_members": 111,
    "n_sources": 31,
    "counts": {
     "left": 5,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.412,
    "blindspot_for": null,
-   "divergence": 0.464,
+   "divergence": 0.466,
    "category": "économie",
    "terms_left": [
     "prix essence",
@@ -81,17 +81,17 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.303,
+   "divergence": 0.297,
    "category": "international",
    "terms_left": [
     "scrutins",
-    "semaines",
-    "mecklembourg-poméranie-occidentale"
+    "mecklembourg-poméranie-occidentale",
+    "semaines"
    ],
    "terms_right": [
     "désastre",
-    "parti",
-    "régionales allemagne"
+    "régionales allemagne",
+    "parti"
    ]
   },
   {
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.494,
+   "divergence": 0.493,
    "category": "politique",
    "terms_left": [
     "elysée",
@@ -127,7 +127,7 @@
   {
    "title": "Médias bannis de la Maison Blanche par Trump: CNN, MS NOW et Politico déposent un recours en justice",
    "url": "https://www.humanite.fr/monde/donald-trump/midterms-comment-les-republicains-tentent-de-confisquer-le-vote-des-americains",
-   "n_members": 104,
+   "n_members": 108,
    "n_sources": 30,
    "counts": {
     "left": 8,
@@ -141,23 +141,23 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.362,
+   "divergence": 0.355,
    "category": "international",
    "terms_left": [
     "américains",
-    "effet immédiat",
-    "immédiat"
+    "chaînes",
+    "soutien"
    ],
    "terms_right": [
     "médias maison",
-    "trump tv",
-    "tv"
+    "face",
+    "guerre"
    ]
   },
   {
-   "title": "Donald Trump et le Groenland : ce que prévoit le nouvel accord avec le Danemark",
+   "title": "Donald Trump signe avec le Danemark et le Groenland un accord après des mois de tensions",
    "url": "https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/trump-qualifie-les-avertissements-sur-l-ia-de-complot-malfaisant_194819",
-   "n_members": 72,
+   "n_members": 79,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -171,17 +171,17 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.316,
+   "divergence": 0.296,
    "category": "international",
    "terms_left": [
     "obtenu",
-    "obtenu contrôle",
-    "sécurité groenland"
+    "président états-unis",
+    "obtenu contrôle"
    ],
    "terms_right": [
-    "états-unis",
-    "new",
-    "ministre"
+    "new york",
+    "york",
+    "new"
    ]
   },
   {
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.49,
+   "divergence": 0.491,
    "category": "politique",
    "terms_left": [
     "présidentielle",
@@ -212,6 +212,66 @@
     "parti",
     "socialiste",
     "parti socialiste"
+   ]
+  },
+  {
+   "title": "Université: pas de repas à 1 euro pour tous si le Budget 2027 n'est pas adopté, prévient le gouvernement",
+   "url": "https://www.lemonde.fr/politique/article/2026/09/17/la-charge-de-la-dette-premier-budget-de-l-etat-une-realite-a-nuancer_6776421_823448.html",
+   "n_members": 62,
+   "n_sources": 29,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 10,
+    "opinion": 5
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.671,
+   "category": "économie",
+   "terms_left": [
+    "an",
+    "publiques",
+    "budget"
+   ],
+   "terms_right": [
+    "euros",
+    "pib",
+    "abattement"
+   ]
+  },
+  {
+   "title": "Mexique, Cameroun, Eswatini... Les États-Unis ont expulsé secrètement plus de 25.000 étrangers vers des pays tiers",
+   "url": "https://information.tv5monde.com/international/le-parti-communiste-chinois-menace-par-lia-le-chef-des-services-secrets-inquiet-de-forces-hostiles-2837741",
+   "n_members": 61,
+   "n_sources": 29,
+   "counts": {
+    "left": 5,
+    "centre": 15,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.915,
+   "category": "international",
+   "terms_left": [
+    "pays",
+    "etats-unis",
+    "trump"
+   ],
+   "terms_right": [
+    "chine",
+    "france",
+    "ia"
    ]
   },
   {
@@ -231,7 +291,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.432,
+   "divergence": 0.438,
    "category": "international",
    "terms_left": [
     "guerre ukraine",
@@ -261,7 +321,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.71,
+   "divergence": 0.702,
    "category": "politique",
    "terms_left": [
     "marine",
@@ -269,9 +329,9 @@
     "candidature"
    ],
    "terms_right": [
-    "france",
-    "nicolas",
-    "nicolas dupont-aignan"
+    "dupont-aignan",
+    "nicolas dupont-aignan",
+    "nicolas"
    ]
   },
   {
@@ -303,63 +363,63 @@
    ]
   },
   {
-   "title": "Budget : la dette publique va atteindre 121,7% du PIB en 2027, un niveau record",
-   "url": "https://www.lemonde.fr/politique/article/2026/09/17/la-charge-de-la-dette-premier-budget-de-l-etat-une-realite-a-nuancer_6776421_823448.html",
-   "n_members": 61,
-   "n_sources": 28,
+   "title": "Carburants : le gouvernement français annonce de nouvelles aides pour faire face à la crise",
+   "url": "https://www.publicsenat.fr/actualites/politique/le-premier-ministre-est-tres-inquiet-sur-les-prix-de-lessence-avant-de-finaliser-sa-copie-budgetaire-sebastien-lecornu-a-recu-letat-major-du-senat",
+   "n_members": 114,
+   "n_sources": 27,
    "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 12
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 9,
-    "opinion": 5
-   },
-   "blindspot_score": 0.412,
-   "blindspot_for": null,
-   "divergence": 0.738,
-   "category": "économie",
-   "terms_left": [
-    "an",
-    "finances",
-    "publiques"
-   ],
-   "terms_right": [
-    "euros",
-    "pib",
-    "france"
-   ]
-  },
-  {
-   "title": "Mexique, Cameroun, Eswatini... Les États-Unis ont expulsé secrètement plus de 25.000 étrangers vers des pays tiers",
-   "url": "https://information.tv5monde.com/international/le-parti-communiste-chinois-menace-par-lia-le-chef-des-services-secrets-inquiet-de-forces-hostiles-2837741",
-   "n_members": 60,
-   "n_sources": 28,
-   "counts": {
-    "left": 4,
-    "centre": 15,
+    "left": 6,
+    "centre": 12,
     "right": 9
    },
    "style_counts": {
-    "factuel": 17,
-    "mixte": 8,
-    "opinion": 3
+    "factuel": 15,
+    "mixte": 10,
+    "opinion": 2
    },
-   "blindspot_score": 0.385,
+   "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.907,
-   "category": "international",
+   "divergence": 0.427,
+   "category": "économie",
    "terms_left": [
-    "pays",
-    "etats-unis",
-    "trump"
+    "français",
+    "essence",
+    "moyen-orient"
    ],
    "terms_right": [
-    "chine",
-    "france",
-    "français"
+    "face",
+    "ministre",
+    "carburants"
+   ]
+  },
+  {
+   "title": "Emmanuel Macron rencontrera Donald Trump ce lundi à New York",
+   "url": "https://www.publicsenat.fr/actualites/international/emmanuel-macron-a-lonu-un-dernier-discours-sous-le-signe-du-pragmatisme-face-a-la-multiplication-des-crises",
+   "n_members": 86,
+   "n_sources": 26,
+   "counts": {
+    "left": 4,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.361,
+   "category": "international",
+   "terms_left": [
+    "marge assemblée",
+    "générale onu",
+    "heure"
+   ],
+   "terms_right": [
+    "emmanuel",
+    "emmanuel macron",
+    "macron"
    ]
   },
   {
@@ -379,7 +439,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.624,
+   "divergence": 0.627,
    "category": "économie",
    "terms_left": [
     "pêcheurs",
@@ -393,39 +453,39 @@
    ]
   },
   {
-   "title": "Emmanuel Macron rencontrera Donald Trump ce lundi à New York",
-   "url": "https://www.publicsenat.fr/actualites/international/emmanuel-macron-a-lonu-un-dernier-discours-sous-le-signe-du-pragmatisme-face-a-la-multiplication-des-crises",
-   "n_members": 84,
+   "title": "Saint-Pierre-et-Miquelon. Face à Trump, Macron réaffirme que l'archipel est « français »",
+   "url": "https://www.tf1info.fr/societe/dans-un-monde-en-crise-on-a-besoin-de-se-retrouver-dans-des-reperes-comment-expliquer-l-engouement-pour-la-visite-du-pape-2464794.html",
+   "n_members": 107,
    "n_sources": 25,
    "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 8
+    "left": 5,
+    "centre": 11,
+    "right": 9
    },
    "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
+    "factuel": 13,
+    "mixte": 9,
     "opinion": 3
    },
-   "blindspot_score": 0.333,
+   "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.358,
+   "divergence": 0.435,
    "category": "international",
    "terms_left": [
-    "marge assemblée",
-    "générale onu",
-    "heure"
+    "recevoir",
+    "france canada",
+    "président"
    ],
    "terms_right": [
-    "emmanuel",
-    "emmanuel macron",
-    "macron"
+    "visite",
+    "léon xiv",
+    "xiv"
    ]
   },
   {
    "title": "Mort de Federico Aramburu : Loïk Le Priol ajuste sa version mais continue d'affirmer s'être défendu face à \"un tabassage total\" et avoir tiré par \"pur réflexe militaire\"",
    "url": "https://www.ouest-france.fr/societe/faits-divers/des-coups-de-feu-tires-pendant-a-proximite-dune-ecole-dans-loise-deux-personnes-blessees-des-eleves-confines-4a9c1022-b2cd-11f1-bc32-13ddcee9efa7",
-   "n_members": 67,
+   "n_members": 68,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -439,17 +499,47 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.67,
+   "divergence": 0.671,
    "category": "société",
    "terms_left": [
     "procès",
     "mort",
-    "loïk"
+    "meurtre"
    ],
    "terms_right": [
     "école",
     "tirs",
     "daillet"
+   ]
+  },
+  {
+   "title": "Retour sur l'entretien exclusif de Mbappé : \"je n'ai jamais coupé le lien avec l'Afrique\"",
+   "url": "https://www.liberation.fr/sports/riner-et-langoisse-du-rn-mbappe-et-le-t-shirt-hommage-a-ceuta-les-deux-stars-critiquees-par-lextreme-droite-et-ses-allies-mediatiques-20260917_XBAAKQSCGFAMRPNTDWWYLZBE5Q/",
+   "n_members": 62,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.443,
+   "category": "sport",
+   "terms_left": [
+    "tee-shirt",
+    "france",
+    "droite"
+   ],
+   "terms_right": [
+    "nike",
+    "madrid",
+    "real madrid"
    ]
   },
   {
@@ -469,12 +559,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.76,
+   "divergence": 0.759,
    "category": "économie",
    "terms_left": [
+    "gouvernement",
     "sophie",
-    "sophie binet",
-    "gouvernement"
+    "sophie binet"
    ],
    "terms_right": [
     "france",
@@ -499,7 +589,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.525,
+   "divergence": 0.526,
    "category": "société",
    "terms_left": [
     "défense",
@@ -509,67 +599,7 @@
    "terms_right": [
     "armes",
     "usage",
-    "manifestations"
-   ]
-  },
-  {
-   "title": "Football. Kylian Mbappé : « il n'y a pas de tension » avec Ousmane Dembélé à propos du Ballon d'Or",
-   "url": "https://www.liberation.fr/sports/riner-et-langoisse-du-rn-mbappe-et-le-t-shirt-hommage-a-ceuta-les-deux-stars-critiquees-par-lextreme-droite-et-ses-allies-mediatiques-20260917_XBAAKQSCGFAMRPNTDWWYLZBE5Q/",
-   "n_members": 60,
-   "n_sources": 25,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 4
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.442,
-   "category": "sport",
-   "terms_left": [
-    "tee-shirt",
-    "france",
-    "droite"
-   ],
-   "terms_right": [
-    "nike",
-    "madrid",
-    "équipementier"
-   ]
-  },
-  {
-   "title": "Saint-Pierre-et-Miquelon est \"fier d'être français\" : Macron répond à Trump depuis l'archipel",
-   "url": "https://www.tf1info.fr/societe/dans-un-monde-en-crise-on-a-besoin-de-se-retrouver-dans-des-reperes-comment-expliquer-l-engouement-pour-la-visite-du-pape-2464794.html",
-   "n_members": 106,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.439,
-   "category": "international",
-   "terms_left": [
-    "recevoir",
-    "france canada",
-    "atlantique nord"
-   ],
-   "terms_right": [
-    "xiv",
-    "visite",
-    "léon xiv"
+    "présomption"
    ]
   },
   {
@@ -592,9 +622,9 @@
    "divergence": 0.307,
    "category": "société",
    "terms_left": [
-    "diffusion",
     "mis",
-    "ministre"
+    "paris",
+    "diffusion"
    ],
    "terms_right": [
     "nuñez violation",
@@ -619,17 +649,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.523,
+   "divergence": 0.522,
    "category": "international",
    "terms_left": [
-    "guerre",
     "nouvelles",
-    "sanctions"
+    "sanctions",
+    "sanctions russie"
    ],
    "terms_right": [
-    "pays",
     "paris",
-    "face"
+    "poutine",
+    "marine"
    ]
   },
   {
@@ -649,7 +679,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.544,
+   "divergence": 0.543,
    "category": "international",
    "terms_left": [
     "union européenne",
@@ -663,9 +693,9 @@
    ]
   },
   {
-   "title": "Charles Sapin annonce la « suppression » de son édito par France Inter : retour sur trois semaines de bras de fer à la radio publique",
+   "title": "Arrêt de l'édito de Charles Sapin sur France Inter : comment la direction a cédé face aux syndicats",
    "url": "https://www.lejdd.fr/Societe/france-inter-la-direction-propose-de-remplacer-ledito-de-charles-sapin-par-un-debat-contradictoire-183729",
-   "n_members": 53,
+   "n_members": 54,
    "n_sources": 24,
    "counts": {
     "left": 7,
@@ -679,7 +709,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.212,
+   "divergence": 0.2,
    "category": "société",
    "terms_left": [
     "extrême",
@@ -690,36 +720,6 @@
     "édito",
     "suppression",
     "suppression édito"
-   ]
-  },
-  {
-   "title": "DIRECT. Prix des carburants : le gouvernement doit présenter de nouvelles aides ciblées ce mardi, suivez le fil des annonces",
-   "url": "https://www.publicsenat.fr/actualites/politique/le-premier-ministre-est-tres-inquiet-sur-les-prix-de-lessence-avant-de-finaliser-sa-copie-budgetaire-sebastien-lecornu-a-recu-letat-major-du-senat",
-   "n_members": 91,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.573,
-   "category": "économie",
-   "terms_left": [
-    "français",
-    "matignon",
-    "ciblées"
-   ],
-   "terms_right": [
-    "rouleurs",
-    "face",
-    "euros"
    ]
   },
   {
@@ -739,7 +739,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.443,
+   "divergence": 0.44,
    "category": "faits-divers",
    "terms_left": [
     "écroué",
@@ -750,6 +750,36 @@
     "ans",
     "lycée",
     "mis examen"
+   ]
+  },
+  {
+   "title": "Visite du pape Léon XIV en France : Emmanuel Macron n'assistera à aucune messe, mais accueillera 26 dirigeants étrangers pour son discours à Metz",
+   "url": "https://www.europe1.fr/societe/visite-du-pape-leon-xiv-a-paris-hommage-a-frere-laurent-de-la-resurrection-1087295",
+   "n_members": 56,
+   "n_sources": 22,
+   "counts": {
+    "left": 3,
+    "centre": 9,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.538,
+   "blindspot_for": null,
+   "divergence": 0.513,
+   "category": "société",
+   "terms_left": [
+    "elysée",
+    "xvi",
+    "visite officielle"
+   ],
+   "terms_right": [
+    "pape léon",
+    "paris",
+    "xiv france"
    ]
   },
   {
@@ -769,11 +799,11 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.398,
+   "divergence": 0.397,
    "category": "sport",
    "terms_left": [
     "liste",
-    "sélectionneur",
+    "zinédine",
     "zinédine zidane"
    ],
    "terms_right": [
@@ -783,9 +813,9 @@
    ]
   },
   {
-   "title": "Corée du Nord : ce que l'on sait des deux missiles tirés par Pyongyang dans la mer du Japon",
+   "title": "Au Japon, le typhon Dujuan fait au moins quatre morts près de Tokyo",
    "url": "https://reporterre.net/Crue-au-Nepal-le-bilan-revu-a-la-hausse-au-moins-1-400-personnes-sont-mortes",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 21,
    "counts": {
     "left": 4,
@@ -810,36 +840,6 @@
     "sud",
     "mer",
     "feu"
-   ]
-  },
-  {
-   "title": "Visite du pape Léon XIV en France : Emmanuel Macron n'assistera à aucune messe, mais accueillera 26 dirigeants étrangers pour son discours à Metz",
-   "url": "https://www.europe1.fr/societe/visite-du-pape-leon-xiv-a-paris-hommage-a-frere-laurent-de-la-resurrection-1087295",
-   "n_members": 45,
-   "n_sources": 21,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.531,
-   "category": "société",
-   "terms_left": [
-    "visite jours",
-    "visite officielle",
-    "pays"
-   ],
-   "terms_right": [
-    "pape léon",
-    "paris",
-    "messe"
    ]
   },
   {
@@ -889,7 +889,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.463,
+   "divergence": 0.459,
    "category": "faits-divers",
    "terms_left": [
     "collision motard",
@@ -899,13 +899,43 @@
    "terms_right": [
     "moto",
     "blessés",
-    "police"
+    "personnes"
+   ]
+  },
+  {
+   "title": "Moyen-Orient: Washington craint \"une escalade rapide\" après une attaque sur Ryad",
+   "url": "https://information.tv5monde.com/afrique/video/mali-cinq-militaires-russes-dafrica-corps-tuees-lors-dune-attaque-djihadiste-2837567",
+   "n_members": 65,
+   "n_sources": 20,
+   "counts": {
+    "left": 3,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 4,
+    "opinion": 3
+   },
+   "blindspot_score": 0.4,
+   "blindspot_for": null,
+   "divergence": 0.688,
+   "category": "international",
+   "terms_left": [
+    "riyad",
+    "alerte",
+    "fois"
+   ],
+   "terms_right": [
+    "guerre",
+    "iran",
+    "ryad"
    ]
   },
   {
    "title": "EN DIRECT, guerre en Ukraine : la Russie affirme avoir intercepté 45 drones ukrainiens en douze heures",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 41,
+   "n_members": 43,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -949,7 +979,7 @@
    },
    "blindspot_score": -0.2,
    "blindspot_for": null,
-   "divergence": 0.504,
+   "divergence": 0.503,
    "category": "société",
    "terms_left": [
     "procès rachida",
@@ -963,9 +993,9 @@
    ]
   },
   {
-   "title": "Intelligence artificielle : le ministère du Travail lance un plan de 80 millions d’euros, voici ce qu’il contient",
+   "title": "Avec « Impulsion IA 2027 », comment le gouvernement fonce tête baissée dans la course à l’intelligence artificielle",
    "url": "https://www.la-croix.com/societe/openai-anthropic-et-google-travaillent-a-la-creation-d-un-organe-de-supervision-des-risques-ia-20260915",
-   "n_members": 28,
+   "n_members": 29,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -985,39 +1015,9 @@
    "terms_right": []
   },
   {
-   "title": "Moyen-Orient: Washington craint \"une escalade rapide\" après une attaque sur Ryad",
-   "url": "https://information.tv5monde.com/afrique/video/mali-cinq-militaires-russes-dafrica-corps-tuees-lors-dune-attaque-djihadiste-2837567",
-   "n_members": 64,
-   "n_sources": 19,
-   "counts": {
-    "left": 2,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 3,
-    "opinion": 3
-   },
-   "blindspot_score": 0.556,
-   "blindspot_for": null,
-   "divergence": 0.678,
-   "category": "international",
-   "terms_left": [
-    "riyad",
-    "fois",
-    "alerte"
-   ],
-   "terms_right": [
-    "guerre",
-    "houthis",
-    "ryad"
-   ]
-  },
-  {
    "title": "Grèce : un homme meurt après une altercation à propos d'un transat de plage",
    "url": "https://www.sudouest.fr/societe/animaux/un-nageur-decede-apres-une-attaque-de-requin-pres-de-perth-en-australie-30680575.php",
-   "n_members": 45,
+   "n_members": 50,
    "n_sources": 19,
    "counts": {
     "left": 3,
@@ -1031,7 +1031,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.818,
+   "divergence": 0.795,
    "category": "international",
    "terms_left": [
     "paris",
@@ -1061,11 +1061,11 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.301,
+   "divergence": 0.286,
    "category": "culture",
    "terms_left": [
-    "ringer chanteuse",
     "catherine",
+    "ringer",
     "catherine ringer"
    ],
    "terms_right": [
@@ -1091,17 +1091,47 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.565,
+   "divergence": 0.549,
    "category": "politique",
    "terms_left": [
     "place",
     "publique",
-    "présidente"
+    "place publique"
    ],
    "terms_right": [
     "stagiaire",
-    "président",
-    "politique"
+    "politique",
+    "élection présidentielle"
+   ]
+  },
+  {
+   "title": "Russie: le parti de Poutine donné sans surprise vainqueur aux législatives",
+   "url": "https://information.tv5monde.com/international/danemark-lituanie-lue-denonce-la-montee-des-provocations-russes-2837597",
+   "n_members": 42,
+   "n_sources": 18,
+   "counts": {
+    "left": 4,
+    "centre": 10,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 6,
+    "opinion": 0
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.827,
+   "category": "international",
+   "terms_left": [
+    "poutine",
+    "vladimir poutine",
+    "vladimir"
+   ],
+   "terms_right": [
+    "élections",
+    "élections législatives",
+    "ukraine"
    ]
   },
   {
@@ -1121,73 +1151,45 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.811,
+   "divergence": 0.828,
    "category": "sciences-tech",
    "terms_left": [
     "intelligence artificielle",
     "artificielle",
     "intelligence"
    ],
-   "terms_right": []
-  },
-  {
-   "title": "Pakistan: au moins 31 morts dans l'attaque d'un quartier général de police",
-   "url": "https://www.liberation.fr/international/moyen-orient/yemen-comment-les-houthis-sont-parvenus-a-humilier-larabie-saoudite-20260917_F5K4LO42SFGLJMPZCK2IM24ADE/",
-   "n_members": 41,
-   "n_sources": 17,
-   "counts": {
-    "left": 5,
-    "centre": 8,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": -0.111,
-   "blindspot_for": null,
-   "divergence": 0.795,
-   "category": "international",
-   "terms_left": [
-    "trump",
-    "guerre",
-    "yémen"
-   ],
    "terms_right": [
-    "houthis",
-    "moyen-orient",
-    "morts"
+    "ia"
    ]
   },
   {
-   "title": "Russie: le parti de Poutine donné sans surprise vainqueur aux législatives",
-   "url": "https://information.tv5monde.com/international/danemark-lituanie-lue-denonce-la-montee-des-provocations-russes-2837597",
-   "n_members": 37,
-   "n_sources": 17,
+   "title": "Belgique. Implants anti-hernie : le comédien Arnaud Denis, 43 ans, s'est fait euthanasier",
+   "url": "https://www.bfmtv.com/people/douleurs-liees-a-un-implant-anti-hernie-le-comedien-francais-arnaud-denis-s-est-fait-euthanasier-en-belgique_AD-202609220502.html",
+   "n_members": 19,
+   "n_sources": 18,
    "counts": {
-    "left": 4,
+    "left": 3,
     "centre": 9,
-    "right": 4
+    "right": 6
    },
    "style_counts": {
-    "factuel": 11,
-    "mixte": 6,
-    "opinion": 0
+    "factuel": 10,
+    "mixte": 7,
+    "opinion": 1
    },
-   "blindspot_score": 0.0,
+   "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.844,
-   "category": "international",
+   "divergence": 0.408,
+   "category": "société",
    "terms_left": [
-    "poutine",
-    "vladimir",
-    "vladimir poutine"
+    "mort",
+    "santé",
+    "prothèse"
    ],
    "terms_right": [
-    "élections législatives",
-    "élections",
-    "ukraine"
+    "implant anti-hernie",
+    "arnaud denis",
+    "arnaud"
    ]
   }
  ]
