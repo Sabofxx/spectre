@@ -1,13 +1,13 @@
 {
  "week": "2026-W39",
- "generated_at": "2026-09-23T06:58:31+00:00",
+ "generated_at": "2026-09-23T12:31:10+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Politique. Prix des carburants : Sébastien Lecornu veut que les surplus de TVA soient « restitués » aux Français",
    "url": "https://www.publicsenat.fr/actualites/politique/budget-bruno-retailleau-demande-au-gouvernement-le-retour-de-la-reforme-des-retraites",
-   "n_members": 152,
+   "n_members": 162,
    "n_sources": 36,
    "counts": {
     "left": 8,
@@ -21,23 +21,23 @@
    },
    "blindspot_score": 0.238,
    "blindspot_for": null,
-   "divergence": 0.322,
+   "divergence": 0.298,
    "category": "politique",
    "terms_left": [
-    "dette",
     "austérité",
-    "qu"
+    "qu",
+    "matignon"
    ],
    "terms_right": [
+    "compromis",
     "prix",
-    "français",
-    "règle"
+    "français"
    ]
   },
   {
    "title": "Carburants : le gouvernement français annonce de nouvelles aides pour faire face à la crise",
    "url": "https://www.publicsenat.fr/actualites/politique/le-premier-ministre-est-tres-inquiet-sur-les-prix-de-lessence-avant-de-finaliser-sa-copie-budgetaire-sebastien-lecornu-a-recu-letat-major-du-senat",
-   "n_members": 133,
+   "n_members": 142,
    "n_sources": 31,
    "counts": {
     "left": 7,
@@ -51,17 +51,47 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.393,
+   "divergence": 0.398,
    "category": "économie",
    "terms_left": [
     "élargissement",
-    "français",
-    "essence"
+    "carburant",
+    "aide grands"
    ],
    "terms_right": [
-    "face",
     "carburants",
-    "ministre"
+    "face",
+    "nouvelles aides"
+   ]
+  },
+  {
+   "title": "Élections régionales en Allemagne : Friedrich Merz fragilisé par la poussée de l’AfD",
+   "url": "https://www.liberation.fr/international/europe/montee-de-lextreme-droite-en-allemagne-jurgen-klopp-ne-veut-pas-laisser-la-fierte-nationale-aux-mauvaises-personnes-20260917_2WH334ZWYNBBRMZSY6MLPXAGCU/",
+   "n_members": 117,
+   "n_sources": 31,
+   "counts": {
+    "left": 8,
+    "centre": 12,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 10,
+    "opinion": 6
+   },
+   "blindspot_score": 0.158,
+   "blindspot_for": null,
+   "divergence": 0.279,
+   "category": "international",
+   "terms_left": [
+    "scrutins",
+    "mecklembourg",
+    "scrutins régionaux"
+   ],
+   "terms_right": [
+    "désastre",
+    "régionales allemagne",
+    "forte"
    ]
   },
   {
@@ -81,7 +111,7 @@
    },
    "blindspot_score": 0.412,
    "blindspot_for": null,
-   "divergence": 0.468,
+   "divergence": 0.472,
    "category": "économie",
    "terms_left": [
     "essence",
@@ -89,9 +119,39 @@
     "record gazole"
    ],
    "terms_right": [
-    "litre",
+    "france",
     "qu",
     "euros litre"
+   ]
+  },
+  {
+   "title": "Pas de primaire de la gauche pour Philippe Brun, la justice rejette sa demande de réintégration",
+   "url": "https://www.nouvelobs.com/politique/20260915.OBS118250/presidentielle-2027-francois-ruffin-rejete-de-la-primaire-socialiste-et-toujours-plus-isole-continue-de-rever-a-l-union-de-la-gauche.html",
+   "n_members": 92,
+   "n_sources": 31,
+   "counts": {
+    "left": 5,
+    "centre": 17,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 19,
+    "mixte": 6,
+    "opinion": 6
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.397,
+   "category": "politique",
+   "terms_left": [
+    "primaire gauche",
+    "gauche",
+    "présidentielle"
+   ],
+   "terms_right": [
+    "réintégration",
+    "demande",
+    "justice"
    ]
   },
   {
@@ -111,7 +171,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.297,
+   "divergence": 0.295,
    "category": "international",
    "terms_left": [
     "militaires",
@@ -125,33 +185,33 @@
    ]
   },
   {
-   "title": "Élections régionales en Allemagne : Friedrich Merz fragilisé par la poussée de l’AfD",
-   "url": "https://www.liberation.fr/international/europe/montee-de-lextreme-droite-en-allemagne-jurgen-klopp-ne-veut-pas-laisser-la-fierte-nationale-aux-mauvaises-personnes-20260917_2WH334ZWYNBBRMZSY6MLPXAGCU/",
-   "n_members": 116,
+   "title": "Médias bannis de la Maison Blanche par Trump: CNN, MS NOW et Politico déposent un recours en justice",
+   "url": "https://www.humanite.fr/monde/donald-trump/midterms-comment-les-republicains-tentent-de-confisquer-le-vote-des-americains",
+   "n_members": 114,
    "n_sources": 30,
    "counts": {
-    "left": 7,
-    "centre": 12,
-    "right": 11
+    "left": 8,
+    "centre": 15,
+    "right": 7
    },
    "style_counts": {
-    "factuel": 15,
+    "factuel": 18,
     "mixte": 10,
-    "opinion": 5
+    "opinion": 2
    },
-   "blindspot_score": 0.222,
+   "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.293,
+   "divergence": 0.361,
    "category": "international",
    "terms_left": [
-    "scrutins",
-    "mecklembourg-poméranie-occidentale",
-    "semaines"
+    "américains",
+    "soutien",
+    "presse"
    ],
    "terms_right": [
-    "désastre",
-    "régionales allemagne",
-    "forte"
+    "trump tv",
+    "tv",
+    "télévision"
    ]
   },
   {
@@ -171,7 +231,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.5,
+   "divergence": 0.501,
    "category": "politique",
    "terms_left": [
     "elysée",
@@ -185,69 +245,9 @@
    ]
   },
   {
-   "title": "Médias bannis de la Maison Blanche par Trump: CNN, MS NOW et Politico déposent un recours en justice",
-   "url": "https://www.humanite.fr/monde/donald-trump/midterms-comment-les-republicains-tentent-de-confisquer-le-vote-des-americains",
-   "n_members": 112,
-   "n_sources": 30,
-   "counts": {
-    "left": 8,
-    "centre": 15,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 18,
-    "mixte": 10,
-    "opinion": 2
-   },
-   "blindspot_score": -0.067,
-   "blindspot_for": null,
-   "divergence": 0.365,
-   "category": "international",
-   "terms_left": [
-    "américains",
-    "soutien",
-    "presse"
-   ],
-   "terms_right": [
-    "trump tv",
-    "tv",
-    "télévision"
-   ]
-  },
-  {
-   "title": "Primaire de gauche: un référé examiné ce mardi pour réintégrer Philippe Brun",
-   "url": "https://www.nouvelobs.com/politique/20260915.OBS118250/presidentielle-2027-francois-ruffin-rejete-de-la-primaire-socialiste-et-toujours-plus-isole-continue-de-rever-a-l-union-de-la-gauche.html",
-   "n_members": 79,
-   "n_sources": 29,
-   "counts": {
-    "left": 5,
-    "centre": 16,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 6,
-    "opinion": 6
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.492,
-   "category": "politique",
-   "terms_left": [
-    "primaire gauche",
-    "présidentielle",
-    "gauche"
-   ],
-   "terms_right": [
-    "socialiste",
-    "parti",
-    "référé"
-   ]
-  },
-  {
    "title": "Mexique, Cameroun, Eswatini... Les États-Unis ont expulsé secrètement plus de 25.000 étrangers vers des pays tiers",
    "url": "https://information.tv5monde.com/international/le-parti-communiste-chinois-menace-par-lia-le-chef-des-services-secrets-inquiet-de-forces-hostiles-2837741",
-   "n_members": 62,
+   "n_members": 63,
    "n_sources": 29,
    "counts": {
     "left": 5,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.916,
+   "divergence": 0.917,
    "category": "international",
    "terms_left": [
     "pays",
@@ -291,17 +291,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.672,
+   "divergence": 0.68,
    "category": "économie",
    "terms_left": [
-    "an",
-    "publiques",
-    "prévoit"
+    "budget",
+    "lecornu",
+    "étrangers"
    ],
    "terms_right": [
     "euros",
     "pib",
-    "france"
+    "abattement"
    ]
   },
   {
@@ -321,17 +321,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.441,
+   "divergence": 0.45,
    "category": "international",
    "terms_left": [
-    "guerre ukraine",
     "direct",
+    "guerre ukraine",
     "guerre"
    ],
    "terms_right": [
     "russe",
-    "perturber",
-    "sièges"
+    "vladimir poutine",
+    "vladimir"
    ]
   },
   {
@@ -351,12 +351,12 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.691,
+   "divergence": 0.692,
    "category": "politique",
    "terms_left": [
     "campagne",
-    "candidature",
-    "parti"
+    "assemblée",
+    "gauche"
    ],
    "terms_right": [
     "dupont-aignan",
@@ -365,9 +365,9 @@
    ]
   },
   {
-   "title": "L'UE peut-elle protéger les enfants des dangers des réseaux sociaux ?",
+   "title": "Comment l'UE renforce la sécurité des enfants en ligne ? Demandez au chatbot IA d'Euronews",
    "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/reseaux-sociaux-interdits-avant-13-ans-fonctionnalites-addictives-bloquees-pour-les-mineurs-ce-que-contient-le-kids-act-presente-par-la-commission-europeenne_8197241.html",
-   "n_members": 64,
+   "n_members": 65,
    "n_sources": 28,
    "counts": {
     "left": 3,
@@ -395,7 +395,7 @@
   {
    "title": "Près d'une station sur cinq manque d'au moins un carburant : risque-t-on une pénurie d'essence en France ?",
    "url": "https://www.nouvelobs.com/economie/20260915.OBS118251/pourquoi-des-pecheurs-bloquent-ils-un-depot-petrolier-a-fos-sur-mer.html",
-   "n_members": 75,
+   "n_members": 77,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -409,23 +409,53 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.63,
+   "divergence": 0.635,
    "category": "économie",
    "terms_left": [
     "pêcheurs",
-    "prix carburants",
-    "pêche"
+    "aides",
+    "blocages"
    ],
    "terms_right": [
-    "carburants",
     "france",
-    "mois"
+    "europe",
+    "carburants"
+   ]
+  },
+  {
+   "title": "Accusé d'avoir utilisé l'IA pour «C’était ça ou mourir», l'écrivain haïtien Thélyson Orélien s'en défend",
+   "url": "https://www.nouvelobs.com/bibliobs/20260920.OBS118426/thelyson-orelien-le-phenomene-de-la-rentree-litteraire-je-ne-tiens-pas-mon-crayon-avec-ma-tete-mais-avec-mes-tripes.html",
+   "n_members": 47,
+   "n_sources": 27,
+   "counts": {
+    "left": 9,
+    "centre": 12,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 12,
+    "opinion": 3
+   },
+   "blindspot_score": -0.2,
+   "blindspot_for": null,
+   "divergence": 0.335,
+   "category": "culture",
+   "terms_left": [
+    "roman",
+    "utilisé",
+    "accusé utilisé"
+   ],
+   "terms_right": [
+    "littéraire",
+    "succès",
+    "cas"
    ]
   },
   {
    "title": "Emmanuel Macron rencontrera Donald Trump ce lundi à New York",
    "url": "https://www.publicsenat.fr/actualites/international/emmanuel-macron-a-lonu-un-dernier-discours-sous-le-signe-du-pragmatisme-face-a-la-multiplication-des-crises",
-   "n_members": 97,
+   "n_members": 98,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -469,12 +499,12 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.404,
+   "divergence": 0.394,
    "category": "international",
    "terms_left": [
     "france canada",
     "réponse",
-    "réaffirmer"
+    "président"
    ],
    "terms_right": [
     "léon xiv",
@@ -499,7 +529,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.625,
+   "divergence": 0.631,
    "category": "société",
    "terms_left": [
     "mort",
@@ -507,9 +537,9 @@
     "argentin"
    ],
    "terms_right": [
-    "daillet",
     "tiré",
-    "militaire"
+    "militaire",
+    "école"
    ]
   },
   {
@@ -529,7 +559,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.444,
+   "divergence": 0.443,
    "category": "sport",
    "terms_left": [
     "tee-shirt",
@@ -589,7 +619,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.53,
+   "divergence": 0.531,
    "category": "société",
    "terms_left": [
     "défense",
@@ -649,7 +679,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.522,
+   "divergence": 0.521,
    "category": "international",
    "terms_left": [
     "ukraine",
@@ -695,7 +725,7 @@
   {
    "title": "Arrêt de l'édito de Charles Sapin sur France Inter : comment la direction a cédé face aux syndicats",
    "url": "https://www.lejdd.fr/Societe/france-inter-la-direction-propose-de-remplacer-ledito-de-charles-sapin-par-un-debat-contradictoire-183729",
-   "n_members": 55,
+   "n_members": 57,
    "n_sources": 24,
    "counts": {
     "left": 7,
@@ -709,7 +739,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.195,
+   "divergence": 0.193,
    "category": "société",
    "terms_left": [
     "extrême",
@@ -718,8 +748,38 @@
    ],
    "terms_right": [
     "édito",
-    "suppression",
-    "hebdomadaire"
+    "hebdomadaire",
+    "journaliste"
+   ]
+  },
+  {
+   "title": "Israël dénonce l’«absurdité grotesque» des propos d’Emmanuel Macron à l’ONU sur la Cisjordanie",
+   "url": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-menace-russe-l-arme-de-dissuasion-nucleaire-ne-doit-pas-etre-partagee-estime-nicolas-dupont-aignan-candidat-debout-le-france-a-l-election-presidentielle_VN-202609210779.html",
+   "n_members": 51,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.588,
+   "category": "international",
+   "terms_left": [
+    "français",
+    "faveur",
+    "multilatéralisme"
+   ],
+   "terms_right": [
+    "emmanuel macron",
+    "emmanuel",
+    "propos"
    ]
   },
   {
@@ -753,53 +813,23 @@
    ]
   },
   {
-   "title": "Visite du pape Léon XIV en France : Emmanuel Macron n'assistera à aucune messe, mais accueillera 26 dirigeants étrangers pour son discours à Metz",
-   "url": "https://www.europe1.fr/societe/visite-du-pape-leon-xiv-a-paris-hommage-a-frere-laurent-de-la-resurrection-1087295",
-   "n_members": 63,
-   "n_sources": 22,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.538,
-   "blindspot_for": null,
-   "divergence": 0.474,
-   "category": "société",
-   "terms_left": [
-    "discours",
-    "europe",
-    "européenne"
-   ],
-   "terms_right": [
-    "paris",
-    "pape léon",
-    "xiv france"
-   ]
-  },
-  {
    "title": "Anthropic appelle à ralentir la course à l’IA… mais envisagerait déjà un nouveau modèle face à OpenAI",
    "url": "https://www.la-croix.com/societe/openai-anthropic-et-google-travaillent-a-la-creation-d-un-organe-de-supervision-des-risques-ia-20260915",
-   "n_members": 38,
-   "n_sources": 22,
+   "n_members": 39,
+   "n_sources": 23,
    "counts": {
     "left": 3,
-    "centre": 11,
+    "centre": 12,
     "right": 8
    },
    "style_counts": {
-    "factuel": 10,
+    "factuel": 11,
     "mixte": 9,
     "opinion": 3
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.769,
+   "divergence": 0.771,
    "category": "sciences-tech",
    "terms_left": [
     "pays",
@@ -813,9 +843,99 @@
    ]
   },
   {
+   "title": "Visite du pape Léon XIV en France : Emmanuel Macron n'assistera à aucune messe, mais accueillera 26 dirigeants étrangers pour son discours à Metz",
+   "url": "https://www.europe1.fr/societe/visite-du-pape-leon-xiv-a-paris-hommage-a-frere-laurent-de-la-resurrection-1087295",
+   "n_members": 72,
+   "n_sources": 22,
+   "counts": {
+    "left": 3,
+    "centre": 9,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.538,
+   "blindspot_for": null,
+   "divergence": 0.429,
+   "category": "société",
+   "terms_left": [
+    "europe",
+    "pontificat",
+    "chefs"
+   ],
+   "terms_right": [
+    "paris",
+    "xiv france",
+    "visite pape"
+   ]
+  },
+  {
+   "title": "Crise du carburant : blocage en cours au port de Cannes, la ministre de la Pêche attendue à Sète",
+   "url": "https://lcp.fr/actualites/un-homme-jete-a-terre-a-carcassonne-par-la-police-la-gauche-denonce-des-images",
+   "n_members": 57,
+   "n_sources": 22,
+   "counts": {
+    "left": 5,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 6,
+    "opinion": 4
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.606,
+   "category": "société",
+   "terms_left": [
+    "colère",
+    "jaunes",
+    "gilets jaunes"
+   ],
+   "terms_right": [
+    "pêcheurs",
+    "pêche",
+    "militaire"
+   ]
+  },
+  {
+   "title": "EN DIRECT - Assemblée générale de l’ONU : enlisé dans sa guerre en Iran, Donald Trump attendu à la tribune des Nations unies",
+   "url": "https://www.lefigaro.fr/conjoncture/petrole-le-baril-de-brent-repasse-sous-les-100-dollars-dans-l-espoir-d-ameliorations-diplomatiques-au-moyen-orient-20260921",
+   "n_members": 49,
+   "n_sources": 22,
+   "counts": {
+    "left": 3,
+    "centre": 10,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.542,
+   "category": "international",
+   "terms_left": [
+    "force",
+    "pense",
+    "qu pense"
+   ],
+   "terms_right": [
+    "iran",
+    "américain",
+    "président américain"
+   ]
+  },
+  {
    "title": "Zinédine Zidane débute avec les Bleus lors d'un entraînement à Clairefontaine",
    "url": "https://www.leparisien.fr/sports/football/equipe-de-france/equipe-de-france-lepaul-truffert-jacquet-quels-pourraient-etre-les-nouveaux-visages-de-la-premiere-liste-de-zidane-17-09-2026-YEWBEM6EGZDDJB2XXLMNIFAO2M.php",
-   "n_members": 94,
+   "n_members": 96,
    "n_sources": 21,
    "counts": {
     "left": 4,
@@ -829,17 +949,47 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.396,
+   "divergence": 0.397,
    "category": "sport",
    "terms_left": [
     "liste",
-    "zinédine",
-    "zinédine zidane"
+    "zinédine zidane",
+    "zinédine"
    ],
    "terms_right": [
     "bleus",
     "nouveau",
     "clairefontaine"
+   ]
+  },
+  {
+   "title": "EN DIRECT Guerre en Ukraine : Selon Zelensky, Kiev et Washington veulent la fin de la guerre « avant l’hiver »…",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
+   "n_members": 63,
+   "n_sources": 21,
+   "counts": {
+    "left": 3,
+    "centre": 13,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 5,
+    "opinion": 0
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.641,
+   "category": "international",
+   "terms_left": [
+    "direct",
+    "mer noire",
+    "président"
+   ],
+   "terms_right": [
+    "russes",
+    "menace",
+    "semaine"
    ]
   },
   {
@@ -859,7 +1009,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.661,
+   "divergence": 0.66,
    "category": "international",
    "terms_left": [
     "électricité",
@@ -868,8 +1018,8 @@
    ],
    "terms_right": [
     "sud",
-    "mer",
-    "feu"
+    "corée",
+    "nord"
    ]
   },
   {
@@ -899,73 +1049,13 @@
    "terms_right": [
     "homme",
     "ans",
-    "état"
-   ]
-  },
-  {
-   "title": "EN DIRECT Guerre en Ukraine : Selon Zelensky, Kiev et Washington veulent la fin de la guerre « avant l’hiver »…",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 59,
-   "n_sources": 21,
-   "counts": {
-    "left": 3,
-    "centre": 13,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 5,
-    "opinion": 0
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.656,
-   "category": "international",
-   "terms_left": [
-    "direct",
-    "président",
     "assemblée"
-   ],
-   "terms_right": [
-    "russes",
-    "drones",
-    "menace"
-   ]
-  },
-  {
-   "title": "Crise du carburant : blocage en cours au port de Cannes, la ministre de la Pêche attendue à Sète",
-   "url": "https://lcp.fr/actualites/un-homme-jete-a-terre-a-carcassonne-par-la-police-la-gauche-denonce-des-images",
-   "n_members": 56,
-   "n_sources": 21,
-   "counts": {
-    "left": 5,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 6,
-    "opinion": 4
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.606,
-   "category": "société",
-   "terms_left": [
-    "colère",
-    "jaunes",
-    "gilets"
-   ],
-   "terms_right": [
-    "pêcheurs",
-    "pêche",
-    "militaire"
    ]
   },
   {
    "title": "Migrants expulsés vers l'Afrique: plongée dans la mécanique de l’administration Trump",
    "url": "https://www.lefigaro.fr/international/emmanuel-gregoire-va-rencontrer-zohran-mamdani-a-new-york-vendredi-20260918",
-   "n_members": 49,
+   "n_members": 51,
    "n_sources": 21,
    "counts": {
     "left": 6,
@@ -979,12 +1069,12 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.808,
+   "divergence": 0.804,
    "category": "international",
    "terms_left": [
     "états-unis",
-    "médias",
-    "etats-unis"
+    "pays",
+    "médias"
    ],
    "terms_right": [
     "ceuta",
@@ -995,7 +1085,7 @@
   {
    "title": "Loi intégrale, budget, cybersécurité, logement... Le programme du coup d'envoi de la session à l'Assemblée",
    "url": "https://lcp.fr/actualites/logement-le-ministre-vincent-jeanbrun-veut-mettre-en-oeuvre-des-jeux-olympiques-du",
-   "n_members": 44,
+   "n_members": 45,
    "n_sources": 21,
    "counts": {
     "left": 5,
@@ -1009,7 +1099,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.576,
+   "divergence": 0.575,
    "category": "société",
    "terms_left": [
     "commission",
@@ -1023,33 +1113,33 @@
    ]
   },
   {
-   "title": "Gaza: Emmanuel Macron dénonce devant l'ONU \"un spectacle qui nous fait honte à tous\"",
-   "url": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-menace-russe-l-arme-de-dissuasion-nucleaire-ne-doit-pas-etre-partagee-estime-nicolas-dupont-aignan-candidat-debout-le-france-a-l-election-presidentielle_VN-202609210779.html",
-   "n_members": 41,
+   "title": "Auto, habitation, santé... pourquoi les tarifs des assurances vont grimper en 2027 et à quelles hausses faut-il s'attendre ?",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-6203074",
+   "n_members": 44,
    "n_sources": 21,
    "counts": {
-    "left": 3,
-    "centre": 10,
-    "right": 8
+    "left": 4,
+    "centre": 8,
+    "right": 9
    },
    "style_counts": {
     "factuel": 12,
-    "mixte": 6,
-    "opinion": 3
+    "mixte": 7,
+    "opinion": 2
    },
-   "blindspot_score": 0.455,
+   "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.687,
-   "category": "international",
+   "divergence": 0.884,
+   "category": "économie",
    "terms_left": [
-    "intervention",
-    "multilatéralisme",
-    "français"
+    "compte",
+    "faut-il",
+    "travailler"
    ],
    "terms_right": [
-    "emmanuel macron",
-    "emmanuel",
-    "onu"
+    "carburant",
+    "jusqu",
+    "mois"
    ]
   },
   {
@@ -1069,7 +1159,7 @@
    },
    "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.471,
+   "divergence": 0.463,
    "category": "culture",
    "terms_left": [
     "macklemore",
@@ -1078,8 +1168,8 @@
    ],
    "terms_right": [
     "gaza",
-    "erreurs",
-    "polémique"
+    "polémique",
+    "erreurs"
    ]
   },
   {
@@ -1099,107 +1189,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.435,
+   "divergence": 0.44,
    "category": "faits-divers",
    "terms_left": [
     "collision motard",
-    "motard",
-    "quartier"
+    "affrontements",
+    "nuit affrontements"
    ],
    "terms_right": [
     "moto",
-    "blessés",
-    "tours"
-   ]
-  },
-  {
-   "title": "Moyen-Orient: Washington craint \"une escalade rapide\" après une attaque sur Ryad",
-   "url": "https://information.tv5monde.com/afrique/video/mali-cinq-militaires-russes-dafrica-corps-tuees-lors-dune-attaque-djihadiste-2837567",
-   "n_members": 66,
-   "n_sources": 20,
-   "counts": {
-    "left": 3,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 4,
-    "opinion": 3
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.691,
-   "category": "international",
-   "terms_left": [
-    "riyad",
-    "arabie saoudite",
-    "arabie"
-   ],
-   "terms_right": [
-    "iran",
-    "guerre",
-    "président"
-   ]
-  },
-  {
-   "title": "Affaire Renault-Nissan: à son procès, Rachida Dati affirme n'avoir \"jamais été en situation de conflit d’intérêts\"",
-   "url": "https://www.humanite.fr/societe/carlos-ghosn/proces-dati-ghosn-lancienne-ministre-multiplie-les-contestations-pour-jouer-la-montre",
-   "n_members": 39,
-   "n_sources": 20,
-   "counts": {
-    "left": 6,
-    "centre": 10,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": -0.2,
-   "blindspot_for": null,
-   "divergence": 0.502,
-   "category": "société",
-   "terms_left": [
-    "procès rachida",
-    "renault",
-    "euros"
-   ],
-   "terms_right": [
-    "ghosn",
-    "trafic influence",
-    "renault-nissan"
-   ]
-  },
-  {
-   "title": "Crise du carburant : Sébastien Lecornu enchaîne les consultations avant la prise de parole présidentielle ce jeudi",
-   "url": "https://www.bfmtv.com/economie/video-carburants-des-automobilistes-se-tournent-vers-l-huile-de-colza-pour-remplacer-le-diesel_VN-202609180822.html",
-   "n_members": 44,
-   "n_sources": 19,
-   "counts": {
-    "left": 3,
-    "centre": 8,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.455,
-   "blindspot_for": null,
-   "divergence": 0.808,
-   "category": "économie",
-   "terms_left": [
-    "aide",
-    "français",
-    "aides"
-   ],
-   "terms_right": [
-    "prix",
-    "qu",
-    "prix carburants"
+    "personnes",
+    "blessés"
    ]
   }
  ]
