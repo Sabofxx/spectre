@@ -1,6 +1,6 @@
 {
  "week": "2026-W39",
- "generated_at": "2026-09-22T23:05:44+00:00",
+ "generated_at": "2026-09-23T01:36:21+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -89,8 +89,8 @@
     "obtenu contrôle"
    ],
    "terms_right": [
-    "new york",
     "york",
+    "new york",
     "new"
    ]
   },
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.704,
+   "divergence": 0.703,
    "category": "politique",
    "terms_left": [
     "marine",
@@ -469,12 +469,12 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.441,
+   "divergence": 0.43,
    "category": "international",
    "terms_left": [
-    "président",
-    "recevoir",
-    "france canada"
+    "france canada",
+    "etats-unis",
+    "président"
    ],
    "terms_right": [
     "visite",
@@ -589,7 +589,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.528,
+   "divergence": 0.529,
    "category": "société",
    "terms_left": [
     "défense",
@@ -785,7 +785,7 @@
   {
    "title": "Anthropic appelle à ralentir la course à l’IA… mais envisagerait déjà un nouveau modèle face à OpenAI",
    "url": "https://www.la-croix.com/societe/openai-anthropic-et-google-travaillent-a-la-creation-d-un-organe-de-supervision-des-risques-ia-20260915",
-   "n_members": 36,
+   "n_members": 37,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -799,16 +799,16 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.771,
+   "divergence": 0.772,
    "category": "sciences-tech",
    "terms_left": [
     "pays",
-    "ministère",
-    "impulsion"
+    "ralentir",
+    "course"
    ],
    "terms_right": [
     "openai",
-    "anthropic",
+    "travail",
     "ia"
    ]
   },
@@ -873,9 +873,39 @@
    ]
   },
   {
+   "title": "Grèce : un homme meurt après une altercation à propos d'un transat de plage",
+   "url": "https://www.sudouest.fr/societe/animaux/un-nageur-decede-apres-une-attaque-de-requin-pres-de-perth-en-australie-30680575.php",
+   "n_members": 59,
+   "n_sources": 21,
+   "counts": {
+    "left": 3,
+    "centre": 13,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 5,
+    "opinion": 1
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.812,
+   "category": "international",
+   "terms_left": [
+    "paris",
+    "niveau",
+    "pont"
+   ],
+   "terms_right": [
+    "homme",
+    "violences",
+    "vie"
+   ]
+  },
+  {
    "title": "Guerre en Ukraine : Kiev et Washington veulent que la guerre s’arrête « avant l’hiver », indique Zelensky",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 52,
+   "n_members": 55,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -889,17 +919,17 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.65,
+   "divergence": 0.651,
    "category": "international",
    "terms_left": [
     "direct",
-    "guerre",
+    "guerre ukraine",
     "direct guerre"
    ],
    "terms_right": [
     "russes",
-    "drones",
-    "semaine"
+    "semaine",
+    "menace"
    ]
   },
   {
@@ -983,8 +1013,8 @@
    "category": "international",
    "terms_left": [
     "riyad",
-    "arabie saoudite",
-    "arabie"
+    "saoudite",
+    "arabie saoudite"
    ],
    "terms_right": [
     "guerre",
@@ -993,39 +1023,39 @@
    ]
   },
   {
-   "title": "Grèce : un homme meurt après une altercation à propos d'un transat de plage",
-   "url": "https://www.sudouest.fr/societe/animaux/un-nageur-decede-apres-une-attaque-de-requin-pres-de-perth-en-australie-30680575.php",
-   "n_members": 56,
+   "title": "Crise du carburant : blocage en cours au port de Cannes, la ministre de la Pêche attendue à Sète",
+   "url": "https://lcp.fr/actualites/un-homme-jete-a-terre-a-carcassonne-par-la-police-la-gauche-denonce-des-images",
+   "n_members": 48,
    "n_sources": 20,
    "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 5
+    "left": 5,
+    "centre": 9,
+    "right": 6
    },
    "style_counts": {
-    "factuel": 14,
+    "factuel": 11,
     "mixte": 5,
-    "opinion": 1
+    "opinion": 4
    },
-   "blindspot_score": 0.25,
+   "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.806,
-   "category": "international",
+   "divergence": 0.599,
+   "category": "société",
    "terms_left": [
-    "paris",
-    "niveau",
-    "pont"
+    "colère",
+    "jaunes",
+    "gilets jaunes"
    ],
    "terms_right": [
-    "homme",
-    "violences",
-    "vie"
+    "pêcheurs",
+    "pêche",
+    "militaire"
    ]
   },
   {
    "title": "Migrants expulsés vers l'Afrique: plongée dans la mécanique de l’administration Trump",
    "url": "https://www.lefigaro.fr/international/emmanuel-gregoire-va-rencontrer-zohran-mamdani-a-new-york-vendredi-20260918",
-   "n_members": 45,
+   "n_members": 47,
    "n_sources": 20,
    "counts": {
     "left": 6,
@@ -1050,36 +1080,6 @@
     "ceuta",
     "projet",
     "maire"
-   ]
-  },
-  {
-   "title": "Prix du carburant : la ministre de la Mer en déplacement pour tenter de calmer la colère des pêcheurs",
-   "url": "https://lcp.fr/actualites/un-homme-jete-a-terre-a-carcassonne-par-la-police-la-gauche-denonce-des-images",
-   "n_members": 44,
-   "n_sources": 20,
-   "counts": {
-    "left": 5,
-    "centre": 9,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 5,
-    "opinion": 4
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.59,
-   "category": "société",
-   "terms_left": [
-    "colère",
-    "jaunes",
-    "gilets jaunes"
-   ],
-   "terms_right": [
-    "pêcheurs",
-    "pêche",
-    "militaire"
    ]
   },
   {
@@ -1132,8 +1132,8 @@
    "divergence": 0.29,
    "category": "culture",
    "terms_left": [
-    "rita mitsouko",
     "mitsouko",
+    "rita mitsouko",
     "rita"
    ],
    "terms_right": [
