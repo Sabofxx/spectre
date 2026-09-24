@@ -1,6 +1,6 @@
 {
  "week": "2026-W39",
- "generated_at": "2026-09-23T23:20:49+00:00",
+ "generated_at": "2026-09-24T01:32:56+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -114,8 +114,8 @@
    "divergence": 0.289,
    "category": "international",
    "terms_left": [
-    "linke",
     "die linke",
+    "linke",
     "die"
    ],
    "terms_right": [
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.282,
+   "divergence": 0.283,
    "category": "international",
    "terms_left": [
     "président états-unis",
@@ -212,6 +212,36 @@
     "arctique",
     "new york",
     "york"
+   ]
+  },
+  {
+   "title": "Prix des carburants : Macron au four et Lecornu au moulin face à la grogne sociale",
+   "url": "https://information.tv5monde.com/international/le-president-libanais-veut-un-accord-de-securite-avec-israel-qui-pourrait-preluder-la-paix-2837774",
+   "n_members": 116,
+   "n_sources": 30,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 10,
+    "opinion": 5
+   },
+   "blindspot_score": 0.222,
+   "blindspot_for": null,
+   "divergence": 0.497,
+   "category": "politique",
+   "terms_left": [
+    "elysée",
+    "candidats",
+    "crises"
+   ],
+   "terms_right": [
+    "prix carburants",
+    "carburants",
+    "pays"
    ]
   },
   {
@@ -242,36 +272,6 @@
     "décidé",
     "trump tv",
     "tv"
-   ]
-  },
-  {
-   "title": "Politique. Tensions géopolitiques, prix des carburants... Emmanuel Macron sera interviewé jeudi soir à la télévision",
-   "url": "https://information.tv5monde.com/international/le-president-libanais-veut-un-accord-de-securite-avec-israel-qui-pourrait-preluder-la-paix-2837774",
-   "n_members": 115,
-   "n_sources": 30,
-   "counts": {
-    "left": 7,
-    "centre": 12,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 10,
-    "opinion": 5
-   },
-   "blindspot_score": 0.222,
-   "blindspot_for": null,
-   "divergence": 0.502,
-   "category": "politique",
-   "terms_left": [
-    "elysée",
-    "candidats",
-    "crises"
-   ],
-   "terms_right": [
-    "carburants",
-    "prix carburants",
-    "pays"
    ]
   },
   {
@@ -485,7 +485,7 @@
   {
    "title": "À l’Onu, le patron d’Anthropic promet de « ralentir autant que nécessaire » pour s’assurer que l’IA « est sûre »",
    "url": "https://www.la-croix.com/societe/openai-anthropic-et-google-travaillent-a-la-creation-d-un-organe-de-supervision-des-risques-ia-20260915",
-   "n_members": 54,
+   "n_members": 55,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -499,7 +499,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.685,
+   "divergence": 0.686,
    "category": "sciences-tech",
    "terms_left": [
     "face",
@@ -873,6 +873,36 @@
    ]
   },
   {
+   "title": "EN DIRECT - Assemblée générale de l’ONU : enlisé dans sa guerre en Iran, Donald Trump attendu à la tribune des Nations unies",
+   "url": "https://www.lefigaro.fr/conjoncture/petrole-le-baril-de-brent-repasse-sous-les-100-dollars-dans-l-espoir-d-ameliorations-diplomatiques-au-moyen-orient-20260921",
+   "n_members": 61,
+   "n_sources": 23,
+   "counts": {
+    "left": 3,
+    "centre": 11,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.492,
+   "category": "international",
+   "terms_left": [
+    "force",
+    "pense",
+    "qu pense"
+   ],
+   "terms_right": [
+    "devant",
+    "pays",
+    "new"
+   ]
+  },
+  {
    "title": "Crise du carburant : blocage en cours au port de Cannes, la ministre de la Pêche attendue à Sète",
    "url": "https://lcp.fr/actualites/un-homme-jete-a-terre-a-carcassonne-par-la-police-la-gauche-denonce-des-images",
    "n_members": 60,
@@ -900,36 +930,6 @@
     "pêcheurs",
     "pêche",
     "militaire"
-   ]
-  },
-  {
-   "title": "EN DIRECT - Assemblée générale de l’ONU : enlisé dans sa guerre en Iran, Donald Trump attendu à la tribune des Nations unies",
-   "url": "https://www.lefigaro.fr/conjoncture/petrole-le-baril-de-brent-repasse-sous-les-100-dollars-dans-l-espoir-d-ameliorations-diplomatiques-au-moyen-orient-20260921",
-   "n_members": 60,
-   "n_sources": 23,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.492,
-   "category": "international",
-   "terms_left": [
-    "force",
-    "pense",
-    "qu pense"
-   ],
-   "terms_right": [
-    "devant",
-    "pays",
-    "new"
    ]
   },
   {
@@ -1020,6 +1020,36 @@
     "ceuta",
     "projet",
     "français"
+   ]
+  },
+  {
+   "title": "Visite du pape : les transports en commun et la circulation seront fortement perturbés à Paris",
+   "url": "https://www.nicematin.com/societe/religion/5-des-francais-a-la-messe-les-dimanches-chute-vertigineuse-des-mariages-religieux-avant-la-visite-du-pape-une-eglise-affaiblie-malgre-la-hausse-des-baptemes-10727358",
+   "n_members": 33,
+   "n_sources": 22,
+   "counts": {
+    "left": 3,
+    "centre": 10,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 6,
+    "opinion": 5
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.591,
+   "category": "société",
+   "terms_left": [
+    "élus",
+    "enseignement",
+    "enseignement catholique"
+   ],
+   "terms_right": [
+    "pape léon",
+    "visite",
+    "paris"
    ]
   },
   {
@@ -1115,7 +1145,7 @@
   {
    "title": "Crise du carburant : Sébastien Lecornu enchaîne les consultations avant la prise de parole présidentielle ce jeudi",
    "url": "https://www.bfmtv.com/economie/video-carburants-des-automobilistes-se-tournent-vers-l-huile-de-colza-pour-remplacer-le-diesel_VN-202609180822.html",
-   "n_members": 57,
+   "n_members": 58,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -1139,7 +1169,7 @@
    "terms_right": [
     "prix",
     "qu",
-    "carburants"
+    "face"
    ]
   },
   {
@@ -1170,36 +1200,6 @@
     "assemblée nationale",
     "nationale",
     "assemblée"
-   ]
-  },
-  {
-   "title": "Dans la tourmente, Ed Sheeran reconnaît \"des erreurs\"",
-   "url": "https://www.blast-info.fr/articles/2026/cancel-culture-ed-sheeran-ecarte-le-rappeur-macklemore-de-sa-tournee-sous-pression-du-lobby-sioniste-5QBbCe1kTU6Uauh4klGz_Q",
-   "n_members": 34,
-   "n_sources": 21,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": -0.25,
-   "blindspot_for": null,
-   "divergence": 0.463,
-   "category": "culture",
-   "terms_left": [
-    "macklemore",
-    "tournée",
-    "rappeur"
-   ],
-   "terms_right": [
-    "gaza",
-    "polémique",
-    "erreurs"
    ]
   }
  ]
