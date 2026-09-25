@@ -1,6 +1,6 @@
 {
  "week": "2026-W39",
- "generated_at": "2026-09-25T18:16:16+00:00",
+ "generated_at": "2026-09-25T21:44:28+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,17 +21,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.195,
+   "divergence": 0.199,
    "category": "culture",
    "terms_left": [
     "mourir thélyson",
-    "affaire",
+    "compte",
     "ia"
    ],
    "terms_right": [
     "accusé écrit",
-    "académie",
-    "écrivain canado-haïtien"
+    "prix",
+    "écrit"
    ]
   },
   {
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.238,
    "blindspot_for": null,
-   "divergence": 0.288,
+   "divergence": 0.29,
    "category": "politique",
    "terms_left": [
     "qu",
@@ -67,7 +67,7 @@
   {
    "title": "DIRECT. Visite du pape en France: Léon XIV a atterri à l'aéroport d'Orly",
    "url": "https://www.europe1.fr/societe/visite-du-pape-leon-xiv-a-paris-hommage-a-frere-laurent-de-la-resurrection-1087295",
-   "n_members": 193,
+   "n_members": 202,
    "n_sources": 35,
    "counts": {
     "left": 7,
@@ -81,12 +81,12 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.253,
+   "divergence": 0.252,
    "category": "société",
    "terms_left": [
     "france léon",
     "metz",
-    "violences"
+    "france paris"
    ],
    "terms_right": [
     "messe",
@@ -141,17 +141,17 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.368,
+   "divergence": 0.365,
    "category": "économie",
    "terms_left": [
-    "prix",
     "prix carburant",
-    "fin"
+    "fin",
+    "prix"
    ],
    "terms_right": [
     "face",
-    "carburants",
-    "automobilistes"
+    "automobilistes",
+    "carburants"
    ]
   },
   {
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.357,
+   "divergence": 0.356,
    "category": "politique",
    "terms_left": [
     "présidentielle",
@@ -242,6 +242,36 @@
     "demande",
     "réintégration",
     "justice"
+   ]
+  },
+  {
+   "title": "Visite de Léon XIV : protéger le pape sans gêner les croyants, le défi sécuritaire des forces de l'ordre françaises",
+   "url": "https://www.nicematin.com/societe/religion/5-des-francais-a-la-messe-les-dimanches-chute-vertigineuse-des-mariages-religieux-avant-la-visite-du-pape-une-eglise-affaiblie-malgre-la-hausse-des-baptemes-10727358",
+   "n_members": 107,
+   "n_sources": 31,
+   "counts": {
+    "left": 6,
+    "centre": 15,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.443,
+   "category": "société",
+   "terms_left": [
+    "catholique",
+    "pays",
+    "hui"
+   ],
+   "terms_right": [
+    "visite",
+    "stade",
+    "jeunes"
    ]
   },
   {
@@ -270,8 +300,8 @@
    ],
    "terms_right": [
     "états-unis",
-    "danemark",
-    "russie"
+    "russie",
+    "ia"
    ]
   },
   {
@@ -291,7 +321,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.331,
+   "divergence": 0.333,
    "category": "international",
    "terms_left": [
     "presse",
@@ -300,38 +330,8 @@
    ],
    "terms_right": [
     "médias maison",
-    "décision",
-    "états-unis"
-   ]
-  },
-  {
-   "title": "Visite de Léon XIV : protéger le pape sans gêner les croyants, le défi sécuritaire des forces de l'ordre françaises",
-   "url": "https://www.nicematin.com/societe/religion/5-des-francais-a-la-messe-les-dimanches-chute-vertigineuse-des-mariages-religieux-avant-la-visite-du-pape-une-eglise-affaiblie-malgre-la-hausse-des-baptemes-10727358",
-   "n_members": 90,
-   "n_sources": 29,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 5
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.483,
-   "category": "société",
-   "terms_left": [
-    "catholique",
-    "hui",
-    "aujourd"
-   ],
-   "terms_right": [
-    "pape léon",
-    "visite",
-    "xiv france"
+    "états-unis",
+    "face"
    ]
   },
   {
@@ -475,6 +475,36 @@
    ]
   },
   {
+   "title": "France: au procès Aramburu, 27 ans de prison requis contre Loïk Le Priol, 20 ans contre Romain Bouvier",
+   "url": "https://www.ouest-france.fr/societe/faits-divers/des-coups-de-feu-tires-pendant-a-proximite-dune-ecole-dans-loise-deux-personnes-blessees-des-eleves-confines-4a9c1022-b2cd-11f1-bc32-13ddcee9efa7",
+   "n_members": 115,
+   "n_sources": 27,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.373,
+   "category": "société",
+   "terms_left": [
+    "ans prison",
+    "prison",
+    "procès"
+   ],
+   "terms_right": [
+    "réclusion",
+    "martin aramburu",
+    "martin"
+   ]
+  },
+  {
    "title": "Prix des carburants : «Il n'y a pas de pénurie au niveau français», assure le spécialiste de l'énergie Thierry Bros",
    "url": "https://www.nouvelobs.com/economie/20260915.OBS118251/pourquoi-des-pecheurs-bloquent-ils-un-depot-petrolier-a-fos-sur-mer.html",
    "n_members": 81,
@@ -491,7 +521,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.625,
+   "divergence": 0.624,
    "category": "économie",
    "terms_left": [
     "pêcheurs",
@@ -521,47 +551,47 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.38,
+   "divergence": 0.383,
    "category": "international",
    "terms_left": [
-    "ukraine",
+    "zelensky",
     "guerre",
-    "zelensky"
+    "guerre ukraine"
    ],
    "terms_right": [
-    "qu",
-    "monde",
-    "france"
+    "emmanuel",
+    "emmanuel macron",
+    "macron"
    ]
   },
   {
-   "title": "France: au procès Aramburu, 27 ans de prison requis contre Loïk Le Priol, 20 ans contre Romain Bouvier",
-   "url": "https://www.ouest-france.fr/societe/faits-divers/des-coups-de-feu-tires-pendant-a-proximite-dune-ecole-dans-loise-deux-personnes-blessees-des-eleves-confines-4a9c1022-b2cd-11f1-bc32-13ddcee9efa7",
-   "n_members": 95,
+   "title": "Guerre commerciale, Moyen-Orient… Donald Trump reçoit Xi Jinping pour évoquer des dossiers brûlants",
+   "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/09/21/le-president-xi-jinping-en-visite-d-etat-aux-etats-unis-cette-semaine",
+   "n_members": 74,
    "n_sources": 26,
    "counts": {
     "left": 6,
-    "centre": 13,
-    "right": 7
+    "centre": 12,
+    "right": 8
    },
    "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 5
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 3
    },
-   "blindspot_score": 0.077,
+   "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.497,
-   "category": "société",
+   "divergence": 0.445,
+   "category": "international",
    "terms_left": [
-    "requis",
-    "aramburú",
-    "procès assassinat"
+    "trump xi",
+    "ia",
+    "intelligence"
    ],
    "terms_right": [
-    "réclusion",
-    "martin aramburu",
-    "martin"
+    "président",
+    "président chinois",
+    "états-unis"
    ]
   },
   {
@@ -641,47 +671,17 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.515,
+   "divergence": 0.51,
    "category": "international",
    "terms_left": [
+    "assemblée",
     "générale",
-    "assemblée générale",
-    "assemblée"
+    "assemblée générale"
    ],
    "terms_right": [
     "propos",
     "emmanuel macron",
     "emmanuel"
-   ]
-  },
-  {
-   "title": "Guerre commerciale, Moyen-Orient… Donald Trump reçoit Xi Jinping pour évoquer des dossiers brûlants",
-   "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/09/21/le-president-xi-jinping-en-visite-d-etat-aux-etats-unis-cette-semaine",
-   "n_members": 69,
-   "n_sources": 25,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.453,
-   "category": "international",
-   "terms_left": [
-    "trump xi",
-    "ia",
-    "intelligence"
-   ],
-   "terms_right": [
-    "président",
-    "président chinois",
-    "états-unis"
    ]
   },
   {
@@ -701,7 +701,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.437,
+   "divergence": 0.445,
    "category": "sport",
    "terms_left": [
     "droite",
@@ -742,6 +742,36 @@
     "france",
     "carburants",
     "prix"
+   ]
+  },
+  {
+   "title": "L'IA d'OpenAI infiltre un site du gouvernement australien : un incident \"inacceptable\"",
+   "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/l-agence-nationale-pour-la-formation-des-adultes-afpa-cible-d-un-piratage-informatique_8200595.html",
+   "n_members": 61,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 15,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 8,
+    "opinion": 1
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.842,
+   "category": "international",
+   "terms_left": [
+    "tigré",
+    "pays",
+    "guerre"
+   ],
+   "terms_right": [
+    "site",
+    "gouvernement",
+    "ia openai"
    ]
   },
   {
@@ -821,7 +851,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.181,
+   "divergence": 0.182,
    "category": "société",
    "terms_left": [
     "annonce",
@@ -925,36 +955,6 @@
    ]
   },
   {
-   "title": "L'IA d'OpenAI infiltre un site du gouvernement australien : un incident \"inacceptable\"",
-   "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/l-agence-nationale-pour-la-formation-des-adultes-afpa-cible-d-un-piratage-informatique_8200595.html",
-   "n_members": 60,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 15,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 8,
-    "opinion": 0
-   },
-   "blindspot_score": 0.111,
-   "blindspot_for": null,
-   "divergence": 0.874,
-   "category": "international",
-   "terms_left": [
-    "pays",
-    "guerre",
-    "jours"
-   ],
-   "terms_right": [
-    "site",
-    "openai",
-    "infiltré"
-   ]
-  },
-  {
    "title": "Patrick Bruel : une propriété du chanteur touchée par des incendies, la piste criminelle privilégiée",
    "url": "https://www.ouest-france.fr/faits-divers/violence-sexuelle/affaire-betharram-des-victimes-racontent-des-tortures-et-des-violences-systemiques-un-comite-de-suivi-est-cree-66adf27c-b2c7-11f1-bc32-13ddcee9efa7",
    "n_members": 59,
@@ -971,7 +971,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.754,
+   "divergence": 0.756,
    "category": "faits-divers",
    "terms_left": [
     "procès",
@@ -1017,7 +1017,7 @@
   {
    "title": "L'équipe de France : Zinédine Zidane débute en Turquie",
    "url": "https://www.leparisien.fr/sports/football/equipe-de-france/equipe-de-france-lepaul-truffert-jacquet-quels-pourraient-etre-les-nouveaux-visages-de-la-premiere-liste-de-zidane-17-09-2026-YEWBEM6EGZDDJB2XXLMNIFAO2M.php",
-   "n_members": 127,
+   "n_members": 133,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1031,17 +1031,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.343,
+   "divergence": 0.341,
    "category": "sport",
    "terms_left": [
-    "banc",
     "clairefontaine",
-    "nouveau sélectionneur"
+    "banc",
+    "tête équipe"
    ],
    "terms_right": [
     "bleus",
-    "soir",
-    "tf"
+    "turquie",
+    "soir"
    ]
   },
   {
@@ -1061,16 +1061,16 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.497,
+   "divergence": 0.494,
    "category": "international",
    "terms_left": [
+    "président américain",
     "onu président",
-    "discours donald",
-    "face"
+    "discours donald"
    ],
    "terms_right": [
-    "ukraine",
     "devant",
+    "ukraine",
     "guerre"
    ]
   },
@@ -1165,9 +1165,9 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine : au moins deux morts après une nouvelle nuit de frappes sur Kiev",
+   "title": "Guerre en Ukraine : des missiles russes font plusieurs morts à Kiev",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 102,
+   "n_members": 103,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -1181,17 +1181,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.541,
+   "divergence": 0.548,
    "category": "international",
    "terms_left": [
-    "maire",
-    "capitale",
-    "ukrainienne"
+    "russie",
+    "ukrainienne",
+    "capitale"
    ],
    "terms_right": [
     "russes",
     "attaque",
-    "volodymyr zelensky"
+    "missiles"
    ]
   }
  ]
