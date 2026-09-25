@@ -1,9 +1,39 @@
 {
  "week": "2026-W39",
- "generated_at": "2026-09-25T14:01:12+00:00",
+ "generated_at": "2026-09-25T18:16:16+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
+  {
+   "title": "L’écrivain Thélyson Orélien accusé d’avoir utilisé l’IA : les vraies questions que pose l’affaire",
+   "url": "https://www.nouvelobs.com/bibliobs/20260920.OBS118426/thelyson-orelien-le-phenomene-de-la-rentree-litteraire-je-ne-tiens-pas-mon-crayon-avec-ma-tete-mais-avec-mes-tripes.html",
+   "n_members": 151,
+   "n_sources": 38,
+   "counts": {
+    "left": 10,
+    "centre": 18,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 16,
+    "opinion": 4
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.195,
+   "category": "culture",
+   "terms_left": [
+    "mourir thélyson",
+    "affaire",
+    "ia"
+   ],
+   "terms_right": [
+    "accusé écrit",
+    "académie",
+    "écrivain canado-haïtien"
+   ]
+  },
   {
    "title": "Budget 2027 : Lecornu propose de rencontrer les parlementaires PS pour bâtir un nouveau «compromis»",
    "url": "https://www.publicsenat.fr/actualites/politique/budget-bruno-retailleau-demande-au-gouvernement-le-retour-de-la-reforme-des-retraites",
@@ -21,7 +51,7 @@
    },
    "blindspot_score": 0.238,
    "blindspot_for": null,
-   "divergence": 0.283,
+   "divergence": 0.288,
    "category": "politique",
    "terms_left": [
     "qu",
@@ -29,53 +59,53 @@
     "loi"
    ],
    "terms_right": [
-    "compromis",
     "ps",
-    "français"
+    "lecornu propose",
+    "effort"
    ]
   },
   {
-   "title": "Thélyson Orélien accusé d’avoir utilisé l’IA : six questions sur la polémique de la rentrée littéraire",
-   "url": "https://www.nouvelobs.com/bibliobs/20260920.OBS118426/thelyson-orelien-le-phenomene-de-la-rentree-litteraire-je-ne-tiens-pas-mon-crayon-avec-ma-tete-mais-avec-mes-tripes.html",
-   "n_members": 140,
-   "n_sources": 36,
+   "title": "DIRECT. Visite du pape en France: Léon XIV a atterri à l'aéroport d'Orly",
+   "url": "https://www.europe1.fr/societe/visite-du-pape-leon-xiv-a-paris-hommage-a-frere-laurent-de-la-resurrection-1087295",
+   "n_members": 193,
+   "n_sources": 35,
    "counts": {
-    "left": 10,
-    "centre": 17,
-    "right": 9
+    "left": 7,
+    "centre": 18,
+    "right": 10
    },
    "style_counts": {
-    "factuel": 17,
-    "mixte": 15,
+    "factuel": 19,
+    "mixte": 12,
     "opinion": 4
    },
-   "blindspot_score": -0.053,
+   "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.198,
-   "category": "culture",
+   "divergence": 0.253,
+   "category": "société",
    "terms_left": [
-    "mourir thélyson",
-    "affaire",
-    "monde"
+    "france léon",
+    "metz",
+    "violences"
    ],
    "terms_right": [
-    "académie",
-    "accusé écrit",
-    "écrit"
+    "messe",
+    "pape france",
+    "président"
    ]
   },
   {
    "title": "EN BREF - Menace russe, carburants, dissolution... Ce qu'il faut retenir de l'interview d'Emmanuel Macron sur TF1",
    "url": "https://information.tv5monde.com/international/le-president-libanais-veut-un-accord-de-securite-avec-israel-qui-pourrait-preluder-la-paix-2837774",
-   "n_members": 181,
-   "n_sources": 33,
+   "n_members": 183,
+   "n_sources": 34,
    "counts": {
     "left": 7,
-    "centre": 14,
+    "centre": 15,
     "right": 12
    },
    "style_counts": {
-    "factuel": 17,
+    "factuel": 18,
     "mixte": 11,
     "opinion": 5
    },
@@ -95,36 +125,6 @@
    ]
   },
   {
-   "title": "DIRECT. Visite du pape en France: Léon XIV a atterri à l'aéroport d'Orly",
-   "url": "https://www.europe1.fr/societe/visite-du-pape-leon-xiv-a-paris-hommage-a-frere-laurent-de-la-resurrection-1087295",
-   "n_members": 176,
-   "n_sources": 33,
-   "counts": {
-    "left": 6,
-    "centre": 17,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 18,
-    "mixte": 11,
-    "opinion": 4
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.27,
-   "category": "société",
-   "terms_left": [
-    "france léon",
-    "visite france",
-    "veillée"
-   ],
-   "terms_right": [
-    "messe",
-    "président",
-    "état"
-   ]
-  },
-  {
    "title": "Crise du carburant : Grands rouleurs, professionnels, TVA… Ce qu’il faut retenir des annonces du gouvernement",
    "url": "https://www.publicsenat.fr/actualites/politique/le-premier-ministre-est-tres-inquiet-sur-les-prix-de-lessence-avant-de-finaliser-sa-copie-budgetaire-sebastien-lecornu-a-recu-letat-major-du-senat",
    "n_members": 163,
@@ -141,23 +141,23 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.381,
+   "divergence": 0.368,
    "category": "économie",
    "terms_left": [
-    "fin",
     "prix",
-    "essence"
+    "prix carburant",
+    "fin"
    ],
    "terms_right": [
-    "carburants",
     "face",
+    "carburants",
     "automobilistes"
    ]
   },
   {
    "title": "Prix des carburants : le litre de gazole à son plus haut historique dans l'Union européenne",
    "url": "https://www.nouvelobs.com/economie/20260916.OBS118307/la-flambee-du-prix-des-carburants-preoccupe-le-gouvernement-entre-difficulte-d-approvisionnement-et-inflation.html",
-   "n_members": 120,
+   "n_members": 122,
    "n_sources": 32,
    "counts": {
     "left": 5,
@@ -171,17 +171,17 @@
    },
    "blindspot_score": 0.412,
    "blindspot_for": null,
-   "divergence": 0.558,
+   "divergence": 0.561,
    "category": "économie",
    "terms_left": [
     "essence",
     "plein",
-    "semaine"
+    "euros moyenne"
    ],
    "terms_right": [
     "france",
     "carburants",
-    "faut"
+    "taxes"
    ]
   },
   {
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.304,
+   "divergence": 0.31,
    "category": "international",
    "terms_left": [
     "berlin",
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.358,
+   "divergence": 0.357,
    "category": "politique",
    "terms_left": [
     "présidentielle",
@@ -261,17 +261,17 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.287,
+   "divergence": 0.306,
    "category": "international",
    "terms_left": [
-    "obtenu contrôle",
-    "militaires",
-    "bases militaires"
+    "sécurité groenland",
+    "annoncé",
+    "obtenu contrôle"
    ],
    "terms_right": [
-    "russie",
-    "arctique",
-    "états-unis"
+    "états-unis",
+    "danemark",
+    "russie"
    ]
   },
   {
@@ -291,7 +291,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.336,
+   "divergence": 0.331,
    "category": "international",
    "terms_left": [
     "presse",
@@ -300,14 +300,14 @@
    ],
    "terms_right": [
     "médias maison",
-    "chaîne",
-    "décision"
+    "décision",
+    "états-unis"
    ]
   },
   {
    "title": "Visite de Léon XIV : protéger le pape sans gêner les croyants, le défi sécuritaire des forces de l'ordre françaises",
    "url": "https://www.nicematin.com/societe/religion/5-des-francais-a-la-messe-les-dimanches-chute-vertigineuse-des-mariages-religieux-avant-la-visite-du-pape-une-eglise-affaiblie-malgre-la-hausse-des-baptemes-10727358",
-   "n_members": 79,
+   "n_members": 90,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -321,12 +321,12 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.478,
+   "divergence": 0.483,
    "category": "société",
    "terms_left": [
     "catholique",
-    "enseignement",
-    "enseignement catholique"
+    "hui",
+    "aujourd"
    ],
    "terms_right": [
     "pape léon",
@@ -433,16 +433,16 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.669,
+   "divergence": 0.668,
    "category": "politique",
    "terms_left": [
     "campagne",
     "marine",
-    "assemblée"
+    "candidats"
    ],
    "terms_right": [
-    "dupont-aignan",
     "nicolas dupont-aignan",
+    "dupont-aignan",
     "nicolas"
    ]
   },
@@ -463,7 +463,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.696,
+   "divergence": 0.695,
    "category": "international",
    "terms_left": [
     "etats-unis"
@@ -491,7 +491,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.627,
+   "divergence": 0.625,
    "category": "économie",
    "terms_left": [
     "pêcheurs",
@@ -521,7 +521,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.381,
+   "divergence": 0.38,
    "category": "international",
    "terms_left": [
     "ukraine",
@@ -530,7 +530,7 @@
    ],
    "terms_right": [
     "qu",
-    "emmanuel",
+    "monde",
     "france"
    ]
   },
@@ -551,17 +551,17 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.491,
+   "divergence": 0.497,
    "category": "société",
    "terms_left": [
     "requis",
     "aramburú",
-    "balles"
+    "procès assassinat"
    ],
    "terms_right": [
     "réclusion",
-    "assassinat federico",
-    "martin aramburu"
+    "martin aramburu",
+    "martin"
    ]
   },
   {
@@ -581,7 +581,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.716,
+   "divergence": 0.722,
    "category": "sciences-tech",
    "terms_left": [
     "face",
@@ -627,7 +627,7 @@
   {
    "title": "Israël dénonce \"l'absurdité grotesque\" des propos d'Emmanuel Macron qui a dénoncé à l'ONU \"un spectacle qui nous fait honte à tous\" à Gaza et en Cisjordanie",
    "url": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-menace-russe-l-arme-de-dissuasion-nucleaire-ne-doit-pas-etre-partagee-estime-nicolas-dupont-aignan-candidat-debout-le-france-a-l-election-presidentielle_VN-202609210779.html",
-   "n_members": 69,
+   "n_members": 70,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -641,7 +641,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.523,
+   "divergence": 0.515,
    "category": "international",
    "terms_left": [
     "générale",
@@ -657,7 +657,7 @@
   {
    "title": "Guerre commerciale, Moyen-Orient… Donald Trump reçoit Xi Jinping pour évoquer des dossiers brûlants",
    "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/09/21/le-president-xi-jinping-en-visite-d-etat-aux-etats-unis-cette-semaine",
-   "n_members": 68,
+   "n_members": 69,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -671,7 +671,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.452,
+   "divergence": 0.453,
    "category": "international",
    "terms_left": [
     "trump xi",
@@ -701,7 +701,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.435,
+   "divergence": 0.437,
    "category": "sport",
    "terms_left": [
     "droite",
@@ -791,12 +791,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.904,
+   "divergence": 0.9,
    "category": "économie",
    "terms_left": [
-    "taux",
     "travailler",
-    "hausses"
+    "hausses",
+    "publique"
    ],
    "terms_right": [
     "france",
@@ -821,17 +821,17 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.178,
+   "divergence": 0.181,
    "category": "société",
    "terms_left": [
     "annonce",
     "grève",
-    "droite"
+    "propositions"
    ],
    "terms_right": [
     "édito",
     "syndicats",
-    "radio france"
+    "affaire"
    ]
   },
   {
@@ -946,7 +946,7 @@
    "terms_left": [
     "pays",
     "guerre",
-    "agent"
+    "jours"
    ],
    "terms_right": [
     "site",
@@ -980,8 +980,8 @@
    ],
    "terms_right": [
     "patrick",
-    "praud",
-    "pascal praud"
+    "pascal praud",
+    "praud"
    ]
   },
   {
@@ -1001,11 +1001,11 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.635,
+   "divergence": 0.626,
    "category": "international",
    "terms_left": [
     "élections législatives",
-    "élections",
+    "taux",
     "taux participation"
    ],
    "terms_right": [
@@ -1017,7 +1017,7 @@
   {
    "title": "L'équipe de France : Zinédine Zidane débute en Turquie",
    "url": "https://www.leparisien.fr/sports/football/equipe-de-france/equipe-de-france-lepaul-truffert-jacquet-quels-pourraient-etre-les-nouveaux-visages-de-la-premiere-liste-de-zidane-17-09-2026-YEWBEM6EGZDDJB2XXLMNIFAO2M.php",
-   "n_members": 118,
+   "n_members": 127,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1031,16 +1031,16 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.371,
+   "divergence": 0.343,
    "category": "sport",
    "terms_left": [
+    "banc",
     "clairefontaine",
-    "nouveau sélectionneur",
-    "tête équipe"
+    "nouveau sélectionneur"
    ],
    "terms_right": [
     "bleus",
-    "turquie",
+    "soir",
     "tf"
    ]
   },
@@ -1061,16 +1061,16 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.496,
+   "divergence": 0.497,
    "category": "international",
    "terms_left": [
     "onu président",
-    "force",
-    "retenir discours"
+    "discours donald",
+    "face"
    ],
    "terms_right": [
-    "devant",
     "ukraine",
+    "devant",
     "guerre"
    ]
   },
@@ -1091,17 +1091,17 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.824,
+   "divergence": 0.831,
    "category": "international",
    "terms_left": [
-    "colère",
-    "sait",
+    "nouvelle",
+    "camion",
     "ice"
    ],
    "terms_right": [
+    "meurt",
     "homme",
-    "ans",
-    "meurt"
+    "ans"
    ]
   },
   {
@@ -1121,7 +1121,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.611,
+   "divergence": 0.618,
    "category": "société",
    "terms_left": [
     "gilets jaunes",
@@ -1167,7 +1167,7 @@
   {
    "title": "Guerre en Ukraine : au moins deux morts après une nouvelle nuit de frappes sur Kiev",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 98,
+   "n_members": 102,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -1181,17 +1181,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.549,
+   "divergence": 0.541,
    "category": "international",
    "terms_left": [
-    "russie",
-    "ukrainienne",
-    "capitale"
+    "maire",
+    "capitale",
+    "ukrainienne"
    ],
    "terms_right": [
     "russes",
     "attaque",
-    "ukraine"
+    "volodymyr zelensky"
    ]
   }
  ]
