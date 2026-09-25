@@ -1,6 +1,6 @@
 {
  "week": "2026-W39",
- "generated_at": "2026-09-25T02:27:47+00:00",
+ "generated_at": "2026-09-25T08:03:50+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,23 +21,23 @@
    },
    "blindspot_score": 0.238,
    "blindspot_for": null,
-   "divergence": 0.277,
+   "divergence": 0.288,
    "category": "politique",
    "terms_left": [
     "qu",
-    "austérité",
-    "présidentielle"
+    "présidentielle",
+    "loi"
    ],
    "terms_right": [
     "compromis",
     "ps",
-    "prix"
+    "lecornu propose"
    ]
   },
   {
    "title": "Thélyson Orélien accusé d’avoir utilisé l’IA : six questions sur la polémique de la rentrée littéraire",
    "url": "https://www.nouvelobs.com/bibliobs/20260920.OBS118426/thelyson-orelien-le-phenomene-de-la-rentree-litteraire-je-ne-tiens-pas-mon-crayon-avec-ma-tete-mais-avec-mes-tripes.html",
-   "n_members": 110,
+   "n_members": 117,
    "n_sources": 36,
    "counts": {
     "left": 10,
@@ -51,23 +51,23 @@
    },
    "blindspot_score": -0.053,
    "blindspot_for": null,
-   "divergence": 0.24,
+   "divergence": 0.217,
    "category": "culture",
    "terms_left": [
+    "origine",
     "affaire",
-    "ia",
-    "phénomène rentrée"
+    "mourir thélyson"
    ],
    "terms_right": [
     "accusé écrit",
     "écrit",
-    "écrit roman"
+    "écriture"
    ]
   },
   {
    "title": "EN BREF - Menace russe, carburants, dissolution... Ce qu'il faut retenir de l'interview d'Emmanuel Macron sur TF1",
    "url": "https://information.tv5monde.com/international/le-president-libanais-veut-un-accord-de-securite-avec-israel-qui-pourrait-preluder-la-paix-2837774",
-   "n_members": 171,
+   "n_members": 178,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -81,17 +81,17 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.384,
+   "divergence": 0.375,
    "category": "politique",
    "terms_left": [
     "internationales",
-    "militaires",
-    "fin"
+    "prix carburant",
+    "jt"
    ],
    "terms_right": [
+    "état",
     "flambée prix",
-    "prix carburants",
-    "état"
+    "prix carburants"
    ]
   },
   {
@@ -111,17 +111,17 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.374,
+   "divergence": 0.371,
    "category": "économie",
    "terms_left": [
     "fin",
     "jusqu fin",
-    "élargissement"
+    "prix carburant"
    ],
    "terms_right": [
     "carburants",
     "face",
-    "nouvelles aides"
+    "prix carburants"
    ]
   },
   {
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.301,
+   "divergence": 0.304,
    "category": "international",
    "terms_left": [
     "berlin",
@@ -171,17 +171,47 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.357,
+   "divergence": 0.368,
    "category": "politique",
    "terms_left": [
+    "présidentielle",
     "gauche",
-    "primaire gauche",
-    "présidentielle"
+    "primaire gauche"
    ],
    "terms_right": [
     "demande",
     "réintégration",
     "justice"
+   ]
+  },
+  {
+   "title": "DIRECT. Visite du pape en France: Léon XIV a atterri à l'aéroport d'Orly",
+   "url": "https://www.europe1.fr/societe/visite-du-pape-leon-xiv-a-paris-hommage-a-frere-laurent-de-la-resurrection-1087295",
+   "n_members": 139,
+   "n_sources": 31,
+   "counts": {
+    "left": 6,
+    "centre": 15,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.314,
+   "category": "société",
+   "terms_left": [
+    "américain",
+    "violences",
+    "eglise"
+   ],
+   "terms_right": [
+    "messe",
+    "visite pape",
+    "messes"
    ]
   },
   {
@@ -201,12 +231,12 @@
    },
    "blindspot_score": 0.412,
    "blindspot_for": null,
-   "divergence": 0.569,
+   "divergence": 0.578,
    "category": "économie",
    "terms_left": [
     "essence",
     "plein",
-    "autour"
+    "prix"
    ],
    "terms_right": [
     "france",
@@ -239,15 +269,15 @@
     "bases militaires"
    ],
    "terms_right": [
+    "russie",
     "arctique",
-    "new york",
-    "york"
+    "états-unis"
    ]
   },
   {
    "title": "Un juge américain ordonne à l'administration Trump de \"rétablir immédiatement\" l'accès à la Maison Blanche à CNN, MS NOW et Politico",
    "url": "https://www.humanite.fr/monde/donald-trump/midterms-comment-les-republicains-tentent-de-confisquer-le-vote-des-americains",
-   "n_members": 134,
+   "n_members": 136,
    "n_sources": 30,
    "counts": {
     "left": 8,
@@ -261,7 +291,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.325,
+   "divergence": 0.32,
    "category": "international",
    "terms_left": [
     "presse",
@@ -269,9 +299,9 @@
     "cnn ms"
    ],
    "terms_right": [
-    "médias",
     "décision",
-    "américain"
+    "états-unis",
+    "face"
    ]
   },
   {
@@ -291,7 +321,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.914,
+   "divergence": 0.915,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -301,7 +331,7 @@
    "terms_right": [
     "chine",
     "français",
-    "france"
+    "états-unis"
    ]
   },
   {
@@ -351,7 +381,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.509,
+   "divergence": 0.508,
    "category": "international",
    "terms_left": [
     "ukraine",
@@ -362,36 +392,6 @@
     "russe",
     "menace",
     "législatives russie"
-   ]
-  },
-  {
-   "title": "Visite du pape Léon XIV en France : Emmanuel Macron n'assistera à aucune messe, mais accueillera 26 dirigeants étrangers pour son discours à Metz",
-   "url": "https://www.europe1.fr/societe/visite-du-pape-leon-xiv-a-paris-hommage-a-frere-laurent-de-la-resurrection-1087295",
-   "n_members": 106,
-   "n_sources": 28,
-   "counts": {
-    "left": 4,
-    "centre": 14,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 8,
-    "opinion": 4
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": 0.388,
-   "category": "société",
-   "terms_left": [
-    "europe",
-    "visite france",
-    "catholiques"
-   ],
-   "terms_right": [
-    "visite pape",
-    "messe",
-    "lourdes"
    ]
   },
   {
@@ -416,12 +416,42 @@
    "terms_left": [
     "campagne",
     "marine",
-    "assemblée"
+    "candidats"
    ],
    "terms_right": [
-    "nicolas dupont-aignan",
     "dupont-aignan",
+    "nicolas dupont-aignan",
     "nicolas"
+   ]
+  },
+  {
+   "title": "Visite de Léon XIV : protéger le pape sans gêner les croyants, le défi sécuritaire des forces de l'ordre françaises",
+   "url": "https://www.nicematin.com/societe/religion/5-des-francais-a-la-messe-les-dimanches-chute-vertigineuse-des-mariages-religieux-avant-la-visite-du-pape-une-eglise-affaiblie-malgre-la-hausse-des-baptemes-10727358",
+   "n_members": 71,
+   "n_sources": 28,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.501,
+   "category": "société",
+   "terms_left": [
+    "catholique",
+    "enseignement",
+    "enseignement catholique"
+   ],
+   "terms_right": [
+    "visite",
+    "pape léon",
+    "personnes"
    ]
   },
   {
@@ -469,7 +499,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.628,
+   "divergence": 0.627,
    "category": "économie",
    "terms_left": [
     "pêcheurs",
@@ -499,17 +529,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.363,
+   "divergence": 0.383,
    "category": "international",
    "terms_left": [
-    "homologue",
-    "guerre ukraine",
+    "ukraine",
+    "guerre",
     "zelensky"
    ],
    "terms_right": [
-    "france",
+    "qu",
     "emmanuel",
-    "qu"
+    "france"
    ]
   },
   {
@@ -529,7 +559,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.708,
+   "divergence": 0.713,
    "category": "sciences-tech",
    "terms_left": [
     "face",
@@ -537,39 +567,9 @@
     "ralentir"
    ],
    "terms_right": [
+    "ia",
     "openai",
-    "sam altman",
-    "altman"
-   ]
-  },
-  {
-   "title": "Visite du pape Léon XIV : la France sous très haute sécurité pendant quatre jours, des milliers de forces de l'ordre mobilisées",
-   "url": "https://www.nicematin.com/societe/religion/5-des-francais-a-la-messe-les-dimanches-chute-vertigineuse-des-mariages-religieux-avant-la-visite-du-pape-une-eglise-affaiblie-malgre-la-hausse-des-baptemes-10727358",
-   "n_members": 60,
-   "n_sources": 26,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 5
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.488,
-   "category": "société",
-   "terms_left": [
-    "catholique",
-    "enseignement",
-    "enseignement catholique"
-   ],
-   "terms_right": [
-    "visite",
-    "xiv france",
-    "sécurité"
+    "sam altman"
    ]
   },
   {
@@ -589,7 +589,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.418,
+   "divergence": 0.443,
    "category": "international",
    "terms_left": [
     "rapprochement",
@@ -598,14 +598,14 @@
    ],
    "terms_right": [
     "visite",
-    "léon xiv",
-    "xiv"
+    "pape",
+    "léon xiv"
    ]
   },
   {
    "title": "France: au procès Aramburu, 27 ans de prison requis contre Loïk Le Priol, 20 ans contre Romain Bouvier",
    "url": "https://www.ouest-france.fr/societe/faits-divers/des-coups-de-feu-tires-pendant-a-proximite-dune-ecole-dans-loise-deux-personnes-blessees-des-eleves-confines-4a9c1022-b2cd-11f1-bc32-13ddcee9efa7",
-   "n_members": 90,
+   "n_members": 93,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -619,17 +619,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.557,
+   "divergence": 0.493,
    "category": "société",
    "terms_left": [
     "requis",
-    "mort",
-    "ancien"
+    "balles",
+    "aramburú"
    ],
    "terms_right": [
-    "assassinat federico",
     "réclusion",
-    "daillet"
+    "assassinat federico",
+    "martin aramburu"
    ]
   },
   {
@@ -679,12 +679,12 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.45,
+   "divergence": 0.442,
    "category": "sport",
    "terms_left": [
     "droite",
-    "france",
-    "extrême"
+    "extrême",
+    "extrême droite"
    ],
    "terms_right": [
     "nike",
@@ -739,7 +739,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.609,
+   "divergence": 0.61,
    "category": "société",
    "terms_left": [
     "violences",
@@ -750,6 +750,36 @@
     "armes",
     "usage",
     "usage armes"
+   ]
+  },
+  {
+   "title": "Auto, habitation, santé... pourquoi les tarifs des assurances vont grimper en 2027 et à quelles hausses faut-il s'attendre ?",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-6203074",
+   "n_members": 61,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 10,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.898,
+   "category": "économie",
+   "terms_left": [
+    "projet",
+    "compte",
+    "finances"
+   ],
+   "terms_right": [
+    "france",
+    "carburant",
+    "jusqu"
    ]
   },
   {
@@ -769,7 +799,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.18,
+   "divergence": 0.179,
    "category": "société",
    "terms_left": [
     "annonce",
@@ -779,37 +809,37 @@
    "terms_right": [
     "édito",
     "syndicats",
-    "face"
+    "radio france"
    ]
   },
   {
-   "title": "Auto, habitation, santé... pourquoi les tarifs des assurances vont grimper en 2027 et à quelles hausses faut-il s'attendre ?",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-6203074",
-   "n_members": 60,
-   "n_sources": 25,
+   "title": "Guerre commerciale, Moyen-Orient… Donald Trump reçoit Xi Jinping pour évoquer des dossiers brûlants",
+   "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/09/21/le-president-xi-jinping-en-visite-d-etat-aux-etats-unis-cette-semaine",
+   "n_members": 64,
+   "n_sources": 24,
    "counts": {
-    "left": 5,
-    "centre": 10,
-    "right": 10
+    "left": 6,
+    "centre": 12,
+    "right": 6
    },
    "style_counts": {
-    "factuel": 14,
-    "mixte": 8,
-    "opinion": 3
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 2
    },
-   "blindspot_score": 0.333,
+   "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.892,
-   "category": "économie",
+   "divergence": 0.481,
+   "category": "international",
    "terms_left": [
-    "projet",
-    "compte",
-    "finances"
+    "ia",
+    "intelligence",
+    "artificielle"
    ],
    "terms_right": [
-    "france",
-    "carburant",
-    "jusqu"
+    "président",
+    "président chinois",
+    "états-unis"
    ]
   },
   {
@@ -919,12 +949,12 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.742,
+   "divergence": 0.751,
    "category": "faits-divers",
    "terms_left": [
+    "procès",
     "macron",
-    "emmanuel",
-    "emmanuel macron"
+    "emmanuel"
    ],
    "terms_right": [
     "patrick",
@@ -949,7 +979,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.863,
+   "divergence": 0.864,
    "category": "international",
    "terms_left": [
     "pays",
@@ -965,7 +995,7 @@
   {
    "title": "Élections législatives au Maroc : le parti au pouvoir garde la main",
    "url": "https://www.rfi.fr/fr/afrique/20260919-c-est-une-catastrophe-la-sant%C3%A9-publique-au-c%C5%93ur-des-pr%C3%A9occupations-pour-les-l%C3%A9gislatives-au-maroc",
-   "n_members": 56,
+   "n_members": 57,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -979,17 +1009,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.649,
+   "divergence": 0.637,
    "category": "international",
    "terms_left": [
+    "élections",
     "élections législatives",
-    "législatives",
-    "taux participation"
+    "taux"
    ],
    "terms_right": [
     "ceuta",
     "espagnol",
-    "parti"
+    "pedro"
    ]
   },
   {
@@ -1009,7 +1039,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.496,
+   "divergence": 0.495,
    "category": "international",
    "terms_left": [
     "force",
@@ -1018,8 +1048,8 @@
    ],
    "terms_right": [
     "devant",
-    "nations unies",
-    "unies"
+    "iran",
+    "tribune"
    ]
   },
   {
@@ -1039,7 +1069,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.823,
+   "divergence": 0.824,
    "category": "international",
    "terms_left": [
     "colère",
@@ -1069,7 +1099,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.621,
+   "divergence": 0.613,
    "category": "société",
    "terms_left": [
     "gilets jaunes",
@@ -1080,36 +1110,6 @@
     "pêcheurs",
     "militaire",
     "aumônier militaire"
-   ]
-  },
-  {
-   "title": "Guerre commerciale, Moyen-Orient… Donald Trump reçoit Xi Jinping pour évoquer des dossiers brûlants",
-   "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/09/21/le-president-xi-jinping-en-visite-d-etat-aux-etats-unis-cette-semaine",
-   "n_members": 58,
-   "n_sources": 23,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": -0.091,
-   "blindspot_for": null,
-   "divergence": 0.494,
-   "category": "international",
-   "terms_left": [
-    "ia",
-    "intelligence",
-    "artificielle"
-   ],
-   "terms_right": [
-    "président",
-    "président chinois",
-    "états-unis"
    ]
   },
   {
@@ -1143,9 +1143,39 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine : au moins deux morts après une nouvelle nuit de frappes sur Kiev",
+   "title": "L'équipe de France : Zinédine Zidane débute en Turquie",
+   "url": "https://www.leparisien.fr/sports/football/equipe-de-france/equipe-de-france-lepaul-truffert-jacquet-quels-pourraient-etre-les-nouveaux-visages-de-la-premiere-liste-de-zidane-17-09-2026-YEWBEM6EGZDDJB2XXLMNIFAO2M.php",
+   "n_members": 111,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.38,
+   "category": "sport",
+   "terms_left": [
+    "tête équipe",
+    "liste",
+    "sélectionneur"
+   ],
+   "terms_right": [
+    "bleus",
+    "nations",
+    "turquie"
+   ]
+  },
+  {
+   "title": "Guerre en Ukraine: \"L'hiver sera douloureux\"",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 90,
+   "n_members": 92,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -1159,47 +1189,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.566,
+   "divergence": 0.564,
    "category": "international",
    "terms_left": [
     "russie",
-    "hiver",
-    "nations"
+    "ukrainienne",
+    "nations unies"
    ],
    "terms_right": [
     "russes",
-    "région",
-    "russe"
-   ]
-  },
-  {
-   "title": "Primaire des sociaux-démocrates : le débrief du 1ᵉʳ débat de Glucksmann, Royal, Faure, Guedj et Maurel",
-   "url": "https://www.nouvelobs.com/politique/20260919.OBS118388/helene-49-ans-et-sa-fille-stella-elle-m-a-convaincue-de-voter-melenchon-malgre-mes-reticences.html",
-   "n_members": 77,
-   "n_sources": 22,
-   "counts": {
-    "left": 6,
-    "centre": 10,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.422,
-   "category": "politique",
-   "terms_left": [
-    "royal",
-    "ans",
-    "glucksmann"
-   ],
-   "terms_right": [
-    "primaire socialiste",
-    "candidats primaire",
-    "candidat"
+    "russe",
+    "menace"
    ]
   }
  ]
