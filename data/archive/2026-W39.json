@@ -1,13 +1,13 @@
 {
  "week": "2026-W39",
- "generated_at": "2026-09-26T10:01:02+00:00",
+ "generated_at": "2026-09-26T14:13:04+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "L’écrivain Thélyson Orélien accusé d’avoir utilisé l’IA : les vraies questions que pose l’affaire",
    "url": "https://www.nouvelobs.com/bibliobs/20260920.OBS118426/thelyson-orelien-le-phenomene-de-la-rentree-litteraire-je-ne-tiens-pas-mon-crayon-avec-ma-tete-mais-avec-mes-tripes.html",
-   "n_members": 158,
+   "n_members": 161,
    "n_sources": 38,
    "counts": {
     "left": 10,
@@ -21,17 +21,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.204,
+   "divergence": 0.205,
    "category": "culture",
    "terms_left": [
-    "affaire",
     "compte",
+    "affaire",
     "création"
    ],
    "terms_right": [
-    "écrit",
     "prix",
-    "accusé écrit"
+    "académie",
+    "écrit"
    ]
   },
   {
@@ -51,23 +51,23 @@
    },
    "blindspot_score": 0.238,
    "blindspot_for": null,
-   "divergence": 0.293,
+   "divergence": 0.29,
    "category": "politique",
    "terms_left": [
-    "qu",
     "présidentielle",
-    "loi"
+    "qu",
+    "direct présidentielle"
    ],
    "terms_right": [
+    "effort",
     "ps",
-    "socialistes",
-    "effort"
+    "déficit"
    ]
   },
   {
    "title": "DIRECT. Visite du pape en France: Léon XIV a atterri à l'aéroport d'Orly",
    "url": "https://www.europe1.fr/societe/visite-du-pape-leon-xiv-a-paris-hommage-a-frere-laurent-de-la-resurrection-1087295",
-   "n_members": 220,
+   "n_members": 228,
    "n_sources": 35,
    "counts": {
     "left": 7,
@@ -81,16 +81,16 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.246,
+   "divergence": 0.251,
    "category": "société",
    "terms_left": [
     "france léon",
     "direct visite",
-    "metz"
+    "programme"
    ],
    "terms_right": [
     "messe",
-    "président",
+    "journée",
     "pape france"
    ]
   },
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.37,
+   "divergence": 0.369,
    "category": "politique",
    "terms_left": [
     "internationales",
@@ -141,12 +141,12 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.391,
+   "divergence": 0.383,
    "category": "économie",
    "terms_left": [
     "carburants gouvernement",
-    "prix carburant",
-    "essence"
+    "français",
+    "prix carburant"
    ],
    "terms_right": [
     "face",
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.412,
    "blindspot_for": null,
-   "divergence": 0.551,
+   "divergence": 0.55,
    "category": "économie",
    "terms_left": [
     "essence",
@@ -209,8 +209,8 @@
     "politique"
    ],
    "terms_right": [
-    "régionales allemagne",
     "régionales",
+    "régionales allemagne",
     "élections régionales"
    ]
   },
@@ -231,23 +231,23 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.362,
+   "divergence": 0.352,
    "category": "politique",
    "terms_left": [
+    "accusations",
     "présidentielle",
-    "violences",
     "primaire gauche"
    ],
    "terms_right": [
-    "réintégration",
-    "demande",
-    "justice"
+    "cour",
+    "socialiste",
+    "réintégration"
    ]
   },
   {
    "title": "EN DIRECT - Visite de Léon XIV en France : le pape «émerveillé» par le nombre de nouveaux baptêmes dans l’Hexagone",
    "url": "https://www.nicematin.com/societe/religion/5-des-francais-a-la-messe-les-dimanches-chute-vertigineuse-des-mariages-religieux-avant-la-visite-du-pape-une-eglise-affaiblie-malgre-la-hausse-des-baptemes-10727358",
-   "n_members": 132,
+   "n_members": 155,
    "n_sources": 31,
    "counts": {
     "left": 6,
@@ -261,17 +261,17 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.427,
+   "divergence": 0.377,
    "category": "société",
    "terms_left": [
-    "star",
     "catholique",
-    "pays"
+    "star",
+    "hui"
    ],
    "terms_right": [
-    "place",
-    "visite",
-    "personnes"
+    "messe",
+    "jeunes",
+    "place"
    ]
   },
   {
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.292,
+   "divergence": 0.285,
    "category": "international",
    "terms_left": [
     "sécurité groenland",
@@ -300,8 +300,8 @@
    ],
    "terms_right": [
     "états-unis",
-    "russie",
-    "ia"
+    "ia",
+    "new"
    ]
   },
   {
@@ -332,6 +332,36 @@
     "médias maison",
     "états-unis",
     "face"
+   ]
+  },
+  {
+   "title": "Affaire Federico Martin Aramburu: Loïk Le Priol et Romain Bouvier condamnés à 26 et 19 ans de réclusion criminelle",
+   "url": "https://www.ouest-france.fr/societe/faits-divers/des-coups-de-feu-tires-pendant-a-proximite-dune-ecole-dans-loise-deux-personnes-blessees-des-eleves-confines-4a9c1022-b2cd-11f1-bc32-13ddcee9efa7",
+   "n_members": 122,
+   "n_sources": 29,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.327,
+   "category": "société",
+   "terms_left": [
+    "requis",
+    "procès",
+    "prison"
+   ],
+   "terms_right": [
+    "réclusion",
+    "ans réclusion",
+    "réclusion criminelle"
    ]
   },
   {
@@ -417,36 +447,6 @@
    ]
   },
   {
-   "title": "Affaire Federico Martin Aramburu: Loïk Le Priol et Romain Bouvier condamnés à 26 et 19 ans de réclusion criminelle",
-   "url": "https://www.ouest-france.fr/societe/faits-divers/des-coups-de-feu-tires-pendant-a-proximite-dune-ecole-dans-loise-deux-personnes-blessees-des-eleves-confines-4a9c1022-b2cd-11f1-bc32-13ddcee9efa7",
-   "n_members": 120,
-   "n_sources": 28,
-   "counts": {
-    "left": 7,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 9,
-    "opinion": 5
-   },
-   "blindspot_score": 0.067,
-   "blindspot_for": null,
-   "divergence": 0.333,
-   "category": "société",
-   "terms_left": [
-    "procès",
-    "requis",
-    "prison"
-   ],
-   "terms_right": [
-    "réclusion",
-    "ans réclusion",
-    "martin aramburu"
-   ]
-  },
-  {
    "title": "Présidentielle 2027 : Marine Tondelier, candidate… jusqu’en décembre, les Écologistes décideront de leur stratégie après",
    "url": "https://www.lemonde.fr/politique/article/2026/09/17/presidentielle-2027-les-candidats-desormais-interdits-de-campagne-dans-les-ecoles-annonce-le-ministre-de-l-education-nationale_6776416_823448.html",
    "n_members": 74,
@@ -521,17 +521,47 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.619,
+   "divergence": 0.627,
    "category": "économie",
    "terms_left": [
-    "pêcheurs",
-    "aides",
-    "blocages"
+    "ministre",
+    "cours",
+    "pêche"
    ],
    "terms_right": [
+    "carburants",
     "face",
-    "qu",
-    "carburants"
+    "pénurie"
+   ]
+  },
+  {
+   "title": "Guerre commerciale, Moyen-Orient… Donald Trump reçoit Xi Jinping pour évoquer des dossiers brûlants",
+   "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/09/21/le-president-xi-jinping-en-visite-d-etat-aux-etats-unis-cette-semaine",
+   "n_members": 75,
+   "n_sources": 27,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.44,
+   "category": "international",
+   "terms_left": [
+    "trump xi",
+    "ia",
+    "intelligence"
+   ],
+   "terms_right": [
+    "président",
+    "président chinois",
+    "état"
    ]
   },
   {
@@ -565,36 +595,6 @@
    ]
   },
   {
-   "title": "Guerre commerciale, Moyen-Orient… Donald Trump reçoit Xi Jinping pour évoquer des dossiers brûlants",
-   "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/09/21/le-president-xi-jinping-en-visite-d-etat-aux-etats-unis-cette-semaine",
-   "n_members": 74,
-   "n_sources": 26,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.436,
-   "category": "international",
-   "terms_left": [
-    "trump xi",
-    "ia",
-    "intelligence"
-   ],
-   "terms_right": [
-    "président",
-    "président chinois",
-    "états-unis"
-   ]
-  },
-  {
    "title": "Intelligence artificielle : le pape met en garde contre l'avènement d'un «paradis de machines»",
    "url": "https://www.bfmtv.com/culture/video-monroe-candidate-francaise-a-l-eurovision-chantera-devant-le-pape-leon-xiv-au-stade-de-france_VN-202609200085.html",
    "n_members": 61,
@@ -611,11 +611,11 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.518,
+   "divergence": 0.529,
    "category": "société",
    "terms_left": [
     "catholicisme",
-    "catholiques",
+    "scène",
     "visite"
    ],
    "terms_right": [
@@ -701,7 +701,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.515,
+   "divergence": 0.522,
    "category": "international",
    "terms_left": [
     "assemblée",
@@ -731,7 +731,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.455,
+   "divergence": 0.458,
    "category": "sport",
    "terms_left": [
     "droite",
@@ -742,6 +742,36 @@
     "nike",
     "quitte nike",
     "mbappé quitte"
+   ]
+  },
+  {
+   "title": "L'IA d'OpenAI infiltre un site du gouvernement australien : un incident \"inacceptable\"",
+   "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/l-agence-nationale-pour-la-formation-des-adultes-afpa-cible-d-un-piratage-informatique_8200595.html",
+   "n_members": 64,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 15,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 8,
+    "opinion": 1
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.837,
+   "category": "international",
+   "terms_left": [
+    "tigré",
+    "agent",
+    "guerre"
+   ],
+   "terms_right": [
+    "gouvernement",
+    "site",
+    "infiltré"
    ]
   },
   {
@@ -772,36 +802,6 @@
     "france",
     "carburants",
     "prix"
-   ]
-  },
-  {
-   "title": "L'IA d'OpenAI infiltre un site du gouvernement australien : un incident \"inacceptable\"",
-   "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/l-agence-nationale-pour-la-formation-des-adultes-afpa-cible-d-un-piratage-informatique_8200595.html",
-   "n_members": 62,
-   "n_sources": 25,
-   "counts": {
-    "left": 4,
-    "centre": 15,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 8,
-    "opinion": 1
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.838,
-   "category": "international",
-   "terms_left": [
-    "tigré",
-    "agent",
-    "pays"
-   ],
-   "terms_right": [
-    "gouvernement",
-    "site",
-    "infiltré"
    ]
   },
   {
@@ -851,17 +851,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.9,
+   "divergence": 0.902,
    "category": "économie",
    "terms_left": [
-    "travailler",
+    "gouvernement",
     "hausses",
     "publique"
    ],
    "terms_right": [
     "france",
-    "carburant",
-    "jusqu"
+    "assurances",
+    "carburant"
    ]
   },
   {
@@ -897,7 +897,7 @@
   {
    "title": "Emmanuel Macron «dément» la rumeur d’une alerte de la CIA sur une possible attaque de drone russe en France",
    "url": "https://www.ladepeche.fr/2026/09/22/decryptage-guerre-en-ukraine-cest-une-attaque-militaire-comment-la-tentative-dattentat-mene-par-des-drones-en-allemagne-a-failli-provoquer-une-13561596.php",
-   "n_members": 58,
+   "n_members": 59,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -922,6 +922,66 @@
     "attaque",
     "russie",
     "nike"
+   ]
+  },
+  {
+   "title": "\"Ce qui se passe est assez incroyable\", plus de 260 rassemblements pour le climat sont prévus ce samedi en France",
+   "url": "https://www.liberation.fr/idees-et-debats/tribunes/nous-la-gen-z-revendiquons-le-droit-a-un-avenir-20260919_ABXVGBVBGFEODNQSGGYZOLNQKY/",
+   "n_members": 68,
+   "n_sources": 24,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": -0.167,
+   "blindspot_for": null,
+   "divergence": 0.787,
+   "category": "environnement",
+   "terms_left": [
+    "climat",
+    "marches",
+    "marches climat"
+   ],
+   "terms_right": [
+    "hectares",
+    "feu",
+    "départs"
+   ]
+  },
+  {
+   "title": "Guerre au Moyen-Orient : Donald Trump rejette la proposition iranienne pour une réouverture du détroit d’Ormuz sous sept jours",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-eco-en-vo/l-eco-en-vo-du-samedi-19-septembre-2026-9815514",
+   "n_members": 63,
+   "n_sources": 24,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": -0.091,
+   "blindspot_for": null,
+   "divergence": 0.575,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "conditions",
+    "reconnaît"
+   ],
+   "terms_right": [
+    "détroit",
+    "ormuz",
+    "lincoln"
    ]
   },
   {
@@ -1031,7 +1091,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.764,
+   "divergence": 0.762,
    "category": "politique",
    "terms_left": [
     "rn",
@@ -1061,17 +1121,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.773,
+   "divergence": 0.768,
    "category": "faits-divers",
    "terms_left": [
-    "macron",
-    "enquête",
-    "affaire bétharram"
+    "affaire bétharram",
+    "priol",
+    "macron"
    ],
    "terms_right": [
-    "patrick",
+    "praud",
     "pascal praud",
-    "praud"
+    "pascal"
    ]
   },
   {
@@ -1091,23 +1151,23 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.595,
+   "divergence": 0.584,
    "category": "international",
    "terms_left": [
     "élections législatives",
-    "élections",
+    "taux participation",
     "taux"
    ],
    "terms_right": [
     "ceuta",
-    "pedro",
-    "espagnol"
+    "parti",
+    "pam"
    ]
   },
   {
    "title": "L'équipe de France : Zinédine Zidane débute en Turquie",
    "url": "https://www.leparisien.fr/sports/football/equipe-de-france/equipe-de-france-lepaul-truffert-jacquet-quels-pourraient-etre-les-nouveaux-visages-de-la-premiere-liste-de-zidane-17-09-2026-YEWBEM6EGZDDJB2XXLMNIFAO2M.php",
-   "n_members": 142,
+   "n_members": 145,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1125,73 +1185,13 @@
    "category": "sport",
    "terms_left": [
     "clairefontaine",
-    "tête équipe",
-    "banc"
+    "banc",
+    "tête équipe"
    ],
    "terms_right": [
     "bleus",
     "turquie",
     "mbappé"
-   ]
-  },
-  {
-   "title": "En direct : le président iranien attendu à l'ONU, sur fond de possibles négociations avec Trump",
-   "url": "https://www.lefigaro.fr/conjoncture/petrole-le-baril-de-brent-repasse-sous-les-100-dollars-dans-l-espoir-d-ameliorations-diplomatiques-au-moyen-orient-20260921",
-   "n_members": 64,
-   "n_sources": 23,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.485,
-   "category": "international",
-   "terms_left": [
-    "onu président",
-    "coup",
-    "heure"
-   ],
-   "terms_right": [
-    "iran",
-    "devant",
-    "ukraine"
-   ]
-  },
-  {
-   "title": "Marche nationale pour le climat ce week-end : des centaines de militants attendus à Nice, Cannes, Menton et Valbonne après un été noir d’incendies et de canicules",
-   "url": "https://www.liberation.fr/idees-et-debats/tribunes/nous-la-gen-z-revendiquons-le-droit-a-un-avenir-20260919_ABXVGBVBGFEODNQSGGYZOLNQKY/",
-   "n_members": 64,
-   "n_sources": 23,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": -0.091,
-   "blindspot_for": null,
-   "divergence": 0.832,
-   "category": "environnement",
-   "terms_left": [
-    "justice",
-    "climat",
-    "climatique"
-   ],
-   "terms_right": [
-    "hectares",
-    "feu",
-    "départs"
    ]
   }
  ]
