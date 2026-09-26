@@ -1,13 +1,13 @@
 {
  "week": "2026-W39",
- "generated_at": "2026-09-26T00:16:32+00:00",
+ "generated_at": "2026-09-26T05:14:12+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "L’écrivain Thélyson Orélien accusé d’avoir utilisé l’IA : les vraies questions que pose l’affaire",
    "url": "https://www.nouvelobs.com/bibliobs/20260920.OBS118426/thelyson-orelien-le-phenomene-de-la-rentree-litteraire-je-ne-tiens-pas-mon-crayon-avec-ma-tete-mais-avec-mes-tripes.html",
-   "n_members": 152,
+   "n_members": 156,
    "n_sources": 38,
    "counts": {
     "left": 10,
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.197,
+   "divergence": 0.198,
    "category": "culture",
    "terms_left": [
     "mourir thélyson",
-    "ia",
-    "compte"
+    "compte",
+    "ia"
    ],
    "terms_right": [
     "accusé écrit",
@@ -67,7 +67,7 @@
   {
    "title": "DIRECT. Visite du pape en France: Léon XIV a atterri à l'aéroport d'Orly",
    "url": "https://www.europe1.fr/societe/visite-du-pape-leon-xiv-a-paris-hommage-a-frere-laurent-de-la-resurrection-1087295",
-   "n_members": 202,
+   "n_members": 206,
    "n_sources": 35,
    "counts": {
     "left": 7,
@@ -81,17 +81,17 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.253,
+   "divergence": 0.254,
    "category": "société",
    "terms_left": [
     "france léon",
     "metz",
-    "france paris"
+    "programme"
    ],
    "terms_right": [
     "messe",
-    "pape france",
-    "président"
+    "place",
+    "pape france"
    ]
   },
   {
@@ -141,17 +141,17 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.365,
+   "divergence": 0.368,
    "category": "économie",
    "terms_left": [
-    "prix carburant",
     "fin",
-    "prix"
+    "prix carburant",
+    "mettre"
    ],
    "terms_right": [
     "face",
-    "automobilistes",
-    "carburants"
+    "carburants",
+    "automobilistes"
    ]
   },
   {
@@ -247,7 +247,7 @@
   {
    "title": "Visite de Léon XIV : protéger le pape sans gêner les croyants, le défi sécuritaire des forces de l'ordre françaises",
    "url": "https://www.nicematin.com/societe/religion/5-des-francais-a-la-messe-les-dimanches-chute-vertigineuse-des-mariages-religieux-avant-la-visite-du-pape-une-eglise-affaiblie-malgre-la-hausse-des-baptemes-10727358",
-   "n_members": 110,
+   "n_members": 115,
    "n_sources": 31,
    "counts": {
     "left": 6,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.443,
+   "divergence": 0.442,
    "category": "société",
    "terms_left": [
     "catholique",
@@ -269,9 +269,9 @@
     "hui"
    ],
    "terms_right": [
-    "visite",
-    "stade",
-    "jeunes"
+    "jeunes",
+    "sécurité",
+    "place"
    ]
   },
   {
@@ -291,12 +291,12 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.306,
+   "divergence": 0.292,
    "category": "international",
    "terms_left": [
     "sécurité groenland",
-    "annoncé",
-    "obtenu contrôle"
+    "obtenu contrôle",
+    "obtenu"
    ],
    "terms_right": [
     "états-unis",
@@ -307,7 +307,7 @@
   {
    "title": "Un juge américain ordonne à l'administration Trump de \"rétablir immédiatement\" l'accès à la Maison Blanche à CNN, MS NOW et Politico",
    "url": "https://www.humanite.fr/monde/donald-trump/midterms-comment-les-republicains-tentent-de-confisquer-le-vote-des-americains",
-   "n_members": 136,
+   "n_members": 137,
    "n_sources": 30,
    "counts": {
     "left": 8,
@@ -321,12 +321,12 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.333,
+   "divergence": 0.319,
    "category": "international",
    "terms_left": [
     "presse",
-    "cnn ms",
-    "news"
+    "news",
+    "exclusion"
    ],
    "terms_right": [
     "médias maison",
@@ -433,7 +433,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.668,
+   "divergence": 0.667,
    "category": "politique",
    "terms_left": [
     "campagne",
@@ -475,9 +475,9 @@
    ]
   },
   {
-   "title": "France: au procès Aramburu, 27 ans de prison requis contre Loïk Le Priol, 20 ans contre Romain Bouvier",
+   "title": "Affaire Federico Martin Aramburu: Loïk Le Priol et Romain Bouvier condamnés à 26 et 19 ans de réclusion criminelle",
    "url": "https://www.ouest-france.fr/societe/faits-divers/des-coups-de-feu-tires-pendant-a-proximite-dune-ecole-dans-loise-deux-personnes-blessees-des-eleves-confines-4a9c1022-b2cd-11f1-bc32-13ddcee9efa7",
-   "n_members": 116,
+   "n_members": 117,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -491,7 +491,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.373,
+   "divergence": 0.363,
    "category": "société",
    "terms_left": [
     "ans prison",
@@ -551,17 +551,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.383,
+   "divergence": 0.371,
    "category": "international",
    "terms_left": [
-    "zelensky",
     "guerre",
+    "zelensky",
     "guerre ukraine"
    ],
    "terms_right": [
     "emmanuel",
-    "emmanuel macron",
-    "macron"
+    "rencontre",
+    "france"
    ]
   },
   {
@@ -611,17 +611,47 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.722,
+   "divergence": 0.724,
    "category": "sciences-tech",
    "terms_left": [
     "face",
-    "risques",
-    "ralentir"
+    "intelligence",
+    "artificielle"
    ],
    "terms_right": [
     "openai",
     "ia",
-    "sam altman"
+    "tech"
+   ]
+  },
+  {
+   "title": "Intelligence artificielle : le pape met en garde contre l'avènement d'un «paradis de machines»",
+   "url": "https://www.bfmtv.com/culture/video-monroe-candidate-francaise-a-l-eurovision-chantera-devant-le-pape-leon-xiv-au-stade-de-france_VN-202609200085.html",
+   "n_members": 60,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.513,
+   "category": "société",
+   "terms_left": [
+    "visite",
+    "catholicisme",
+    "catholiques"
+   ],
+   "terms_right": [
+    "lourdes",
+    "devant",
+    "intelligence"
    ]
   },
   {
@@ -671,7 +701,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.529,
+   "divergence": 0.528,
    "category": "international",
    "terms_left": [
     "assemblée",
@@ -701,7 +731,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.451,
+   "divergence": 0.452,
    "category": "sport",
    "terms_left": [
     "droite",
@@ -771,7 +801,7 @@
    "terms_right": [
     "site",
     "gouvernement",
-    "ia openai"
+    "infiltré"
    ]
   },
   {
@@ -851,17 +881,47 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.182,
+   "divergence": 0.183,
    "category": "société",
    "terms_left": [
     "annonce",
     "grève",
-    "propositions"
+    "grève maintenue"
    ],
    "terms_right": [
     "édito",
     "syndicats",
     "affaire"
+   ]
+  },
+  {
+   "title": "Emmanuel Macron «dément» la rumeur d’une alerte de la CIA sur une possible attaque de drone russe en France",
+   "url": "https://www.ladepeche.fr/2026/09/22/decryptage-guerre-en-ukraine-cest-une-attaque-militaire-comment-la-tentative-dattentat-mene-par-des-drones-en-allemagne-a-failli-provoquer-une-13561596.php",
+   "n_members": 56,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.797,
+   "category": "international",
+   "terms_left": [
+    "mbappé",
+    "football",
+    "sud"
+   ],
+   "terms_right": [
+    "attaque",
+    "russie",
+    "nike"
    ]
   },
   {
@@ -1001,7 +1061,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.601,
+   "divergence": 0.599,
    "category": "international",
    "terms_left": [
     "élections législatives",
@@ -1017,7 +1077,7 @@
   {
    "title": "L'équipe de France : Zinédine Zidane débute en Turquie",
    "url": "https://www.leparisien.fr/sports/football/equipe-de-france/equipe-de-france-lepaul-truffert-jacquet-quels-pourraient-etre-les-nouveaux-visages-de-la-premiere-liste-de-zidane-17-09-2026-YEWBEM6EGZDDJB2XXLMNIFAO2M.php",
-   "n_members": 139,
+   "n_members": 140,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1031,12 +1091,12 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.344,
+   "divergence": 0.345,
    "category": "sport",
    "terms_left": [
     "clairefontaine",
-    "banc",
-    "tête équipe"
+    "tête équipe",
+    "banc"
    ],
    "terms_right": [
     "bleus",
@@ -1045,9 +1105,9 @@
    ]
   },
   {
-   "title": "EN DIRECT - Assemblée générale de l’ONU : enlisé dans sa guerre en Iran, Donald Trump attendu à la tribune des Nations unies",
+   "title": "En direct : le président iranien attendu à l'ONU, sur fond de possibles négociations avec Trump",
    "url": "https://www.lefigaro.fr/conjoncture/petrole-le-baril-de-brent-repasse-sous-les-100-dollars-dans-l-espoir-d-ameliorations-diplomatiques-au-moyen-orient-20260921",
-   "n_members": 63,
+   "n_members": 64,
    "n_sources": 23,
    "counts": {
     "left": 3,
@@ -1061,17 +1121,17 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.494,
+   "divergence": 0.482,
    "category": "international",
    "terms_left": [
-    "président américain",
     "onu président",
-    "discours donald"
+    "discours donald",
+    "coup"
    ],
    "terms_right": [
+    "iran",
     "devant",
-    "ukraine",
-    "guerre"
+    "ukraine"
    ]
   },
   {
@@ -1105,39 +1165,9 @@
    ]
   },
   {
-   "title": "Crise du carburant : blocage en cours au port de Cannes, la ministre de la Pêche attendue à Sète",
-   "url": "https://lcp.fr/actualites/un-homme-jete-a-terre-a-carcassonne-par-la-police-la-gauche-denonce-des-images",
-   "n_members": 60,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 4
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.618,
-   "category": "société",
-   "terms_left": [
-    "gilets jaunes",
-    "jaunes",
-    "gilets"
-   ],
-   "terms_right": [
-    "pêcheurs",
-    "militaire",
-    "aumônier militaire"
-   ]
-  },
-  {
    "title": "☕️ Les utilisateurs de lunettes Meta pourront refuser que leurs vidéos entraînent l’IA",
    "url": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/la-science-cqfd-emission-du-jeudi-17-septembre-2026-7485938",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -1151,7 +1181,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.572,
+   "divergence": 0.573,
    "category": "environnement",
    "terms_left": [
     "meta",
@@ -1162,36 +1192,6 @@
     "france",
     "phénomène",
     "qu"
-   ]
-  },
-  {
-   "title": "« L’Église de France intéresse Rome car il s’y passe quelque chose » : derrière la visite du pape Léon XIV, les signes d’un réveil du catholicisme français ?",
-   "url": "https://www.bfmtv.com/culture/video-monroe-candidate-francaise-a-l-eurovision-chantera-devant-le-pape-leon-xiv-au-stade-de-france_VN-202609200085.html",
-   "n_members": 55,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 9,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 8,
-    "opinion": 4
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.528,
-   "category": "société",
-   "terms_left": [
-    "catholicisme",
-    "catholiques",
-    "scène"
-   ],
-   "terms_right": [
-    "devant",
-    "ans",
-    "paris"
    ]
   }
  ]
