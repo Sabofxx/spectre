@@ -1,6 +1,6 @@
 {
  "week": "2026-W39",
- "generated_at": "2026-09-26T14:13:04+00:00",
+ "generated_at": "2026-09-26T17:52:00+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -25,13 +25,13 @@
    "category": "culture",
    "terms_left": [
     "compte",
-    "affaire",
-    "création"
+    "rentrée littéraire",
+    "phénomène rentrée"
    ],
    "terms_right": [
-    "prix",
     "académie",
-    "écrit"
+    "écrit",
+    "écrivain canado-haïtien"
    ]
   },
   {
@@ -51,23 +51,23 @@
    },
    "blindspot_score": 0.238,
    "blindspot_for": null,
-   "divergence": 0.29,
+   "divergence": 0.288,
    "category": "politique",
    "terms_left": [
     "présidentielle",
     "qu",
-    "direct présidentielle"
+    "budget"
    ],
    "terms_right": [
     "effort",
-    "ps",
-    "déficit"
+    "déficit",
+    "ps"
    ]
   },
   {
    "title": "DIRECT. Visite du pape en France: Léon XIV a atterri à l'aéroport d'Orly",
    "url": "https://www.europe1.fr/societe/visite-du-pape-leon-xiv-a-paris-hommage-a-frere-laurent-de-la-resurrection-1087295",
-   "n_members": 228,
+   "n_members": 234,
    "n_sources": 35,
    "counts": {
     "left": 7,
@@ -81,17 +81,17 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.251,
+   "divergence": 0.252,
    "category": "société",
    "terms_left": [
     "france léon",
-    "direct visite",
-    "programme"
+    "violences",
+    "direct visite"
    ],
    "terms_right": [
     "messe",
     "journée",
-    "pape france"
+    "président"
    ]
   },
   {
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.369,
+   "divergence": 0.368,
    "category": "politique",
    "terms_left": [
     "internationales",
@@ -122,6 +122,36 @@
     "état",
     "flambée prix",
     "prix carburants"
+   ]
+  },
+  {
+   "title": "Paris se prépare à la visite du pape Léon XIV",
+   "url": "https://www.nicematin.com/societe/religion/5-des-francais-a-la-messe-les-dimanches-chute-vertigineuse-des-mariages-religieux-avant-la-visite-du-pape-une-eglise-affaiblie-malgre-la-hausse-des-baptemes-10727358",
+   "n_members": 181,
+   "n_sources": 33,
+   "counts": {
+    "left": 6,
+    "centre": 17,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 19,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.331,
+   "category": "société",
+   "terms_left": [
+    "catholique",
+    "hui",
+    "aujourd"
+   ],
+   "terms_right": [
+    "fidèles",
+    "jeunes",
+    "lourdes"
    ]
   },
   {
@@ -141,17 +171,17 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.383,
+   "divergence": 0.392,
    "category": "économie",
    "terms_left": [
     "carburants gouvernement",
-    "français",
-    "prix carburant"
+    "prix carburant",
+    "essence"
    ],
    "terms_right": [
+    "aides",
     "face",
-    "pêcheurs",
-    "aides"
+    "pêcheurs"
    ]
   },
   {
@@ -171,7 +201,7 @@
    },
    "blindspot_score": 0.412,
    "blindspot_for": null,
-   "divergence": 0.55,
+   "divergence": 0.549,
    "category": "économie",
    "terms_left": [
     "essence",
@@ -231,47 +261,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.352,
+   "divergence": 0.349,
    "category": "politique",
    "terms_left": [
+    "primaire gauche",
     "accusations",
-    "présidentielle",
-    "primaire gauche"
+    "présidentielle"
    ],
    "terms_right": [
-    "cour",
     "socialiste",
+    "cour",
     "réintégration"
-   ]
-  },
-  {
-   "title": "EN DIRECT - Visite de Léon XIV en France : le pape «émerveillé» par le nombre de nouveaux baptêmes dans l’Hexagone",
-   "url": "https://www.nicematin.com/societe/religion/5-des-francais-a-la-messe-les-dimanches-chute-vertigineuse-des-mariages-religieux-avant-la-visite-du-pape-une-eglise-affaiblie-malgre-la-hausse-des-baptemes-10727358",
-   "n_members": 155,
-   "n_sources": 31,
-   "counts": {
-    "left": 6,
-    "centre": 15,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 9,
-    "opinion": 5
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.377,
-   "category": "société",
-   "terms_left": [
-    "catholique",
-    "star",
-    "hui"
-   ],
-   "terms_right": [
-    "messe",
-    "jeunes",
-    "place"
    ]
   },
   {
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.285,
+   "divergence": 0.284,
    "category": "international",
    "terms_left": [
     "sécurité groenland",
@@ -301,7 +301,7 @@
    "terms_right": [
     "états-unis",
     "ia",
-    "new"
+    "vie"
    ]
   },
   {
@@ -321,7 +321,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.313,
+   "divergence": 0.312,
    "category": "international",
    "terms_left": [
     "presse",
@@ -351,11 +351,11 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.327,
+   "divergence": 0.338,
    "category": "société",
    "terms_left": [
-    "requis",
     "procès",
+    "procès assassinat",
     "prison"
    ],
    "terms_right": [
@@ -521,7 +521,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.627,
+   "divergence": 0.626,
    "category": "économie",
    "terms_left": [
     "ministre",
@@ -535,9 +535,39 @@
    ]
   },
   {
+   "title": "« On réclame un plan d’adaptation d’urgence » : des marches pour le climat dans toute la France",
+   "url": "https://www.liberation.fr/idees-et-debats/tribunes/nous-la-gen-z-revendiquons-le-droit-a-un-avenir-20260919_ABXVGBVBGFEODNQSGGYZOLNQKY/",
+   "n_members": 78,
+   "n_sources": 27,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": -0.077,
+   "blindspot_for": null,
+   "divergence": 0.751,
+   "category": "environnement",
+   "terms_left": [
+    "climat",
+    "marches",
+    "marches climat"
+   ],
+   "terms_right": [
+    "record",
+    "hectares",
+    "feu"
+   ]
+  },
+  {
    "title": "Guerre commerciale, Moyen-Orient… Donald Trump reçoit Xi Jinping pour évoquer des dossiers brûlants",
    "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/09/21/le-president-xi-jinping-en-visite-d-etat-aux-etats-unis-cette-semaine",
-   "n_members": 75,
+   "n_members": 76,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -551,12 +581,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.44,
+   "divergence": 0.438,
    "category": "international",
    "terms_left": [
+    "etats-unis",
     "trump xi",
-    "ia",
-    "intelligence"
+    "ia"
    ],
    "terms_right": [
     "président",
@@ -581,7 +611,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.38,
+   "divergence": 0.379,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -597,7 +627,7 @@
   {
    "title": "Intelligence artificielle : le pape met en garde contre l'avènement d'un «paradis de machines»",
    "url": "https://www.bfmtv.com/culture/video-monroe-candidate-francaise-a-l-eurovision-chantera-devant-le-pape-leon-xiv-au-stade-de-france_VN-202609200085.html",
-   "n_members": 61,
+   "n_members": 62,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -611,7 +641,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.529,
+   "divergence": 0.532,
    "category": "société",
    "terms_left": [
     "catholicisme",
@@ -641,17 +671,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.727,
+   "divergence": 0.732,
    "category": "sciences-tech",
    "terms_left": [
     "risques",
     "ralentir",
-    "intelligence"
+    "openai anthropic"
    ],
    "terms_right": [
     "openai",
-    "ia",
-    "tech"
+    "tech",
+    "état"
    ]
   },
   {
@@ -701,7 +731,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.522,
+   "divergence": 0.513,
    "category": "international",
    "terms_left": [
     "assemblée",
@@ -709,9 +739,69 @@
     "assemblée générale"
    ],
    "terms_right": [
-    "emmanuel macron",
-    "emmanuel",
-    "cisjordanie"
+    "absurdité grotesque",
+    "absurdité",
+    "grotesque"
+   ]
+  },
+  {
+   "title": "Moyen-Orient : Donald Trump annonce rejeter le plan iranien pour rouvrir le détroit d'Ormuz",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-eco-en-vo/l-eco-en-vo-du-samedi-19-septembre-2026-9815514",
+   "n_members": 66,
+   "n_sources": 25,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.539,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "conditions",
+    "reconnaît"
+   ],
+   "terms_right": [
+    "détroit",
+    "rouvrir",
+    "ormuz"
+   ]
+  },
+  {
+   "title": "L'IA d'OpenAI infiltre un site du gouvernement australien : un incident \"inacceptable\"",
+   "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/l-agence-nationale-pour-la-formation-des-adultes-afpa-cible-d-un-piratage-informatique_8200595.html",
+   "n_members": 65,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 15,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 8,
+    "opinion": 1
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.835,
+   "category": "international",
+   "terms_left": [
+    "tigré",
+    "agent",
+    "guerre"
+   ],
+   "terms_right": [
+    "gouvernement",
+    "site",
+    "infiltré"
    ]
   },
   {
@@ -731,7 +821,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.458,
+   "divergence": 0.452,
    "category": "sport",
    "terms_left": [
     "droite",
@@ -742,36 +832,6 @@
     "nike",
     "quitte nike",
     "mbappé quitte"
-   ]
-  },
-  {
-   "title": "L'IA d'OpenAI infiltre un site du gouvernement australien : un incident \"inacceptable\"",
-   "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/l-agence-nationale-pour-la-formation-des-adultes-afpa-cible-d-un-piratage-informatique_8200595.html",
-   "n_members": 64,
-   "n_sources": 25,
-   "counts": {
-    "left": 4,
-    "centre": 15,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 8,
-    "opinion": 1
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.837,
-   "category": "international",
-   "terms_left": [
-    "tigré",
-    "agent",
-    "guerre"
-   ],
-   "terms_right": [
-    "gouvernement",
-    "site",
-    "infiltré"
    ]
   },
   {
@@ -851,17 +911,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.902,
+   "divergence": 0.901,
    "category": "économie",
    "terms_left": [
-    "gouvernement",
-    "hausses",
-    "publique"
+    "santé",
+    "faut-il",
+    "taux"
    ],
    "terms_right": [
+    "carburant",
     "france",
-    "assurances",
-    "carburant"
+    "faut"
    ]
   },
   {
@@ -881,7 +941,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.178,
+   "divergence": 0.18,
    "category": "société",
    "terms_left": [
     "grève",
@@ -890,8 +950,8 @@
    ],
    "terms_right": [
     "édito",
-    "syndicats",
-    "affaire"
+    "affaire",
+    "inter direction"
    ]
   },
   {
@@ -922,66 +982,6 @@
     "attaque",
     "russie",
     "nike"
-   ]
-  },
-  {
-   "title": "\"Ce qui se passe est assez incroyable\", plus de 260 rassemblements pour le climat sont prévus ce samedi en France",
-   "url": "https://www.liberation.fr/idees-et-debats/tribunes/nous-la-gen-z-revendiquons-le-droit-a-un-avenir-20260919_ABXVGBVBGFEODNQSGGYZOLNQKY/",
-   "n_members": 68,
-   "n_sources": 24,
-   "counts": {
-    "left": 7,
-    "centre": 12,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": -0.167,
-   "blindspot_for": null,
-   "divergence": 0.787,
-   "category": "environnement",
-   "terms_left": [
-    "climat",
-    "marches",
-    "marches climat"
-   ],
-   "terms_right": [
-    "hectares",
-    "feu",
-    "départs"
-   ]
-  },
-  {
-   "title": "Guerre au Moyen-Orient : Donald Trump rejette la proposition iranienne pour une réouverture du détroit d’Ormuz sous sept jours",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-eco-en-vo/l-eco-en-vo-du-samedi-19-septembre-2026-9815514",
-   "n_members": 63,
-   "n_sources": 24,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": -0.091,
-   "blindspot_for": null,
-   "divergence": 0.575,
-   "category": "international",
-   "terms_left": [
-    "etats-unis",
-    "conditions",
-    "reconnaît"
-   ],
-   "terms_right": [
-    "détroit",
-    "ormuz",
-    "lincoln"
    ]
   },
   {
@@ -1091,12 +1091,12 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.762,
+   "divergence": 0.766,
    "category": "politique",
    "terms_left": [
     "rn",
-    "marseille",
-    "sein"
+    "fin",
+    "année"
    ],
    "terms_right": [
     "ville",
@@ -1121,17 +1121,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.768,
+   "divergence": 0.784,
    "category": "faits-divers",
    "terms_left": [
-    "affaire bétharram",
     "priol",
-    "macron"
+    "loïk",
+    "loïk priol"
    ],
    "terms_right": [
-    "praud",
-    "pascal praud",
-    "pascal"
+    "france",
+    "patrick",
+    "appel"
    ]
   },
   {
@@ -1151,12 +1151,12 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.584,
+   "divergence": 0.585,
    "category": "international",
    "terms_left": [
     "élections législatives",
-    "taux participation",
-    "taux"
+    "élections",
+    "taux participation"
    ],
    "terms_right": [
     "ceuta",
