@@ -1,13 +1,13 @@
 {
  "week": "2026-W39",
- "generated_at": "2026-09-27T07:20:40+00:00",
+ "generated_at": "2026-09-27T13:12:02+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Thélyson Orélien soupçonné de plagiat et de recours à l’IA : l’Académie Goncourt retire son roman de sa sélection",
    "url": "https://www.nouvelobs.com/bibliobs/20260920.OBS118426/thelyson-orelien-le-phenomene-de-la-rentree-litteraire-je-ne-tiens-pas-mon-crayon-avec-ma-tete-mais-avec-mes-tripes.html",
-   "n_members": 163,
+   "n_members": 166,
    "n_sources": 38,
    "counts": {
     "left": 10,
@@ -24,9 +24,9 @@
    "divergence": 0.203,
    "category": "culture",
    "terms_left": [
-    "mourir",
     "compte",
-    "monde"
+    "mourir",
+    "affaire"
    ],
    "terms_right": [
     "écrit",
@@ -35,9 +35,9 @@
    ]
   },
   {
-   "title": "«Si rien ne change, nous censurerons»: Olivier Faure balaie un possible compromis sur le budget",
+   "title": "Budget 2027 : \"Si rien ne change, nous censurerons\", promet Olivier Faure",
    "url": "https://www.publicsenat.fr/actualites/politique/budget-bruno-retailleau-demande-au-gouvernement-le-retour-de-la-reforme-des-retraites",
-   "n_members": 174,
+   "n_members": 176,
    "n_sources": 36,
    "counts": {
     "left": 8,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.238,
    "blindspot_for": null,
-   "divergence": 0.29,
+   "divergence": 0.293,
    "category": "politique",
    "terms_left": [
     "présidentielle",
@@ -67,7 +67,7 @@
   {
    "title": "DIRECT. Visite du pape en France: Léon XIV a atterri à l'aéroport d'Orly",
    "url": "https://www.europe1.fr/societe/visite-du-pape-leon-xiv-a-paris-hommage-a-frere-laurent-de-la-resurrection-1087295",
-   "n_members": 255,
+   "n_members": 256,
    "n_sources": 35,
    "counts": {
     "left": 7,
@@ -81,12 +81,12 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.251,
+   "divergence": 0.249,
    "category": "société",
    "terms_left": [
     "eglise",
     "direct visite",
-    "jours"
+    "elysée"
    ],
    "terms_right": [
     "souverain",
@@ -111,23 +111,23 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.363,
+   "divergence": 0.36,
    "category": "politique",
    "terms_left": [
     "internationales",
-    "prix carburant",
-    "jt"
+    "jt",
+    "militaires"
    ],
    "terms_right": [
     "prix carburants",
-    "carburants",
-    "menace russe"
+    "état",
+    "carburants"
    ]
   },
   {
-   "title": "Paris se prépare à la visite du pape Léon XIV",
+   "title": "Messe géante du pape à Paris : le Vatican actualise l'affluence à environ 800.000 personnes",
    "url": "https://www.nicematin.com/societe/religion/5-des-francais-a-la-messe-les-dimanches-chute-vertigineuse-des-mariages-religieux-avant-la-visite-du-pape-une-eglise-affaiblie-malgre-la-hausse-des-baptemes-10727358",
-   "n_members": 203,
+   "n_members": 208,
    "n_sources": 33,
    "counts": {
     "left": 6,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.315,
+   "divergence": 0.319,
    "category": "société",
    "terms_left": [
     "star",
@@ -150,8 +150,8 @@
    ],
    "terms_right": [
     "fidèles",
-    "jeunes",
-    "lourdes"
+    "lourdes",
+    "jeunes"
    ]
   },
   {
@@ -305,6 +305,36 @@
    ]
   },
   {
+   "title": "Intelligence artificielle : le pape met en garde contre l'avènement d'un «paradis de machines»",
+   "url": "https://www.bfmtv.com/culture/video-monroe-candidate-francaise-a-l-eurovision-chantera-devant-le-pape-leon-xiv-au-stade-de-france_VN-202609200085.html",
+   "n_members": 76,
+   "n_sources": 31,
+   "counts": {
+    "left": 7,
+    "centre": 15,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": 0.125,
+   "blindspot_for": null,
+   "divergence": 0.514,
+   "category": "société",
+   "terms_left": [
+    "visite",
+    "scène",
+    "france"
+   ],
+   "terms_right": [
+    "devant",
+    "face",
+    "intelligence"
+   ]
+  },
+  {
    "title": "Un juge américain ordonne à l'administration Trump de \"rétablir immédiatement\" l'accès à la Maison Blanche à CNN, MS NOW et Politico",
    "url": "https://www.humanite.fr/monde/donald-trump/midterms-comment-les-republicains-tentent-de-confisquer-le-vote-des-americains",
    "n_members": 140,
@@ -321,17 +351,17 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.306,
+   "divergence": 0.316,
    "category": "international",
    "terms_left": [
     "chaînes",
-    "fox",
-    "exclusion"
+    "cnn ms",
+    "fox"
    ],
    "terms_right": [
     "médias maison",
-    "états-unis",
-    "face"
+    "face",
+    "décision"
    ]
   },
   {
@@ -351,12 +381,12 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.348,
+   "divergence": 0.354,
    "category": "société",
    "terms_left": [
     "procès",
     "procès assassinat",
-    "crime"
+    "prison"
    ],
    "terms_right": [
     "réclusion",
@@ -449,7 +479,7 @@
   {
    "title": "Marche pour le climat : des milliers de personnes mobilisées partout en France",
    "url": "https://www.liberation.fr/idees-et-debats/tribunes/nous-la-gen-z-revendiquons-le-droit-a-un-avenir-20260919_ABXVGBVBGFEODNQSGGYZOLNQKY/",
-   "n_members": 85,
+   "n_members": 86,
    "n_sources": 28,
    "counts": {
     "left": 8,
@@ -463,7 +493,7 @@
    },
    "blindspot_score": -0.143,
    "blindspot_for": null,
-   "divergence": 0.715,
+   "divergence": 0.714,
    "category": "environnement",
    "terms_left": [
     "climat",
@@ -504,36 +534,6 @@
     "nicolas dupont-aignan",
     "dupont-aignan",
     "nicolas"
-   ]
-  },
-  {
-   "title": "Intelligence artificielle : le pape met en garde contre l'avènement d'un «paradis de machines»",
-   "url": "https://www.bfmtv.com/culture/video-monroe-candidate-francaise-a-l-eurovision-chantera-devant-le-pape-leon-xiv-au-stade-de-france_VN-202609200085.html",
-   "n_members": 70,
-   "n_sources": 28,
-   "counts": {
-    "left": 7,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 10,
-    "opinion": 4
-   },
-   "blindspot_score": 0.125,
-   "blindspot_for": null,
-   "divergence": 0.52,
-   "category": "société",
-   "terms_left": [
-    "catholiques",
-    "visite",
-    "scène"
-   ],
-   "terms_right": [
-    "devant",
-    "intelligence",
-    "artificielle"
    ]
   },
   {
@@ -595,6 +595,36 @@
    ]
   },
   {
+   "title": "Moyen-Orient : Donald Trump annonce rejeter le plan iranien pour rouvrir le détroit d'Ormuz",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-eco-en-vo/l-eco-en-vo-du-samedi-19-septembre-2026-9815514",
+   "n_members": 79,
+   "n_sources": 27,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.448,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "cisjordanie",
+    "reconnaît"
+   ],
+   "terms_right": [
+    "états-unis",
+    "détroit",
+    "ormuz"
+   ]
+  },
+  {
    "title": "Guerre commerciale, Moyen-Orient… Donald Trump reçoit Xi Jinping pour évoquer des dossiers brûlants",
    "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/09/21/le-president-xi-jinping-en-visite-d-etat-aux-etats-unis-cette-semaine",
    "n_members": 76,
@@ -611,12 +641,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.398,
+   "divergence": 0.404,
    "category": "international",
    "terms_left": [
     "trump xi",
     "etats-unis",
-    "visite xi"
+    "washington"
    ],
    "terms_right": [
     "président",
@@ -671,7 +701,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.774,
+   "divergence": 0.773,
    "category": "sciences-tech",
    "terms_left": [
     "ralentir",
@@ -715,36 +745,6 @@
    ]
   },
   {
-   "title": "Moyen-Orient : Donald Trump annonce rejeter le plan iranien pour rouvrir le détroit d'Ormuz",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-eco-en-vo/l-eco-en-vo-du-samedi-19-septembre-2026-9815514",
-   "n_members": 74,
-   "n_sources": 25,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.562,
-   "category": "international",
-   "terms_left": [
-    "etats-unis",
-    "reconnaît",
-    "cisjordanie"
-   ],
-   "terms_right": [
-    "rouvrir",
-    "rouvrir détroit",
-    "détroit"
-   ]
-  },
-  {
    "title": "Israël dénonce \"l'absurdité grotesque\" des propos d'Emmanuel Macron qui a dénoncé à l'ONU \"un spectacle qui nous fait honte à tous\" à Gaza et en Cisjordanie",
    "url": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-menace-russe-l-arme-de-dissuasion-nucleaire-ne-doit-pas-etre-partagee-estime-nicolas-dupont-aignan-candidat-debout-le-france-a-l-election-presidentielle_VN-202609210779.html",
    "n_members": 70,
@@ -761,7 +761,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.516,
+   "divergence": 0.521,
    "category": "international",
    "terms_left": [
     "assemblée",
@@ -770,8 +770,8 @@
    ],
    "terms_right": [
     "cisjordanie",
-    "israël",
-    "absurdité grotesque"
+    "absurdité grotesque",
+    "grotesque"
    ]
   },
   {
@@ -791,7 +791,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.826,
+   "divergence": 0.831,
    "category": "international",
    "terms_left": [
     "tigré",
@@ -911,16 +911,16 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.887,
+   "divergence": 0.88,
    "category": "économie",
    "terms_left": [
     "santé",
     "faut-il",
-    "taux"
+    "hausse"
    ],
    "terms_right": [
-    "carburant",
     "faut",
+    "carburant",
     "sécurité"
    ]
   },
@@ -941,7 +941,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.18,
+   "divergence": 0.183,
    "category": "société",
    "terms_left": [
     "grève",
@@ -971,17 +971,47 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.797,
+   "divergence": 0.816,
    "category": "international",
    "terms_left": [
-    "mbappé",
-    "football",
-    "sud"
+    "sud",
+    "mer",
+    "grand"
    ],
    "terms_right": [
     "attaque",
     "russie",
-    "nike"
+    "qu"
+   ]
+  },
+  {
+   "title": "Hégémonie des Républicains, création d'un groupe RN... Quels sont les enjeux des élections sénatoriales 2026 ?",
+   "url": "https://www.publicsenat.fr/actualites/institutions/elections-senatoriales-qui-sont-les-grands-electeurs",
+   "n_members": 70,
+   "n_sources": 24,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.526,
+   "category": "politique",
+   "terms_left": [
+    "groupe",
+    "élection",
+    "sénatoriales"
+   ],
+   "terms_right": [
+    "élections sénatoriales",
+    "élections",
+    "grands électeurs"
    ]
   },
   {
@@ -1091,16 +1121,16 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.779,
+   "divergence": 0.785,
    "category": "politique",
    "terms_left": [
     "rn",
-    "mois",
-    "fin"
+    "sein",
+    "menaces"
    ],
    "terms_right": [
-    "villeneuve-saint-georges",
     "commune",
+    "maire",
     "maire lr"
    ]
   },
@@ -1121,17 +1151,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.786,
+   "divergence": 0.787,
    "category": "faits-divers",
    "terms_left": [
-    "priol",
-    "loïk",
-    "loïk priol"
+    "affaire bétharram",
+    "bouvier",
+    "loïk"
    ],
    "terms_right": [
     "france",
     "patrick",
-    "patrick cohen"
+    "aramburu"
    ]
   },
   {
@@ -1155,43 +1185,13 @@
    "category": "international",
    "terms_left": [
     "élections",
-    "taux participation",
-    "coalition"
+    "retour",
+    "législatives"
    ],
    "terms_right": [
     "ceuta",
     "contrôle frontières",
     "échoué"
-   ]
-  },
-  {
-   "title": "L'équipe de France : Zinédine Zidane débute en Turquie",
-   "url": "https://www.leparisien.fr/sports/football/equipe-de-france/equipe-de-france-lepaul-truffert-jacquet-quels-pourraient-etre-les-nouveaux-visages-de-la-premiere-liste-de-zidane-17-09-2026-YEWBEM6EGZDDJB2XXLMNIFAO2M.php",
-   "n_members": 146,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.337,
-   "category": "sport",
-   "terms_left": [
-    "banc",
-    "tête équipe",
-    "liste"
-   ],
-   "terms_right": [
-    "turquie",
-    "bleus",
-    "mbappé"
    ]
   }
  ]
