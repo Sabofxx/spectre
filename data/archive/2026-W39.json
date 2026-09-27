@@ -1,6 +1,6 @@
 {
  "week": "2026-W39",
- "generated_at": "2026-09-27T17:53:24+00:00",
+ "generated_at": "2026-09-27T20:36:27+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.196,
+   "divergence": 0.193,
    "category": "culture",
    "terms_left": [
     "rentrée littéraire",
@@ -67,7 +67,7 @@
   {
    "title": "DIRECT. Visite du pape en France: Léon XIV a atterri à l'aéroport d'Orly",
    "url": "https://www.europe1.fr/societe/visite-du-pape-leon-xiv-a-paris-hommage-a-frere-laurent-de-la-resurrection-1087295",
-   "n_members": 257,
+   "n_members": 258,
    "n_sources": 35,
    "counts": {
     "left": 7,
@@ -81,12 +81,12 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.253,
+   "divergence": 0.25,
    "category": "société",
    "terms_left": [
-    "direct visite",
-    "metz",
-    "elysée"
+    "eglise",
+    "elysée",
+    "paris lourdes"
    ],
    "terms_right": [
     "souverain",
@@ -111,17 +111,17 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.357,
+   "divergence": 0.338,
    "category": "politique",
    "terms_left": [
-    "internationales",
-    "jt",
-    "militaires"
+    "crises",
+    "prix carburant",
+    "jt"
    ],
    "terms_right": [
+    "carburants",
     "menace russe",
-    "prix carburants",
-    "état"
+    "tf"
    ]
   },
   {
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.412,
    "blindspot_for": null,
-   "divergence": 0.553,
+   "divergence": 0.552,
    "category": "économie",
    "terms_left": [
     "essence",
@@ -307,7 +307,7 @@
   {
    "title": "Visite du pape à Lourdes : Léon XIV réaffirme son opposition à l’aide à mourir et dénonce le « fléau » des violences sexuelles au sein de l’Eglise",
    "url": "https://www.bfmtv.com/culture/video-monroe-candidate-francaise-a-l-eurovision-chantera-devant-le-pape-leon-xiv-au-stade-de-france_VN-202609200085.html",
-   "n_members": 82,
+   "n_members": 89,
    "n_sources": 31,
    "counts": {
     "left": 7,
@@ -321,16 +321,16 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.488,
+   "divergence": 0.452,
    "category": "société",
    "terms_left": [
     "visite",
-    "eglise",
-    "visite pape"
+    "visite pape",
+    "eglise"
    ],
    "terms_right": [
-    "face",
     "devant",
+    "face",
     "intelligence"
    ]
   },
@@ -493,7 +493,7 @@
    },
    "blindspot_score": -0.143,
    "blindspot_for": null,
-   "divergence": 0.721,
+   "divergence": 0.707,
    "category": "environnement",
    "terms_left": [
     "marches",
@@ -597,7 +597,7 @@
   {
    "title": "Moyen-Orient : Donald Trump annonce rejeter le plan iranien pour rouvrir le détroit d'Ormuz",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-eco-en-vo/l-eco-en-vo-du-samedi-19-septembre-2026-9815514",
-   "n_members": 80,
+   "n_members": 81,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -611,7 +611,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.46,
+   "divergence": 0.459,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -619,9 +619,9 @@
     "reconnaît"
    ],
    "terms_right": [
-    "ormuz",
-    "détroit",
-    "états-unis"
+    "téhéran",
+    "états-unis",
+    "ormuz"
    ]
   },
   {
@@ -685,6 +685,36 @@
    ]
   },
   {
+   "title": "Hégémonie des Républicains, création d'un groupe RN... Quels sont les enjeux des élections sénatoriales 2026 ?",
+   "url": "https://www.publicsenat.fr/actualites/institutions/elections-senatoriales-qui-sont-les-grands-electeurs",
+   "n_members": 87,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.46,
+   "category": "politique",
+   "terms_left": [
+    "groupe",
+    "droite",
+    "direct"
+   ],
+   "terms_right": [
+    "élections sénatoriales",
+    "élections",
+    "grands électeurs"
+   ]
+  },
+  {
    "title": "EN DIRECT, ONU : les patrons d’OpenAI et d’Anthropic exposent les « risques » que pose l’IA et promettent de ralentir « autant que nécessaire »",
    "url": "https://www.la-croix.com/societe/openai-anthropic-et-google-travaillent-a-la-creation-d-un-organe-de-supervision-des-risques-ia-20260915",
    "n_members": 60,
@@ -745,36 +775,6 @@
    ]
   },
   {
-   "title": "Hégémonie des Républicains, création d'un groupe RN... Quels sont les enjeux des élections sénatoriales 2026 ?",
-   "url": "https://www.publicsenat.fr/actualites/institutions/elections-senatoriales-qui-sont-les-grands-electeurs",
-   "n_members": 77,
-   "n_sources": 25,
-   "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.486,
-   "category": "politique",
-   "terms_left": [
-    "groupe",
-    "direct",
-    "jeu"
-   ],
-   "terms_right": [
-    "élections sénatoriales",
-    "élections",
-    "grands électeurs"
-   ]
-  },
-  {
    "title": "Israël dénonce \"l'absurdité grotesque\" des propos d'Emmanuel Macron qui a dénoncé à l'ONU \"un spectacle qui nous fait honte à tous\" à Gaza et en Cisjordanie",
    "url": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-menace-russe-l-arme-de-dissuasion-nucleaire-ne-doit-pas-etre-partagee-estime-nicolas-dupont-aignan-candidat-debout-le-france-a-l-election-presidentielle_VN-202609210779.html",
    "n_members": 70,
@@ -791,7 +791,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.52,
+   "divergence": 0.516,
    "category": "international",
    "terms_left": [
     "assemblée",
@@ -800,8 +800,8 @@
    ],
    "terms_right": [
     "cisjordanie",
-    "absurdité grotesque",
-    "absurdité"
+    "emmanuel macron",
+    "emmanuel"
    ]
   },
   {
@@ -821,7 +821,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.832,
+   "divergence": 0.835,
    "category": "international",
    "terms_left": [
     "tigré",
@@ -974,8 +974,8 @@
    "divergence": 0.183,
    "category": "société",
    "terms_left": [
-    "grève",
-    "propositions",
+    "grève maintenue",
+    "retrait charles",
     "maintenue"
    ],
    "terms_right": [
@@ -1001,17 +1001,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.834,
+   "divergence": 0.838,
    "category": "international",
    "terms_left": [
-    "sud",
+    "menace",
     "mer",
-    "grand"
+    "menace russe"
    ],
    "terms_right": [
-    "attaque",
-    "macron",
-    "nike"
+    "nike",
+    "poutine",
+    "russie"
    ]
   },
   {
@@ -1121,17 +1121,17 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.798,
+   "divergence": 0.797,
    "category": "politique",
    "terms_left": [
     "rn",
     "mois",
-    "payan visé"
+    "sécheresse"
    ],
    "terms_right": [
+    "maire",
     "maire lr",
-    "lr",
-    "commune"
+    "lr"
    ]
   },
   {
