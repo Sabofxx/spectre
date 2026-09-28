@@ -1,13 +1,13 @@
 {
  "week": "2026-W40",
- "generated_at": "2026-09-28T16:16:42+00:00",
+ "generated_at": "2026-09-28T22:13:14+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "Polémique : l'IA peut-elle remporter des prix littéraires ?",
+   "title": "Thélyson Orélien est de retour au Canada, la tournée promotionnelle de son livre interrompue en France",
    "url": "https://www.nouvelobs.com/bibliobs/20260920.OBS118426/thelyson-orelien-le-phenomene-de-la-rentree-litteraire-je-ne-tiens-pas-mon-crayon-avec-ma-tete-mais-avec-mes-tripes.html",
-   "n_members": 175,
+   "n_members": 176,
    "n_sources": 39,
    "counts": {
     "left": 10,
@@ -21,23 +21,23 @@
    },
    "blindspot_score": 0.048,
    "blindspot_for": null,
-   "divergence": 0.185,
+   "divergence": 0.181,
    "category": "culture",
    "terms_left": [
     "littérature",
-    "affaire",
-    "mourir thélyson"
+    "ia",
+    "mourir"
    ],
    "terms_right": [
     "auteur",
     "écrit",
-    "canada"
+    "polémique"
    ]
   },
   {
    "title": "EN DIRECT - Léon XIV est arrivé à Metz pour le dernier jour de la visite du pape en France",
    "url": "https://www.europe1.fr/societe/visite-du-pape-leon-xiv-a-paris-hommage-a-frere-laurent-de-la-resurrection-1087295",
-   "n_members": 316,
+   "n_members": 323,
    "n_sources": 35,
    "counts": {
     "left": 7,
@@ -51,17 +51,17 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.202,
+   "divergence": 0.197,
    "category": "société",
    "terms_left": [
-    "déplacement",
     "direct",
+    "déplacement",
     "direct visite"
    ],
    "terms_right": [
-    "pape léon",
     "lourdes",
-    "journée"
+    "journée",
+    "pape léon"
    ]
   },
   {
@@ -81,23 +81,23 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.323,
+   "divergence": 0.334,
    "category": "société",
    "terms_left": [
-    "star",
     "officielle",
-    "visite officielle"
+    "visite officielle",
+    "catholique"
    ],
    "terms_right": [
     "fidèles",
     "lourdes",
-    "jeunes"
+    "géante"
    ]
   },
   {
    "title": "Visite du pape en France : les violences sexuelles au sein de l’Eglise, une « plaie encore ouverte » pour Léon XIV",
    "url": "https://www.bfmtv.com/culture/video-monroe-candidate-francaise-a-l-eurovision-chantera-devant-le-pape-leon-xiv-au-stade-de-france_VN-202609200085.html",
-   "n_members": 97,
+   "n_members": 103,
    "n_sources": 31,
    "counts": {
     "left": 7,
@@ -111,23 +111,53 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.434,
+   "divergence": 0.432,
    "category": "société",
    "terms_left": [
     "eglise",
     "visite",
-    "visite pape"
+    "systémique"
    ],
    "terms_right": [
     "face",
     "écoute",
-    "lourdes"
+    "action"
+   ]
+  },
+  {
+   "title": "Affaire Federico Martin Aramburu: Loïk Le Priol et Romain Bouvier condamnés à 26 et 19 ans de réclusion criminelle",
+   "url": "https://www.ouest-france.fr/societe/faits-divers/des-coups-de-feu-tires-pendant-a-proximite-dune-ecole-dans-loise-deux-personnes-blessees-des-eleves-confines-4a9c1022-b2cd-11f1-bc32-13ddcee9efa7",
+   "n_members": 123,
+   "n_sources": 29,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.387,
+   "category": "société",
+   "terms_left": [
+    "procès",
+    "procès assassinat",
+    "requis"
+   ],
+   "terms_right": [
+    "réclusion",
+    "ans réclusion",
+    "condamnés"
    ]
   },
   {
    "title": "12 nouveaux élus pour le RN, la droite conserve sa majorité, le PS se maintient… Ce qu’il faut retenir des sénatoriales 2026",
    "url": "https://www.publicsenat.fr/actualites/institutions/elections-senatoriales-qui-sont-les-grands-electeurs",
-   "n_members": 118,
+   "n_members": 122,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -141,11 +171,11 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.432,
+   "divergence": 0.421,
    "category": "politique",
    "terms_left": [
-    "majorité",
     "groupe",
+    "majorité",
     "droite"
    ],
    "terms_right": [
@@ -171,7 +201,7 @@
    },
    "blindspot_score": -0.143,
    "blindspot_for": null,
-   "divergence": 0.696,
+   "divergence": 0.697,
    "category": "environnement",
    "terms_left": [
     "marches",
@@ -187,7 +217,7 @@
   {
    "title": "«Donald Trump a demandé à Xi Jinping s'il voulait acheter des armes» : la proposition surprenante du président américain à la Chine",
    "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/09/21/le-president-xi-jinping-en-visite-d-etat-aux-etats-unis-cette-semaine",
-   "n_members": 85,
+   "n_members": 86,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -201,17 +231,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.4,
+   "divergence": 0.384,
    "category": "international",
    "terms_left": [
     "trump xi",
-    "etats-unis",
-    "visite xi"
+    "visite xi",
+    "jinping washington"
    ],
    "terms_right": [
+    "armes",
     "président",
-    "pays",
-    "américain"
+    "états-unis"
    ]
   },
   {
@@ -231,7 +261,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.458,
+   "divergence": 0.428,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -240,8 +270,98 @@
    ],
    "terms_right": [
     "téhéran",
-    "ormuz",
-    "détroit"
+    "jours",
+    "ormuz"
+   ]
+  },
+  {
+   "title": "Mediapart rapporte des propos antisémites de Jordan Bardella, qui dénonce des \"faux grossiers\"",
+   "url": "https://www.mediapart.fr/journal/politique/280926/les-banques-sont-toutes-detenues-par-des-juifs-jordan-bardella-face-ses-ecrits-antisemites",
+   "n_members": 56,
+   "n_sources": 27,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 5
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.359,
+   "category": "politique",
+   "terms_left": [
+    "antisémites jordan",
+    "parti",
+    "antisémitisme"
+   ],
+   "terms_right": [
+    "national",
+    "avocat",
+    "plainte"
+   ]
+  },
+  {
+   "title": "Transports, écoles, hôpitaux… À quoi s’attendre pour la journée de grève de ce mardi 29 septembre ?",
+   "url": "https://www.sudouest.fr/politique/syndicats/easyjet-une-greve-de-dix-jours-annoncee-en-octobre-et-decembre-au-portugal-des-centaines-de-vols-potentiellement-affectes-30671725.php",
+   "n_members": 76,
+   "n_sources": 25,
+   "counts": {
+    "left": 7,
+    "centre": 9,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.125,
+   "blindspot_for": null,
+   "divergence": 0.563,
+   "category": "économie",
+   "terms_left": [
+    "budget",
+    "travail",
+    "intersyndicale"
+   ],
+   "terms_right": [
+    "écoles",
+    "nationale",
+    "salariés"
+   ]
+  },
+  {
+   "title": "Brésil: Lula interdit les paris sportifs en ligne à quelques jours des élections",
+   "url": "https://information.tv5monde.com/international/presidentielle-au-bresil-flavio-bolsonaro-surfe-sur-le-scandale-2838501",
+   "n_members": 63,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 5,
+    "opinion": 6
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.671,
+   "category": "politique",
+   "terms_left": [
+    "brésil lula",
+    "bolsonaro",
+    "ia"
+   ],
+   "terms_right": [
+    "macron",
+    "emmanuel",
+    "emmanuel macron"
    ]
   },
   {
@@ -265,6 +385,36 @@
    "category": "international",
    "terms_left": [],
    "terms_right": []
+  },
+  {
+   "title": "Procès de Rachida Dati : quatre ans de prison, dont deux ans ferme sous bracelet électronique, requis contre l’ex-ministre",
+   "url": "https://www.liberation.fr/societe/police-justice/concentree-rageuse-tacticienne-les-multiples-facettes-de-rachida-dati-a-la-barre-20260927_TXZYKQT3FRBQRLE2LFW45UYURM/",
+   "n_members": 32,
+   "n_sources": 25,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": -0.167,
+   "blindspot_for": null,
+   "divergence": 0.316,
+   "category": "société",
+   "terms_left": [
+    "jour",
+    "ministre",
+    "euros"
+   ],
+   "terms_right": [
+    "inéligibilité",
+    "sud",
+    "pnf"
+   ]
   },
   {
    "title": "Football: l'Irlande confirme qu'elle affrontera Israël, le gardien de but maintient son boycott",
@@ -297,33 +447,33 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : Yannick Jadot suspendu temporairement par les Écologistes après son soutien à Raphaël Glucksmann",
-   "url": "https://information.tv5monde.com/international/presidentielle-au-bresil-flavio-bolsonaro-surfe-sur-le-scandale-2838501",
+   "title": "Royaume-Uni: ce que l'on sait de \"l'incident majeur\" près d'une base utilisée par l'US Air Force",
+   "url": "https://www.bfmtv.com/international/europe/angleterre/un-incident-majeur-pres-d-une-base-utilisee-par-l-us-air-force-en-angleterre-des-arrestations-liees-a-des-explosifs_AD-202609270133.html",
    "n_members": 62,
    "n_sources": 24,
    "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 8
+    "left": 5,
+    "centre": 13,
+    "right": 6
    },
    "style_counts": {
-    "factuel": 14,
-    "mixte": 4,
-    "opinion": 6
+    "factuel": 16,
+    "mixte": 6,
+    "opinion": 2
    },
-   "blindspot_score": 0.333,
+   "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.673,
-   "category": "politique",
+   "divergence": 0.26,
+   "category": "international",
    "terms_left": [
-    "brésil lula",
-    "bolsonaro",
-    "gauche"
+    "antiterroriste chargée",
+    "loi",
+    "défense"
    ],
    "terms_right": [
-    "macron",
-    "emmanuel",
-    "emmanuel macron"
+    "utilisée armée",
+    "américaine",
+    "hommes soupçonnés"
    ]
   },
   {
@@ -343,7 +493,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.799,
+   "divergence": 0.805,
    "category": "politique",
    "terms_left": [
     "rn",
@@ -351,45 +501,45 @@
     "menaces"
    ],
    "terms_right": [
-    "ville",
     "maire",
-    "maire lr"
+    "ville",
+    "habitants"
    ]
   },
   {
-   "title": "Royaume-Uni: ce que l'on sait de \"l'incident majeur\" près d'une base utilisée par l'US Air Force",
-   "url": "https://www.bfmtv.com/international/europe/angleterre/un-incident-majeur-pres-d-une-base-utilisee-par-l-us-air-force-en-angleterre-des-arrestations-liees-a-des-explosifs_AD-202609270133.html",
-   "n_members": 58,
+   "title": "Sénatoriales : le RN va constituer un groupe «pour la première fois de son histoire», salue Jordan Bardella",
+   "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-la-tribune-politique-le-rn-remporte-un-groupe-au-senat-avec-l-udr-28-09_VN-202609280190.html",
+   "n_members": 56,
    "n_sources": 24,
    "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 6
+    "left": 4,
+    "centre": 12,
+    "right": 8
    },
    "style_counts": {
-    "factuel": 16,
-    "mixte": 6,
+    "factuel": 15,
+    "mixte": 7,
     "opinion": 2
    },
-   "blindspot_score": 0.091,
+   "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.251,
-   "category": "international",
+   "divergence": 0.5,
+   "category": "politique",
    "terms_left": [
-    "antiterroriste chargée",
-    "loi",
-    "arrestation"
+    "droite",
+    "extrême droite",
+    "extrême"
    ],
    "terms_right": [
-    "utilisée armée",
-    "hommes soupçonnés",
-    "américaine"
+    "jordan bardella",
+    "jordan",
+    "fois histoire"
    ]
   },
   {
-   "title": "Ligue des nations: Zinédine Zidane commence par une victoire contre la Turquie pour sa première sur le banc français",
+   "title": "Ligue des nations: Zinédine Zidane prend ses marques avec les Bleus",
    "url": "https://www.leparisien.fr/sports/football/equipe-de-france/equipe-de-france-lepaul-truffert-jacquet-quels-pourraient-etre-les-nouveaux-visages-de-la-premiere-liste-de-zidane-17-09-2026-YEWBEM6EGZDDJB2XXLMNIFAO2M.php",
-   "n_members": 150,
+   "n_members": 156,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -403,12 +553,12 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.348,
+   "divergence": 0.372,
    "category": "sport",
    "terms_left": [
+    "sélectionneur",
     "tête équipe",
-    "tête",
-    "sélectionneur"
+    "liste"
    ],
    "terms_right": [
     "bleus",
@@ -417,69 +567,9 @@
    ]
   },
   {
-   "title": "Grève du 29 septembre : le premier syndicat des écoles primaires s’attend à 40 % d’enseignants mobilisés",
-   "url": "https://www.sudouest.fr/politique/syndicats/easyjet-une-greve-de-dix-jours-annoncee-en-octobre-et-decembre-au-portugal-des-centaines-de-vols-potentiellement-affectes-30671725.php",
-   "n_members": 67,
-   "n_sources": 23,
-   "counts": {
-    "left": 6,
-    "centre": 9,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.589,
-   "category": "économie",
-   "terms_left": [
-    "travail",
-    "intersyndicale",
-    "france"
-   ],
-   "terms_right": [
-    "écoles",
-    "mobilisation",
-    "qu"
-   ]
-  },
-  {
-   "title": "Sénatoriales : le RN va constituer un groupe «pour la première fois de son histoire», salue Jordan Bardella",
-   "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-la-tribune-politique-le-rn-remporte-un-groupe-au-senat-avec-l-udr-28-09_VN-202609280190.html",
-   "n_members": 53,
-   "n_sources": 23,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 1
-   },
-   "blindspot_score": 0.455,
-   "blindspot_for": null,
-   "divergence": 0.524,
-   "category": "politique",
-   "terms_left": [
-    "droite",
-    "extrême",
-    "extrême droite"
-   ],
-   "terms_right": [
-    "jordan bardella",
-    "jordan",
-    "bardella"
-   ]
-  },
-  {
-   "title": "EN DIRECT, guerre en Ukraine : les attaques russes font deux morts dans la région de Kiev et 28 blessés, dont neuf enfants, à Kharkiv",
+   "title": "Ukraine : nouveaux bombardements meurtriers russes sur Kiev",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 134,
+   "n_members": 142,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -493,17 +583,77 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.474,
+   "divergence": 0.462,
    "category": "international",
    "terms_left": [
+    "centre",
     "russie",
-    "direct",
-    "pays"
+    "direct"
    ],
    "terms_right": [
+    "sciences",
     "russes",
-    "frappe",
     "ukraine morts"
+   ]
+  },
+  {
+   "title": "Blocus dans des lycées : Jean-Luc Mélenchon accuse le gouvernement d'ordonner la \"répression\" du mouvement avec \"un arrière-goût raciste\", Sébastien Lecornu dénonce une \"insulte\"",
+   "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
+   "n_members": 70,
+   "n_sources": 22,
+   "counts": {
+    "left": 5,
+    "centre": 9,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.473,
+   "category": "société",
+   "terms_left": [
+    "ile-de-france",
+    "répression",
+    "établissement"
+   ],
+   "terms_right": [
+    "forces",
+    "lycées",
+    "ordre"
+   ]
+  },
+  {
+   "title": "EN DIRECT - Visite de Léon XIV en France : le pape rencontre les évêques de France à Lourdes",
+   "url": "https://www.leparisien.fr/paris-75/on-a-cru-a-une-blague-la-maison-bakhita-qui-accompagne-les-personnes-exilees-a-paris-prete-a-recevoir-le-pape-24-09-2026-H76LXGXWHZGANDTM7QICTGP4EA.php",
+   "n_members": 64,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 10,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.556,
+   "category": "société",
+   "terms_left": [
+    "clos",
+    "huis",
+    "huis clos"
+   ],
+   "terms_right": [
+    "pape léon",
+    "pape",
+    "lourdes"
    ]
   },
   {
@@ -523,107 +673,47 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.725,
+   "divergence": 0.727,
    "category": "économie",
    "terms_left": [
     "prix carburant",
-    "carburant",
-    "monde"
+    "monde",
+    "gazole"
    ],
    "terms_right": [
     "français",
-    "crise",
-    "euros"
+    "euros",
+    "crise"
    ]
   },
   {
-   "title": "Procès de Rachida Dati : quatre ans de prison, dont deux ans ferme sous bracelet électronique, requis contre l’ex-ministre",
-   "url": "https://www.liberation.fr/societe/police-justice/concentree-rageuse-tacticienne-les-multiples-facettes-de-rachida-dati-a-la-barre-20260927_TXZYKQT3FRBQRLE2LFW45UYURM/",
-   "n_members": 25,
+   "title": "Budget : le gouvernement veut alourdir de 800 millions d’euros la taxation des exploitants d’autoroutes et aéroports",
+   "url": "https://www.lejdd.fr/Societe/exclusif-subventions-aux-associations-60-milliards-dargent-public-et-beaucoup-dopacite-183921",
+   "n_members": 50,
    "n_sources": 22,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": -0.111,
-   "blindspot_for": null,
-   "divergence": 0.434,
-   "category": "société",
-   "terms_left": [
-    "paris",
-    "ministre",
-    "jour"
-   ],
-   "terms_right": [
-    "aménageables",
-    "ferme aménageables",
-    "inéligibilité"
-   ]
-  },
-  {
-   "title": "Mediapart rapporte des propos antisémites de Jordan Bardella, qui dénonce des \"faux grossiers\"",
-   "url": "https://www.mediapart.fr/journal/politique/280926/les-banques-sont-toutes-detenues-par-des-juifs-jordan-bardella-face-ses-ecrits-antisemites",
-   "n_members": 25,
-   "n_sources": 22,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": -0.333,
-   "blindspot_for": null,
-   "divergence": 0.433,
-   "category": "politique",
-   "terms_left": [
-    "antisémites jordan",
-    "dénonce",
-    "ministre"
-   ],
-   "terms_right": [
-    "marine pen",
-    "pen",
-    "marine"
-   ]
-  },
-  {
-   "title": "EN DIRECT - Visite de Léon XIV en France : le pape rencontre les évêques de France à Lourdes",
-   "url": "https://www.leparisien.fr/paris-75/on-a-cru-a-une-blague-la-maison-bakhita-qui-accompagne-les-personnes-exilees-a-paris-prete-a-recevoir-le-pape-24-09-2026-H76LXGXWHZGANDTM7QICTGP4EA.php",
-   "n_members": 63,
-   "n_sources": 21,
    "counts": {
     "left": 4,
-    "centre": 9,
-    "right": 8
+    "centre": 8,
+    "right": 10
    },
    "style_counts": {
-    "factuel": 10,
-    "mixte": 8,
-    "opinion": 3
+    "factuel": 11,
+    "mixte": 7,
+    "opinion": 4
    },
-   "blindspot_score": 0.333,
+   "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.555,
-   "category": "société",
+   "divergence": 0.694,
+   "category": "économie",
    "terms_left": [
-    "clos",
-    "huis clos",
-    "huis"
+    "contribution",
+    "pacte",
+    "promet"
    ],
    "terms_right": [
-    "pape léon",
-    "pape",
-    "lourdes"
+    "désindexation",
+    "aéroports",
+    "gouvernement"
    ]
   },
   {
@@ -643,7 +733,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.825,
+   "divergence": 0.824,
    "category": "international",
    "terms_left": [
     "fedorova",
@@ -657,9 +747,9 @@
    ]
   },
   {
-   "title": "Crise du logement en Espagne : Madrid ravive l’esprit des indignés après l’expulsion de Maricarmen",
+   "title": "Espagne : des milliers de manifestants à Madrid pour soutenir une octogénaire expulsée de chez elle",
    "url": "https://www.tf1info.fr/international/videos/video-emoi-en-espagne-ils-refusent-d-expulser-une-femme-de-87-ans-56710-2465927.html",
-   "n_members": 54,
+   "n_members": 60,
    "n_sources": 21,
    "counts": {
     "left": 5,
@@ -673,17 +763,47 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.528,
+   "divergence": 0.499,
    "category": "international",
    "terms_left": [
-    "maricarmen",
     "logement espagne",
-    "expulsée"
+    "maricarmen",
+    "pedro"
    ],
    "terms_right": [
-    "ceuta",
     "retraitée",
+    "ceuta",
     "expulsion retraitée"
+   ]
+  },
+  {
+   "title": "« Ça va nous pousser à un confinement par l’essence » : la hausse des prix du carburant pèse sur les habitants des vallées des Alpes-Maritimes",
+   "url": "https://www.franceinfo.fr/faits-divers/info-franceinfo-tu-vas-le-faire-sinon-le-chirurgien-des-stars-sydney-ohana-mis-en-examen-dans-cinq-nouvelles-affaires-de-violences-sexuelles_8202926.html",
+   "n_members": 54,
+   "n_sources": 21,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.845,
+   "category": "société",
+   "terms_left": [
+    "nouveau",
+    "ohana",
+    "sydney ohana"
+   ],
+   "terms_right": [
+    "millions",
+    "millions euros",
+    "italie"
    ]
   },
   {
@@ -714,36 +834,6 @@
     "fusillade",
     "police",
     "nuit"
-   ]
-  },
-  {
-   "title": "« Ça va nous pousser à un confinement par l’essence » : la hausse des prix du carburant pèse sur les habitants des vallées des Alpes-Maritimes",
-   "url": "https://www.franceinfo.fr/faits-divers/info-franceinfo-tu-vas-le-faire-sinon-le-chirurgien-des-stars-sydney-ohana-mis-en-examen-dans-cinq-nouvelles-affaires-de-violences-sexuelles_8202926.html",
-   "n_members": 53,
-   "n_sources": 21,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.845,
-   "category": "société",
-   "terms_left": [
-    "nouveau",
-    "ohana",
-    "sydney ohana"
-   ],
-   "terms_right": [
-    "millions",
-    "millions euros",
-    "italie"
    ]
   },
   {
@@ -791,9 +881,39 @@
    "terms_right": []
   },
   {
-   "title": "Crépol : 11 accusés renvoyés devant la cour d’assises, pour meurtre aggravé par du racisme envers \"la race blanche\"",
+   "title": "Léon XIV à Metz : ce qu’il faut retenir du dernier jour de la visite du pape en France",
+   "url": "https://www.liberation.fr/international/europe/le-pape-leon-xiv-en-france-lappel-a-laide-du-nepal-face-au-rechauffement-climatique-premiere-de-zizou-en-equipe-de-france-lactu-de-ce-vendredi-25-septembre-au-matin-20260925_ZK2PKQVOJRHFXDY67THC3SRK4I/",
+   "n_members": 40,
+   "n_sources": 20,
+   "counts": {
+    "left": 4,
+    "centre": 7,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.808,
+   "category": "société",
+   "terms_left": [
+    "week-end",
+    "qu",
+    "actualité"
+   ],
+   "terms_right": [
+    "léon xiv",
+    "xiv",
+    "léon"
+   ]
+  },
+  {
+   "title": "Affaire Crépol : pourquoi la justice retient le caractère raciste",
    "url": "https://www.franceinfo.fr/faits-divers/terrorisme/policiers-tues-a-magnanville/info-franceinfo-la-cour-de-cassation-annule-en-partie-la-condamnation-de-mohamed-lamine-aberouz-pour-l-attentat-de-magnanville-un-nouveau-proces-va-avoir-lieu_8206451.html",
-   "n_members": 33,
+   "n_members": 35,
    "n_sources": 20,
    "counts": {
     "left": 5,
@@ -807,77 +927,77 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.298,
+   "divergence": 0.283,
    "category": "société",
    "terms_left": [
     "envers",
-    "accusés renvoyés",
-    "racisme envers"
+    "racisme envers",
+    "accusés renvoyés"
    ],
    "terms_right": [
-    "meurtre thomas",
     "jugés",
-    "ans"
+    "ans",
+    "française"
    ]
   },
   {
-   "title": "Blocus dans des lycées : Jean-Luc Mélenchon accuse le gouvernement d'ordonner la \"répression\" du mouvement avec \"un arrière-goût raciste\", Sébastien Lecornu dénonce une \"insulte\"",
-   "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 45,
-   "n_sources": 19,
+   "title": "Au pied de la tour Eiffel, les pompiers mobilisés pour clamer leur «colère»",
+   "url": "https://basta.media/ce-que-veulent-les-pompiers-manifestation-nationale-greve-quelles-revendications",
+   "n_members": 30,
+   "n_sources": 20,
    "counts": {
-    "left": 3,
-    "centre": 8,
-    "right": 8
+    "left": 6,
+    "centre": 10,
+    "right": 4
    },
    "style_counts": {
-    "factuel": 10,
-    "mixte": 6,
-    "opinion": 3
+    "factuel": 11,
+    "mixte": 7,
+    "opinion": 2
    },
-   "blindspot_score": 0.455,
+   "blindspot_score": -0.2,
    "blindspot_for": null,
-   "divergence": 0.506,
+   "divergence": 0.549,
    "category": "société",
    "terms_left": [
-    "ile-de-france",
-    "franciliens",
-    "lycées franciliens"
+    "système",
+    "bout",
+    "manque"
    ],
    "terms_right": [
-    "forces",
-    "france",
-    "ordre"
+    "paris",
+    "mobilisation",
+    "pied tour"
    ]
   },
   {
-   "title": "Ce que l’on sait du projet de budget 2027 qui sera présenté jeudi en Conseil des ministres",
-   "url": "https://www.lejdd.fr/Societe/exclusif-subventions-aux-associations-60-milliards-dargent-public-et-beaucoup-dopacite-183921",
-   "n_members": 38,
-   "n_sources": 19,
+   "title": "Football : les Bleus offrent une première victoire à Zidane",
+   "url": "https://www.nicematin.com/guide-conso/monaco-lens-a-quelle-heure-et-sur-quelle-chaine-voir-le-choc-en-direct-10725250",
+   "n_members": 86,
+   "n_sources": 18,
    "counts": {
-    "left": 4,
-    "centre": 6,
-    "right": 9
+    "left": 2,
+    "centre": 9,
+    "right": 7
    },
    "style_counts": {
-    "factuel": 9,
-    "mixte": 6,
-    "opinion": 4
+    "factuel": 11,
+    "mixte": 5,
+    "opinion": 2
    },
-   "blindspot_score": 0.385,
+   "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.769,
-   "category": "économie",
+   "divergence": 0.659,
+   "category": "sport",
    "terms_left": [
-    "pacte",
-    "note",
-    "contribution"
+    "tête",
+    "blessé",
+    "capitaine"
    ],
    "terms_right": [
-    "désindexation",
-    "retraités",
-    "face"
+    "france",
+    "équipe france",
+    "équipe"
    ]
   },
   {
@@ -933,34 +1053,26 @@
    ]
   },
   {
-   "title": "Au pied de la tour Eiffel, les pompiers mobilisés pour clamer leur «colère»",
-   "url": "https://basta.media/ce-que-veulent-les-pompiers-manifestation-nationale-greve-quelles-revendications",
-   "n_members": 25,
+   "title": "Carcassonne : le policier soupçonné d'avoir jeté à terre un jeune homme sera jugé le 6 novembre",
+   "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attaques-du-13-novembre-a-paris/proces-des-attentats-du-13-novembre-2015/une-liberation-du-logisticien-du-13-novembre-serait-un-affront-a-la-douleur-des-victimes-estime-gerald-darmanin_8203577.html",
+   "n_members": 49,
    "n_sources": 18,
    "counts": {
-    "left": 6,
-    "centre": 8,
-    "right": 4
+    "left": 2,
+    "centre": 9,
+    "right": 7
    },
    "style_counts": {
-    "factuel": 9,
-    "mixte": 7,
+    "factuel": 11,
+    "mixte": 5,
     "opinion": 2
    },
-   "blindspot_score": -0.2,
+   "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.557,
-   "category": "société",
-   "terms_left": [
-    "qu",
-    "face",
-    "campement"
-   ],
-   "terms_right": [
-    "mobilisation",
-    "paris",
-    "pied tour"
-   ]
+   "divergence": 0.451,
+   "category": "faits-divers",
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Les Suisses appelés à voter sur leur historique neutralité",
@@ -979,7 +1091,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.491,
+   "divergence": 0.49,
    "category": "international",
    "terms_left": [
     "rejettent",
@@ -1043,110 +1155,6 @@
    "category": "faits-divers",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Cher. « Individu dangereux » : le compagnon d'une femme retrouvée morte a été interpellé",
-   "url": "https://www.liberation.fr/economie/medias/linfluenceur-mounim-sabhi-soupconne-de-violences-et-humiliations-en-direct-place-en-garde-a-vue-20260921_FRODRSMJL5EJDFHKVXOET4PBQA/",
-   "n_members": 53,
-   "n_sources": 17,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 3,
-    "opinion": 3
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.818,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "\"L'eau n'arrête pas de monter\" : inondations après de fortes pluies à Bangkok, l'état de catastrophe déclaré",
-   "url": "https://www.franceinfo.fr/environnement/crise-climatique/le-chef-de-l-onu-lance-a-new-york-un-dernier-appel-a-l-action-climatique-avant-son-depart_8207009.html",
-   "n_members": 42,
-   "n_sources": 17,
-   "counts": {
-    "left": 4,
-    "centre": 9,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 4,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.475,
-   "category": "international",
-   "terms_left": [
-    "climatique",
-    "saison",
-    "inondations"
-   ],
-   "terms_right": [
-    "pluies",
-    "diluviennes",
-    "autorités"
-   ]
-  },
-  {
-   "title": "Carcassonne : le policier soupçonné d'avoir jeté à terre un jeune homme sera jugé le 6 novembre",
-   "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attaques-du-13-novembre-a-paris/proces-des-attentats-du-13-novembre-2015/une-liberation-du-logisticien-du-13-novembre-serait-un-affront-a-la-douleur-des-victimes-estime-gerald-darmanin_8203577.html",
-   "n_members": 35,
-   "n_sources": 17,
-   "counts": {
-    "left": 2,
-    "centre": 8,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.556,
-   "blindspot_for": null,
-   "divergence": 0.451,
-   "category": "société",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Cycliste tuée en Saône-et-Loire : le chauffard était positif à la cocaïne",
-   "url": "https://www.europe1.fr/faits-divers/blois-une-fillette-de-cinq-ans-retrouvee-morte-vraisemblablement-tuee-par-son-pere-1094972",
-   "n_members": 66,
-   "n_sources": 16,
-   "counts": {
-    "left": 2,
-    "centre": 8,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 5,
-    "opinion": 1
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.374,
-   "category": "faits-divers",
-   "terms_left": [
-    "vraisemblablement",
-    "vraisemblablement tuée",
-    "tuée père"
-   ],
-   "terms_right": [
-    "ans",
-    "vue",
-    "femme"
-   ]
   }
  ]
 }
