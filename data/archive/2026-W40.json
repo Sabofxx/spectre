@@ -1,6 +1,6 @@
 {
  "week": "2026-W40",
- "generated_at": "2026-09-29T20:06:10+00:00",
+ "generated_at": "2026-09-29T23:50:53+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -61,7 +61,37 @@
    "terms_right": [
     "lourdes",
     "messe",
-    "pape léon"
+    "journée"
+   ]
+  },
+  {
+   "title": "Grève dans la fonction publique : plus de 170 manifestations attendues mardi",
+   "url": "https://www.sudouest.fr/politique/syndicats/easyjet-une-greve-de-dix-jours-annoncee-en-octobre-et-decembre-au-portugal-des-centaines-de-vols-potentiellement-affectes-30671725.php",
+   "n_members": 135,
+   "n_sources": 34,
+   "counts": {
+    "left": 9,
+    "centre": 14,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 13,
+    "opinion": 4
+   },
+   "blindspot_score": 0.1,
+   "blindspot_for": null,
+   "divergence": 0.403,
+   "category": "société",
+   "terms_left": [
+    "mobilisation",
+    "personnes",
+    "france"
+   ],
+   "terms_right": [
+    "écoles",
+    "budget",
+    "enseignants"
    ]
   },
   {
@@ -81,7 +111,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.312,
+   "divergence": 0.311,
    "category": "société",
    "terms_left": [
     "enseignement",
@@ -95,9 +125,9 @@
    ]
   },
   {
-   "title": "Mediapart attribue à Jordan Bardella des écrits antisémites, le président du RN dénonce des \"faux grossiers\"",
+   "title": "Enquête de « Mediapart » : Jordan Bardella nie en bloc les propos antisémites et évoque « les prémices d’une guerre totale » contre le RN",
    "url": "https://www.mediapart.fr/journal/politique/280926/les-banques-sont-toutes-detenues-par-des-juifs-jordan-bardella-face-ses-ecrits-antisemites",
-   "n_members": 137,
+   "n_members": 146,
    "n_sources": 33,
    "counts": {
     "left": 9,
@@ -111,7 +141,7 @@
    },
    "blindspot_score": 0.053,
    "blindspot_for": null,
-   "divergence": 0.226,
+   "divergence": 0.219,
    "category": "politique",
    "terms_left": [
     "parti",
@@ -122,36 +152,6 @@
     "article",
     "accusations",
     "article mediapart"
-   ]
-  },
-  {
-   "title": "Grève dans la fonction publique : plus de 170 manifestations attendues mardi",
-   "url": "https://www.sudouest.fr/politique/syndicats/easyjet-une-greve-de-dix-jours-annoncee-en-octobre-et-decembre-au-portugal-des-centaines-de-vols-potentiellement-affectes-30671725.php",
-   "n_members": 133,
-   "n_sources": 33,
-   "counts": {
-    "left": 9,
-    "centre": 13,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 13,
-    "opinion": 4
-   },
-   "blindspot_score": 0.1,
-   "blindspot_for": null,
-   "divergence": 0.402,
-   "category": "société",
-   "terms_left": [
-    "mobilisation",
-    "personnes",
-    "france"
-   ],
-   "terms_right": [
-    "écoles",
-    "budget",
-    "enseignants"
    ]
   },
   {
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.435,
+   "divergence": 0.434,
    "category": "société",
    "terms_left": [
     "eglise",
@@ -261,16 +261,16 @@
    },
    "blindspot_score": -0.143,
    "blindspot_for": null,
-   "divergence": 0.684,
+   "divergence": 0.676,
    "category": "environnement",
    "terms_left": [
-    "marches",
     "climat",
+    "marches",
     "marches climat"
    ],
    "terms_right": [
+    "année",
     "incendies",
-    "france",
     "record"
    ]
   },
@@ -305,9 +305,39 @@
    ]
   },
   {
+   "title": "Léon XIV à Metz : ce qu’il faut retenir du dernier jour de la visite du pape en France",
+   "url": "https://www.liberation.fr/international/europe/le-pape-leon-xiv-en-france-lappel-a-laide-du-nepal-face-au-rechauffement-climatique-premiere-de-zizou-en-equipe-de-france-lactu-de-ce-vendredi-25-septembre-au-matin-20260925_ZK2PKQVOJRHFXDY67THC3SRK4I/",
+   "n_members": 58,
+   "n_sources": 28,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 5
+   },
+   "blindspot_score": 0.467,
+   "blindspot_for": null,
+   "divergence": 0.799,
+   "category": "international",
+   "terms_left": [
+    "week-end",
+    "actualité",
+    "qu"
+   ],
+   "terms_right": [
+    "macron",
+    "léon xiv",
+    "xiv"
+   ]
+  },
+  {
    "title": "Blocage des lycées: \"On est là pour protéger les élèves face aux violences policières\", dénonce une professeure qui soutient le mouvement à Saint-Denis",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 148,
+   "n_members": 153,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -351,7 +381,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.38,
+   "divergence": 0.376,
    "category": "international",
    "terms_left": [
     "cisjordanie",
@@ -362,36 +392,6 @@
     "téhéran",
     "rouvrir",
     "plan"
-   ]
-  },
-  {
-   "title": "Léon XIV à Metz : ce qu’il faut retenir du dernier jour de la visite du pape en France",
-   "url": "https://www.liberation.fr/international/europe/le-pape-leon-xiv-en-france-lappel-a-laide-du-nepal-face-au-rechauffement-climatique-premiere-de-zizou-en-equipe-de-france-lactu-de-ce-vendredi-25-septembre-au-matin-20260925_ZK2PKQVOJRHFXDY67THC3SRK4I/",
-   "n_members": 54,
-   "n_sources": 27,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 5
-   },
-   "blindspot_score": 0.467,
-   "blindspot_for": null,
-   "divergence": 0.821,
-   "category": "international",
-   "terms_left": [
-    "week-end",
-    "actualité",
-    "qu"
-   ],
-   "terms_right": [
-    "léon xiv",
-    "xiv",
-    "léon"
    ]
   },
   {
@@ -427,7 +427,7 @@
   {
    "title": "«On manque de tout»: les pompiers en grève campent au pied de la tour Eiffel",
    "url": "https://basta.media/ce-que-veulent-les-pompiers-manifestation-nationale-greve-quelles-revendications",
-   "n_members": 51,
+   "n_members": 52,
    "n_sources": 26,
    "counts": {
     "left": 7,
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.531,
+   "divergence": 0.526,
    "category": "société",
    "terms_left": [
     "face",
@@ -553,7 +553,7 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.742,
+   "divergence": 0.741,
    "category": "international",
    "terms_left": [
     "onu",
@@ -569,7 +569,7 @@
   {
    "title": "Préparation d'un acte terroriste, cinq hommes arrêtés... Ce que l'on sait sur l'\"incident majeur\" près d'une base militaire utilisée par l'armée américaine au Royaume-Uni",
    "url": "https://www.bfmtv.com/international/europe/angleterre/un-incident-majeur-pres-d-une-base-utilisee-par-l-us-air-force-en-angleterre-des-arrestations-liees-a-des-explosifs_AD-202609270133.html",
-   "n_members": 68,
+   "n_members": 69,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -583,7 +583,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.265,
+   "divergence": 0.268,
    "category": "international",
    "terms_left": [
     "antiterroriste chargée",
@@ -593,7 +593,7 @@
    "terms_right": [
     "utilisée armée",
     "hommes soupçonnés",
-    "américaine"
+    "armée"
    ]
   },
   {
@@ -643,7 +643,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.483,
+   "divergence": 0.484,
    "category": "politique",
    "terms_left": [
     "droite",
@@ -689,7 +689,7 @@
   {
    "title": "Le nord-est des Etats-Unis frappé par une tempête rare pour la saison",
    "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-8-h/journal-de-8h-du-vendredi-25-septembre-2026-3083461",
-   "n_members": 58,
+   "n_members": 59,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -703,7 +703,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.671,
+   "divergence": 0.672,
    "category": "international",
    "terms_left": [
     "éthiopie",
@@ -749,7 +749,7 @@
   {
    "title": "Crise du logement en Espagne : Maricarmen Abascal, expulsée à 87 ans, finalement autorisée à rentrer chez elle",
    "url": "https://www.tf1info.fr/international/videos/video-emoi-en-espagne-ils-refusent-d-expulser-une-femme-de-87-ans-56710-2465927.html",
-   "n_members": 81,
+   "n_members": 82,
    "n_sources": 22,
    "counts": {
     "left": 6,
@@ -763,12 +763,12 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.41,
+   "divergence": 0.385,
    "category": "international",
    "terms_left": [
     "logement espagne",
     "maricarmen",
-    "gouvernement"
+    "expulsions"
    ],
    "terms_right": [
     "retraitée",
@@ -793,16 +793,16 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.37,
+   "divergence": 0.36,
    "category": "international",
    "terms_left": [
+    "envoi",
     "soldats",
-    "rouge",
-    "mer"
+    "annoncé"
    ],
    "terms_right": [
     "protéger",
-    "site",
+    "militaires arabie",
     "moyens militaires"
    ]
   },
@@ -853,7 +853,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.738,
+   "divergence": 0.737,
    "category": "économie",
    "terms_left": [
     "prix carburant",
@@ -887,8 +887,8 @@
    "category": "culture",
    "terms_left": [
     "semaine",
-    "roches rouges",
-    "roches"
+    "roches",
+    "roches rouges"
    ],
    "terms_right": [
     "qu",
@@ -947,8 +947,8 @@
    "category": "international",
    "terms_left": [
     "fedorova",
-    "xenia fedorova",
-    "xenia"
+    "xenia",
+    "xenia fedorova"
    ],
    "terms_right": [
     "face",
@@ -987,9 +987,39 @@
    ]
   },
   {
+   "title": "Violences sexuelles et sexistes : à quoi va ressembler le questionnaire qui sera distribué aux enfants en classe ?",
+   "url": "https://www.sudouest.fr/societe/actes-sexuels-en-ligne-les-deputes-veulent-etendre-le-delit-de-proxenetisme-aux-actes-de-prostitution-sur-les-plateformes-onlyfans-ou-mym-30732098.php",
+   "n_members": 48,
+   "n_sources": 21,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.111,
+   "blindspot_for": null,
+   "divergence": 0.43,
+   "category": "société",
+   "terms_left": [
+    "violences",
+    "sexuelles",
+    "sexistes"
+   ],
+   "terms_right": [
+    "lunettes connectées",
+    "connectées",
+    "lunettes"
+   ]
+  },
+  {
    "title": "Présidentielle : Marine Le Pen creuse l'écart au second tour, selon un sondage",
    "url": "https://www.valeursactuelles.com/clubvaleurs/politique/il-est-foutu-qui-est-gabriel-amard-gendre-de-jean-luc-melenchon-et-faux-espoir-de-lfi-aux-senatoriales",
-   "n_members": 44,
+   "n_members": 45,
    "n_sources": 21,
    "counts": {
     "left": 4,
@@ -1003,7 +1033,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.704,
+   "divergence": 0.705,
    "category": "politique",
    "terms_left": [
     "ans",
@@ -1014,6 +1044,36 @@
     "france",
     "jean-luc mélenchon",
     "jean-luc"
+   ]
+  },
+  {
+   "title": "La dette publique augmente encore et atteint 119% du PIB au deuxième trimestre 2026",
+   "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/sans-cure-d-austerite-et-meme-sans-budget-depuis-2023-comment-l-espagne-a-reussi-un-desendettement-spectaculaire-a-99-9-du-pib-quand-la-france-s-enfonce_AV-202609260041.html",
+   "n_members": 32,
+   "n_sources": 21,
+   "counts": {
+    "left": 3,
+    "centre": 8,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.538,
+   "blindspot_for": null,
+   "divergence": 0.451,
+   "category": "économie",
+   "terms_left": [
+    "hausse",
+    "mathieu",
+    "france"
+   ],
+   "terms_right": [
+    "trimestre",
+    "deuxième",
+    "deuxième trimestre"
    ]
   },
   {
@@ -1037,6 +1097,36 @@
    "category": "faits-divers",
    "terms_left": [],
    "terms_right": []
+  },
+  {
+   "title": "Intelligence artificielle : Donald Trump annonce que les patrons de la tech ont signé un «accord contraignant sur le plan moral»",
+   "url": "https://www.bfmtv.com/economie/une-cargaison-de-pieces-de-l-avion-americain-f-35-a-quitte-l-australie-avant-d-etre-mysterieusement-detournee-vers-hong-kong-mysterieusement-a-hong-kong-les-etats-unis-craignent-que-pekin-ait-pu-acceder-aux-technologies-sensibles_AD-202609210506.html",
+   "n_members": 45,
+   "n_sources": 20,
+   "counts": {
+    "left": 4,
+    "centre": 9,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 7,
+    "opinion": 1
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.76,
+   "category": "international",
+   "terms_left": [
+    "nouvelle",
+    "indiqué",
+    "remplacer"
+   ],
+   "terms_right": [
+    "macron",
+    "emmanuel",
+    "emmanuel macron"
+   ]
   },
   {
    "title": "En Suède, un désaccord à gauche freine la formation d’un gouvernement",
@@ -1077,7 +1167,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.288,
+   "divergence": 0.289,
    "category": "société",
    "terms_left": [
     "envers",
@@ -1088,96 +1178,6 @@
     "jugés",
     "jugés racisme",
     "meurtre thomas"
-   ]
-  },
-  {
-   "title": "La dette publique augmente encore et atteint 119% du PIB au deuxième trimestre 2026",
-   "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/sans-cure-d-austerite-et-meme-sans-budget-depuis-2023-comment-l-espagne-a-reussi-un-desendettement-spectaculaire-a-99-9-du-pib-quand-la-france-s-enfonce_AV-202609260041.html",
-   "n_members": 30,
-   "n_sources": 20,
-   "counts": {
-    "left": 3,
-    "centre": 7,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.538,
-   "blindspot_for": null,
-   "divergence": 0.454,
-   "category": "économie",
-   "terms_left": [
-    "hausse",
-    "mathieu",
-    "france"
-   ],
-   "terms_right": [
-    "trimestre",
-    "deuxième",
-    "deuxième trimestre"
-   ]
-  },
-  {
-   "title": "Clermont-Ferrand : ce que l'on sait sur l'accident qui a fait quatre blessés durant la marche pour le climat",
-   "url": "https://www.ladepeche.fr/2026/09/19/un-homme-de-71-ans-grievement-brule-dans-un-incendie-qui-a-ravage-25-hectares-de-vegetation-25-pompiers-mobilises-pour-circonscrire-le-sinistre-13559429.php",
-   "n_members": 58,
-   "n_sources": 19,
-   "counts": {
-    "left": 2,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.556,
-   "blindspot_for": null,
-   "divergence": 0.701,
-   "category": "faits-divers",
-   "terms_left": [
-    "ans",
-    "automobiliste",
-    "climat clermont-ferrand"
-   ],
-   "terms_right": [
-    "manche",
-    "traversée",
-    "morts"
-   ]
-  },
-  {
-   "title": "Inondations : huit morts en Thaïlande et en Birmanie",
-   "url": "https://www.franceinfo.fr/environnement/crise-climatique/le-chef-de-l-onu-lance-a-new-york-un-dernier-appel-a-l-action-climatique-avant-son-depart_8207009.html",
-   "n_members": 50,
-   "n_sources": 19,
-   "counts": {
-    "left": 5,
-    "centre": 10,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": -0.111,
-   "blindspot_for": null,
-   "divergence": 0.516,
-   "category": "international",
-   "terms_left": [
-    "climatique",
-    "inondations",
-    "raison"
-   ],
-   "terms_right": [
-    "pluies",
-    "morts",
-    "diluviennes"
    ]
   }
  ]
