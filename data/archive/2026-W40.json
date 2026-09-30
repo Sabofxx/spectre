@@ -1,6 +1,6 @@
 {
  "week": "2026-W40",
- "generated_at": "2026-09-30T02:57:19+00:00",
+ "generated_at": "2026-09-30T09:10:34+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,17 +51,17 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.183,
+   "divergence": 0.178,
    "category": "société",
    "terms_left": [
     "direct",
     "direct visite",
-    "eglise"
+    "enjeux"
    ],
    "terms_right": [
     "lourdes",
     "messe",
-    "journée"
+    "pape léon"
    ]
   },
   {
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.1,
    "blindspot_for": null,
-   "divergence": 0.403,
+   "divergence": 0.402,
    "category": "société",
    "terms_left": [
     "mobilisation",
@@ -95,9 +95,9 @@
    ]
   },
   {
-   "title": "Visite du pape en France : Léon XIV célèbre à 11h une messe à la prairie du sanctuaire de Lourdes",
+   "title": "Visite de Léon XIV en France : un message d'espoir pour les jeunes générations",
    "url": "https://www.nicematin.com/societe/religion/5-des-francais-a-la-messe-les-dimanches-chute-vertigineuse-des-mariages-religieux-avant-la-visite-du-pape-une-eglise-affaiblie-malgre-la-hausse-des-baptemes-10727358",
-   "n_members": 215,
+   "n_members": 216,
    "n_sources": 33,
    "counts": {
     "left": 6,
@@ -111,23 +111,23 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.311,
+   "divergence": 0.303,
    "category": "société",
    "terms_left": [
+    "concorde",
     "enseignement",
-    "enseignement catholique",
-    "xiv célèbre"
+    "enseignement catholique"
    ],
    "terms_right": [
     "fidèles",
     "lourdes",
-    "qu"
+    "personnes"
    ]
   },
   {
    "title": "Enquête de « Mediapart » : Jordan Bardella nie en bloc les propos antisémites et évoque « les prémices d’une guerre totale » contre le RN",
    "url": "https://www.mediapart.fr/journal/politique/280926/les-banques-sont-toutes-detenues-par-des-juifs-jordan-bardella-face-ses-ecrits-antisemites",
-   "n_members": 148,
+   "n_members": 177,
    "n_sources": 33,
    "counts": {
     "left": 9,
@@ -141,12 +141,12 @@
    },
    "blindspot_score": 0.053,
    "blindspot_for": null,
-   "divergence": 0.219,
+   "divergence": 0.218,
    "category": "politique",
    "terms_left": [
     "parti",
-    "extrême droite",
-    "droite"
+    "extrême",
+    "extrême droite"
    ],
    "terms_right": [
     "article",
@@ -171,17 +171,17 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.433,
+   "divergence": 0.436,
    "category": "société",
    "terms_left": [
     "eglise",
-    "systémique",
-    "caractère"
+    "caractère",
+    "systémique"
    ],
    "terms_right": [
     "face",
-    "écoute",
-    "action"
+    "lourdes",
+    "écoute"
    ]
   },
   {
@@ -215,6 +215,36 @@
    ]
   },
   {
+   "title": "Blocage des lycées: \"On est là pour protéger les élèves face aux violences policières\", dénonce une professeure qui soutient le mouvement à Saint-Denis",
+   "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
+   "n_members": 172,
+   "n_sources": 28,
+   "counts": {
+    "left": 7,
+    "centre": 11,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 10,
+    "opinion": 6
+   },
+   "blindspot_score": 0.176,
+   "blindspot_for": null,
+   "divergence": 0.388,
+   "category": "société",
+   "terms_left": [
+    "répression",
+    "mobilisation",
+    "mobilisés"
+   ],
+   "terms_right": [
+    "forces",
+    "ordre",
+    "forces ordre"
+   ]
+  },
+  {
    "title": "12 nouveaux élus pour le RN, la droite conserve sa majorité, le PS se maintient… Ce qu’il faut retenir des sénatoriales 2026",
    "url": "https://www.publicsenat.fr/actualites/institutions/elections-senatoriales-qui-sont-les-grands-electeurs",
    "n_members": 123,
@@ -231,17 +261,47 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.428,
+   "divergence": 0.433,
    "category": "politique",
    "terms_left": [
-    "groupe",
     "majorité",
+    "groupe",
     "droite"
    ],
    "terms_right": [
-    "élections sénatoriales",
     "palais",
-    "luxembourg"
+    "luxembourg",
+    "élections sénatoriales"
+   ]
+  },
+  {
+   "title": "«Donald Trump a demandé à Xi Jinping s'il voulait acheter des armes» : la proposition surprenante du président américain à la Chine",
+   "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/09/21/le-president-xi-jinping-en-visite-d-etat-aux-etats-unis-cette-semaine",
+   "n_members": 89,
+   "n_sources": 28,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.359,
+   "category": "international",
+   "terms_left": [
+    "trump xi",
+    "visite xi",
+    "jinping washington"
+   ],
+   "terms_right": [
+    "président",
+    "armes",
+    "états-unis"
    ]
   },
   {
@@ -261,7 +321,7 @@
    },
    "blindspot_score": -0.143,
    "blindspot_for": null,
-   "divergence": 0.676,
+   "divergence": 0.673,
    "category": "environnement",
    "terms_left": [
     "climat",
@@ -271,43 +331,13 @@
    "terms_right": [
     "année",
     "incendies",
-    "record"
-   ]
-  },
-  {
-   "title": "«Donald Trump a demandé à Xi Jinping s'il voulait acheter des armes» : la proposition surprenante du président américain à la Chine",
-   "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/09/21/le-president-xi-jinping-en-visite-d-etat-aux-etats-unis-cette-semaine",
-   "n_members": 88,
-   "n_sources": 28,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 8,
-    "opinion": 4
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.358,
-   "category": "international",
-   "terms_left": [
-    "trump xi",
-    "visite xi",
-    "jinping washington"
-   ],
-   "terms_right": [
-    "président",
-    "armes",
-    "états-unis"
+    "france"
    ]
   },
   {
    "title": "Léon XIV à Metz : ce qu’il faut retenir du dernier jour de la visite du pape en France",
    "url": "https://www.liberation.fr/international/europe/le-pape-leon-xiv-en-france-lappel-a-laide-du-nepal-face-au-rechauffement-climatique-premiere-de-zizou-en-equipe-de-france-lactu-de-ce-vendredi-25-septembre-au-matin-20260925_ZK2PKQVOJRHFXDY67THC3SRK4I/",
-   "n_members": 59,
+   "n_members": 61,
    "n_sources": 28,
    "counts": {
     "left": 4,
@@ -321,47 +351,17 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.792,
+   "divergence": 0.794,
    "category": "international",
    "terms_left": [
     "week-end",
     "actualité",
-    "qu"
+    "pape france"
    ],
    "terms_right": [
     "macron",
     "léon xiv",
     "xiv"
-   ]
-  },
-  {
-   "title": "Blocage des lycées: \"On est là pour protéger les élèves face aux violences policières\", dénonce une professeure qui soutient le mouvement à Saint-Denis",
-   "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 153,
-   "n_sources": 27,
-   "counts": {
-    "left": 7,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 10,
-    "opinion": 5
-   },
-   "blindspot_score": 0.125,
-   "blindspot_for": null,
-   "divergence": 0.397,
-   "category": "société",
-   "terms_left": [
-    "répression",
-    "mobilisés",
-    "ile-de-france"
-   ],
-   "terms_right": [
-    "forces",
-    "ordre",
-    "forces ordre"
    ]
   },
   {
@@ -381,17 +381,47 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.376,
+   "divergence": 0.389,
    "category": "international",
    "terms_left": [
     "cisjordanie",
     "reconnaît",
-    "offre"
+    "réouverture"
    ],
    "terms_right": [
-    "téhéran",
+    "trump",
     "rouvrir",
     "plan"
+   ]
+  },
+  {
+   "title": "Présidentielle au Brésil: pour sa dernière bataille, Lula affronte le fils Bolsonaro",
+   "url": "https://information.tv5monde.com/international/presidentielle-au-bresil-flavio-bolsonaro-surfe-sur-le-scandale-2838501",
+   "n_members": 66,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 5,
+    "opinion": 6
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.64,
+   "category": "politique",
+   "terms_left": [
+    "brésil lula",
+    "parti",
+    "ia"
+   ],
+   "terms_right": [
+    "macron",
+    "emmanuel",
+    "emmanuel macron"
    ]
   },
   {
@@ -419,15 +449,15 @@
     "procès appel"
    ],
    "terms_right": [
-    "emprisonnement sursis",
     "ans emprisonnement",
+    "emprisonnement sursis",
     "ans inéligibilité"
    ]
   },
   {
    "title": "«On manque de tout»: les pompiers en grève campent au pied de la tour Eiffel",
    "url": "https://basta.media/ce-que-veulent-les-pompiers-manifestation-nationale-greve-quelles-revendications",
-   "n_members": 53,
+   "n_members": 55,
    "n_sources": 26,
    "counts": {
     "left": 7,
@@ -441,12 +471,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.521,
+   "divergence": 0.518,
    "category": "société",
    "terms_left": [
     "face",
     "bout",
-    "système"
+    "secours"
    ],
    "terms_right": [
     "paris",
@@ -457,7 +487,7 @@
   {
    "title": "Budget 2027 : le gouvernement veut ponctionner 800 millions d’euros aux concessionnaires d’autoroutes et d’aéroports",
    "url": "https://www.lejdd.fr/Societe/exclusif-subventions-aux-associations-60-milliards-dargent-public-et-beaucoup-dopacite-183921",
-   "n_members": 66,
+   "n_members": 69,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -471,47 +501,17 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.677,
+   "divergence": 0.664,
    "category": "économie",
    "terms_left": [
-    "contribution",
+    "budgétaire",
     "pacte",
-    "lecornu"
+    "ministre"
    ],
    "terms_right": [
     "autoroutes",
-    "aéroports",
-    "gouvernement"
-   ]
-  },
-  {
-   "title": "Présidentielle au Brésil: pour sa dernière bataille, Lula affronte le fils Bolsonaro",
-   "url": "https://information.tv5monde.com/international/presidentielle-au-bresil-flavio-bolsonaro-surfe-sur-le-scandale-2838501",
-   "n_members": 64,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 5,
-    "opinion": 6
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.647,
-   "category": "politique",
-   "terms_left": [
-    "lula",
-    "brésil lula",
-    "parti"
-   ],
-   "terms_right": [
-    "macron",
-    "emmanuel",
-    "emmanuel macron"
+    "gouvernement",
+    "aéroports"
    ]
   },
   {
@@ -537,39 +537,9 @@
    "terms_right": []
   },
   {
-   "title": "Football: l'Irlande confirme qu'elle affrontera Israël, le gardien de but maintient son boycott",
-   "url": "https://www.humanite.fr/monde/new-york/macron-vante-un-dialogue-constructif-avec-trump-lonu-se-penche-sur-lia-el-nino-approche-a-grands-pas-les-actualites-internationales-a-ne-pas-manquer",
-   "n_members": 70,
-   "n_sources": 24,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": -0.091,
-   "blindspot_for": null,
-   "divergence": 0.742,
-   "category": "international",
-   "terms_left": [
-    "onu",
-    "trump",
-    "ia"
-   ],
-   "terms_right": [
-    "new york",
-    "york",
-    "new"
-   ]
-  },
-  {
-   "title": "Préparation d'un acte terroriste, cinq hommes arrêtés... Ce que l'on sait sur l'\"incident majeur\" près d'une base militaire utilisée par l'armée américaine au Royaume-Uni",
+   "title": "Cinq suspect arrêtés, l'antiterrorisme saisi : ce que l'on sait de \"l'incident majeur\" près d'une base militaire au Royaume-Uni",
    "url": "https://www.bfmtv.com/international/europe/angleterre/un-incident-majeur-pres-d-une-base-utilisee-par-l-us-air-force-en-angleterre-des-arrestations-liees-a-des-explosifs_AD-202609270133.html",
-   "n_members": 70,
+   "n_members": 71,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -593,7 +563,37 @@
    "terms_right": [
     "utilisée armée",
     "hommes soupçonnés",
-    "armée"
+    "soupçonnés"
+   ]
+  },
+  {
+   "title": "Football: l'Irlande confirme qu'elle affrontera Israël, le gardien de but maintient son boycott",
+   "url": "https://www.humanite.fr/monde/new-york/macron-vante-un-dialogue-constructif-avec-trump-lonu-se-penche-sur-lia-el-nino-approche-a-grands-pas-les-actualites-internationales-a-ne-pas-manquer",
+   "n_members": 70,
+   "n_sources": 24,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 5,
+    "opinion": 3
+   },
+   "blindspot_score": -0.091,
+   "blindspot_for": null,
+   "divergence": 0.741,
+   "category": "international",
+   "terms_left": [
+    "onu",
+    "trump",
+    "ia"
+   ],
+   "terms_right": [
+    "new york",
+    "york",
+    "new"
    ]
   },
   {
@@ -613,7 +613,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.812,
+   "divergence": 0.814,
    "category": "politique",
    "terms_left": [
     "rn",
@@ -657,6 +657,36 @@
    ]
   },
   {
+   "title": "Violences sexuelles: comment le questionnaire distribué aux élèves va fonctionner",
+   "url": "https://www.sudouest.fr/societe/actes-sexuels-en-ligne-les-deputes-veulent-etendre-le-delit-de-proxenetisme-aux-actes-de-prostitution-sur-les-plateformes-onlyfans-ou-mym-30732098.php",
+   "n_members": 54,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.414,
+   "category": "société",
+   "terms_left": [
+    "face",
+    "paris",
+    "violences sexuelles"
+   ],
+   "terms_right": [
+    "loi",
+    "article",
+    "lunettes connectées"
+   ]
+  },
+  {
    "title": "Ligue des nations : Olise permet aux Bleus d'enchaîner face à la Belgique",
    "url": "https://www.leparisien.fr/sports/football/equipe-de-france/equipe-de-france-lepaul-truffert-jacquet-quels-pourraient-etre-les-nouveaux-visages-de-la-premiere-liste-de-zidane-17-09-2026-YEWBEM6EGZDDJB2XXLMNIFAO2M.php",
    "n_members": 166,
@@ -673,7 +703,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.365,
+   "divergence": 0.364,
    "category": "sport",
    "terms_left": [
     "sélectionneur",
@@ -703,23 +733,23 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.673,
+   "divergence": 0.664,
    "category": "international",
    "terms_left": [
-    "éthiopie",
-    "ville",
+    "nord-est etats-unis",
+    "etats-unis",
     "guerre"
    ],
    "terms_right": [
-    "new",
     "états-unis",
-    "nord-est états-unis"
+    "nord-est états-unis",
+    "new"
    ]
   },
   {
-   "title": "Ukraine : l'Académie des sciences en plein centre de Kiev frappée par un drone, une femme t*ée",
+   "title": "Ukraine : nouveaux bombardements meurtriers russes sur Kiev",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 152,
+   "n_members": 158,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -733,12 +763,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.458,
+   "divergence": 0.451,
    "category": "international",
    "terms_left": [
     "russie",
     "centre",
-    "direct"
+    "zelensky"
    ],
    "terms_right": [
     "sciences",
@@ -747,9 +777,9 @@
    ]
   },
   {
-   "title": "Crise du logement en Espagne : Maricarmen Abascal, expulsée à 87 ans, finalement autorisée à rentrer chez elle",
+   "title": "Crise du logement en Espagne : les mesures de Sánchez jugées insuffisantes",
    "url": "https://www.tf1info.fr/international/videos/video-emoi-en-espagne-ils-refusent-d-expulser-une-femme-de-87-ans-56710-2465927.html",
-   "n_members": 82,
+   "n_members": 84,
    "n_sources": 22,
    "counts": {
     "left": 6,
@@ -763,12 +793,12 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.386,
+   "divergence": 0.384,
    "category": "international",
    "terms_left": [
     "logement espagne",
-    "maricarmen",
-    "expulsions"
+    "expulsions",
+    "maricarmen"
    ],
    "terms_right": [
     "retraitée",
@@ -793,17 +823,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.36,
+   "divergence": 0.361,
    "category": "international",
    "terms_left": [
-    "envoi",
     "soldats",
-    "annoncé"
+    "annoncé",
+    "envoi soldats"
    ],
    "terms_right": [
     "protéger",
     "militaires arabie",
-    "moyens militaires"
+    "prix"
    ]
   },
   {
@@ -823,16 +853,16 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.575,
+   "divergence": 0.6,
    "category": "société",
    "terms_left": [
-    "clos",
-    "huis clos",
-    "huis"
+    "paris",
+    "sexuelles",
+    "violences sexuelles"
    ],
    "terms_right": [
-    "pape léon",
     "pape",
+    "pape léon",
     "lourdes"
    ]
   },
@@ -853,23 +883,23 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.737,
+   "divergence": 0.717,
    "category": "économie",
    "terms_left": [
     "prix carburant",
     "carburant",
-    "monde"
+    "face flambée"
    ],
    "terms_right": [
     "euros",
-    "prix carburants",
-    "français"
+    "hausse",
+    "ministre"
    ]
   },
   {
    "title": "Que voir au cinéma cette semaine ? Notre sélection critique du mercredi 30 septembre",
    "url": "https://www.tf1info.fr/culture/videos/video-garance-l-ivresse-des-sentiments-94474-2465118.html",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 22,
    "counts": {
     "left": 10,
@@ -883,7 +913,7 @@
    },
    "blindspot_score": -0.333,
    "blindspot_for": null,
-   "divergence": 0.529,
+   "divergence": 0.537,
    "category": "culture",
    "terms_left": [
     "semaine",
@@ -913,7 +943,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.853,
+   "divergence": 0.854,
    "category": "société",
    "terms_left": [
     "nouveau",
@@ -927,9 +957,39 @@
    ]
   },
   {
-   "title": "Violences sexuelles et sexistes : à quoi va ressembler le questionnaire qui sera distribué aux enfants en classe ?",
-   "url": "https://www.sudouest.fr/societe/actes-sexuels-en-ligne-les-deputes-veulent-etendre-le-delit-de-proxenetisme-aux-actes-de-prostitution-sur-les-plateformes-onlyfans-ou-mym-30732098.php",
-   "n_members": 50,
+   "title": "Intelligence artificielle : Donald Trump annonce que les patrons de la tech ont signé un «accord contraignant sur le plan moral»",
+   "url": "https://www.bfmtv.com/economie/une-cargaison-de-pieces-de-l-avion-americain-f-35-a-quitte-l-australie-avant-d-etre-mysterieusement-detournee-vers-hong-kong-mysterieusement-a-hong-kong-les-etats-unis-craignent-que-pekin-ait-pu-acceder-aux-technologies-sensibles_AD-202609210506.html",
+   "n_members": 55,
+   "n_sources": 22,
+   "counts": {
+    "left": 5,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 1
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.689,
+   "category": "international",
+   "terms_left": [
+    "indiqué",
+    "secteur",
+    "remplacer"
+   ],
+   "terms_right": [
+    "macron",
+    "emmanuel",
+    "emmanuel macron"
+   ]
+  },
+  {
+   "title": "La justice américaine rouvre une enquête sur un viol collectif présumé impliquant sept membres d’une fraternité d’une prestigieuse université",
+   "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-extremement-positif-le-chef-de-l-otan-reagit-a-l-accord-sur-le-groenland-avec-les-etats-unis_VN-202609230253.html",
+   "n_members": 48,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -937,23 +997,53 @@
     "right": 5
    },
    "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
+    "factuel": 14,
+    "mixte": 6,
     "opinion": 2
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.447,
-   "category": "société",
+   "divergence": 0.86,
+   "category": "international",
    "terms_left": [
-    "violences",
-    "sexuelles",
-    "sexistes"
+    "etats-unis",
+    "suprême",
+    "cour suprême"
    ],
    "terms_right": [
-    "connectées",
-    "lunettes connectées",
-    "lunettes"
+    "ans",
+    "qu",
+    "université"
+   ]
+  },
+  {
+   "title": "En France, la dette publique s'envole à 119% du PIB à quelques mois de l'élection présidentielle",
+   "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/sans-cure-d-austerite-et-meme-sans-budget-depuis-2023-comment-l-espagne-a-reussi-un-desendettement-spectaculaire-a-99-9-du-pib-quand-la-france-s-enfonce_AV-202609260041.html",
+   "n_members": 43,
+   "n_sources": 22,
+   "counts": {
+    "left": 3,
+    "centre": 9,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.538,
+   "blindspot_for": null,
+   "divergence": 0.453,
+   "category": "économie",
+   "terms_left": [
+    "économiste",
+    "envole",
+    "française envole"
+   ],
+   "terms_right": [
+    "trimestre",
+    "deuxième",
+    "deuxième trimestre"
    ]
   },
   {
@@ -973,16 +1063,16 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.8,
+   "divergence": 0.796,
    "category": "international",
    "terms_left": [
     "fedorova",
-    "xenia",
-    "xenia fedorova"
+    "xenia fedorova",
+    "xenia"
    ],
    "terms_right": [
-    "face",
     "rn",
+    "face",
     "russes"
    ]
   },
@@ -1003,53 +1093,23 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.461,
+   "divergence": 0.422,
    "category": "international",
    "terms_left": [
     "femmes",
     "monde",
-    "fusillades masse"
+    "pays"
    ],
    "terms_right": [
     "fusillade",
-    "police",
-    "nuit"
-   ]
-  },
-  {
-   "title": "Intelligence artificielle : Donald Trump annonce que les patrons de la tech ont signé un «accord contraignant sur le plan moral»",
-   "url": "https://www.bfmtv.com/economie/une-cargaison-de-pieces-de-l-avion-americain-f-35-a-quitte-l-australie-avant-d-etre-mysterieusement-detournee-vers-hong-kong-mysterieusement-a-hong-kong-les-etats-unis-craignent-que-pekin-ait-pu-acceder-aux-technologies-sensibles_AD-202609210506.html",
-   "n_members": 47,
-   "n_sources": 21,
-   "counts": {
-    "left": 5,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
-    "opinion": 1
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.742,
-   "category": "sciences-tech",
-   "terms_left": [
-    "nouvelle",
-    "indiqué",
-    "super"
-   ],
-   "terms_right": [
-    "macron",
-    "emmanuel",
-    "emmanuel macron"
+    "nuit",
+    "police"
    ]
   },
   {
    "title": "Présidentielle : Marine Le Pen creuse l'écart au second tour, selon un sondage",
    "url": "https://www.valeursactuelles.com/clubvaleurs/politique/il-est-foutu-qui-est-gabriel-amard-gendre-de-jean-luc-melenchon-et-faux-espoir-de-lfi-aux-senatoriales",
-   "n_members": 45,
+   "n_members": 46,
    "n_sources": 21,
    "counts": {
     "left": 4,
@@ -1063,12 +1123,12 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.704,
+   "divergence": 0.703,
    "category": "politique",
    "terms_left": [
     "ans",
-    "sénateur lfi",
-    "amard"
+    "amard",
+    "gabriel amard"
    ],
    "terms_right": [
     "france",
@@ -1077,107 +1137,63 @@
    ]
   },
   {
-   "title": "La dette publique augmente encore et atteint 119% du PIB au deuxième trimestre 2026",
-   "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/sans-cure-d-austerite-et-meme-sans-budget-depuis-2023-comment-l-espagne-a-reussi-un-desendettement-spectaculaire-a-99-9-du-pib-quand-la-france-s-enfonce_AV-202609260041.html",
-   "n_members": 33,
+   "title": "Flambée du gaz, aides carburant, franchises médicales… Ce qui change pour votre quotidien au 1er octobre",
+   "url": "https://www.valeursactuelles.com/economie/donald-trump-menace-de-stopper-ses-exportations-de-diesel-la-france-sinquiete",
+   "n_members": 44,
    "n_sources": 21,
    "counts": {
-    "left": 3,
-    "centre": 8,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.538,
-   "blindspot_for": null,
-   "divergence": 0.444,
-   "category": "économie",
-   "terms_left": [
-    "économiste",
-    "envole",
-    "française envole"
-   ],
-   "terms_right": [
-    "trimestre",
-    "deuxième",
-    "pib"
-   ]
-  },
-  {
-   "title": "Gironde : trois hommes, dont deux mineurs, mis en examen après le viol d’une adolescente de 16 ans",
-   "url": "https://www.leparisien.fr/oise-60/il-nous-manque-il-manque-a-son-petit-frere-quest-il-arrive-a-lukas-18-ans-mort-apres-une-soiree-dintegration-alcoolisee-22-09-2026-TNKSCI24CZGVVHNRXQBN22YB34.php",
-   "n_members": 61,
-   "n_sources": 20,
-   "counts": {
-    "left": 4,
-    "centre": 7,
+    "left": 2,
+    "centre": 10,
     "right": 9
    },
    "style_counts": {
-    "factuel": 9,
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.636,
+   "blindspot_for": "gauche",
+   "divergence": 0.879,
+   "category": "économie",
+   "terms_left": [
+    "américain",
+    "maires",
+    "trump"
+   ],
+   "terms_right": [
+    "carburants",
+    "qu",
+    "prix"
+   ]
+  },
+  {
+   "title": "Groupe hindou à la tour Eiffel : le directeur annonce son départ après la mise à l’écart de personnel féminin",
+   "url": "https://www.leprogres.fr/societe/2026/09/29/personnel-feminin-evince-de-la-tour-eiffel-le-directeur-annonce-son-depart",
+   "n_members": 21,
+   "n_sources": 21,
+   "counts": {
+    "left": 4,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 10,
     "mixte": 7,
     "opinion": 4
    },
-   "blindspot_score": 0.385,
+   "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.49,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "En Suède, un désaccord à gauche freine la formation d’un gouvernement",
-   "url": "https://www.liberation.fr/international/europe/issue-de-limmigration-membre-de-la-gauche-radicale-favorite-des-sondages-elif-eralp-a-le-vent-en-poupe-pour-la-mairie-de-berlin-20260919_HOVSSTDVOZF5VHDV5WS7BE7MOI/",
-   "n_members": 42,
-   "n_sources": 20,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 5,
-    "opinion": 4
-   },
-   "blindspot_score": 0.111,
-   "blindspot_for": null,
-   "divergence": 0.452,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "États-Unis : enquête rouverte dans une affaire de viol collectif présumé à l'université de Cornell",
-   "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-extremement-positif-le-chef-de-l-otan-reagit-a-l-accord-sur-le-groenland-avec-les-etats-unis_VN-202609230253.html",
-   "n_members": 42,
-   "n_sources": 20,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 5,
-    "opinion": 1
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.878,
-   "category": "international",
+   "divergence": 0.365,
+   "category": "société",
    "terms_left": [
-    "etats-unis",
-    "pandas",
-    "ping"
+    "directeur tour",
+    "salariées",
+    "départ fin"
    ],
    "terms_right": [
-    "états-unis",
-    "ans",
-    "enquête"
+    "exploitation tour",
+    "société exploitation",
+    "exploitation"
    ]
   }
  ]
