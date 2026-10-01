@@ -1,6 +1,6 @@
 {
  "week": "2026-W40",
- "generated_at": "2026-10-01T13:39:35+00:00",
+ "generated_at": "2026-10-01T19:10:10+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -25,8 +25,8 @@
    "category": "culture",
    "terms_left": [
     "littérature",
-    "intelligence",
-    "affaire"
+    "affaire",
+    "intelligence"
    ],
    "terms_right": [
     "polémique",
@@ -55,19 +55,19 @@
    "category": "société",
    "terms_left": [
     "direct",
-    "enjeux",
-    "enjeux visite"
+    "visite france",
+    "enjeux"
    ],
    "terms_right": [
     "lourdes",
-    "macron",
+    "xiv france",
     "messe"
    ]
   },
   {
-   "title": "Mediapart attribue à Jordan Bardella des écrits antisémites, le président du RN dénonce des \"faux grossiers\"",
+   "title": "Enquête de « Mediapart » : Jordan Bardella nie en bloc les propos antisémites et évoque « les prémices d’une guerre totale » contre le RN",
    "url": "https://www.mediapart.fr/journal/politique/280926/les-banques-sont-toutes-detenues-par-des-juifs-jordan-bardella-face-ses-ecrits-antisemites",
-   "n_members": 218,
+   "n_members": 250,
    "n_sources": 35,
    "counts": {
     "left": 9,
@@ -81,17 +81,77 @@
    },
    "blindspot_score": 0.053,
    "blindspot_for": null,
-   "divergence": 0.191,
+   "divergence": 0.168,
    "category": "politique",
    "terms_left": [
-    "parti",
     "révélations",
+    "parti",
     "extrême"
    ],
    "terms_right": [
     "article",
     "accusations",
-    "article mediapart"
+    "campagne"
+   ]
+  },
+  {
+   "title": "DIRECT - Blocages des lycées en France: Sébastien Lecornu demande à ses ministres d'annuler leurs déplacements",
+   "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
+   "n_members": 370,
+   "n_sources": 34,
+   "counts": {
+    "left": 9,
+    "centre": 15,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 12,
+    "opinion": 6
+   },
+   "blindspot_score": 0.053,
+   "blindspot_for": null,
+   "divergence": 0.344,
+   "category": "société",
+   "terms_left": [
+    "répression",
+    "policières",
+    "violences policières"
+   ],
+   "terms_right": [
+    "ordre",
+    "forces",
+    "forces ordre"
+   ]
+  },
+  {
+   "title": "Budget 2027 : voici ce que devrait contenir le projet qui sera présenté jeudi en Conseil des ministres",
+   "url": "https://www.lejdd.fr/Societe/exclusif-subventions-aux-associations-60-milliards-dargent-public-et-beaucoup-dopacite-183921",
+   "n_members": 168,
+   "n_sources": 34,
+   "counts": {
+    "left": 8,
+    "centre": 14,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 12,
+    "opinion": 4
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.349,
+   "category": "économie",
+   "terms_left": [
+    "gel",
+    "budgétaire",
+    "postes"
+   ],
+   "terms_right": [
+    "euros",
+    "milliards",
+    "autoroutes"
    ]
   },
   {
@@ -111,7 +171,7 @@
    },
    "blindspot_score": 0.1,
    "blindspot_for": null,
-   "divergence": 0.406,
+   "divergence": 0.457,
    "category": "société",
    "terms_left": [
     "mobilisation",
@@ -120,38 +180,8 @@
    ],
    "terms_right": [
     "budget",
-    "écoles",
-    "présentation"
-   ]
-  },
-  {
-   "title": "Blocage des lycées: \"On est là pour protéger les élèves face aux violences policières\", dénonce une professeure qui soutient le mouvement à Saint-Denis",
-   "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 306,
-   "n_sources": 33,
-   "counts": {
-    "left": 9,
-    "centre": 14,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 12,
-    "opinion": 6
-   },
-   "blindspot_score": 0.053,
-   "blindspot_for": null,
-   "divergence": 0.334,
-   "category": "société",
-   "terms_left": [
-    "répression",
-    "policières",
-    "violences policières"
-   ],
-   "terms_right": [
-    "ordre",
-    "forces",
-    "forces ordre"
+    "grève",
+    "jours"
    ]
   },
   {
@@ -171,7 +201,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.297,
+   "divergence": 0.295,
    "category": "société",
    "terms_left": [
     "enseignement",
@@ -182,36 +212,6 @@
     "fidèles",
     "léon",
     "xiv france"
-   ]
-  },
-  {
-   "title": "Budget 2027 : voici ce que devrait contenir le projet qui sera présenté jeudi en Conseil des ministres",
-   "url": "https://www.lejdd.fr/Societe/exclusif-subventions-aux-associations-60-milliards-dargent-public-et-beaucoup-dopacite-183921",
-   "n_members": 136,
-   "n_sources": 33,
-   "counts": {
-    "left": 7,
-    "centre": 14,
-    "right": 12
-   },
-   "style_counts": {
-    "factuel": 18,
-    "mixte": 11,
-    "opinion": 4
-   },
-   "blindspot_score": 0.263,
-   "blindspot_for": null,
-   "divergence": 0.417,
-   "category": "économie",
-   "terms_left": [
-    "budgétaire",
-    "copie",
-    "gel"
-   ],
-   "terms_right": [
-    "euros",
-    "milliards euros",
-    "autoroutes"
    ]
   },
   {
@@ -231,11 +231,11 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.454,
+   "divergence": 0.457,
    "category": "société",
    "terms_left": [
     "eglise",
-    "violences",
+    "violences sexuelles",
     "sexuelles"
    ],
    "terms_right": [
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.388,
+   "divergence": 0.387,
    "category": "politique",
    "terms_left": [
     "sénatoriales",
@@ -300,8 +300,38 @@
    ],
    "terms_right": [
     "élections sénatoriales",
-    "élections",
-    "groupe rn"
+    "groupe rn",
+    "élections"
+   ]
+  },
+  {
+   "title": "EN DIRECT - Avion de Flydubai vers Tel-Aviv dérouté : Benyamin Netanyahou accuse l’un des pilotes d’avoir voulu provoquer un crash",
+   "url": "https://information.tv5monde.com/international/un-vol-dubai-tel-aviv-atterrit-en-urgence-en-arabie-saoudite-apres-une-violente-altercation-entre-pilotes-2839623",
+   "n_members": 95,
+   "n_sources": 28,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.317,
+   "category": "international",
+   "terms_left": [
+    "attaque",
+    "unis",
+    "arabes"
+   ],
+   "terms_right": [
+    "altercation pilotes",
+    "cockpit",
+    "dubaï"
    ]
   },
   {
@@ -321,17 +351,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.351,
+   "divergence": 0.357,
    "category": "international",
    "terms_left": [
-    "trump xi",
     "visite xi",
-    "jinping washington"
+    "trump xi",
+    "etats-unis"
    ],
    "terms_right": [
     "états-unis",
     "président",
-    "pays"
+    "état"
    ]
   },
   {
@@ -365,9 +395,9 @@
    ]
   },
   {
-   "title": "EN DIRECT - Avion de Flydubai vers Tel-Aviv dérouté : Benyamin Netanyahou accuse l’un des pilotes d’avoir voulu provoquer un crash",
-   "url": "https://information.tv5monde.com/international/un-vol-dubai-tel-aviv-atterrit-en-urgence-en-arabie-saoudite-apres-une-violente-altercation-entre-pilotes-2839623",
-   "n_members": 85,
+   "title": "Violences sexuelles : une loi « intégrale » pour remettre la victime au centre",
+   "url": "https://www.sudouest.fr/societe/actes-sexuels-en-ligne-les-deputes-veulent-etendre-le-delit-de-proxenetisme-aux-actes-de-prostitution-sur-les-plateformes-onlyfans-ou-mym-30732098.php",
+   "n_members": 73,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -375,23 +405,23 @@
     "right": 8
    },
    "style_counts": {
-    "factuel": 16,
-    "mixte": 8,
+    "factuel": 15,
+    "mixte": 9,
     "opinion": 4
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.323,
-   "category": "international",
+   "divergence": 0.399,
+   "category": "société",
    "terms_left": [
-    "attaque",
-    "poignardé",
-    "poignardé pilote"
+    "paris",
+    "femmes",
+    "face"
    ],
    "terms_right": [
-    "destination",
-    "destination tel-aviv",
-    "cockpit"
+    "intégrale violences",
+    "ans",
+    "article"
    ]
   },
   {
@@ -411,7 +441,7 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.758,
+   "divergence": 0.744,
    "category": "international",
    "terms_left": [
     "week-end",
@@ -441,7 +471,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.364,
+   "divergence": 0.363,
    "category": "international",
    "terms_left": [
     "conditions",
@@ -455,39 +485,9 @@
    ]
   },
   {
-   "title": "Violences sexuelles : une loi « intégrale » pour remettre la victime au centre",
-   "url": "https://www.sudouest.fr/societe/actes-sexuels-en-ligne-les-deputes-veulent-etendre-le-delit-de-proxenetisme-aux-actes-de-prostitution-sur-les-plateformes-onlyfans-ou-mym-30732098.php",
-   "n_members": 70,
-   "n_sources": 27,
-   "counts": {
-    "left": 6,
-    "centre": 14,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.406,
-   "category": "société",
-   "terms_left": [
-    "paris",
-    "face",
-    "violences sexuelles"
-   ],
-   "terms_right": [
-    "intégrale violences",
-    "article",
-    "ans"
-   ]
-  },
-  {
    "title": "Intelligence artificielle : Donald Trump annonce que les patrons de la tech ont signé un «accord contraignant sur le plan moral»",
    "url": "https://www.bfmtv.com/economie/une-cargaison-de-pieces-de-l-avion-americain-f-35-a-quitte-l-australie-avant-d-etre-mysterieusement-detournee-vers-hong-kong-mysterieusement-a-hong-kong-les-etats-unis-craignent-que-pekin-ait-pu-acceder-aux-technologies-sensibles_AD-202609210506.html",
-   "n_members": 66,
+   "n_members": 67,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.645,
+   "divergence": 0.644,
    "category": "international",
    "terms_left": [
     "nouvelle",
@@ -517,7 +517,7 @@
   {
    "title": "Flambée du gaz, aides carburant, franchises médicales… Ce qui change pour votre quotidien au 1er octobre",
    "url": "https://www.valeursactuelles.com/economie/donald-trump-menace-de-stopper-ses-exportations-de-diesel-la-france-sinquiete",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 27,
    "counts": {
     "left": 4,
@@ -531,17 +531,17 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.736,
+   "divergence": 0.72,
    "category": "économie",
    "terms_left": [
     "augmentation",
     "hausse",
-    "américain"
+    "baisse"
    ],
    "terms_right": [
     "carburants",
-    "euros",
-    "qu"
+    "qu",
+    "er"
    ]
   },
   {
@@ -561,12 +561,12 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.636,
+   "divergence": 0.639,
    "category": "politique",
    "terms_left": [
     "brésil lula",
-    "ia",
-    "brésil"
+    "brésil",
+    "ia"
    ],
    "terms_right": [
     "macron",
@@ -591,17 +591,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.515,
+   "divergence": 0.511,
    "category": "société",
    "terms_left": [
+    "pompiers",
     "tour",
-    "eiffel",
-    "tour eiffel"
+    "moyens"
    ],
    "terms_right": [
     "revendications",
     "président",
-    "paris"
+    "qu"
    ]
   },
   {
@@ -621,17 +621,17 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.393,
+   "divergence": 0.368,
    "category": "société",
    "terms_left": [
-    "prison",
-    "ans prison",
-    "corruption"
+    "assistants",
+    "procès appel",
+    "prison"
    ],
    "terms_right": [
+    "emprisonnement",
     "emprisonnement sursis",
-    "ans emprisonnement",
-    "sursis"
+    "ans emprisonnement"
    ]
   },
   {
@@ -657,9 +657,39 @@
    "terms_right": []
   },
   {
-   "title": "Projet d’attaque contre la base militaire de Fairford au Royaume-Uni : enquête sur un lien avec l’Iran, selon la presse britannique",
+   "title": "Viol collectif à l’université de Cornell : on vous explique cette affaire qui scandalise les Etats-Unis",
+   "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-extremement-positif-le-chef-de-l-otan-reagit-a-l-accord-sur-le-groenland-avec-les-etats-unis_VN-202609230253.html",
+   "n_members": 60,
+   "n_sources": 25,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.723,
+   "category": "international",
+   "terms_left": [
+    "pays",
+    "cour",
+    "etats-unis"
+   ],
+   "terms_right": [
+    "ans",
+    "qu",
+    "jeune"
+   ]
+  },
+  {
+   "title": "Ce qu'il faut savoir du projet d'attaque présumé contre une base militaire en Angleterre",
    "url": "https://www.bfmtv.com/international/europe/angleterre/un-incident-majeur-pres-d-une-base-utilisee-par-l-us-air-force-en-angleterre-des-arrestations-liees-a-des-explosifs_AD-202609270133.html",
-   "n_members": 76,
+   "n_members": 78,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -673,17 +703,17 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.26,
+   "divergence": 0.258,
    "category": "international",
    "terms_left": [
     "police",
-    "britannique",
-    "ministre"
+    "police antiterroriste",
+    "antiterroriste"
    ],
    "terms_right": [
     "arrêtés",
-    "acte terroriste",
-    "acte"
+    "utilisée armée",
+    "armée"
    ]
   },
   {
@@ -717,9 +747,9 @@
    ]
   },
   {
-   "title": "Présidentielle : Marine Le Pen creuse l'écart au second tour, selon un sondage",
+   "title": "Présidentielle 2027 : Édouard Philippe devance Jean-Luc Mélenchon au premier tour, selon un sondage",
    "url": "https://www.valeursactuelles.com/clubvaleurs/politique/il-est-foutu-qui-est-gabriel-amard-gendre-de-jean-luc-melenchon-et-faux-espoir-de-lfi-aux-senatoriales",
-   "n_members": 63,
+   "n_members": 67,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -733,17 +763,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.76,
+   "divergence": 0.756,
    "category": "politique",
    "terms_left": [
     "primaire",
-    "olivier",
-    "faure"
+    "candidat",
+    "olivier"
    ],
    "terms_right": [
     "pen",
     "france",
-    "jean-luc mélenchon"
+    "marine pen"
    ]
   },
   {
@@ -798,12 +828,72 @@
    "terms_left": [
     "fois",
     "droite",
-    "groupe parlementaire"
+    "parlementaire"
    ],
    "terms_right": [
     "rn",
-    "udr",
-    "groupe sénat"
+    "jordan",
+    "jordan bardella"
+   ]
+  },
+  {
+   "title": "En France, la dette publique s'envole à 119% du PIB à quelques mois de l'élection présidentielle",
+   "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/sans-cure-d-austerite-et-meme-sans-budget-depuis-2023-comment-l-espagne-a-reussi-un-desendettement-spectaculaire-a-99-9-du-pib-quand-la-france-s-enfonce_AV-202609260041.html",
+   "n_members": 60,
+   "n_sources": 24,
+   "counts": {
+    "left": 3,
+    "centre": 10,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.571,
+   "blindspot_for": null,
+   "divergence": 0.491,
+   "category": "économie",
+   "terms_left": [
+    "économiste",
+    "envole",
+    "française envole"
+   ],
+   "terms_right": [
+    "milliards",
+    "trimestre",
+    "euros"
+   ]
+  },
+  {
+   "title": "Marseille : la justice reconnaît les rafles menées en 1943 comme un «crime contre l’humanité»",
+   "url": "https://www.franceinfo.fr/faits-divers/terrorisme/policiers-tues-a-magnanville/info-franceinfo-la-cour-de-cassation-annule-en-partie-la-condamnation-de-mohamed-lamine-aberouz-pour-l-attentat-de-magnanville-un-nouveau-proces-va-avoir-lieu_8206451.html",
+   "n_members": 59,
+   "n_sources": 24,
+   "counts": {
+    "left": 6,
+    "centre": 9,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.356,
+   "category": "société",
+   "terms_left": [
+    "rémy",
+    "daillet",
+    "rémy daillet"
+   ],
+   "terms_right": [
+    "meurtre thomas",
+    "française",
+    "jugés"
    ]
   },
   {
@@ -839,7 +929,7 @@
   {
    "title": "Le Gard et l’Hérault placés en vigilance rouge « pluie-inondation » : Météo-France alerte sur un épisode méditerranéen « exceptionnel »",
    "url": "https://www.cnews.fr/france/2026-09-21/orages-ces-deux-departements-menaces-par-les-eclairs-ce-mercredi-1922269",
-   "n_members": 99,
+   "n_members": 100,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -853,12 +943,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.316,
+   "divergence": 0.318,
    "category": "environnement",
    "terms_left": [
     "lozère ardèche",
     "exceptionnel",
-    "tandis"
+    "pluie-inondation météo-france"
    ],
    "terms_right": [
     "orages",
@@ -867,9 +957,9 @@
    ]
   },
   {
-   "title": "Le nord-est des Etats-Unis frappé par une tempête rare pour la saison",
+   "title": "Ethiopie : les combats s'intensifient entre le TPLF et l'armée fédérale au Tigré",
    "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-8-h/journal-de-8h-du-vendredi-25-septembre-2026-3083461",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -883,7 +973,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.692,
+   "divergence": 0.696,
    "category": "international",
    "terms_left": [
     "nord-est etats-unis",
@@ -892,68 +982,8 @@
    ],
    "terms_right": [
     "états-unis",
-    "mort",
-    "tempête"
-   ]
-  },
-  {
-   "title": "États-Unis: l'université Cornell dans la tourmente après l'ouverture d'une enquête pour un viol collectif",
-   "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-extremement-positif-le-chef-de-l-otan-reagit-a-l-accord-sur-le-groenland-avec-les-etats-unis_VN-202609230253.html",
-   "n_members": 57,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.857,
-   "category": "international",
-   "terms_left": [
-    "cour",
-    "suprême",
-    "cour suprême"
-   ],
-   "terms_right": [
-    "ans",
-    "qu",
-    "université"
-   ]
-  },
-  {
-   "title": "Rafles menées à Marseille en 1943 : la justice reconnaît un «crime contre l'humanité»",
-   "url": "https://www.franceinfo.fr/faits-divers/terrorisme/policiers-tues-a-magnanville/info-franceinfo-la-cour-de-cassation-annule-en-partie-la-condamnation-de-mohamed-lamine-aberouz-pour-l-attentat-de-magnanville-un-nouveau-proces-va-avoir-lieu_8206451.html",
-   "n_members": 51,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 9,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 8,
-    "opinion": 5
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.323,
-   "category": "société",
-   "terms_left": [
-    "envers",
-    "accusés renvoyés",
-    "aggravante racisme"
-   ],
-   "terms_right": [
-    "française",
-    "meurtre thomas",
-    "jugés"
+    "tempête",
+    "tempête rare"
    ]
   },
   {
@@ -973,7 +1003,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.409,
+   "divergence": 0.389,
    "category": "politique",
    "terms_left": [
     "judiciaire",
@@ -981,15 +1011,15 @@
     "requis"
    ],
    "terms_right": [
-    "ménard",
+    "maire",
     "algérien",
-    "robert ménard"
+    "ménard"
    ]
   },
   {
-   "title": "Ukraine : nouveaux bombardements meurtriers russes sur Kiev",
+   "title": "Ukraine: un pont de Kiev et l'institut de recherche nucléaire frappés par des drones russes",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 172,
+   "n_members": 175,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -1003,12 +1033,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.437,
+   "divergence": 0.435,
    "category": "international",
    "terms_left": [
     "russie",
-    "zelensky",
-    "direct"
+    "direct",
+    "volodymyr"
    ],
    "terms_right": [
     "sciences",
@@ -1017,9 +1047,9 @@
    ]
   },
   {
-   "title": "Crise du logement en Espagne : les mesures de Sánchez jugées insuffisantes",
+   "title": "Crise du logement en Espagne : Maricarmen Abascal, expulsée à 87 ans, finalement autorisée à rentrer chez elle",
    "url": "https://www.tf1info.fr/international/videos/video-emoi-en-espagne-ils-refusent-d-expulser-une-femme-de-87-ans-56710-2465927.html",
-   "n_members": 88,
+   "n_members": 89,
    "n_sources": 22,
    "counts": {
     "left": 6,
@@ -1033,7 +1063,7 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.414,
+   "divergence": 0.418,
    "category": "international",
    "terms_left": [
     "logement espagne",
@@ -1063,7 +1093,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.353,
+   "divergence": 0.352,
    "category": "international",
    "terms_left": [
     "français arabie",
@@ -1079,7 +1109,7 @@
   {
    "title": "Retraites : Édouard Philippe veut \"porter progressivement la durée de cotisation à 45 ans et l'âge de départ à 65 ans\"",
    "url": "https://www.franceinfo.fr/elections/presidentielle/dominique-de-villepin-veut-inscrire-le-principe-de-la-negociation-sociale-dans-la-loi-et-meme-la-constitution_8212154.html",
-   "n_members": 65,
+   "n_members": 66,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -1093,12 +1123,12 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.459,
+   "divergence": 0.464,
    "category": "politique",
    "terms_left": [
-    "légal départ",
     "edouard",
-    "edouard philippe"
+    "edouard philippe",
+    "légal départ"
    ],
    "terms_right": [
     "édouard philippe",
@@ -1145,7 +1175,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.716,
+   "divergence": 0.715,
    "category": "économie",
    "terms_left": [
     "prix carburant",
@@ -1156,36 +1186,6 @@
     "euros",
     "ministre",
     "france"
-   ]
-  },
-  {
-   "title": "Que voir au cinéma cette semaine ? Notre sélection critique du mercredi 30 septembre",
-   "url": "https://www.tf1info.fr/culture/videos/video-garance-l-ivresse-des-sentiments-94474-2465118.html",
-   "n_members": 61,
-   "n_sources": 22,
-   "counts": {
-    "left": 10,
-    "centre": 7,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 8,
-    "opinion": 5
-   },
-   "blindspot_score": -0.333,
-   "blindspot_for": null,
-   "divergence": 0.535,
-   "category": "culture",
-   "terms_left": [
-    "semaine",
-    "roches rouges",
-    "roches"
-   ],
-   "terms_right": [
-    "qu",
-    "brad",
-    "pitt"
    ]
   }
  ]
