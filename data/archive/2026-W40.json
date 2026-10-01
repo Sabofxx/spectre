@@ -1,6 +1,6 @@
 {
  "week": "2026-W40",
- "generated_at": "2026-10-01T19:10:10+00:00",
+ "generated_at": "2026-10-01T23:18:20+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -35,6 +35,36 @@
    ]
   },
   {
+   "title": "Enquête de « Mediapart » : Jordan Bardella nie en bloc les propos antisémites et évoque « les prémices d’une guerre totale » contre le RN",
+   "url": "https://www.mediapart.fr/journal/politique/280926/les-banques-sont-toutes-detenues-par-des-juifs-jordan-bardella-face-ses-ecrits-antisemites",
+   "n_members": 255,
+   "n_sources": 36,
+   "counts": {
+    "left": 9,
+    "centre": 16,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 11,
+    "opinion": 7
+   },
+   "blindspot_score": 0.1,
+   "blindspot_for": null,
+   "divergence": 0.164,
+   "category": "politique",
+   "terms_left": [
+    "révélations",
+    "parti",
+    "extrême"
+   ],
+   "terms_right": [
+    "article",
+    "accusations",
+    "attribués jordan"
+   ]
+  },
+  {
    "title": "EN DIRECT - Léon XIV est arrivé à Metz pour le dernier jour de la visite du pape en France",
    "url": "https://www.europe1.fr/societe/visite-du-pape-leon-xiv-a-paris-hommage-a-frere-laurent-de-la-resurrection-1087295",
    "n_members": 327,
@@ -55,8 +85,8 @@
    "category": "société",
    "terms_left": [
     "direct",
-    "visite france",
-    "enjeux"
+    "enjeux",
+    "enjeux visite"
    ],
    "terms_right": [
     "lourdes",
@@ -65,39 +95,39 @@
    ]
   },
   {
-   "title": "Enquête de « Mediapart » : Jordan Bardella nie en bloc les propos antisémites et évoque « les prémices d’une guerre totale » contre le RN",
-   "url": "https://www.mediapart.fr/journal/politique/280926/les-banques-sont-toutes-detenues-par-des-juifs-jordan-bardella-face-ses-ecrits-antisemites",
-   "n_members": 250,
+   "title": "Budget 2027 : ce qu'il faut retenir des mesures annoncées par le gouvernement Lecornu",
+   "url": "https://www.lejdd.fr/Societe/exclusif-subventions-aux-associations-60-milliards-dargent-public-et-beaucoup-dopacite-183921",
+   "n_members": 178,
    "n_sources": 35,
    "counts": {
-    "left": 9,
-    "centre": 16,
-    "right": 10
+    "left": 8,
+    "centre": 14,
+    "right": 13
    },
    "style_counts": {
     "factuel": 18,
-    "mixte": 10,
-    "opinion": 7
+    "mixte": 12,
+    "opinion": 5
    },
-   "blindspot_score": 0.053,
+   "blindspot_score": 0.238,
    "blindspot_for": null,
-   "divergence": 0.168,
-   "category": "politique",
+   "divergence": 0.346,
+   "category": "économie",
    "terms_left": [
-    "révélations",
-    "parti",
-    "extrême"
+    "gel",
+    "postes",
+    "déficit public"
    ],
    "terms_right": [
-    "article",
-    "accusations",
-    "campagne"
+    "euros",
+    "milliards",
+    "milliards euros"
    ]
   },
   {
    "title": "DIRECT - Blocages des lycées en France: Sébastien Lecornu demande à ses ministres d'annuler leurs déplacements",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 370,
+   "n_members": 380,
    "n_sources": 34,
    "counts": {
     "left": 9,
@@ -111,7 +141,7 @@
    },
    "blindspot_score": 0.053,
    "blindspot_for": null,
-   "divergence": 0.344,
+   "divergence": 0.339,
    "category": "société",
    "terms_left": [
     "répression",
@@ -122,36 +152,6 @@
     "ordre",
     "forces",
     "forces ordre"
-   ]
-  },
-  {
-   "title": "Budget 2027 : voici ce que devrait contenir le projet qui sera présenté jeudi en Conseil des ministres",
-   "url": "https://www.lejdd.fr/Societe/exclusif-subventions-aux-associations-60-milliards-dargent-public-et-beaucoup-dopacite-183921",
-   "n_members": 168,
-   "n_sources": 34,
-   "counts": {
-    "left": 8,
-    "centre": 14,
-    "right": 12
-   },
-   "style_counts": {
-    "factuel": 18,
-    "mixte": 12,
-    "opinion": 4
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.349,
-   "category": "économie",
-   "terms_left": [
-    "gel",
-    "budgétaire",
-    "postes"
-   ],
-   "terms_right": [
-    "euros",
-    "milliards",
-    "autoroutes"
    ]
   },
   {
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.1,
    "blindspot_for": null,
-   "divergence": 0.457,
+   "divergence": 0.462,
    "category": "société",
    "terms_left": [
     "mobilisation",
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.457,
+   "divergence": 0.458,
    "category": "société",
    "terms_left": [
     "eglise",
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.387,
+   "divergence": 0.381,
    "category": "politique",
    "terms_left": [
     "sénatoriales",
@@ -307,7 +307,7 @@
   {
    "title": "EN DIRECT - Avion de Flydubai vers Tel-Aviv dérouté : Benyamin Netanyahou accuse l’un des pilotes d’avoir voulu provoquer un crash",
    "url": "https://information.tv5monde.com/international/un-vol-dubai-tel-aviv-atterrit-en-urgence-en-arabie-saoudite-apres-une-violente-altercation-entre-pilotes-2839623",
-   "n_members": 95,
+   "n_members": 98,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.317,
+   "divergence": 0.311,
    "category": "international",
    "terms_left": [
     "attaque",
@@ -329,8 +329,8 @@
     "arabes"
    ],
    "terms_right": [
-    "altercation pilotes",
     "cockpit",
+    "dérouté",
     "dubaï"
    ]
   },
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.744,
+   "divergence": 0.743,
    "category": "international",
    "terms_left": [
     "week-end",
@@ -450,8 +450,8 @@
    ],
    "terms_right": [
     "macron",
-    "espagne",
-    "emmanuel"
+    "emmanuel",
+    "état"
    ]
   },
   {
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.363,
+   "divergence": 0.364,
    "category": "international",
    "terms_left": [
     "conditions",
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.639,
+   "divergence": 0.64,
    "category": "politique",
    "terms_left": [
     "brésil lula",
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.511,
+   "divergence": 0.51,
    "category": "société",
    "terms_left": [
     "pompiers",
@@ -621,12 +621,12 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.368,
+   "divergence": 0.39,
    "category": "société",
    "terms_left": [
     "assistants",
-    "procès appel",
-    "prison"
+    "modem",
+    "procès appel"
    ],
    "terms_right": [
     "emprisonnement",
@@ -687,9 +687,9 @@
    ]
   },
   {
-   "title": "Ce qu'il faut savoir du projet d'attaque présumé contre une base militaire en Angleterre",
+   "title": "Incident près d'une base militaire en Angleterre : un Britanno-Iranien arrêté",
    "url": "https://www.bfmtv.com/international/europe/angleterre/un-incident-majeur-pres-d-une-base-utilisee-par-l-us-air-force-en-angleterre-des-arrestations-liees-a-des-explosifs_AD-202609270133.html",
-   "n_members": 78,
+   "n_members": 81,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -703,7 +703,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.258,
+   "divergence": 0.25,
    "category": "international",
    "terms_left": [
     "police",
@@ -712,8 +712,8 @@
    ],
    "terms_right": [
     "arrêtés",
-    "utilisée armée",
-    "armée"
+    "majeur base",
+    "base utilisée"
    ]
   },
   {
@@ -763,7 +763,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.756,
+   "divergence": 0.75,
    "category": "politique",
    "terms_left": [
     "primaire",
@@ -839,7 +839,7 @@
   {
    "title": "En France, la dette publique s'envole à 119% du PIB à quelques mois de l'élection présidentielle",
    "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/sans-cure-d-austerite-et-meme-sans-budget-depuis-2023-comment-l-espagne-a-reussi-un-desendettement-spectaculaire-a-99-9-du-pib-quand-la-france-s-enfonce_AV-202609260041.html",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 24,
    "counts": {
     "left": 3,
@@ -853,7 +853,7 @@
    },
    "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.491,
+   "divergence": 0.492,
    "category": "économie",
    "terms_left": [
     "économiste",
@@ -1033,17 +1033,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.435,
+   "divergence": 0.44,
    "category": "international",
    "terms_left": [
     "russie",
     "direct",
-    "volodymyr"
+    "ukrainienne"
    ],
    "terms_right": [
-    "sciences",
-    "frappe",
-    "académie"
+    "ukraine morts",
+    "académie",
+    "sciences"
    ]
   },
   {
@@ -1063,17 +1063,17 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.418,
+   "divergence": 0.429,
    "category": "international",
    "terms_left": [
     "logement espagne",
-    "protection",
-    "maricarmen"
+    "maricarmen",
+    "déclenché"
    ],
    "terms_right": [
     "retraitée",
     "retraitée ans",
-    "conclu"
+    "locataires"
    ]
   },
   {
@@ -1123,7 +1123,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.464,
+   "divergence": 0.466,
    "category": "politique",
    "terms_left": [
     "edouard",
