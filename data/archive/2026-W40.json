@@ -1,6 +1,6 @@
 {
  "week": "2026-W40",
- "generated_at": "2026-10-02T08:45:19+00:00",
+ "generated_at": "2026-10-02T15:12:47+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.048,
    "blindspot_for": null,
-   "divergence": 0.174,
+   "divergence": 0.173,
    "category": "culture",
    "terms_left": [
     "littérature",
@@ -35,33 +35,93 @@
    ]
   },
   {
-   "title": "Enquête de « Mediapart » : Jordan Bardella nie en bloc les propos antisémites et évoque « les prémices d’une guerre totale » contre le RN",
+   "title": "Propos antisémites de Jordan Bardella : Mediapart publie ses preuves après les démentis du RN",
    "url": "https://www.mediapart.fr/journal/politique/280926/les-banques-sont-toutes-detenues-par-des-juifs-jordan-bardella-face-ses-ecrits-antisemites",
-   "n_members": 271,
-   "n_sources": 37,
+   "n_members": 289,
+   "n_sources": 38,
    "counts": {
     "left": 9,
-    "centre": 17,
+    "centre": 18,
     "right": 11
    },
    "style_counts": {
     "factuel": 19,
-    "mixte": 11,
+    "mixte": 12,
     "opinion": 7
    },
    "blindspot_score": 0.1,
    "blindspot_for": null,
-   "divergence": 0.161,
+   "divergence": 0.158,
    "category": "politique",
    "terms_left": [
     "révélations",
     "parti",
-    "droite"
+    "enquête"
    ],
    "terms_right": [
-    "accusations",
-    "article",
-    "attribués jordan"
+    "attribués jordan",
+    "attribués",
+    "accusations"
+   ]
+  },
+  {
+   "title": "Budget 2027 : voici ce que devrait contenir le projet qui sera présenté jeudi en Conseil des ministres",
+   "url": "https://www.lejdd.fr/Societe/exclusif-subventions-aux-associations-60-milliards-dargent-public-et-beaucoup-dopacite-183921",
+   "n_members": 205,
+   "n_sources": 36,
+   "counts": {
+    "left": 8,
+    "centre": 14,
+    "right": 14
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 12,
+    "opinion": 6
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.324,
+   "category": "économie",
+   "terms_left": [
+    "postes",
+    "lecornu",
+    "déficit public"
+   ],
+   "terms_right": [
+    "euros",
+    "milliards",
+    "entreprises"
+   ]
+  },
+  {
+   "title": "Blocage des lycées en France : la violence monte d'un cran",
+   "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
+   "n_members": 479,
+   "n_sources": 35,
+   "counts": {
+    "left": 10,
+    "centre": 15,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 13,
+    "opinion": 6
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.311,
+   "category": "société",
+   "terms_left": [
+    "policières",
+    "violences policières",
+    "répression"
+   ],
+   "terms_right": [
+    "blocus",
+    "dégradations",
+    "ordre"
    ]
   },
   {
@@ -95,66 +155,6 @@
    ]
   },
   {
-   "title": "Budget 2027 : ce qu'il faut retenir des mesures annoncées par le gouvernement Lecornu",
-   "url": "https://www.lejdd.fr/Societe/exclusif-subventions-aux-associations-60-milliards-dargent-public-et-beaucoup-dopacite-183921",
-   "n_members": 192,
-   "n_sources": 35,
-   "counts": {
-    "left": 8,
-    "centre": 14,
-    "right": 13
-   },
-   "style_counts": {
-    "factuel": 18,
-    "mixte": 12,
-    "opinion": 5
-   },
-   "blindspot_score": 0.238,
-   "blindspot_for": null,
-   "divergence": 0.33,
-   "category": "économie",
-   "terms_left": [
-    "gel",
-    "postes",
-    "déficit public"
-   ],
-   "terms_right": [
-    "milliards",
-    "euros",
-    "milliards euros"
-   ]
-  },
-  {
-   "title": "DIRECT - Blocages des lycées en France: Sébastien Lecornu demande à ses ministres d'annuler leurs déplacements",
-   "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 431,
-   "n_sources": 34,
-   "counts": {
-    "left": 9,
-    "centre": 15,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 12,
-    "opinion": 6
-   },
-   "blindspot_score": 0.053,
-   "blindspot_for": null,
-   "divergence": 0.321,
-   "category": "société",
-   "terms_left": [
-    "répression",
-    "policières",
-    "violences policières"
-   ],
-   "terms_right": [
-    "blocus",
-    "dégradations",
-    "ordre"
-   ]
-  },
-  {
    "title": "«Mardi noir» : des dizaines de manifestations dans tout le pays ravivent le spectre des Gilets jaunes à six mois de la présidentielle",
    "url": "https://www.sudouest.fr/politique/syndicats/easyjet-une-greve-de-dix-jours-annoncee-en-octobre-et-decembre-au-portugal-des-centaines-de-vols-potentiellement-affectes-30671725.php",
    "n_members": 136,
@@ -171,17 +171,17 @@
    },
    "blindspot_score": 0.1,
    "blindspot_for": null,
-   "divergence": 0.518,
+   "divergence": 0.52,
    "category": "société",
    "terms_left": [
     "mobilisation",
-    "france",
-    "intersyndicale"
+    "intersyndicale",
+    "france"
    ],
    "terms_right": [
     "grève",
-    "budget",
-    "pays"
+    "salariés",
+    "budget"
    ]
   },
   {
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.295,
+   "divergence": 0.294,
    "category": "société",
    "terms_left": [
     "enseignement",
@@ -211,7 +211,7 @@
    "terms_right": [
     "fidèles",
     "léon",
-    "xiv france"
+    "léon xiv"
    ]
   },
   {
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.464,
+   "divergence": 0.463,
    "category": "société",
    "terms_left": [
     "eglise",
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.38,
+   "divergence": 0.379,
    "category": "politique",
    "terms_left": [
     "sénatoriales",
@@ -307,7 +307,7 @@
   {
    "title": "EN DIRECT - Avion de Flydubai vers Tel-Aviv dérouté : Benyamin Netanyahou accuse l’un des pilotes d’avoir voulu provoquer un crash",
    "url": "https://information.tv5monde.com/international/un-vol-dubai-tel-aviv-atterrit-en-urgence-en-arabie-saoudite-apres-une-violente-altercation-entre-pilotes-2839623",
-   "n_members": 103,
+   "n_members": 105,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.307,
+   "divergence": 0.309,
    "category": "international",
    "terms_left": [
     "attaque",
@@ -397,7 +397,7 @@
   {
    "title": "Violences sexuelles : une loi « intégrale » pour remettre la victime au centre",
    "url": "https://www.sudouest.fr/societe/actes-sexuels-en-ligne-les-deputes-veulent-etendre-le-delit-de-proxenetisme-aux-actes-de-prostitution-sur-les-plateformes-onlyfans-ou-mym-30732098.php",
-   "n_members": 74,
+   "n_members": 78,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.399,
+   "divergence": 0.389,
    "category": "société",
    "terms_left": [
     "paris",
@@ -422,6 +422,36 @@
     "intégrale violences",
     "ans",
     "article"
+   ]
+  },
+  {
+   "title": "Au Brésil, la \"dernière danse\" de Lula pour un quatrième mandat présidentiel",
+   "url": "https://information.tv5monde.com/international/presidentielle-au-bresil-flavio-bolsonaro-surfe-sur-le-scandale-2838501",
+   "n_members": 78,
+   "n_sources": 28,
+   "counts": {
+    "left": 5,
+    "centre": 14,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 5,
+    "opinion": 6
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.646,
+   "category": "politique",
+   "terms_left": [
+    "brésil lula",
+    "trump",
+    "lula"
+   ],
+   "terms_right": [
+    "macron",
+    "emmanuel",
+    "emmanuel macron"
    ]
   },
   {
@@ -441,12 +471,12 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.743,
+   "divergence": 0.739,
    "category": "international",
    "terms_left": [
     "week-end",
     "pape france",
-    "retenir"
+    "europe"
    ],
    "terms_right": [
     "macron",
@@ -485,39 +515,9 @@
    ]
   },
   {
-   "title": "Au Brésil, la \"dernière danse\" de Lula pour un quatrième mandat présidentiel",
-   "url": "https://information.tv5monde.com/international/presidentielle-au-bresil-flavio-bolsonaro-surfe-sur-le-scandale-2838501",
-   "n_members": 74,
-   "n_sources": 27,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 5,
-    "opinion": 6
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.642,
-   "category": "politique",
-   "terms_left": [
-    "brésil lula",
-    "brésil",
-    "ia"
-   ],
-   "terms_right": [
-    "macron",
-    "emmanuel",
-    "emmanuel macron"
-   ]
-  },
-  {
    "title": "Intelligence artificielle : Donald Trump annonce que les patrons de la tech ont signé un «accord contraignant sur le plan moral»",
    "url": "https://www.bfmtv.com/economie/une-cargaison-de-pieces-de-l-avion-americain-f-35-a-quitte-l-australie-avant-d-etre-mysterieusement-detournee-vers-hong-kong-mysterieusement-a-hong-kong-les-etats-unis-craignent-que-pekin-ait-pu-acceder-aux-technologies-sensibles_AD-202609210506.html",
-   "n_members": 67,
+   "n_members": 68,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -531,17 +531,17 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.643,
+   "divergence": 0.7,
    "category": "international",
    "terms_left": [
     "nouvelle",
     "secteur",
-    "indiqué"
+    "communication"
    ],
    "terms_right": [
-    "grands",
     "macron",
-    "emmanuel"
+    "emmanuel",
+    "emmanuel macron"
    ]
   },
   {
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.729,
+   "divergence": 0.728,
    "category": "économie",
    "terms_left": [
     "hausse",
@@ -571,7 +571,7 @@
    "terms_right": [
     "carburants",
     "er",
-    "qu"
+    "flambée"
    ]
   },
   {
@@ -591,17 +591,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.525,
+   "divergence": 0.533,
    "category": "société",
    "terms_left": [
     "pompiers",
-    "tour",
-    "eiffel"
+    "moyens",
+    "tour"
    ],
    "terms_right": [
-    "revendications",
     "président",
-    "qu"
+    "qu",
+    "europe"
    ]
   },
   {
@@ -635,6 +635,36 @@
    ]
   },
   {
+   "title": "Viol collectif à l’université de Cornell : on vous explique cette affaire qui scandalise les Etats-Unis",
+   "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-extremement-positif-le-chef-de-l-otan-reagit-a-l-accord-sur-le-groenland-avec-les-etats-unis_VN-202609230253.html",
+   "n_members": 63,
+   "n_sources": 25,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.675,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "pays",
+    "cour"
+   ],
+   "terms_right": [
+    "ans",
+    "qu",
+    "présumé"
+   ]
+  },
+  {
    "title": "Kylian Mbappé blessé après avoir marqué contre la Turquie",
    "url": "https://www.ladepeche.fr/2026/09/22/decryptage-guerre-en-ukraine-cest-une-attaque-militaire-comment-la-tentative-dattentat-mene-par-des-drones-en-allemagne-a-failli-provoquer-une-13561596.php",
    "n_members": 60,
@@ -657,33 +687,33 @@
    "terms_right": []
   },
   {
-   "title": "Viol collectif à l’université de Cornell : on vous explique cette affaire qui scandalise les Etats-Unis",
-   "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-extremement-positif-le-chef-de-l-otan-reagit-a-l-accord-sur-le-groenland-avec-les-etats-unis_VN-202609230253.html",
-   "n_members": 60,
+   "title": "Budget 2027 : les produits sucrés vont-ils être taxés ?",
+   "url": "https://www.liberation.fr/culture/cinema/le-monde-du-cinema-vent-debout-contre-un-projet-de-hausse-de-la-tva-sur-canal-20260928_BZN2L2UWNJC2JBI5R5OV7HAF7Q/",
+   "n_members": 58,
    "n_sources": 25,
    "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 6
+    "left": 5,
+    "centre": 10,
+    "right": 10
    },
    "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 3
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 2
    },
-   "blindspot_score": 0.0,
+   "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.738,
-   "category": "international",
+   "divergence": 0.672,
+   "category": "économie",
    "terms_left": [
-    "pays",
-    "cour",
-    "etats-unis"
+    "cinéma",
+    "nationale",
+    "ukraine"
    ],
    "terms_right": [
-    "ans",
-    "qu",
-    "français"
+    "sucrés",
+    "produits",
+    "euros"
    ]
   },
   {
@@ -703,7 +733,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.25,
+   "divergence": 0.254,
    "category": "international",
    "terms_left": [
     "police",
@@ -711,9 +741,9 @@
     "antiterroriste"
    ],
    "terms_right": [
-    "arrêtés",
     "majeur base",
-    "base utilisée"
+    "royaume-uni",
+    "arrêtés"
    ]
   },
   {
@@ -763,12 +793,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.756,
+   "divergence": 0.747,
    "category": "politique",
    "terms_left": [
     "primaire",
-    "candidat",
-    "président"
+    "glucksmann",
+    "raphaël"
    ],
    "terms_right": [
     "pen",
@@ -823,12 +853,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.543,
+   "divergence": 0.542,
    "category": "politique",
    "terms_left": [
     "fois",
     "droite",
-    "parlementaire"
+    "extrême"
    ],
    "terms_right": [
     "rn",
@@ -853,12 +883,12 @@
    },
    "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.476,
+   "divergence": 0.5,
    "category": "économie",
    "terms_left": [
-    "économiste",
-    "envole",
-    "française envole"
+    "crise",
+    "budgétaire",
+    "publique française"
    ],
    "terms_right": [
     "milliards",
@@ -897,6 +927,36 @@
    ]
   },
   {
+   "title": "Ukraine: un pont de Kiev et l'institut de recherche nucléaire frappés par des drones russes",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
+   "n_members": 182,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 6,
+    "opinion": 1
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.432,
+   "category": "international",
+   "terms_left": [
+    "direct",
+    "russie",
+    "bombardements"
+   ],
+   "terms_right": [
+    "ukraine morts",
+    "russe",
+    "académie"
+   ]
+  },
+  {
    "title": "Ligue des nations : Olise permet aux Bleus d'enchaîner face à la Belgique",
    "url": "https://www.leparisien.fr/sports/football/equipe-de-france/equipe-de-france-lepaul-truffert-jacquet-quels-pourraient-etre-les-nouveaux-visages-de-la-premiere-liste-de-zidane-17-09-2026-YEWBEM6EGZDDJB2XXLMNIFAO2M.php",
    "n_members": 167,
@@ -913,7 +973,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.354,
+   "divergence": 0.348,
    "category": "sport",
    "terms_left": [
     "sélectionneur",
@@ -922,14 +982,14 @@
    ],
    "terms_right": [
     "bleus",
-    "zidane",
-    "lepaul"
+    "lepaul",
+    "match"
    ]
   },
   {
-   "title": "Le Gard et l’Hérault placés en vigilance rouge « pluie-inondation » : Météo-France alerte sur un épisode méditerranéen « exceptionnel »",
+   "title": "DIRECT. Vigilance rouge \"pluie-inondation\": près de deux mois de précipitations tombés en 12 heures dans le Gard",
    "url": "https://www.cnews.fr/france/2026-09-21/orages-ces-deux-departements-menaces-par-les-eclairs-ce-mercredi-1922269",
-   "n_members": 100,
+   "n_members": 107,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -943,23 +1003,23 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.305,
+   "divergence": 0.311,
    "category": "environnement",
    "terms_left": [
     "lozère ardèche",
-    "exceptionnel",
-    "tandis"
+    "lozère",
+    "exceptionnel"
    ],
    "terms_right": [
     "orages",
-    "départements",
-    "jaune"
+    "jaune",
+    "pluies"
    ]
   },
   {
-   "title": "Ethiopie : les combats s'intensifient entre le TPLF et l'armée fédérale au Tigré",
+   "title": "Ethiopie : des explosions entendues dans la capitale Addis Abeba",
    "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-8-h/journal-de-8h-du-vendredi-25-septembre-2026-3083461",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -973,7 +1033,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.698,
+   "divergence": 0.699,
    "category": "international",
    "terms_left": [
     "nord-est etats-unis",
@@ -984,6 +1044,36 @@
     "états-unis",
     "tempête",
     "rare saison"
+   ]
+  },
+  {
+   "title": "TotalEnergies annonce une prime de 1.000 euros pour ses salariés, la CGT maintient son appel à la grève pour le 8 octobre",
+   "url": "https://www.sudradio.fr/societe/auchan-en-passe-de-ceder-17-supermarches-a-lidl",
+   "n_members": 50,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 10,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.797,
+   "category": "économie",
+   "terms_left": [
+    "pétrole",
+    "totalenergies",
+    "veut"
+   ],
+   "terms_right": [
+    "ans",
+    "mois",
+    "millions"
    ]
   },
   {
@@ -1017,39 +1107,9 @@
    ]
   },
   {
-   "title": "Ukraine: un pont de Kiev et l'institut de recherche nucléaire frappés par des drones russes",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 177,
-   "n_sources": 22,
-   "counts": {
-    "left": 3,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 6,
-    "opinion": 0
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.442,
-   "category": "international",
-   "terms_left": [
-    "russie",
-    "direct",
-    "bombardements"
-   ],
-   "terms_right": [
-    "ukraine morts",
-    "académie",
-    "sciences"
-   ]
-  },
-  {
-   "title": "Crise du logement en Espagne : Maricarmen Abascal, expulsée à 87 ans, finalement autorisée à rentrer chez elle",
+   "title": "Crise du logement en Espagne : les mesures de Sánchez jugées insuffisantes",
    "url": "https://www.tf1info.fr/international/videos/video-emoi-en-espagne-ils-refusent-d-expulser-une-femme-de-87-ans-56710-2465927.html",
-   "n_members": 89,
+   "n_members": 93,
    "n_sources": 22,
    "counts": {
     "left": 6,
@@ -1063,7 +1123,7 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.415,
+   "divergence": 0.434,
    "category": "international",
    "terms_left": [
     "logement espagne",
@@ -1093,7 +1153,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.353,
+   "divergence": 0.354,
    "category": "international",
    "terms_left": [
     "français arabie",
@@ -1123,7 +1183,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.464,
+   "divergence": 0.487,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -1133,59 +1193,7 @@
    "terms_right": [
     "édouard philippe",
     "édouard",
-    "système"
-   ]
-  },
-  {
-   "title": "EN DIRECT - Visite de Léon XIV en France : le pape rencontre les évêques de France à Lourdes",
-   "url": "https://www.leparisien.fr/paris-75/on-a-cru-a-une-blague-la-maison-bakhita-qui-accompagne-les-personnes-exilees-a-paris-prete-a-recevoir-le-pape-24-09-2026-H76LXGXWHZGANDTM7QICTGP4EA.php",
-   "n_members": 64,
-   "n_sources": 22,
-   "counts": {
-    "left": 4,
-    "centre": 10,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.6,
-   "category": "société",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "\"En 1975, l'essence coûtait en réalité beaucoup plus cher aux Français\" : la mise au point de François Lenglet sur les carburants",
-   "url": "https://www.tf1info.fr/conso/videos/video-cout-de-pompe-les-francais-face-au-prix-de-l-essence-45075-2465234.html",
-   "n_members": 63,
-   "n_sources": 22,
-   "counts": {
-    "left": 5,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 1
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.715,
-   "category": "économie",
-   "terms_left": [
-    "prix carburant",
-    "carburant",
-    "face flambée"
-   ],
-   "terms_right": [
-    "euros",
-    "ministre",
-    "france"
+    "milliards"
    ]
   }
  ]
