@@ -1,13 +1,13 @@
 {
  "week": "2026-W40",
- "generated_at": "2026-10-03T08:44:02+00:00",
+ "generated_at": "2026-10-03T14:05:48+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "\"C'était ça ou mourir\" : malgré la polémique sur l'IA, le livre de Thélyson Orélien cartonne en librairie",
+   "title": "Top des ventes de livres : Thélyson Orélien boosté par la polémique",
    "url": "https://www.nouvelobs.com/bibliobs/20260920.OBS118426/thelyson-orelien-le-phenomene-de-la-rentree-litteraire-je-ne-tiens-pas-mon-crayon-avec-ma-tete-mais-avec-mes-tripes.html",
-   "n_members": 192,
+   "n_members": 193,
    "n_sources": 40,
    "counts": {
     "left": 10,
@@ -21,23 +21,23 @@
    },
    "blindspot_score": 0.048,
    "blindspot_for": null,
-   "divergence": 0.174,
+   "divergence": 0.175,
    "category": "culture",
    "terms_left": [
     "littérature",
     "affaire",
-    "affaire thélyson"
+    "intelligence"
    ],
    "terms_right": [
     "livre",
-    "polémique",
-    "écrit"
+    "écrit",
+    "polémique"
    ]
   },
   {
    "title": "Propos antisémites de Jordan Bardella : Mediapart publie ses preuves après les démentis du RN",
    "url": "https://www.mediapart.fr/journal/politique/280926/les-banques-sont-toutes-detenues-par-des-juifs-jordan-bardella-face-ses-ecrits-antisemites",
-   "n_members": 310,
+   "n_members": 311,
    "n_sources": 38,
    "counts": {
     "left": 9,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.1,
    "blindspot_for": null,
-   "divergence": 0.171,
+   "divergence": 0.17,
    "category": "politique",
    "terms_left": [
     "révélations",
@@ -67,7 +67,7 @@
   {
    "title": "Blocage des lycées en France : la violence monte d'un cran",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 546,
+   "n_members": 560,
    "n_sources": 37,
    "counts": {
     "left": 10,
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.048,
    "blindspot_for": null,
-   "divergence": 0.302,
+   "divergence": 0.299,
    "category": "société",
    "terms_left": [
     "policières",
@@ -91,13 +91,13 @@
    "terms_right": [
     "blocus",
     "dégradations",
-    "ordre"
+    "blocus lycées"
    ]
   },
   {
    "title": "Budget 2027 : ce qu'il faut retenir des mesures annoncées par le gouvernement Lecornu",
    "url": "https://www.lejdd.fr/Societe/exclusif-subventions-aux-associations-60-milliards-dargent-public-et-beaucoup-dopacite-183921",
-   "n_members": 215,
+   "n_members": 217,
    "n_sources": 37,
    "counts": {
     "left": 8,
@@ -111,12 +111,12 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.32,
+   "divergence": 0.317,
    "category": "économie",
    "terms_left": [
     "lecornu",
     "postes",
-    "déficit public"
+    "gouvernement lecornu"
    ],
    "terms_right": [
     "euros",
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.1,
    "blindspot_for": null,
-   "divergence": 0.542,
+   "divergence": 0.54,
    "category": "société",
    "terms_left": [
     "mobilisation",
@@ -179,9 +179,9 @@
     "transports"
    ],
    "terms_right": [
-    "pays",
     "grève",
-    "projet"
+    "pays",
+    "salariés"
    ]
   },
   {
@@ -247,31 +247,31 @@
   {
    "title": "Vol Flydubai dérouté vers l’Arabie saoudite, la piste \"terroriste\" évoquée",
    "url": "https://information.tv5monde.com/international/un-vol-dubai-tel-aviv-atterrit-en-urgence-en-arabie-saoudite-apres-une-violente-altercation-entre-pilotes-2839623",
-   "n_members": 125,
-   "n_sources": 29,
+   "n_members": 137,
+   "n_sources": 30,
    "counts": {
-    "left": 6,
+    "left": 7,
     "centre": 14,
     "right": 9
    },
    "style_counts": {
     "factuel": 16,
-    "mixte": 9,
+    "mixte": 10,
     "opinion": 4
    },
-   "blindspot_score": 0.2,
+   "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.295,
+   "divergence": 0.282,
    "category": "international",
    "terms_left": [
     "emirats",
     "emirats arabes",
-    "attaque"
+    "oman"
    ],
    "terms_right": [
     "dérouté",
-    "dubaï",
-    "commandant"
+    "commandant",
+    "flydubai dérouté"
    ]
   },
   {
@@ -302,6 +302,36 @@
     "ans réclusion",
     "réclusion",
     "martín aramburú"
+   ]
+  },
+  {
+   "title": "Brésil. Élection présidentielle : Lula et le fils Bolsonaro au coude à coude dans un pays très polarisé",
+   "url": "https://information.tv5monde.com/international/presidentielle-au-bresil-flavio-bolsonaro-surfe-sur-le-scandale-2838501",
+   "n_members": 87,
+   "n_sources": 29,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 6,
+    "opinion": 6
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.658,
+   "category": "politique",
+   "terms_left": [
+    "lula",
+    "brésil",
+    "trump"
+   ],
+   "terms_right": [
+    "macron",
+    "emmanuel",
+    "emmanuel macron"
    ]
   },
   {
@@ -395,39 +425,9 @@
    ]
   },
   {
-   "title": "Élections au Brésil: le duel Lula-Bolsonaro, un air de déjà vu",
-   "url": "https://information.tv5monde.com/international/presidentielle-au-bresil-flavio-bolsonaro-surfe-sur-le-scandale-2838501",
-   "n_members": 83,
-   "n_sources": 28,
-   "counts": {
-    "left": 5,
-    "centre": 14,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 5,
-    "opinion": 6
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.652,
-   "category": "politique",
-   "terms_left": [
-    "lula",
-    "brésil lula",
-    "trump"
-   ],
-   "terms_right": [
-    "macron",
-    "emmanuel",
-    "emmanuel macron"
-   ]
-  },
-  {
    "title": "Violences sexuelles : une loi « intégrale » pour remettre la victime au centre",
    "url": "https://www.sudouest.fr/societe/actes-sexuels-en-ligne-les-deputes-veulent-etendre-le-delit-de-proxenetisme-aux-actes-de-prostitution-sur-les-plateformes-onlyfans-ou-mym-30732098.php",
-   "n_members": 81,
+   "n_members": 82,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -441,17 +441,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.393,
+   "divergence": 0.396,
    "category": "société",
    "terms_left": [
     "paris",
     "femmes",
-    "commission"
+    "ouvertes paris"
    ],
    "terms_right": [
     "intégrale violences",
-    "ans",
-    "er"
+    "sexistes sexuelles",
+    "violences sexistes"
    ]
   },
   {
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.737,
+   "divergence": 0.736,
    "category": "international",
    "terms_left": [
     "week-end",
@@ -531,12 +531,12 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.684,
+   "divergence": 0.704,
    "category": "international",
    "terms_left": [
     "nouvelle",
     "trump",
-    "tutelle"
+    "business"
    ],
    "terms_right": [
     "macron",
@@ -591,17 +591,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.67,
+   "divergence": 0.674,
    "category": "économie",
    "terms_left": [
     "cinéma",
-    "nationale",
-    "ukraine"
+    "ukraine",
+    "éducation nationale"
    ],
    "terms_right": [
+    "euros",
     "sucrés",
-    "produits",
-    "euros"
+    "produits"
    ]
   },
   {
@@ -621,17 +621,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.525,
+   "divergence": 0.519,
    "category": "société",
    "terms_left": [
-    "pompiers",
-    "moyens",
+    "tour eiffel",
+    "eiffel",
     "tour"
    ],
    "terms_right": [
-    "président",
-    "qu",
-    "europe"
+    "mobilisation",
+    "sécurité",
+    "ligne"
    ]
   },
   {
@@ -665,9 +665,39 @@
    ]
   },
   {
+   "title": "Présidentielle au Brésil: géopolitique, commerce, climat, démocratie... Les enjeux d'une élection cruciale",
+   "url": "https://www.leparisien.fr/politique/le-president-argentin-javier-milei-va-rencontrer-emmanuel-macron-cette-semaine-en-france-28-09-2026-4CZH23UU3FAKJCHLKCAYISY5UY.php",
+   "n_members": 56,
+   "n_sources": 26,
+   "counts": {
+    "left": 7,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.51,
+   "category": "international",
+   "terms_left": [
+    "brésil",
+    "droite",
+    "extrême droite"
+   ],
+   "terms_right": [
+    "argentin",
+    "france",
+    "président argentin"
+   ]
+  },
+  {
    "title": "Viol collectif à l’université de Cornell : on vous explique cette affaire qui scandalise les Etats-Unis",
    "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-extremement-positif-le-chef-de-l-otan-reagit-a-l-accord-sur-le-groenland-avec-les-etats-unis_VN-202609230253.html",
-   "n_members": 65,
+   "n_members": 66,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -681,7 +711,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.695,
+   "divergence": 0.696,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -717,9 +747,9 @@
    "terms_right": []
   },
   {
-   "title": "Ukraine: un pont de Kiev et l'institut de recherche nucléaire frappés par des drones russes",
+   "title": "Guerre en Ukraine : un important pont de Kiev touché par une frappe russe",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 196,
+   "n_members": 202,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -733,17 +763,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.42,
+   "divergence": 0.416,
    "category": "international",
    "terms_left": [
     "bombardements",
     "direct",
-    "ukrainienne"
+    "bombardements russes"
    ],
    "terms_right": [
     "frappe",
     "frappes russes",
-    "ukraine morts"
+    "frappe russe"
    ]
   },
   {
@@ -823,7 +853,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.759,
+   "divergence": 0.758,
    "category": "politique",
    "terms_left": [
     "primaire",
@@ -853,7 +883,7 @@
    },
    "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.501,
+   "divergence": 0.506,
    "category": "économie",
    "terms_left": [
     "publique",
@@ -861,9 +891,9 @@
     "publique française"
    ],
    "terms_right": [
-    "taux",
+    "ans",
     "milliards",
-    "ans"
+    "taux"
    ]
   },
   {
@@ -927,6 +957,36 @@
    ]
   },
   {
+   "title": "TotalEnergies annonce une prime de 1.000 euros pour ses salariés, la CGT maintient son appel à la grève pour le 8 octobre",
+   "url": "https://www.sudradio.fr/societe/auchan-en-passe-de-ceder-17-supermarches-a-lidl",
+   "n_members": 60,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.797,
+   "category": "économie",
+   "terms_left": [
+    "totalenergies",
+    "pétrole",
+    "augmenter"
+   ],
+   "terms_right": [
+    "gouvernement",
+    "budget",
+    "ans"
+   ]
+  },
+  {
    "title": "Marseille : la justice reconnaît les rafles menées en 1943 comme un «crime contre l’humanité»",
    "url": "https://www.franceinfo.fr/faits-divers/terrorisme/policiers-tues-a-magnanville/info-franceinfo-la-cour-de-cassation-annule-en-partie-la-condamnation-de-mohamed-lamine-aberouz-pour-l-attentat-de-magnanville-un-nouveau-proces-va-avoir-lieu_8206451.html",
    "n_members": 59,
@@ -943,47 +1003,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.36,
+   "divergence": 0.362,
    "category": "société",
    "terms_left": [
-    "enquête",
     "rémy",
-    "daillet"
+    "daillet",
+    "rémy daillet"
    ],
    "terms_right": [
-    "française",
     "meurtre thomas",
-    "jugés"
-   ]
-  },
-  {
-   "title": "TotalEnergies annonce une prime de 1.000 euros pour ses salariés, la CGT maintient son appel à la grève pour le 8 octobre",
-   "url": "https://www.sudradio.fr/societe/auchan-en-passe-de-ceder-17-supermarches-a-lidl",
-   "n_members": 59,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.795,
-   "category": "économie",
-   "terms_left": [
-    "totalenergies",
-    "pétrole",
-    "augmenter"
-   ],
-   "terms_right": [
-    "gouvernement",
-    "budget",
-    "ans"
+    "jugés",
+    "jugés racisme"
    ]
   },
   {
@@ -1017,9 +1047,9 @@
    ]
   },
   {
-   "title": "Pluie diluvienne sur le Gard et l'Hérault, en vigilance rouge",
+   "title": "Pluie-inondation : voici le seul département placé en vigilance orange ce samedi",
    "url": "https://www.cnews.fr/france/2026-09-21/orages-ces-deux-departements-menaces-par-les-eclairs-ce-mercredi-1922269",
-   "n_members": 111,
+   "n_members": 113,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1033,7 +1063,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.369,
+   "divergence": 0.363,
    "category": "environnement",
    "terms_left": [
     "exceptionnel",
@@ -1047,9 +1077,9 @@
    ]
   },
   {
-   "title": "Crise du logement en Espagne : les mesures de Sánchez jugées insuffisantes",
+   "title": "Espagne : nouveau revers pour Pedro Sanchez, les députés rejettent ses textes sur le logement",
    "url": "https://www.tf1info.fr/international/videos/video-emoi-en-espagne-ils-refusent-d-expulser-une-femme-de-87-ans-56710-2465927.html",
-   "n_members": 99,
+   "n_members": 105,
    "n_sources": 23,
    "counts": {
     "left": 6,
@@ -1063,11 +1093,11 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.446,
+   "divergence": 0.443,
    "category": "international",
    "terms_left": [
-    "logement espagne",
     "maricarmen",
+    "logement espagne",
     "logement"
    ],
    "terms_right": [
@@ -1077,9 +1107,9 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : Gabriel Attal critique le projet de réforme des retraites d’Edouard Philippe, jugeant qu’il s’agit de « mesures de soins palliatifs »",
+   "title": "Édouard Philippe essaie de ne pas buter sur les retraites",
    "url": "https://www.franceinfo.fr/elections/presidentielle/dominique-de-villepin-veut-inscrire-le-principe-de-la-negociation-sociale-dans-la-loi-et-meme-la-constitution_8212154.html",
-   "n_members": 69,
+   "n_members": 70,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1093,17 +1123,17 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.494,
+   "divergence": 0.519,
    "category": "politique",
    "terms_left": [
     "edouard",
     "edouard philippe",
-    "progressivement"
+    "philippe"
    ],
    "terms_right": [
     "édouard philippe",
     "édouard",
-    "milliards"
+    "faut"
    ]
   },
   {
@@ -1133,7 +1163,7 @@
    "terms_right": [
     "états-unis",
     "tempête",
-    "tempête rare"
+    "rare saison"
    ]
   },
   {
@@ -1153,7 +1183,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.824,
+   "divergence": 0.823,
    "category": "international",
    "terms_left": [
     "peine",
@@ -1164,36 +1194,6 @@
     "millions euros",
     "millions",
     "sncf"
-   ]
-  },
-  {
-   "title": "Robert Ménard jugé : il avait refusé de marier une Française et un Algérien sous OQTF, le maire de Béziers risque l'inéligibilité",
-   "url": "https://www.liberation.fr/politique/refus-de-marier-un-etranger-sous-oqtf-juge-mercredi-robert-menard-veut-faire-de-son-proces-une-tribune-20260928_QOV7UOXKDZGSDBHQBKMK3QL6ZQ/",
-   "n_members": 44,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 9,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 7,
-    "opinion": 6
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": 0.379,
-   "category": "politique",
-   "terms_left": [
-    "politique",
-    "procureur",
-    "amende"
-   ],
-   "terms_right": [
-    "maire",
-    "maire béziers",
-    "qu"
    ]
   }
  ]
