@@ -1,6 +1,6 @@
 {
  "week": "2026-W40",
- "generated_at": "2026-10-03T18:05:52+00:00",
+ "generated_at": "2026-10-03T21:35:44+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Propos antisémites de Jordan Bardella : Mediapart publie ses preuves après les démentis du RN",
    "url": "https://www.mediapart.fr/journal/politique/280926/les-banques-sont-toutes-detenues-par-des-juifs-jordan-bardella-face-ses-ecrits-antisemites",
-   "n_members": 312,
+   "n_members": 327,
    "n_sources": 38,
    "counts": {
     "left": 9,
@@ -51,11 +51,11 @@
    },
    "blindspot_score": 0.1,
    "blindspot_for": null,
-   "divergence": 0.171,
+   "divergence": 0.164,
    "category": "politique",
    "terms_left": [
-    "révélations",
     "antisémites jordan",
+    "révélations",
     "droite"
    ],
    "terms_right": [
@@ -67,7 +67,7 @@
   {
    "title": "Blocage des lycées en France : la violence monte d'un cran",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 570,
+   "n_members": 572,
    "n_sources": 37,
    "counts": {
     "left": 10,
@@ -81,17 +81,17 @@
    },
    "blindspot_score": 0.048,
    "blindspot_for": null,
-   "divergence": 0.301,
+   "divergence": 0.3,
    "category": "société",
    "terms_left": [
     "edouard",
     "edouard geffray",
-    "policières"
+    "répression"
    ],
    "terms_right": [
     "blocus",
-    "dégradations",
-    "blocus lycées"
+    "blocus lycées",
+    "dégradations"
    ]
   },
   {
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.318,
+   "divergence": 0.32,
    "category": "économie",
    "terms_left": [
     "lecornu",
@@ -247,7 +247,7 @@
   {
    "title": "Vol FlyDubai dérouté : l'enquête établit que le copilote planifiait un «acte terroriste»",
    "url": "https://information.tv5monde.com/international/un-vol-dubai-tel-aviv-atterrit-en-urgence-en-arabie-saoudite-apres-une-violente-altercation-entre-pilotes-2839623",
-   "n_members": 138,
+   "n_members": 139,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -261,12 +261,12 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.258,
+   "divergence": 0.259,
    "category": "international",
    "terms_left": [
     "emirats",
     "emirats arabes",
-    "unis"
+    "oman"
    ],
    "terms_right": [
     "dérouté",
@@ -277,7 +277,7 @@
   {
    "title": "Brésil. Élection présidentielle : Lula et le fils Bolsonaro au coude à coude dans un pays très polarisé",
    "url": "https://information.tv5monde.com/international/presidentielle-au-bresil-flavio-bolsonaro-surfe-sur-le-scandale-2838501",
-   "n_members": 94,
+   "n_members": 95,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -291,17 +291,17 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.605,
+   "divergence": 0.593,
    "category": "politique",
    "terms_left": [
     "brésil lula",
     "trump",
-    "lula"
+    "droite"
    ],
    "terms_right": [
     "macron",
     "emmanuel",
-    "emmanuel macron"
+    "mandat"
    ]
   },
   {
@@ -531,7 +531,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.705,
+   "divergence": 0.704,
    "category": "international",
    "terms_left": [
     "nouvelle",
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.653,
+   "divergence": 0.655,
    "category": "économie",
    "terms_left": [
     "ukraine",
@@ -621,17 +621,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.52,
+   "divergence": 0.515,
    "category": "société",
    "terms_left": [
+    "face",
     "tour eiffel",
-    "eiffel",
-    "tour"
+    "eiffel"
    ],
    "terms_right": [
     "mobilisation",
     "sécurité",
-    "ligne"
+    "estime"
    ]
   },
   {
@@ -667,7 +667,7 @@
   {
    "title": "Présidentielle au Brésil: géopolitique, commerce, climat, démocratie... Les enjeux d'une élection cruciale",
    "url": "https://www.leparisien.fr/politique/le-president-argentin-javier-milei-va-rencontrer-emmanuel-macron-cette-semaine-en-france-28-09-2026-4CZH23UU3FAKJCHLKCAYISY5UY.php",
-   "n_members": 57,
+   "n_members": 58,
    "n_sources": 26,
    "counts": {
     "left": 7,
@@ -697,7 +697,7 @@
   {
    "title": "Enquête de «Mediapart» sur Jordan Bardella : «Marine Le Pen met une cible dans le dos des journalistes», dénonce un collectif de sociétés de journalistes",
    "url": "https://www.franceinfo.fr/politique/jordan-bardella/on-vient-de-deux-univers-differents-maria-carolina-de-bourbon-des-deux-siciles-se-confie-pour-la-premiere-fois-sur-sa-relation-avec-jordan-bardella_8211857.html",
-   "n_members": 56,
+   "n_members": 57,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -711,7 +711,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.687,
+   "divergence": 0.656,
    "category": "politique",
    "terms_left": [
     "marine",
@@ -779,7 +779,7 @@
   {
    "title": "Guerre en Ukraine : un important pont de Kiev touché par une frappe russe",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 206,
+   "n_members": 210,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -793,23 +793,23 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.416,
+   "divergence": 0.413,
    "category": "international",
    "terms_left": [
     "bombardements",
     "direct",
-    "bombardements russes"
+    "ville"
    ],
    "terms_right": [
     "frappe",
-    "frappes russes",
-    "frappe russe"
+    "frappe russe",
+    "frappes russes"
    ]
   },
   {
    "title": "Espagne : les textes sur le logement rejetés par les députés, les manifestants appellent à la grève générale",
    "url": "https://www.tf1info.fr/international/videos/video-emoi-en-espagne-ils-refusent-d-expulser-une-femme-de-87-ans-56710-2465927.html",
-   "n_members": 116,
+   "n_members": 117,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -943,7 +943,7 @@
    },
    "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.507,
+   "divergence": 0.506,
    "category": "économie",
    "terms_left": [
     "publique",
@@ -1033,7 +1033,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.798,
+   "divergence": 0.797,
    "category": "économie",
    "terms_left": [
     "totalenergies",
@@ -1063,7 +1063,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.357,
+   "divergence": 0.355,
    "category": "société",
    "terms_left": [
     "rémy",
@@ -1109,7 +1109,7 @@
   {
    "title": "Pluie-inondation : voici le seul département placé en vigilance orange ce samedi",
    "url": "https://www.cnews.fr/france/2026-09-21/orages-ces-deux-departements-menaces-par-les-eclairs-ce-mercredi-1922269",
-   "n_members": 122,
+   "n_members": 124,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1123,12 +1123,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.384,
+   "divergence": 0.386,
    "category": "environnement",
    "terms_left": [
     "exceptionnel",
     "gard hérault",
-    "méditerranéen exceptionnel"
+    "millimètres"
    ],
    "terms_right": [
     "orages",
@@ -1193,7 +1193,7 @@
    "terms_right": [
     "états-unis",
     "tempête",
-    "tempête rare"
+    "rare saison"
    ]
   }
  ]
