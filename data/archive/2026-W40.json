@@ -1,13 +1,13 @@
 {
  "week": "2026-W40",
- "generated_at": "2026-10-03T14:05:48+00:00",
+ "generated_at": "2026-10-03T18:05:52+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Top des ventes de livres : Thélyson Orélien boosté par la polémique",
    "url": "https://www.nouvelobs.com/bibliobs/20260920.OBS118426/thelyson-orelien-le-phenomene-de-la-rentree-litteraire-je-ne-tiens-pas-mon-crayon-avec-ma-tete-mais-avec-mes-tripes.html",
-   "n_members": 193,
+   "n_members": 194,
    "n_sources": 40,
    "counts": {
     "left": 10,
@@ -37,7 +37,7 @@
   {
    "title": "Propos antisémites de Jordan Bardella : Mediapart publie ses preuves après les démentis du RN",
    "url": "https://www.mediapart.fr/journal/politique/280926/les-banques-sont-toutes-detenues-par-des-juifs-jordan-bardella-face-ses-ecrits-antisemites",
-   "n_members": 311,
+   "n_members": 312,
    "n_sources": 38,
    "counts": {
     "left": 9,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.1,
    "blindspot_for": null,
-   "divergence": 0.17,
+   "divergence": 0.171,
    "category": "politique",
    "terms_left": [
     "révélations",
@@ -67,7 +67,7 @@
   {
    "title": "Blocage des lycées en France : la violence monte d'un cran",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 560,
+   "n_members": 570,
    "n_sources": 37,
    "counts": {
     "left": 10,
@@ -81,12 +81,12 @@
    },
    "blindspot_score": 0.048,
    "blindspot_for": null,
-   "divergence": 0.299,
+   "divergence": 0.301,
    "category": "société",
    "terms_left": [
-    "policières",
-    "répression",
-    "violences policières"
+    "edouard",
+    "edouard geffray",
+    "policières"
    ],
    "terms_right": [
     "blocus",
@@ -97,7 +97,7 @@
   {
    "title": "Budget 2027 : ce qu'il faut retenir des mesures annoncées par le gouvernement Lecornu",
    "url": "https://www.lejdd.fr/Societe/exclusif-subventions-aux-associations-60-milliards-dargent-public-et-beaucoup-dopacite-183921",
-   "n_members": 217,
+   "n_members": 218,
    "n_sources": 37,
    "counts": {
     "left": 8,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.317,
+   "divergence": 0.318,
    "category": "économie",
    "terms_left": [
     "lecornu",
@@ -245,9 +245,9 @@
    ]
   },
   {
-   "title": "Vol Flydubai dérouté vers l’Arabie saoudite, la piste \"terroriste\" évoquée",
+   "title": "Vol FlyDubai dérouté : l'enquête établit que le copilote planifiait un «acte terroriste»",
    "url": "https://information.tv5monde.com/international/un-vol-dubai-tel-aviv-atterrit-en-urgence-en-arabie-saoudite-apres-une-violente-altercation-entre-pilotes-2839623",
-   "n_members": 137,
+   "n_members": 138,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -261,17 +261,47 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.282,
+   "divergence": 0.258,
    "category": "international",
    "terms_left": [
     "emirats",
     "emirats arabes",
-    "oman"
+    "unis"
    ],
    "terms_right": [
     "dérouté",
     "commandant",
     "flydubai dérouté"
+   ]
+  },
+  {
+   "title": "Brésil. Élection présidentielle : Lula et le fils Bolsonaro au coude à coude dans un pays très polarisé",
+   "url": "https://information.tv5monde.com/international/presidentielle-au-bresil-flavio-bolsonaro-surfe-sur-le-scandale-2838501",
+   "n_members": 94,
+   "n_sources": 30,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 7,
+    "opinion": 6
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.605,
+   "category": "politique",
+   "terms_left": [
+    "brésil lula",
+    "trump",
+    "lula"
+   ],
+   "terms_right": [
+    "macron",
+    "emmanuel",
+    "emmanuel macron"
    ]
   },
   {
@@ -305,36 +335,6 @@
    ]
   },
   {
-   "title": "Brésil. Élection présidentielle : Lula et le fils Bolsonaro au coude à coude dans un pays très polarisé",
-   "url": "https://information.tv5monde.com/international/presidentielle-au-bresil-flavio-bolsonaro-surfe-sur-le-scandale-2838501",
-   "n_members": 87,
-   "n_sources": 29,
-   "counts": {
-    "left": 6,
-    "centre": 14,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 6,
-    "opinion": 6
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.658,
-   "category": "politique",
-   "terms_left": [
-    "lula",
-    "brésil",
-    "trump"
-   ],
-   "terms_right": [
-    "macron",
-    "emmanuel",
-    "emmanuel macron"
-   ]
-  },
-  {
    "title": "Groupe RN-UDR, droite toujours majoritaire, élus LFI… A quoi le Sénat va-t-il désormais ressembler ?",
    "url": "https://www.publicsenat.fr/actualites/institutions/elections-senatoriales-qui-sont-les-grands-electeurs",
    "n_members": 124,
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.378,
+   "divergence": 0.377,
    "category": "politique",
    "terms_left": [
     "sénatoriales",
@@ -446,7 +446,7 @@
    "terms_left": [
     "paris",
     "femmes",
-    "ouvertes paris"
+    "enfants"
    ],
    "terms_right": [
     "intégrale violences",
@@ -531,7 +531,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.704,
+   "divergence": 0.705,
    "category": "international",
    "terms_left": [
     "nouvelle",
@@ -561,12 +561,12 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.739,
+   "divergence": 0.744,
    "category": "économie",
    "terms_left": [
     "hausse",
     "budget",
-    "hausse prix"
+    "personnes"
    ],
    "terms_right": [
     "carburants",
@@ -591,12 +591,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.674,
+   "divergence": 0.653,
    "category": "économie",
    "terms_left": [
-    "cinéma",
     "ukraine",
-    "éducation nationale"
+    "prévoit",
+    "cinéma"
    ],
    "terms_right": [
     "euros",
@@ -621,7 +621,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.519,
+   "divergence": 0.52,
    "category": "société",
    "terms_left": [
     "tour eiffel",
@@ -667,7 +667,7 @@
   {
    "title": "Présidentielle au Brésil: géopolitique, commerce, climat, démocratie... Les enjeux d'une élection cruciale",
    "url": "https://www.leparisien.fr/politique/le-president-argentin-javier-milei-va-rencontrer-emmanuel-macron-cette-semaine-en-france-28-09-2026-4CZH23UU3FAKJCHLKCAYISY5UY.php",
-   "n_members": 56,
+   "n_members": 57,
    "n_sources": 26,
    "counts": {
     "left": 7,
@@ -681,7 +681,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.51,
+   "divergence": 0.505,
    "category": "international",
    "terms_left": [
     "brésil",
@@ -691,13 +691,43 @@
    "terms_right": [
     "argentin",
     "france",
-    "président argentin"
+    "rencontre"
+   ]
+  },
+  {
+   "title": "Enquête de «Mediapart» sur Jordan Bardella : «Marine Le Pen met une cible dans le dos des journalistes», dénonce un collectif de sociétés de journalistes",
+   "url": "https://www.franceinfo.fr/politique/jordan-bardella/on-vient-de-deux-univers-differents-maria-carolina-de-bourbon-des-deux-siciles-se-confie-pour-la-premiere-fois-sur-sa-relation-avec-jordan-bardella_8211857.html",
+   "n_members": 56,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.687,
+   "category": "politique",
+   "terms_left": [
+    "marine",
+    "marine pen",
+    "pen"
+   ],
+   "terms_right": [
+    "députée",
+    "sexistes",
+    "sexuelles"
    ]
   },
   {
    "title": "Viol collectif à l’université de Cornell : on vous explique cette affaire qui scandalise les Etats-Unis",
    "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-extremement-positif-le-chef-de-l-otan-reagit-a-l-accord-sur-le-groenland-avec-les-etats-unis_VN-202609230253.html",
-   "n_members": 66,
+   "n_members": 67,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -749,7 +779,7 @@
   {
    "title": "Guerre en Ukraine : un important pont de Kiev touché par une frappe russe",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 202,
+   "n_members": 206,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -777,6 +807,36 @@
    ]
   },
   {
+   "title": "Espagne : les textes sur le logement rejetés par les députés, les manifestants appellent à la grève générale",
+   "url": "https://www.tf1info.fr/international/videos/video-emoi-en-espagne-ils-refusent-d-expulser-une-femme-de-87-ans-56710-2465927.html",
+   "n_members": 116,
+   "n_sources": 24,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 4
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.396,
+   "category": "international",
+   "terms_left": [
+    "maricarmen",
+    "logement espagne",
+    "logement"
+   ],
+   "terms_right": [
+    "textes",
+    "sánchez",
+    "ministre"
+   ]
+  },
+  {
    "title": "Incident près d'une base militaire en Angleterre : un Britanno-Iranien arrêté",
    "url": "https://www.bfmtv.com/international/europe/angleterre/un-incident-majeur-pres-d-une-base-utilisee-par-l-us-air-force-en-angleterre-des-arrestations-liees-a-des-explosifs_AD-202609270133.html",
    "n_members": 81,
@@ -793,7 +853,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.253,
+   "divergence": 0.249,
    "category": "international",
    "terms_left": [
     "police",
@@ -801,9 +861,9 @@
     "antiterroriste"
    ],
    "terms_right": [
-    "majeur base",
+    "enquête",
     "arrêtés",
-    "enquête"
+    "majeur base"
    ]
   },
   {
@@ -853,12 +913,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.758,
+   "divergence": 0.761,
    "category": "politique",
    "terms_left": [
-    "primaire",
-    "glucksmann",
-    "raphaël"
+    "ans",
+    "qu",
+    "candidat"
    ],
    "terms_right": [
     "mélenchon",
@@ -883,7 +943,7 @@
    },
    "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.506,
+   "divergence": 0.507,
    "category": "économie",
    "terms_left": [
     "publique",
@@ -973,17 +1033,17 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.797,
+   "divergence": 0.798,
    "category": "économie",
    "terms_left": [
     "totalenergies",
-    "pétrole",
-    "augmenter"
+    "actionnaires",
+    "pétrole"
    ],
    "terms_right": [
     "gouvernement",
-    "budget",
-    "ans"
+    "français",
+    "budget"
    ]
   },
   {
@@ -1003,7 +1063,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.362,
+   "divergence": 0.357,
    "category": "société",
    "terms_left": [
     "rémy",
@@ -1049,7 +1109,7 @@
   {
    "title": "Pluie-inondation : voici le seul département placé en vigilance orange ce samedi",
    "url": "https://www.cnews.fr/france/2026-09-21/orages-ces-deux-departements-menaces-par-les-eclairs-ce-mercredi-1922269",
-   "n_members": 113,
+   "n_members": 122,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1063,47 +1123,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.363,
+   "divergence": 0.384,
    "category": "environnement",
    "terms_left": [
     "exceptionnel",
     "gard hérault",
-    "rouge pluie-inondation"
+    "méditerranéen exceptionnel"
    ],
    "terms_right": [
+    "orages",
     "départements",
-    "départements placés",
     "jaune"
-   ]
-  },
-  {
-   "title": "Espagne : nouveau revers pour Pedro Sanchez, les députés rejettent ses textes sur le logement",
-   "url": "https://www.tf1info.fr/international/videos/video-emoi-en-espagne-ils-refusent-d-expulser-une-femme-de-87-ans-56710-2465927.html",
-   "n_members": 105,
-   "n_sources": 23,
-   "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 4
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.443,
-   "category": "international",
-   "terms_left": [
-    "maricarmen",
-    "logement espagne",
-    "logement"
-   ],
-   "terms_right": [
-    "pays",
-    "locataires",
-    "face"
    ]
   },
   {
@@ -1123,7 +1153,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.519,
+   "divergence": 0.529,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -1133,7 +1163,7 @@
    "terms_right": [
     "édouard philippe",
     "édouard",
-    "faut"
+    "départ"
    ]
   },
   {
@@ -1163,37 +1193,7 @@
    "terms_right": [
     "états-unis",
     "tempête",
-    "rare saison"
-   ]
-  },
-  {
-   "title": "La SNCF enregistre 80 millions d'euros de perte cet été à cause des incendies et des canicules",
-   "url": "https://www.sudouest.fr/economie/energie/carburants/prix-du-carburant-a-quoi-servent-les-certificats-d-energie-cee-dont-certains-demandent-la-suspension-ou-la-suppression-30751688.php",
-   "n_members": 51,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 4,
-    "opinion": 5
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.823,
-   "category": "international",
-   "terms_left": [
-    "peine",
-    "mort",
-    "peine mort"
-   ],
-   "terms_right": [
-    "millions euros",
-    "millions",
-    "sncf"
+    "tempête rare"
    ]
   }
  ]
