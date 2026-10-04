@@ -1,6 +1,6 @@
 {
  "week": "2026-W40",
- "generated_at": "2026-10-03T21:35:44+00:00",
+ "generated_at": "2026-10-04T00:15:22+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Propos antisémites de Jordan Bardella : Mediapart publie ses preuves après les démentis du RN",
    "url": "https://www.mediapart.fr/journal/politique/280926/les-banques-sont-toutes-detenues-par-des-juifs-jordan-bardella-face-ses-ecrits-antisemites",
-   "n_members": 327,
+   "n_members": 328,
    "n_sources": 38,
    "counts": {
     "left": 9,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.1,
    "blindspot_for": null,
-   "divergence": 0.164,
+   "divergence": 0.165,
    "category": "politique",
    "terms_left": [
     "antisémites jordan",
@@ -247,7 +247,7 @@
   {
    "title": "Vol FlyDubai dérouté : l'enquête établit que le copilote planifiait un «acte terroriste»",
    "url": "https://information.tv5monde.com/international/un-vol-dubai-tel-aviv-atterrit-en-urgence-en-arabie-saoudite-apres-une-violente-altercation-entre-pilotes-2839623",
-   "n_members": 139,
+   "n_members": 140,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -277,7 +277,7 @@
   {
    "title": "Brésil. Élection présidentielle : Lula et le fils Bolsonaro au coude à coude dans un pays très polarisé",
    "url": "https://information.tv5monde.com/international/presidentielle-au-bresil-flavio-bolsonaro-surfe-sur-le-scandale-2838501",
-   "n_members": 95,
+   "n_members": 96,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -575,6 +575,36 @@
    ]
   },
   {
+   "title": "Présidentielle au Brésil: géopolitique, commerce, climat, démocratie... Les enjeux d'une élection cruciale",
+   "url": "https://www.leparisien.fr/politique/le-president-argentin-javier-milei-va-rencontrer-emmanuel-macron-cette-semaine-en-france-28-09-2026-4CZH23UU3FAKJCHLKCAYISY5UY.php",
+   "n_members": 59,
+   "n_sources": 27,
+   "counts": {
+    "left": 8,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 11,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.519,
+   "category": "international",
+   "terms_left": [
+    "brésil",
+    "droite",
+    "extrême droite"
+   ],
+   "terms_right": [
+    "argentin",
+    "france",
+    "président argentin"
+   ]
+  },
+  {
    "title": "Budget 2027 : les produits sucrés vont-ils être taxés ?",
    "url": "https://www.liberation.fr/culture/cinema/le-monde-du-cinema-vent-debout-contre-un-projet-de-hausse-de-la-tva-sur-canal-20260928_BZN2L2UWNJC2JBI5R5OV7HAF7Q/",
    "n_members": 61,
@@ -665,39 +695,9 @@
    ]
   },
   {
-   "title": "Présidentielle au Brésil: géopolitique, commerce, climat, démocratie... Les enjeux d'une élection cruciale",
-   "url": "https://www.leparisien.fr/politique/le-president-argentin-javier-milei-va-rencontrer-emmanuel-macron-cette-semaine-en-france-28-09-2026-4CZH23UU3FAKJCHLKCAYISY5UY.php",
-   "n_members": 58,
-   "n_sources": 26,
-   "counts": {
-    "left": 7,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 10,
-    "opinion": 3
-   },
-   "blindspot_score": 0.067,
-   "blindspot_for": null,
-   "divergence": 0.505,
-   "category": "international",
-   "terms_left": [
-    "brésil",
-    "droite",
-    "extrême droite"
-   ],
-   "terms_right": [
-    "argentin",
-    "france",
-    "rencontre"
-   ]
-  },
-  {
    "title": "Enquête de «Mediapart» sur Jordan Bardella : «Marine Le Pen met une cible dans le dos des journalistes», dénonce un collectif de sociétés de journalistes",
    "url": "https://www.franceinfo.fr/politique/jordan-bardella/on-vient-de-deux-univers-differents-maria-carolina-de-bourbon-des-deux-siciles-se-confie-pour-la-premiere-fois-sur-sa-relation-avec-jordan-bardella_8211857.html",
-   "n_members": 57,
+   "n_members": 58,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -711,7 +711,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.656,
+   "divergence": 0.651,
    "category": "politique",
    "terms_left": [
     "marine",
@@ -1033,7 +1033,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.797,
+   "divergence": 0.798,
    "category": "économie",
    "terms_left": [
     "totalenergies",
