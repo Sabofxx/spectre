@@ -1,6 +1,6 @@
 {
  "week": "2026-W40",
- "generated_at": "2026-10-04T12:38:50+00:00",
+ "generated_at": "2026-10-04T17:12:41+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -35,9 +35,39 @@
    ]
   },
   {
+   "title": "Blocage des lycées en France : la violence monte d'un cran",
+   "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
+   "n_members": 611,
+   "n_sources": 38,
+   "counts": {
+    "left": 10,
+    "centre": 16,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 14,
+    "opinion": 7
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.299,
+   "category": "société",
+   "terms_left": [
+    "edouard",
+    "edouard geffray",
+    "education"
+   ],
+   "terms_right": [
+    "blocus",
+    "blocus lycées",
+    "ordre"
+   ]
+  },
+  {
    "title": "Propos antisémites de Jordan Bardella : Mediapart publie ses preuves après les démentis du RN",
    "url": "https://www.mediapart.fr/journal/politique/280926/les-banques-sont-toutes-detenues-par-des-juifs-jordan-bardella-face-ses-ecrits-antisemites",
-   "n_members": 339,
+   "n_members": 343,
    "n_sources": 38,
    "counts": {
     "left": 9,
@@ -51,12 +81,12 @@
    },
    "blindspot_score": 0.1,
    "blindspot_for": null,
-   "divergence": 0.174,
+   "divergence": 0.176,
    "category": "politique",
    "terms_left": [
     "antisémites jordan",
-    "révélations",
-    "révélations mediapart"
+    "révélations mediapart",
+    "révélations"
    ],
    "terms_right": [
     "attribués jordan",
@@ -65,39 +95,9 @@
    ]
   },
   {
-   "title": "Blocage des lycées en France : la violence monte d'un cran",
-   "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 594,
-   "n_sources": 37,
-   "counts": {
-    "left": 10,
-    "centre": 16,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 13,
-    "opinion": 7
-   },
-   "blindspot_score": 0.048,
-   "blindspot_for": null,
-   "divergence": 0.296,
-   "category": "société",
-   "terms_left": [
-    "edouard",
-    "edouard geffray",
-    "répression"
-   ],
-   "terms_right": [
-    "blocus",
-    "blocus lycées",
-    "ordre"
-   ]
-  },
-  {
    "title": "Budget 2027 : ce qu'il faut retenir des mesures annoncées par le gouvernement Lecornu",
    "url": "https://www.lejdd.fr/Societe/exclusif-subventions-aux-associations-60-milliards-dargent-public-et-beaucoup-dopacite-183921",
-   "n_members": 221,
+   "n_members": 222,
    "n_sources": 37,
    "counts": {
     "left": 8,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.352,
+   "divergence": 0.373,
    "category": "économie",
    "terms_left": [
     "lecornu",
@@ -120,8 +120,8 @@
    ],
    "terms_right": [
     "entreprises",
-    "impôts",
-    "retraites"
+    "retraites",
+    "déficit"
    ]
   },
   {
@@ -215,9 +215,9 @@
    ]
   },
   {
-   "title": "Brésil. Élection présidentielle : Lula et le fils Bolsonaro au coude à coude dans un pays très polarisé",
+   "title": "Élection présidentielle au Brésil : Lula et Flavio Bolsonaro au coude à coude dans les sondages",
    "url": "https://information.tv5monde.com/international/presidentielle-au-bresil-flavio-bolsonaro-surfe-sur-le-scandale-2838501",
-   "n_members": 118,
+   "n_members": 128,
    "n_sources": 31,
    "counts": {
     "left": 7,
@@ -231,17 +231,17 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.417,
+   "divergence": 0.401,
    "category": "international",
    "terms_left": [
     "trump",
-    "serré",
-    "face"
+    "scrutin",
+    "droite"
    ],
    "terms_right": [
-    "macron",
+    "flávio",
     "jair",
-    "pouvoir"
+    "flávio bolsonaro"
    ]
   },
   {
@@ -277,7 +277,7 @@
   {
    "title": "Vol FlyDubai dérouté : l'enquête établit que le copilote planifiait un «acte terroriste»",
    "url": "https://information.tv5monde.com/international/un-vol-dubai-tel-aviv-atterrit-en-urgence-en-arabie-saoudite-apres-une-violente-altercation-entre-pilotes-2839623",
-   "n_members": 140,
+   "n_members": 143,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.261,
+   "divergence": 0.268,
    "category": "international",
    "terms_left": [
     "emirats",
@@ -299,8 +299,8 @@
     "attaque"
    ],
    "terms_right": [
+    "bord",
     "dérouté",
-    "flydubai dérouté",
     "copilote"
    ]
   },
@@ -441,17 +441,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.397,
+   "divergence": 0.404,
    "category": "société",
    "terms_left": [
     "paris",
     "enfants",
-    "femmes"
+    "ouvertes paris"
    ],
    "terms_right": [
-    "intégrale violences",
-    "ans",
-    "er"
+    "lunettes connectées",
+    "connectées",
+    "lunettes"
    ]
   },
   {
@@ -561,17 +561,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.506,
+   "divergence": 0.526,
    "category": "international",
    "terms_left": [
     "lula",
     "brésil",
-    "bolsonaro"
+    "extrême droite"
    ],
    "terms_right": [
     "france",
-    "argentin",
-    "président argentin"
+    "javier",
+    "javier milei"
    ]
   },
   {
@@ -630,8 +630,8 @@
    ],
    "terms_right": [
     "députée",
-    "affaire",
-    "loi"
+    "loi",
+    "affaire"
    ]
   },
   {
@@ -651,12 +651,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.666,
+   "divergence": 0.684,
    "category": "économie",
    "terms_left": [
     "ukraine",
-    "éducation nationale",
-    "nationale"
+    "cinéma",
+    "éducation nationale"
    ],
    "terms_right": [
     "sucrés",
@@ -725,9 +725,9 @@
    ]
   },
   {
-   "title": "Marche des fiertés 2027 : des dizaines de milliers de personnes défilent dans Paris, inquiètes des prochaines élections",
+   "title": "Paris : Des milliers de personnes vont défiler pour défendre les droits LGBT lors de la Marche des fiertés samedi",
    "url": "https://www.numerama.com/vroom/2337147-quand-acheter-son-billet-de-train-pour-noel-2026-voici-la-date-douverture-des-ventes-sur-sncf-connect.html",
-   "n_members": 57,
+   "n_members": 59,
    "n_sources": 26,
    "counts": {
     "left": 7,
@@ -741,23 +741,53 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.625,
+   "divergence": 0.621,
    "category": "société",
    "terms_left": [
+    "place",
     "marche fiertés",
-    "fiertés",
-    "marche"
+    "fiertés"
    ],
    "terms_right": [
     "sncf",
     "trains",
-    "billets"
+    "noël"
    ]
   },
   {
-   "title": "Viol collectif à l’université de Cornell : on vous explique cette affaire qui scandalise les Etats-Unis",
+   "title": "Guerre en Ukraine : un important pont de Kiev touché par une frappe russe",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
+   "n_members": 218,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.39,
+   "category": "international",
+   "terms_left": [
+    "ukraine russie",
+    "bombardements",
+    "ville"
+   ],
+   "terms_right": [
+    "frappe",
+    "pont kiev",
+    "frappe russe"
+   ]
+  },
+  {
+   "title": "Viol collectif présumé à Cornell : enquête ouverte sur la gestion de l'affaire par l'université",
    "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-extremement-positif-le-chef-de-l-otan-reagit-a-l-accord-sur-le-groenland-avec-les-etats-unis_VN-202609230253.html",
-   "n_members": 75,
+   "n_members": 76,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -771,7 +801,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.631,
+   "divergence": 0.629,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -779,9 +809,9 @@
     "suprême"
    ],
    "terms_right": [
-    "new york",
-    "york",
-    "new"
+    "trump",
+    "présumé",
+    "président"
    ]
   },
   {
@@ -811,7 +841,7 @@
    "terms_right": [
     "ans",
     "milliards",
-    "face"
+    "france"
    ]
   },
   {
@@ -837,39 +867,39 @@
    "terms_right": []
   },
   {
-   "title": "Guerre en Ukraine : un important pont de Kiev touché par une frappe russe",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 213,
-   "n_sources": 24,
+   "title": "Soupçons de financement du Hamas : Trois mis en examen en France visés par des sanctions américaines",
+   "url": "https://www.lemonde.fr/pixels/article/2026/09/26/des-agents-ia-d-openai-ont-fait-fuiter-sur-internet-des-images-d-utilisateurs-de-chatgpt_6782839_4408996.html",
+   "n_members": 60,
+   "n_sources": 25,
    "counts": {
-    "left": 4,
-    "centre": 14,
-    "right": 6
+    "left": 2,
+    "centre": 15,
+    "right": 8
    },
    "style_counts": {
     "factuel": 17,
     "mixte": 6,
-    "opinion": 1
+    "opinion": 2
    },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.4,
-   "category": "international",
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": 0.702,
+   "category": "sciences-tech",
    "terms_left": [
-    "bombardements",
-    "ukraine russie",
-    "ville"
+    "justice",
+    "manquements",
+    "agents"
    ],
    "terms_right": [
-    "frappe",
-    "pont kiev",
-    "frappe russe"
+    "français",
+    "hamas",
+    "millions"
    ]
   },
   {
-   "title": "Espagne : les textes sur le logement rejetés par les députés, les manifestants appellent à la grève générale",
+   "title": "Manifestations géantes en Espagne : après le rejet des mesures sur le logement, Pedro Sanchez évoque des législatives anticipées",
    "url": "https://www.tf1info.fr/international/videos/video-emoi-en-espagne-ils-refusent-d-expulser-une-femme-de-87-ans-56710-2465927.html",
-   "n_members": 117,
+   "n_members": 118,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -883,12 +913,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.391,
+   "divergence": 0.387,
    "category": "international",
    "terms_left": [
     "maricarmen",
     "logement espagne",
-    "mesures urgence"
+    "logement"
    ],
    "terms_right": [
     "textes",
@@ -973,7 +1003,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.765,
+   "divergence": 0.768,
    "category": "politique",
    "terms_left": [
     "ans",
@@ -982,8 +1012,8 @@
    ],
    "terms_right": [
     "macron",
-    "france",
-    "jean-luc mélenchon"
+    "jean-luc mélenchon",
+    "jean-luc"
    ]
   },
   {
@@ -1063,11 +1093,11 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.801,
+   "divergence": 0.8,
    "category": "économie",
    "terms_left": [
-    "totalenergies",
     "actionnaires",
+    "totalenergies",
     "pétrole"
    ],
    "terms_right": [
@@ -1093,12 +1123,12 @@
    },
    "blindspot_score": 0.538,
    "blindspot_for": null,
-   "divergence": 0.836,
+   "divergence": 0.835,
    "category": "économie",
    "terms_left": [
     "virus",
-    "stellantis",
-    "taux"
+    "taux",
+    "france"
    ],
    "terms_right": [
     "an",
@@ -1126,9 +1156,9 @@
    "divergence": 0.357,
    "category": "société",
    "terms_left": [
-    "rémy daillet",
-    "daillet",
-    "rémy"
+    "racisme envers",
+    "accusés renvoyés",
+    "aggravante racisme"
    ],
    "terms_right": [
     "jugés",
@@ -1137,63 +1167,33 @@
    ]
   },
   {
-   "title": "Soupçons de financement du Hamas : Trois mis en examen en France visés par des sanctions américaines",
-   "url": "https://www.lemonde.fr/pixels/article/2026/09/26/des-agents-ia-d-openai-ont-fait-fuiter-sur-internet-des-images-d-utilisateurs-de-chatgpt_6782839_4408996.html",
-   "n_members": 59,
+   "title": "Génétique, microparticules : pourquoi le cancer du sein touche de plus en plus les moins de 40 ans",
+   "url": "https://sante.ouest-france.fr/cancer/reportage-des-tumeurs-sur-puce-pour-adapter-les-traitements-du-cancer-du-sein-fefdeaba-b343-11f1-8815-214ab2555576",
+   "n_members": 47,
    "n_sources": 24,
    "counts": {
-    "left": 2,
+    "left": 5,
     "centre": 14,
-    "right": 8
+    "right": 5
    },
    "style_counts": {
     "factuel": 16,
-    "mixte": 6,
-    "opinion": 2
+    "mixte": 7,
+    "opinion": 1
    },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": 0.702,
-   "category": "sciences-tech",
-   "terms_left": [
-    "justice",
-    "manquements",
-    "agents"
-   ],
-   "terms_right": [
-    "français",
-    "hamas",
-    "millions"
-   ]
-  },
-  {
-   "title": "Ligue des nations : Olise permet aux Bleus d'enchaîner face à la Belgique",
-   "url": "https://www.leparisien.fr/sports/football/equipe-de-france/equipe-de-france-lepaul-truffert-jacquet-quels-pourraient-etre-les-nouveaux-visages-de-la-premiere-liste-de-zidane-17-09-2026-YEWBEM6EGZDDJB2XXLMNIFAO2M.php",
-   "n_members": 167,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.273,
+   "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.354,
-   "category": "sport",
+   "divergence": 0.509,
+   "category": "société",
    "terms_left": [
-    "sélectionneur",
-    "jeu",
-    "joue"
+    "femmes",
+    "étude",
+    "rose"
    ],
    "terms_right": [
-    "bleus",
-    "lepaul",
-    "match"
+    "dépistage",
+    "femme",
+    "ans"
    ]
   }
  ]
