@@ -1,6 +1,6 @@
 {
  "week": "2026-W40",
- "generated_at": "2026-10-04T06:07:43+00:00",
+ "generated_at": "2026-10-04T12:38:50+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Propos antisémites de Jordan Bardella : Mediapart publie ses preuves après les démentis du RN",
    "url": "https://www.mediapart.fr/journal/politique/280926/les-banques-sont-toutes-detenues-par-des-juifs-jordan-bardella-face-ses-ecrits-antisemites",
-   "n_members": 332,
+   "n_members": 339,
    "n_sources": 38,
    "counts": {
     "left": 9,
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.1,
    "blindspot_for": null,
-   "divergence": 0.167,
+   "divergence": 0.174,
    "category": "politique",
    "terms_left": [
     "antisémites jordan",
     "révélations",
-    "droite"
+    "révélations mediapart"
    ],
    "terms_right": [
     "attribués jordan",
@@ -67,7 +67,7 @@
   {
    "title": "Blocage des lycées en France : la violence monte d'un cran",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 576,
+   "n_members": 594,
    "n_sources": 37,
    "counts": {
     "left": 10,
@@ -91,13 +91,13 @@
    "terms_right": [
     "blocus",
     "blocus lycées",
-    "dégradations"
+    "ordre"
    ]
   },
   {
    "title": "Budget 2027 : ce qu'il faut retenir des mesures annoncées par le gouvernement Lecornu",
    "url": "https://www.lejdd.fr/Societe/exclusif-subventions-aux-associations-60-milliards-dargent-public-et-beaucoup-dopacite-183921",
-   "n_members": 219,
+   "n_members": 221,
    "n_sources": 37,
    "counts": {
     "left": 8,
@@ -111,17 +111,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.331,
+   "divergence": 0.352,
    "category": "économie",
    "terms_left": [
     "lecornu",
-    "postes",
-    "sébastien"
+    "sébastien",
+    "sébastien lecornu"
    ],
    "terms_right": [
-    "euros",
-    "retraites",
-    "entreprises"
+    "entreprises",
+    "impôts",
+    "retraites"
    ]
   },
   {
@@ -215,6 +215,36 @@
    ]
   },
   {
+   "title": "Brésil. Élection présidentielle : Lula et le fils Bolsonaro au coude à coude dans un pays très polarisé",
+   "url": "https://information.tv5monde.com/international/presidentielle-au-bresil-flavio-bolsonaro-surfe-sur-le-scandale-2838501",
+   "n_members": 118,
+   "n_sources": 31,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 8,
+    "opinion": 6
+   },
+   "blindspot_score": 0.176,
+   "blindspot_for": null,
+   "divergence": 0.417,
+   "category": "international",
+   "terms_left": [
+    "trump",
+    "serré",
+    "face"
+   ],
+   "terms_right": [
+    "macron",
+    "jair",
+    "pouvoir"
+   ]
+  },
+  {
    "title": "Visite du pape en France : les violences sexuelles au sein de l’Eglise, une « plaie encore ouverte » pour Léon XIV",
    "url": "https://www.bfmtv.com/culture/video-monroe-candidate-francaise-a-l-eurovision-chantera-devant-le-pape-leon-xiv-au-stade-de-france_VN-202609200085.html",
    "n_members": 108,
@@ -261,47 +291,17 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.259,
+   "divergence": 0.261,
    "category": "international",
    "terms_left": [
     "emirats",
     "emirats arabes",
-    "oman"
+    "attaque"
    ],
    "terms_right": [
     "dérouté",
     "flydubai dérouté",
-    "commandant"
-   ]
-  },
-  {
-   "title": "Brésil. Élection présidentielle : Lula et le fils Bolsonaro au coude à coude dans un pays très polarisé",
-   "url": "https://information.tv5monde.com/international/presidentielle-au-bresil-flavio-bolsonaro-surfe-sur-le-scandale-2838501",
-   "n_members": 107,
-   "n_sources": 30,
-   "counts": {
-    "left": 6,
-    "centre": 14,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 7,
-    "opinion": 6
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.476,
-   "category": "international",
-   "terms_left": [
-    "brésil lula",
-    "trump",
-    "face"
-   ],
-   "terms_right": [
-    "président",
-    "flavio",
-    "macron"
+    "copilote"
    ]
   },
   {
@@ -441,17 +441,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.395,
+   "divergence": 0.397,
    "category": "société",
    "terms_left": [
     "paris",
-    "femmes",
-    "ouvertes paris"
+    "enfants",
+    "femmes"
    ],
    "terms_right": [
     "intégrale violences",
     "ans",
-    "sexistes sexuelles"
+    "er"
    ]
   },
   {
@@ -531,17 +531,47 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.704,
+   "divergence": 0.716,
    "category": "international",
    "terms_left": [
     "nouvelle",
-    "trump",
+    "patrons ia",
     "cause"
    ],
    "terms_right": [
     "macron",
     "emmanuel",
     "emmanuel macron"
+   ]
+  },
+  {
+   "title": "Présidentielle au Brésil: géopolitique, commerce, climat, démocratie... Les enjeux d'une élection cruciale",
+   "url": "https://www.leparisien.fr/politique/le-president-argentin-javier-milei-va-rencontrer-emmanuel-macron-cette-semaine-en-france-28-09-2026-4CZH23UU3FAKJCHLKCAYISY5UY.php",
+   "n_members": 61,
+   "n_sources": 27,
+   "counts": {
+    "left": 8,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 11,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.506,
+   "category": "international",
+   "terms_left": [
+    "lula",
+    "brésil",
+    "bolsonaro"
+   ],
+   "terms_right": [
+    "france",
+    "argentin",
+    "président argentin"
    ]
   },
   {
@@ -561,47 +591,47 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.727,
+   "divergence": 0.734,
    "category": "économie",
    "terms_left": [
+    "augmentation",
     "hausse",
-    "mois",
-    "augmentation"
+    "hausse prix"
    ],
    "terms_right": [
     "carburants",
     "flambée",
-    "aides"
+    "franchises médicales"
    ]
   },
   {
-   "title": "Présidentielle au Brésil: géopolitique, commerce, climat, démocratie... Les enjeux d'une élection cruciale",
-   "url": "https://www.leparisien.fr/politique/le-president-argentin-javier-milei-va-rencontrer-emmanuel-macron-cette-semaine-en-france-28-09-2026-4CZH23UU3FAKJCHLKCAYISY5UY.php",
+   "title": "Enquête de «Mediapart» sur Jordan Bardella : «Marine Le Pen met une cible dans le dos des journalistes», dénonce un collectif de sociétés de journalistes",
+   "url": "https://www.franceinfo.fr/politique/jordan-bardella/on-vient-de-deux-univers-differents-maria-carolina-de-bourbon-des-deux-siciles-se-confie-pour-la-premiere-fois-sur-sa-relation-avec-jordan-bardella_8211857.html",
    "n_members": 60,
    "n_sources": 27,
    "counts": {
-    "left": 8,
+    "left": 7,
     "centre": 11,
-    "right": 8
+    "right": 9
    },
    "style_counts": {
     "factuel": 13,
-    "mixte": 11,
-    "opinion": 3
+    "mixte": 9,
+    "opinion": 5
    },
-   "blindspot_score": 0.0,
+   "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.52,
-   "category": "international",
+   "divergence": 0.653,
+   "category": "politique",
    "terms_left": [
-    "brésil",
-    "droite",
-    "extrême droite"
+    "marine",
+    "mediapart",
+    "marine pen"
    ],
    "terms_right": [
-    "argentin",
-    "javier",
-    "javier milei"
+    "députée",
+    "affaire",
+    "loi"
    ]
   },
   {
@@ -621,17 +651,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.654,
+   "divergence": 0.666,
    "category": "économie",
    "terms_left": [
     "ukraine",
-    "prévoit",
-    "cinéma"
+    "éducation nationale",
+    "nationale"
    ],
    "terms_right": [
-    "euros",
     "sucrés",
-    "produits"
+    "produits",
+    "euros"
    ]
   },
   {
@@ -695,39 +725,9 @@
    ]
   },
   {
-   "title": "Enquête de «Mediapart» sur Jordan Bardella : «Marine Le Pen met une cible dans le dos des journalistes», dénonce un collectif de sociétés de journalistes",
-   "url": "https://www.franceinfo.fr/politique/jordan-bardella/on-vient-de-deux-univers-differents-maria-carolina-de-bourbon-des-deux-siciles-se-confie-pour-la-premiere-fois-sur-sa-relation-avec-jordan-bardella_8211857.html",
-   "n_members": 59,
-   "n_sources": 26,
-   "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 5
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.657,
-   "category": "politique",
-   "terms_left": [
-    "marine",
-    "marine pen",
-    "pen"
-   ],
-   "terms_right": [
-    "députée",
-    "affaire",
-    "loi"
-   ]
-  },
-  {
    "title": "Marche des fiertés 2027 : des dizaines de milliers de personnes défilent dans Paris, inquiètes des prochaines élections",
    "url": "https://www.numerama.com/vroom/2337147-quand-acheter-son-billet-de-train-pour-noel-2026-voici-la-date-douverture-des-ventes-sur-sncf-connect.html",
-   "n_members": 56,
+   "n_members": 57,
    "n_sources": 26,
    "counts": {
     "left": 7,
@@ -741,23 +741,23 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.632,
+   "divergence": 0.625,
    "category": "société",
    "terms_left": [
-    "marche",
+    "marche fiertés",
     "fiertés",
-    "marche fiertés"
+    "marche"
    ],
    "terms_right": [
     "sncf",
     "trains",
-    "milliers"
+    "billets"
    ]
   },
   {
    "title": "Viol collectif à l’université de Cornell : on vous explique cette affaire qui scandalise les Etats-Unis",
    "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-extremement-positif-le-chef-de-l-otan-reagit-a-l-accord-sur-le-groenland-avec-les-etats-unis_VN-202609230253.html",
-   "n_members": 71,
+   "n_members": 75,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -771,12 +771,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.645,
+   "divergence": 0.631,
    "category": "international",
    "terms_left": [
     "etats-unis",
-    "nouveau",
-    "cour"
+    "cour",
+    "suprême"
    ],
    "terms_right": [
     "new york",
@@ -785,9 +785,9 @@
    ]
   },
   {
-   "title": "Dette : le taux d’emprunt à dix ans de la France atteint son plus haut niveau depuis 24 ans",
+   "title": "Dette : pourquoi les taux d’emprunt de la France inquiètent de plus en plus",
    "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/sans-cure-d-austerite-et-meme-sans-budget-depuis-2023-comment-l-espagne-a-reussi-un-desendettement-spectaculaire-a-99-9-du-pib-quand-la-france-s-enfonce_AV-202609260041.html",
-   "n_members": 63,
+   "n_members": 64,
    "n_sources": 25,
    "counts": {
     "left": 3,
@@ -811,7 +811,7 @@
    "terms_right": [
     "ans",
     "milliards",
-    "taux"
+    "face"
    ]
   },
   {
@@ -839,7 +839,7 @@
   {
    "title": "Guerre en Ukraine : un important pont de Kiev touché par une frappe russe",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 212,
+   "n_members": 213,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -853,17 +853,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.401,
+   "divergence": 0.4,
    "category": "international",
    "terms_left": [
     "bombardements",
-    "ville",
-    "direct"
+    "ukraine russie",
+    "ville"
    ],
    "terms_right": [
     "frappe",
-    "frappe russe",
-    "frappes russes"
+    "pont kiev",
+    "frappe russe"
    ]
   },
   {
@@ -883,7 +883,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.39,
+   "divergence": 0.391,
    "category": "international",
    "terms_left": [
     "maricarmen",
@@ -913,7 +913,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.249,
+   "divergence": 0.248,
    "category": "international",
    "terms_left": [
     "police",
@@ -973,7 +973,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.766,
+   "divergence": 0.765,
    "category": "politique",
    "terms_left": [
     "ans",
@@ -981,9 +981,9 @@
     "élu"
    ],
    "terms_right": [
+    "macron",
     "france",
-    "jean-luc mélenchon",
-    "jean-luc"
+    "jean-luc mélenchon"
    ]
   },
   {
@@ -1063,7 +1063,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.8,
+   "divergence": 0.801,
    "category": "économie",
    "terms_left": [
     "totalenergies",
@@ -1074,6 +1074,36 @@
     "gouvernement",
     "budget",
     "français"
+   ]
+  },
+  {
+   "title": "Prisons françaises surpeuplées : avec 90.020 détenus en au 1er septembre, la France reste l’un des plus mauvais élèves en Europe",
+   "url": "https://www.challenges.fr/economie/gaz-alimentation-pourquoi-le-retour-de-linflation-menace-deja-2027_646030",
+   "n_members": 60,
+   "n_sources": 24,
+   "counts": {
+    "left": 3,
+    "centre": 11,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 4
+   },
+   "blindspot_score": 0.538,
+   "blindspot_for": null,
+   "divergence": 0.836,
+   "category": "économie",
+   "terms_left": [
+    "virus",
+    "stellantis",
+    "taux"
+   ],
+   "terms_right": [
+    "an",
+    "prix",
+    "nouveau record"
    ]
   },
   {
@@ -1093,17 +1123,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.354,
+   "divergence": 0.357,
    "category": "société",
    "terms_left": [
-    "rémy",
+    "rémy daillet",
     "daillet",
-    "rémy daillet"
+    "rémy"
    ],
    "terms_right": [
-    "meurtre thomas",
     "jugés",
-    "jugés racisme"
+    "jugés racisme",
+    "meurtre thomas"
    ]
   },
   {
@@ -1123,7 +1153,7 @@
    },
    "blindspot_score": 0.6,
    "blindspot_for": "gauche",
-   "divergence": 0.703,
+   "divergence": 0.702,
    "category": "sciences-tech",
    "terms_left": [
     "justice",
@@ -1134,36 +1164,6 @@
     "français",
     "hamas",
     "millions"
-   ]
-  },
-  {
-   "title": "Prisons françaises surpeuplées : avec 90.020 détenus en au 1er septembre, la France reste l’un des plus mauvais élèves en Europe",
-   "url": "https://www.challenges.fr/economie/gaz-alimentation-pourquoi-le-retour-de-linflation-menace-deja-2027_646030",
-   "n_members": 51,
-   "n_sources": 24,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 4
-   },
-   "blindspot_score": 0.538,
-   "blindspot_for": null,
-   "divergence": 0.844,
-   "category": "économie",
-   "terms_left": [
-    "virus",
-    "taux",
-    "niveau"
-   ],
-   "terms_right": [
-    "an",
-    "prix",
-    "nouveau record"
    ]
   },
   {
