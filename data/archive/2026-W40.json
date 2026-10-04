@@ -1,6 +1,6 @@
 {
  "week": "2026-W40",
- "generated_at": "2026-10-04T00:15:22+00:00",
+ "generated_at": "2026-10-04T06:07:43+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -26,18 +26,18 @@
    "terms_left": [
     "littérature",
     "affaire",
-    "intelligence"
+    "ia roman"
    ],
    "terms_right": [
     "livre",
     "écrit",
-    "polémique"
+    "accusé écrit"
    ]
   },
   {
    "title": "Propos antisémites de Jordan Bardella : Mediapart publie ses preuves après les démentis du RN",
    "url": "https://www.mediapart.fr/journal/politique/280926/les-banques-sont-toutes-detenues-par-des-juifs-jordan-bardella-face-ses-ecrits-antisemites",
-   "n_members": 328,
+   "n_members": 332,
    "n_sources": 38,
    "counts": {
     "left": 9,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.1,
    "blindspot_for": null,
-   "divergence": 0.165,
+   "divergence": 0.167,
    "category": "politique",
    "terms_left": [
     "antisémites jordan",
@@ -67,7 +67,7 @@
   {
    "title": "Blocage des lycées en France : la violence monte d'un cran",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 572,
+   "n_members": 576,
    "n_sources": 37,
    "counts": {
     "left": 10,
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.048,
    "blindspot_for": null,
-   "divergence": 0.3,
+   "divergence": 0.296,
    "category": "société",
    "terms_left": [
     "edouard",
@@ -97,7 +97,7 @@
   {
    "title": "Budget 2027 : ce qu'il faut retenir des mesures annoncées par le gouvernement Lecornu",
    "url": "https://www.lejdd.fr/Societe/exclusif-subventions-aux-associations-60-milliards-dargent-public-et-beaucoup-dopacite-183921",
-   "n_members": 218,
+   "n_members": 219,
    "n_sources": 37,
    "counts": {
     "left": 8,
@@ -111,16 +111,16 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.32,
+   "divergence": 0.331,
    "category": "économie",
    "terms_left": [
     "lecornu",
     "postes",
-    "gouvernement lecornu"
+    "sébastien"
    ],
    "terms_right": [
     "euros",
-    "milliards",
+    "retraites",
     "entreprises"
    ]
   },
@@ -270,14 +270,14 @@
    ],
    "terms_right": [
     "dérouté",
-    "commandant",
-    "flydubai dérouté"
+    "flydubai dérouté",
+    "commandant"
    ]
   },
   {
    "title": "Brésil. Élection présidentielle : Lula et le fils Bolsonaro au coude à coude dans un pays très polarisé",
    "url": "https://information.tv5monde.com/international/presidentielle-au-bresil-flavio-bolsonaro-surfe-sur-le-scandale-2838501",
-   "n_members": 96,
+   "n_members": 107,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -291,17 +291,17 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.593,
-   "category": "politique",
+   "divergence": 0.476,
+   "category": "international",
    "terms_left": [
     "brésil lula",
     "trump",
-    "droite"
+    "face"
    ],
    "terms_right": [
-    "macron",
-    "emmanuel",
-    "mandat"
+    "président",
+    "flavio",
+    "macron"
    ]
   },
   {
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.377,
+   "divergence": 0.376,
    "category": "politique",
    "terms_left": [
     "sénatoriales",
@@ -441,17 +441,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.396,
+   "divergence": 0.395,
    "category": "société",
    "terms_left": [
     "paris",
     "femmes",
-    "enfants"
+    "ouvertes paris"
    ],
    "terms_right": [
     "intégrale violences",
-    "sexistes sexuelles",
-    "violences sexistes"
+    "ans",
+    "sexistes sexuelles"
    ]
   },
   {
@@ -536,7 +536,7 @@
    "terms_left": [
     "nouvelle",
     "trump",
-    "business"
+    "cause"
    ],
    "terms_right": [
     "macron",
@@ -561,23 +561,23 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.744,
+   "divergence": 0.727,
    "category": "économie",
    "terms_left": [
     "hausse",
-    "budget",
-    "personnes"
+    "mois",
+    "augmentation"
    ],
    "terms_right": [
     "carburants",
-    "euros",
-    "flambée"
+    "flambée",
+    "aides"
    ]
   },
   {
    "title": "Présidentielle au Brésil: géopolitique, commerce, climat, démocratie... Les enjeux d'une élection cruciale",
    "url": "https://www.leparisien.fr/politique/le-president-argentin-javier-milei-va-rencontrer-emmanuel-macron-cette-semaine-en-france-28-09-2026-4CZH23UU3FAKJCHLKCAYISY5UY.php",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 27,
    "counts": {
     "left": 8,
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.519,
+   "divergence": 0.52,
    "category": "international",
    "terms_left": [
     "brésil",
@@ -600,8 +600,8 @@
    ],
    "terms_right": [
     "argentin",
-    "france",
-    "président argentin"
+    "javier",
+    "javier milei"
    ]
   },
   {
@@ -621,7 +621,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.655,
+   "divergence": 0.654,
    "category": "économie",
    "terms_left": [
     "ukraine",
@@ -697,7 +697,7 @@
   {
    "title": "Enquête de «Mediapart» sur Jordan Bardella : «Marine Le Pen met une cible dans le dos des journalistes», dénonce un collectif de sociétés de journalistes",
    "url": "https://www.franceinfo.fr/politique/jordan-bardella/on-vient-de-deux-univers-differents-maria-carolina-de-bourbon-des-deux-siciles-se-confie-pour-la-premiere-fois-sur-sa-relation-avec-jordan-bardella_8211857.html",
-   "n_members": 58,
+   "n_members": 59,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -711,7 +711,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.651,
+   "divergence": 0.657,
    "category": "politique",
    "terms_left": [
     "marine",
@@ -720,14 +720,44 @@
    ],
    "terms_right": [
     "députée",
-    "sexistes",
-    "sexuelles"
+    "affaire",
+    "loi"
+   ]
+  },
+  {
+   "title": "Marche des fiertés 2027 : des dizaines de milliers de personnes défilent dans Paris, inquiètes des prochaines élections",
+   "url": "https://www.numerama.com/vroom/2337147-quand-acheter-son-billet-de-train-pour-noel-2026-voici-la-date-douverture-des-ventes-sur-sncf-connect.html",
+   "n_members": 56,
+   "n_sources": 26,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.632,
+   "category": "société",
+   "terms_left": [
+    "marche",
+    "fiertés",
+    "marche fiertés"
+   ],
+   "terms_right": [
+    "sncf",
+    "trains",
+    "milliers"
    ]
   },
   {
    "title": "Viol collectif à l’université de Cornell : on vous explique cette affaire qui scandalise les Etats-Unis",
    "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-extremement-positif-le-chef-de-l-otan-reagit-a-l-accord-sur-le-groenland-avec-les-etats-unis_VN-202609230253.html",
-   "n_members": 67,
+   "n_members": 71,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -741,17 +771,47 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.696,
+   "divergence": 0.645,
    "category": "international",
    "terms_left": [
     "etats-unis",
-    "cour",
-    "suprême"
+    "nouveau",
+    "cour"
    ],
    "terms_right": [
     "new york",
     "york",
     "new"
+   ]
+  },
+  {
+   "title": "Dette : le taux d’emprunt à dix ans de la France atteint son plus haut niveau depuis 24 ans",
+   "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/sans-cure-d-austerite-et-meme-sans-budget-depuis-2023-comment-l-espagne-a-reussi-un-desendettement-spectaculaire-a-99-9-du-pib-quand-la-france-s-enfonce_AV-202609260041.html",
+   "n_members": 63,
+   "n_sources": 25,
+   "counts": {
+    "left": 3,
+    "centre": 10,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": 0.504,
+   "category": "économie",
+   "terms_left": [
+    "publique",
+    "dette publique",
+    "publique française"
+   ],
+   "terms_right": [
+    "ans",
+    "milliards",
+    "taux"
    ]
   },
   {
@@ -779,7 +839,7 @@
   {
    "title": "Guerre en Ukraine : un important pont de Kiev touché par une frappe russe",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 210,
+   "n_members": 212,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -793,12 +853,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.413,
+   "divergence": 0.401,
    "category": "international",
    "terms_left": [
     "bombardements",
-    "direct",
-    "ville"
+    "ville",
+    "direct"
    ],
    "terms_right": [
     "frappe",
@@ -823,12 +883,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.396,
+   "divergence": 0.39,
    "category": "international",
    "terms_left": [
     "maricarmen",
     "logement espagne",
-    "logement"
+    "mesures urgence"
    ],
    "terms_right": [
     "textes",
@@ -913,47 +973,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.761,
+   "divergence": 0.766,
    "category": "politique",
    "terms_left": [
     "ans",
     "qu",
-    "candidat"
+    "élu"
    ],
    "terms_right": [
-    "mélenchon",
+    "france",
     "jean-luc mélenchon",
     "jean-luc"
-   ]
-  },
-  {
-   "title": "Dette : le taux d’emprunt à dix ans de la France atteint son plus haut niveau depuis 24 ans",
-   "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/sans-cure-d-austerite-et-meme-sans-budget-depuis-2023-comment-l-espagne-a-reussi-un-desendettement-spectaculaire-a-99-9-du-pib-quand-la-france-s-enfonce_AV-202609260041.html",
-   "n_members": 62,
-   "n_sources": 24,
-   "counts": {
-    "left": 3,
-    "centre": 10,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.571,
-   "blindspot_for": null,
-   "divergence": 0.506,
-   "category": "économie",
-   "terms_left": [
-    "publique",
-    "dette publique",
-    "publique française"
-   ],
-   "terms_right": [
-    "ans",
-    "milliards",
-    "taux"
    ]
   },
   {
@@ -1033,7 +1063,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.798,
+   "divergence": 0.8,
    "category": "économie",
    "terms_left": [
     "totalenergies",
@@ -1042,8 +1072,8 @@
    ],
    "terms_right": [
     "gouvernement",
-    "français",
-    "budget"
+    "budget",
+    "français"
    ]
   },
   {
@@ -1063,7 +1093,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.355,
+   "divergence": 0.354,
    "category": "société",
    "terms_left": [
     "rémy",
@@ -1074,6 +1104,66 @@
     "meurtre thomas",
     "jugés",
     "jugés racisme"
+   ]
+  },
+  {
+   "title": "Soupçons de financement du Hamas : Trois mis en examen en France visés par des sanctions américaines",
+   "url": "https://www.lemonde.fr/pixels/article/2026/09/26/des-agents-ia-d-openai-ont-fait-fuiter-sur-internet-des-images-d-utilisateurs-de-chatgpt_6782839_4408996.html",
+   "n_members": 59,
+   "n_sources": 24,
+   "counts": {
+    "left": 2,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": 0.703,
+   "category": "sciences-tech",
+   "terms_left": [
+    "justice",
+    "manquements",
+    "agents"
+   ],
+   "terms_right": [
+    "français",
+    "hamas",
+    "millions"
+   ]
+  },
+  {
+   "title": "Prisons françaises surpeuplées : avec 90.020 détenus en au 1er septembre, la France reste l’un des plus mauvais élèves en Europe",
+   "url": "https://www.challenges.fr/economie/gaz-alimentation-pourquoi-le-retour-de-linflation-menace-deja-2027_646030",
+   "n_members": 51,
+   "n_sources": 24,
+   "counts": {
+    "left": 3,
+    "centre": 11,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 4
+   },
+   "blindspot_score": 0.538,
+   "blindspot_for": null,
+   "divergence": 0.844,
+   "category": "économie",
+   "terms_left": [
+    "virus",
+    "taux",
+    "niveau"
+   ],
+   "terms_right": [
+    "an",
+    "prix",
+    "nouveau record"
    ]
   },
   {
@@ -1104,96 +1194,6 @@
     "bleus",
     "lepaul",
     "match"
-   ]
-  },
-  {
-   "title": "Pluie-inondation : voici le seul département placé en vigilance orange ce samedi",
-   "url": "https://www.cnews.fr/france/2026-09-21/orages-ces-deux-departements-menaces-par-les-eclairs-ce-mercredi-1922269",
-   "n_members": 124,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.386,
-   "category": "environnement",
-   "terms_left": [
-    "exceptionnel",
-    "gard hérault",
-    "millimètres"
-   ],
-   "terms_right": [
-    "orages",
-    "départements",
-    "jaune"
-   ]
-  },
-  {
-   "title": "Édouard Philippe essaie de ne pas buter sur les retraites",
-   "url": "https://www.franceinfo.fr/elections/presidentielle/dominique-de-villepin-veut-inscrire-le-principe-de-la-negociation-sociale-dans-la-loi-et-meme-la-constitution_8212154.html",
-   "n_members": 70,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 10,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.529,
-   "category": "politique",
-   "terms_left": [
-    "edouard",
-    "edouard philippe",
-    "philippe"
-   ],
-   "terms_right": [
-    "édouard philippe",
-    "édouard",
-    "départ"
-   ]
-  },
-  {
-   "title": "Ethiopie : des explosions entendues dans la capitale Addis Abeba",
-   "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-8-h/journal-de-8h-du-vendredi-25-septembre-2026-3083461",
-   "n_members": 61,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.698,
-   "category": "international",
-   "terms_left": [
-    "nord-est etats-unis",
-    "etats-unis",
-    "puissante tempête"
-   ],
-   "terms_right": [
-    "états-unis",
-    "tempête",
-    "rare saison"
    ]
   }
  ]
