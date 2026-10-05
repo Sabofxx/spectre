@@ -1,32 +1,62 @@
 {
  "week": "2026-W41",
- "generated_at": "2026-10-05T09:19:51+00:00",
+ "generated_at": "2026-10-05T18:39:50+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "Blocage des lycées en France : la violence monte d'un cran",
-   "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 646,
-   "n_sources": 38,
+   "title": "\"Le rapport au livre a changé\": malgré les soupçons d’utilisation de l’IA, le livre de Thélyson Orélien est un véritable phénomène en librairie",
+   "url": "https://www.nouvelobs.com/bibliobs/20260920.OBS118426/thelyson-orelien-le-phenomene-de-la-rentree-litteraire-je-ne-tiens-pas-mon-crayon-avec-ma-tete-mais-avec-mes-tripes.html",
+   "n_members": 195,
+   "n_sources": 40,
    "counts": {
     "left": 10,
-    "centre": 16,
+    "centre": 19,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 20,
+    "mixte": 16,
+    "opinion": 4
+   },
+   "blindspot_score": 0.048,
+   "blindspot_for": null,
+   "divergence": 0.173,
+   "category": "culture",
+   "terms_left": [
+    "littérature",
+    "affaire",
+    "affaire thélyson"
+   ],
+   "terms_right": [
+    "livre",
+    "polémique",
+    "accusé écrit"
+   ]
+  },
+  {
+   "title": "En direct : de 400 à 500 lycées fermés en France, plus de 160 en région parisienne",
+   "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
+   "n_members": 689,
+   "n_sources": 39,
+   "counts": {
+    "left": 10,
+    "centre": 17,
     "right": 12
    },
    "style_counts": {
-    "factuel": 17,
+    "factuel": 18,
     "mixte": 14,
     "opinion": 7
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.296,
+   "divergence": 0.293,
    "category": "société",
    "terms_left": [
     "edouard",
     "edouard geffray",
-    "education"
+    "mobilisation"
    ],
    "terms_right": [
     "blocus",
@@ -35,9 +65,9 @@
    ]
   },
   {
-   "title": "Politique. Écrits antisémites attribués à Bardella : Marine Le Pen lui maintient « totalement » sa confiance",
+   "title": "Marine Le Pen maintient « totalement » sa « confiance » à Bardella, accusé par Mediapart d’écrits antisémites",
    "url": "https://www.mediapart.fr/journal/politique/280926/les-banques-sont-toutes-detenues-par-des-juifs-jordan-bardella-face-ses-ecrits-antisemites",
-   "n_members": 345,
+   "n_members": 347,
    "n_sources": 38,
    "counts": {
     "left": 9,
@@ -54,9 +84,9 @@
    "divergence": 0.181,
    "category": "politique",
    "terms_left": [
-    "révélations",
     "antisémites jordan",
-    "révélations mediapart"
+    "antisémitisme",
+    "rn"
    ],
    "terms_right": [
     "attribués jordan",
@@ -67,7 +97,7 @@
   {
    "title": "Budget 2027 : des mesures d'austérité ?",
    "url": "https://www.lejdd.fr/Societe/exclusif-subventions-aux-associations-60-milliards-dargent-public-et-beaucoup-dopacite-183921",
-   "n_members": 224,
+   "n_members": 227,
    "n_sources": 37,
    "counts": {
     "left": 8,
@@ -81,7 +111,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.387,
+   "divergence": 0.384,
    "category": "économie",
    "terms_left": [
     "lecornu",
@@ -97,31 +127,61 @@
   {
    "title": "Élection au Brésil : Flavio Bolsonaro devance Lula et l'affrontera au second tour",
    "url": "https://information.tv5monde.com/international/presidentielle-au-bresil-flavio-bolsonaro-surfe-sur-le-scandale-2838501",
-   "n_members": 166,
-   "n_sources": 33,
+   "n_members": 183,
+   "n_sources": 36,
    "counts": {
-    "left": 7,
+    "left": 8,
     "centre": 14,
-    "right": 12
+    "right": 14
    },
    "style_counts": {
     "factuel": 17,
-    "mixte": 10,
-    "opinion": 6
+    "mixte": 12,
+    "opinion": 7
    },
-   "blindspot_score": 0.263,
+   "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.298,
+   "divergence": 0.277,
    "category": "international",
    "terms_left": [
+    "extrême",
     "droite",
-    "élections",
     "extrême droite"
    ],
    "terms_right": [
-    "président",
-    "président sortant",
-    "sortant"
+    "bolsonaro",
+    "fils",
+    "jair"
+   ]
+  },
+  {
+   "title": "Vol flydubai : l'enquête établit que le copilote planifiait un \"acte terroriste\"",
+   "url": "https://information.tv5monde.com/international/un-vol-dubai-tel-aviv-atterrit-en-urgence-en-arabie-saoudite-apres-une-violente-altercation-entre-pilotes-2839623",
+   "n_members": 150,
+   "n_sources": 30,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": 0.125,
+   "blindspot_for": null,
+   "divergence": 0.268,
+   "category": "international",
+   "terms_left": [
+    "emirats",
+    "emirats arabes",
+    "attaque"
+   ],
+   "terms_right": [
+    "dérouté",
+    "bord",
+    "flydubai dérouté"
    ]
   },
   {
@@ -141,7 +201,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.384,
+   "divergence": 0.387,
    "category": "société",
    "terms_left": [
     "paris",
@@ -149,29 +209,29 @@
     "ouvertes paris"
    ],
    "terms_right": [
-    "gouvernement",
     "lunettes connectées",
-    "connectées"
+    "connectées",
+    "lunettes"
    ]
   },
   {
    "title": "Ukraine : les frappes russes s'accentuent sur Kiev et touchent ses ponts",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 229,
-   "n_sources": 26,
+   "n_members": 237,
+   "n_sources": 27,
    "counts": {
-    "left": 5,
+    "left": 6,
     "centre": 14,
     "right": 7
    },
    "style_counts": {
     "factuel": 17,
-    "mixte": 7,
+    "mixte": 8,
     "opinion": 2
    },
-   "blindspot_score": 0.167,
+   "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.382,
+   "divergence": 0.379,
    "category": "international",
    "terms_left": [
     "ville",
@@ -179,105 +239,165 @@
     "ukraine russie"
    ],
    "terms_right": [
+    "jour",
     "drone",
-    "pont kiev",
-    "frappe"
+    "pont kiev"
+   ]
+  },
+  {
+   "title": "Soupçons de financement du Hamas : Trois mis en examen en France visés par des sanctions américaines",
+   "url": "https://www.lemonde.fr/pixels/article/2026/09/26/des-agents-ia-d-openai-ont-fait-fuiter-sur-internet-des-images-d-utilisateurs-de-chatgpt_6782839_4408996.html",
+   "n_members": 63,
+   "n_sources": 27,
+   "counts": {
+    "left": 2,
+    "centre": 15,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 6,
+    "opinion": 4
+   },
+   "blindspot_score": 0.667,
+   "blindspot_for": "gauche",
+   "divergence": 0.702,
+   "category": "sciences-tech",
+   "terms_left": [
+    "ia",
+    "chercheurs",
+    "sécurité"
+   ],
+   "terms_right": [
+    "hamas",
+    "français",
+    "associations"
    ]
   },
   {
    "title": "Manifestations géantes en Espagne : après le rejet des mesures sur le logement, Pedro Sanchez évoque des législatives anticipées",
    "url": "https://www.tf1info.fr/international/videos/video-emoi-en-espagne-ils-refusent-d-expulser-une-femme-de-87-ans-56710-2465927.html",
-   "n_members": 122,
-   "n_sources": 25,
+   "n_members": 123,
+   "n_sources": 26,
    "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.374,
-   "category": "international",
-   "terms_left": [
-    "maricarmen",
-    "logement espagne",
-    "mobilisation"
-   ],
-   "terms_right": [
-    "sánchez",
-    "textes",
-    "pedro sánchez"
-   ]
-  },
-  {
-   "title": "Projet de loi « casseurs-payeurs » : le gouvernement accélère le calendrier face aux dernières violences dans les lycées",
-   "url": "https://www.sudouest.fr/economie/le-gouvernement-va-aider-55-000-menages-modestes-a-installer-une-pompe-a-chaleur-30841683.php",
-   "n_members": 58,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
+    "left": 7,
     "centre": 12,
     "right": 7
    },
    "style_counts": {
     "factuel": 14,
     "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.375,
+   "category": "international",
+   "terms_left": [
+    "maricarmen",
+    "logement espagne",
+    "logement"
+   ],
+   "terms_right": [
+    "qu",
+    "textes",
+    "appartement"
+   ]
+  },
+  {
+   "title": "Dette : pourquoi les taux d’emprunt de la France inquiètent de plus en plus",
+   "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/sans-cure-d-austerite-et-meme-sans-budget-depuis-2023-comment-l-espagne-a-reussi-un-desendettement-spectaculaire-a-99-9-du-pib-quand-la-france-s-enfonce_AV-202609260041.html",
+   "n_members": 65,
+   "n_sources": 25,
+   "counts": {
+    "left": 3,
+    "centre": 10,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": 0.506,
+   "category": "économie",
+   "terms_left": [
+    "publique",
+    "dette publique",
+    "publique française"
+   ],
+   "terms_right": [
+    "ans",
+    "france",
+    "milliards"
+   ]
+  },
+  {
+   "title": "Projet de loi « casseurs-payeurs » : le gouvernement accélère le calendrier face aux dernières violences dans les lycées",
+   "url": "https://www.sudouest.fr/economie/le-gouvernement-va-aider-55-000-menages-modestes-a-installer-une-pompe-a-chaleur-30841683.php",
+   "n_members": 63,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
     "opinion": 2
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.725,
+   "divergence": 0.735,
    "category": "économie",
    "terms_left": [
-    "fabien",
-    "revendications",
-    "euros"
+    "lycéenne",
+    "mobilisation lycéenne",
+    "qu"
    ],
    "terms_right": [
     "sénat",
-    "minimum",
+    "loi casseurs-payeurs",
     "loi"
    ]
   },
   {
-   "title": "« Cet été nous y oblige » : le gouvernement promet un milliard d’euros sur cinq ans pour les pompiers",
-   "url": "https://www.lefigaro.fr/politique/budget-2027-les-deputes-socialistes-ont-le-doigt-sur-le-bouton-de-la-censure-20260930",
-   "n_members": 58,
-   "n_sources": 24,
+   "title": "Génétique, microparticules : pourquoi le cancer du sein touche de plus en plus les moins de 40 ans",
+   "url": "https://sante.ouest-france.fr/cancer/reportage-des-tumeurs-sur-puce-pour-adapter-les-traitements-du-cancer-du-sein-fefdeaba-b343-11f1-8815-214ab2555576",
+   "n_members": 56,
+   "n_sources": 25,
    "counts": {
-    "left": 6,
-    "centre": 9,
-    "right": 9
+    "left": 5,
+    "centre": 15,
+    "right": 5
    },
    "style_counts": {
-    "factuel": 12,
-    "mixte": 11,
+    "factuel": 17,
+    "mixte": 7,
     "opinion": 1
    },
-   "blindspot_score": 0.2,
+   "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.685,
-   "category": "économie",
+   "divergence": 0.513,
+   "category": "société",
    "terms_left": [
-    "france",
-    "parti",
-    "passer"
+    "monde",
+    "nombre",
+    "étude"
    ],
    "terms_right": [
-    "milliards",
-    "milliards euros",
-    "gouvernement"
+    "dépistage",
+    "mois",
+    "cas"
    ]
   },
   {
    "title": "Blocage des lycées en France : l’Iran s’inquiète d’une « violence disproportionnée » contre les manifestants",
    "url": "https://www.rfi.fr/fr/asie-pacifique/20260930-inde-des-milliers-d-%C3%A9tudiantes-mobilis%C3%A9es-%C3%A0-new-delhi-pour-d%C3%A9noncer-les-agressions-sexuelles",
-   "n_members": 58,
+   "n_members": 60,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -291,53 +411,83 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.874,
+   "divergence": 0.878,
    "category": "société",
    "terms_left": [
     "paris",
-    "proxys",
-    "blocage lycées"
+    "blocage lycées",
+    "blocage"
    ],
    "terms_right": [
     "france",
-    "disproportionnée",
+    "violences",
     "blocus"
    ]
   },
   {
-   "title": "Octobre rose : pourquoi le dépistage du cancer du sein est-il essentiel ?",
-   "url": "https://sante.ouest-france.fr/cancer/reportage-des-tumeurs-sur-puce-pour-adapter-les-traitements-du-cancer-du-sein-fefdeaba-b343-11f1-8815-214ab2555576",
-   "n_members": 54,
+   "title": "« Cet été nous y oblige » : le gouvernement promet un milliard d’euros sur cinq ans pour les pompiers",
+   "url": "https://www.lefigaro.fr/politique/budget-2027-les-deputes-socialistes-ont-le-doigt-sur-le-bouton-de-la-censure-20260930",
+   "n_members": 59,
    "n_sources": 24,
    "counts": {
-    "left": 5,
-    "centre": 14,
-    "right": 5
+    "left": 6,
+    "centre": 9,
+    "right": 9
    },
    "style_counts": {
-    "factuel": 16,
-    "mixte": 7,
+    "factuel": 12,
+    "mixte": 11,
     "opinion": 1
    },
-   "blindspot_score": 0.0,
+   "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.531,
-   "category": "société",
+   "divergence": 0.706,
+   "category": "économie",
    "terms_left": [
-    "étude",
-    "femmes",
-    "jeunes"
+    "millions",
+    "parti",
+    "taxe"
    ],
    "terms_right": [
-    "dépistage",
-    "femme",
-    "france"
+    "milliards",
+    "milliards euros",
+    "gouvernement"
    ]
   },
   {
-   "title": "Pluie-inondation : voici le seul département placé en vigilance orange ce dimanche",
+   "title": "Pluies torrentielles en Espagne : deux morts dans la province de Barcelone placée en état d'alerte",
+   "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-la-retraitee-expulsee-de-son-appartement-va-pouvoir-rentrer-chez-elle-apres-un-accord-avec-les-proprietaires-annonce-son-avocate_8214065.html",
+   "n_members": 58,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 1
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.724,
+   "category": "international",
+   "terms_left": [
+    "france",
+    "logement",
+    "migrants"
+   ],
+   "terms_right": [
+    "ans",
+    "inondations",
+    "femme"
+   ]
+  },
+  {
+   "title": "Pluies-inondations: l'Aude et les Pyrénées-Orientales placés en vigilance orange",
    "url": "https://www.cnews.fr/france/2026-09-21/orages-ces-deux-departements-menaces-par-les-eclairs-ce-mercredi-1922269",
-   "n_members": 133,
+   "n_members": 135,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -351,7 +501,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.418,
+   "divergence": 0.447,
    "category": "environnement",
    "terms_left": [
     "exceptionnel",
@@ -367,7 +517,7 @@
   {
    "title": "Primaire sociale-démocrate: \"Jérôme Guedj a cette volonté de me coller à Jean-Luc Mélenchon\", lance Olivier Faure",
    "url": "https://www.nouvelobs.com/politique/20260930.OBS118746/primaire-sociale-democrate-raphael-glucksmann-seul-contre-tous.html",
-   "n_members": 128,
+   "n_members": 129,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -381,7 +531,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.56,
+   "divergence": 0.554,
    "category": "politique",
    "terms_left": [
     "débat",
@@ -391,7 +541,37 @@
    "terms_right": [
     "bfmtv",
     "mois",
-    "candidats primaire"
+    "présidentielle candidats"
+   ]
+  },
+  {
+   "title": "Blocages des lycées : deux lycéens mineurs poursuivis pour violences aggravées contre un policier",
+   "url": "https://www.nouvelobs.com/justice/20260929.OBS118718/un-lyceen-blesse-au-visage-par-un-tir-de-lance-grenade-lors-d-un-blocus-dans-le-val-d-oise-l-igpn-ouvre-une-enquete.html",
+   "n_members": 126,
+   "n_sources": 23,
+   "counts": {
+    "left": 6,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.543,
+   "category": "société",
+   "terms_left": [
+    "igpn",
+    "lbd",
+    "examen"
+   ],
+   "terms_right": [
+    "procureur",
+    "personnes",
+    "belfort"
    ]
   },
   {
@@ -411,7 +591,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.538,
+   "divergence": 0.539,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -421,13 +601,13 @@
    "terms_right": [
     "édouard philippe",
     "édouard",
-    "propose"
+    "départ"
    ]
   },
   {
    "title": "Guerre en Ukraine : les États-Unis proposent des pourparlers avec Ukrainiens et Russes fin octobre, selon Zelensky",
    "url": "https://www.cnews.fr/monde/2026-09-28/guerre-en-ukraine-vladimir-poutine-signe-un-decret-augmentant-les-effectifs-de",
-   "n_members": 58,
+   "n_members": 59,
    "n_sources": 23,
    "counts": {
     "left": 3,
@@ -441,7 +621,7 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.682,
+   "divergence": 0.678,
    "category": "international",
    "terms_left": [
     "frappes",
@@ -451,43 +631,103 @@
    "terms_right": [
     "états-unis",
     "face",
-    "drones"
+    "retour"
    ]
   },
   {
-   "title": "Belfort : un policier tabassé en marge d’un blocage de lycée",
-   "url": "https://www.nouvelobs.com/justice/20260929.OBS118718/un-lyceen-blesse-au-visage-par-un-tir-de-lance-grenade-lors-d-un-blocus-dans-le-val-d-oise-l-igpn-ouvre-une-enquete.html",
-   "n_members": 119,
-   "n_sources": 22,
+   "title": "«Trump nous a détruits» : face à la hausse du diesel, la colère des camionneurs américains menace de faire tache d’huile aux midterms",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-edito-eco/l-edito-eco-du-lundi-28-septembre-2026-5873925",
+   "n_members": 57,
+   "n_sources": 23,
    "counts": {
-    "left": 5,
-    "centre": 10,
+    "left": 4,
+    "centre": 12,
     "right": 7
    },
    "style_counts": {
-    "factuel": 11,
-    "mixte": 8,
-    "opinion": 3
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 2
    },
-   "blindspot_score": 0.167,
+   "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.586,
-   "category": "société",
+   "divergence": 0.868,
+   "category": "économie",
    "terms_left": [
-    "igpn",
-    "lbd",
-    "examen"
+    "midterms",
+    "trump",
+    "élections"
    ],
    "terms_right": [
-    "belfort",
-    "procureur",
-    "agression"
+    "euros",
+    "face",
+    "prix carburants"
+   ]
+  },
+  {
+   "title": "VIDÉO. Blocage des lycées : \"Tu ne me parles pas comme ça\", \"tu n’es pas mon grand-père\"... La séquence tendue entre Robert Ménard et un manifestant",
+   "url": "https://www.liberation.fr/politique/refus-de-marier-un-etranger-sous-oqtf-juge-mercredi-robert-menard-veut-faire-de-son-proces-une-tribune-20260928_QOV7UOXKDZGSDBHQBKMK3QL6ZQ/",
+   "n_members": 49,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 9,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 7,
+    "opinion": 6
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.365,
+   "category": "politique",
+   "terms_left": [
+    "amende requise",
+    "mariage",
+    "requise"
+   ],
+   "terms_right": [
+    "ménard",
+    "robert ménard",
+    "robert"
+   ]
+  },
+  {
+   "title": "Le chef de l'administration pénitentiaire du Tennessee démissionne après l'exécution ratée de Christa Pike",
+   "url": "https://www.courrierinternational.com/article/etats-unis-l-execution-programmee-de-christa-pike-dans-le-tennessee-provoque-une-vague-d-emotion_274687",
+   "n_members": 104,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 1
+   },
+   "blindspot_score": 0.111,
+   "blindspot_for": null,
+   "divergence": 0.343,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "mort",
+    "doses"
+   ],
+   "terms_right": [
+    "états-unis",
+    "tennessee",
+    "administration pénitentiaire"
    ]
   },
   {
    "title": "Royaume-Uni : les Verts adoptent une motion qualifiant le sionisme de forme de racisme",
    "url": "https://www.cnews.fr/monde/2026-09-28/royaume-uni-un-nouveau-dispositif-daccueil-de-refugies-annonce-1925847",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -501,23 +741,23 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.615,
+   "divergence": 0.61,
    "category": "international",
    "terms_left": [
-    "projet",
     "france",
+    "projet",
     "accord"
    ],
    "terms_right": [
     "parti",
-    "union européenne",
-    "union"
+    "politique",
+    "ministre"
    ]
   },
   {
-   "title": "«Trump nous a détruits» : face à la hausse du diesel, la colère des camionneurs américains menace de faire tache d’huile aux midterms",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-edito-eco/l-edito-eco-du-lundi-28-septembre-2026-5873925",
-   "n_members": 55,
+   "title": "Ligue des nations : un match Irlande-Israël sous tension",
+   "url": "https://www.lemonde.fr/international/article/2026/09/30/apres-douze-ans-de-presence-en-irak-la-coalition-antidjihadiste-acheve-son-retrait-complet-du-territoire_6785892_3210.html",
+   "n_members": 58,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -525,43 +765,13 @@
     "right": 6
    },
    "style_counts": {
-    "factuel": 15,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.879,
-   "category": "économie",
-   "terms_left": [
-    "élections",
-    "mi-mandat",
-    "élections mi-mandat"
-   ],
-   "terms_right": [
-    "euros",
-    "face",
-    "prix carburants"
-   ]
-  },
-  {
-   "title": "Ligue des nations : un match Irlande-Israël sous tension",
-   "url": "https://www.lemonde.fr/international/article/2026/09/30/apres-douze-ans-de-presence-en-irak-la-coalition-antidjihadiste-acheve-son-retrait-complet-du-territoire_6785892_3210.html",
-   "n_members": 56,
-   "n_sources": 21,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 12,
+    "factuel": 13,
     "mixte": 6,
     "opinion": 3
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.792,
+   "divergence": 0.793,
    "category": "sport",
    "terms_left": [
     "pays",
@@ -575,39 +785,39 @@
    ]
   },
   {
-   "title": "Pluies torrentielles en Espagne : deux morts dans la province de Barcelone placée en état d'alerte",
-   "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-la-retraitee-expulsee-de-son-appartement-va-pouvoir-rentrer-chez-elle-apres-un-accord-avec-les-proprietaires-annonce-son-avocate_8214065.html",
-   "n_members": 49,
-   "n_sources": 21,
+   "title": "Carburants : 100 millions de barils débloqués par le G7, quel impact sur les prix à la pompe ?",
+   "url": "https://www.bfmtv.com/economie/entreprises/energie/des-cargaisons-annulees-a-la-derniere-minute-pekin-qui-n-autorise-plus-les-exportations-de-carburants-la-chine-ferme-brutalement-le-robinet-le-petrole-repasse-au-dessus-des-100-dollars_AV-202610010661.html",
+   "n_members": 48,
+   "n_sources": 22,
    "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 5
+    "left": 3,
+    "centre": 10,
+    "right": 9
    },
    "style_counts": {
     "factuel": 14,
-    "mixte": 6,
+    "mixte": 7,
     "opinion": 1
    },
-   "blindspot_score": 0.0,
+   "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.702,
-   "category": "international",
+   "divergence": 0.302,
+   "category": "économie",
    "terms_left": [
-    "logement",
-    "france",
-    "droit"
+    "libérés",
+    "annonce",
+    "stocks"
    ],
    "terms_right": [
-    "ans",
-    "inondations",
-    "femme"
+    "prix",
+    "baisser",
+    "stratégiques"
    ]
   },
   {
-   "title": "« Jusqu’à 100 millions de barils » : les pays du G7 vont puiser dans leurs réserves de gazole face à la pression américaine",
-   "url": "https://www.bfmtv.com/economie/entreprises/energie/des-cargaisons-annulees-a-la-derniere-minute-pekin-qui-n-autorise-plus-les-exportations-de-carburants-la-chine-ferme-brutalement-le-robinet-le-petrole-repasse-au-dessus-des-100-dollars_AV-202610010661.html",
-   "n_members": 44,
+   "title": "Clap de fin pour Cristiano Ronaldo ?",
+   "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/kylian-mbappe-replace-a-gauche-de-l-attaque-des-bleus-bonne-ou-mauvaise-idee-de-zinedine-zidane-le-figaro-n-est-pas-d-accord-20260925",
+   "n_members": 80,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -615,51 +825,59 @@
     "right": 8
    },
    "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 1
+    "factuel": 12,
+    "mixte": 6,
+    "opinion": 3
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.353,
-   "category": "économie",
+   "divergence": 0.52,
+   "category": "sport",
    "terms_left": [
-    "américain",
-    "qu",
-    "libérés"
+    "quitte",
+    "cristiano",
+    "ronaldo"
    ],
    "terms_right": [
-    "baisser",
-    "carburants",
-    "diesel"
+    "portugal",
+    "mbappé",
+    "france"
    ]
   },
   {
-   "title": "Colère lycéenne: les élèves du lycée Paul-Éluard à Saint-Denis alertent sur l'état de leur établissement depuis des années",
+   "title": "Une centaine d'élèves évacués d'un lycée parisien après des incendies allumés aux portes de l'établissement, un ministre dénonce \"des actes criminels\"",
    "url": "https://www.nicematin.com/societe/education/journees-a-rallonge-des-classes-surchargees-pas-de-toilettes-pour-les-garcons-pourquoi-les-lyceens-de-pierre-et-marie-curie-ont-manifeste-a-menton-10730699",
-   "n_members": 68,
-   "n_sources": 20,
+   "n_members": 79,
+   "n_sources": 21,
    "counts": {
     "left": 3,
-    "centre": 10,
+    "centre": 11,
     "right": 7
    },
    "style_counts": {
-    "factuel": 11,
+    "factuel": 12,
     "mixte": 5,
     "opinion": 4
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.79,
+   "divergence": 0.774,
    "category": "société",
-   "terms_left": [],
-   "terms_right": []
+   "terms_left": [
+    "nelson-mandela",
+    "lycée nelson-mandela",
+    "nantes"
+   ],
+   "terms_right": [
+    "lycées",
+    "blocus",
+    "paris"
+   ]
   },
   {
    "title": "« Une personne a été retrouvée décédée » : bilan tragique après un feu d’appartement à La Seyne-sur-Mer",
    "url": "https://www.europe1.fr/societe/megafeu-la-gironde-demande-a-letat-de-compenser-une-facture-de-11-millions-deuros-1109159",
-   "n_members": 54,
+   "n_members": 57,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -701,9 +919,39 @@
    "terms_right": []
   },
   {
+   "title": "Primaire à gauche: les propos embarrassants de Glucksmann à l'encontre de Royal et Mélenchon",
+   "url": "https://www.liberation.fr/politique/elections/jerome-guedj-candidat-a-la-primaire-sociale-democrate-le-ps-creve-de-ses-ambiguites-20261003_HNVYH3XILJECVIJUXZNV4FGCCI/",
+   "n_members": 38,
+   "n_sources": 20,
+   "counts": {
+    "left": 4,
+    "centre": 9,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.583,
+   "category": "politique",
+   "terms_left": [
+    "sociale-démocrate",
+    "candidat primaire",
+    "place"
+   ],
+   "terms_right": [
+    "raphaël glucksmann",
+    "raphaël",
+    "débat"
+   ]
+  },
+  {
    "title": "Ligue des nations : pour la première de Zidane au stade de France, les Bleus tenus en échec par l’Italie (1-1)",
    "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/turquie-france-trois-changements-dembele-remplacant-et-doue-en-faux-numero-9-zidane-brouille-les-pistes-20260927",
-   "n_members": 65,
+   "n_members": 68,
    "n_sources": 19,
    "counts": {
     "left": 3,
@@ -717,23 +965,45 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.699,
+   "divergence": 0.726,
    "category": "sport",
    "terms_left": [
     "grand",
-    "nul face",
+    "france-italie",
     "france football"
    ],
    "terms_right": [
-    "france",
     "ligue nations",
-    "nations"
+    "nations",
+    "ligue"
    ]
   },
   {
-   "title": "Stocks stratégiques de pétrole : ce qu'il faut savoir sur ces amortisseurs de crises",
+   "title": "«Aucun moyen de l'éviter» : la Corée du Nord teste un missile dopé à l'IA",
+   "url": "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-au-moins-2-morts-et-4-blesses-a-kiev-seoul-exige-des-excuses-de-zelensky-le-point-sur-la-nuit-3ca24522-bacf-11f1-bf2b-20ac402d7e60",
+   "n_members": 46,
+   "n_sources": 19,
+   "counts": {
+    "left": 1,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 4,
+    "opinion": 1
+   },
+   "blindspot_score": 0.75,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Le Grand Dossier \"Peut-on freiner Poutine ?\" du samedi 3 octobre 2026",
    "url": "https://www.cnews.fr/monde/2026-09-25/made-europe-une-guerre-intestine-commence-alors-que-la-france-veut-exclure-le",
-   "n_members": 41,
+   "n_members": 42,
    "n_sources": 19,
    "counts": {
     "left": 2,
@@ -753,9 +1023,39 @@
    "terms_right": []
   },
   {
-   "title": "Avec \"Digger\", Tom Cruise est-il en route pour le flop le plus injuste de sa carrière ?",
+   "title": "« Dans une société conservatrice comme le Maroc, voir une femme Première ministre est une image forte »",
+   "url": "https://www.lemonde.fr/international/article/2026/09/29/au-maroc-le-roi-nomme-pour-la-premiere-fois-une-femme-fatima-ezzahra-el-mansouri-a-la-tete-du-gouvernement_6785652_3210.html",
+   "n_members": 29,
+   "n_sources": 19,
+   "counts": {
+    "left": 3,
+    "centre": 9,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 7,
+    "opinion": 1
+   },
+   "blindspot_score": 0.4,
+   "blindspot_for": null,
+   "divergence": 0.667,
+   "category": "international",
+   "terms_left": [
+    "ministre",
+    "fois",
+    "tête"
+   ],
+   "terms_right": [
+    "maroc fatima",
+    "cheffe gouvernement",
+    "cheffe"
+   ]
+  },
+  {
+   "title": "C&#8217;était vraiment Mission Impossible pour Tom Cruise : son film Digger fait un flop au box-office",
    "url": "https://www.radiofrance.fr/franceinter/digger-le-nouveau-film-d-alejandro-gonzales-inarritu-sortie-en-salles-le-30-septembre-2026-9106543",
-   "n_members": 25,
+   "n_members": 27,
    "n_sources": 19,
    "counts": {
     "left": 7,
@@ -769,23 +1069,23 @@
    },
    "blindspot_score": -0.556,
    "blindspot_for": null,
-   "divergence": 0.437,
+   "divergence": 0.421,
    "category": "culture",
    "terms_left": [
-    "salles",
     "iñárritu",
-    "digger"
+    "gonzález iñárritu",
+    "alejandro gonzález"
    ],
    "terms_right": [
     "digger tom",
-    "millions",
-    "dollars"
+    "box-office",
+    "millions"
    ]
   },
   {
-   "title": "\"Que les parents soient solidaires des exactions de leurs enfants\" : qui va payer les dégâts après les blocus des lycées ?",
+   "title": "SONDAGE - 81% des Français estiment qu'il faut faire payer aux parents les dégâts causés par leurs enfants mineurs pendant le blocus des lycées",
    "url": "https://www.liberation.fr/international/europe/propos-antisemites-attribues-a-jordan-bardella-requisistions-contre-rachida-dati-journee-de-greve-de-mardi-lactu-de-ce-lundi-28-septembre-20260928_PYZ4LI6IDJDR3O2SQ4SQIGM7UI/",
-   "n_members": 66,
+   "n_members": 68,
    "n_sources": 18,
    "counts": {
     "left": 1,
@@ -799,346 +1099,70 @@
    },
    "blindspot_score": 0.75,
    "blindspot_for": "gauche",
-   "divergence": 0.892,
+   "divergence": 0.887,
    "category": "société",
    "terms_left": [
-    "matin",
     "ministre",
-    "er"
+    "er",
+    "bardella"
    ],
    "terms_right": [
     "euros",
-    "millions",
-    "parents"
-   ]
-  },
-  {
-   "title": "Vol FlyDubai vers Tel-Aviv dérouté : «Je ne pouvais pas laisser mourir toutes ces personnes», témoigne le pilote",
-   "url": "https://www.leparisien.fr/international/israel/je-lai-etrangle-et-jai-repris-les-commandes-comment-un-passager-a-maitrise-le-pilote-suspecte-davoir-voulu-derouter-le-vol-de-flydubai-30-09-2026-RBUSTCOX2BE2FBYWUIHKGS6HW4.php",
-   "n_members": 36,
-   "n_sources": 18,
-   "counts": {
-    "left": 1,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 4,
-    "opinion": 2
-   },
-   "blindspot_score": 0.75,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Primaire à gauche: les propos embarrassants de Glucksmann à l'encontre de Royal et Mélenchon",
-   "url": "https://www.liberation.fr/politique/elections/jerome-guedj-candidat-a-la-primaire-sociale-democrate-le-ps-creve-de-ses-ambiguites-20261003_HNVYH3XILJECVIJUXZNV4FGCCI/",
-   "n_members": 34,
-   "n_sources": 18,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.615,
-   "category": "politique",
-   "terms_left": [
-    "sociale-démocrate",
-    "candidat primaire",
-    "primaire sociale-démocrate"
-   ],
-   "terms_right": [
-    "raphaël glucksmann",
-    "raphaël",
-    "glucksmann"
-   ]
-  },
-  {
-   "title": "Eure: des milliers de personnes ont manifesté contre les pesticides",
-   "url": "https://reporterre.net/Brandir-nos-maladies-et-nos-morts-paysans-et-malades-promettent-une-mobilisation-majeure",
-   "n_members": 31,
-   "n_sources": 18,
-   "counts": {
-    "left": 7,
-    "centre": 6,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 8,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": -0.167,
-   "blindspot_for": null,
-   "divergence": 0.512,
-   "category": "environnement",
-   "terms_left": [
-    "cancer",
-    "mobilisation",
-    "site"
-   ],
-   "terms_right": [
-    "rassemblées",
-    "personnes",
-    "eure"
-   ]
-  },
-  {
-   "title": "Téléphone au volant : La suspension du permis généralisée à toute la France",
-   "url": "https://www.bfmtv.com/aube/aube-bientot-un-arrete-pour-suspendre-le-permis-des-conducteurs-qui-telephonent-au-volant_AN-202610020331.html",
-   "n_members": 24,
-   "n_sources": 18,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.371,
-   "category": "société",
-   "terms_left": [
-    "départements",
-    "figaro",
-    "déléguée"
-   ],
-   "terms_right": [
-    "permis conduire",
-    "gouvernement",
-    "conduire"
+    "français",
+    "lycéens"
    ]
   },
   {
    "title": "Ukraine : la Russie attaque de nouveau un pont à Kiev le jour de la visite du chancelier allemand",
    "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/kiev-et-bruxelles-ont-trouve-un-accord-sur-les-modalites-du-financement-de-l-ukraine-pour-2026_8218864.html",
-   "n_members": 33,
-   "n_sources": 17,
+   "n_members": 39,
+   "n_sources": 18,
    "counts": {
     "left": 2,
     "centre": 9,
-    "right": 6
+    "right": 7
    },
    "style_counts": {
     "factuel": 12,
     "mixte": 5,
-    "opinion": 0
+    "opinion": 1
    },
-   "blindspot_score": 0.5,
+   "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.548,
+   "divergence": 0.545,
    "category": "international",
    "terms_left": [
     "ministre",
-    "ukrainien",
-    "direct"
+    "surprise",
+    "ukrainien"
    ],
    "terms_right": [
-    "ukraine",
     "euros",
-    "friedrich"
+    "ukraine",
+    "drones"
    ]
   },
   {
-   "title": "Femme agressée avec un spray inflammable en marge du mouvement lycéen à Marseille : un mineur interpellé",
-   "url": "https://www.leparisien.fr/faits-divers/marseille-une-femme-visee-par-un-spray-transforme-en-lance-flammes-artisanal-en-marge-de-la-mobilisation-lyceenne-02-10-2026-G7VCMXIURNGLTPN4HC23YKZT6M.php",
-   "n_members": 40,
-   "n_sources": 16,
+   "title": "Avion FlyDubai vers Tel-Aviv dérouté : des médias affirment que le copilote était interdit de vol par Oman pour radicalisation",
+   "url": "https://www.leparisien.fr/international/israel/je-lai-etrangle-et-jai-repris-les-commandes-comment-un-passager-a-maitrise-le-pilote-suspecte-davoir-voulu-derouter-le-vol-de-flydubai-30-09-2026-RBUSTCOX2BE2FBYWUIHKGS6HW4.php",
+   "n_members": 37,
+   "n_sources": 18,
    "counts": {
-    "left": 2,
-    "centre": 8,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 4,
-    "opinion": 2
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.641,
-   "category": "société",
-   "terms_left": [
-    "parquet",
-    "examen",
-    "ciotat"
-   ],
-   "terms_right": [
-    "spray",
-    "femme",
-    "spray enflammé"
-   ]
-  },
-  {
-   "title": "Le champion olympique Amaury Leveaux en garde a vue pour violences sur sa conjointe et leur bébé",
-   "url": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/le-youtubeur-greg-guillotin-a-ete-place-en-garde-a-vue-apres-une-plainte-pour-violences-conjugales-deposee-par-son-ex-compagne_8213006.html",
-   "n_members": 57,
-   "n_sources": 15,
-   "counts": {
-    "left": 2,
-    "centre": 8,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": 0.342,
-   "category": "faits-divers",
-   "terms_left": [
-    "youtubeur greg",
-    "youtubeur",
-    "greg"
-   ],
-   "terms_right": [
-    "amaury leveaux",
-    "leveaux",
-    "amaury"
-   ]
-  },
-  {
-   "title": "Un mineur de 16 ans placé en garde à vue après qu’un professeur a été aspergé d’essence à La Ciotat",
-   "url": "https://www.lejdd.fr/Societe/home-jacking-brutal-a-villeurbanne-un-homme-de-90-ans-et-sa-femme-de-83-ans-sequestres-et-frappes-184782",
-   "n_members": 48,
-   "n_sources": 15,
-   "counts": {
-    "left": 0,
-    "centre": 8,
+    "left": 1,
+    "centre": 10,
     "right": 7
    },
    "style_counts": {
-    "factuel": 10,
-    "mixte": 3,
+    "factuel": 12,
+    "mixte": 4,
     "opinion": 2
    },
-   "blindspot_score": 1.0,
+   "blindspot_score": 0.75,
    "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Violences : un collège incendié à Metz",
-   "url": "https://www.franceinfo.fr/faits-divers/incendie/un-incendie-dans-un-college-a-metz-en-marge-de-la-mobilisation-lyceenne_8220889.html",
-   "n_members": 25,
-   "n_sources": 15,
-   "counts": {
-    "left": 1,
-    "centre": 8,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": 0.714,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Blocage des lycées : la réponse de Sébastien Lecornu au mouvement lycéen «en cinq chantiers»",
-   "url": "https://www.blast-info.fr/articles/2026/blocus-au-lycee-jean-jaures-d-argenteuil-nous-aussi-banlieusards-on-a-le-droit-a-l-egalite-des-chances-Fl-KlQlcT-aloHmXhdavGw",
-   "n_members": 24,
-   "n_sources": 15,
-   "counts": {
-    "left": 6,
-    "centre": 6,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 6,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": -0.333,
-   "blindspot_for": null,
-   "divergence": 0.806,
-   "category": "société",
-   "terms_left": [
-    "partout",
-    "cours",
-    "lycéenne"
-   ],
-   "terms_right": [
-    "lycéens",
-    "lycées",
-    "pays"
-   ]
-  },
-  {
-   "title": "Espagne : sur fond de crise du logement, Pedro Sánchez convoque des élections anticipées",
-   "url": "https://www.france24.com/fr/europe/20261005-en-espagne-pedro-sanchez-convoque-des-%C3%A9lections-anticip%C3%A9es-le-29-novembre",
-   "n_members": 13,
-   "n_sources": 13,
-   "counts": {
-    "left": 1,
-    "centre": 9,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 2,
-    "opinion": 1
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
    "divergence": null,
    "category": "international",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Championnats d'Europe de cyclisme : Remco Evenepoel sacré au bout d'un sprint ébouriffant",
-   "url": "https://www.nicematin.com/sports/il-y-aura-un-gros-niveau-plus-que-les-annees-precedentes-l-elite-europeenne-au-depart-des-championnats-d-europe-de-spartan-race-a-saint-raphael-10732260",
-   "n_members": 21,
-   "n_sources": 12,
-   "counts": {
-    "left": 2,
-    "centre": 7,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 7,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.524,
-   "category": "sport",
-   "terms_left": [
-    "championne",
-    "championne monde",
-    "décroché"
-   ],
-   "terms_right": [
-    "fois",
-    "champion",
-    "remco evenepoel"
-   ]
   }
  ]
 }
