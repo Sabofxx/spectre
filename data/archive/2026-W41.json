@@ -1,6 +1,6 @@
 {
  "week": "2026-W41",
- "generated_at": "2026-10-06T00:30:25+00:00",
+ "generated_at": "2026-10-06T06:42:40+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -35,9 +35,9 @@
    ]
   },
   {
-   "title": "En direct : de 400 à 500 lycées fermés en France, plus de 160 en région parisienne",
+   "title": "EN DIRECT, blocage des lycées : actions et manifestations annoncées partout en France pour la journée de mobilisation lycéenne",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 701,
+   "n_members": 737,
    "n_sources": 39,
    "counts": {
     "left": 10,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.294,
+   "divergence": 0.282,
    "category": "société",
    "terms_left": [
     "mobilisation",
@@ -61,13 +61,13 @@
    "terms_right": [
     "blocus",
     "blocus lycées",
-    "ordre"
+    "violence"
    ]
   },
   {
    "title": "Marine Le Pen maintient « totalement » sa « confiance » à Bardella, accusé par Mediapart d’écrits antisémites",
    "url": "https://www.mediapart.fr/journal/politique/280926/les-banques-sont-toutes-detenues-par-des-juifs-jordan-bardella-face-ses-ecrits-antisemites",
-   "n_members": 348,
+   "n_members": 349,
    "n_sources": 38,
    "counts": {
     "left": 9,
@@ -127,7 +127,7 @@
   {
    "title": "Élection au Brésil : Flavio Bolsonaro devance Lula et l'affrontera au second tour",
    "url": "https://information.tv5monde.com/international/presidentielle-au-bresil-flavio-bolsonaro-surfe-sur-le-scandale-2838501",
-   "n_members": 187,
+   "n_members": 189,
    "n_sources": 36,
    "counts": {
     "left": 8,
@@ -215,9 +215,39 @@
    ]
   },
   {
+   "title": "«Il voulait me violer» : la députée LR Émilie Bonnivard dénonce la relaxe de son harceleur",
+   "url": "https://www.franceinfo.fr/politique/jordan-bardella/on-vient-de-deux-univers-differents-maria-carolina-de-bourbon-des-deux-siciles-se-confie-pour-la-premiere-fois-sur-sa-relation-avec-jordan-bardella_8211857.html",
+   "n_members": 61,
+   "n_sources": 28,
+   "counts": {
+    "left": 7,
+    "centre": 11,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 10,
+    "opinion": 5
+   },
+   "blindspot_score": 0.176,
+   "blindspot_for": null,
+   "divergence": 0.641,
+   "category": "politique",
+   "terms_left": [
+    "marine",
+    "marine pen",
+    "pen"
+   ],
+   "terms_right": [
+    "députée",
+    "affaire",
+    "violences"
+   ]
+  },
+  {
    "title": "Ukraine : les frappes russes s'accentuent sur Kiev et touchent ses ponts",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 239,
+   "n_members": 242,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -231,17 +261,17 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.38,
+   "divergence": 0.368,
    "category": "international",
    "terms_left": [
-    "ville",
+    "direct",
     "bombardements",
     "ukraine russie"
    ],
    "terms_right": [
     "jour",
     "drone",
-    "pont kiev"
+    "frappe"
    ]
   },
   {
@@ -261,7 +291,7 @@
    },
    "blindspot_score": 0.667,
    "blindspot_for": "gauche",
-   "divergence": 0.7,
+   "divergence": 0.701,
    "category": "sciences-tech",
    "terms_left": [
     "ia",
@@ -305,9 +335,39 @@
    ]
   },
   {
+   "title": "Blocage des lycées en France : l’Iran s’inquiète d’une « violence disproportionnée » contre les manifestants",
+   "url": "https://www.rfi.fr/fr/asie-pacifique/20260930-inde-des-milliers-d-%C3%A9tudiantes-mobilis%C3%A9es-%C3%A0-new-delhi-pour-d%C3%A9noncer-les-agressions-sexuelles",
+   "n_members": 63,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.801,
+   "category": "société",
+   "terms_left": [
+    "paris",
+    "lycéens",
+    "blocage lycées"
+   ],
+   "terms_right": [
+    "disproportionnée",
+    "violences",
+    "blocus"
+   ]
+  },
+  {
    "title": "Génétique, microparticules : pourquoi le cancer du sein touche de plus en plus les moins de 40 ans",
    "url": "https://sante.ouest-france.fr/cancer/reportage-des-tumeurs-sur-puce-pour-adapter-les-traitements-du-cancer-du-sein-fefdeaba-b343-11f1-8815-214ab2555576",
-   "n_members": 57,
+   "n_members": 58,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -321,12 +381,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.513,
+   "divergence": 0.496,
    "category": "société",
    "terms_left": [
     "monde",
-    "nombre",
-    "étude"
+    "cancers",
+    "nombre"
    ],
    "terms_right": [
     "dépistage",
@@ -335,9 +395,9 @@
    ]
   },
   {
-   "title": "La France emprunte à 5% et alors quel est le problème? Taux à 10 ans, OAT, spread… On vous explique la \"crise\" de la dette française sans jargon financier",
+   "title": "Dette : pourquoi les taux d’emprunt de la France inquiètent de plus en plus",
    "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/sans-cure-d-austerite-et-meme-sans-budget-depuis-2023-comment-l-espagne-a-reussi-un-desendettement-spectaculaire-a-99-9-du-pib-quand-la-france-s-enfonce_AV-202609260041.html",
-   "n_members": 66,
+   "n_members": 67,
    "n_sources": 25,
    "counts": {
     "left": 3,
@@ -351,7 +411,7 @@
    },
    "blindspot_score": 0.6,
    "blindspot_for": "gauche",
-   "divergence": 0.509,
+   "divergence": 0.508,
    "category": "économie",
    "terms_left": [
     "publique",
@@ -360,8 +420,8 @@
    ],
    "terms_right": [
     "ans",
-    "taux",
-    "france"
+    "france",
+    "milliards"
    ]
   },
   {
@@ -381,7 +441,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.734,
+   "divergence": 0.737,
    "category": "économie",
    "terms_left": [
     "lycéenne",
@@ -411,7 +471,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.542,
+   "divergence": 0.543,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -425,39 +485,9 @@
    ]
   },
   {
-   "title": "Blocage des lycées en France : l’Iran s’inquiète d’une « violence disproportionnée » contre les manifestants",
-   "url": "https://www.rfi.fr/fr/asie-pacifique/20260930-inde-des-milliers-d-%C3%A9tudiantes-mobilis%C3%A9es-%C3%A0-new-delhi-pour-d%C3%A9noncer-les-agressions-sexuelles",
-   "n_members": 61,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 5
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.879,
-   "category": "société",
-   "terms_left": [
-    "paris",
-    "blocage lycées",
-    "blocage"
-   ],
-   "terms_right": [
-    "france",
-    "violences",
-    "blocus"
-   ]
-  },
-  {
    "title": "Le gouvernement va « prélever » 2,1 milliards d’euros sur l’Unédic en 2027",
    "url": "https://www.lefigaro.fr/politique/budget-2027-les-deputes-socialistes-ont-le-doigt-sur-le-bouton-de-la-censure-20260930",
-   "n_members": 60,
+   "n_members": 62,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -471,7 +501,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.665,
+   "divergence": 0.667,
    "category": "économie",
    "terms_left": [
     "parti",
@@ -501,7 +531,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.725,
+   "divergence": 0.715,
    "category": "international",
    "terms_left": [
     "france",
@@ -511,13 +541,13 @@
    "terms_right": [
     "ans",
     "inondations",
-    "femme"
+    "pluies"
    ]
   },
   {
-   "title": "Pluies-inondations: l'Aude et les Pyrénées-Orientales placés en vigilance orange",
+   "title": "Pluie-inondation : voici les deux départements placés en vigilance orange ce mardi",
    "url": "https://www.cnews.fr/france/2026-09-21/orages-ces-deux-departements-menaces-par-les-eclairs-ce-mercredi-1922269",
-   "n_members": 135,
+   "n_members": 147,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -531,16 +561,16 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.447,
+   "divergence": 0.423,
    "category": "environnement",
    "terms_left": [
     "exceptionnel",
-    "épisode",
-    "gard hérault"
+    "pluie inondations",
+    "épisode"
    ],
    "terms_right": [
-    "orages",
     "départements",
+    "orages",
     "jaune"
    ]
   },
@@ -561,7 +591,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.559,
+   "divergence": 0.56,
    "category": "société",
    "terms_left": [
     "tir",
@@ -591,7 +621,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.539,
+   "divergence": 0.546,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -601,7 +631,37 @@
    "terms_right": [
     "édouard philippe",
     "édouard",
-    "départ"
+    "propose"
+   ]
+  },
+  {
+   "title": "«Trump nous a détruits» : face à la hausse du diesel, la colère des camionneurs américains menace de faire tache d’huile aux midterms",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-edito-eco/l-edito-eco-du-lundi-28-septembre-2026-5873925",
+   "n_members": 60,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.864,
+   "category": "économie",
+   "terms_left": [
+    "midterms",
+    "trump",
+    "président"
+   ],
+   "terms_right": [
+    "euros",
+    "face",
+    "ia"
    ]
   },
   {
@@ -665,36 +725,6 @@
    ]
   },
   {
-   "title": "«Trump nous a détruits» : face à la hausse du diesel, la colère des camionneurs américains menace de faire tache d’huile aux midterms",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-edito-eco/l-edito-eco-du-lundi-28-septembre-2026-5873925",
-   "n_members": 58,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.865,
-   "category": "économie",
-   "terms_left": [
-    "midterms",
-    "trump",
-    "élections mi-mandat"
-   ],
-   "terms_right": [
-    "euros",
-    "face",
-    "prix carburants"
-   ]
-  },
-  {
    "title": "VIDÉO. Blocage des lycées : \"Tu ne me parles pas comme ça\", \"tu n’es pas mon grand-père\"... La séquence tendue entre Robert Ménard et un manifestant",
    "url": "https://www.liberation.fr/politique/refus-de-marier-un-etranger-sous-oqtf-juge-mercredi-robert-menard-veut-faire-de-son-proces-une-tribune-20260928_QOV7UOXKDZGSDBHQBKMK3QL6ZQ/",
    "n_members": 50,
@@ -741,7 +771,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.323,
+   "divergence": 0.333,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -787,7 +817,7 @@
   {
    "title": "Jusqu'à 100 millions de barils débloqués : quel effet à la pompe ?",
    "url": "https://www.bfmtv.com/economie/entreprises/energie/des-cargaisons-annulees-a-la-derniere-minute-pekin-qui-n-autorise-plus-les-exportations-de-carburants-la-chine-ferme-brutalement-le-robinet-le-petrole-repasse-au-dessus-des-100-dollars_AV-202610010661.html",
-   "n_members": 50,
+   "n_members": 51,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -801,7 +831,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.283,
+   "divergence": 0.289,
    "category": "économie",
    "terms_left": [
     "libérés",
@@ -810,9 +840,31 @@
    ],
    "terms_right": [
     "prix",
-    "stratégiques",
-    "baisser"
+    "semaine",
+    "euros"
    ]
+  },
+  {
+   "title": "Zinédine Zidane : \"Ça veut dire quoi ? Au PSG c'est mieux ?\" Le sélectionneur français répond sèchement à une question sur Ousmane Dembélé et défend son attaquant après le match face à l'Italie",
+   "url": "https://www.leparisien.fr/sports/football/equipe-de-france/turquie-france-je-ressens-une-immense-emotion-admet-zinedine-zidane-a-la-veille-de-sa-premiere-a-la-tete-des-bleus-24-09-2026-GSBSXDWVVRCL7BQOHC2JCSL5X4.php",
+   "n_members": 81,
+   "n_sources": 21,
+   "counts": {
+    "left": 4,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.57,
+   "category": "sport",
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Une centaine d'élèves évacués d'un lycée parisien après des incendies allumés aux portes de l'établissement, un ministre dénonce \"des actes criminels\"",
@@ -831,11 +883,11 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.772,
+   "divergence": 0.773,
    "category": "société",
    "terms_left": [
-    "lycée nelson-mandela",
     "nelson-mandela",
+    "lycée nelson-mandela",
     "nantes"
    ],
    "terms_right": [
@@ -861,7 +913,7 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.514,
+   "divergence": 0.513,
    "category": "sport",
    "terms_left": [
     "quitte",
@@ -875,9 +927,39 @@
    ]
   },
   {
+   "title": "Blocage des lycées : la réponse de Sébastien Lecornu au mouvement lycéen «en cinq chantiers»",
+   "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-12h30/journal-de-12h30-du-mercredi-30-septembre-2026-6142190",
+   "n_members": 46,
+   "n_sources": 21,
+   "counts": {
+    "left": 7,
+    "centre": 9,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": -0.167,
+   "blindspot_for": null,
+   "divergence": 0.747,
+   "category": "société",
+   "terms_left": [
+    "lycée",
+    "mouvement lycéen",
+    "partout"
+   ],
+   "terms_right": [
+    "colère",
+    "feuille route",
+    "feuille"
+   ]
+  },
+  {
    "title": "Primaire à gauche: les propos embarrassants de Glucksmann à l'encontre de Royal et Mélenchon",
    "url": "https://www.liberation.fr/politique/elections/jerome-guedj-candidat-a-la-primaire-sociale-democrate-le-ps-creve-de-ses-ambiguites-20261003_HNVYH3XILJECVIJUXZNV4FGCCI/",
-   "n_members": 40,
+   "n_members": 41,
    "n_sources": 21,
    "counts": {
     "left": 5,
@@ -891,12 +973,12 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.605,
+   "divergence": 0.606,
    "category": "politique",
    "terms_left": [
     "sociale-démocrate",
-    "candidat primaire",
-    "place"
+    "place",
+    "place publique"
    ],
    "terms_right": [
     "raphaël glucksmann",
@@ -949,9 +1031,39 @@
    "terms_right": []
   },
   {
-   "title": "Ligue des nations : l’équipe de France renverse la Belgique (4-1), coaching gagnant pour Zinédine Zidane",
+   "title": "Le départ de l’ISS de l’astronaute française Sophie Adenot est reporté en raison de la météorologie",
+   "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/fin-de-mission-en-vue-pour-sophie-adenot-qui-s-apprete-a-quitter-l-iss-apres-plus-de-sept-mois-dans-l-espace_8216980.html",
+   "n_members": 35,
+   "n_sources": 20,
+   "counts": {
+    "left": 3,
+    "centre": 11,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 4,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.461,
+   "category": "sciences-tech",
+   "terms_left": [
+    "astronaute",
+    "reporté",
+    "bord"
+   ],
+   "terms_right": [
+    "jours",
+    "émission",
+    "conditions"
+   ]
+  },
+  {
+   "title": "VIDÉO. France - Belgique : Olise, Doué et Cherki ont tout changé… Les buts de la victoire des Bleus de Zinédine Zidane",
    "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/turquie-france-trois-changements-dembele-remplacant-et-doue-en-faux-numero-9-zidane-brouille-les-pistes-20260927",
-   "n_members": 82,
+   "n_members": 85,
    "n_sources": 19,
    "counts": {
     "left": 3,
@@ -965,17 +1077,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.66,
+   "divergence": 0.631,
    "category": "sport",
    "terms_left": [
-    "france-italie",
     "période",
-    "partie"
+    "olise doué",
+    "france-italie"
    ],
    "terms_right": [
     "belgique",
-    "équipe france",
-    "france"
+    "ligue nations",
+    "nations"
    ]
   },
   {
@@ -1023,153 +1135,33 @@
    "terms_right": []
   },
   {
-   "title": "Blocage des lycées : la réponse de Sébastien Lecornu au mouvement lycéen «en cinq chantiers»",
-   "url": "https://www.blast-info.fr/articles/2026/blocus-au-lycee-jean-jaures-d-argenteuil-nous-aussi-banlieusards-on-a-le-droit-a-l-egalite-des-chances-Fl-KlQlcT-aloHmXhdavGw",
-   "n_members": 38,
+   "title": "La peste est-elle de retour en Sibérie ? La mort d'une technicienne de laboratoire inquiète la Russie",
+   "url": "https://www.ouest-france.fr/europe/russie/une-technicienne-de-laboratoire-meurt-de-la-peste-en-siberie-des-dizaines-de-personnes-placees-en-quarantaine-439cfea6-bea5-11f1-b7db-555e86a524f6",
+   "n_members": 30,
    "n_sources": 19,
    "counts": {
-    "left": 6,
-    "centre": 8,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": -0.091,
-   "blindspot_for": null,
-   "divergence": 0.767,
-   "category": "société",
-   "terms_left": [
-    "lycée",
-    "partout",
-    "blocage"
-   ],
-   "terms_right": [
-    "feuille route",
-    "feuille",
-    "route"
-   ]
-  },
-  {
-   "title": "Le départ de l’ISS de l’astronaute française Sophie Adenot est reporté en raison de la météorologie",
-   "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/fin-de-mission-en-vue-pour-sophie-adenot-qui-s-apprete-a-quitter-l-iss-apres-plus-de-sept-mois-dans-l-espace_8216980.html",
-   "n_members": 34,
-   "n_sources": 19,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 5
+    "left": 1,
+    "centre": 12,
+    "right": 6
    },
    "style_counts": {
     "factuel": 14,
-    "mixte": 3,
-    "opinion": 2
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.471,
-   "category": "sciences-tech",
-   "terms_left": [
-    "iss",
-    "astronaute",
-    "mois"
-   ],
-   "terms_right": [
-    "émission",
-    "jours",
-    "conditions"
-   ]
-  },
-  {
-   "title": "« Dans une société conservatrice comme le Maroc, voir une femme Première ministre est une image forte »",
-   "url": "https://www.lemonde.fr/international/article/2026/09/29/au-maroc-le-roi-nomme-pour-la-premiere-fois-une-femme-fatima-ezzahra-el-mansouri-a-la-tete-du-gouvernement_6785652_3210.html",
-   "n_members": 29,
-   "n_sources": 19,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
+    "mixte": 4,
     "opinion": 1
    },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.667,
+   "blindspot_score": 0.714,
+   "blindspot_for": "gauche",
+   "divergence": 0.701,
    "category": "international",
    "terms_left": [
-    "ministre",
-    "fois",
-    "tête"
+    "laboratoire",
+    "irkoutsk",
+    "assure"
    ],
    "terms_right": [
-    "maroc fatima",
-    "cheffe gouvernement",
-    "cheffe"
-   ]
-  },
-  {
-   "title": "C&#8217;était vraiment Mission Impossible pour Tom Cruise : son film Digger fait un flop au box-office",
-   "url": "https://www.radiofrance.fr/franceinter/digger-le-nouveau-film-d-alejandro-gonzales-inarritu-sortie-en-salles-le-30-septembre-2026-9106543",
-   "n_members": 27,
-   "n_sources": 19,
-   "counts": {
-    "left": 7,
-    "centre": 10,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 8,
-    "opinion": 1
-   },
-   "blindspot_score": -0.556,
-   "blindspot_for": null,
-   "divergence": 0.421,
-   "category": "culture",
-   "terms_left": [
-    "iñárritu",
-    "gonzález iñárritu",
-    "alejandro gonzález"
-   ],
-   "terms_right": [
-    "digger tom",
-    "box-office",
-    "millions"
-   ]
-  },
-  {
-   "title": "SONDAGE - 81% des Français estiment qu'il faut faire payer aux parents les dégâts causés par leurs enfants mineurs pendant le blocus des lycées",
-   "url": "https://www.liberation.fr/international/europe/propos-antisemites-attribues-a-jordan-bardella-requisistions-contre-rachida-dati-journee-de-greve-de-mardi-lactu-de-ce-lundi-28-septembre-20260928_PYZ4LI6IDJDR3O2SQ4SQIGM7UI/",
-   "n_members": 68,
-   "n_sources": 18,
-   "counts": {
-    "left": 1,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 4,
-    "opinion": 3
-   },
-   "blindspot_score": 0.75,
-   "blindspot_for": "gauche",
-   "divergence": 0.886,
-   "category": "société",
-   "terms_left": [
-    "ministre",
-    "er",
-    "bardella"
-   ],
-   "terms_right": [
-    "euros",
-    "français",
-    "europe"
+    "russie",
+    "peste",
+    "femme"
    ]
   }
  ]
