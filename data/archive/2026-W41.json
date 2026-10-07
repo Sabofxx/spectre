@@ -1,13 +1,13 @@
 {
  "week": "2026-W41",
- "generated_at": "2026-10-07T17:07:19+00:00",
+ "generated_at": "2026-10-07T22:08:36+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "EN DIRECT, blocage des lycées : actions et manifestations annoncées partout en France pour la journée de mobilisation lycéenne",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 887,
+   "n_members": 893,
    "n_sources": 42,
    "counts": {
     "left": 13,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": -0.04,
    "blindspot_for": null,
-   "divergence": 0.278,
+   "divergence": 0.282,
    "category": "société",
    "terms_left": [
     "étudiants",
@@ -35,9 +35,9 @@
    ]
   },
   {
-   "title": "Affaire Thélyson Orélien : « Notre écriture est cyborg, Pangram est déjà un outil du passé »",
+   "title": "« C’était ça ou mourir » : le roman de Thélyson Orélien, soupçonné d’avoir eu recours à l’IA, est le plus vendu de la rentrée littéraire",
    "url": "https://www.nouvelobs.com/bibliobs/20260920.OBS118426/thelyson-orelien-le-phenomene-de-la-rentree-litteraire-je-ne-tiens-pas-mon-crayon-avec-ma-tete-mais-avec-mes-tripes.html",
-   "n_members": 196,
+   "n_members": 197,
    "n_sources": 40,
    "counts": {
     "left": 10,
@@ -67,7 +67,7 @@
   {
    "title": "Accusations d'antisémitisme : Marine Le Pen «maintient à 1.000% sa confiance en Jordan Bardella»",
    "url": "https://www.mediapart.fr/journal/politique/280926/les-banques-sont-toutes-detenues-par-des-juifs-jordan-bardella-face-ses-ecrits-antisemites",
-   "n_members": 380,
+   "n_members": 381,
    "n_sources": 38,
    "counts": {
     "left": 9,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.389,
+   "divergence": 0.388,
    "category": "économie",
    "terms_left": [
     "lecornu",
@@ -141,17 +141,47 @@
    },
    "blindspot_score": 0.217,
    "blindspot_for": null,
-   "divergence": 0.28,
+   "divergence": 0.281,
    "category": "international",
    "terms_left": [
-    "candidat",
     "extrême",
+    "candidat",
     "extrême droite"
    ],
    "terms_right": [
     "flavio",
     "flavio bolsonaro",
     "bolsonaro fils"
+   ]
+  },
+  {
+   "title": "Blocage des lycées : 30 000 élèves privés de cours « plusieurs semaines » à cause des saccages",
+   "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-12h30/journal-de-12h30-du-mercredi-30-septembre-2026-6142190",
+   "n_members": 131,
+   "n_sources": 31,
+   "counts": {
+    "left": 8,
+    "centre": 13,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 12,
+    "opinion": 4
+   },
+   "blindspot_score": 0.111,
+   "blindspot_for": null,
+   "divergence": 0.422,
+   "category": "société",
+   "terms_left": [
+    "mobilisation lycéenne",
+    "mouvement lycéen",
+    "mobilisation"
+   ],
+   "terms_right": [
+    "colère",
+    "blocus",
+    "colère lycéenne"
    ]
   },
   {
@@ -175,49 +205,19 @@
    "category": "international",
    "terms_left": [
     "attaque",
-    "urgence",
-    "tentative"
+    "dubaï",
+    "urgence"
    ],
    "terms_right": [
     "dérouté",
     "flydubai dérouté",
-    "tel-aviv dérouté"
-   ]
-  },
-  {
-   "title": "Blocage des lycées : la réponse de Sébastien Lecornu au mouvement lycéen «en cinq chantiers»",
-   "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-12h30/journal-de-12h30-du-mercredi-30-septembre-2026-6142190",
-   "n_members": 108,
-   "n_sources": 29,
-   "counts": {
-    "left": 8,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 11,
-    "opinion": 4
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.492,
-   "category": "société",
-   "terms_left": [
-    "mobilisation lycéenne",
-    "mobilisation",
-    "mouvement lycéen"
-   ],
-   "terms_right": [
-    "colère",
-    "établissements",
-    "nationale"
+    "copilote"
    ]
   },
   {
    "title": "Suspicion de peste : la Russie peine à rassurer après la mort d’une laborantine en Sibérie",
    "url": "https://www.ouest-france.fr/europe/russie/une-technicienne-de-laboratoire-meurt-de-la-peste-en-siberie-des-dizaines-de-personnes-placees-en-quarantaine-439cfea6-bea5-11f1-b7db-555e86a524f6",
-   "n_members": 76,
+   "n_members": 79,
    "n_sources": 29,
    "counts": {
     "left": 5,
@@ -231,23 +231,23 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.417,
+   "divergence": 0.407,
    "category": "international",
    "terms_left": [
     "laborantine",
-    "faible",
-    "mort laborantine"
+    "soupçon",
+    "institut lutte"
    ],
    "terms_right": [
     "incendie",
     "quarantaine",
-    "trump"
+    "russe"
    ]
   },
   {
-   "title": "Une nouvelle attaque de missiles russes contre l'Ukraine fait au moins 11 morts",
+   "title": "Ukraine : des frappes russes font 24 morts, dont 18 dans un même immeuble",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 261,
+   "n_members": 266,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -272,6 +272,36 @@
     "frappe",
     "frappe russe",
     "nouvelles"
+   ]
+  },
+  {
+   "title": "En direct : Israël commémore les trois ans des attaques du 7-Octobre",
+   "url": "https://www.leparisien.fr/international/israel/je-lai-etrangle-et-jai-repris-les-commandes-comment-un-passager-a-maitrise-le-pilote-suspecte-davoir-voulu-derouter-le-vol-de-flydubai-30-09-2026-RBUSTCOX2BE2FBYWUIHKGS6HW4.php",
+   "n_members": 94,
+   "n_sources": 28,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.743,
+   "category": "international",
+   "terms_left": [
+    "société",
+    "kibboutz",
+    "société israélienne"
+   ],
+   "terms_right": [
+    "flydubai",
+    "israël",
+    "vol"
    ]
   },
   {
@@ -302,36 +332,6 @@
     "lunettes connectées",
     "connectées",
     "lunettes"
-   ]
-  },
-  {
-   "title": "En direct : Israël commémore les trois ans des attaques du 7-Octobre",
-   "url": "https://www.leparisien.fr/international/israel/je-lai-etrangle-et-jai-repris-les-commandes-comment-un-passager-a-maitrise-le-pilote-suspecte-davoir-voulu-derouter-le-vol-de-flydubai-30-09-2026-RBUSTCOX2BE2FBYWUIHKGS6HW4.php",
-   "n_members": 85,
-   "n_sources": 28,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 4
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.751,
-   "category": "international",
-   "terms_left": [
-    "israélienne",
-    "kibboutz",
-    "mouvement"
-   ],
-   "terms_right": [
-    "flydubai",
-    "israël",
-    "vol"
    ]
   },
   {
@@ -441,17 +441,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.629,
+   "divergence": 0.599,
    "category": "politique",
    "terms_left": [
     "qu",
     "candidat",
-    "primaire sociale-démocrate"
+    "candidat primaire"
    ],
    "terms_right": [
     "présidentielle",
-    "débat",
-    "raphaël glucksmann"
+    "ségolène royal",
+    "ségolène"
    ]
   },
   {
@@ -501,17 +501,47 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.673,
+   "divergence": 0.675,
    "category": "économie",
    "terms_left": [
-    "lycéenne",
-    "mobilisation lycéenne",
-    "fabien"
+    "fabien",
+    "lycéens",
+    "état"
    ],
    "terms_right": [
     "sénat",
     "projet loi",
     "projet"
+   ]
+  },
+  {
+   "title": "Espagne : le Premier ministre Pedro Sánchez annonce des élections anticipées le 29 novembre après le rejet de ses mesures sur le logement par le parlement",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20261002-bosnie-herz%C3%A9govine-une-%C3%A9lection-sous-tension-30-ans-apr%C3%A8s-la-guerre",
+   "n_members": 61,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.537,
+   "category": "international",
+   "terms_left": [
+    "europe",
+    "face",
+    "droite"
+   ],
+   "terms_right": [
+    "élections législatives",
+    "législatives",
+    "élections"
    ]
   },
   {
@@ -531,7 +561,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.542,
+   "divergence": 0.541,
    "category": "société",
    "terms_left": [
     "marche",
@@ -564,50 +594,20 @@
    "divergence": 0.483,
    "category": "société",
    "terms_left": [
-    "monde",
     "cancers",
+    "monde",
     "france"
    ],
    "terms_right": [
-    "dépistage",
     "faut",
-    "mois"
-   ]
-  },
-  {
-   "title": "Espagne : Pedro Sánchez convoque des élections législatives anticipées le 29 novembre",
-   "url": "https://www.france24.com/fr/vid%C3%A9o/20261002-bosnie-herz%C3%A9govine-une-%C3%A9lection-sous-tension-30-ans-apr%C3%A8s-la-guerre",
-   "n_members": 60,
-   "n_sources": 26,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.554,
-   "category": "international",
-   "terms_left": [
-    "europe",
-    "face",
-    "droite"
-   ],
-   "terms_right": [
-    "élections législatives",
-    "législatives",
-    "sánchez convoque"
+    "dépistage",
+    "institut"
    ]
   },
   {
    "title": "États-Unis : les étudiants de Cornell accusent leur université d'avoir couvert un viol",
    "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-extremement-positif-le-chef-de-l-otan-reagit-a-l-accord-sur-le-groenland-avec-les-etats-unis_VN-202609230253.html",
-   "n_members": 81,
+   "n_members": 82,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -621,12 +621,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.626,
+   "divergence": 0.62,
    "category": "international",
    "terms_left": [
     "etats-unis",
-    "nouveau",
-    "université américaine"
+    "université américaine",
+    "nouveau"
    ],
    "terms_right": [
     "états-unis",
@@ -667,7 +667,7 @@
   {
    "title": "«C'est censé être très bon» : Donald Trump signe un décret permettant aux Américains d'acheter du diesel détaxé",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-edito-eco/l-edito-eco-du-lundi-28-septembre-2026-5873925",
-   "n_members": 66,
+   "n_members": 67,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -681,12 +681,12 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.847,
+   "divergence": 0.855,
    "category": "économie",
    "terms_left": [
     "midterms",
-    "président",
-    "américain"
+    "campagne",
+    "face hausse"
    ],
    "terms_right": [
     "diesel",
@@ -711,17 +711,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.559,
+   "divergence": 0.396,
    "category": "politique",
    "terms_left": [
     "gauche",
     "débat",
-    "primaire gauche"
+    "primaire"
    ],
    "terms_right": [
-    "bfmtv",
-    "candidats primaire",
-    "sociale-démocrate tour"
+    "qu",
+    "guerre",
+    "mélenchon"
    ]
   },
   {
@@ -741,7 +741,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.685,
+   "divergence": 0.684,
    "category": "économie",
    "terms_left": [
     "laurent",
@@ -752,6 +752,66 @@
     "gouvernement",
     "milliards",
     "veut"
+   ]
+  },
+  {
+   "title": "Prix des carburants : baisse en vue !",
+   "url": "https://www.bfmtv.com/economie/entreprises/energie/des-cargaisons-annulees-a-la-derniere-minute-pekin-qui-n-autorise-plus-les-exportations-de-carburants-la-chine-ferme-brutalement-le-robinet-le-petrole-repasse-au-dessus-des-100-dollars_AV-202610010661.html",
+   "n_members": 67,
+   "n_sources": 24,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 1
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.333,
+   "category": "économie",
+   "terms_left": [
+    "nouveau",
+    "distributeurs",
+    "annonce"
+   ],
+   "terms_right": [
+    "prix",
+    "pompe",
+    "baisser"
+   ]
+  },
+  {
+   "title": "Retour de Sophie Adenot : ce qui attend l'astronaute française une fois revenue sur Terre",
+   "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/fin-de-mission-en-vue-pour-sophie-adenot-qui-s-apprete-a-quitter-l-iss-apres-plus-de-sept-mois-dans-l-espace_8216980.html",
+   "n_members": 65,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.258,
+   "category": "sciences-tech",
+   "terms_left": [
+    "reporté",
+    "jours espace",
+    "retrouver"
+   ],
+   "terms_right": [
+    "iss",
+    "astronaute",
+    "astronaute française"
    ]
   },
   {
@@ -771,47 +831,47 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.621,
+   "divergence": 0.622,
    "category": "international",
    "terms_left": [
+    "état",
     "migrants",
-    "frontière",
-    "barcelone état"
+    "frontière franco-britannique"
    ],
    "terms_right": [
-    "pluies",
-    "espagne",
-    "ans"
+    "ans",
+    "manche",
+    "pluies"
    ]
   },
   {
-   "title": "Prix des carburants : baisse en vue !",
-   "url": "https://www.bfmtv.com/economie/entreprises/energie/des-cargaisons-annulees-a-la-derniere-minute-pekin-qui-n-autorise-plus-les-exportations-de-carburants-la-chine-ferme-brutalement-le-robinet-le-petrole-repasse-au-dessus-des-100-dollars_AV-202610010661.html",
-   "n_members": 59,
+   "title": "Prix Nobel de médecine : l’optogénétique dans la lumière",
+   "url": "https://www.liberation.fr/sciences/ozempic-mounjaro-les-travaux-concernant-les-medicaments-anti-obesite-en-lice-pour-remporter-le-prix-nobel-de-medecine-ce-lundi-20261005_47IJ7UHCUVDUPLOYI3ASS6JL24/",
+   "n_members": 49,
    "n_sources": 24,
    "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 9
+    "left": 5,
+    "centre": 14,
+    "right": 5
    },
    "style_counts": {
-    "factuel": 16,
+    "factuel": 15,
     "mixte": 7,
-    "opinion": 1
+    "opinion": 2
    },
-   "blindspot_score": 0.5,
+   "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.338,
-   "category": "économie",
+   "divergence": 0.296,
+   "category": "sciences-tech",
    "terms_left": [
-    "nouveau",
-    "annonce",
-    "stocks"
+    "cellules",
+    "recherches",
+    "cerveau"
    ],
    "terms_right": [
-    "prix",
-    "euros",
-    "baisser"
+    "the",
+    "milliards",
+    "optogénétique"
    ]
   },
   {
@@ -845,9 +905,9 @@
    ]
   },
   {
-   "title": "Blocages des lycées : deux lycéens mineurs poursuivis pour violences aggravées contre un policier",
+   "title": "Belfort. Un policier visé par une enquête pour « tentative de meurtre » après la plainte d’un lycéen",
    "url": "https://www.nouvelobs.com/justice/20260929.OBS118718/un-lyceen-blesse-au-visage-par-un-tir-de-lance-grenade-lors-d-un-blocus-dans-le-val-d-oise-l-igpn-ouvre-une-enquete.html",
-   "n_members": 136,
+   "n_members": 137,
    "n_sources": 23,
    "counts": {
     "left": 6,
@@ -864,9 +924,9 @@
    "divergence": 0.552,
    "category": "société",
    "terms_left": [
-    "tentative",
-    "lycéen",
-    "igpn"
+    "tir",
+    "igpn",
+    "lycéen"
    ],
    "terms_right": [
     "procureur",
@@ -877,7 +937,7 @@
   {
    "title": "Etats-Unis : la condamnée à mort ayant survécu à deux injections létales a repris connaissance et parle",
    "url": "https://www.courrierinternational.com/article/etats-unis-l-execution-programmee-de-christa-pike-dans-le-tennessee-provoque-une-vague-d-emotion_274687",
-   "n_members": 122,
+   "n_members": 131,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -891,17 +951,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.235,
+   "divergence": 0.22,
    "category": "international",
    "terms_left": [
     "etats-unis",
-    "peine",
-    "prison"
+    "survécu injection",
+    "peine"
    ],
    "terms_right": [
     "états-unis",
-    "ratée christa",
-    "avocats"
+    "injections létales",
+    "létales"
    ]
   },
   {
@@ -932,36 +992,6 @@
     "édouard philippe",
     "édouard",
     "propose"
-   ]
-  },
-  {
-   "title": "Retour de Sophie Adenot : ce qui attend l'astronaute française une fois revenue sur Terre",
-   "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/fin-de-mission-en-vue-pour-sophie-adenot-qui-s-apprete-a-quitter-l-iss-apres-plus-de-sept-mois-dans-l-espace_8216980.html",
-   "n_members": 64,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.258,
-   "category": "sciences-tech",
-   "terms_left": [
-    "reporté",
-    "jours espace",
-    "retrouver"
-   ],
-   "terms_right": [
-    "iss",
-    "astronaute",
-    "astronaute française"
    ]
   },
   {
@@ -1003,7 +1033,7 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.699,
+   "divergence": 0.7,
    "category": "international",
    "terms_left": [
     "frappes",
@@ -1011,15 +1041,15 @@
     "défense"
    ],
    "terms_right": [
-    "elon",
     "elon musk",
+    "elon",
     "musk"
    ]
   },
   {
-   "title": "Contre-budget du RN : des économies surestimées, des dépenses sous-estimées",
+   "title": "140 milliards d'euros d'économies, déficit public sous les 3%... Ce qu'il faut retenir du discours de Marine Le Pen qui a présenté le contre-budget 2027 du RN",
    "url": "https://www.tf1info.fr/economie/reportage-video-tu-garderas-ton-point-de-vue-moi-le-mien-ce-couple-est-d-accord-sur-tout-sauf-sur-l-effort-budgetaire-demande-aux-retraites-2467099.html",
-   "n_members": 56,
+   "n_members": 57,
    "n_sources": 23,
    "counts": {
     "left": 3,
@@ -1033,12 +1063,12 @@
    },
    "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.587,
+   "divergence": 0.58,
    "category": "politique",
    "terms_left": [
+    "abattement fiscal",
     "rejettent",
-    "fiscal retraites",
-    "abattement fiscal"
+    "fiscal retraites"
    ],
    "terms_right": [
     "rassemblement national",
@@ -1049,7 +1079,7 @@
   {
    "title": "Belgique : des manifestations lycéennes dégénèrent dans plusieurs villes du pays, dont Liège",
    "url": "https://reporterre.net/Brandir-nos-maladies-et-nos-morts-paysans-et-malades-promettent-une-mobilisation-majeure",
-   "n_members": 51,
+   "n_members": 53,
    "n_sources": 23,
    "counts": {
     "left": 7,
@@ -1063,16 +1093,16 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.644,
+   "divergence": 0.652,
    "category": "société",
    "terms_left": [
     "mobilisation",
     "syngenta",
-    "pesticides"
+    "lycéenne"
    ],
    "terms_right": [
-    "manifestent",
     "eure",
+    "manifestent",
     "belgique"
    ]
   },
@@ -1107,33 +1137,33 @@
    ]
   },
   {
-   "title": "Prix Nobel de médecine : l’optogénétique dans la lumière",
-   "url": "https://www.liberation.fr/sciences/ozempic-mounjaro-les-travaux-concernant-les-medicaments-anti-obesite-en-lice-pour-remporter-le-prix-nobel-de-medecine-ce-lundi-20261005_47IJ7UHCUVDUPLOYI3ASS6JL24/",
-   "n_members": 48,
+   "title": "Face aux lycéens, les grenades assourdissantes suspendues",
+   "url": "https://www.liberation.fr/politique/de-lfi-au-ps-la-gauche-sunit-a-tours-contre-les-violences-policieres-sur-les-lyceens-on-peut-se-retrouver-sur-des-sujets-de-fond-20261005_I44Z7IWIF5APFGT7OCDSKXQDQE/",
+   "n_members": 44,
    "n_sources": 23,
    "counts": {
     "left": 5,
-    "centre": 14,
-    "right": 4
+    "centre": 12,
+    "right": 6
    },
    "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 1
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 2
    },
-   "blindspot_score": -0.111,
+   "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.302,
-   "category": "sciences-tech",
+   "divergence": 0.589,
+   "category": "société",
    "terms_left": [
-    "neutrinos",
-    "cellules",
-    "recherches"
+    "tir",
+    "policier",
+    "eden"
    ],
    "terms_right": [
-    "the",
-    "optogénétique",
-    "allemands"
+    "grenades",
+    "grenades assourdissantes",
+    "assourdissantes"
    ]
   },
   {
@@ -1153,7 +1183,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.741,
+   "divergence": 0.742,
    "category": "société",
    "terms_left": [
     "lycéens",
@@ -1165,28 +1195,6 @@
     "face",
     "arrachée"
    ]
-  },
-  {
-   "title": "France: Emmanuel Macron a assisté à l’essai d’un nouveau missile nucléaire M51 tiré depuis un sous-marin",
-   "url": "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-au-moins-2-morts-et-4-blesses-a-kiev-seoul-exige-des-excuses-de-zelensky-le-point-sur-la-nuit-3ca24522-bacf-11f1-bf2b-20ac402d7e60",
-   "n_members": 64,
-   "n_sources": 22,
-   "counts": {
-    "left": 2,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
