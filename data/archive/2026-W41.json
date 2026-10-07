@@ -1,13 +1,13 @@
 {
  "week": "2026-W41",
- "generated_at": "2026-10-06T23:11:19+00:00",
+ "generated_at": "2026-10-07T02:33:20+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "EN DIRECT, blocage des lycées : actions et manifestations annoncées partout en France pour la journée de mobilisation lycéenne",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 849,
+   "n_members": 851,
    "n_sources": 42,
    "counts": {
     "left": 13,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": -0.04,
    "blindspot_for": null,
-   "divergence": 0.278,
+   "divergence": 0.277,
    "category": "société",
    "terms_left": [
     "étudiants",
@@ -187,7 +187,7 @@
   {
    "title": "Ukraine : les frappes russes s'accentuent sur Kiev et touchent ses ponts",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 249,
+   "n_members": 250,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.371,
+   "divergence": 0.367,
    "category": "international",
    "terms_left": [
     "ukraine russie",
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.6,
    "blindspot_for": "gauche",
-   "divergence": 0.51,
+   "divergence": 0.509,
    "category": "économie",
    "terms_left": [
     "publique",
@@ -602,6 +602,36 @@
     "diesel",
     "euros",
     "france"
+   ]
+  },
+  {
+   "title": "Espagne : Pedro Sánchez convoque des élections législatives anticipées le 29 novembre",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20261002-bosnie-herz%C3%A9govine-une-%C3%A9lection-sous-tension-30-ans-apr%C3%A8s-la-guerre",
+   "n_members": 57,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 4
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.581,
+   "category": "international",
+   "terms_left": [
+    "europe",
+    "face",
+    "droite"
+   ],
+   "terms_right": [
+    "élections législatives",
+    "élections",
+    "législatives"
    ]
   },
   {
@@ -695,39 +725,9 @@
    ]
   },
   {
-   "title": "Espagne : Pedro Sánchez convoque des élections législatives anticipées le 29 novembre",
-   "url": "https://www.france24.com/fr/vid%C3%A9o/20261002-bosnie-herz%C3%A9govine-une-%C3%A9lection-sous-tension-30-ans-apr%C3%A8s-la-guerre",
-   "n_members": 56,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.579,
-   "category": "international",
-   "terms_left": [
-    "europe",
-    "face",
-    "droite"
-   ],
-   "terms_right": [
-    "élections législatives",
-    "législatives",
-    "élections"
-   ]
-  },
-  {
    "title": "Suspicion de peste : la Russie peine à rassurer après la mort d’une laborantine en Sibérie",
    "url": "https://www.ouest-france.fr/europe/russie/une-technicienne-de-laboratoire-meurt-de-la-peste-en-siberie-des-dizaines-de-personnes-placees-en-quarantaine-439cfea6-bea5-11f1-b7db-555e86a524f6",
-   "n_members": 53,
+   "n_members": 55,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -900,8 +900,8 @@
    ],
    "terms_right": [
     "pentagone",
-    "elon",
-    "elon musk"
+    "elon musk",
+    "elon"
    ]
   },
   {
@@ -981,7 +981,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.298,
+   "divergence": 0.299,
    "category": "sciences-tech",
    "terms_left": [
     "neutrinos",
@@ -997,7 +997,7 @@
   {
    "title": "Exécution ratée de Christa Pike: l'Américaine condamnée à mort a repris connaissance et parle",
    "url": "https://www.courrierinternational.com/article/etats-unis-l-execution-programmee-de-christa-pike-dans-le-tennessee-provoque-une-vague-d-emotion_274687",
-   "n_members": 109,
+   "n_members": 111,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -1011,17 +1011,17 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.288,
+   "divergence": 0.274,
    "category": "international",
    "terms_left": [
     "mort",
     "peine mort",
-    "condamnée mort"
+    "peine"
    ],
    "terms_right": [
     "états-unis",
     "ratée christa",
-    "état"
+    "échoué"
    ]
   },
   {
@@ -1077,6 +1077,36 @@
    ]
   },
   {
+   "title": "Belgique : des manifestations lycéennes dégénèrent dans plusieurs villes du pays, dont Liège",
+   "url": "https://reporterre.net/Brandir-nos-maladies-et-nos-morts-paysans-et-malades-promettent-une-mobilisation-majeure",
+   "n_members": 47,
+   "n_sources": 22,
+   "counts": {
+    "left": 7,
+    "centre": 8,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.619,
+   "category": "environnement",
+   "terms_left": [
+    "syngenta",
+    "pesticides",
+    "agrochimie"
+   ],
+   "terms_right": [
+    "belgique",
+    "manifestent",
+    "milliers"
+   ]
+  },
+  {
    "title": "Une centaine d'élèves évacués d'un lycée parisien après des incendies allumés aux portes de l'établissement, un ministre dénonce \"des actes criminels\"",
    "url": "https://www.nicematin.com/societe/education/journees-a-rallonge-des-classes-surchargees-pas-de-toilettes-pour-les-garcons-pourquoi-les-lyceens-de-pierre-et-marie-curie-ont-manifeste-a-menton-10730699",
    "n_members": 82,
@@ -1097,8 +1127,8 @@
    "category": "société",
    "terms_left": [
     "homme",
-    "nelson-mandela",
-    "lycée nelson-mandela"
+    "lycée nelson-mandela",
+    "nelson-mandela"
    ],
    "terms_right": [
     "lycées",
@@ -1156,36 +1186,6 @@
     "mbappé",
     "portugal",
     "france"
-   ]
-  },
-  {
-   "title": "Blocus des lycées : un policier soupçonné d’agression sexuelle sur une jeune fille lors de son interpellation à Metz, l’IGPN saisie",
-   "url": "https://www.franceinfo.fr/faits-divers/incendie/un-incendie-dans-un-college-a-metz-en-marge-de-la-mobilisation-lyceenne_8220889.html",
-   "n_members": 52,
-   "n_sources": 21,
-   "counts": {
-    "left": 4,
-    "centre": 9,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 6,
-    "opinion": 4
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.679,
-   "category": "faits-divers",
-   "terms_left": [
-    "jeune",
-    "igpn",
-    "agression"
-   ],
-   "terms_right": [
-    "collège",
-    "préau",
-    "incendie"
    ]
   }
  ]
