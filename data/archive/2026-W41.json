@@ -1,13 +1,13 @@
 {
  "week": "2026-W41",
- "generated_at": "2026-10-09T08:10:17+00:00",
+ "generated_at": "2026-10-09T15:26:05+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Blocage, mobilisation lycéenne: la liste des revendications",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 968,
+   "n_members": 976,
    "n_sources": 42,
    "counts": {
     "left": 13,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": -0.04,
    "blindspot_for": null,
-   "divergence": 0.278,
+   "divergence": 0.281,
    "category": "société",
    "terms_left": [
     "répression",
@@ -65,9 +65,9 @@
    ]
   },
   {
-   "title": "Bardella accusé d’antisémitisme : Le président du RN dément à nouveau « formellement » les preuves de Mediapart",
+   "title": "Messages antisémites attribués à Jordan Bardella : Mediapart publie de nouveaux éléments mettant à mal la défense du président du RN",
    "url": "https://www.mediapart.fr/journal/politique/280926/les-banques-sont-toutes-detenues-par-des-juifs-jordan-bardella-face-ses-ecrits-antisemites",
-   "n_members": 395,
+   "n_members": 415,
    "n_sources": 38,
    "counts": {
     "left": 9,
@@ -81,17 +81,17 @@
    },
    "blindspot_score": 0.1,
    "blindspot_for": null,
-   "divergence": 0.174,
+   "divergence": 0.177,
    "category": "politique",
    "terms_left": [
     "révélations",
     "droite",
-    "extrême droite"
+    "antisémites jordan"
    ],
    "terms_right": [
-    "attribués jordan",
+    "attribués",
     "antisémites attribués",
-    "attribués"
+    "attribués jordan"
    ]
   },
   {
@@ -115,8 +115,8 @@
    "category": "économie",
    "terms_left": [
     "lecornu",
-    "sébastien lecornu",
-    "sébastien"
+    "sébastien",
+    "sébastien lecornu"
    ],
    "terms_right": [
     "retraites",
@@ -125,9 +125,9 @@
    ]
   },
   {
-   "title": "Présidentielle au Brésil : « La campagne de Lula a tardé à assumer le désir de changement de l’électorat »",
+   "title": "Présidentielle au Brésil : face à Lula, Flavio Bolsonaro engrange les soutiens d'autres candidats avant le second tour",
    "url": "https://information.tv5monde.com/international/presidentielle-au-bresil-flavio-bolsonaro-surfe-sur-le-scandale-2838501",
-   "n_members": 205,
+   "n_members": 207,
    "n_sources": 37,
    "counts": {
     "left": 9,
@@ -141,23 +141,23 @@
    },
    "blindspot_score": 0.217,
    "blindspot_for": null,
-   "divergence": 0.255,
+   "divergence": 0.252,
    "category": "international",
    "terms_left": [
     "brésil lula",
-    "tour présidentielle",
-    "droite"
+    "droite",
+    "trump"
    ],
    "terms_right": [
     "macron",
-    "père",
-    "élection"
+    "élection",
+    "flavio"
    ]
   },
   {
    "title": "Soutien aux forces de l’ordre, revendications lycéennes, prix de l’essence… Ce qu’il faut retenir des annonces de Lecornu",
    "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-12h30/journal-de-12h30-du-mercredi-30-septembre-2026-6142190",
-   "n_members": 153,
+   "n_members": 154,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.158,
    "blindspot_for": null,
-   "divergence": 0.372,
+   "divergence": 0.369,
    "category": "société",
    "terms_left": [
     "mouvement lycéen",
@@ -182,6 +182,36 @@
     "blocus",
     "carburants",
     "nationale"
+   ]
+  },
+  {
+   "title": "Soupçon de peste en Russie : les Etats-Unis réclament « plus d’informations » à Moscou, après la mort d’une laborantine",
+   "url": "https://www.ouest-france.fr/europe/russie/une-technicienne-de-laboratoire-meurt-de-la-peste-en-siberie-des-dizaines-de-personnes-placees-en-quarantaine-439cfea6-bea5-11f1-b7db-555e86a524f6",
+   "n_members": 105,
+   "n_sources": 31,
+   "counts": {
+    "left": 5,
+    "centre": 17,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 19,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.356,
+   "category": "international",
+   "terms_left": [
+    "soupçon",
+    "soupçon peste",
+    "décédée"
+   ],
+   "terms_right": [
+    "trump",
+    "russe",
+    "santé"
    ]
   },
   {
@@ -215,39 +245,9 @@
    ]
   },
   {
-   "title": "Soupçon de peste en Russie : les Etats-Unis réclament « plus d’informations » à Moscou, après la mort d’une laborantine",
-   "url": "https://www.ouest-france.fr/europe/russie/une-technicienne-de-laboratoire-meurt-de-la-peste-en-siberie-des-dizaines-de-personnes-placees-en-quarantaine-439cfea6-bea5-11f1-b7db-555e86a524f6",
-   "n_members": 102,
-   "n_sources": 30,
-   "counts": {
-    "left": 5,
-    "centre": 17,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 19,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.362,
-   "category": "international",
-   "terms_left": [
-    "soupçon",
-    "faible",
-    "soupçon peste"
-   ],
-   "terms_right": [
-    "trump",
-    "pneumonie",
-    "situation"
-   ]
-  },
-  {
    "title": "Ukraine : une frappe russe contre deux bus fait au moins 30 morts dans l'est",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 292,
+   "n_members": 293,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -275,9 +275,39 @@
    ]
   },
   {
+   "title": "Crise des carburants : combien de temps la libération de 10 millions de barils de diesel va permettre de baisser les prix à la pompe ?",
+   "url": "https://www.bfmtv.com/economie/entreprises/energie/des-cargaisons-annulees-a-la-derniere-minute-pekin-qui-n-autorise-plus-les-exportations-de-carburants-la-chine-ferme-brutalement-le-robinet-le-petrole-repasse-au-dessus-des-100-dollars_AV-202610010661.html",
+   "n_members": 100,
+   "n_sources": 28,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.309,
+   "category": "économie",
+   "terms_left": [
+    "espère",
+    "nouveau",
+    "mis"
+   ],
+   "terms_right": [
+    "libération",
+    "stratégiques",
+    "gouvernement"
+   ]
+  },
+  {
    "title": "En direct : Israël commémore les trois ans des attaques du 7-Octobre",
    "url": "https://www.leparisien.fr/international/israel/je-lai-etrangle-et-jai-repris-les-commandes-comment-un-passager-a-maitrise-le-pilote-suspecte-davoir-voulu-derouter-le-vol-de-flydubai-30-09-2026-RBUSTCOX2BE2FBYWUIHKGS6HW4.php",
-   "n_members": 98,
+   "n_members": 99,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -296,42 +326,12 @@
    "terms_left": [
     "kibboutz",
     "élections",
-    "législatives"
+    "israélienne"
    ],
    "terms_right": [
     "israël",
     "vol",
     "flydubai"
-   ]
-  },
-  {
-   "title": "Crise des carburants : combien de temps la libération de 10 millions de barils de diesel va permettre de baisser les prix à la pompe ?",
-   "url": "https://www.bfmtv.com/economie/entreprises/energie/des-cargaisons-annulees-a-la-derniere-minute-pekin-qui-n-autorise-plus-les-exportations-de-carburants-la-chine-ferme-brutalement-le-robinet-le-petrole-repasse-au-dessus-des-100-dollars_AV-202610010661.html",
-   "n_members": 98,
-   "n_sources": 28,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.31,
-   "category": "économie",
-   "terms_left": [
-    "nouveau",
-    "mis",
-    "approvisionnement"
-   ],
-   "terms_right": [
-    "libération",
-    "mois",
-    "stratégiques"
    ]
   },
   {
@@ -351,17 +351,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.38,
+   "divergence": 0.381,
    "category": "société",
    "terms_left": [
-    "création",
     "paris",
-    "enfants"
+    "enfants",
+    "ouvertes paris"
    ],
    "terms_right": [
-    "lunettes connectées",
-    "connectées",
-    "lunettes"
+    "vie",
+    "article",
+    "lunettes connectées"
    ]
   },
   {
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.761,
+   "divergence": 0.765,
    "category": "société",
    "terms_left": [
     "mobilisation",
@@ -390,8 +390,8 @@
    ],
    "terms_right": [
     "ordre",
-    "forces ordre",
-    "mouvement"
+    "mouvement",
+    "forces ordre"
    ]
   },
   {
@@ -427,7 +427,7 @@
   {
    "title": "DÉCRYPTAGE. Présidentielle 2027 : le premier tour plein d'inconnues de la primaire de la gauche",
    "url": "https://www.liberation.fr/politique/elections/jerome-guedj-candidat-a-la-primaire-sociale-democrate-le-ps-creve-de-ses-ambiguites-20261003_HNVYH3XILJECVIJUXZNV4FGCCI/",
-   "n_members": 65,
+   "n_members": 67,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -441,12 +441,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.606,
+   "divergence": 0.602,
    "category": "politique",
    "terms_left": [
-    "candidat",
-    "sociale-démocrate",
-    "françois"
+    "françois",
+    "jérôme",
+    "camp"
    ],
    "terms_right": [
     "présidentielle",
@@ -517,7 +517,7 @@
   {
    "title": "L’astronaute française Sophie Adenot de retour sur Terre après huit mois à bord de l’ISS",
    "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/fin-de-mission-en-vue-pour-sophie-adenot-qui-s-apprete-a-quitter-l-iss-apres-plus-de-sept-mois-dans-l-espace_8216980.html",
-   "n_members": 107,
+   "n_members": 108,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -531,7 +531,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.183,
+   "divergence": 0.184,
    "category": "sciences-tech",
    "terms_left": [
     "jours espace",
@@ -539,15 +539,15 @@
     "coéquipiers"
    ],
    "terms_right": [
-    "iss",
-    "qu",
-    "retour"
+    "retour",
+    "mois espace",
+    "qu"
    ]
   },
   {
-   "title": "Mobilisation des lycéens : comment le mouvement s'organise sur Discord pour préparer les blocages et perturber les cours en ligne",
+   "title": "« On veut du concret, que les choses changent » : ces lycéens confient pourquoi ils se mobilisent sur les blocus",
    "url": "https://www.nicematin.com/societe/c-est-un-algorithme-qui-gere-notre-avenir-de-la-colere-mais-pas-de-heurt-pour-cette-nouvelle-matinee-de-manifestation-des-lyceens-a-toulon-10732164",
-   "n_members": 76,
+   "n_members": 78,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -564,9 +564,9 @@
    "divergence": 0.836,
    "category": "société",
    "terms_left": [
-    "mobilisation",
     "lycéen",
-    "mouvement"
+    "mobilisation",
+    "mouvement lycéen"
    ],
    "terms_right": [
     "lycées",
@@ -575,9 +575,9 @@
    ]
   },
   {
-   "title": "Manifestations lycéennes: qui doit payer les dégâts? Ce que dit la loi",
+   "title": "SONDAGE - 85% des Français sont pour le projet de loi «casseurs payeurs»",
    "url": "https://www.sudouest.fr/economie/le-gouvernement-va-aider-55-000-menages-modestes-a-installer-une-pompe-a-chaleur-30841683.php",
-   "n_members": 68,
+   "n_members": 70,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -592,11 +592,11 @@
    "blindspot_score": 0.231,
    "blindspot_for": null,
    "divergence": 0.688,
-   "category": "économie",
+   "category": "société",
    "terms_left": [
-    "fabien",
-    "mobilisation",
-    "mouvement"
+    "lycéens",
+    "réponse",
+    "fabien"
    ],
    "terms_right": [
     "loi",
@@ -621,17 +621,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.69,
+   "divergence": 0.706,
    "category": "société",
    "terms_left": [
     "gouvernement",
-    "mobilisation lycéenne",
-    "lycéenne"
+    "colère",
+    "mouvement"
    ],
    "terms_right": [
     "eure",
     "personnes",
-    "milliers"
+    "manifestent"
    ]
   },
   {
@@ -651,17 +651,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.468,
+   "divergence": 0.484,
    "category": "international",
    "terms_left": [
     "indépendantiste",
-    "catalogne",
-    "urnes"
+    "carles",
+    "carles puigdemont"
    ],
    "terms_right": [
-    "élections législatives",
-    "élections",
-    "crise"
+    "sánchez convoque",
+    "convoque élections",
+    "convoque"
    ]
   },
   {
@@ -681,7 +681,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.613,
+   "divergence": 0.609,
    "category": "société",
    "terms_left": [
     "tir",
@@ -741,7 +741,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.534,
+   "divergence": 0.535,
    "category": "société",
    "terms_left": [
     "france",
@@ -752,6 +752,36 @@
     "cancer",
     "dépistage",
     "faut"
+   ]
+  },
+  {
+   "title": "SONDAGE - 82% des Français jugent les parents responsables des violences commises par leurs enfants devant les lycées",
+   "url": "https://www.tf1info.fr/societe/verif-les-lyceens-francais-ont-ils-de-plus-d-heures-de-cours-que-leurs-voisins-europeens-2467690.html",
+   "n_members": 47,
+   "n_sources": 26,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 6
+   },
+   "blindspot_score": 0.467,
+   "blindspot_for": null,
+   "divergence": 0.905,
+   "category": "société",
+   "terms_left": [
+    "vue",
+    "mobilisation lycéenne",
+    "lycéenne"
+   ],
+   "terms_right": [
+    "français",
+    "lycéens",
+    "lycées"
    ]
   },
   {
@@ -771,7 +801,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.597,
+   "divergence": 0.596,
    "category": "international",
    "terms_left": [
     "affaire",
@@ -815,6 +845,36 @@
    ]
   },
   {
+   "title": "États-Unis : l’impopularité de Donald Trump pèse sur les élections de mi-mandat",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-edito-eco/l-edito-eco-du-lundi-28-septembre-2026-5873925",
+   "n_members": 68,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.864,
+   "category": "économie",
+   "terms_left": [
+    "midterms",
+    "trump",
+    "etats-unis"
+   ],
+   "terms_right": [
+    "france",
+    "euros",
+    "carburants"
+   ]
+  },
+  {
    "title": "Dette : pourquoi les taux d’emprunt de la France inquiètent de plus en plus",
    "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/sans-cure-d-austerite-et-meme-sans-budget-depuis-2023-comment-l-espagne-a-reussi-un-desendettement-spectaculaire-a-99-9-du-pib-quand-la-france-s-enfonce_AV-202609260041.html",
    "n_members": 67,
@@ -842,36 +902,6 @@
     "ans",
     "milliards",
     "france"
-   ]
-  },
-  {
-   "title": "«C'est censé être très bon» : Donald Trump signe un décret permettant aux Américains d'acheter du diesel détaxé",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-edito-eco/l-edito-eco-du-lundi-28-septembre-2026-5873925",
-   "n_members": 67,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.85,
-   "category": "économie",
-   "terms_left": [
-    "midterms",
-    "campagne",
-    "face hausse"
-   ],
-   "terms_right": [
-    "diesel",
-    "france",
-    "euros"
    ]
   },
   {
@@ -921,7 +951,7 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.748,
+   "divergence": 0.747,
    "category": "international",
    "terms_left": [
     "retour",
@@ -965,9 +995,9 @@
    ]
   },
   {
-   "title": "Frappes de drones : un défi pour la défense européenne en mer Noire",
+   "title": "Malgré la trêve à Gaza, la guerre continue",
    "url": "https://www.bfmtv.com/international/moyen-orient/palestine/a-gaza-quatre-femmes-et-un-homme-tues-dans-une-frappe-israelienne-pendant-la-nuit_AD-202610030264.html",
-   "n_members": 55,
+   "n_members": 56,
    "n_sources": 24,
    "counts": {
     "left": 8,
@@ -981,17 +1011,17 @@
    },
    "blindspot_score": -0.333,
    "blindspot_for": null,
-   "divergence": 0.863,
+   "divergence": 0.858,
    "category": "international",
    "terms_left": [
-    "gaza",
+    "projet",
     "attaque",
     "pays"
    ],
    "terms_right": [
-    "mois",
-    "frappés drones",
-    "frappés"
+    "jusqu",
+    "nouvelles",
+    "russie"
    ]
   },
   {
@@ -1011,47 +1041,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.298,
+   "divergence": 0.237,
    "category": "sciences-tech",
    "terms_left": [
-    "récompensé",
-    "décerné trio",
-    "trio"
+    "nobel médecine",
+    "médecine",
+    "honneur"
    ],
    "terms_right": [
-    "the",
-    "décerné belge",
-    "milliards"
-   ]
-  },
-  {
-   "title": "SONDAGE - 82% des Français jugent les parents responsables des violences commises par leurs enfants devant les lycées",
-   "url": "https://www.tf1info.fr/societe/verif-les-lyceens-francais-ont-ils-de-plus-d-heures-de-cours-que-leurs-voisins-europeens-2467690.html",
-   "n_members": 41,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 9,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 8,
-    "opinion": 6
-   },
-   "blindspot_score": 0.467,
-   "blindspot_for": null,
-   "divergence": 0.917,
-   "category": "société",
-   "terms_left": [
-    "vue",
-    "mobilisation lycéenne",
-    "lycéenne"
-   ],
-   "terms_right": [
-    "français",
-    "lycéens",
-    "lycées"
+    "milliards",
+    "corps",
+    "médecine décerné"
    ]
   },
   {
@@ -1071,7 +1071,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.468,
+   "divergence": 0.472,
    "category": "environnement",
    "terms_left": [
     "gard hérault",
@@ -1131,17 +1131,47 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.535,
+   "divergence": 0.534,
    "category": "société",
    "terms_left": [
-    "igpn",
     "enquête",
+    "igpn",
     "saisie"
    ],
    "terms_right": [
     "belfort",
     "procureur",
-    "agression"
+    "violences"
+   ]
+  },
+  {
+   "title": "En direct : Laurent Nuñez suspend l'utilisation des grenades assourdissantes contre les lycéens",
+   "url": "https://www.humanite.fr/societe/acces-a-leducation/ils-oublient-que-nous-sommes-des-enfants-en-greve-les-eleves-du-lycee-paul-eluard-a-saint-denis-victimes-de-violences-policieres",
+   "n_members": 110,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 4
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.857,
+   "category": "société",
+   "terms_left": [
+    "lycée",
+    "violences",
+    "lycéens"
+   ],
+   "terms_right": [
+    "arrachée",
+    "lycéen",
+    "lycées"
    ]
   },
   {
@@ -1172,36 +1202,6 @@
     "édouard philippe",
     "édouard",
     "propose"
-   ]
-  },
-  {
-   "title": "Boissons énergisantes : « Des effets nocifs », un rapport parlementaire recommande d’en interdire la vente aux moins de 16 ans en France",
-   "url": "https://www.humanite.fr/-/-/tant-que-les-revendications-nont-pas-ete-entendues-nous-devons-continuer-estime-sophie-binet",
-   "n_members": 66,
-   "n_sources": 23,
-   "counts": {
-    "left": 7,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.73,
-   "category": "économie",
-   "terms_left": [
-    "euros",
-    "incendies",
-    "canicules"
-   ],
-   "terms_right": [
-    "boissons énergisantes",
-    "énergisantes",
-    "boissons"
    ]
   }
  ]
