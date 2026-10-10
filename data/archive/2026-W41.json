@@ -1,13 +1,13 @@
 {
  "week": "2026-W41",
- "generated_at": "2026-10-10T06:07:23+00:00",
+ "generated_at": "2026-10-10T12:48:24+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Blocages des lycées : suivez la nouvelle journée de mobilisation",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 991,
+   "n_members": 993,
    "n_sources": 42,
    "counts": {
     "left": 13,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": -0.04,
    "blindspot_for": null,
-   "divergence": 0.287,
+   "divergence": 0.286,
    "category": "société",
    "terms_left": [
     "direct",
@@ -67,7 +67,7 @@
   {
    "title": "Messages antisémites attribués à Jordan Bardella : Mediapart publie de nouveaux éléments mettant à mal la défense du président du RN",
    "url": "https://www.mediapart.fr/journal/politique/280926/les-banques-sont-toutes-detenues-par-des-juifs-jordan-bardella-face-ses-ecrits-antisemites",
-   "n_members": 417,
+   "n_members": 418,
    "n_sources": 38,
    "counts": {
     "left": 9,
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.1,
    "blindspot_for": null,
-   "divergence": 0.176,
+   "divergence": 0.177,
    "category": "politique",
    "terms_left": [
     "révélations",
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.217,
    "blindspot_for": null,
-   "divergence": 0.257,
+   "divergence": 0.256,
    "category": "international",
    "terms_left": [
     "brésil lula",
@@ -171,16 +171,16 @@
    },
    "blindspot_score": 0.158,
    "blindspot_for": null,
-   "divergence": 0.404,
+   "divergence": 0.424,
    "category": "société",
    "terms_left": [
     "mouvement lycéen",
     "lycéen",
-    "journée mobilisation"
+    "mouvement"
    ],
    "terms_right": [
-    "blocus",
     "carburants",
+    "blocus",
     "lycées"
    ]
   },
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.363,
+   "divergence": 0.381,
    "category": "international",
    "terms_left": [
     "soupçon",
@@ -211,7 +211,7 @@
    "terms_right": [
     "trump",
     "femme",
-    "santé"
+    "russes"
    ]
   },
   {
@@ -245,9 +245,39 @@
    ]
   },
   {
+   "title": "Crise des carburants : combien de temps la libération de 10 millions de barils de diesel va permettre de baisser les prix à la pompe ?",
+   "url": "https://www.bfmtv.com/economie/entreprises/energie/des-cargaisons-annulees-a-la-derniere-minute-pekin-qui-n-autorise-plus-les-exportations-de-carburants-la-chine-ferme-brutalement-le-robinet-le-petrole-repasse-au-dessus-des-100-dollars_AV-202610010661.html",
+   "n_members": 106,
+   "n_sources": 29,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": 0.375,
+   "blindspot_for": null,
+   "divergence": 0.309,
+   "category": "économie",
+   "terms_left": [
+    "espère",
+    "mis",
+    "approvisionnement"
+   ],
+   "terms_right": [
+    "libération",
+    "euros",
+    "gouvernement"
+   ]
+  },
+  {
    "title": "Ukraine : une frappe russe contre deux bus fait au moins 30 morts dans l'est",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 295,
+   "n_members": 304,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -261,47 +291,17 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.333,
+   "divergence": 0.33,
    "category": "international",
    "terms_left": [
-    "ukraine russie",
+    "russie",
     "guerre ukraine",
-    "ville"
+    "direct"
    ],
    "terms_right": [
     "frappe russe",
     "frappe",
     "russe bus"
-   ]
-  },
-  {
-   "title": "Crise des carburants : combien de temps la libération de 10 millions de barils de diesel va permettre de baisser les prix à la pompe ?",
-   "url": "https://www.bfmtv.com/economie/entreprises/energie/des-cargaisons-annulees-a-la-derniere-minute-pekin-qui-n-autorise-plus-les-exportations-de-carburants-la-chine-ferme-brutalement-le-robinet-le-petrole-repasse-au-dessus-des-100-dollars_AV-202610010661.html",
-   "n_members": 101,
-   "n_sources": 28,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.308,
-   "category": "économie",
-   "terms_left": [
-    "espère",
-    "mis",
-    "approvisionnement"
-   ],
-   "terms_right": [
-    "libération",
-    "stratégiques",
-    "gouvernement"
    ]
   },
   {
@@ -321,17 +321,47 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.768,
+   "divergence": 0.796,
    "category": "international",
    "terms_left": [
-    "pays",
     "israélienne",
-    "mouvement"
+    "pays",
+    "société"
    ],
    "terms_right": [
     "vol",
     "flydubai",
     "vol flydubai"
+   ]
+  },
+  {
+   "title": "Budget 2027 : les députés rejettent la partie «recettes» en commission, débat mardi dans l'hémicycle",
+   "url": "https://www.lefigaro.fr/politique/budget-2027-les-deputes-socialistes-ont-le-doigt-sur-le-bouton-de-la-censure-20260930",
+   "n_members": 92,
+   "n_sources": 28,
+   "counts": {
+    "left": 8,
+    "centre": 10,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 13,
+    "opinion": 2
+   },
+   "blindspot_score": 0.111,
+   "blindspot_for": null,
+   "divergence": 0.557,
+   "category": "politique",
+   "terms_left": [
+    "gauche",
+    "texte",
+    "impôt"
+   ],
+   "terms_right": [
+    "budget",
+    "milliards euros",
+    "milliards"
    ]
   },
   {
@@ -367,7 +397,7 @@
   {
    "title": "Mouvement des lycéens : \"Il n'y a pas de répression policière du mouvement\", assure Laurent Nuñez",
    "url": "https://www.rfi.fr/fr/asie-pacifique/20260930-inde-des-milliers-d-%C3%A9tudiantes-mobilis%C3%A9es-%C3%A0-new-delhi-pour-d%C3%A9noncer-les-agressions-sexuelles",
-   "n_members": 74,
+   "n_members": 75,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -395,9 +425,9 @@
    ]
   },
   {
-   "title": "Edouard Geffray annonce l’arrivée de 3 000 professeurs remplaçants \"dans les heures qui viennent\"",
+   "title": "Blocage des lycées : d’où sortent les 3000 professeurs remplaçants annoncés en urgence par le ministre de l’Éducation nationale Édouard Geffray ?",
    "url": "https://www.lefigaro.fr/actualite-france/remplacement-des-profs-reforme-du-bac-parcoursup-edouard-geffray-paie-les-pots-casses-des-quinquennats-macron-20261006",
-   "n_members": 70,
+   "n_members": 72,
    "n_sources": 28,
    "counts": {
     "left": 5,
@@ -411,7 +441,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.399,
+   "divergence": 0.397,
    "category": "société",
    "terms_left": [
     "lycéennes",
@@ -420,8 +450,8 @@
    ],
    "terms_right": [
     "lycées",
-    "professeurs remplaçants",
-    "professeurs"
+    "professeurs",
+    "professeurs remplaçants"
    ]
   },
   {
@@ -471,12 +501,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.603,
+   "divergence": 0.604,
    "category": "politique",
    "terms_left": [
     "françois",
     "jérôme",
-    "camp"
+    "primaire sociale-démocrate"
    ],
    "terms_right": [
     "présidentielle",
@@ -515,9 +545,39 @@
    ]
   },
   {
+   "title": "À Gaza, les frappes israéliennes se poursuivent malgré le cessez-le-feu annoncé",
+   "url": "https://www.bfmtv.com/international/moyen-orient/palestine/a-gaza-quatre-femmes-et-un-homme-tues-dans-une-frappe-israelienne-pendant-la-nuit_AD-202610030264.html",
+   "n_members": 63,
+   "n_sources": 27,
+   "counts": {
+    "left": 10,
+    "centre": 13,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 11,
+    "opinion": 2
+   },
+   "blindspot_score": -0.429,
+   "blindspot_for": null,
+   "divergence": 0.85,
+   "category": "international",
+   "terms_left": [
+    "gaza",
+    "an",
+    "projet"
+   ],
+   "terms_right": [
+    "jusqu",
+    "navires",
+    "large"
+   ]
+  },
+  {
    "title": "Mobilisation lycéenne : la répression comme politique",
    "url": "https://www.tf1info.fr/societe/verif-les-lyceens-francais-ont-ils-de-plus-d-heures-de-cours-que-leurs-voisins-europeens-2467690.html",
-   "n_members": 58,
+   "n_members": 60,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -531,17 +591,47 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.856,
+   "divergence": 0.852,
    "category": "société",
    "terms_left": [
     "vue",
     "mouvement lycéen",
-    "lycéen"
+    "gardes"
    ],
    "terms_right": [
     "lycéens",
     "français",
     "lycées"
+   ]
+  },
+  {
+   "title": "L’astronaute française Sophie Adenot de retour sur Terre après huit mois à bord de l’ISS",
+   "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/fin-de-mission-en-vue-pour-sophie-adenot-qui-s-apprete-a-quitter-l-iss-apres-plus-de-sept-mois-dans-l-espace_8216980.html",
+   "n_members": 129,
+   "n_sources": 26,
+   "counts": {
+    "left": 4,
+    "centre": 15,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.167,
+   "category": "sciences-tech",
+   "terms_left": [
+    "astronaute sophie",
+    "désormais",
+    "reporté"
+   ],
+   "terms_right": [
+    "mois espace",
+    "retour",
+    "espace astronaute"
    ]
   },
   {
@@ -575,63 +665,33 @@
    ]
   },
   {
-   "title": "L’astronaute française Sophie Adenot de retour sur Terre après huit mois à bord de l’ISS",
-   "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/fin-de-mission-en-vue-pour-sophie-adenot-qui-s-apprete-a-quitter-l-iss-apres-plus-de-sept-mois-dans-l-espace_8216980.html",
-   "n_members": 116,
+   "title": "EN DIRECT, guerre en Ukraine : Donald Trump dit avoir négocié avec Vladimir Poutine des livraisons massives de diesel russe",
+   "url": "https://fr.euronews.com/2026/10/05/les-exportations-de-petrole-du-moyen-orient-reviennent-a-leur-niveau-davant-guerre-sans-li",
+   "n_members": 81,
    "n_sources": 26,
    "counts": {
-    "left": 4,
-    "centre": 15,
+    "left": 6,
+    "centre": 13,
     "right": 7
    },
    "style_counts": {
-    "factuel": 18,
-    "mixte": 6,
+    "factuel": 17,
+    "mixte": 7,
     "opinion": 2
    },
-   "blindspot_score": 0.273,
+   "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.186,
-   "category": "sciences-tech",
+   "divergence": 0.425,
+   "category": "international",
    "terms_left": [
-    "jours espace",
-    "vie",
-    "reporté"
+    "zelensky",
+    "ukraine",
+    "russe"
    ],
    "terms_right": [
-    "retour",
-    "mois espace",
-    "qu"
-   ]
-  },
-  {
-   "title": "Budget 2027 : les députés rejettent la partie «recettes» en commission, débat mardi dans l'hémicycle",
-   "url": "https://www.lefigaro.fr/politique/budget-2027-les-deputes-socialistes-ont-le-doigt-sur-le-bouton-de-la-censure-20260930",
-   "n_members": 88,
-   "n_sources": 26,
-   "counts": {
-    "left": 7,
-    "centre": 10,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 12,
-    "opinion": 1
-   },
-   "blindspot_score": 0.125,
-   "blindspot_for": null,
-   "divergence": 0.587,
-   "category": "économie",
-   "terms_left": [
-    "texte",
-    "impôt",
-    "contribution"
-   ],
-   "terms_right": [
-    "assemblée",
-    "budget",
-    "partie recettes"
+    "prix",
+    "américain",
+    "président américain"
    ]
   },
   {
@@ -651,12 +711,12 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.84,
+   "divergence": 0.843,
    "category": "société",
    "terms_left": [
     "lycéen",
-    "mouvement",
-    "mobilisation"
+    "mobilisation",
+    "mouvement lycéen"
    ],
    "terms_right": [
     "lycées",
@@ -695,6 +755,36 @@
    ]
   },
   {
+   "title": "Espagne: Pedro Sánchez lance sa campagne en promettant de \"renforcer\" la loi sur le logement",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20261002-bosnie-herz%C3%A9govine-une-%C3%A9lection-sous-tension-30-ans-apr%C3%A8s-la-guerre",
+   "n_members": 63,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.537,
+   "category": "international",
+   "terms_left": [
+    "europe",
+    "carles",
+    "carles puigdemont"
+   ],
+   "terms_right": [
+    "crise",
+    "sánchez convoque",
+    "convoque élections"
+   ]
+  },
+  {
    "title": "«Des faits d’une extrême gravité» : en Belgique aussi le mouvement des lycéens prend une ampleur inquiétante",
    "url": "https://reporterre.net/Brandir-nos-maladies-et-nos-morts-paysans-et-malades-promettent-une-mobilisation-majeure",
    "n_members": 62,
@@ -711,7 +801,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.706,
+   "divergence": 0.707,
    "category": "société",
    "terms_left": [
     "gouvernement",
@@ -722,36 +812,6 @@
     "manifestations",
     "manifestations lycéennes",
     "personnes"
-   ]
-  },
-  {
-   "title": "Sánchez, Feijóo, Abascal: les trois principaux protagonistes des législatives espagnoles",
-   "url": "https://www.france24.com/fr/vid%C3%A9o/20261002-bosnie-herz%C3%A9govine-une-%C3%A9lection-sous-tension-30-ans-apr%C3%A8s-la-guerre",
-   "n_members": 62,
-   "n_sources": 26,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.49,
-   "category": "international",
-   "terms_left": [
-    "europe",
-    "pari",
-    "puigdemont"
-   ],
-   "terms_right": [
-    "sánchez convoque",
-    "convoque élections",
-    "convoque"
    ]
   },
   {
@@ -771,17 +831,17 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.586,
+   "divergence": 0.668,
    "category": "société",
    "terms_left": [
     "mobilisation lycéenne",
-    "suspension",
-    "violences"
+    "violences",
+    "mobilisation"
    ],
    "terms_right": [
     "grenades assourdissantes",
     "assourdissantes",
-    "laurent"
+    "grenade assourdissante"
    ]
   },
   {
@@ -845,9 +905,9 @@
    ]
   },
   {
-   "title": "La plateforme de vote pour la primaire sociale-démocrate victime d’une cyberattaque, affirment les organisateurs du scrutin",
+   "title": "Cyberattaque sur la primaire sociale-démocrate : le vote prolongé jusqu'à dimanche soir",
    "url": "https://www.liberation.fr/politique/primaire-a-gauche-malgre-un-favori-un-scrutin-qui-rend-flou-20261008_H47UROEGIJF53POGYWXWA3ITMI/",
-   "n_members": 48,
+   "n_members": 59,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -861,17 +921,47 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.425,
+   "divergence": 0.405,
    "category": "politique",
    "terms_left": [
     "plateforme",
-    "vote victime",
-    "personnes"
+    "personnes",
+    "vote victime"
    ],
    "terms_right": [
     "socialiste",
-    "prolongé jusqu",
-    "prolongé"
+    "présidentielle",
+    "place"
+   ]
+  },
+  {
+   "title": "Blocages des lycées : l'élève de 15 ans a eu la main arrachée par une grenade à Lens, le tir s'est fait \"conformément au mode opératoire\" selon le parquet",
+   "url": "https://www.humanite.fr/societe/acces-a-leducation/ils-oublient-que-nous-sommes-des-enfants-en-greve-les-eleves-du-lycee-paul-eluard-a-saint-denis-victimes-de-violences-policieres",
+   "n_members": 115,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.808,
+   "category": "société",
+   "terms_left": [
+    "violences",
+    "lycée",
+    "lycéens"
+   ],
+   "terms_right": [
+    "lycées",
+    "lycéen",
+    "blocus"
    ]
   },
   {
@@ -921,12 +1011,12 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.864,
+   "divergence": 0.86,
    "category": "économie",
    "terms_left": [
     "midterms",
-    "etats-unis",
-    "trump"
+    "trump",
+    "prix"
    ],
    "terms_right": [
     "france",
@@ -981,23 +1071,23 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.747,
+   "divergence": 0.764,
    "category": "international",
    "terms_left": [
-    "retour",
     "russie",
-    "etats-unis"
+    "etats-unis",
+    "internationale"
    ],
    "terms_right": [
-    "europe",
     "donald trump",
-    "donald"
+    "donald",
+    "europe"
    ]
   },
   {
-   "title": "Cybercriminalité. Le numéro de Sébastien Lecornu a fuité à cause d'une commande sur Le Slip français",
+   "title": "Cybercriminalité : que sont les « look up », ces moteurs de recherche de données volées ?",
    "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/dans-les-hauts-de-france-deux-prestataires-de-la-region-pirates-les-donnees-personnelles-de-plusieurs-milliers-de-personnes-ont-ete-volees_8221441.html",
-   "n_members": 57,
+   "n_members": 59,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -1011,17 +1101,47 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.74,
+   "divergence": 0.798,
    "category": "environnement",
    "terms_left": [
-    "lecornu",
-    "gouvernement",
-    "fuites"
+    "fuites",
+    "face",
+    "sécheresse"
    ],
    "terms_right": [
     "personnes",
-    "qu",
-    "sud"
+    "sud",
+    "données"
+   ]
+  },
+  {
+   "title": "Le prix Nobel de la paix 2026 décerné à la Sud-Africaine Navanethem «Navi» Pillay",
+   "url": "https://www.tf1info.fr/international/prix-nobel-de-la-paix-2026-tout-sauf-donald-trump-2468767.html",
+   "n_members": 50,
+   "n_sources": 25,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.219,
+   "category": "international",
+   "terms_left": [
+    "enquête",
+    "gaza",
+    "commission enquête"
+   ],
+   "terms_right": [
+    "nobel",
+    "navanethem navi",
+    "trump"
    ]
   },
   {
@@ -1055,36 +1175,6 @@
    ]
   },
   {
-   "title": "Blocages des lycées : l'élève de 15 ans a eu la main arrachée par une grenade à Lens, le tir s'est fait \"conformément au mode opératoire\" selon le parquet",
-   "url": "https://www.humanite.fr/societe/acces-a-leducation/ils-oublient-que-nous-sommes-des-enfants-en-greve-les-eleves-du-lycee-paul-eluard-a-saint-denis-victimes-de-violences-policieres",
-   "n_members": 114,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.806,
-   "category": "société",
-   "terms_left": [
-    "lycée",
-    "lycéens",
-    "violences"
-   ],
-   "terms_right": [
-    "lycéen",
-    "lycées",
-    "grenade"
-   ]
-  },
-  {
    "title": "« Systématiquement des tentatives d’humiliation » : des avocats dénoncent des gardes à vue de jeunes impliqués dans le mouvement lycéen faites pour « terroriser »",
    "url": "https://www.leparisien.fr/faits-divers/marseille-une-femme-visee-par-un-spray-transforme-en-lance-flammes-artisanal-en-marge-de-la-mobilisation-lyceenne-02-10-2026-G7VCMXIURNGLTPN4HC23YKZT6M.php",
    "n_members": 63,
@@ -1101,107 +1191,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.798,
+   "divergence": 0.8,
    "category": "société",
    "terms_left": [
-    "lycéens",
-    "mouvement",
-    "mouvement lycéen"
+    "violences",
+    "dénoncent",
+    "garde vue"
    ],
    "terms_right": [
     "marseille",
     "spray",
     "mineur"
-   ]
-  },
-  {
-   "title": "Pluies torrentielles en Espagne : deux morts dans la province de Barcelone placée en état d'alerte",
-   "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-la-retraitee-expulsee-de-son-appartement-va-pouvoir-rentrer-chez-elle-apres-un-accord-avec-les-proprietaires-annonce-son-avocate_8214065.html",
-   "n_members": 62,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 1
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.616,
-   "category": "international",
-   "terms_left": [
-    "état",
-    "barcelone état",
-    "migrants"
-   ],
-   "terms_right": [
-    "ans",
-    "pluies",
-    "espagne"
-   ]
-  },
-  {
-   "title": "Malgré la trêve à Gaza, la guerre continue",
-   "url": "https://www.bfmtv.com/international/moyen-orient/palestine/a-gaza-quatre-femmes-et-un-homme-tues-dans-une-frappe-israelienne-pendant-la-nuit_AD-202610030264.html",
-   "n_members": 60,
-   "n_sources": 24,
-   "counts": {
-    "left": 8,
-    "centre": 12,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 10,
-    "opinion": 1
-   },
-   "blindspot_score": -0.333,
-   "blindspot_for": null,
-   "divergence": 0.85,
-   "category": "international",
-   "terms_left": [
-    "gaza",
-    "projet",
-    "maire"
-   ],
-   "terms_right": [
-    "jusqu",
-    "nouvelles",
-    "russie"
-   ]
-  },
-  {
-   "title": "Prix Nobel de physique : le Belge Francis Halzen récompensé pour ses travaux sur des particules appelées \"neutrinos\"",
-   "url": "https://www.liberation.fr/sciences/ozempic-mounjaro-les-travaux-concernant-les-medicaments-anti-obesite-en-lice-pour-remporter-le-prix-nobel-de-medecine-ce-lundi-20261005_47IJ7UHCUVDUPLOYI3ASS6JL24/",
-   "n_members": 50,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 14,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.239,
-   "category": "sciences-tech",
-   "terms_left": [
-    "honneur",
-    "nobel médecine",
-    "médecine"
-   ],
-   "terms_right": [
-    "milliards",
-    "corps",
-    "médecine décerné"
    ]
   }
  ]
