@@ -1,13 +1,13 @@
 {
  "week": "2026-W41",
- "generated_at": "2026-10-11T03:37:13+00:00",
+ "generated_at": "2026-10-11T10:27:14+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "Blocages des lycées : suivez la nouvelle journée de mobilisation",
+   "title": "Mobilisation lycéenne: la journée a été marquée par des manifestations pacifiques et quelques tensions en France",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 994,
+   "n_members": 996,
    "n_sources": 42,
    "counts": {
     "left": 13,
@@ -21,17 +21,17 @@
    },
    "blindspot_score": -0.04,
    "blindspot_for": null,
-   "divergence": 0.289,
+   "divergence": 0.291,
    "category": "société",
    "terms_left": [
     "direct",
-    "mouvement",
+    "mobilisation",
     "répression"
    ],
    "terms_right": [
     "blocus",
     "blocus lycées",
-    "nouvelle"
+    "colère lycéenne"
    ]
   },
   {
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.17,
+   "divergence": 0.169,
    "category": "culture",
    "terms_left": [
     "affaire",
@@ -67,7 +67,7 @@
   {
    "title": "Messages antisémites attribués à Jordan Bardella : Mediapart publie de nouveaux éléments mettant à mal la défense du président du RN",
    "url": "https://www.mediapart.fr/journal/politique/280926/les-banques-sont-toutes-detenues-par-des-juifs-jordan-bardella-face-ses-ecrits-antisemites",
-   "n_members": 418,
+   "n_members": 420,
    "n_sources": 38,
    "counts": {
     "left": 9,
@@ -81,17 +81,17 @@
    },
    "blindspot_score": 0.1,
    "blindspot_for": null,
-   "divergence": 0.175,
+   "divergence": 0.176,
    "category": "politique",
    "terms_left": [
-    "révélations",
     "antisémites jordan",
+    "révélations",
     "rn"
    ],
    "terms_right": [
     "attribués",
-    "antisémites attribués",
-    "attribués jordan"
+    "attribués jordan",
+    "antisémites attribués"
    ]
   },
   {
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.386,
+   "divergence": 0.385,
    "category": "économie",
    "terms_left": [
     "lecornu",
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.217,
    "blindspot_for": null,
-   "divergence": 0.256,
+   "divergence": 0.257,
    "category": "international",
    "terms_left": [
     "brésil lula",
@@ -171,23 +171,23 @@
    },
    "blindspot_score": 0.158,
    "blindspot_for": null,
-   "divergence": 0.422,
+   "divergence": 0.43,
    "category": "société",
    "terms_left": [
     "mouvement lycéen",
     "lycéen",
-    "mouvement"
+    "mobilisation lycéenne"
    ],
    "terms_right": [
-    "carburants",
     "blocus",
-    "lycées"
+    "lycées",
+    "carburants"
    ]
   },
   {
-   "title": "RÉCIT. Cas de peste en Russie ? Mesures sanitaires, inquiétude américaine... Ce que l’on sait de la mort d’une employée de laboratoire",
+   "title": "Peste en Russie : Les autorités russes n’ont détecté « aucune pathologie infectieuse » sur les cas contact",
    "url": "https://www.ouest-france.fr/europe/russie/une-technicienne-de-laboratoire-meurt-de-la-peste-en-siberie-des-dizaines-de-personnes-placees-en-quarantaine-439cfea6-bea5-11f1-b7db-555e86a524f6",
-   "n_members": 107,
+   "n_members": 109,
    "n_sources": 31,
    "counts": {
     "left": 5,
@@ -201,17 +201,17 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.374,
+   "divergence": 0.365,
    "category": "international",
    "terms_left": [
     "soupçon",
     "soupçon peste",
-    "mesures"
+    "décès"
    ],
    "terms_right": [
+    "cas",
     "trump",
-    "personnes",
-    "femme"
+    "personnes"
    ]
   },
   {
@@ -245,9 +245,39 @@
    ]
   },
   {
+   "title": "\"Il est temps pour l'Ukraine d'avoir un nouveau président\": Volodymyr Zelensky lâché par Donald Trump",
+   "url": "https://fr.euronews.com/2026/10/05/les-exportations-de-petrole-du-moyen-orient-reviennent-a-leur-niveau-davant-guerre-sans-li",
+   "n_members": 127,
+   "n_sources": 29,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.329,
+   "category": "international",
+   "terms_left": [
+    "gazole",
+    "etats-unis",
+    "direct"
+   ],
+   "terms_right": [
+    "nouveau",
+    "prix",
+    "temps"
+   ]
+  },
+  {
    "title": "Crise des carburants : combien de temps la libération de 10 millions de barils de diesel va permettre de baisser les prix à la pompe ?",
    "url": "https://www.bfmtv.com/economie/entreprises/energie/des-cargaisons-annulees-a-la-derniere-minute-pekin-qui-n-autorise-plus-les-exportations-de-carburants-la-chine-ferme-brutalement-le-robinet-le-petrole-repasse-au-dessus-des-100-dollars_AV-202610010661.html",
-   "n_members": 107,
+   "n_members": 108,
    "n_sources": 29,
    "counts": {
     "left": 5,
@@ -261,17 +291,17 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.306,
+   "divergence": 0.341,
    "category": "économie",
    "terms_left": [
     "espère",
     "approvisionnement",
-    "prix litre"
+    "disposition"
    ],
    "terms_right": [
-    "libération",
-    "euros",
-    "qu"
+    "stratégiques",
+    "pompe",
+    "stocks stratégiques"
    ]
   },
   {
@@ -291,7 +321,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.331,
+   "divergence": 0.334,
    "category": "international",
    "terms_left": [
     "russie",
@@ -300,8 +330,8 @@
    ],
    "terms_right": [
     "frappe russe",
-    "frappe",
-    "russe bus"
+    "bus",
+    "frappe"
    ]
   },
   {
@@ -321,7 +351,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.801,
+   "divergence": 0.802,
    "category": "international",
    "terms_left": [
     "ans",
@@ -351,17 +381,17 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.556,
+   "divergence": 0.557,
    "category": "politique",
    "terms_left": [
     "gauche",
     "texte",
-    "impôt"
+    "apport-cession"
    ],
    "terms_right": [
-    "budget",
     "milliards euros",
-    "milliards"
+    "milliards",
+    "budget"
    ]
   },
   {
@@ -411,17 +441,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.782,
+   "divergence": 0.803,
    "category": "société",
    "terms_left": [
-    "blessés",
-    "ministre",
-    "policière"
+    "mobilisation",
+    "policière",
+    "blocage lycées"
    ],
    "terms_right": [
-    "france",
     "police",
-    "mouvement"
+    "mouvement",
+    "blocus"
    ]
   },
   {
@@ -441,7 +471,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.397,
+   "divergence": 0.396,
    "category": "société",
    "terms_left": [
     "lycéennes",
@@ -485,9 +515,9 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine : Trump scelle un accord avec Poutine sur le diesel, Zelensky est furieux",
-   "url": "https://fr.euronews.com/2026/10/05/les-exportations-de-petrole-du-moyen-orient-reviennent-a-leur-niveau-davant-guerre-sans-li",
-   "n_members": 108,
+   "title": "Adolescent amputé d'une main à Lens : le parquet communique les premiers éléments de l'enquête",
+   "url": "https://www.humanite.fr/societe/acces-a-leducation/ils-oublient-que-nous-sommes-des-enfants-en-greve-les-eleves-du-lycee-paul-eluard-a-saint-denis-victimes-de-violences-policieres",
+   "n_members": 125,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -495,29 +525,59 @@
     "right": 8
    },
    "style_counts": {
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.68,
+   "category": "société",
+   "terms_left": [
+    "adolescent",
+    "qu",
+    "violences"
+   ],
+   "terms_right": [
+    "lycéen",
+    "grenade",
+    "lycéen amputé"
+   ]
+  },
+  {
+   "title": "Primaire sociale-démocrate : plus de 70.000 votants samedi à 08h00, selon les organisateurs",
+   "url": "https://www.liberation.fr/politique/primaire-a-gauche-malgre-un-favori-un-scrutin-qui-rend-flou-20261008_H47UROEGIJF53POGYWXWA3ITMI/",
+   "n_members": 75,
+   "n_sources": 27,
+   "counts": {
+    "left": 4,
+    "centre": 16,
+    "right": 7
+   },
+   "style_counts": {
     "factuel": 17,
     "mixte": 8,
     "opinion": 2
    },
-   "blindspot_score": 0.143,
+   "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.363,
-   "category": "international",
+   "divergence": 0.325,
+   "category": "politique",
    "terms_left": [
-    "gazole",
-    "massives",
-    "négocié"
+    "plateforme",
+    "personnes",
+    "heures"
    ],
    "terms_right": [
-    "nouveau",
-    "président",
-    "prix"
+    "prolongé",
+    "socialiste",
+    "prolongé jusqu"
    ]
   },
   {
    "title": "DÉCRYPTAGE. Présidentielle 2027 : le premier tour plein d'inconnues de la primaire de la gauche",
    "url": "https://www.liberation.fr/politique/elections/jerome-guedj-candidat-a-la-primaire-sociale-democrate-le-ps-creve-de-ses-ambiguites-20261003_HNVYH3XILJECVIJUXZNV4FGCCI/",
-   "n_members": 68,
+   "n_members": 71,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -531,17 +591,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.604,
+   "divergence": 0.598,
    "category": "politique",
    "terms_left": [
     "françois",
     "primaire sociale-démocrate",
-    "jérôme"
+    "camp"
    ],
    "terms_right": [
     "présidentielle",
-    "raphaël glucksmann",
-    "ségolène royal"
+    "ségolène royal",
+    "ségolène"
    ]
   },
   {
@@ -561,17 +621,47 @@
    },
    "blindspot_score": -0.429,
    "blindspot_for": null,
-   "divergence": 0.848,
+   "divergence": 0.852,
    "category": "international",
    "terms_left": [
     "gaza",
     "an",
-    "projet"
+    "mort"
    ],
    "terms_right": [
-    "jusqu",
-    "large",
-    "navires"
+    "moyen-orient",
+    "drones",
+    "qatar"
+   ]
+  },
+  {
+   "title": "Mobilisation lycéenne : la répression comme politique",
+   "url": "https://www.tf1info.fr/societe/verif-les-lyceens-francais-ont-ils-de-plus-d-heures-de-cours-que-leurs-voisins-europeens-2467690.html",
+   "n_members": 64,
+   "n_sources": 27,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 9,
+    "opinion": 6
+   },
+   "blindspot_score": 0.375,
+   "blindspot_for": null,
+   "divergence": 0.851,
+   "category": "société",
+   "terms_left": [
+    "vue",
+    "gardes vue",
+    "gardes"
+   ],
+   "terms_right": [
+    "lycéens",
+    "français",
+    "lycées"
    ]
   },
   {
@@ -605,66 +695,6 @@
    ]
   },
   {
-   "title": "Cyberattaque perturbe la primaire de la gauche sociale-démocrate",
-   "url": "https://www.liberation.fr/politique/primaire-a-gauche-malgre-un-favori-un-scrutin-qui-rend-flou-20261008_H47UROEGIJF53POGYWXWA3ITMI/",
-   "n_members": 63,
-   "n_sources": 27,
-   "counts": {
-    "left": 4,
-    "centre": 16,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.421,
-   "category": "politique",
-   "terms_left": [
-    "plateforme",
-    "personnes",
-    "votes"
-   ],
-   "terms_right": [
-    "socialiste",
-    "présidentielle",
-    "place"
-   ]
-  },
-  {
-   "title": "Mobilisation lycéenne : la répression comme politique",
-   "url": "https://www.tf1info.fr/societe/verif-les-lyceens-francais-ont-ils-de-plus-d-heures-de-cours-que-leurs-voisins-europeens-2467690.html",
-   "n_members": 62,
-   "n_sources": 27,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 9,
-    "opinion": 6
-   },
-   "blindspot_score": 0.375,
-   "blindspot_for": null,
-   "divergence": 0.856,
-   "category": "société",
-   "terms_left": [
-    "vue",
-    "gardes vue",
-    "gardes"
-   ],
-   "terms_right": [
-    "lycéens",
-    "français",
-    "lycées"
-   ]
-  },
-  {
    "title": "L’astronaute française Sophie Adenot de retour sur Terre après huit mois à bord de l’ISS",
    "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/fin-de-mission-en-vue-pour-sophie-adenot-qui-s-apprete-a-quitter-l-iss-apres-plus-de-sept-mois-dans-l-espace_8216980.html",
    "n_members": 134,
@@ -681,17 +711,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.163,
+   "divergence": 0.145,
    "category": "sciences-tech",
    "terms_left": [
-    "séjour",
-    "jours espace",
-    "astronaute sophie"
+    "astronaute sophie",
+    "terre astronaute",
+    "désormais"
    ],
    "terms_right": [
-    "retour",
     "mois espace",
-    "sophie"
+    "mission",
+    "dit"
    ]
   },
   {
@@ -725,39 +755,9 @@
    ]
   },
   {
-   "title": "Lycéen amputé d’une main à Lens : le parquet juge le tir de grenade «conforme»",
-   "url": "https://www.humanite.fr/societe/acces-a-leducation/ils-oublient-que-nous-sommes-des-enfants-en-greve-les-eleves-du-lycee-paul-eluard-a-saint-denis-victimes-de-violences-policieres",
-   "n_members": 123,
-   "n_sources": 26,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 8,
-    "opinion": 4
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.716,
-   "category": "société",
-   "terms_left": [
-    "adolescent",
-    "qu",
-    "lycée"
-   ],
-   "terms_right": [
-    "grenade",
-    "lycéen",
-    "lycéen amputé"
-   ]
-  },
-  {
    "title": "Mouvement des lycées : pourquoi les participants filment tout et diffusent les images",
    "url": "https://www.nicematin.com/societe/c-est-un-algorithme-qui-gere-notre-avenir-de-la-colere-mais-pas-de-heurt-pour-cette-nouvelle-matinee-de-manifestation-des-lyceens-a-toulon-10732164",
-   "n_members": 79,
+   "n_members": 80,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -771,7 +771,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.843,
+   "divergence": 0.86,
    "category": "société",
    "terms_left": [
     "mobilisation",
@@ -779,9 +779,9 @@
     "mouvement lycéen"
    ],
    "terms_right": [
+    "images",
     "lycées",
-    "violences",
-    "blocus"
+    "violences"
    ]
   },
   {
@@ -815,9 +815,9 @@
    ]
   },
   {
-   "title": "Espagne: Pedro Sánchez lance sa campagne en promettant de \"renforcer\" la loi sur le logement",
+   "title": "Espagne : Pedro Sanchez met la crise du logement au coeur de sa campagne",
    "url": "https://www.france24.com/fr/vid%C3%A9o/20261002-bosnie-herz%C3%A9govine-une-%C3%A9lection-sous-tension-30-ans-apr%C3%A8s-la-guerre",
-   "n_members": 64,
+   "n_members": 66,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -845,6 +845,36 @@
    ]
   },
   {
+   "title": "\"Effondrement civilisationnel\" : pourquoi les Américains sont obsédés par l'Europe",
+   "url": "https://www.europe1.fr/international/etats-unis-donald-trump-va-nommer-le-directeur-du-renseignement-americain-au-poste-de-referent-ia-1119257",
+   "n_members": 65,
+   "n_sources": 26,
+   "counts": {
+    "left": 3,
+    "centre": 13,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 6,
+    "opinion": 4
+   },
+   "blindspot_score": 0.538,
+   "blindspot_for": null,
+   "divergence": 0.829,
+   "category": "international",
+   "terms_left": [
+    "russie",
+    "etats-unis",
+    "internationale"
+   ],
+   "terms_right": [
+    "donald trump",
+    "donald",
+    "europe"
+   ]
+  },
+  {
    "title": "Blocages des lycées : LBD, grenades de désencerclement ou assourdissantes... Quelles armes utilisent les forces de l'ordre et dans quel cadre légal ?",
    "url": "https://www.liberation.fr/idees-et-debats/editorial/repression-des-lyceens-une-gestion-de-crise-emblematique-de-la-deconnexion-entre-pouvoir-et-societe-20261005_D6W2IIHMGRA7LG6VU5BSXAX3TU/",
    "n_members": 64,
@@ -861,11 +891,11 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.675,
+   "divergence": 0.678,
    "category": "société",
    "terms_left": [
-    "mobilisation lycéenne",
     "lens",
+    "mobilisation lycéenne",
     "mobilisation"
    ],
    "terms_right": [
@@ -875,9 +905,9 @@
    ]
   },
   {
-   "title": "«Des faits d’une extrême gravité» : en Belgique aussi le mouvement des lycéens prend une ampleur inquiétante",
+   "title": "“Gilets jeunes” : la mobilisation des lycéens belges est elle aussi regardée avec mépris",
    "url": "https://reporterre.net/Brandir-nos-maladies-et-nos-morts-paysans-et-malades-promettent-une-mobilisation-majeure",
-   "n_members": 62,
+   "n_members": 63,
    "n_sources": 26,
    "counts": {
     "left": 7,
@@ -1011,17 +1041,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.61,
+   "divergence": 0.626,
    "category": "international",
    "terms_left": [
-    "affaire",
     "etats-unis",
+    "affaire",
     "université américaine"
    ],
    "terms_right": [
     "trump",
-    "viol collectif",
-    "collectif"
+    "université cornell",
+    "viol collectif"
    ]
   },
   {
@@ -1085,36 +1115,6 @@
    ]
   },
   {
-   "title": "Pourquoi Trump est obsédé par la notion de civilisation (surtout européenne)",
-   "url": "https://www.europe1.fr/international/etats-unis-donald-trump-va-nommer-le-directeur-du-renseignement-americain-au-poste-de-referent-ia-1119257",
-   "n_members": 64,
-   "n_sources": 25,
-   "counts": {
-    "left": 3,
-    "centre": 13,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 6,
-    "opinion": 4
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.826,
-   "category": "international",
-   "terms_left": [
-    "russie",
-    "etats-unis",
-    "internationale"
-   ],
-   "terms_right": [
-    "donald trump",
-    "donald",
-    "europe"
-   ]
-  },
-  {
    "title": "Cybercriminalité : que sont les « look up », ces moteurs de recherche de données volées ?",
    "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/dans-les-hauts-de-france-deux-prestataires-de-la-region-pirates-les-donnees-personnelles-de-plusieurs-milliers-de-personnes-ont-ete-volees_8221441.html",
    "n_members": 59,
@@ -1131,7 +1131,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.8,
+   "divergence": 0.795,
    "category": "environnement",
    "terms_left": [
     "fuites",
@@ -1139,9 +1139,9 @@
     "lecornu"
    ],
    "terms_right": [
-    "sud",
-    "radio",
-    "vente"
+    "données",
+    "vente",
+    "personnes"
    ]
   },
   {
@@ -1191,12 +1191,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.8,
+   "divergence": 0.798,
    "category": "société",
    "terms_left": [
     "violences",
-    "dénoncent",
-    "garde vue"
+    "garde vue",
+    "garde"
    ],
    "terms_right": [
     "marseille",
