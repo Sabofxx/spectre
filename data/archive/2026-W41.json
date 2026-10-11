@@ -1,6 +1,6 @@
 {
  "week": "2026-W41",
- "generated_at": "2026-10-11T20:27:34+00:00",
+ "generated_at": "2026-10-11T23:49:28+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": -0.04,
    "blindspot_for": null,
-   "divergence": 0.295,
+   "divergence": 0.296,
    "category": "société",
    "terms_left": [
     "direct",
@@ -31,7 +31,7 @@
    "terms_right": [
     "blocus",
     "blocus lycées",
-    "nouvelle"
+    "colère lycéenne"
    ]
   },
   {
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.1,
    "blindspot_for": null,
-   "divergence": 0.177,
+   "divergence": 0.178,
    "category": "politique",
    "terms_left": [
     "rn",
@@ -201,17 +201,17 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.361,
+   "divergence": 0.367,
    "category": "international",
    "terms_left": [
     "soupçon",
     "soupçon peste",
-    "mesures"
+    "laborantine"
    ],
    "terms_right": [
     "cas",
     "trump",
-    "personnes"
+    "oms"
    ]
   },
   {
@@ -247,7 +247,7 @@
   {
    "title": "Guerre en Ukraine : Trump exhorte Zelensky à cesser de frapper les raffineries russes et affirme qu’« il est temps pour l’Ukraine d’avoir un nouveau président »",
    "url": "https://fr.euronews.com/2026/10/05/les-exportations-de-petrole-du-moyen-orient-reviennent-a-leur-niveau-davant-guerre-sans-li",
-   "n_members": 161,
+   "n_members": 164,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -261,17 +261,47 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.263,
+   "divergence": 0.262,
    "category": "international",
    "terms_left": [
-    "gazole",
     "direct",
+    "gazole",
     "etats-unis"
    ],
    "terms_right": [
     "prix",
     "homologue",
     "paix"
+   ]
+  },
+  {
+   "title": "Primaire socialiste : Raphaël Glucksmann élu dès le premier tour avec 66% des voix",
+   "url": "https://www.liberation.fr/politique/elections/jerome-guedj-candidat-a-la-primaire-sociale-democrate-le-ps-creve-de-ses-ambiguites-20261003_HNVYH3XILJECVIJUXZNV4FGCCI/",
+   "n_members": 135,
+   "n_sources": 29,
+   "counts": {
+    "left": 5,
+    "centre": 14,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.501,
+   "category": "politique",
+   "terms_left": [
+    "lfi",
+    "jérôme",
+    "guedj"
+   ],
+   "terms_right": [
+    "primaire",
+    "raphaël glucksmann",
+    "raphaël"
    ]
   },
   {
@@ -291,7 +321,7 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.366,
+   "divergence": 0.365,
    "category": "économie",
    "terms_left": [
     "trump",
@@ -307,7 +337,7 @@
   {
    "title": "Ukraine : au moins 11 morts, dont 3 enfants, dans des frappes russes sur Zaporijia",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 308,
+   "n_members": 309,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -321,7 +351,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.337,
+   "divergence": 0.339,
    "category": "international",
    "terms_left": [
     "direct",
@@ -332,36 +362,6 @@
     "frappe russe",
     "frappe",
     "alerte"
-   ]
-  },
-  {
-   "title": "Primaire socialiste : Raphaël Glucksmann élu dès le premier tour avec 66% des voix",
-   "url": "https://www.liberation.fr/politique/elections/jerome-guedj-candidat-a-la-primaire-sociale-democrate-le-ps-creve-de-ses-ambiguites-20261003_HNVYH3XILJECVIJUXZNV4FGCCI/",
-   "n_members": 122,
-   "n_sources": 28,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 5
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.504,
-   "category": "politique",
-   "terms_left": [
-    "lfi",
-    "jérôme",
-    "guedj"
-   ],
-   "terms_right": [
-    "raphaël glucksmann",
-    "raphaël",
-    "primaire"
    ]
   },
   {
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.303,
+   "divergence": 0.304,
    "category": "politique",
    "terms_left": [
     "plateforme",
@@ -531,17 +531,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.399,
+   "divergence": 0.4,
    "category": "société",
    "terms_left": [
     "annonces",
     "lycéennes",
-    "victoire"
+    "mobilisation"
    ],
    "terms_right": [
     "éducation nationale",
-    "nationale",
-    "lycéens"
+    "lycéens",
+    "nationale"
    ]
   },
   {
@@ -725,9 +725,9 @@
    ]
   },
   {
-   "title": "Au moins 12 morts et plus de 300 blessés, \"grave escalade\"… Ce que l'on sait de l'attaque sur l'aéroport de Ryad en Arabie saoudite imputée aux Houthis",
+   "title": "Frappes à l’aéroport de Ryad : Ce que l’on sait de l’attaque attribuées aux Houthis en Arabie Saoudite",
    "url": "https://www.lefigaro.fr/international/guerre-en-iran-teheran-affirme-avoir-saisi-un-drone-sous-marin-americain-20260927",
-   "n_members": 128,
+   "n_members": 131,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -741,7 +741,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.418,
+   "divergence": 0.399,
    "category": "international",
    "terms_left": [
     "houthistes",
@@ -751,7 +751,7 @@
    "terms_right": [
     "aéroport",
     "aéroport ryad",
-    "ryad"
+    "houthis"
    ]
   },
   {
@@ -861,7 +861,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.514,
+   "divergence": 0.513,
    "category": "international",
    "terms_left": [
     "europe",
@@ -1175,33 +1175,33 @@
    ]
   },
   {
-   "title": "Primaire sociale-démocrate: \"Jérôme Guedj a cette volonté de me coller à Jean-Luc Mélenchon\", lance Olivier Faure",
-   "url": "https://www.nouvelobs.com/politique/20260930.OBS118746/primaire-sociale-democrate-raphael-glucksmann-seul-contre-tous.html",
-   "n_members": 131,
-   "n_sources": 24,
+   "title": "Rassemblement national : Le député Jean-Philippe Tanguy reconnaît que son parti attire « des dingues »",
+   "url": "https://www.liberation.fr/international/europe/face-a-lavancee-de-lextreme-droite-aimer-lallemagne-au-point-de-la-quitter-20261006_LFGTLDCO2JDQNL2BWUMDESECCQ/",
+   "n_members": 57,
+   "n_sources": 25,
    "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 7
+    "left": 6,
+    "centre": 13,
+    "right": 6
    },
    "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 4
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 2
    },
-   "blindspot_score": 0.167,
+   "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.437,
-   "category": "politique",
+   "divergence": 0.44,
+   "category": "international",
    "terms_left": [
-    "gauche",
-    "débat",
-    "primaire"
+    "renseignement extérieur",
+    "extérieur",
+    "ancien chef"
    ],
    "terms_right": [
-    "qu",
-    "olivier faure",
-    "olivier"
+    "parti extrême",
+    "afd",
+    "politique"
    ]
   }
  ]
