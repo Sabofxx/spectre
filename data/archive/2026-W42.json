@@ -1,13 +1,13 @@
 {
  "week": "2026-W42",
- "generated_at": "2026-10-12T20:23:25+00:00",
+ "generated_at": "2026-10-13T02:10:41+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "DIRECT. Colère des lycéens: au moins huit personnels de l'Éducation nationale blessés ce lundi matin",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 1026,
+   "n_members": 1032,
    "n_sources": 42,
    "counts": {
     "left": 13,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": -0.04,
    "blindspot_for": null,
-   "divergence": 0.285,
+   "divergence": 0.282,
    "category": "société",
    "terms_left": [
     "mobilisation",
@@ -127,7 +127,7 @@
   {
    "title": "Ukraine : Trump annonce un cessez-le-feu énergétique pour faire baisser les prix aux États-Unis",
    "url": "https://fr.euronews.com/2026/10/05/les-exportations-de-petrole-du-moyen-orient-reviennent-a-leur-niveau-davant-guerre-sans-li",
-   "n_members": 211,
+   "n_members": 212,
    "n_sources": 32,
    "counts": {
     "left": 7,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.431,
+   "divergence": 0.432,
    "category": "politique",
    "terms_left": [
     "jérôme",
@@ -247,7 +247,7 @@
   {
    "title": "Ukraine : au moins 11 morts, dont 3 enfants, dans des frappes russes sur Zaporijia",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 311,
+   "n_members": 312,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -261,12 +261,12 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.339,
+   "divergence": 0.338,
    "category": "international",
    "terms_left": [
+    "blessés",
     "direct",
-    "ville",
-    "blessés"
+    "russie"
    ],
    "terms_right": [
     "frappe russe",
@@ -291,11 +291,11 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.577,
+   "divergence": 0.575,
    "category": "politique",
    "terms_left": [
-    "hémicycle",
     "texte",
+    "hémicycle",
     "gauche"
    ],
    "terms_right": [
@@ -381,12 +381,12 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.173,
+   "divergence": 0.169,
    "category": "international",
    "terms_left": [
     "navanethem pillay",
     "navanethem",
-    "sud-africaine navanethem"
+    "justice"
    ],
    "terms_right": [
     "trump",
@@ -395,9 +395,39 @@
    ]
   },
   {
+   "title": "Les réfrigérateurs de centaines de supermarchés français victimes d'une cyberattaque",
+   "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-magasins-systeme-u-et-intermarche-touches-par-une-cyberattaque-contre-leurs-installations-frigorifiques_8233720.html",
+   "n_members": 50,
+   "n_sources": 27,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 11,
+    "opinion": 1
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.409,
+   "category": "économie",
+   "terms_left": [
+    "centaines supermarchés",
+    "centaines",
+    "paris"
+   ],
+   "terms_right": [
+    "touchés",
+    "magasins",
+    "euros"
+   ]
+  },
+  {
    "title": "Frappes à l’aéroport de Ryad : Ce que l’on sait de l’attaque attribuées aux Houthis en Arabie Saoudite",
    "url": "https://www.lefigaro.fr/international/guerre-en-iran-teheran-affirme-avoir-saisi-un-drone-sous-marin-americain-20260927",
-   "n_members": 152,
+   "n_members": 155,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -411,17 +441,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.379,
+   "divergence": 0.384,
    "category": "international",
    "terms_left": [
     "houthistes",
-    "saoudienne",
-    "attaques"
+    "attaques",
+    "saoudienne"
    ],
    "terms_right": [
-    "aéroport ryad",
     "aéroport",
-    "ryad"
+    "aéroport ryad",
+    "houthis"
    ]
   },
   {
@@ -441,7 +471,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.13,
+   "divergence": 0.129,
    "category": "sciences-tech",
    "terms_left": [
     "astronaute sophie",
@@ -457,7 +487,7 @@
   {
    "title": "DIRECT. Un principal et une enseignante blessés par des tirs de fusil de chasse dans un collège d'Aubagne, un adolescent interpellé",
    "url": "https://www.nicematin.com/societe/defense/marine/un-incendie-se-declare-a-bord-du-porte-avions-charles-de-gaulle-dans-le-port-de-toulon-10735372",
-   "n_members": 87,
+   "n_members": 89,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -474,13 +504,13 @@
    "divergence": 0.273,
    "category": "société",
    "terms_left": [
-    "jeune ans",
     "jeune",
+    "jeune ans",
     "jeune interpellé"
    ],
    "terms_right": [
-    "établissement",
     "collège aubagne",
+    "établissement",
     "blessés"
    ]
   },
@@ -512,36 +542,6 @@
     "métiers",
     "ia",
     "ans"
-   ]
-  },
-  {
-   "title": "Les réfrigérateurs de centaines de supermarchés français victimes d'une cyberattaque",
-   "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-magasins-systeme-u-et-intermarche-touches-par-une-cyberattaque-contre-leurs-installations-frigorifiques_8233720.html",
-   "n_members": 48,
-   "n_sources": 26,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 10,
-    "opinion": 1
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.418,
-   "category": "économie",
-   "terms_left": [
-    "centaines supermarchés",
-    "centaines",
-    "visant installations"
-   ],
-   "terms_right": [
-    "magasins",
-    "touchés",
-    "euros"
    ]
   },
   {
@@ -624,8 +624,8 @@
    "divergence": 0.776,
    "category": "société",
    "terms_left": [
-    "manifestation",
     "police",
+    "manifestation",
     "mouvement"
    ],
    "terms_right": [
@@ -637,7 +637,7 @@
   {
    "title": "États-Unis : Nidal Hasan, auteur d’un attentat, va-t-il être exécuté en direct et en public ? Face aux réactions indignées, Donald Trump sème le doute",
    "url": "https://www.france24.com/fr/am%C3%A9riques/20261006-fusillade-fort-hood-donald-trump-approuve-mise-a-mort-tireur-peloton-d-execution",
-   "n_members": 63,
+   "n_members": 65,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -651,17 +651,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.329,
+   "divergence": 0.324,
    "category": "international",
    "terms_left": [
+    "etats-unis",
     "veut",
-    "mise",
-    "mise mort"
+    "diffusion"
    ],
    "terms_right": [
     "états-unis",
-    "nidal",
-    "hasan"
+    "diffusée direct",
+    "diffusée"
    ]
   },
   {
@@ -711,23 +711,23 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.643,
+   "divergence": 0.656,
    "category": "international",
    "terms_left": [
     "sanctions",
-    "voiture enfant",
-    "enfant"
+    "cpi",
+    "voiture enfant"
    ],
    "terms_right": [
     "états-unis",
-    "cour",
-    "maduro épouse"
+    "maduro épouse",
+    "nicolas maduro"
    ]
   },
   {
    "title": "Mondial de l'auto : Macron cherche à rassurer les constructeurs européens face à la concurrence chinoise",
    "url": "https://www.liberation.fr/economie/guerre-commerciale-grosses-turbulences-en-vue-dans-le-bras-de-fer-entre-lunion-europeenne-et-la-chine-20261002_ZAXBLOVNAND3ROELLQKLDLDIKI/",
-   "n_members": 61,
+   "n_members": 62,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -785,9 +785,69 @@
    ]
   },
   {
-   "title": "Loi intégrale : à la fin de la première lecture à l’Assemblée nationale, l’équilibre du texte préservé, les femmes étrangères sacrifiées",
+   "title": "Mondial de l'Auto : retour des constructeurs historiques, les marques chinoises en force... Les enjeux de l'édition 2026",
+   "url": "https://www.challenges.fr/automobile/mondial-de-lauto-face-a-loffensive-chinoise-lindustrie-automobile-europeenne-prepare-sa-riposte-pour-ne-pas-perdre-la-bataille-de-lelectrique_646199",
+   "n_members": 41,
+   "n_sources": 21,
+   "counts": {
+    "left": 5,
+    "centre": 9,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.529,
+   "category": "sport",
+   "terms_left": [
+    "constructeurs européens",
+    "chine",
+    "chinoise"
+   ],
+   "terms_right": [
+    "chinois",
+    "prix",
+    "retour"
+   ]
+  },
+  {
+   "title": "Blocage des lycées : \"La jeunesse emmerde Parcoursup...\" pourquoi la plateforme d'orientation cristallise la colère des lycéens",
+   "url": "https://www.europe1.fr/societe/parcoursup-met-en-place-un-tri-raciste-et-social-cest-totalement-faux-repond-le-delegue-national-de-luni-1132004",
+   "n_members": 39,
+   "n_sources": 21,
+   "counts": {
+    "left": 4,
+    "centre": 9,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 6,
+    "opinion": 4
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.72,
+   "category": "société",
+   "terms_left": [
+    "ans",
+    "lycéen",
+    "colère"
+   ],
+   "terms_right": [
+    "parcoursup",
+    "france",
+    "lycéens"
+   ]
+  },
+  {
+   "title": "Loi intégrale contre les violences sexuelles : l’intégrité du texte « préservée » avant le vote solennel",
    "url": "https://next.ink/259150/discord-accusee-detre-un-terrain-de-chasse-de-mineurs-et-de-ne-pas-les-proteger/",
-   "n_members": 63,
+   "n_members": 64,
    "n_sources": 20,
    "counts": {
     "left": 5,
@@ -801,10 +861,18 @@
    },
    "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.812,
+   "divergence": 0.779,
    "category": "société",
-   "terms_left": [],
-   "terms_right": []
+   "terms_left": [
+    "rane",
+    "rohan",
+    "rohan rane"
+   ],
+   "terms_right": [
+    "violences sexistes",
+    "sexistes",
+    "loi violences"
+   ]
   },
   {
    "title": "Pologne: après deux attaques au couteau dans des écoles, les autorités appellent au calme",
@@ -823,16 +891,16 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.836,
+   "divergence": 0.829,
    "category": "international",
    "terms_left": [
     "police",
-    "enfants",
-    "bombardiers base"
+    "etats-unis",
+    "maternelle"
    ],
    "terms_right": [
-    "paris",
     "états-unis",
+    "paris",
     "personnes"
    ]
   },
@@ -867,36 +935,6 @@
    ]
   },
   {
-   "title": "Blocage des lycées : \"La jeunesse emmerde Parcoursup...\" pourquoi la plateforme d'orientation cristallise la colère des lycéens",
-   "url": "https://www.europe1.fr/societe/parcoursup-met-en-place-un-tri-raciste-et-social-cest-totalement-faux-repond-le-delegue-national-de-luni-1132004",
-   "n_members": 37,
-   "n_sources": 20,
-   "counts": {
-    "left": 4,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.716,
-   "category": "politique",
-   "terms_left": [
-    "ans",
-    "mouvement",
-    "lycéen"
-   ],
-   "terms_right": [
-    "parcoursup",
-    "lycéens",
-    "qu"
-   ]
-  },
-  {
    "title": "Trump annonce un \"cessez-le-feu énergétique\" entre la Russie et l'Ukraine",
    "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/kiev-et-bruxelles-ont-trouve-un-accord-sur-les-modalites-du-financement-de-l-ukraine-pour-2026_8218864.html",
    "n_members": 70,
@@ -913,12 +951,12 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.662,
+   "divergence": 0.66,
    "category": "international",
    "terms_left": [
     "direct",
-    "merz",
-    "visite"
+    "visite",
+    "merz"
    ],
    "terms_right": [
     "zelensky",
@@ -929,7 +967,7 @@
   {
    "title": "Cambriolage au musée Renoir à Cagnes-sur-Mer : les tableaux retrouvés vont être examinés après leur vol",
    "url": "https://www.franceinfo.fr/faits-divers/six-personnes-placees-en-garde-a-vue-dont-les-deux-cambrioleurs-presumes-du-musee-renoir-de-cagnes-sur-mer_8227180.html",
-   "n_members": 37,
+   "n_members": 39,
    "n_sources": 19,
    "counts": {
     "left": 3,
@@ -943,7 +981,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.342,
+   "divergence": 0.331,
    "category": "faits-divers",
    "terms_left": [
     "cambriolage",
@@ -957,33 +995,33 @@
    ]
   },
   {
-   "title": "Mondial de l'Auto : retour des constructeurs historiques, les marques chinoises en force... Les enjeux de l'édition 2026",
-   "url": "https://www.challenges.fr/automobile/mondial-de-lauto-face-a-loffensive-chinoise-lindustrie-automobile-europeenne-prepare-sa-riposte-pour-ne-pas-perdre-la-bataille-de-lelectrique_646199",
-   "n_members": 37,
+   "title": "Guerre en Ukraine: l'activité des bots russes réduite après des frappes sur des data centers en Russie?",
+   "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-un-robot-terrestre-ukrainien-parvient-a-detruire-un-drone-kamikaze-russe-au-cours-dun-rare-combat-filme-08-10-2026-KQBNFUWSRBBM3CWZM7DAFKTD4E.php",
+   "n_members": 38,
    "n_sources": 19,
    "counts": {
-    "left": 5,
-    "centre": 8,
-    "right": 6
+    "left": 4,
+    "centre": 10,
+    "right": 5
    },
    "style_counts": {
-    "factuel": 9,
+    "factuel": 12,
     "mixte": 6,
-    "opinion": 4
+    "opinion": 1
    },
-   "blindspot_score": 0.091,
+   "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.541,
-   "category": "sport",
+   "divergence": 0.909,
+   "category": "international",
    "terms_left": [
-    "chine",
-    "constructeurs européens",
-    "paris"
+    "week-end",
+    "qu",
+    "glucksmann"
    ],
    "terms_right": [
-    "chinois",
-    "prix",
-    "retour"
+    "drones",
+    "guerre",
+    "ukraine"
    ]
   },
   {
@@ -1039,6 +1077,28 @@
    "terms_right": []
   },
   {
+   "title": "Tickets-resto : les députés votent leur utilisation durable en supermarché",
+   "url": "https://lcp.fr/actualites/courses-alimentaires-avec-les-tickets-restaurant-vers-la-perennisation-du-dispositif-et",
+   "n_members": 30,
+   "n_sources": 18,
+   "counts": {
+    "left": 1,
+    "centre": 9,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 4,
+    "opinion": 2
+   },
+   "blindspot_score": 0.778,
+   "blindspot_for": "gauche",
+   "divergence": null,
+   "category": "économie",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
    "title": "Allô le doc : Grippe et Covid, coup d'envoi de la vaccination",
    "url": "https://www.tf1info.fr/sante/le-virus-est-probablement-en-train-de-se-saisonnaliser-faut-il-s-inquieter-du-rebond-automnal-du-covid-19-2466042.html",
    "n_members": 44,
@@ -1055,7 +1115,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.778,
+   "divergence": 0.779,
    "category": "société",
    "terms_left": [
     "fifa",
@@ -1107,7 +1167,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.484,
+   "divergence": 0.485,
    "category": "environnement",
    "terms_left": [
     "entraîné",
@@ -1119,58 +1179,6 @@
     "année",
     "jusqu"
    ]
-  },
-  {
-   "title": "Un séisme de magnitude 7,7 touche le Panama, une alerte au tsunami émise à l’est du Pacifique",
-   "url": "https://www.france24.com/fr/am%C3%A9riques/20261009-panama-un-s%C3%A9isme-de-magnitude-8-provoque-la-panique-dans-la-capitale",
-   "n_members": 31,
-   "n_sources": 17,
-   "counts": {
-    "left": 2,
-    "centre": 10,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 3,
-    "opinion": 2
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": 0.497,
-   "category": "international",
-   "terms_left": [
-    "état",
-    "terre",
-    "tremblement terre"
-   ],
-   "terms_right": [
-    "puissant séisme",
-    "puissant",
-    "panama"
-   ]
-  },
-  {
-   "title": "Titres-restaurant : vers une réduction du plafond en supermarché au profit des restaurateurs ?",
-   "url": "https://lcp.fr/actualites/courses-alimentaires-avec-les-tickets-restaurant-vers-la-perennisation-du-dispositif-et",
-   "n_members": 27,
-   "n_sources": 17,
-   "counts": {
-    "left": 1,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 3,
-    "opinion": 2
-   },
-   "blindspot_score": 0.75,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "économie",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
