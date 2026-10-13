@@ -1,13 +1,13 @@
 {
  "week": "2026-W42",
- "generated_at": "2026-10-13T09:37:34+00:00",
+ "generated_at": "2026-10-13T17:16:21+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "EN DIRECT - Mouvement lycéen : blocages à Paris, des manifestations s'élancent en régions",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 1065,
+   "n_members": 1085,
    "n_sources": 42,
    "counts": {
     "left": 13,
@@ -21,12 +21,12 @@
    },
    "blindspot_score": -0.04,
    "blindspot_for": null,
-   "divergence": 0.277,
+   "divergence": 0.271,
    "category": "société",
    "terms_left": [
     "direct",
-    "mobilisation",
-    "mouvement lycéen"
+    "mouvement lycéen",
+    "répression"
    ],
    "terms_right": [
     "blocus",
@@ -35,9 +35,9 @@
    ]
   },
   {
-   "title": "Comment « le Nouvel Obs » a traité l’affaire Thélyson Orélien",
+   "title": "\"Des erreurs inacceptables\" : Thélyson Orélien reconnaît des plagiats dans les années 2010, mais conteste l'usage de l'IA dans son roman \"C'était ça ou mourir\"",
    "url": "https://www.nouvelobs.com/bibliobs/20260920.OBS118426/thelyson-orelien-le-phenomene-de-la-rentree-litteraire-je-ne-tiens-pas-mon-crayon-avec-ma-tete-mais-avec-mes-tripes.html",
-   "n_members": 208,
+   "n_members": 209,
    "n_sources": 41,
    "counts": {
     "left": 11,
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.168,
+   "divergence": 0.169,
    "category": "culture",
    "terms_left": [
     "affaire",
@@ -127,7 +127,7 @@
   {
    "title": "Ukraine : Trump annonce un cessez-le-feu énergétique pour faire baisser les prix aux États-Unis",
    "url": "https://fr.euronews.com/2026/10/05/les-exportations-de-petrole-du-moyen-orient-reviennent-a-leur-niveau-davant-guerre-sans-li",
-   "n_members": 221,
+   "n_members": 224,
    "n_sources": 32,
    "counts": {
     "left": 7,
@@ -141,17 +141,17 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.251,
+   "divergence": 0.265,
    "category": "international",
    "terms_left": [
+    "diesel",
     "direct guerre",
-    "gazole",
-    "etats-unis"
+    "direct"
    ],
    "terms_right": [
-    "temps",
-    "temps ukraine",
-    "donald"
+    "pétrole",
+    "élections",
+    "temps ukraine"
    ]
   },
   {
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.365,
+   "divergence": 0.364,
    "category": "international",
    "terms_left": [
     "soupçon",
@@ -185,9 +185,39 @@
    ]
   },
   {
+   "title": "Les réfrigérateurs de centaines de supermarchés français victimes d'une cyberattaque",
+   "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-magasins-systeme-u-et-intermarche-touches-par-une-cyberattaque-contre-leurs-installations-frigorifiques_8233720.html",
+   "n_members": 78,
+   "n_sources": 31,
+   "counts": {
+    "left": 7,
+    "centre": 15,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 13,
+    "opinion": 1
+   },
+   "blindspot_score": 0.125,
+   "blindspot_for": null,
+   "divergence": 0.367,
+   "category": "économie",
+   "terms_left": [
+    "frigos",
+    "cyberattaque frigos",
+    "centaines supermarchés"
+   ],
+   "terms_right": [
+    "magasins",
+    "distance",
+    "euros"
+   ]
+  },
+  {
    "title": "Primaire socialiste : Raphaël Glucksmann élu dès le premier tour avec 66% des voix",
    "url": "https://www.liberation.fr/politique/elections/jerome-guedj-candidat-a-la-primaire-sociale-democrate-le-ps-creve-de-ses-ambiguites-20261003_HNVYH3XILJECVIJUXZNV4FGCCI/",
-   "n_members": 169,
+   "n_members": 171,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -210,38 +240,8 @@
    ],
    "terms_right": [
     "victoire",
-    "primaire",
-    "raphaël glucksmann"
-   ]
-  },
-  {
-   "title": "Les réfrigérateurs de centaines de supermarchés français victimes d'une cyberattaque",
-   "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-magasins-systeme-u-et-intermarche-touches-par-une-cyberattaque-contre-leurs-installations-frigorifiques_8233720.html",
-   "n_members": 67,
-   "n_sources": 30,
-   "counts": {
-    "left": 7,
-    "centre": 14,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 13,
-    "opinion": 1
-   },
-   "blindspot_score": 0.125,
-   "blindspot_for": null,
-   "divergence": 0.37,
-   "category": "économie",
-   "terms_left": [
-    "enquête",
-    "visant installations",
-    "frigos"
-   ],
-   "terms_right": [
-    "euros",
-    "distance",
-    "magasins"
+    "raphaël glucksmann",
+    "raphaël"
    ]
   },
   {
@@ -275,9 +275,9 @@
    ]
   },
   {
-   "title": "Le budget 2027 retoqué en commission à quelques jours du débat à l’Assemblée",
+   "title": "Budget 2027 : en quoi consiste la motion de rejet préalable défendue par les socialistes ce mardi soir ?",
    "url": "https://www.lefigaro.fr/politique/budget-2027-les-deputes-socialistes-ont-le-doigt-sur-le-bouton-de-la-censure-20260930",
-   "n_members": 105,
+   "n_members": 111,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -291,23 +291,23 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.559,
+   "divergence": 0.536,
    "category": "politique",
    "terms_left": [
-    "hémicycle",
-    "gauche",
-    "présidentielle"
+    "texte",
+    "préalable",
+    "rejeté"
    ],
    "terms_right": [
     "euros",
     "budget",
-    "effort"
+    "partie recettes"
    ]
   },
   {
-   "title": "EN DIRECT, guerre en Ukraine : Emmanuel Macron exprime sa « solidarité » à Volodymyr Zelensky « face aux attaques en cours »",
+   "title": "EN DIRECT, guerre en Ukraine : à Kiev, une attaque de drone russe contre un immeuble fait un mort et onze blessés",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 313,
+   "n_members": 314,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -326,18 +326,48 @@
    "terms_left": [
     "blessés",
     "direct",
-    "russie"
+    "ville"
    ],
    "terms_right": [
-    "frappe russe",
     "frappe",
+    "frappe russe",
     "alerte"
+   ]
+  },
+  {
+   "title": "DIRECT. Un principal et une enseignante blessés par des tirs de fusil de chasse dans un collège d'Aubagne, un adolescent interpellé",
+   "url": "https://www.nicematin.com/societe/defense/marine/un-incendie-se-declare-a-bord-du-porte-avions-charles-de-gaulle-dans-le-port-de-toulon-10735372",
+   "n_members": 115,
+   "n_sources": 28,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 6
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.25,
+   "category": "société",
+   "terms_left": [
+    "jeune",
+    "collège lakanal",
+    "jeune ans"
+   ],
+   "terms_right": [
+    "blessés",
+    "collège aubagne",
+    "élève"
    ]
   },
   {
    "title": "Blocus des lycées : d'où viennent les 3.000 professeurs déployés dans les établissements «problématiques» ?",
    "url": "https://www.lefigaro.fr/actualite-france/remplacement-des-profs-reforme-du-bac-parcoursup-edouard-geffray-paie-les-pots-casses-des-quinquennats-macron-20261006",
-   "n_members": 77,
+   "n_members": 81,
    "n_sources": 28,
    "counts": {
     "left": 5,
@@ -351,11 +381,11 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.54,
+   "divergence": 0.526,
    "category": "société",
    "terms_left": [
-    "mobilisation",
     "ministre",
+    "mobilisation",
     "ministre éducation"
    ],
    "terms_right": [
@@ -365,39 +395,9 @@
    ]
   },
   {
-   "title": "DIRECT. Un principal et une enseignante blessés par des tirs de fusil de chasse dans un collège d'Aubagne, un adolescent interpellé",
-   "url": "https://www.nicematin.com/societe/defense/marine/un-incendie-se-declare-a-bord-du-porte-avions-charles-de-gaulle-dans-le-port-de-toulon-10735372",
-   "n_members": 95,
-   "n_sources": 27,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 6
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.265,
-   "category": "société",
-   "terms_left": [
-    "jeune ans",
-    "blessé principal",
-    "jeune"
-   ],
-   "terms_right": [
-    "établissement",
-    "blessés",
-    "professeure blessés"
-   ]
-  },
-  {
    "title": "Blocus des lycées : le mouvement approuvé par 54% des Français, selon un sondage",
    "url": "https://www.tf1info.fr/societe/verif-les-lyceens-francais-ont-ils-de-plus-d-heures-de-cours-que-leurs-voisins-europeens-2467690.html",
-   "n_members": 67,
+   "n_members": 68,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.882,
+   "divergence": 0.883,
    "category": "société",
    "terms_left": [
     "mobilisation lycéenne",
@@ -425,9 +425,9 @@
    ]
   },
   {
-   "title": "Donald Trump s'indigne à nouveau de ne pas avoir reçu le prix Nobel de la paix",
+   "title": "La Sud-Africaine Navi Pillay, prix Nobel de la paix, est “la mauvaise conscience des va-t-en-guerre”",
    "url": "https://www.tf1info.fr/international/prix-nobel-de-la-paix-2026-tout-sauf-donald-trump-2468767.html",
-   "n_members": 56,
+   "n_members": 57,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -441,12 +441,12 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.162,
+   "divergence": 0.163,
    "category": "international",
    "terms_left": [
-    "navanethem pillay",
     "avocate",
-    "navanethem"
+    "avocate sud-africaine",
+    "navanethem pillay"
    ],
    "terms_right": [
     "nobel",
@@ -457,7 +457,7 @@
   {
    "title": "Frappes à l’aéroport de Ryad : Ce que l’on sait de l’attaque attribuées aux Houthis en Arabie Saoudite",
    "url": "https://www.lefigaro.fr/international/guerre-en-iran-teheran-affirme-avoir-saisi-un-drone-sous-marin-americain-20260927",
-   "n_members": 157,
+   "n_members": 163,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.388,
+   "divergence": 0.377,
    "category": "international",
    "terms_left": [
     "houthistes",
@@ -479,15 +479,15 @@
     "attaques"
    ],
    "terms_right": [
-    "houthis",
     "aéroport ryad",
-    "aéroport"
+    "ryad",
+    "attaque"
    ]
   },
   {
-   "title": "De retour sur la Terre ferme, l'astronaute Sophie Adenot est passée par \"toutes les émotions\"",
+   "title": "«On n’est pas prêt pour aller sur Mars», estime l'astronaute Sophie Adenot",
    "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/fin-de-mission-en-vue-pour-sophie-adenot-qui-s-apprete-a-quitter-l-iss-apres-plus-de-sept-mois-dans-l-espace_8216980.html",
-   "n_members": 136,
+   "n_members": 143,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -501,23 +501,23 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.129,
+   "divergence": 0.13,
    "category": "sciences-tech",
    "terms_left": [
-    "astronaute sophie",
     "reporté",
-    "bord"
+    "astronaute sophie",
+    "bord iss"
    ],
    "terms_right": [
-    "française",
     "astronaute française",
-    "espace"
+    "française",
+    "mission"
    ]
   },
   {
-   "title": "Des pesticides autorisés à vie ? Au Parlement européen, la droite et l’extrême droite s’apprêtent à brader notre santé",
+   "title": "Des scientifiques établissent la liste des 17 principales menaces pesant sur la santé humaine d’ici à 2100",
    "url": "https://reporterre.net/Pesticides-a-vie-la-carte-des-mobilisations-en-France-les-10-et-11-octobre",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 26,
    "counts": {
     "left": 8,
@@ -531,17 +531,47 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.714,
+   "divergence": 0.711,
    "category": "environnement",
    "terms_left": [
-    "guerre",
+    "vie",
     "scientifiques",
-    "vie"
+    "humanité"
    ],
    "terms_right": [
-    "ia",
     "police",
+    "menaces",
     "mobilisation"
+   ]
+  },
+  {
+   "title": "☕️ États-Unis : le projet de diffusion de l’exécution d’un condamné à mort largement critiqué",
+   "url": "https://www.france24.com/fr/am%C3%A9riques/20261006-fusillade-fort-hood-donald-trump-approuve-mise-a-mort-tireur-peloton-d-execution",
+   "n_members": 67,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.328,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "diffuser",
+    "diffusion"
+   ],
+   "terms_right": [
+    "états-unis",
+    "diffusée direct",
+    "diffusée"
    ]
   },
   {
@@ -591,7 +621,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.866,
+   "divergence": 0.859,
    "category": "société",
    "terms_left": [
     "temps",
@@ -605,9 +635,9 @@
    ]
   },
   {
-   "title": "Inde: New Delhi verrouillé, arrestation du chef du Parti du peuple des cafards et de centaines de manifestants",
+   "title": "Inde: les chefs du mouvement des \"cafards\" remis en liberté, appels à de nouvelles manifestations",
    "url": "https://www.bfmtv.com/police-justice/mobilisation-lyceenne-deux-adolescentes-blessees-au-dos-et-a-l-oreille-apres-des-tirs-de-mortiers-au-blanc-mesnil_AN-202610060640.html",
-   "n_members": 79,
+   "n_members": 80,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -621,12 +651,12 @@
    },
    "blindspot_score": -0.2,
    "blindspot_for": null,
-   "divergence": 0.775,
+   "divergence": 0.762,
    "category": "société",
    "terms_left": [
-    "police",
-    "manifestation",
-    "mouvement"
+    "manifestations lycéennes",
+    "lycéennes",
+    "lycéen"
    ],
    "terms_right": [
     "policier",
@@ -635,33 +665,63 @@
    ]
   },
   {
-   "title": "États-Unis : Nidal Hasan, auteur d’un attentat, va-t-il être exécuté en direct et en public ? Face aux réactions indignées, Donald Trump sème le doute",
-   "url": "https://www.france24.com/fr/am%C3%A9riques/20261006-fusillade-fort-hood-donald-trump-approuve-mise-a-mort-tireur-peloton-d-execution",
-   "n_members": 65,
+   "title": "Violences sexistes et sexuelles : la proposition de loi «intégrale» adoptée à l'unanimité à l'Assemblée",
+   "url": "https://next.ink/259150/discord-accusee-detre-un-terrain-de-chasse-de-mineurs-et-de-ne-pas-les-proteger/",
+   "n_members": 79,
    "n_sources": 24,
    "counts": {
-    "left": 5,
+    "left": 6,
     "centre": 12,
-    "right": 7
+    "right": 6
    },
    "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 4
+    "factuel": 11,
+    "mixte": 10,
+    "opinion": 3
    },
-   "blindspot_score": 0.167,
+   "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.318,
-   "category": "international",
+   "divergence": 0.607,
+   "category": "société",
    "terms_left": [
-    "etats-unis",
-    "veut",
-    "diffusion"
+    "femmes",
+    "rane",
+    "rohan rane"
    ],
    "terms_right": [
-    "états-unis",
-    "diffusée direct",
-    "diffusée"
+    "sexistes",
+    "violences sexistes",
+    "proposition loi"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : Gabriel Attal et Édouard Philippe appellent au rassemblement, mais chacun dans son couloir",
+   "url": "https://www.franceinfo.fr/politique/edouard-philippe/appel-a-temoignages-posez-vos-questions-a-edouard-philippe-invite-de-l-heure-de-verite_8224003.html",
+   "n_members": 61,
+   "n_sources": 24,
+   "counts": {
+    "left": 7,
+    "centre": 9,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.721,
+   "category": "politique",
+   "terms_left": [
+    "edouard",
+    "edouard philippe",
+    "heure"
+   ],
+   "terms_right": [
+    "édouard philippe",
+    "édouard",
+    "qu"
    ]
   },
   {
@@ -681,7 +741,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.207,
+   "divergence": 0.202,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -692,6 +752,36 @@
     "états-unis",
     "ratée christa",
     "prison"
+   ]
+  },
+  {
+   "title": "Guerre en Ukraine: l'activité des bots russes réduite après des frappes sur des data centers en Russie?",
+   "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-un-robot-terrestre-ukrainien-parvient-a-detruire-un-drone-kamikaze-russe-au-cours-dun-rare-combat-filme-08-10-2026-KQBNFUWSRBBM3CWZM7DAFKTD4E.php",
+   "n_members": 60,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 1
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.846,
+   "category": "international",
+   "terms_left": [
+    "week-end",
+    "attaques",
+    "qu"
+   ],
+   "terms_right": [
+    "guerre",
+    "russes",
+    "drones"
    ]
   },
   {
@@ -719,9 +809,69 @@
     "ice"
    ],
    "terms_right": [
-    "maduro épouse",
     "nicolas maduro",
+    "maduro épouse",
     "maduro"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : Bruno Retailleau promet des économies de près de 200 milliards d'euros jusqu'en 2032",
+   "url": "https://www.bvoltaire.fr/en-israel-bruno-retailleau-denonce-lantisemitisme-desinhibe-de-la-france-insoumise/",
+   "n_members": 39,
+   "n_sources": 23,
+   "counts": {
+    "left": 3,
+    "centre": 10,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 5,
+    "opinion": 4
+   },
+   "blindspot_score": 0.538,
+   "blindspot_for": null,
+   "divergence": 0.759,
+   "category": "politique",
+   "terms_left": [
+    "ans",
+    "russes",
+    "europe"
+   ],
+   "terms_right": [
+    "euros",
+    "bruno retailleau",
+    "bruno"
+   ]
+  },
+  {
+   "title": "La question du jour. Présidentielle 2027 : pensez-vous que les jeunes vont peser sur le résultat de l’élection ?",
+   "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/le-pays-risque-d-etre-etrangle-par-les-taux-d-interet-l-avertissement-du-gouverneur-de-la-banque-de-france-si-les-finances-publiques-ne-sont-pas-assainies_AV-202610050805.html",
+   "n_members": 66,
+   "n_sources": 22,
+   "counts": {
+    "left": 3,
+    "centre": 8,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.571,
+   "blindspot_for": null,
+   "divergence": 0.483,
+   "category": "politique",
+   "terms_left": [
+    "mouvement",
+    "crise lycéenne",
+    "pacte jeunesse"
+   ],
+   "terms_right": [
+    "gabriel attal",
+    "attal",
+    "gabriel"
    ]
   },
   {
@@ -741,23 +891,23 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.688,
+   "divergence": 0.689,
    "category": "économie",
    "terms_left": [
     "ukraine",
-    "commerciale",
-    "guerre"
+    "compromis",
+    "commerciale"
    ],
    "terms_right": [
     "hybrides",
     "véhicules",
-    "qu"
+    "macron"
    ]
   },
   {
    "title": "Mondial de l'Auto : retour des constructeurs historiques, les marques chinoises en force... Les enjeux de l'édition 2026",
    "url": "https://www.challenges.fr/automobile/mondial-de-lauto-face-a-loffensive-chinoise-lindustrie-automobile-europeenne-prepare-sa-riposte-pour-ne-pas-perdre-la-bataille-de-lelectrique_646199",
-   "n_members": 44,
+   "n_members": 45,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -771,23 +921,23 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.529,
+   "divergence": 0.542,
    "category": "sport",
    "terms_left": [
     "constructeurs européens",
     "chine",
-    "français"
+    "modèles"
    ],
    "terms_right": [
     "chinois",
-    "marché",
-    "mondial auto"
+    "automobile",
+    "marché"
    ]
   },
   {
    "title": "Jean-Luc Mélenchon rassemble 10.000 personnes à Clermont-Ferrand",
    "url": "https://www.europe1.fr/societe/parcoursup-met-en-place-un-tri-raciste-et-social-cest-totalement-faux-repond-le-delegue-national-de-luni-1132004",
-   "n_members": 41,
+   "n_members": 43,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -801,18 +951,40 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.725,
+   "divergence": 0.721,
    "category": "société",
    "terms_left": [
     "ans",
-    "lycéen",
-    "mobilisation"
+    "mobilisation",
+    "gauche"
    ],
    "terms_right": [
     "parcoursup",
     "france",
     "lycéens"
    ]
+  },
+  {
+   "title": "Après trois attaques au couteau en quatre jours, la Pologne mobilise 20.000 policiers autour de ses écoles",
+   "url": "https://fr.euronews.com/2026/10/02/californie-deux-morts-deux-blesses-et-un-disparu-dans-le-crash-dun-helicoptere-medical",
+   "n_members": 63,
+   "n_sources": 21,
+   "counts": {
+    "left": 2,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 4,
+    "opinion": 3
+   },
+   "blindspot_score": 0.556,
+   "blindspot_for": null,
+   "divergence": 0.829,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Élections au Québec: mais pour qui ont voté nos cousins exactement?",
@@ -837,61 +1009,9 @@
    "terms_right": []
   },
   {
-   "title": "Loi intégrale contre les violences sexuelles : l’intégrité du texte « préservée » avant le vote solennel",
-   "url": "https://next.ink/259150/discord-accusee-detre-un-terrain-de-chasse-de-mineurs-et-de-ne-pas-les-proteger/",
-   "n_members": 69,
-   "n_sources": 20,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": -0.25,
-   "blindspot_for": null,
-   "divergence": 0.734,
-   "category": "société",
-   "terms_left": [
-    "femmes",
-    "rane",
-    "rohan"
-   ],
-   "terms_right": [
-    "sexistes",
-    "examen",
-    "loi violences"
-   ]
-  },
-  {
-   "title": "Pologne: après deux attaques au couteau dans des écoles, les autorités appellent au calme",
-   "url": "https://fr.euronews.com/2026/10/02/californie-deux-morts-deux-blesses-et-un-disparu-dans-le-crash-dun-helicoptere-medical",
-   "n_members": 61,
-   "n_sources": 20,
-   "counts": {
-    "left": 2,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 4,
-    "opinion": 3
-   },
-   "blindspot_score": 0.556,
-   "blindspot_for": null,
-   "divergence": 0.829,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Paul Seixas remporte le Tour de Lombardie, premier Monument de sa carrière",
+   "title": "Revanchard après les mondiaux, Paul Seixas s'offre le Tour de Lombardie",
    "url": "https://www.ladepeche.fr/2026/10/07/le-timing-est-desastreux-juste-avant-sa-derniere-course-paul-seixas-prend-de-gros-risques-lors-dune-demonstration-de-bmx-trial-13588442.php",
-   "n_members": 49,
+   "n_members": 50,
    "n_sources": 20,
    "counts": {
     "left": 4,
@@ -907,51 +1027,13 @@
    "blindspot_for": null,
    "divergence": 0.349,
    "category": "sport",
-   "terms_left": [
-    "italie",
-    "pogacar",
-    "seixas remporte"
-   ],
-   "terms_right": [
-    "victoire",
-    "paul",
-    "seulement ans"
-   ]
+   "terms_left": [],
+   "terms_right": []
   },
   {
-   "title": "Guerre en Ukraine: l'activité des bots russes réduite après des frappes sur des data centers en Russie?",
-   "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-un-robot-terrestre-ukrainien-parvient-a-detruire-un-drone-kamikaze-russe-au-cours-dun-rare-combat-filme-08-10-2026-KQBNFUWSRBBM3CWZM7DAFKTD4E.php",
-   "n_members": 42,
-   "n_sources": 20,
-   "counts": {
-    "left": 4,
-    "centre": 10,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 1
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.908,
-   "category": "international",
-   "terms_left": [
-    "week-end",
-    "qu",
-    "glucksmann"
-   ],
-   "terms_right": [
-    "drones",
-    "guerre",
-    "russes"
-   ]
-  },
-  {
-   "title": "Cambriolage au musée Renoir à Cagnes-sur-Mer : les tableaux retrouvés vont être examinés après leur vol",
+   "title": "Cagnes-sur-Mer : le «principal suspect» du cambriolage du musée Renoir mis en examen",
    "url": "https://www.franceinfo.fr/faits-divers/six-personnes-placees-en-garde-a-vue-dont-les-deux-cambrioleurs-presumes-du-musee-renoir-de-cagnes-sur-mer_8227180.html",
-   "n_members": 41,
+   "n_members": 42,
    "n_sources": 20,
    "counts": {
     "left": 3,
@@ -965,7 +1047,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.324,
+   "divergence": 0.312,
    "category": "faits-divers",
    "terms_left": [
     "cambriolage",
@@ -976,6 +1058,36 @@
     "volés",
     "retrouvés",
     "renoir"
+   ]
+  },
+  {
+   "title": "Tickets-resto : les députés votent leur utilisation durable en supermarché",
+   "url": "https://lcp.fr/actualites/courses-alimentaires-avec-les-tickets-restaurant-vers-la-perennisation-du-dispositif-et",
+   "n_members": 38,
+   "n_sources": 20,
+   "counts": {
+    "left": 2,
+    "centre": 10,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 5,
+    "opinion": 2
+   },
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": 0.746,
+   "category": "économie",
+   "terms_left": [
+    "produits alimentaires",
+    "produits",
+    "distribution"
+   ],
+   "terms_right": [
+    "utilisation",
+    "députés",
+    "titres-restaurant"
    ]
   },
   {
@@ -1005,37 +1117,35 @@
    "terms_right": [
     "zelensky",
     "qu",
-    "volodymyr zelensky"
+    "volodymyr"
    ]
   },
   {
-   "title": "Tickets-resto : les députés votent leur utilisation durable en supermarché",
-   "url": "https://lcp.fr/actualites/courses-alimentaires-avec-les-tickets-restaurant-vers-la-perennisation-du-dispositif-et",
-   "n_members": 36,
+   "title": "Tempête Isaias : au moins quatre morts dans le sud des États-Unis",
+   "url": "https://information.tv5monde.com/international/le-chef-du-pentagone-visite-un-porte-avions-revenu-du-moyen-orient-apres-des-tentatives-de-suicide-bord-2840650",
+   "n_members": 61,
    "n_sources": 19,
    "counts": {
     "left": 2,
-    "centre": 9,
-    "right": 8
+    "centre": 12,
+    "right": 5
    },
    "style_counts": {
-    "factuel": 12,
-    "mixte": 5,
-    "opinion": 2
+    "factuel": 14,
+    "mixte": 4,
+    "opinion": 1
    },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": 0.748,
-   "category": "économie",
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.732,
+   "category": "international",
    "terms_left": [
-    "produits alimentaires",
-    "produits",
-    "distribution"
+    "etats-unis"
    ],
    "terms_right": [
-    "députés",
-    "utilisation",
-    "supermarché"
+    "états-unis",
+    "personnes",
+    "homme"
    ]
   },
   {
@@ -1055,121 +1165,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.674,
+   "divergence": 0.715,
    "category": "environnement",
    "terms_left": [
     "début",
-    "service début",
-    "castres"
+    "toulouse",
+    "personnes"
    ],
    "terms_right": [
     "cambounet-sur-le-sor",
     "opposants",
-    "sud"
-   ]
-  },
-  {
-   "title": "Le pape Léon XIV annonce qu'il va être opéré d'un nodule au poumon détecté \"à un stade très précoce\"",
-   "url": "https://www.lefigaro.fr/actualite-france/le-pape-leon-xiv-annonce-qu-il-va-etre-opere-d-un-nodule-pulmonaire-20261011",
-   "n_members": 37,
-   "n_sources": 18,
-   "counts": {
-    "left": 1,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 3,
-    "opinion": 3
-   },
-   "blindspot_score": 0.75,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Présidentielle 2027 : Bruno Retailleau promet des économies de près de 200 milliards d'euros jusqu'en 2032",
-   "url": "https://www.bvoltaire.fr/en-israel-bruno-retailleau-denonce-lantisemitisme-desinhibe-de-la-france-insoumise/",
-   "n_members": 29,
-   "n_sources": 18,
-   "counts": {
-    "left": 2,
-    "centre": 7,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.636,
-   "blindspot_for": "gauche",
-   "divergence": 0.75,
-   "category": "politique",
-   "terms_left": [
-    "ans",
-    "france",
-    "euros économies"
-   ],
-   "terms_right": [
-    "bruno retailleau",
-    "bruno",
-    "euros"
-   ]
-  },
-  {
-   "title": "Tempête Isaias : au moins quatre morts dans le sud des États-Unis",
-   "url": "https://information.tv5monde.com/international/le-chef-du-pentagone-visite-un-porte-avions-revenu-du-moyen-orient-apres-des-tentatives-de-suicide-bord-2840650",
-   "n_members": 55,
-   "n_sources": 17,
-   "counts": {
-    "left": 2,
-    "centre": 11,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 3,
-    "opinion": 1
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Vaccination contre la grippe et le Covid-19 : ce qu'il faut savoir sur la nouvelle campagne qui commence ce mardi",
-   "url": "https://www.tf1info.fr/sante/le-virus-est-probablement-en-train-de-se-saisonnaliser-faut-il-s-inquieter-du-rebond-automnal-du-covid-19-2466042.html",
-   "n_members": 48,
-   "n_sources": 17,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 5,
-    "opinion": 1
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.785,
-   "category": "société",
-   "terms_left": [
-    "fifa",
-    "désinformation",
-    "macron"
-   ],
-   "terms_right": [
-    "vaccination",
-    "covid",
-    "campagne"
+    "mobilisation"
    ]
   }
  ]
