@@ -1,13 +1,13 @@
 {
  "week": "2026-W42",
- "generated_at": "2026-10-14T05:38:12+00:00",
+ "generated_at": "2026-10-14T10:51:35+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "EN DIRECT - Mouvement lycéen : blocages à Paris, des manifestations s'élancent en régions",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 1104,
+   "n_members": 1117,
    "n_sources": 42,
    "counts": {
     "left": 13,
@@ -21,12 +21,12 @@
    },
    "blindspot_score": -0.04,
    "blindspot_for": null,
-   "divergence": 0.268,
+   "divergence": 0.269,
    "category": "société",
    "terms_left": [
     "direct",
-    "mouvement",
-    "répression"
+    "mouvement lycéen",
+    "mouvement"
    ],
    "terms_right": [
     "blocus",
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.169,
+   "divergence": 0.17,
    "category": "culture",
    "terms_left": [
     "affaire",
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.1,
    "blindspot_for": null,
-   "divergence": 0.175,
+   "divergence": 0.174,
    "category": "politique",
    "terms_left": [
     "antisémites jordan",
@@ -127,7 +127,7 @@
   {
    "title": "Ukraine : Trump annonce un cessez-le-feu énergétique pour faire baisser les prix aux États-Unis",
    "url": "https://fr.euronews.com/2026/10/05/les-exportations-de-petrole-du-moyen-orient-reviennent-a-leur-niveau-davant-guerre-sans-li",
-   "n_members": 231,
+   "n_members": 233,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -141,83 +141,83 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.281,
+   "divergence": 0.285,
    "category": "international",
    "terms_left": [
     "direct guerre",
-    "gazole",
+    "direct",
     "diesel"
    ],
    "terms_right": [
     "élections",
-    "pétrole",
+    "qu",
     "donald trump"
    ]
   },
   {
    "title": "Les réfrigérateurs de centaines de supermarchés français victimes d'une cyberattaque",
    "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-magasins-systeme-u-et-intermarche-touches-par-une-cyberattaque-contre-leurs-installations-frigorifiques_8233720.html",
-   "n_members": 90,
-   "n_sources": 32,
+   "n_members": 97,
+   "n_sources": 34,
    "counts": {
     "left": 7,
-    "centre": 16,
+    "centre": 18,
     "right": 9
    },
    "style_counts": {
-    "factuel": 18,
+    "factuel": 20,
     "mixte": 13,
     "opinion": 1
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.389,
+   "divergence": 0.39,
    "category": "économie",
    "terms_left": [
     "frigos",
-    "centaines supermarchés",
+    "frigos supermarchés",
     "cyberattaque frigos"
    ],
    "terms_right": [
     "magasins",
     "distance",
-    "euros"
+    "grande"
    ]
   },
   {
-   "title": "Peste en Russie : L’OMS attend toujours le diagnostic de la personne décédée",
+   "title": "Peste ou pneumonie « indéterminée » ? Dix jours après la mort d’une laborantine en Russie, pourquoi le mystère persiste",
    "url": "https://www.ouest-france.fr/europe/russie/une-technicienne-de-laboratoire-meurt-de-la-peste-en-siberie-des-dizaines-de-personnes-placees-en-quarantaine-439cfea6-bea5-11f1-b7db-555e86a524f6",
-   "n_members": 112,
-   "n_sources": 31,
+   "n_members": 113,
+   "n_sources": 32,
    "counts": {
     "left": 5,
     "centre": 17,
-    "right": 9
+    "right": 10
    },
    "style_counts": {
     "factuel": 19,
     "mixte": 8,
-    "opinion": 4
+    "opinion": 5
    },
-   "blindspot_score": 0.286,
+   "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.361,
+   "divergence": 0.363,
    "category": "international",
    "terms_left": [
     "soupçon",
     "soupçon peste",
-    "mesures"
+    "laborantine"
    ],
    "terms_right": [
+    "oms",
     "cas",
-    "trump",
-    "oms"
+    "trump"
    ]
   },
   {
    "title": "Primaire socialiste : Raphaël Glucksmann élu dès le premier tour avec 66% des voix",
    "url": "https://www.liberation.fr/politique/elections/jerome-guedj-candidat-a-la-primaire-sociale-democrate-le-ps-creve-de-ses-ambiguites-20261003_HNVYH3XILJECVIJUXZNV4FGCCI/",
-   "n_members": 173,
+   "n_members": 174,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -247,7 +247,7 @@
   {
    "title": "Budget 2027: les débats démarrent à l'Assemblée nationale, la motion de rejet du PS largement repoussée",
    "url": "https://www.lefigaro.fr/politique/budget-2027-les-deputes-socialistes-ont-le-doigt-sur-le-bouton-de-la-censure-20260930",
-   "n_members": 122,
+   "n_members": 126,
    "n_sources": 30,
    "counts": {
     "left": 8,
@@ -261,23 +261,23 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.503,
+   "divergence": 0.501,
    "category": "politique",
    "terms_left": [
     "texte",
     "dette",
-    "hémicycle"
+    "préalable"
    ],
    "terms_right": [
-    "budget",
     "euros",
-    "partie recettes"
+    "budget",
+    "assemblée nationale"
    ]
   },
   {
    "title": "Prix du gazole : Lecornu assure que la baisse sera visible «dès le 1er novembre»",
    "url": "https://www.bfmtv.com/economie/entreprises/energie/des-cargaisons-annulees-a-la-derniere-minute-pekin-qui-n-autorise-plus-les-exportations-de-carburants-la-chine-ferme-brutalement-le-robinet-le-petrole-repasse-au-dessus-des-100-dollars_AV-202610010661.html",
-   "n_members": 137,
+   "n_members": 138,
    "n_sources": 29,
    "counts": {
     "left": 5,
@@ -291,12 +291,12 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.325,
+   "divergence": 0.326,
    "category": "économie",
    "terms_left": [
     "pression",
-    "gazole mis",
-    "trump"
+    "espère",
+    "gazole mis"
    ],
    "terms_right": [
     "sébastien lecornu",
@@ -305,9 +305,39 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine : nouvelles frappes de la Russie contre des infrastructures énergétiques à Kiev, six morts",
+   "title": "DIRECT. Un principal et une enseignante blessés par des tirs de fusil de chasse dans un collège d'Aubagne, un adolescent interpellé",
+   "url": "https://www.nicematin.com/societe/defense/marine/un-incendie-se-declare-a-bord-du-porte-avions-charles-de-gaulle-dans-le-port-de-toulon-10735372",
+   "n_members": 122,
+   "n_sources": 29,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 6
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.246,
+   "category": "société",
+   "terms_left": [
+    "jeune",
+    "collège lakanal",
+    "jeune ans"
+   ],
+   "terms_right": [
+    "blessés",
+    "collège aubagne",
+    "élève"
+   ]
+  },
+  {
+   "title": "Guerre en Ukraine: frappes russes meurtrières, des infrastructures énergétiques touchées à Kiev",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 318,
+   "n_members": 331,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -335,39 +365,9 @@
    ]
   },
   {
-   "title": "DIRECT. Un principal et une enseignante blessés par des tirs de fusil de chasse dans un collège d'Aubagne, un adolescent interpellé",
-   "url": "https://www.nicematin.com/societe/defense/marine/un-incendie-se-declare-a-bord-du-porte-avions-charles-de-gaulle-dans-le-port-de-toulon-10735372",
-   "n_members": 118,
-   "n_sources": 28,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 6
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.246,
-   "category": "société",
-   "terms_left": [
-    "jeune",
-    "collège lakanal",
-    "jeune ans"
-   ],
-   "terms_right": [
-    "blessés",
-    "collège aubagne",
-    "élève"
-   ]
-  },
-  {
-   "title": "Blocus des lycées : d'où viennent les 3.000 professeurs déployés dans les établissements «problématiques» ?",
+   "title": "Colère des lycéens : Où sont les 3.000 professeurs remplaçants annoncés en renfort ?",
    "url": "https://www.lefigaro.fr/actualite-france/remplacement-des-profs-reforme-du-bac-parcoursup-edouard-geffray-paie-les-pots-casses-des-quinquennats-macron-20261006",
-   "n_members": 82,
+   "n_members": 86,
    "n_sources": 28,
    "counts": {
     "left": 5,
@@ -381,17 +381,47 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.526,
+   "divergence": 0.533,
    "category": "société",
    "terms_left": [
-    "ministre",
     "mobilisation",
-    "ministre éducation"
+    "ministre",
+    "mobilisation lycéenne"
    ],
    "terms_right": [
     "professeurs",
     "professeurs remplaçants",
     "lycées"
+   ]
+  },
+  {
+   "title": "Mobilisations lycéennes : « La grande majorité des mineurs placés en garde à vue étaient âgés de 15 ou 16 ans », déclare Laure Beccuau",
+   "url": "https://www.tf1info.fr/societe/verif-les-lyceens-francais-ont-ils-de-plus-d-heures-de-cours-que-leurs-voisins-europeens-2467690.html",
+   "n_members": 70,
+   "n_sources": 28,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 9,
+    "opinion": 7
+   },
+   "blindspot_score": 0.294,
+   "blindspot_for": null,
+   "divergence": 0.874,
+   "category": "société",
+   "terms_left": [
+    "mobilisation lycéenne",
+    "lycéenne",
+    "mobilisation"
+   ],
+   "terms_right": [
+    "lycées",
+    "français",
+    "mouvement"
    ]
   },
   {
@@ -411,12 +441,12 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.62,
+   "divergence": 0.589,
    "category": "société",
    "terms_left": [
     "qu",
     "violences",
-    "lycéenne"
+    "lycée"
    ],
    "terms_right": [
     "lycéen",
@@ -427,7 +457,7 @@
   {
    "title": "Violences sexistes et sexuelles : la proposition de loi «intégrale» adoptée à l'unanimité à l'Assemblée",
    "url": "https://next.ink/259150/discord-accusee-detre-un-terrain-de-chasse-de-mineurs-et-de-ne-pas-les-proteger/",
-   "n_members": 94,
+   "n_members": 100,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -441,53 +471,53 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.532,
+   "divergence": 0.475,
    "category": "société",
    "terms_left": [
-    "rane",
-    "rohan",
-    "rohan rane"
+    "femmes",
+    "rohan rane",
+    "rohan"
    ],
    "terms_right": [
     "sexistes",
     "violences sexistes",
-    "sexistes sexuelles"
+    "proposition loi"
    ]
   },
   {
-   "title": "Mobilisations lycéennes : « La grande majorité des mineurs placés en garde à vue étaient âgés de 15 ou 16 ans », déclare Laure Beccuau",
-   "url": "https://www.tf1info.fr/societe/verif-les-lyceens-francais-ont-ils-de-plus-d-heures-de-cours-que-leurs-voisins-europeens-2467690.html",
-   "n_members": 69,
+   "title": "La Russie dit avoir livré pour 320 milliards de dollars d'hydrocarbures à l'Europe depuis 2022",
+   "url": "https://www.bvoltaire.fr/en-israel-bruno-retailleau-denonce-lantisemitisme-desinhibe-de-la-france-insoumise/",
+   "n_members": 63,
    "n_sources": 27,
    "counts": {
-    "left": 5,
-    "centre": 11,
+    "left": 3,
+    "centre": 13,
     "right": 11
    },
    "style_counts": {
-    "factuel": 12,
-    "mixte": 9,
-    "opinion": 6
+    "factuel": 17,
+    "mixte": 5,
+    "opinion": 5
    },
-   "blindspot_score": 0.375,
+   "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.885,
-   "category": "société",
+   "divergence": 0.735,
+   "category": "international",
    "terms_left": [
-    "mobilisation lycéenne",
-    "mobilisation",
-    "lycéenne"
+    "ukraine",
+    "guerre",
+    "ans"
    ],
    "terms_right": [
-    "lycéens",
-    "français",
-    "lycées"
+    "euros",
+    "bruno retailleau",
+    "bruno"
    ]
   },
   {
-   "title": "La Sud-Africaine Navi Pillay, prix Nobel de la paix, est “la mauvaise conscience des va-t-en-guerre”",
+   "title": "Navi Pillay, prix Nobel de la paix : l'accusation de génocide contre Israël \"repose sur des faits\"",
    "url": "https://www.tf1info.fr/international/prix-nobel-de-la-paix-2026-tout-sauf-donald-trump-2468767.html",
-   "n_members": 57,
+   "n_members": 58,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -515,9 +545,9 @@
    ]
   },
   {
-   "title": "Les Houthis renouvellent leurs menaces contre les aéroports saoudiens, au lendemain de l'attaque meurtrière à Ryad",
+   "title": "Arabie saoudite : les Houthis revendiquent plusieurs frappes contre l'aéroport de Riyad",
    "url": "https://www.lefigaro.fr/international/guerre-en-iran-teheran-affirme-avoir-saisi-un-drone-sous-marin-americain-20260927",
-   "n_members": 174,
+   "n_members": 179,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -531,23 +561,23 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.353,
+   "divergence": 0.366,
    "category": "international",
    "terms_left": [
     "houthistes",
-    "attaques houthistes",
-    "attaques"
+    "attaques",
+    "attaques houthistes"
    ],
    "terms_right": [
+    "attaque",
     "aéroport ryad",
-    "meurtrière",
     "ryad"
    ]
   },
   {
    "title": "«On n’est pas prêt pour aller sur Mars», estime l'astronaute Sophie Adenot",
    "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/fin-de-mission-en-vue-pour-sophie-adenot-qui-s-apprete-a-quitter-l-iss-apres-plus-de-sept-mois-dans-l-espace_8216980.html",
-   "n_members": 144,
+   "n_members": 145,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -561,17 +591,47 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.13,
+   "divergence": 0.132,
    "category": "sciences-tech",
    "terms_left": [
-    "reporté",
     "astronaute sophie",
+    "reporté",
     "adenot astronaute"
    ],
    "terms_right": [
     "astronaute française",
     "française",
-    "mission"
+    "espace"
+   ]
+  },
+  {
+   "title": "Blocus lycéen : Emmanuel Macron déplore que les « angoisses légitimes » des jeunes soient « exploitées politiquement »",
+   "url": "https://www.leparisien.fr/paris-75/pour-que-vous-puissiez-vous-reunir-debattre-le-maire-de-paris-emmanuel-gregoire-ouvre-les-portes-des-mairies-aux-lyceens-mobilises-06-10-2026-GJIFXJBXHFGJPDW5PCZM2XUP6Y.php",
+   "n_members": 65,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.839,
+   "category": "société",
+   "terms_left": [
+    "temps",
+    "élèves",
+    "saint-denis"
+   ],
+   "terms_right": [
+    "violences",
+    "lycéenne",
+    "emmanuel"
    ]
   },
   {
@@ -591,7 +651,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.709,
+   "divergence": 0.702,
    "category": "environnement",
    "terms_left": [
     "vie",
@@ -601,37 +661,7 @@
    "terms_right": [
     "police",
     "mobilisation",
-    "menaces"
-   ]
-  },
-  {
-   "title": "La Russie dit avoir livré pour 320 milliards de dollars d'hydrocarbures à l'Europe depuis 2022",
-   "url": "https://www.bvoltaire.fr/en-israel-bruno-retailleau-denonce-lantisemitisme-desinhibe-de-la-france-insoumise/",
-   "n_members": 60,
-   "n_sources": 26,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 5,
-    "opinion": 5
-   },
-   "blindspot_score": 0.571,
-   "blindspot_for": null,
-   "divergence": 0.74,
-   "category": "international",
-   "terms_left": [
-    "ukraine",
-    "guerre",
-    "ans"
-   ],
-   "terms_right": [
-    "euros",
-    "bruno retailleau",
-    "bruno"
+    "cause"
    ]
   },
   {
@@ -665,36 +695,6 @@
    ]
   },
   {
-   "title": "«Ce n’est plus un mouvement lycéen, c’est un début de guerre civile», pointe Nicolas Dupont-Aignan",
-   "url": "https://www.leparisien.fr/paris-75/pour-que-vous-puissiez-vous-reunir-debattre-le-maire-de-paris-emmanuel-gregoire-ouvre-les-portes-des-mairies-aux-lyceens-mobilises-06-10-2026-GJIFXJBXHFGJPDW5PCZM2XUP6Y.php",
-   "n_members": 61,
-   "n_sources": 25,
-   "counts": {
-    "left": 6,
-    "centre": 10,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 9,
-    "opinion": 5
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.839,
-   "category": "société",
-   "terms_left": [
-    "temps",
-    "élèves",
-    "saint-denis"
-   ],
-   "terms_right": [
-    "france",
-    "président",
-    "présidentielle"
-   ]
-  },
-  {
    "title": "La police démantèle un \"lookup\", un moteur de recherche illicite qui revend des données personnelles volées",
    "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/dans-les-hauts-de-france-deux-prestataires-de-la-region-pirates-les-donnees-personnelles-de-plusieurs-milliers-de-personnes-ont-ete-volees_8221441.html",
    "n_members": 60,
@@ -725,6 +725,36 @@
    ]
   },
   {
+   "title": "Mondial de l'Auto : ventes de voitures électriques, concurrence chinoise... Cartographie du marché automobile en France",
+   "url": "https://www.challenges.fr/automobile/mondial-de-lauto-face-a-loffensive-chinoise-lindustrie-automobile-europeenne-prepare-sa-riposte-pour-ne-pas-perdre-la-bataille-de-lelectrique_646199",
+   "n_members": 51,
+   "n_sources": 25,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.576,
+   "category": "sport",
+   "terms_left": [
+    "électriques",
+    "voitures électriques",
+    "voitures"
+   ],
+   "terms_right": [
+    "chinoises",
+    "chinois",
+    "mondial auto"
+   ]
+  },
+  {
    "title": "Inde: les chefs du mouvement des \"cafards\" remis en liberté, appels à de nouvelles manifestations",
    "url": "https://www.bfmtv.com/police-justice/mobilisation-lyceenne-deux-adolescentes-blessees-au-dos-et-a-l-oreille-apres-des-tirs-de-mortiers-au-blanc-mesnil_AN-202610060640.html",
    "n_members": 80,
@@ -741,12 +771,12 @@
    },
    "blindspot_score": -0.2,
    "blindspot_for": null,
-   "divergence": 0.767,
+   "divergence": 0.766,
    "category": "société",
    "terms_left": [
     "manifestations lycéennes",
-    "lycéennes",
-    "lycéen"
+    "manifestation",
+    "lycéennes"
    ],
    "terms_right": [
     "policier",
@@ -785,9 +815,9 @@
    ]
   },
   {
-   "title": "Jean-Luc Mélenchon rassemble 10.000 personnes à Clermont-Ferrand",
+   "title": "« Ignominie » Parcoursup, soutien du mouvement lycéen, droit de vote à 16 ans… À Clermont-Ferrand, Jean-Luc Mélenchon se tourne vers la jeunesse",
    "url": "https://www.europe1.fr/societe/parcoursup-met-en-place-un-tri-raciste-et-social-cest-totalement-faux-repond-le-delegue-national-de-luni-1132004",
-   "n_members": 47,
+   "n_members": 49,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -801,17 +831,47 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.71,
-   "category": "société",
+   "divergence": 0.723,
+   "category": "politique",
    "terms_left": [
-    "ans",
-    "mobilisation",
-    "lycéen"
+    "lycéen",
+    "mouvement",
+    "mouvement lycéen"
    ],
    "terms_right": [
     "parcoursup",
+    "france",
+    "lycéens"
+   ]
+  },
+  {
+   "title": "Crise lycéenne : Greta Thunberg aux côtés des manifestants à Saint-Denis",
+   "url": "https://www.ladepeche.fr/2026/10/09/colere-des-lyceens-flashs-blancs-et-verts-effet-stroboscopique-a-quoi-servent-ces-boucliers-lumineux-utilises-par-la-police-13592059.php",
+   "n_members": 46,
+   "n_sources": 24,
+   "counts": {
+    "left": 8,
+    "centre": 9,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": -0.067,
+   "blindspot_for": null,
+   "divergence": 0.539,
+   "category": "société",
+   "terms_left": [
     "lycéens",
-    "france"
+    "mobilisés",
+    "seine-saint-denis"
+   ],
+   "terms_right": [
+    "qu",
+    "lycéenne",
+    "lycéen"
    ]
   },
   {
@@ -891,17 +951,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.852,
+   "divergence": 0.856,
    "category": "international",
    "terms_left": [
+    "russe",
     "week-end",
-    "attaques",
     "qu"
    ],
    "terms_right": [
-    "russes",
+    "ukraine",
     "guerre",
-    "ukraine"
+    "frappes"
    ]
   },
   {
@@ -929,39 +989,9 @@
     "ice"
    ],
    "terms_right": [
-    "maduro épouse",
     "nicolas maduro",
+    "maduro épouse",
     "maduro"
-   ]
-  },
-  {
-   "title": "Mondial de l'Auto : ventes de voitures électriques, concurrence chinoise... Cartographie du marché automobile en France",
-   "url": "https://www.challenges.fr/automobile/mondial-de-lauto-face-a-loffensive-chinoise-lindustrie-automobile-europeenne-prepare-sa-riposte-pour-ne-pas-perdre-la-bataille-de-lelectrique_646199",
-   "n_members": 48,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.527,
-   "category": "sport",
-   "terms_left": [
-    "constructeurs européens",
-    "chine",
-    "paris"
-   ],
-   "terms_right": [
-    "chinois",
-    "marché",
-    "marques chinoises"
    ]
   },
   {
@@ -981,7 +1011,7 @@
    },
    "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.479,
+   "divergence": 0.48,
    "category": "politique",
    "terms_left": [
     "mouvement",
@@ -1025,9 +1055,9 @@
    ]
   },
   {
-   "title": "Crise lycéenne : Greta Thunberg aux côtés des manifestants à Saint-Denis",
-   "url": "https://www.ladepeche.fr/2026/10/09/colere-des-lyceens-flashs-blancs-et-verts-effet-stroboscopique-a-quoi-servent-ces-boucliers-lumineux-utilises-par-la-police-13592059.php",
-   "n_members": 44,
+   "title": "Présidentielle 2027 : Raphaël Glucksmann, vainqueur de la primaire à gauche, doit désormais mettre la famille sociale-démocrate en ordre de bataille",
+   "url": "https://www.liberation.fr/politique/elections/primaire-sociale-democrate-raphael-glucksmann-se-sent-favori-de-pied-en-cap-clair-20261009_DJUNKU53WJCU3NLYFGJJ4P2Z24/",
+   "n_members": 53,
    "n_sources": 22,
    "counts": {
     "left": 6,
@@ -1035,23 +1065,23 @@
     "right": 7
    },
    "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 4
+    "factuel": 10,
+    "mixte": 9,
+    "opinion": 3
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.536,
-   "category": "société",
+   "divergence": 0.531,
+   "category": "politique",
    "terms_left": [
-    "seine-saint-denis",
-    "monde",
-    "lycéens"
+    "candidat",
+    "sociale-démocrate",
+    "place publique"
    ],
    "terms_right": [
+    "france",
     "qu",
-    "lycéen",
-    "lycéenne"
+    "chemin"
    ]
   },
   {
@@ -1077,36 +1107,6 @@
    "terms_right": []
   },
   {
-   "title": "Présidentielle 2027 : Raphaël Glucksmann, vainqueur de la primaire à gauche, doit désormais mettre la famille sociale-démocrate en ordre de bataille",
-   "url": "https://www.liberation.fr/politique/elections/primaire-sociale-democrate-raphael-glucksmann-se-sent-favori-de-pied-en-cap-clair-20261009_DJUNKU53WJCU3NLYFGJJ4P2Z24/",
-   "n_members": 49,
-   "n_sources": 21,
-   "counts": {
-    "left": 5,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.561,
-   "category": "politique",
-   "terms_left": [
-    "candidat",
-    "ps",
-    "sociale-démocrate"
-   ],
-   "terms_right": [
-    "france",
-    "qu",
-    "chemin"
-   ]
-  },
-  {
    "title": "Élections au Québec: mais pour qui ont voté nos cousins exactement?",
    "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261002-%C3%A9lections-g%C3%A9n%C3%A9rales-au-qu%C3%A9bec-le-parti-souverainiste-en-t%C3%AAte-des-intentions-de-vote",
    "n_members": 42,
@@ -1129,9 +1129,39 @@
    "terms_right": []
   },
   {
+   "title": "Lycéen éborgné à Tours : un policier mis en examen pour violences aggravées",
+   "url": "https://www.lefigaro.fr/actualite-france/faites-vous-confiance-au-gouvernement-pour-mettre-fin-rapidement-au-mouvement-lyceen-20261006",
+   "n_members": 39,
+   "n_sources": 21,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": -0.2,
+   "blindspot_for": null,
+   "divergence": 0.734,
+   "category": "société",
+   "terms_left": [
+    "mobilisation",
+    "mouvement",
+    "ministre"
+   ],
+   "terms_right": [
+    "policier",
+    "éborgné",
+    "ans"
+   ]
+  },
+  {
    "title": "Léon XIV hospitalisé à Rome : le pape opéré du poumon ce mardi après-midi",
    "url": "https://www.lefigaro.fr/actualite-france/le-pape-leon-xiv-annonce-qu-il-va-etre-opere-d-un-nodule-pulmonaire-20261011",
-   "n_members": 60,
+   "n_members": 67,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -1145,40 +1175,18 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.37,
+   "divergence": 0.334,
    "category": "international",
    "terms_left": [
-    "opération pape",
-    "xiv hospitalisé",
-    "qu"
+    "mois",
+    "pontificat",
+    "retiré"
    ],
    "terms_right": [
     "pape léon",
     "opéré",
-    "léon xiv"
+    "pulmonaire"
    ]
-  },
-  {
-   "title": "Revanchard après les mondiaux, Paul Seixas s'offre le Tour de Lombardie",
-   "url": "https://www.ladepeche.fr/2026/10/07/le-timing-est-desastreux-juste-avant-sa-derniere-course-paul-seixas-prend-de-gros-risques-lors-dune-demonstration-de-bmx-trial-13588442.php",
-   "n_members": 50,
-   "n_sources": 20,
-   "counts": {
-    "left": 4,
-    "centre": 10,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.349,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
