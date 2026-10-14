@@ -1,13 +1,13 @@
 {
  "week": "2026-W42",
- "generated_at": "2026-10-14T00:45:43+00:00",
+ "generated_at": "2026-10-14T05:38:12+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "EN DIRECT - Mouvement lycéen : blocages à Paris, des manifestations s'élancent en régions",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 1100,
+   "n_members": 1104,
    "n_sources": 42,
    "counts": {
     "left": 13,
@@ -21,12 +21,12 @@
    },
    "blindspot_score": -0.04,
    "blindspot_for": null,
-   "divergence": 0.271,
+   "divergence": 0.268,
    "category": "société",
    "terms_left": [
     "direct",
     "mouvement",
-    "mouvement lycéen"
+    "répression"
    ],
    "terms_right": [
     "blocus",
@@ -127,7 +127,7 @@
   {
    "title": "Ukraine : Trump annonce un cessez-le-feu énergétique pour faire baisser les prix aux États-Unis",
    "url": "https://fr.euronews.com/2026/10/05/les-exportations-de-petrole-du-moyen-orient-reviennent-a-leur-niveau-davant-guerre-sans-li",
-   "n_members": 230,
+   "n_members": 231,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -141,23 +141,23 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.265,
+   "divergence": 0.281,
    "category": "international",
    "terms_left": [
-    "diesel",
     "direct guerre",
-    "gazole"
+    "gazole",
+    "diesel"
    ],
    "terms_right": [
-    "pétrole",
     "élections",
-    "temps ukraine"
+    "pétrole",
+    "donald trump"
    ]
   },
   {
    "title": "Les réfrigérateurs de centaines de supermarchés français victimes d'une cyberattaque",
    "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-magasins-systeme-u-et-intermarche-touches-par-une-cyberattaque-contre-leurs-installations-frigorifiques_8233720.html",
-   "n_members": 85,
+   "n_members": 90,
    "n_sources": 32,
    "counts": {
     "left": 7,
@@ -171,12 +171,12 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.388,
+   "divergence": 0.389,
    "category": "économie",
    "terms_left": [
     "frigos",
-    "cyberattaque frigos",
-    "centaines supermarchés"
+    "centaines supermarchés",
+    "cyberattaque frigos"
    ],
    "terms_right": [
     "magasins",
@@ -217,7 +217,7 @@
   {
    "title": "Primaire socialiste : Raphaël Glucksmann élu dès le premier tour avec 66% des voix",
    "url": "https://www.liberation.fr/politique/elections/jerome-guedj-candidat-a-la-primaire-sociale-democrate-le-ps-creve-de-ses-ambiguites-20261003_HNVYH3XILJECVIJUXZNV4FGCCI/",
-   "n_members": 172,
+   "n_members": 173,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -245,9 +245,9 @@
    ]
   },
   {
-   "title": "Budget 2027 : en quoi consiste la motion de rejet préalable défendue par les socialistes ce mardi soir ?",
+   "title": "Budget 2027: les débats démarrent à l'Assemblée nationale, la motion de rejet du PS largement repoussée",
    "url": "https://www.lefigaro.fr/politique/budget-2027-les-deputes-socialistes-ont-le-doigt-sur-le-bouton-de-la-censure-20260930",
-   "n_members": 116,
+   "n_members": 122,
    "n_sources": 30,
    "counts": {
     "left": 8,
@@ -261,23 +261,23 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.522,
+   "divergence": 0.503,
    "category": "politique",
    "terms_left": [
     "texte",
-    "hémicycle",
-    "présidentielle"
+    "dette",
+    "hémicycle"
    ],
    "terms_right": [
-    "euros",
     "budget",
+    "euros",
     "partie recettes"
    ]
   },
   {
-   "title": "Carburant : Sébastien Lecornu assure que les prix du gazole baisseront «dès le 1er novembre»",
+   "title": "Prix du gazole : Lecornu assure que la baisse sera visible «dès le 1er novembre»",
    "url": "https://www.bfmtv.com/economie/entreprises/energie/des-cargaisons-annulees-a-la-derniere-minute-pekin-qui-n-autorise-plus-les-exportations-de-carburants-la-chine-ferme-brutalement-le-robinet-le-petrole-repasse-au-dessus-des-100-dollars_AV-202610010661.html",
-   "n_members": 136,
+   "n_members": 137,
    "n_sources": 29,
    "counts": {
     "left": 5,
@@ -305,9 +305,9 @@
    ]
   },
   {
-   "title": "EN DIRECT, guerre en Ukraine : à Kiev, une attaque de drone russe contre un immeuble fait un mort et onze blessés",
+   "title": "Guerre en Ukraine : nouvelles frappes de la Russie contre des infrastructures énergétiques à Kiev, six morts",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-17-septembre-2026-8802320",
-   "n_members": 314,
+   "n_members": 318,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.337,
+   "divergence": 0.336,
    "category": "international",
    "terms_left": [
     "blessés",
@@ -337,7 +337,7 @@
   {
    "title": "DIRECT. Un principal et une enseignante blessés par des tirs de fusil de chasse dans un collège d'Aubagne, un adolescent interpellé",
    "url": "https://www.nicematin.com/societe/defense/marine/un-incendie-se-declare-a-bord-du-porte-avions-charles-de-gaulle-dans-le-port-de-toulon-10735372",
-   "n_members": 117,
+   "n_members": 118,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -351,8 +351,8 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.247,
-   "category": "faits-divers",
+   "divergence": 0.246,
+   "category": "société",
    "terms_left": [
     "jeune",
     "collège lakanal",
@@ -427,7 +427,7 @@
   {
    "title": "Violences sexistes et sexuelles : la proposition de loi «intégrale» adoptée à l'unanimité à l'Assemblée",
    "url": "https://next.ink/259150/discord-accusee-detre-un-terrain-de-chasse-de-mineurs-et-de-ne-pas-les-proteger/",
-   "n_members": 93,
+   "n_members": 94,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -441,12 +441,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.531,
+   "divergence": 0.532,
    "category": "société",
    "terms_left": [
-    "rohan rane",
+    "rane",
     "rohan",
-    "rane"
+    "rohan rane"
    ],
    "terms_right": [
     "sexistes",
@@ -455,9 +455,9 @@
    ]
   },
   {
-   "title": "Blocus des lycées : le mouvement approuvé par 54% des Français, selon un sondage",
+   "title": "Mobilisations lycéennes : « La grande majorité des mineurs placés en garde à vue étaient âgés de 15 ou 16 ans », déclare Laure Beccuau",
    "url": "https://www.tf1info.fr/societe/verif-les-lyceens-francais-ont-ils-de-plus-d-heures-de-cours-que-leurs-voisins-europeens-2467690.html",
-   "n_members": 68,
+   "n_members": 69,
    "n_sources": 27,
    "counts": {
     "left": 5,
@@ -515,9 +515,9 @@
    ]
   },
   {
-   "title": "Frappes à l’aéroport de Ryad : Ce que l’on sait de l’attaque attribuées aux Houthis en Arabie Saoudite",
+   "title": "Les Houthis renouvellent leurs menaces contre les aéroports saoudiens, au lendemain de l'attaque meurtrière à Ryad",
    "url": "https://www.lefigaro.fr/international/guerre-en-iran-teheran-affirme-avoir-saisi-un-drone-sous-marin-americain-20260927",
-   "n_members": 170,
+   "n_members": 174,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -531,17 +531,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.358,
+   "divergence": 0.353,
    "category": "international",
    "terms_left": [
     "houthistes",
-    "saoudienne",
+    "attaques houthistes",
     "attaques"
    ],
    "terms_right": [
     "aéroport ryad",
-    "ryad",
-    "meurtrière"
+    "meurtrière",
+    "ryad"
    ]
   },
   {
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.708,
+   "divergence": 0.709,
    "category": "environnement",
    "terms_left": [
     "vie",
@@ -602,6 +602,36 @@
     "police",
     "mobilisation",
     "menaces"
+   ]
+  },
+  {
+   "title": "La Russie dit avoir livré pour 320 milliards de dollars d'hydrocarbures à l'Europe depuis 2022",
+   "url": "https://www.bvoltaire.fr/en-israel-bruno-retailleau-denonce-lantisemitisme-desinhibe-de-la-france-insoumise/",
+   "n_members": 60,
+   "n_sources": 26,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 5,
+    "opinion": 5
+   },
+   "blindspot_score": 0.571,
+   "blindspot_for": null,
+   "divergence": 0.74,
+   "category": "international",
+   "terms_left": [
+    "ukraine",
+    "guerre",
+    "ans"
+   ],
+   "terms_right": [
+    "euros",
+    "bruno retailleau",
+    "bruno"
    ]
   },
   {
@@ -651,7 +681,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.84,
+   "divergence": 0.839,
    "category": "société",
    "terms_left": [
     "temps",
@@ -681,7 +711,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.808,
+   "divergence": 0.809,
    "category": "environnement",
    "terms_left": [
     "lecornu",
@@ -692,36 +722,6 @@
     "personnes",
     "région",
     "cyberattaque"
-   ]
-  },
-  {
-   "title": "La Réunion : Emmanuel Macron annonce l’arraisonnement d’un pétrolier suspecté d’appartenir à la flotte fantôme russe",
-   "url": "https://www.bvoltaire.fr/en-israel-bruno-retailleau-denonce-lantisemitisme-desinhibe-de-la-france-insoumise/",
-   "n_members": 54,
-   "n_sources": 25,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 5,
-    "opinion": 5
-   },
-   "blindspot_score": 0.571,
-   "blindspot_for": null,
-   "divergence": 0.69,
-   "category": "politique",
-   "terms_left": [
-    "ans",
-    "images",
-    "europe"
-   ],
-   "terms_right": [
-    "euros",
-    "bruno retailleau",
-    "bruno"
    ]
   },
   {
@@ -771,7 +771,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.723,
+   "divergence": 0.72,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -782,6 +782,36 @@
     "édouard philippe",
     "édouard",
     "qu"
+   ]
+  },
+  {
+   "title": "Jean-Luc Mélenchon rassemble 10.000 personnes à Clermont-Ferrand",
+   "url": "https://www.europe1.fr/societe/parcoursup-met-en-place-un-tri-raciste-et-social-cest-totalement-faux-repond-le-delegue-national-de-luni-1132004",
+   "n_members": 47,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 10,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 7,
+    "opinion": 5
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.71,
+   "category": "société",
+   "terms_left": [
+    "ans",
+    "mobilisation",
+    "lycéen"
+   ],
+   "terms_right": [
+    "parcoursup",
+    "lycéens",
+    "france"
    ]
   },
   {
@@ -840,14 +870,14 @@
    ],
    "terms_right": [
     "bagayoko",
-    "bally",
-    "bally bagayoko"
+    "bally bagayoko",
+    "bally"
    ]
   },
   {
    "title": "Guerre en Ukraine: l'activité des bots russes réduite après des frappes sur des data centers en Russie?",
    "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-un-robot-terrestre-ukrainien-parvient-a-detruire-un-drone-kamikaze-russe-au-cours-dun-rare-combat-filme-08-10-2026-KQBNFUWSRBBM3CWZM7DAFKTD4E.php",
-   "n_members": 61,
+   "n_members": 62,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -905,9 +935,9 @@
    ]
   },
   {
-   "title": "Mondial de l'Auto : retour des constructeurs historiques, les marques chinoises en force... Les enjeux de l'édition 2026",
+   "title": "Mondial de l'Auto : ventes de voitures électriques, concurrence chinoise... Cartographie du marché automobile en France",
    "url": "https://www.challenges.fr/automobile/mondial-de-lauto-face-a-loffensive-chinoise-lindustrie-automobile-europeenne-prepare-sa-riposte-pour-ne-pas-perdre-la-bataille-de-lelectrique_646199",
-   "n_members": 47,
+   "n_members": 48,
    "n_sources": 23,
    "counts": {
     "left": 5,
@@ -921,47 +951,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.546,
+   "divergence": 0.527,
    "category": "sport",
    "terms_left": [
     "constructeurs européens",
     "chine",
-    "modèles"
+    "paris"
    ],
    "terms_right": [
     "chinois",
-    "automobile",
-    "marché"
-   ]
-  },
-  {
-   "title": "Jean-Luc Mélenchon rassemble 10.000 personnes à Clermont-Ferrand",
-   "url": "https://www.europe1.fr/societe/parcoursup-met-en-place-un-tri-raciste-et-social-cest-totalement-faux-repond-le-delegue-national-de-luni-1132004",
-   "n_members": 45,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 9,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 5
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": 0.72,
-   "category": "société",
-   "terms_left": [
-    "ans",
-    "mobilisation",
-    "gauche"
-   ],
-   "terms_right": [
-    "parcoursup",
-    "france",
-    "lycéens"
+    "marché",
+    "marques chinoises"
    ]
   },
   {
@@ -981,7 +981,7 @@
    },
    "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.481,
+   "divergence": 0.479,
    "category": "politique",
    "terms_left": [
     "mouvement",
@@ -1027,7 +1027,7 @@
   {
    "title": "Crise lycéenne : Greta Thunberg aux côtés des manifestants à Saint-Denis",
    "url": "https://www.ladepeche.fr/2026/10/09/colere-des-lyceens-flashs-blancs-et-verts-effet-stroboscopique-a-quoi-servent-ces-boucliers-lumineux-utilises-par-la-police-13592059.php",
-   "n_members": 41,
+   "n_members": 44,
    "n_sources": 22,
    "counts": {
     "left": 6,
@@ -1041,17 +1041,17 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.529,
+   "divergence": 0.536,
    "category": "société",
    "terms_left": [
-    "lycéens",
+    "seine-saint-denis",
     "monde",
-    "paris"
+    "lycéens"
    ],
    "terms_right": [
-    "saint-denis",
-    "manifestants",
-    "paul-éluard"
+    "qu",
+    "lycéen",
+    "lycéenne"
    ]
   },
   {
@@ -1079,7 +1079,7 @@
   {
    "title": "Présidentielle 2027 : Raphaël Glucksmann, vainqueur de la primaire à gauche, doit désormais mettre la famille sociale-démocrate en ordre de bataille",
    "url": "https://www.liberation.fr/politique/elections/primaire-sociale-democrate-raphael-glucksmann-se-sent-favori-de-pied-en-cap-clair-20261009_DJUNKU53WJCU3NLYFGJJ4P2Z24/",
-   "n_members": 46,
+   "n_members": 49,
    "n_sources": 21,
    "counts": {
     "left": 5,
@@ -1093,17 +1093,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.568,
+   "divergence": 0.561,
    "category": "politique",
    "terms_left": [
+    "candidat",
     "ps",
-    "sociale-démocrate",
-    "campagne"
+    "sociale-démocrate"
    ],
    "terms_right": [
     "france",
     "qu",
-    "homme"
+    "chemin"
    ]
   },
   {
@@ -1131,7 +1131,7 @@
   {
    "title": "Léon XIV hospitalisé à Rome : le pape opéré du poumon ce mardi après-midi",
    "url": "https://www.lefigaro.fr/actualite-france/le-pape-leon-xiv-annonce-qu-il-va-etre-opere-d-un-nodule-pulmonaire-20261011",
-   "n_members": 58,
+   "n_members": 60,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -1145,7 +1145,7 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.372,
+   "divergence": 0.37,
    "category": "international",
    "terms_left": [
     "opération pape",
