@@ -1,13 +1,13 @@
 {
  "week": "2026-W42",
- "generated_at": "2026-10-14T19:51:44+00:00",
+ "generated_at": "2026-10-14T22:51:01+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "EN DIRECT - Mouvement lycéen : blocages à Paris, des manifestations s'élancent en régions",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 1124,
+   "n_members": 1130,
    "n_sources": 43,
    "counts": {
     "left": 13,
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.268,
+   "divergence": 0.266,
    "category": "société",
    "terms_left": [
     "direct",
     "mouvement lycéen",
-    "mouvement"
+    "lycéen"
    ],
    "terms_right": [
     "blocus",
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.17,
+   "divergence": 0.169,
    "category": "culture",
    "terms_left": [
     "affaire",
@@ -127,7 +127,7 @@
   {
    "title": "Ukraine : Trump annonce un cessez-le-feu énergétique pour faire baisser les prix aux États-Unis",
    "url": "https://fr.euronews.com/2026/10/05/les-exportations-de-petrole-du-moyen-orient-reviennent-a-leur-niveau-davant-guerre-sans-li",
-   "n_members": 243,
+   "n_members": 245,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.284,
+   "divergence": 0.281,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -157,7 +157,7 @@
   {
    "title": "Les réfrigérateurs de centaines de supermarchés français victimes d'une cyberattaque",
    "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-magasins-systeme-u-et-intermarche-touches-par-une-cyberattaque-contre-leurs-installations-frigorifiques_8233720.html",
-   "n_members": 100,
+   "n_members": 101,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -181,7 +181,7 @@
    "terms_right": [
     "magasins",
     "distance",
-    "grande"
+    "euros"
    ]
   },
   {
@@ -231,12 +231,12 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.405,
+   "divergence": 0.4,
    "category": "politique",
    "terms_left": [
     "faure",
-    "jérôme",
-    "guedj"
+    "olivier",
+    "olivier faure"
    ],
    "terms_right": [
     "victoire",
@@ -245,9 +245,39 @@
    ]
   },
   {
+   "title": "DIRECT. Un principal et une enseignante blessés par des tirs de fusil de chasse dans un collège d'Aubagne, un adolescent interpellé",
+   "url": "https://www.nicematin.com/societe/defense/marine/un-incendie-se-declare-a-bord-du-porte-avions-charles-de-gaulle-dans-le-port-de-toulon-10735372",
+   "n_members": 147,
+   "n_sources": 30,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 6
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.26,
+   "category": "société",
+   "terms_left": [
+    "jeune",
+    "collège lakanal",
+    "france"
+   ],
+   "terms_right": [
+    "blessés",
+    "bouches-du-rhône",
+    "élève"
+   ]
+  },
+  {
    "title": "Budget 2027: les débats démarrent à l'Assemblée nationale, la motion de rejet du PS largement repoussée",
    "url": "https://www.lefigaro.fr/politique/budget-2027-les-deputes-socialistes-ont-le-doigt-sur-le-bouton-de-la-censure-20260930",
-   "n_members": 129,
+   "n_members": 130,
    "n_sources": 30,
    "counts": {
     "left": 8,
@@ -261,7 +291,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.491,
+   "divergence": 0.492,
    "category": "politique",
    "terms_left": [
     "dette",
@@ -321,47 +351,17 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.325,
+   "divergence": 0.324,
    "category": "économie",
    "terms_left": [
     "pression",
-    "espère",
-    "gazole mis"
+    "gazole mis",
+    "trump"
    ],
    "terms_right": [
     "sébastien lecornu",
     "sébastien",
     "stocks stratégiques"
-   ]
-  },
-  {
-   "title": "DIRECT. Un principal et une enseignante blessés par des tirs de fusil de chasse dans un collège d'Aubagne, un adolescent interpellé",
-   "url": "https://www.nicematin.com/societe/defense/marine/un-incendie-se-declare-a-bord-du-porte-avions-charles-de-gaulle-dans-le-port-de-toulon-10735372",
-   "n_members": 138,
-   "n_sources": 29,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 9,
-    "opinion": 6
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.264,
-   "category": "société",
-   "terms_left": [
-    "jeune",
-    "collège lakanal",
-    "france"
-   ],
-   "terms_right": [
-    "blessés",
-    "élève",
-    "professeure blessés"
    ]
   },
   {
@@ -385,8 +385,8 @@
    "category": "société",
    "terms_left": [
     "femmes",
-    "rane",
-    "rohan rane"
+    "rohan",
+    "rane"
    ],
    "terms_right": [
     "sexistes",
@@ -545,9 +545,39 @@
    ]
   },
   {
-   "title": "Arabie saoudite : les Houthis revendiquent plusieurs frappes contre l'aéroport de Riyad",
+   "title": "Mondial de l'Auto : ventes de voitures électriques, concurrence chinoise... Cartographie du marché automobile en France",
+   "url": "https://www.challenges.fr/automobile/mondial-de-lauto-face-a-loffensive-chinoise-lindustrie-automobile-europeenne-prepare-sa-riposte-pour-ne-pas-perdre-la-bataille-de-lelectrique_646199",
+   "n_members": 58,
+   "n_sources": 27,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.56,
+   "category": "économie",
+   "terms_left": [
+    "voitures",
+    "électriques",
+    "voitures électriques"
+   ],
+   "terms_right": [
+    "chinois",
+    "marché",
+    "mondial auto"
+   ]
+  },
+  {
+   "title": "Guerre au Moyen-Orient: pourquoi la défense saoudienne peine à repousser les frappes des Houthis",
    "url": "https://www.lefigaro.fr/international/guerre-en-iran-teheran-affirme-avoir-saisi-un-drone-sous-marin-americain-20260927",
-   "n_members": 185,
+   "n_members": 189,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -565,8 +595,8 @@
    "category": "international",
    "terms_left": [
     "houthistes",
-    "saoudienne",
-    "attaques houthistes"
+    "attaques",
+    "royaume"
    ],
    "terms_right": [
     "ryad",
@@ -591,7 +621,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.132,
+   "divergence": 0.131,
    "category": "sciences-tech",
    "terms_left": [
     "astronaute sophie",
@@ -665,6 +695,36 @@
    ]
   },
   {
+   "title": "Parcoursup : rejetée par les lycéens, pourquoi la plate-forme cristallise-t-elle autant les critiques ?",
+   "url": "https://www.europe1.fr/societe/parcoursup-met-en-place-un-tri-raciste-et-social-cest-totalement-faux-repond-le-delegue-national-de-luni-1132004",
+   "n_members": 57,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 10,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.691,
+   "category": "politique",
+   "terms_left": [
+    "lycéen",
+    "mouvement lycéen",
+    "ans"
+   ],
+   "terms_right": [
+    "état",
+    "violences",
+    "vie"
+   ]
+  },
+  {
    "title": "☕️ États-Unis : le projet de diffusion de l’exécution d’un condamné à mort largement critiqué",
    "url": "https://www.france24.com/fr/am%C3%A9riques/20261006-fusillade-fort-hood-donald-trump-approuve-mise-a-mort-tireur-peloton-d-execution",
    "n_members": 68,
@@ -725,9 +785,39 @@
    ]
   },
   {
+   "title": "Présidentielle 2027 : Raphaël Glucksmann, vainqueur de la primaire à gauche, doit désormais mettre la famille sociale-démocrate en ordre de bataille",
+   "url": "https://www.liberation.fr/politique/elections/primaire-sociale-democrate-raphael-glucksmann-se-sent-favori-de-pied-en-cap-clair-20261009_DJUNKU53WJCU3NLYFGJJ4P2Z24/",
+   "n_members": 58,
+   "n_sources": 25,
+   "counts": {
+    "left": 6,
+    "centre": 9,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.428,
+   "category": "politique",
+   "terms_left": [
+    "vainqueur primaire",
+    "candidat",
+    "primaire"
+   ],
+   "terms_right": [
+    "qu",
+    "france",
+    "sud"
+   ]
+  },
+  {
    "title": "Crise lycéenne : Greta Thunberg aux côtés des manifestants à Saint-Denis",
    "url": "https://www.ladepeche.fr/2026/10/09/colere-des-lyceens-flashs-blancs-et-verts-effet-stroboscopique-a-quoi-servent-ces-boucliers-lumineux-utilises-par-la-police-13592059.php",
-   "n_members": 55,
+   "n_members": 57,
    "n_sources": 25,
    "counts": {
     "left": 8,
@@ -752,66 +842,6 @@
     "qu",
     "lycéenne",
     "saint-denis"
-   ]
-  },
-  {
-   "title": "Mondial de l'Auto : ventes de voitures électriques, concurrence chinoise... Cartographie du marché automobile en France",
-   "url": "https://www.challenges.fr/automobile/mondial-de-lauto-face-a-loffensive-chinoise-lindustrie-automobile-europeenne-prepare-sa-riposte-pour-ne-pas-perdre-la-bataille-de-lelectrique_646199",
-   "n_members": 54,
-   "n_sources": 25,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 4
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.555,
-   "category": "économie",
-   "terms_left": [
-    "voitures",
-    "électriques",
-    "voitures électriques"
-   ],
-   "terms_right": [
-    "chinois",
-    "marché",
-    "mondial auto"
-   ]
-  },
-  {
-   "title": "Parcoursup : rejetée par les lycéens, pourquoi la plate-forme cristallise-t-elle autant les critiques ?",
-   "url": "https://www.europe1.fr/societe/parcoursup-met-en-place-un-tri-raciste-et-social-cest-totalement-faux-repond-le-delegue-national-de-luni-1132004",
-   "n_members": 52,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 10,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
-    "opinion": 5
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.679,
-   "category": "politique",
-   "terms_left": [
-    "lycéen",
-    "mouvement lycéen",
-    "supprimer"
-   ],
-   "terms_right": [
-    "mélenchon",
-    "lycées",
-    "vote"
    ]
   },
   {
@@ -899,8 +929,8 @@
     "heure"
    ],
    "terms_right": [
-    "édouard philippe",
     "édouard",
+    "édouard philippe",
     "qu"
    ]
   },
@@ -989,39 +1019,39 @@
     "ice"
    ],
    "terms_right": [
-    "nicolas maduro",
     "maduro épouse",
+    "nicolas maduro",
     "maduro"
    ]
   },
   {
-   "title": "Présidentielle 2027 : Raphaël Glucksmann, vainqueur de la primaire à gauche, doit désormais mettre la famille sociale-démocrate en ordre de bataille",
-   "url": "https://www.liberation.fr/politique/elections/primaire-sociale-democrate-raphael-glucksmann-se-sent-favori-de-pied-en-cap-clair-20261009_DJUNKU53WJCU3NLYFGJJ4P2Z24/",
-   "n_members": 56,
+   "title": "Intelligence artificielle : avec Muse Wonder, Meta dit avoir rattrapé OpenAI et Anthropic et refuse de ralentir",
+   "url": "https://www.bfmtv.com/tech/intelligence-artificielle/elle-utilisait-claude-comme-un-journal-intime-l-ia-d-anthropic-l-a-denoncee-en-signalant-a-la-police-son-intention-de-tirer-sur-les-forces-de-l-ordre_AV-202610060631.html",
+   "n_members": 46,
    "n_sources": 23,
    "counts": {
-    "left": 6,
-    "centre": 9,
-    "right": 8
+    "left": 4,
+    "centre": 14,
+    "right": 5
    },
    "style_counts": {
-    "factuel": 11,
-    "mixte": 9,
-    "opinion": 3
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 0
    },
-   "blindspot_score": 0.143,
+   "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.441,
-   "category": "politique",
+   "divergence": 0.94,
+   "category": "sciences-tech",
    "terms_left": [
-    "candidat",
-    "vainqueur primaire",
-    "primaire"
+    "nouveau",
+    "jeunes",
+    "sécurité"
    ],
    "terms_right": [
-    "qu",
-    "france",
-    "voix"
+    "anthropic",
+    "trump",
+    "police"
    ]
   },
   {
@@ -1087,7 +1117,7 @@
   {
    "title": "Lycéen éborgné à Tours : un policier mis en examen pour violences aggravées",
    "url": "https://www.lefigaro.fr/actualite-france/faites-vous-confiance-au-gouvernement-pour-mettre-fin-rapidement-au-mouvement-lyceen-20261006",
-   "n_members": 49,
+   "n_members": 50,
    "n_sources": 22,
    "counts": {
     "left": 6,
@@ -1101,7 +1131,7 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.719,
+   "divergence": 0.725,
    "category": "société",
    "terms_left": [
     "mobilisation",
@@ -1116,8 +1146,8 @@
   },
   {
    "title": "Tirs dans un collège à Aubagne : qu'est-ce que le mouvement «True Crime Community» auquel pourrait appartenir le suspect ?",
-   "url": "https://www.nicematin.com/societe/terrorisme/une-adhesion-a-la-mouvance-true-crime-community-le-parquet-antiterroriste-se-saisit-de-l-enquete-sur-la-fusillade-au-college-d-aubagne-10740424",
-   "n_members": 33,
+   "url": "https://www.bvoltaire.fr/edito-des-blocus-lyceens-au-college-daubagne-violence-debridee-a-lecole/",
+   "n_members": 35,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -1131,7 +1161,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.353,
+   "divergence": 0.36,
    "category": "société",
    "terms_left": [
     "attaque collège",
@@ -1165,36 +1195,6 @@
    "category": "international",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Intelligence artificielle : avec Muse Wonder, Meta dit avoir rattrapé OpenAI et Anthropic et refuse de ralentir",
-   "url": "https://www.bfmtv.com/tech/intelligence-artificielle/elle-utilisait-claude-comme-un-journal-intime-l-ia-d-anthropic-l-a-denoncee-en-signalant-a-la-police-son-intention-de-tirer-sur-les-forces-de-l-ordre_AV-202610060631.html",
-   "n_members": 44,
-   "n_sources": 21,
-   "counts": {
-    "left": 3,
-    "centre": 13,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 0
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.944,
-   "category": "sciences-tech",
-   "terms_left": [
-    "nouveau",
-    "openai",
-    "sécurité"
-   ],
-   "terms_right": [
-    "anthropic",
-    "trump",
-    "police"
-   ]
   }
  ]
 }
