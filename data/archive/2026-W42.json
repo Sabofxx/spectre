@@ -1,13 +1,13 @@
 {
  "week": "2026-W42",
- "generated_at": "2026-10-13T21:55:58+00:00",
+ "generated_at": "2026-10-14T00:45:43+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "EN DIRECT - Mouvement lycéen : blocages à Paris, des manifestations s'élancent en régions",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 1099,
+   "n_members": 1100,
    "n_sources": 42,
    "counts": {
     "left": 13,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": -0.04,
    "blindspot_for": null,
-   "divergence": 0.272,
+   "divergence": 0.271,
    "category": "société",
    "terms_left": [
     "direct",
@@ -127,7 +127,7 @@
   {
    "title": "Ukraine : Trump annonce un cessez-le-feu énergétique pour faire baisser les prix aux États-Unis",
    "url": "https://fr.euronews.com/2026/10/05/les-exportations-de-petrole-du-moyen-orient-reviennent-a-leur-niveau-davant-guerre-sans-li",
-   "n_members": 229,
+   "n_members": 230,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -157,7 +157,7 @@
   {
    "title": "Les réfrigérateurs de centaines de supermarchés français victimes d'une cyberattaque",
    "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-magasins-systeme-u-et-intermarche-touches-par-une-cyberattaque-contre-leurs-installations-frigorifiques_8233720.html",
-   "n_members": 84,
+   "n_members": 85,
    "n_sources": 32,
    "counts": {
     "left": 7,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.365,
+   "divergence": 0.388,
    "category": "économie",
    "terms_left": [
     "frigos",
@@ -201,12 +201,12 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.364,
+   "divergence": 0.361,
    "category": "international",
    "terms_left": [
     "soupçon",
     "soupçon peste",
-    "laborantine"
+    "mesures"
    ],
    "terms_right": [
     "cas",
@@ -247,7 +247,7 @@
   {
    "title": "Budget 2027 : en quoi consiste la motion de rejet préalable défendue par les socialistes ce mardi soir ?",
    "url": "https://www.lefigaro.fr/politique/budget-2027-les-deputes-socialistes-ont-le-doigt-sur-le-bouton-de-la-censure-20260930",
-   "n_members": 114,
+   "n_members": 116,
    "n_sources": 30,
    "counts": {
     "left": 8,
@@ -427,7 +427,7 @@
   {
    "title": "Violences sexistes et sexuelles : la proposition de loi «intégrale» adoptée à l'unanimité à l'Assemblée",
    "url": "https://next.ink/259150/discord-accusee-detre-un-terrain-de-chasse-de-mineurs-et-de-ne-pas-les-proteger/",
-   "n_members": 92,
+   "n_members": 93,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -517,7 +517,7 @@
   {
    "title": "Frappes à l’aéroport de Ryad : Ce que l’on sait de l’attaque attribuées aux Houthis en Arabie Saoudite",
    "url": "https://www.lefigaro.fr/international/guerre-en-iran-teheran-affirme-avoir-saisi-un-drone-sous-marin-americain-20260927",
-   "n_members": 169,
+   "n_members": 170,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -531,7 +531,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.356,
+   "divergence": 0.358,
    "category": "international",
    "terms_left": [
     "houthistes",
@@ -591,17 +591,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.711,
+   "divergence": 0.708,
    "category": "environnement",
    "terms_left": [
     "vie",
     "scientifiques",
-    "humanité"
+    "guerre"
    ],
    "terms_right": [
     "police",
-    "menaces",
-    "mobilisation"
+    "mobilisation",
+    "menaces"
    ]
   },
   {
@@ -681,7 +681,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.809,
+   "divergence": 0.808,
    "category": "environnement",
    "terms_left": [
     "lecornu",
@@ -692,6 +692,36 @@
     "personnes",
     "région",
     "cyberattaque"
+   ]
+  },
+  {
+   "title": "La Réunion : Emmanuel Macron annonce l’arraisonnement d’un pétrolier suspecté d’appartenir à la flotte fantôme russe",
+   "url": "https://www.bvoltaire.fr/en-israel-bruno-retailleau-denonce-lantisemitisme-desinhibe-de-la-france-insoumise/",
+   "n_members": 54,
+   "n_sources": 25,
+   "counts": {
+    "left": 3,
+    "centre": 11,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 5,
+    "opinion": 5
+   },
+   "blindspot_score": 0.571,
+   "blindspot_for": null,
+   "divergence": 0.69,
+   "category": "politique",
+   "terms_left": [
+    "ans",
+    "images",
+    "europe"
+   ],
+   "terms_right": [
+    "euros",
+    "bruno retailleau",
+    "bruno"
    ]
   },
   {
@@ -810,8 +840,8 @@
    ],
    "terms_right": [
     "bagayoko",
-    "bally bagayoko",
-    "bally"
+    "bally",
+    "bally bagayoko"
    ]
   },
   {
@@ -875,33 +905,63 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : Bruno Retailleau promet des économies de près de 200 milliards d'euros jusqu'en 2032",
-   "url": "https://www.bvoltaire.fr/en-israel-bruno-retailleau-denonce-lantisemitisme-desinhibe-de-la-france-insoumise/",
-   "n_members": 40,
+   "title": "Mondial de l'Auto : retour des constructeurs historiques, les marques chinoises en force... Les enjeux de l'édition 2026",
+   "url": "https://www.challenges.fr/automobile/mondial-de-lauto-face-a-loffensive-chinoise-lindustrie-automobile-europeenne-prepare-sa-riposte-pour-ne-pas-perdre-la-bataille-de-lelectrique_646199",
+   "n_members": 47,
    "n_sources": 23,
    "counts": {
-    "left": 3,
-    "centre": 10,
+    "left": 5,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.546,
+   "category": "sport",
+   "terms_left": [
+    "constructeurs européens",
+    "chine",
+    "modèles"
+   ],
+   "terms_right": [
+    "chinois",
+    "automobile",
+    "marché"
+   ]
+  },
+  {
+   "title": "Jean-Luc Mélenchon rassemble 10.000 personnes à Clermont-Ferrand",
+   "url": "https://www.europe1.fr/societe/parcoursup-met-en-place-un-tri-raciste-et-social-cest-totalement-faux-repond-le-delegue-national-de-luni-1132004",
+   "n_members": 45,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 9,
     "right": 10
    },
    "style_counts": {
-    "factuel": 14,
-    "mixte": 5,
-    "opinion": 4
+    "factuel": 11,
+    "mixte": 7,
+    "opinion": 5
    },
-   "blindspot_score": 0.538,
+   "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.769,
-   "category": "politique",
+   "divergence": 0.72,
+   "category": "société",
    "terms_left": [
     "ans",
-    "russes",
-    "houthis"
+    "mobilisation",
+    "gauche"
    ],
    "terms_right": [
-    "euros",
-    "bruno retailleau",
-    "bruno"
+    "parcoursup",
+    "france",
+    "lycéens"
    ]
   },
   {
@@ -921,7 +981,7 @@
    },
    "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.486,
+   "divergence": 0.481,
    "category": "politique",
    "terms_left": [
     "mouvement",
@@ -929,9 +989,9 @@
     "candidats"
    ],
    "terms_right": [
+    "mélenchon",
     "gabriel attal",
-    "attal",
-    "gabriel"
+    "attal"
    ]
   },
   {
@@ -965,69 +1025,9 @@
    ]
   },
   {
-   "title": "Mondial de l'Auto : retour des constructeurs historiques, les marques chinoises en force... Les enjeux de l'édition 2026",
-   "url": "https://www.challenges.fr/automobile/mondial-de-lauto-face-a-loffensive-chinoise-lindustrie-automobile-europeenne-prepare-sa-riposte-pour-ne-pas-perdre-la-bataille-de-lelectrique_646199",
-   "n_members": 46,
-   "n_sources": 22,
-   "counts": {
-    "left": 5,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.546,
-   "category": "sport",
-   "terms_left": [
-    "constructeurs européens",
-    "chine",
-    "modèles"
-   ],
-   "terms_right": [
-    "chinois",
-    "automobile",
-    "marché"
-   ]
-  },
-  {
-   "title": "Jean-Luc Mélenchon rassemble 10.000 personnes à Clermont-Ferrand",
-   "url": "https://www.europe1.fr/societe/parcoursup-met-en-place-un-tri-raciste-et-social-cest-totalement-faux-repond-le-delegue-national-de-luni-1132004",
-   "n_members": 44,
-   "n_sources": 22,
-   "counts": {
-    "left": 4,
-    "centre": 9,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.723,
-   "category": "société",
-   "terms_left": [
-    "ans",
-    "mobilisation",
-    "gauche"
-   ],
-   "terms_right": [
-    "parcoursup",
-    "france",
-    "lycéens"
-   ]
-  },
-  {
    "title": "Crise lycéenne : Greta Thunberg aux côtés des manifestants à Saint-Denis",
    "url": "https://www.ladepeche.fr/2026/10/09/colere-des-lyceens-flashs-blancs-et-verts-effet-stroboscopique-a-quoi-servent-ces-boucliers-lumineux-utilises-par-la-police-13592059.php",
-   "n_members": 38,
+   "n_members": 41,
    "n_sources": 22,
    "counts": {
     "left": 6,
@@ -1041,17 +1041,17 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.513,
+   "divergence": 0.529,
    "category": "société",
    "terms_left": [
-    "monde",
     "lycéens",
+    "monde",
     "paris"
    ],
    "terms_right": [
     "saint-denis",
     "manifestants",
-    "qu"
+    "paul-éluard"
    ]
   },
   {
@@ -1075,6 +1075,36 @@
    "category": "international",
    "terms_left": [],
    "terms_right": []
+  },
+  {
+   "title": "Présidentielle 2027 : Raphaël Glucksmann, vainqueur de la primaire à gauche, doit désormais mettre la famille sociale-démocrate en ordre de bataille",
+   "url": "https://www.liberation.fr/politique/elections/primaire-sociale-democrate-raphael-glucksmann-se-sent-favori-de-pied-en-cap-clair-20261009_DJUNKU53WJCU3NLYFGJJ4P2Z24/",
+   "n_members": 46,
+   "n_sources": 21,
+   "counts": {
+    "left": 5,
+    "centre": 9,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.568,
+   "category": "politique",
+   "terms_left": [
+    "ps",
+    "sociale-démocrate",
+    "campagne"
+   ],
+   "terms_right": [
+    "france",
+    "qu",
+    "homme"
+   ]
   },
   {
    "title": "Élections au Québec: mais pour qui ont voté nos cousins exactement?",
@@ -1101,7 +1131,7 @@
   {
    "title": "Léon XIV hospitalisé à Rome : le pape opéré du poumon ce mardi après-midi",
    "url": "https://www.lefigaro.fr/actualite-france/le-pape-leon-xiv-annonce-qu-il-va-etre-opere-d-un-nodule-pulmonaire-20261011",
-   "n_members": 56,
+   "n_members": 58,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -1115,7 +1145,7 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.361,
+   "divergence": 0.372,
    "category": "international",
    "terms_left": [
     "opération pape",
@@ -1149,36 +1179,6 @@
    "category": "sport",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Cagnes-sur-Mer : le «principal suspect» du cambriolage du musée Renoir mis en examen",
-   "url": "https://www.franceinfo.fr/faits-divers/six-personnes-placees-en-garde-a-vue-dont-les-deux-cambrioleurs-presumes-du-musee-renoir-de-cagnes-sur-mer_8227180.html",
-   "n_members": 42,
-   "n_sources": 20,
-   "counts": {
-    "left": 3,
-    "centre": 10,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.29,
-   "category": "faits-divers",
-   "terms_left": [
-    "cambriolage",
-    "mis",
-    "examen"
-   ],
-   "terms_right": [
-    "volés",
-    "retrouvés",
-    "renoir"
-   ]
   }
  ]
 }
