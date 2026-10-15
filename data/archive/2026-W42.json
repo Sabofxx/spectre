@@ -1,6 +1,6 @@
 {
  "week": "2026-W42",
- "generated_at": "2026-10-15T19:38:04+00:00",
+ "generated_at": "2026-10-15T22:48:09+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -127,7 +127,7 @@
   {
    "title": "Zelensky défie Trump en reprenant les frappes sur les raffineries russes",
    "url": "https://fr.euronews.com/2026/10/05/les-exportations-de-petrole-du-moyen-orient-reviennent-a-leur-niveau-davant-guerre-sans-li",
-   "n_members": 258,
+   "n_members": 260,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -141,12 +141,12 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.294,
+   "divergence": 0.289,
    "category": "international",
    "terms_left": [
     "direct guerre",
     "direct",
-    "frappes"
+    "gazole"
    ],
    "terms_right": [
     "prix",
@@ -171,12 +171,12 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.396,
+   "divergence": 0.408,
    "category": "économie",
    "terms_left": [
     "frigos",
-    "frigos supermarchés",
-    "cyberattaque frigos"
+    "cyberattaque frigos",
+    "frigos supermarchés"
    ],
    "terms_right": [
     "magasins",
@@ -247,7 +247,7 @@
   {
    "title": "Mouvement lycéen : pourquoi les 3 000 professeurs remplaçants promis par Edouard Geffray ne couvriront pas toutes les absences",
    "url": "https://www.lefigaro.fr/actualite-france/remplacement-des-profs-reforme-du-bac-parcoursup-edouard-geffray-paie-les-pots-casses-des-quinquennats-macron-20261006",
-   "n_members": 106,
+   "n_members": 109,
    "n_sources": 31,
    "counts": {
     "left": 6,
@@ -261,12 +261,12 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.486,
+   "divergence": 0.488,
    "category": "société",
    "terms_left": [
     "mobilisation",
     "ministre",
-    "ministre éducation"
+    "edouard"
    ],
    "terms_right": [
     "professeurs",
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.273,
+   "divergence": 0.28,
    "category": "société",
    "terms_left": [
     "jeune",
@@ -351,17 +351,17 @@
    },
    "blindspot_score": -0.059,
    "blindspot_for": null,
-   "divergence": 0.439,
+   "divergence": 0.449,
    "category": "société",
    "terms_left": [
-    "rohan rane",
     "rane",
+    "rohan rane",
     "rohan"
    ],
    "terms_right": [
     "sexistes",
     "violences sexistes",
-    "sexistes sexuelles"
+    "proposition loi"
    ]
   },
   {
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.345,
+   "divergence": 0.343,
    "category": "économie",
    "terms_left": [
     "pression",
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.749,
+   "divergence": 0.755,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.527,
+   "divergence": 0.528,
    "category": "société",
    "terms_left": [
     "seine-saint-denis",
@@ -635,6 +635,36 @@
    ]
   },
   {
+   "title": "Les entreprises chinoises à la conquête de l'Europe au Mondial de l'automobile",
+   "url": "https://www.challenges.fr/automobile/mondial-de-lauto-face-a-loffensive-chinoise-lindustrie-automobile-europeenne-prepare-sa-riposte-pour-ne-pas-perdre-la-bataille-de-lelectrique_646199",
+   "n_members": 61,
+   "n_sources": 27,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.625,
+   "category": "économie",
+   "terms_left": [
+    "salon",
+    "chinoise",
+    "voitures"
+   ],
+   "terms_right": [
+    "europe",
+    "constructeurs",
+    "france"
+   ]
+  },
+  {
    "title": "Navi Pillay, prix Nobel de la paix : l'accusation de génocide contre Israël \"repose sur des faits\"",
    "url": "https://www.tf1info.fr/international/prix-nobel-de-la-paix-2026-tout-sauf-donald-trump-2468767.html",
    "n_members": 60,
@@ -665,39 +695,9 @@
    ]
   },
   {
-   "title": "Mondial de l'Auto : ventes de voitures électriques, concurrence chinoise... Cartographie du marché automobile en France",
-   "url": "https://www.challenges.fr/automobile/mondial-de-lauto-face-a-loffensive-chinoise-lindustrie-automobile-europeenne-prepare-sa-riposte-pour-ne-pas-perdre-la-bataille-de-lelectrique_646199",
-   "n_members": 60,
-   "n_sources": 27,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 4
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.621,
-   "category": "économie",
-   "terms_left": [
-    "chinoise",
-    "électrique",
-    "salon"
-   ],
-   "terms_right": [
-    "france",
-    "europe",
-    "guerre"
-   ]
-  },
-  {
    "title": "Tirs dans un collège à Aubagne : qu'est-ce que le mouvement «True Crime Community» auquel pourrait appartenir le suspect ?",
    "url": "https://www.bvoltaire.fr/edito-des-blocus-lyceens-au-college-daubagne-violence-debridee-a-lecole/",
-   "n_members": 53,
+   "n_members": 54,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -711,12 +711,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.389,
+   "divergence": 0.395,
    "category": "société",
    "terms_left": [
+    "mouvement",
     "lycéen",
-    "mouvement lycéen",
-    "étudiants"
+    "mouvement lycéen"
    ],
    "terms_right": [
     "mouvance",
@@ -757,7 +757,7 @@
   {
    "title": "Blocage des lycées : Sébastien Lecornu dénonce un «mouvement de violences urbaines»",
    "url": "https://www.leparisien.fr/paris-75/pour-que-vous-puissiez-vous-reunir-debattre-le-maire-de-paris-emmanuel-gregoire-ouvre-les-portes-des-mairies-aux-lyceens-mobilises-06-10-2026-GJIFXJBXHFGJPDW5PCZM2XUP6Y.php",
-   "n_members": 73,
+   "n_members": 74,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -771,7 +771,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.841,
+   "divergence": 0.836,
    "category": "société",
    "terms_left": [
     "temps",
@@ -780,8 +780,8 @@
    ],
    "terms_right": [
     "violences",
-    "lycéenne",
-    "emmanuel"
+    "emmanuel",
+    "macron"
    ]
   },
   {
@@ -817,7 +817,7 @@
   {
    "title": "Lycéen éborgné à Tours : un policier mis en examen pour violences aggravées",
    "url": "https://www.lefigaro.fr/actualite-france/faites-vous-confiance-au-gouvernement-pour-mettre-fin-rapidement-au-mouvement-lyceen-20261006",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 26,
    "counts": {
     "left": 7,
@@ -831,16 +831,16 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.734,
+   "divergence": 0.729,
    "category": "société",
    "terms_left": [
-    "mobilisation",
     "police",
+    "mobilisation",
     "ministre"
    ],
    "terms_right": [
-    "policier",
     "lycées",
+    "policier",
     "violences"
    ]
   },
@@ -877,7 +877,7 @@
   {
    "title": "Présidentielle 2027 : Richard Ferrand « doit quitter la tête du Conseil constitutionnel », estime Marine Le Pen",
    "url": "https://www.20minutes.fr/politique/4253734-20261012-presidentielle-2027-ca-existe-ferrand-torpille-mesure-rn-visant-changer-constitution-referendum",
-   "n_members": 70,
+   "n_members": 71,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -891,7 +891,7 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.691,
+   "divergence": 0.675,
    "category": "politique",
    "terms_left": [
     "lfi",
@@ -935,39 +935,9 @@
    ]
   },
   {
-   "title": "Intelligence artificielle : avec Muse Wonder, Meta dit avoir rattrapé OpenAI et Anthropic et refuse de ralentir",
-   "url": "https://www.bfmtv.com/tech/intelligence-artificielle/elle-utilisait-claude-comme-un-journal-intime-l-ia-d-anthropic-l-a-denoncee-en-signalant-a-la-police-son-intention-de-tirer-sur-les-forces-de-l-ordre_AV-202610060631.html",
-   "n_members": 54,
-   "n_sources": 25,
-   "counts": {
-    "left": 4,
-    "centre": 14,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 10,
-    "opinion": 0
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.923,
-   "category": "sciences-tech",
-   "terms_left": [
-    "meta",
-    "openai",
-    "nouveau"
-   ],
-   "terms_right": [
-    "anthropic",
-    "nationale",
-    "macron"
-   ]
-  },
-  {
-   "title": "Les députés adoptent la contribution française au budget de l'UE",
+   "title": "Budget de l’UE : Macron a averti qu’un accord serait difficile à conclure en 2027, avec l’élection présidentielle en France",
    "url": "https://www.cnews.fr/monde/2026-10-12/budget-europeen-ces-7-pays-qui-versent-plus-que-ce-quils-recoivent-en-2026-1933954",
-   "n_members": 54,
+   "n_members": 59,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -981,17 +951,47 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.701,
+   "divergence": 0.7,
    "category": "politique",
    "terms_left": [
     "nationale",
-    "assemblée",
-    "assemblée nationale"
+    "assemblée nationale",
+    "assemblée"
    ],
    "terms_right": [
+    "france",
     "budget européen",
-    "européen",
-    "france"
+    "européen"
+   ]
+  },
+  {
+   "title": "Un micro caché dans du papier toilette chez OpenAI : un ingénieur saoudien arrêté par le FBI",
+   "url": "https://www.bfmtv.com/tech/intelligence-artificielle/elle-utilisait-claude-comme-un-journal-intime-l-ia-d-anthropic-l-a-denoncee-en-signalant-a-la-police-son-intention-de-tirer-sur-les-forces-de-l-ordre_AV-202610060631.html",
+   "n_members": 55,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 10,
+    "opinion": 0
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.919,
+   "category": "sciences-tech",
+   "terms_left": [
+    "openai",
+    "nouveau",
+    "annonce"
+   ],
+   "terms_right": [
+    "anthropic",
+    "nationale",
+    "sécurité"
    ]
   },
   {
@@ -1025,9 +1025,9 @@
    ]
   },
   {
-   "title": "Russie: pourquoi frapper Yandex ne suffit pas à stopper la désinformation russe",
+   "title": "Guerre en Ukraine: nouvel incident attribué à des drones en mer Noire au large de la Roumanie",
    "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-un-robot-terrestre-ukrainien-parvient-a-detruire-un-drone-kamikaze-russe-au-cours-dun-rare-combat-filme-08-10-2026-KQBNFUWSRBBM3CWZM7DAFKTD4E.php",
-   "n_members": 68,
+   "n_members": 69,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -1117,7 +1117,7 @@
   {
    "title": "Manifestation du 17 octobre : qui est derrière l’appel à la mobilisation qui agite les réseaux",
    "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-le-budget-prevoit-il-650-millions-en-moins-pour-l-education-nationale-et-1-600-postes-de-professeurs-en-moins-comme-l-affirme-lfi_8223316.html",
-   "n_members": 65,
+   "n_members": 66,
    "n_sources": 23,
    "counts": {
     "left": 2,
@@ -1131,7 +1131,7 @@
    },
    "blindspot_score": 0.6,
    "blindspot_for": "gauche",
-   "divergence": 0.943,
+   "divergence": 0.944,
    "category": "politique",
    "terms_left": [
     "lycéens",
@@ -1161,7 +1161,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.664,
+   "divergence": 0.665,
    "category": "politique",
    "terms_left": [
     "lycéennes",
@@ -1170,8 +1170,8 @@
    ],
    "terms_right": [
     "bagayoko",
-    "bally",
-    "bally bagayoko"
+    "bally bagayoko",
+    "bally"
    ]
   },
   {
