@@ -1,13 +1,13 @@
 {
  "week": "2026-W42",
- "generated_at": "2026-10-15T11:50:49+00:00",
+ "generated_at": "2026-10-15T15:58:44+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "EN DIRECT - Mouvement lycéen : blocages à Paris, des manifestations s'élancent en régions",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 1145,
+   "n_members": 1146,
    "n_sources": 43,
    "counts": {
     "left": 13,
@@ -25,8 +25,8 @@
    "category": "société",
    "terms_left": [
     "mouvement lycéen",
-    "direct",
-    "lycéen"
+    "lycéen",
+    "direct"
    ],
    "terms_right": [
     "blocus",
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.169,
+   "divergence": 0.17,
    "category": "culture",
    "terms_left": [
     "affaire",
@@ -61,7 +61,7 @@
    "terms_right": [
     "livre",
     "écrit",
-    "accusé écrit"
+    "polémique"
    ]
   },
   {
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.1,
    "blindspot_for": null,
-   "divergence": 0.173,
+   "divergence": 0.171,
    "category": "politique",
    "terms_left": [
     "antisémites jordan",
@@ -125,9 +125,9 @@
    ]
   },
   {
-   "title": "Après l’accord Trump-Poutine sur le gazole, l’Ukraine tente de ravaler sa colère",
+   "title": "Zelensky défie Trump en reprenant les frappes sur les raffineries russes",
    "url": "https://fr.euronews.com/2026/10/05/les-exportations-de-petrole-du-moyen-orient-reviennent-a-leur-niveau-davant-guerre-sans-li",
-   "n_members": 248,
+   "n_members": 255,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -141,17 +141,17 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.283,
+   "divergence": 0.295,
    "category": "international",
    "terms_left": [
     "direct guerre",
     "direct",
-    "gazole"
+    "frappes"
    ],
    "terms_right": [
-    "prix",
+    "trump",
     "affirme",
-    "trump"
+    "prix"
    ]
   },
   {
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.396,
+   "divergence": 0.408,
    "category": "économie",
    "terms_left": [
     "frigos",
@@ -180,8 +180,8 @@
    ],
    "terms_right": [
     "magasins",
-    "pertes",
-    "distance"
+    "euros",
+    "pertes"
    ]
   },
   {
@@ -215,9 +215,39 @@
    ]
   },
   {
+   "title": "EN DIRECT - Budget 2027 : les députés rejettent le plafonnement d’un abattement fiscal pour les retraités",
+   "url": "https://www.lefigaro.fr/politique/budget-2027-les-deputes-socialistes-ont-le-doigt-sur-le-bouton-de-la-censure-20260930",
+   "n_members": 146,
+   "n_sources": 31,
+   "counts": {
+    "left": 8,
+    "centre": 12,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 13,
+    "opinion": 3
+   },
+   "blindspot_score": 0.158,
+   "blindspot_for": null,
+   "divergence": 0.428,
+   "category": "politique",
+   "terms_left": [
+    "dette",
+    "texte",
+    "préalable"
+   ],
+   "terms_right": [
+    "milliards euros",
+    "milliards",
+    "partie"
+   ]
+  },
+  {
    "title": "Mouvement lycéen : pourquoi les 3 000 professeurs remplaçants promis par Edouard Geffray ne couvriront pas toutes les absences",
    "url": "https://www.lefigaro.fr/actualite-france/remplacement-des-profs-reforme-du-bac-parcoursup-edouard-geffray-paie-les-pots-casses-des-quinquennats-macron-20261006",
-   "n_members": 102,
+   "n_members": 105,
    "n_sources": 31,
    "counts": {
     "left": 6,
@@ -231,17 +261,17 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.492,
+   "divergence": 0.486,
    "category": "société",
    "terms_left": [
-    "ministre",
     "mobilisation",
+    "ministre",
     "ministre éducation"
    ],
    "terms_right": [
     "professeurs",
-    "professeurs remplaçants",
-    "lycées"
+    "lycées",
+    "édouard geffray"
    ]
   },
   {
@@ -275,9 +305,9 @@
    ]
   },
   {
-   "title": "EN DIRECT - Principal et professeur blessés par balle à Aubagne : les deux parents du suspect placés en garde à vue",
+   "title": "Aubagne : révélations sur le profil inquiétant du collégien",
    "url": "https://www.nicematin.com/societe/defense/marine/un-incendie-se-declare-a-bord-du-porte-avions-charles-de-gaulle-dans-le-port-de-toulon-10735372",
-   "n_members": 161,
+   "n_members": 162,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -291,47 +321,17 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.255,
+   "divergence": 0.263,
    "category": "société",
    "terms_left": [
     "jeune",
-    "chasse",
-    "fusil chasse"
+    "aubagne principal",
+    "chasse"
    ],
    "terms_right": [
-    "bouches-du-rhône",
-    "aubagne bouches-du-rhône",
-    "tirs"
-   ]
-  },
-  {
-   "title": "EN DIRECT - Budget 2027 : les députés rejettent le plafonnement d’un abattement fiscal pour les retraités",
-   "url": "https://www.lefigaro.fr/politique/budget-2027-les-deputes-socialistes-ont-le-doigt-sur-le-bouton-de-la-censure-20260930",
-   "n_members": 141,
-   "n_sources": 30,
-   "counts": {
-    "left": 8,
-    "centre": 12,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 13,
-    "opinion": 2
-   },
-   "blindspot_score": 0.111,
-   "blindspot_for": null,
-   "divergence": 0.452,
-   "category": "politique",
-   "terms_left": [
-    "dette",
-    "texte",
-    "préalable"
-   ],
-   "terms_right": [
-    "recettes",
-    "partie",
-    "partie recettes"
+    "tirs",
+    "enquête",
+    "bouches-du-rhône"
    ]
   },
   {
@@ -355,7 +355,7 @@
    "category": "société",
    "terms_left": [
     "femmes",
-    "rohan",
+    "rane",
     "rohan rane"
    ],
    "terms_right": [
@@ -427,7 +427,7 @@
   {
    "title": "Mobilisation des lycéens : près de 8000 personnes placées en garde à vue depuis le début du mouvement",
    "url": "https://www.tf1info.fr/societe/verif-les-lyceens-francais-ont-ils-de-plus-d-heures-de-cours-que-leurs-voisins-europeens-2467690.html",
-   "n_members": 75,
+   "n_members": 76,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.727,
+   "divergence": 0.73,
    "category": "international",
    "terms_left": [
     "guerre",
@@ -515,6 +515,36 @@
    ]
   },
   {
+   "title": "Crise lycéenne : Greta Thunberg aux côtés des manifestants à Saint-Denis",
+   "url": "https://www.ladepeche.fr/2026/10/09/colere-des-lyceens-flashs-blancs-et-verts-effet-stroboscopique-a-quoi-servent-ces-boucliers-lumineux-utilises-par-la-police-13592059.php",
+   "n_members": 63,
+   "n_sources": 27,
+   "counts": {
+    "left": 8,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 6
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.528,
+   "category": "société",
+   "terms_left": [
+    "seine-saint-denis",
+    "lycéens",
+    "militante"
+   ],
+   "terms_right": [
+    "qu",
+    "lycéenne",
+    "mobilisation"
+   ]
+  },
+  {
    "title": "17 menaces pour l'humanité identifiées par le Lancet : sommes-nous vraiment prêts à affronter les deux plus redoutables ?",
    "url": "https://reporterre.net/Pesticides-a-vie-la-carte-des-mobilisations-en-France-les-10-et-11-octobre",
    "n_members": 62,
@@ -542,36 +572,6 @@
     "faut",
     "année",
     "métiers"
-   ]
-  },
-  {
-   "title": "\"Il est temps que les jeunes se soulèvent\": Greta Thunberg présente à Saint-Denis pour soutenir les lycéens en colère",
-   "url": "https://www.ladepeche.fr/2026/10/09/colere-des-lyceens-flashs-blancs-et-verts-effet-stroboscopique-a-quoi-servent-ces-boucliers-lumineux-utilises-par-la-police-13592059.php",
-   "n_members": 62,
-   "n_sources": 27,
-   "counts": {
-    "left": 8,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 6
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.525,
-   "category": "société",
-   "terms_left": [
-    "seine-saint-denis",
-    "lycéens",
-    "militante"
-   ],
-   "terms_right": [
-    "lycéenne",
-    "mobilisation",
-    "qu"
    ]
   },
   {
@@ -621,23 +621,23 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.577,
+   "divergence": 0.58,
    "category": "économie",
    "terms_left": [
+    "salon",
     "électriques",
-    "voitures",
-    "français"
+    "voitures"
    ],
    "terms_right": [
-    "chinoises",
     "europe",
+    "mondial auto",
     "chinois"
    ]
   },
   {
    "title": "L'Arabie saoudite menace un site pétrolier à Sanaa, les Houthis prêts à riposter sur Riyad",
    "url": "https://www.lefigaro.fr/international/guerre-en-iran-teheran-affirme-avoir-saisi-un-drone-sous-marin-americain-20260927",
-   "n_members": 193,
+   "n_members": 195,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -651,7 +651,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.339,
+   "divergence": 0.343,
    "category": "international",
    "terms_left": [
     "houthistes",
@@ -695,9 +695,9 @@
    ]
   },
   {
-   "title": "Colère des lycéens : Emmanuel Macron déplore que les «angoisses légitimes» des jeunes soient «exploitées politiquement et transformées en violences urbaines»",
+   "title": "Blocage des lycées : Sébastien Lecornu dénonce un «mouvement de violences urbaines»",
    "url": "https://www.leparisien.fr/paris-75/pour-que-vous-puissiez-vous-reunir-debattre-le-maire-de-paris-emmanuel-gregoire-ouvre-les-portes-des-mairies-aux-lyceens-mobilises-06-10-2026-GJIFXJBXHFGJPDW5PCZM2XUP6Y.php",
-   "n_members": 67,
+   "n_members": 73,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -719,15 +719,15 @@
     "saint-denis"
    ],
    "terms_right": [
-    "lycéenne",
     "violences",
+    "lycéenne",
     "emmanuel"
    ]
   },
   {
    "title": "Mouvement des lycéens : le syndicat de police Alliance dépose plainte contre l'État pour mise en danger de la vie d'autrui",
    "url": "https://www.europe1.fr/societe/parcoursup-met-en-place-un-tri-raciste-et-social-cest-totalement-faux-repond-le-delegue-national-de-luni-1132004",
-   "n_members": 63,
+   "n_members": 68,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -741,23 +741,53 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.654,
-   "category": "politique",
+   "divergence": 0.664,
+   "category": "société",
    "terms_left": [
-    "ans",
-    "revendications",
-    "clermont-ferrand"
+    "plateforme",
+    "jeunesse",
+    "ans"
    ],
    "terms_right": [
     "syndicat",
     "état",
-    "état mise"
+    "plainte état"
    ]
   },
   {
-   "title": "☕️ États-Unis : le projet de diffusion de l’exécution d’un condamné à mort largement critiqué",
+   "title": "Présidentielle 2027 : après la victoire de Raphaël Glucksmann à la primaire de la gauche, quelle sera la stratégie de François Hollande ?",
+   "url": "https://www.liberation.fr/politique/elections/primaire-sociale-democrate-raphael-glucksmann-se-sent-favori-de-pied-en-cap-clair-20261009_DJUNKU53WJCU3NLYFGJJ4P2Z24/",
+   "n_members": 61,
+   "n_sources": 26,
+   "counts": {
+    "left": 7,
+    "centre": 9,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": 0.176,
+   "blindspot_for": null,
+   "divergence": 0.394,
+   "category": "politique",
+   "terms_left": [
+    "candidat",
+    "primaire ps",
+    "vainqueur primaire"
+   ],
+   "terms_right": [
+    "qu",
+    "sud",
+    "marine"
+   ]
+  },
+  {
+   "title": "Trump renonce à la diffusion en direct d’une exécution militaire après un tollé aux États-Unis",
    "url": "https://www.france24.com/fr/am%C3%A9riques/20261006-fusillade-fort-hood-donald-trump-approuve-mise-a-mort-tireur-peloton-d-execution",
-   "n_members": 68,
+   "n_members": 74,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -771,12 +801,12 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.328,
+   "divergence": 0.312,
    "category": "international",
    "terms_left": [
     "etats-unis",
     "diffuser",
-    "diffusion"
+    "condamné"
    ],
    "terms_right": [
     "états-unis",
@@ -815,33 +845,33 @@
    ]
   },
   {
-   "title": "Comment Raphaël Glucksmann peut-il transformer sa victoire à la primaire en dynamique de campagne ?",
-   "url": "https://www.liberation.fr/politique/elections/primaire-sociale-democrate-raphael-glucksmann-se-sent-favori-de-pied-en-cap-clair-20261009_DJUNKU53WJCU3NLYFGJJ4P2Z24/",
-   "n_members": 60,
+   "title": "Lycéen éborgné à Tours : un policier mis en examen pour violences aggravées",
+   "url": "https://www.lefigaro.fr/actualite-france/faites-vous-confiance-au-gouvernement-pour-mettre-fin-rapidement-au-mouvement-lyceen-20261006",
+   "n_members": 58,
    "n_sources": 25,
    "counts": {
-    "left": 6,
-    "centre": 9,
-    "right": 10
+    "left": 7,
+    "centre": 11,
+    "right": 7
    },
    "style_counts": {
-    "factuel": 12,
-    "mixte": 10,
+    "factuel": 13,
+    "mixte": 9,
     "opinion": 3
    },
-   "blindspot_score": 0.25,
+   "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.404,
-   "category": "politique",
+   "divergence": 0.735,
+   "category": "société",
    "terms_left": [
-    "vainqueur primaire",
-    "candidat",
-    "primaire"
+    "mouvement lycéen",
+    "interpellé",
+    "police"
    ],
    "terms_right": [
-    "qu",
-    "sud",
-    "marine"
+    "policier",
+    "blocus",
+    "lycées"
    ]
   },
   {
@@ -861,23 +891,23 @@
    },
    "blindspot_score": -0.2,
    "blindspot_for": null,
-   "divergence": 0.769,
+   "divergence": 0.756,
    "category": "international",
    "terms_left": [
     "manifestations lycéennes",
-    "manifestation",
-    "lycéennes"
+    "lycéennes",
+    "lycéen"
    ],
    "terms_right": [
     "policier",
-    "genou",
-    "coup genou"
+    "coup genou",
+    "genou"
    ]
   },
   {
    "title": "Russie: pourquoi frapper Yandex ne suffit pas à stopper la désinformation russe",
    "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-un-robot-terrestre-ukrainien-parvient-a-detruire-un-drone-kamikaze-russe-au-cours-dun-rare-combat-filme-08-10-2026-KQBNFUWSRBBM3CWZM7DAFKTD4E.php",
-   "n_members": 66,
+   "n_members": 68,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -891,17 +921,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.845,
+   "divergence": 0.808,
    "category": "international",
    "terms_left": [
-    "week-end",
-    "trump",
-    "gouvernement"
+    "navires",
+    "mer noire",
+    "noire"
    ],
    "terms_right": [
-    "ukraine",
     "guerre",
-    "frappes"
+    "guerre ukraine",
+    "ukraine"
    ]
   },
   {
@@ -935,39 +965,9 @@
    ]
   },
   {
-   "title": "Lycéen éborgné à Tours : un policier mis en examen pour violences aggravées",
-   "url": "https://www.lefigaro.fr/actualite-france/faites-vous-confiance-au-gouvernement-pour-mettre-fin-rapidement-au-mouvement-lyceen-20261006",
-   "n_members": 57,
-   "n_sources": 24,
-   "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.742,
-   "category": "société",
-   "terms_left": [
-    "police",
-    "mouvement lycéen",
-    "interpellé"
-   ],
-   "terms_right": [
-    "policier",
-    "blocus",
-    "lycées"
-   ]
-  },
-  {
    "title": "Intelligence artificielle : avec Muse Wonder, Meta dit avoir rattrapé OpenAI et Anthropic et refuse de ralentir",
    "url": "https://www.bfmtv.com/tech/intelligence-artificielle/elle-utilisait-claude-comme-un-journal-intime-l-ia-d-anthropic-l-a-denoncee-en-signalant-a-la-police-son-intention-de-tirer-sur-les-forces-de-l-ordre_AV-202610060631.html",
-   "n_members": 51,
+   "n_members": 52,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -992,6 +992,36 @@
     "anthropic",
     "nationale",
     "macron"
+   ]
+  },
+  {
+   "title": "Tirs dans un collège à Aubagne : qu'est-ce que le mouvement «True Crime Community» auquel pourrait appartenir le suspect ?",
+   "url": "https://www.bvoltaire.fr/edito-des-blocus-lyceens-au-college-daubagne-violence-debridee-a-lecole/",
+   "n_members": 45,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.312,
+   "category": "société",
+   "terms_left": [
+    "soupçonné",
+    "attaque collège",
+    "tiré"
+   ],
+   "terms_right": [
+    "enquête",
+    "mouvance",
+    "qu"
    ]
   },
   {
@@ -1027,7 +1057,7 @@
   {
    "title": "Manifestation du 17 octobre : qui est derrière l’appel à la mobilisation qui agite les réseaux",
    "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-le-budget-prevoit-il-650-millions-en-moins-pour-l-education-nationale-et-1-600-postes-de-professeurs-en-moins-comme-l-affirme-lfi_8223316.html",
-   "n_members": 63,
+   "n_members": 65,
    "n_sources": 23,
    "counts": {
     "left": 2,
@@ -1041,17 +1071,47 @@
    },
    "blindspot_score": 0.6,
    "blindspot_for": "gauche",
-   "divergence": 0.946,
+   "divergence": 0.942,
    "category": "politique",
    "terms_left": [
     "lycéens",
     "étudiants",
-    "journée"
+    "soutien"
    ],
    "terms_right": [
     "macron",
     "présidentielle",
     "français"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : Richard Ferrand « doit quitter la tête du Conseil constitutionnel », estime Marine Le Pen",
+   "url": "https://www.20minutes.fr/politique/4253734-20261012-presidentielle-2027-ca-existe-ferrand-torpille-mesure-rn-visant-changer-constitution-referendum",
+   "n_members": 64,
+   "n_sources": 23,
+   "counts": {
+    "left": 5,
+    "centre": 8,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 6,
+    "opinion": 5
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.771,
+   "category": "politique",
+   "terms_left": [
+    "lfi",
+    "gauche",
+    "mesures"
+   ],
+   "terms_right": [
+    "pen",
+    "constitutionnel",
+    "marine"
    ]
   },
   {
@@ -1080,8 +1140,8 @@
    ],
    "terms_right": [
     "bagayoko",
-    "bally",
-    "bally bagayoko"
+    "bally bagayoko",
+    "bally"
    ]
   },
   {
@@ -1117,7 +1177,7 @@
   {
    "title": "Budget 2027 : ce que pèsent les retraites des fonctionnaires dans les crédits des ministères",
    "url": "https://www.tf1info.fr/education/verif-si-l-on-tient-compte-de-l-inflation-le-budget-dedie-a-l-education-est-il-en-baisse-depuis-dix-ans-2468551.html",
-   "n_members": 68,
+   "n_members": 70,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -1131,77 +1191,17 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.667,
+   "divergence": 0.669,
    "category": "économie",
    "terms_left": [
     "ordonnances",
     "ministère",
-    "risque"
+    "parlement"
    ],
    "terms_right": [
     "retraites",
     "euros",
-    "milliards"
-   ]
-  },
-  {
-   "title": "La question du jour. Présidentielle 2027 : pensez-vous que les jeunes vont peser sur le résultat de l’élection ?",
-   "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/le-pays-risque-d-etre-etrangle-par-les-taux-d-interet-l-avertissement-du-gouverneur-de-la-banque-de-france-si-les-finances-publiques-ne-sont-pas-assainies_AV-202610050805.html",
-   "n_members": 66,
-   "n_sources": 22,
-   "counts": {
-    "left": 3,
-    "centre": 8,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.571,
-   "blindspot_for": null,
-   "divergence": 0.478,
-   "category": "politique",
-   "terms_left": [
-    "mouvement",
-    "lycéenne",
-    "candidats"
-   ],
-   "terms_right": [
-    "mélenchon",
-    "gabriel attal",
-    "attal"
-   ]
-  },
-  {
-   "title": "Mondial de l'auto : Macron cherche à rassurer les constructeurs européens face à la concurrence chinoise",
-   "url": "https://www.liberation.fr/economie/guerre-commerciale-grosses-turbulences-en-vue-dans-le-bras-de-fer-entre-lunion-europeenne-et-la-chine-20261002_ZAXBLOVNAND3ROELLQKLDLDIKI/",
-   "n_members": 63,
-   "n_sources": 22,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.455,
-   "blindspot_for": null,
-   "divergence": 0.695,
-   "category": "économie",
-   "terms_left": [
-    "ukraine",
-    "compromis",
-    "direct"
-   ],
-   "terms_right": [
-    "hybrides",
-    "commercial",
-    "bruxelles"
+    "fonctionnaires"
    ]
   }
  ]
