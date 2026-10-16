@@ -1,13 +1,13 @@
 {
  "week": "2026-W42",
- "generated_at": "2026-10-16T00:55:25+00:00",
+ "generated_at": "2026-10-16T05:18:04+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "EN DIRECT - Mouvement lycéen : blocages à Paris, des manifestations s'élancent en régions",
+   "title": "Mouvement lycéen: ce que l'on sait des parcours des deux appels à manifester sur Paris",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 1156,
+   "n_members": 1160,
    "n_sources": 43,
    "counts": {
     "left": 13,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.266,
+   "divergence": 0.267,
    "category": "société",
    "terms_left": [
     "mouvement lycéen",
@@ -31,7 +31,7 @@
    "terms_right": [
     "blocus",
     "blocus lycées",
-    "colère lycéenne"
+    "lycées"
    ]
   },
   {
@@ -125,9 +125,9 @@
    ]
   },
   {
-   "title": "Zelensky défie Trump en reprenant les frappes sur les raffineries russes",
+   "title": "Guerre en Ukraine : «Plus difficile de travailler avec Volodymyr Zelensky qu’avec Vladimir Poutine», estime Donald Trump",
    "url": "https://fr.euronews.com/2026/10/05/les-exportations-de-petrole-du-moyen-orient-reviennent-a-leur-niveau-davant-guerre-sans-li",
-   "n_members": 260,
+   "n_members": 266,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.289,
+   "divergence": 0.279,
    "category": "international",
    "terms_left": [
     "direct guerre",
@@ -150,8 +150,8 @@
    ],
    "terms_right": [
     "prix",
-    "qu",
-    "affirme"
+    "pétrole",
+    "qu"
    ]
   },
   {
@@ -171,17 +171,17 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.408,
+   "divergence": 0.411,
    "category": "économie",
    "terms_left": [
-    "frigos",
     "cyberattaque frigos",
+    "frigos",
     "frigos supermarchés"
    ],
    "terms_right": [
     "magasins",
     "euros",
-    "grande"
+    "cyberattaque supermarchés"
    ]
   },
   {
@@ -217,7 +217,7 @@
   {
    "title": "EN DIRECT - Budget 2027 : les députés rejettent le plafonnement d’un abattement fiscal pour les retraités",
    "url": "https://www.lefigaro.fr/politique/budget-2027-les-deputes-socialistes-ont-le-doigt-sur-le-bouton-de-la-censure-20260930",
-   "n_members": 151,
+   "n_members": 152,
    "n_sources": 31,
    "counts": {
     "left": 8,
@@ -231,12 +231,12 @@
    },
    "blindspot_score": 0.158,
    "blindspot_for": null,
-   "divergence": 0.406,
+   "divergence": 0.417,
    "category": "politique",
    "terms_left": [
     "dette",
-    "texte",
-    "préalable"
+    "préalable",
+    "texte"
    ],
    "terms_right": [
     "milliards",
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.488,
+   "divergence": 0.487,
    "category": "société",
    "terms_left": [
     "mobilisation",
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.412,
+   "divergence": 0.413,
    "category": "politique",
    "terms_left": [
     "lfi",
@@ -299,9 +299,9 @@
     "veut"
    ],
    "terms_right": [
-    "victoire",
     "raphaël glucksmann",
-    "raphaël"
+    "raphaël",
+    "victoire"
    ]
   },
   {
@@ -351,17 +351,17 @@
    },
    "blindspot_score": -0.059,
    "blindspot_for": null,
-   "divergence": 0.449,
+   "divergence": 0.454,
    "category": "société",
    "terms_left": [
-    "rane",
+    "rohan",
     "rohan rane",
-    "rohan"
+    "rane"
    ],
    "terms_right": [
-    "sexistes",
     "violences sexistes",
-    "proposition loi"
+    "sexistes",
+    "sexistes sexuelles"
    ]
   },
   {
@@ -441,17 +441,17 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.805,
+   "divergence": 0.818,
    "category": "société",
    "terms_left": [
     "mobilisation lycéenne",
-    "lycéenne",
-    "gardes vue"
+    "gardes vue",
+    "gardes"
    ],
    "terms_right": [
     "lycées",
     "français",
-    "blocus"
+    "lycéens"
    ]
   },
   {
@@ -487,7 +487,7 @@
   {
    "title": "Tirs dans un collège à Aubagne : qu'est-ce que le mouvement «True Crime Community» auquel pourrait appartenir le suspect ?",
    "url": "https://www.bvoltaire.fr/edito-des-blocus-lyceens-au-college-daubagne-violence-debridee-a-lecole/",
-   "n_members": 58,
+   "n_members": 59,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.395,
+   "divergence": 0.388,
    "category": "société",
    "terms_left": [
     "mouvement",
@@ -517,7 +517,7 @@
   {
    "title": "Yémen: les Houthis revendiquent une nouvelle attaque contre l'aéroport de Ryad",
    "url": "https://www.lefigaro.fr/international/guerre-en-iran-teheran-affirme-avoir-saisi-un-drone-sous-marin-americain-20260927",
-   "n_members": 202,
+   "n_members": 204,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -531,7 +531,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.337,
+   "divergence": 0.338,
    "category": "international",
    "terms_left": [
     "houthistes",
@@ -539,8 +539,8 @@
     "saoudienne"
    ],
    "terms_right": [
-    "ryad",
     "attaque",
+    "ryad",
     "aéroport ryad"
    ]
   },
@@ -591,17 +591,17 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.387,
+   "divergence": 0.385,
    "category": "politique",
    "terms_left": [
     "candidat",
-    "primaire ps",
-    "vainqueur primaire"
+    "vainqueur",
+    "primaire ps"
    ],
    "terms_right": [
-    "qu",
     "marine",
-    "pen"
+    "pen",
+    "mois"
    ]
   },
   {
@@ -621,7 +621,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.528,
+   "divergence": 0.536,
    "category": "société",
    "terms_left": [
     "seine-saint-denis",
@@ -629,9 +629,9 @@
     "lycéens"
    ],
    "terms_right": [
-    "qu",
-    "omar sy",
-    "sy"
+    "lycéenne",
+    "mobilisation",
+    "mobilisation lycéenne"
    ]
   },
   {
@@ -660,8 +660,8 @@
    ],
    "terms_right": [
     "ia",
-    "année",
-    "faut"
+    "faut",
+    "année"
    ]
   },
   {
@@ -755,9 +755,9 @@
    ]
   },
   {
-   "title": "Blocage des lycées : Sébastien Lecornu dénonce un «mouvement de violences urbaines»",
+   "title": "Mobilisation du 17 octobre: Sébastien Lecornu redoute des \"violences épouvantables en fin de cortège\"",
    "url": "https://www.leparisien.fr/paris-75/pour-que-vous-puissiez-vous-reunir-debattre-le-maire-de-paris-emmanuel-gregoire-ouvre-les-portes-des-mairies-aux-lyceens-mobilises-06-10-2026-GJIFXJBXHFGJPDW5PCZM2XUP6Y.php",
-   "n_members": 74,
+   "n_members": 76,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -771,7 +771,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.836,
+   "divergence": 0.838,
    "category": "société",
    "terms_left": [
     "temps",
@@ -782,6 +782,36 @@
     "violences",
     "emmanuel",
     "macron"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : Richard Ferrand « doit quitter la tête du Conseil constitutionnel », estime Marine Le Pen",
+   "url": "https://www.20minutes.fr/politique/4253734-20261012-presidentielle-2027-ca-existe-ferrand-torpille-mesure-rn-visant-changer-constitution-referendum",
+   "n_members": 72,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 10,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 5
+   },
+   "blindspot_score": 0.375,
+   "blindspot_for": null,
+   "divergence": 0.675,
+   "category": "politique",
+   "terms_left": [
+    "lfi",
+    "gauche",
+    "mesures"
+   ],
+   "terms_right": [
+    "marine",
+    "marine pen",
+    "pen"
    ]
   },
   {
@@ -831,11 +861,11 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.729,
+   "divergence": 0.724,
    "category": "société",
    "terms_left": [
     "police",
-    "mobilisation",
+    "mobilisation lycéenne",
     "ministre"
    ],
    "terms_right": [
@@ -847,7 +877,7 @@
   {
    "title": "Donald Trump renonce finalement à diffuser l'exécution de Nidal Hasan par peloton militaire en direct",
    "url": "https://www.france24.com/fr/am%C3%A9riques/20261006-fusillade-fort-hood-donald-trump-approuve-mise-a-mort-tireur-peloton-d-execution",
-   "n_members": 77,
+   "n_members": 78,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -861,7 +891,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.312,
+   "divergence": 0.322,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -875,33 +905,33 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : Richard Ferrand « doit quitter la tête du Conseil constitutionnel », estime Marine Le Pen",
-   "url": "https://www.20minutes.fr/politique/4253734-20261012-presidentielle-2027-ca-existe-ferrand-torpille-mesure-rn-visant-changer-constitution-referendum",
-   "n_members": 71,
+   "title": "Budget de l’UE : Macron a averti qu’un accord serait difficile à conclure en 2027, avec l’élection présidentielle en France",
+   "url": "https://www.cnews.fr/monde/2026-10-12/budget-europeen-ces-7-pays-qui-versent-plus-que-ce-quils-recoivent-en-2026-1933954",
+   "n_members": 62,
    "n_sources": 25,
    "counts": {
     "left": 5,
-    "centre": 9,
-    "right": 11
+    "centre": 12,
+    "right": 8
    },
    "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 5
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 2
    },
-   "blindspot_score": 0.375,
+   "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.675,
+   "divergence": 0.702,
    "category": "politique",
    "terms_left": [
-    "lfi",
-    "gauche",
-    "mesures"
+    "nationale",
+    "assemblée nationale",
+    "assemblée"
    ],
    "terms_right": [
-    "marine",
-    "marine pen",
-    "pen"
+    "france",
+    "budget européen",
+    "européen"
    ]
   },
   {
@@ -935,39 +965,9 @@
    ]
   },
   {
-   "title": "Budget de l’UE : Macron a averti qu’un accord serait difficile à conclure en 2027, avec l’élection présidentielle en France",
-   "url": "https://www.cnews.fr/monde/2026-10-12/budget-europeen-ces-7-pays-qui-versent-plus-que-ce-quils-recoivent-en-2026-1933954",
-   "n_members": 60,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.7,
-   "category": "politique",
-   "terms_left": [
-    "nationale",
-    "assemblée nationale",
-    "assemblée"
-   ],
-   "terms_right": [
-    "france",
-    "budget européen",
-    "européen"
-   ]
-  },
-  {
    "title": "Un micro caché dans du papier toilette chez OpenAI : un ingénieur saoudien arrêté par le FBI",
    "url": "https://www.bfmtv.com/tech/intelligence-artificielle/elle-utilisait-claude-comme-un-journal-intime-l-ia-d-anthropic-l-a-denoncee-en-signalant-a-la-police-son-intention-de-tirer-sur-les-forces-de-l-ordre_AV-202610060631.html",
-   "n_members": 57,
+   "n_members": 58,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -981,17 +981,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.919,
+   "divergence": 0.915,
    "category": "sciences-tech",
    "terms_left": [
-    "meta",
-    "nouveau",
-    "annonce"
+    "annonce",
+    "groupe",
+    "affirme"
    ],
    "terms_right": [
     "anthropic",
-    "nationale",
-    "macron"
+    "intelligence",
+    "nationale"
    ]
   },
   {
@@ -1025,9 +1025,39 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine: nouvel incident attribué à des drones en mer Noire au large de la Roumanie",
+   "title": "Manifestation du 17 octobre : qui est derrière l’appel à la mobilisation qui agite les réseaux",
+   "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-le-budget-prevoit-il-650-millions-en-moins-pour-l-education-nationale-et-1-600-postes-de-professeurs-en-moins-comme-l-affirme-lfi_8223316.html",
+   "n_members": 71,
+   "n_sources": 24,
+   "counts": {
+    "left": 2,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 4,
+    "opinion": 5
+   },
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": 0.939,
+   "category": "société",
+   "terms_left": [
+    "lycéens",
+    "étudiants",
+    "soutien"
+   ],
+   "terms_right": [
+    "macron",
+    "présidentielle",
+    "français"
+   ]
+  },
+  {
+   "title": "Guerre en Ukraine: deux nouveaux navires marchands frappés près des côtes bulgares en mer Noire",
    "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-un-robot-terrestre-ukrainien-parvient-a-detruire-un-drone-kamikaze-russe-au-cours-dun-rare-combat-filme-08-10-2026-KQBNFUWSRBBM3CWZM7DAFKTD4E.php",
-   "n_members": 69,
+   "n_members": 70,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -1041,12 +1071,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.805,
+   "divergence": 0.783,
    "category": "international",
    "terms_left": [
-    "navires",
-    "mer noire",
-    "noire"
+    "attaques",
+    "week-end",
+    "trump"
    ],
    "terms_right": [
     "guerre",
@@ -1112,36 +1142,6 @@
     "états-unis",
     "ratée christa",
     "injections"
-   ]
-  },
-  {
-   "title": "Manifestation du 17 octobre : qui est derrière l’appel à la mobilisation qui agite les réseaux",
-   "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-le-budget-prevoit-il-650-millions-en-moins-pour-l-education-nationale-et-1-600-postes-de-professeurs-en-moins-comme-l-affirme-lfi_8223316.html",
-   "n_members": 66,
-   "n_sources": 23,
-   "counts": {
-    "left": 2,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 4,
-    "opinion": 5
-   },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": 0.944,
-   "category": "politique",
-   "terms_left": [
-    "lycéens",
-    "étudiants",
-    "soutien"
-   ],
-   "terms_right": [
-    "macron",
-    "présidentielle",
-    "emmanuel"
    ]
   },
   {
