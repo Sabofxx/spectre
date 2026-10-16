@@ -1,13 +1,13 @@
 {
  "week": "2026-W42",
- "generated_at": "2026-10-16T18:32:18+00:00",
+ "generated_at": "2026-10-16T21:51:22+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Mobilisation du 17 octobre: vers une démonstration de force?",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 1193,
+   "n_members": 1194,
    "n_sources": 43,
    "counts": {
     "left": 13,
@@ -95,9 +95,9 @@
    ]
   },
   {
-   "title": "La sainte patronne du Brésil réapparaît dans la campagne présidentielle",
+   "title": "Brésil : la déforestation en Amazonie au plus bas depuis près de 40 ans",
    "url": "https://information.tv5monde.com/international/presidentielle-au-bresil-flavio-bolsonaro-surfe-sur-le-scandale-2838501",
-   "n_members": 214,
+   "n_members": 217,
    "n_sources": 37,
    "counts": {
     "left": 9,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.217,
    "blindspot_for": null,
-   "divergence": 0.26,
+   "divergence": 0.262,
    "category": "international",
    "terms_left": [
     "brésil lula",
@@ -127,7 +127,7 @@
   {
    "title": "Guerre en Ukraine : «Plus difficile de travailler avec Volodymyr Zelensky qu’avec Vladimir Poutine», estime Donald Trump",
    "url": "https://fr.euronews.com/2026/10/05/les-exportations-de-petrole-du-moyen-orient-reviennent-a-leur-niveau-davant-guerre-sans-li",
-   "n_members": 278,
+   "n_members": 280,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -146,7 +146,7 @@
    "terms_left": [
     "direct guerre",
     "direct",
-    "guerre ukraine"
+    "accord"
    ],
    "terms_right": [
     "prix",
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.367,
+   "divergence": 0.366,
    "category": "international",
    "terms_left": [
     "soupçon",
@@ -215,9 +215,39 @@
    ]
   },
   {
+   "title": "Gilets jaunes, lycéens, syndicats : à quoi va ressembler la mobilisation du 17 octobre ?",
+   "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-le-budget-prevoit-il-650-millions-en-moins-pour-l-education-nationale-et-1-600-postes-de-professeurs-en-moins-comme-l-affirme-lfi_8223316.html",
+   "n_members": 112,
+   "n_sources": 32,
+   "counts": {
+    "left": 6,
+    "centre": 17,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.741,
+   "category": "société",
+   "terms_left": [
+    "lycéens",
+    "syndicats",
+    "jaunes"
+   ],
+   "terms_right": [
+    "manifestations",
+    "gouvernement",
+    "journée mobilisation"
+   ]
+  },
+  {
    "title": "EN DIRECT - Budget 2027 : les députés rejettent le plafonnement d’un abattement fiscal pour les retraités",
    "url": "https://www.lefigaro.fr/politique/budget-2027-les-deputes-socialistes-ont-le-doigt-sur-le-bouton-de-la-censure-20260930",
-   "n_members": 165,
+   "n_members": 167,
    "n_sources": 31,
    "counts": {
     "left": 8,
@@ -231,7 +261,7 @@
    },
    "blindspot_score": 0.158,
    "blindspot_for": null,
-   "divergence": 0.379,
+   "divergence": 0.375,
    "category": "politique",
    "terms_left": [
     "dette",
@@ -240,8 +270,8 @@
    ],
    "terms_right": [
     "milliards",
-    "milliards euros",
-    "retraités"
+    "impôt",
+    "milliards euros"
    ]
   },
   {
@@ -272,36 +302,6 @@
     "professeurs",
     "lycées",
     "édouard geffray"
-   ]
-  },
-  {
-   "title": "Gilets jaunes, lycéens, syndicats : à quoi va ressembler la mobilisation du 17 octobre ?",
-   "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-le-budget-prevoit-il-650-millions-en-moins-pour-l-education-nationale-et-1-600-postes-de-professeurs-en-moins-comme-l-affirme-lfi_8223316.html",
-   "n_members": 103,
-   "n_sources": 31,
-   "counts": {
-    "left": 6,
-    "centre": 16,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 9,
-    "opinion": 5
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.793,
-   "category": "société",
-   "terms_left": [
-    "lycéens",
-    "syndicats",
-    "gilets"
-   ],
-   "terms_right": [
-    "manifestations",
-    "français",
-    "présidentielle"
    ]
   },
   {
@@ -337,7 +337,7 @@
   {
    "title": "Fusillade à Aubagne : l’adolescent reconnaît les faits mais conteste « avoir voulu tuer »",
    "url": "https://www.nicematin.com/societe/defense/marine/un-incendie-se-declare-a-bord-du-porte-avions-charles-de-gaulle-dans-le-port-de-toulon-10735372",
-   "n_members": 168,
+   "n_members": 175,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -351,17 +351,17 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.296,
+   "divergence": 0.299,
    "category": "société",
    "terms_left": [
     "jeune",
-    "aubagne principal",
-    "présenté"
+    "présenté",
+    "volonté"
    ],
    "terms_right": [
     "tirs",
-    "tirs collège",
-    "élève"
+    "placé",
+    "mineur"
    ]
   },
   {
@@ -381,17 +381,17 @@
    },
    "blindspot_score": -0.059,
    "blindspot_for": null,
-   "divergence": 0.447,
+   "divergence": 0.445,
    "category": "société",
    "terms_left": [
-    "rohan",
     "rohan rane",
+    "rohan",
     "rane"
    ],
    "terms_right": [
     "sexistes",
-    "proposition",
-    "proposition loi"
+    "adopte",
+    "adoptée"
    ]
   },
   {
@@ -425,9 +425,9 @@
    ]
   },
   {
-   "title": "«Ils ont accompagné nos enfants» : après les tirs dans un collège à Aubagne, les parents et élèves solidaires du corps éducatif",
+   "title": "Fusillade à Aubagne : l’influence de la True Crime Community, fascinée par l’extrême violence",
    "url": "https://www.bvoltaire.fr/edito-des-blocus-lyceens-au-college-daubagne-violence-debridee-a-lecole/",
-   "n_members": 63,
+   "n_members": 64,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.39,
+   "divergence": 0.405,
    "category": "société",
    "terms_left": [
     "mouvement",
@@ -449,9 +449,9 @@
     "mouvement lycéen"
    ],
    "terms_right": [
-    "mouvance",
-    "fusillade",
-    "mouvance true"
+    "mouvance true",
+    "fusillade aubagne",
+    "mouvance"
    ]
   },
   {
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.333,
+   "divergence": 0.334,
    "category": "international",
    "terms_left": [
     "guerre ukraine",
@@ -545,6 +545,36 @@
    ]
   },
   {
+   "title": "Sondage Présidentielle 2027 : Marine Le Pen toujours loin devant, percée de Raphaël Glucksmann sur les talons de Jean-Luc Mélenchon, Édouard Philippe en baisse",
+   "url": "https://www.liberation.fr/politique/elections/primaire-sociale-democrate-raphael-glucksmann-se-sent-favori-de-pied-en-cap-clair-20261009_DJUNKU53WJCU3NLYFGJJ4P2Z24/",
+   "n_members": 70,
+   "n_sources": 28,
+   "counts": {
+    "left": 7,
+    "centre": 10,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 10,
+    "opinion": 5
+   },
+   "blindspot_score": 0.222,
+   "blindspot_for": null,
+   "divergence": 0.391,
+   "category": "politique",
+   "terms_left": [
+    "candidat",
+    "primaire ps",
+    "primaire"
+   ],
+   "terms_right": [
+    "marine",
+    "pen",
+    "marine pen"
+   ]
+  },
+  {
    "title": "La Russie affirme avoir livré pour 320 milliards de dollars d’hydrocarbures aux pays européens depuis 2022",
    "url": "https://www.bvoltaire.fr/en-israel-bruno-retailleau-denonce-lantisemitisme-desinhibe-de-la-france-insoumise/",
    "n_members": 70,
@@ -561,12 +591,12 @@
    },
    "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.726,
+   "divergence": 0.717,
    "category": "international",
    "terms_left": [
-    "président",
     "ukraine",
-    "guerre"
+    "guerre",
+    "direct"
    ],
    "terms_right": [
     "bruno retailleau",
@@ -575,39 +605,9 @@
    ]
   },
   {
-   "title": "Sondage Présidentielle 2027 : Marine Le Pen toujours loin devant, percée de Raphaël Glucksmann sur les talons de Jean-Luc Mélenchon, Édouard Philippe en baisse",
-   "url": "https://www.liberation.fr/politique/elections/primaire-sociale-democrate-raphael-glucksmann-se-sent-favori-de-pied-en-cap-clair-20261009_DJUNKU53WJCU3NLYFGJJ4P2Z24/",
-   "n_members": 69,
-   "n_sources": 28,
-   "counts": {
-    "left": 7,
-    "centre": 10,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 10,
-    "opinion": 5
-   },
-   "blindspot_score": 0.222,
-   "blindspot_for": null,
-   "divergence": 0.394,
-   "category": "politique",
-   "terms_left": [
-    "candidat",
-    "primaire ps",
-    "primaire"
-   ],
-   "terms_right": [
-    "pen",
-    "marine",
-    "mois"
-   ]
-  },
-  {
    "title": "Yémen: les Houthis revendiquent une nouvelle attaque contre l'aéroport de Ryad",
    "url": "https://www.lefigaro.fr/international/guerre-en-iran-teheran-affirme-avoir-saisi-un-drone-sous-marin-americain-20260927",
-   "n_members": 209,
+   "n_members": 210,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -621,17 +621,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.331,
+   "divergence": 0.333,
    "category": "international",
    "terms_left": [
     "yémen",
     "face",
-    "missile"
+    "houthistes"
    ],
    "terms_right": [
     "attaque",
-    "ryad",
-    "aéroport"
+    "aéroport",
+    "ryad"
    ]
   },
   {
@@ -667,7 +667,7 @@
   {
    "title": "Budget de l’UE : Macron a averti qu’un accord serait difficile à conclure en 2027, avec l’élection présidentielle en France",
    "url": "https://www.cnews.fr/monde/2026-10-12/budget-europeen-ces-7-pays-qui-versent-plus-que-ce-quils-recoivent-en-2026-1933954",
-   "n_members": 73,
+   "n_members": 74,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -695,9 +695,9 @@
    ]
   },
   {
-   "title": "Crise lycéenne : Greta Thunberg aux côtés des manifestants à Saint-Denis",
+   "title": "Colère des lycéens : « C’est nos mômes »… L’acteur Omar Sy juge la réponse des autorités « lamentable »",
    "url": "https://www.ladepeche.fr/2026/10/09/colere-des-lyceens-flashs-blancs-et-verts-effet-stroboscopique-a-quoi-servent-ces-boucliers-lumineux-utilises-par-la-police-13592059.php",
-   "n_members": 63,
+   "n_members": 64,
    "n_sources": 27,
    "counts": {
     "left": 8,
@@ -711,7 +711,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.552,
+   "divergence": 0.553,
    "category": "société",
    "terms_left": [
     "lycéens",
@@ -771,7 +771,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.517,
+   "divergence": 0.518,
    "category": "économie",
    "terms_left": [
     "chinoise",
@@ -801,7 +801,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.7,
+   "divergence": 0.673,
    "category": "société",
    "terms_left": [
     "mouvement lycéen",
@@ -921,11 +921,11 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.646,
+   "divergence": 0.645,
    "category": "société",
    "terms_left": [
-    "jeunesse",
     "plateforme",
+    "jeunesse",
     "supérieur"
    ],
    "terms_right": [
@@ -997,7 +997,7 @@
   {
    "title": "Starlink restreint en Ukraine : Kiev craint d'être lâché par les américains",
    "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/starlink-a-restreint-ses-operations-pendant-la-nuit-en-ukraine-denonce-un-conseiller-de-volodymyr-zelensky_8236789.html",
-   "n_members": 64,
+   "n_members": 66,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -1011,12 +1011,12 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.574,
+   "divergence": 0.536,
    "category": "international",
    "terms_left": [
     "restreint",
-    "front",
-    "trump"
+    "ukrainienne",
+    "front"
    ],
    "terms_right": [
     "pen",
@@ -1027,7 +1027,7 @@
   {
    "title": "Deux jeunes hommes suspectés d’avoir utilisé un robot pour agresser s*xuellement une adolescente",
    "url": "https://information.tv5monde.com/international/pakistan-pourparlers-entre-les-pro-imran-khan-et-le-gouvernement-2839939",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -1041,11 +1041,11 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.855,
+   "divergence": 0.856,
    "category": "international",
    "terms_left": [
-    "inde",
     "cafards",
+    "inde",
     "modi"
    ],
    "terms_right": [
@@ -1101,17 +1101,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.899,
+   "divergence": 0.896,
    "category": "sciences-tech",
    "terms_left": [
     "entreprise",
     "annonce",
-    "arrestation"
+    "jeunes"
    ],
    "terms_right": [
     "anthropic",
-    "intelligence",
-    "nationale"
+    "macron",
+    "police"
    ]
   },
   {
@@ -1177,7 +1177,7 @@
   {
    "title": "Manifestation du 17 octobre à Paris : le préfet interdit un parcours et propose une alternative",
    "url": "https://www.cnews.fr/france/2026-10-10/octobre-rose-la-nouvelle-provocation-de-la-deputee-lfi-mathilde-panot-qui-refuse",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 24,
    "counts": {
     "left": 2,
@@ -1191,12 +1191,12 @@
    },
    "blindspot_score": 0.667,
    "blindspot_for": "gauche",
-   "divergence": 0.537,
+   "divergence": 0.532,
    "category": "politique",
    "terms_left": [
     "site",
-    "tollé",
-    "république"
+    "république",
+    "tollé"
    ],
    "terms_right": [
     "police",
