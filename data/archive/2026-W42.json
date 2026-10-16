@@ -1,6 +1,6 @@
 {
  "week": "2026-W42",
- "generated_at": "2026-10-15T22:48:09+00:00",
+ "generated_at": "2026-10-16T00:55:25+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.217,
    "blindspot_for": null,
-   "divergence": 0.261,
+   "divergence": 0.26,
    "category": "international",
    "terms_left": [
     "brésil lula",
@@ -217,7 +217,7 @@
   {
    "title": "EN DIRECT - Budget 2027 : les députés rejettent le plafonnement d’un abattement fiscal pour les retraités",
    "url": "https://www.lefigaro.fr/politique/budget-2027-les-deputes-socialistes-ont-le-doigt-sur-le-bouton-de-la-censure-20260930",
-   "n_members": 149,
+   "n_members": 151,
    "n_sources": 31,
    "counts": {
     "left": 8,
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.158,
    "blindspot_for": null,
-   "divergence": 0.409,
+   "divergence": 0.406,
    "category": "politique",
    "terms_left": [
     "dette",
@@ -240,8 +240,8 @@
    ],
    "terms_right": [
     "milliards",
-    "milliards euros",
-    "partie"
+    "impôt",
+    "milliards euros"
    ]
   },
   {
@@ -415,8 +415,8 @@
    "category": "international",
    "terms_left": [
     "guerre ukraine",
-    "blessés",
-    "guerre"
+    "guerre",
+    "blessés"
    ],
    "terms_right": [
     "frappe",
@@ -485,6 +485,36 @@
    ]
   },
   {
+   "title": "Tirs dans un collège à Aubagne : qu'est-ce que le mouvement «True Crime Community» auquel pourrait appartenir le suspect ?",
+   "url": "https://www.bvoltaire.fr/edito-des-blocus-lyceens-au-college-daubagne-violence-debridee-a-lecole/",
+   "n_members": 58,
+   "n_sources": 28,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.395,
+   "category": "société",
+   "terms_left": [
+    "mouvement",
+    "lycéen",
+    "mouvement lycéen"
+   ],
+   "terms_right": [
+    "mouvance",
+    "enquête",
+    "qu"
+   ]
+  },
+  {
    "title": "Yémen: les Houthis revendiquent une nouvelle attaque contre l'aéroport de Ryad",
    "url": "https://www.lefigaro.fr/international/guerre-en-iran-teheran-affirme-avoir-saisi-un-drone-sous-marin-americain-20260927",
    "n_members": 202,
@@ -501,7 +531,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.338,
+   "divergence": 0.337,
    "category": "international",
    "terms_left": [
     "houthistes",
@@ -509,8 +539,8 @@
     "saoudienne"
    ],
    "terms_right": [
-    "attaque",
     "ryad",
+    "attaque",
     "aéroport ryad"
    ]
   },
@@ -561,7 +591,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.386,
+   "divergence": 0.387,
    "category": "politique",
    "terms_left": [
     "candidat",
@@ -685,43 +715,13 @@
    "category": "international",
    "terms_left": [
     "avocate",
-    "justice",
-    "avocate sud-africaine"
+    "avocate sud-africaine",
+    "justice"
    ],
    "terms_right": [
     "prix",
     "nobel",
     "décerné"
-   ]
-  },
-  {
-   "title": "Tirs dans un collège à Aubagne : qu'est-ce que le mouvement «True Crime Community» auquel pourrait appartenir le suspect ?",
-   "url": "https://www.bvoltaire.fr/edito-des-blocus-lyceens-au-college-daubagne-violence-debridee-a-lecole/",
-   "n_members": 54,
-   "n_sources": 27,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 5
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.395,
-   "category": "société",
-   "terms_left": [
-    "mouvement",
-    "lycéen",
-    "mouvement lycéen"
-   ],
-   "terms_right": [
-    "mouvance",
-    "enquête",
-    "qu"
    ]
   },
   {
@@ -861,7 +861,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.313,
+   "divergence": 0.312,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -937,7 +937,7 @@
   {
    "title": "Budget de l’UE : Macron a averti qu’un accord serait difficile à conclure en 2027, avec l’élection présidentielle en France",
    "url": "https://www.cnews.fr/monde/2026-10-12/budget-europeen-ces-7-pays-qui-versent-plus-que-ce-quils-recoivent-en-2026-1933954",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -967,7 +967,7 @@
   {
    "title": "Un micro caché dans du papier toilette chez OpenAI : un ingénieur saoudien arrêté par le FBI",
    "url": "https://www.bfmtv.com/tech/intelligence-artificielle/elle-utilisait-claude-comme-un-journal-intime-l-ia-d-anthropic-l-a-denoncee-en-signalant-a-la-police-son-intention-de-tirer-sur-les-forces-de-l-ordre_AV-202610060631.html",
-   "n_members": 55,
+   "n_members": 57,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -984,14 +984,14 @@
    "divergence": 0.919,
    "category": "sciences-tech",
    "terms_left": [
-    "openai",
+    "meta",
     "nouveau",
     "annonce"
    ],
    "terms_right": [
     "anthropic",
     "nationale",
-    "sécurité"
+    "macron"
    ]
   },
   {
@@ -1170,8 +1170,8 @@
    ],
    "terms_right": [
     "bagayoko",
-    "bally bagayoko",
-    "bally"
+    "bally",
+    "bally bagayoko"
    ]
   },
   {
