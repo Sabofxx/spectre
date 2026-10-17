@@ -1,13 +1,13 @@
 {
  "week": "2026-W42",
- "generated_at": "2026-10-17T00:04:12+00:00",
+ "generated_at": "2026-10-17T04:46:26+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Mobilisation du 17 octobre: vers une démonstration de force?",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 1194,
+   "n_members": 1198,
    "n_sources": 43,
    "counts": {
     "left": 13,
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.277,
+   "divergence": 0.275,
    "category": "société",
    "terms_left": [
     "mouvement lycéen",
     "mouvement",
-    "direct"
+    "lycéen"
    ],
    "terms_right": [
     "blocus",
@@ -97,7 +97,7 @@
   {
    "title": "Brésil : la déforestation en Amazonie au plus bas depuis près de 40 ans",
    "url": "https://information.tv5monde.com/international/presidentielle-au-bresil-flavio-bolsonaro-surfe-sur-le-scandale-2838501",
-   "n_members": 217,
+   "n_members": 218,
    "n_sources": 37,
    "counts": {
     "left": 9,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.448,
+   "divergence": 0.441,
    "category": "économie",
    "terms_left": [
     "frigos",
@@ -179,9 +179,39 @@
     "visant"
    ],
    "terms_right": [
-    "euros",
     "président",
-    "cyberattaque supermarchés"
+    "cyberattaque supermarchés",
+    "euros"
+   ]
+  },
+  {
+   "title": "Gilets jaunes, lycéens, syndicats : à quoi va ressembler la mobilisation du 17 octobre ?",
+   "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-le-budget-prevoit-il-650-millions-en-moins-pour-l-education-nationale-et-1-600-postes-de-professeurs-en-moins-comme-l-affirme-lfi_8223316.html",
+   "n_members": 119,
+   "n_sources": 32,
+   "counts": {
+    "left": 6,
+    "centre": 17,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.68,
+   "category": "société",
+   "terms_left": [
+    "syndicats",
+    "lycéens",
+    "cgt"
+   ],
+   "terms_right": [
+    "manifestations",
+    "gouvernement",
+    "emmanuel macron"
    ]
   },
   {
@@ -215,36 +245,6 @@
    ]
   },
   {
-   "title": "Gilets jaunes, lycéens, syndicats : à quoi va ressembler la mobilisation du 17 octobre ?",
-   "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-le-budget-prevoit-il-650-millions-en-moins-pour-l-education-nationale-et-1-600-postes-de-professeurs-en-moins-comme-l-affirme-lfi_8223316.html",
-   "n_members": 113,
-   "n_sources": 32,
-   "counts": {
-    "left": 6,
-    "centre": 17,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 18,
-    "mixte": 9,
-    "opinion": 5
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.718,
-   "category": "société",
-   "terms_left": [
-    "syndicats",
-    "lycéens",
-    "étudiants"
-   ],
-   "terms_right": [
-    "manifestations",
-    "gouvernement",
-    "journée mobilisation"
-   ]
-  },
-  {
    "title": "EN DIRECT - Budget 2027 : les députés rejettent le plafonnement d’un abattement fiscal pour les retraités",
    "url": "https://www.lefigaro.fr/politique/budget-2027-les-deputes-socialistes-ont-le-doigt-sur-le-bouton-de-la-censure-20260930",
    "n_members": 167,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.158,
    "blindspot_for": null,
-   "divergence": 0.375,
+   "divergence": 0.376,
    "category": "politique",
    "terms_left": [
     "dette",
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.412,
+   "divergence": 0.413,
    "category": "politique",
    "terms_left": [
     "lfi",
@@ -384,8 +384,8 @@
    "divergence": 0.445,
    "category": "société",
    "terms_left": [
-    "rohan rane",
     "rane",
+    "rohan rane",
     "rohan"
    ],
    "terms_right": [
@@ -475,7 +475,7 @@
    "category": "international",
    "terms_left": [
     "guerre ukraine",
-    "direct",
+    "guerre",
     "blessés"
    ],
    "terms_right": [
@@ -607,7 +607,7 @@
   {
    "title": "« La France ne protège pas assez ses enfants » : un rapport du Sénat dénonce des défaillances « systémiques » dans le périscolaire",
    "url": "https://www.valeursactuelles.com/economie/124-pays-beneficiaires-un-rapport-confidentiel-pointe-les-failles-francaises-de-laide-au-developpement",
-   "n_members": 55,
+   "n_members": 58,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -621,12 +621,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.667,
+   "divergence": 0.663,
    "category": "société",
    "terms_left": [
     "mesures",
     "ministre",
-    "femmes"
+    "défaillances"
    ],
    "terms_right": [
     "cour comptes",
@@ -651,7 +651,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.333,
+   "divergence": 0.335,
    "category": "international",
    "terms_left": [
     "yémen",
@@ -745,13 +745,13 @@
    "category": "société",
    "terms_left": [
     "lycéens",
-    "mouvement lycéen",
-    "lycéen"
+    "nouveau",
+    "ténèbres"
    ],
    "terms_right": [
-    "saint-denis",
     "lycéenne",
-    "mobilisation"
+    "mobilisation",
+    "saint-denis"
    ]
   },
   {
@@ -839,8 +839,8 @@
     "lycée"
    ],
    "terms_right": [
-    "français",
     "violences",
+    "français",
     "lycées"
    ]
   },
@@ -872,6 +872,36 @@
     "décerné",
     "prix",
     "trump"
+   ]
+  },
+  {
+   "title": "L'Inde devrait supplanter le Japon comme 4e économie mondiale en 2027, selon le FMI",
+   "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261012-le-prix-nobel-d-%C3%A9conomie-2026-est-attribu%C3%A9-%C3%A0-robert-e-hall-et-michael-woodford",
+   "n_members": 58,
+   "n_sources": 27,
+   "counts": {
+    "left": 3,
+    "centre": 13,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.571,
+   "blindspot_for": null,
+   "divergence": 0.43,
+   "category": "économie",
+   "terms_left": [
+    "woodford robert",
+    "américains michael",
+    "robert"
+   ],
+   "terms_right": [
+    "mondiale",
+    "mois",
+    "pays"
    ]
   },
   {
@@ -937,7 +967,7 @@
   {
    "title": "Mouvement des lycéens : le syndicat de police Alliance dépose plainte contre l'État pour mise en danger de la vie d'autrui",
    "url": "https://www.europe1.fr/societe/parcoursup-met-en-place-un-tri-raciste-et-social-cest-totalement-faux-repond-le-delegue-national-de-luni-1132004",
-   "n_members": 69,
+   "n_members": 70,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -951,7 +981,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.645,
+   "divergence": 0.641,
    "category": "société",
    "terms_left": [
     "plateforme",
@@ -1071,7 +1101,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.856,
+   "divergence": 0.855,
    "category": "international",
    "terms_left": [
     "cafards",
@@ -1080,8 +1110,8 @@
    ],
    "terms_right": [
     "ans",
-    "paris",
-    "robot"
+    "robot",
+    "adolescente"
    ]
   },
   {
@@ -1172,36 +1202,6 @@
     "ukraine",
     "guerre",
     "guerre ukraine"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : Gabriel Attal et Édouard Philippe appellent au rassemblement, mais chacun dans son couloir",
-   "url": "https://www.franceinfo.fr/politique/edouard-philippe/appel-a-temoignages-posez-vos-questions-a-edouard-philippe-invite-de-l-heure-de-verite_8224003.html",
-   "n_members": 61,
-   "n_sources": 24,
-   "counts": {
-    "left": 7,
-    "centre": 9,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.067,
-   "blindspot_for": null,
-   "divergence": 0.72,
-   "category": "politique",
-   "terms_left": [
-    "edouard",
-    "edouard philippe",
-    "heure"
-   ],
-   "terms_right": [
-    "édouard",
-    "édouard philippe",
-    "qu"
    ]
   }
  ]
