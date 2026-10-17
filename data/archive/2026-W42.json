@@ -1,6 +1,6 @@
 {
  "week": "2026-W42",
- "generated_at": "2026-10-16T21:51:22+00:00",
+ "generated_at": "2026-10-17T00:04:12+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -217,7 +217,7 @@
   {
    "title": "Gilets jaunes, lycéens, syndicats : à quoi va ressembler la mobilisation du 17 octobre ?",
    "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-le-budget-prevoit-il-650-millions-en-moins-pour-l-education-nationale-et-1-600-postes-de-professeurs-en-moins-comme-l-affirme-lfi_8223316.html",
-   "n_members": 112,
+   "n_members": 113,
    "n_sources": 32,
    "counts": {
     "left": 6,
@@ -231,12 +231,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.741,
+   "divergence": 0.718,
    "category": "société",
    "terms_left": [
-    "lycéens",
     "syndicats",
-    "jaunes"
+    "lycéens",
+    "étudiants"
    ],
    "terms_right": [
     "manifestations",
@@ -305,6 +305,36 @@
    ]
   },
   {
+   "title": "Fusillade à Aubagne : l’adolescent reconnaît les faits mais conteste « avoir voulu tuer »",
+   "url": "https://www.nicematin.com/societe/defense/marine/un-incendie-se-declare-a-bord-du-porte-avions-charles-de-gaulle-dans-le-port-de-toulon-10735372",
+   "n_members": 177,
+   "n_sources": 30,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 6
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.3,
+   "category": "société",
+   "terms_left": [
+    "jeune",
+    "présenté",
+    "volonté"
+   ],
+   "terms_right": [
+    "tirs",
+    "mineur",
+    "placé"
+   ]
+  },
+  {
    "title": "Présidentielle 2027 : Raphaël Glucksmann au défi de faire durer \"l'effet primaire\"",
    "url": "https://www.liberation.fr/politique/elections/jerome-guedj-candidat-a-la-primaire-sociale-democrate-le-ps-creve-de-ses-ambiguites-20261003_HNVYH3XILJECVIJUXZNV4FGCCI/",
    "n_members": 176,
@@ -335,36 +365,6 @@
    ]
   },
   {
-   "title": "Fusillade à Aubagne : l’adolescent reconnaît les faits mais conteste « avoir voulu tuer »",
-   "url": "https://www.nicematin.com/societe/defense/marine/un-incendie-se-declare-a-bord-du-porte-avions-charles-de-gaulle-dans-le-port-de-toulon-10735372",
-   "n_members": 175,
-   "n_sources": 30,
-   "counts": {
-    "left": 6,
-    "centre": 14,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 6
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.299,
-   "category": "société",
-   "terms_left": [
-    "jeune",
-    "présenté",
-    "volonté"
-   ],
-   "terms_right": [
-    "tirs",
-    "placé",
-    "mineur"
-   ]
-  },
-  {
    "title": "Violences sexistes et sexuelles : la proposition de loi «intégrale» adoptée à l'unanimité à l'Assemblée",
    "url": "https://next.ink/259150/discord-accusee-detre-un-terrain-de-chasse-de-mineurs-et-de-ne-pas-les-proteger/",
    "n_members": 106,
@@ -385,8 +385,8 @@
    "category": "société",
    "terms_left": [
     "rohan rane",
-    "rohan",
-    "rane"
+    "rane",
+    "rohan"
    ],
    "terms_right": [
     "sexistes",
@@ -591,17 +591,47 @@
    },
    "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.717,
+   "divergence": 0.725,
    "category": "international",
    "terms_left": [
-    "ukraine",
     "guerre",
-    "direct"
+    "direct",
+    "russes"
    ],
    "terms_right": [
     "bruno retailleau",
     "bruno",
     "retailleau"
+   ]
+  },
+  {
+   "title": "« La France ne protège pas assez ses enfants » : un rapport du Sénat dénonce des défaillances « systémiques » dans le périscolaire",
+   "url": "https://www.valeursactuelles.com/economie/124-pays-beneficiaires-un-rapport-confidentiel-pointe-les-failles-francaises-de-laide-au-developpement",
+   "n_members": 55,
+   "n_sources": 28,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.667,
+   "category": "société",
+   "terms_left": [
+    "mesures",
+    "ministre",
+    "femmes"
+   ],
+   "terms_right": [
+    "cour comptes",
+    "comptes",
+    "cour"
    ]
   },
   {
@@ -667,7 +697,7 @@
   {
    "title": "Budget de l’UE : Macron a averti qu’un accord serait difficile à conclure en 2027, avec l’élection présidentielle en France",
    "url": "https://www.cnews.fr/monde/2026-10-12/budget-europeen-ces-7-pays-qui-versent-plus-que-ce-quils-recoivent-en-2026-1933954",
-   "n_members": 74,
+   "n_members": 75,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -1172,36 +1202,6 @@
     "édouard",
     "édouard philippe",
     "qu"
-   ]
-  },
-  {
-   "title": "Manifestation du 17 octobre à Paris : le préfet interdit un parcours et propose une alternative",
-   "url": "https://www.cnews.fr/france/2026-10-10/octobre-rose-la-nouvelle-provocation-de-la-deputee-lfi-mathilde-panot-qui-refuse",
-   "n_members": 61,
-   "n_sources": 24,
-   "counts": {
-    "left": 2,
-    "centre": 12,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.667,
-   "blindspot_for": "gauche",
-   "divergence": 0.532,
-   "category": "politique",
-   "terms_left": [
-    "site",
-    "république",
-    "tollé"
-   ],
-   "terms_right": [
-    "police",
-    "préfecture",
-    "parcours"
    ]
   }
  ]
