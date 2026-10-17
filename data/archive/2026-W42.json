@@ -1,13 +1,13 @@
 {
  "week": "2026-W42",
- "generated_at": "2026-10-17T12:36:31+00:00",
+ "generated_at": "2026-10-17T16:02:57+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "Mobilisation du 17 octobre: vers une démonstration de force?",
+   "title": "Mobilisation du 17 octobre: qui est à l'origine du mouvement ?",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 1207,
+   "n_members": 1209,
    "n_sources": 43,
    "counts": {
     "left": 13,
@@ -21,11 +21,11 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.276,
+   "divergence": 0.277,
    "category": "société",
    "terms_left": [
-    "mouvement lycéen",
     "mouvement",
+    "mouvement lycéen",
     "direct"
    ],
    "terms_right": [
@@ -127,7 +127,7 @@
   {
    "title": "Guerre en Ukraine : «Plus difficile de travailler avec Volodymyr Zelensky qu’avec Vladimir Poutine», estime Donald Trump",
    "url": "https://fr.euronews.com/2026/10/05/les-exportations-de-petrole-du-moyen-orient-reviennent-a-leur-niveau-davant-guerre-sans-li",
-   "n_members": 280,
+   "n_members": 281,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -185,9 +185,9 @@
    ]
   },
   {
-   "title": "Gilets jaunes, lycéens, syndicats : à quoi va ressembler la mobilisation du 17 octobre ?",
+   "title": "Mobilisation du 17 octobre : un samedi sous haute tension, des manifestations attendues partout en France",
    "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-le-budget-prevoit-il-650-millions-en-moins-pour-l-education-nationale-et-1-600-postes-de-professeurs-en-moins-comme-l-affirme-lfi_8223316.html",
-   "n_members": 158,
+   "n_members": 171,
    "n_sources": 32,
    "counts": {
     "left": 6,
@@ -201,17 +201,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.618,
+   "divergence": 0.591,
    "category": "société",
    "terms_left": [
     "syndicats",
-    "place république",
-    "place"
+    "cgt",
+    "grandes villes"
    ],
    "terms_right": [
-    "manifestations",
     "journée mobilisation",
-    "journée"
+    "vie chère",
+    "chère"
    ]
   },
   {
@@ -261,12 +261,12 @@
    },
    "blindspot_score": 0.158,
    "blindspot_for": null,
-   "divergence": 0.376,
+   "divergence": 0.381,
    "category": "politique",
    "terms_left": [
-    "dette",
+    "rejet",
     "hémicycle",
-    "partir"
+    "motion"
    ],
    "terms_right": [
     "milliards",
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.5,
+   "divergence": 0.499,
    "category": "société",
    "terms_left": [
     "mobilisation",
@@ -321,17 +321,17 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.284,
+   "divergence": 0.286,
    "category": "société",
    "terms_left": [
     "jeune",
-    "établissement",
-    "interrogé"
+    "masse",
+    "tueries masse"
    ],
    "terms_right": [
     "placé",
     "examen",
-    "tirs"
+    "mis examen"
    ]
   },
   {
@@ -381,17 +381,17 @@
    },
    "blindspot_score": -0.059,
    "blindspot_for": null,
-   "divergence": 0.457,
+   "divergence": 0.452,
    "category": "société",
    "terms_left": [
-    "rohan",
     "rohan rane",
-    "rane"
+    "rane",
+    "rohan"
    ],
    "terms_right": [
     "sexistes",
-    "nationale",
-    "assemblée nationale"
+    "violences sexistes",
+    "nationale"
    ]
   },
   {
@@ -425,6 +425,36 @@
    ]
   },
   {
+   "title": "Présidentielle 2027 : Richard Ferrand « doit quitter la tête du Conseil constitutionnel », estime Marine Le Pen",
+   "url": "https://www.20minutes.fr/politique/4253734-20261012-presidentielle-2027-ca-existe-ferrand-torpille-mesure-rn-visant-changer-constitution-referendum",
+   "n_members": 83,
+   "n_sources": 29,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 6
+   },
+   "blindspot_score": 0.412,
+   "blindspot_for": null,
+   "divergence": 0.671,
+   "category": "politique",
+   "terms_left": [
+    "lfi",
+    "recettes",
+    "gauche"
+   ],
+   "terms_right": [
+    "marine",
+    "marine pen",
+    "pen"
+   ]
+  },
+  {
    "title": "Attaque d’Aubagne : “True Crime”, cette mouvance qui “sacralise de manière extrême les meurtriers”",
    "url": "https://www.bvoltaire.fr/edito-des-blocus-lyceens-au-college-daubagne-violence-debridee-a-lecole/",
    "n_members": 65,
@@ -441,7 +471,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.398,
+   "divergence": 0.399,
    "category": "société",
    "terms_left": [
     "mouvement",
@@ -449,9 +479,9 @@
     "mouvement lycéen"
    ],
    "terms_right": [
-    "fusillade",
     "fusillade aubagne",
-    "qu"
+    "fusillade",
+    "mouvance"
    ]
   },
   {
@@ -471,7 +501,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.656,
+   "divergence": 0.655,
    "category": "société",
    "terms_left": [
     "mesures",
@@ -501,7 +531,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.333,
+   "divergence": 0.334,
    "category": "international",
    "terms_left": [
     "guerre ukraine",
@@ -512,36 +542,6 @@
     "frappe",
     "alerte",
     "frappe russe"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : Richard Ferrand « doit quitter la tête du Conseil constitutionnel », estime Marine Le Pen",
-   "url": "https://www.20minutes.fr/politique/4253734-20261012-presidentielle-2027-ca-existe-ferrand-torpille-mesure-rn-visant-changer-constitution-referendum",
-   "n_members": 82,
-   "n_sources": 28,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 7,
-    "opinion": 5
-   },
-   "blindspot_score": 0.375,
-   "blindspot_for": null,
-   "divergence": 0.655,
-   "category": "politique",
-   "terms_left": [
-    "lfi",
-    "recettes",
-    "gauche"
-   ],
-   "terms_right": [
-    "marine",
-    "marine pen",
-    "pen"
    ]
   },
   {
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.807,
+   "divergence": 0.818,
    "category": "société",
    "terms_left": [
     "mobilisation lycéenne",
@@ -569,8 +569,8 @@
     "mobilisation"
    ],
    "terms_right": [
-    "lycéens",
     "français",
+    "lycéens",
     "lycées"
    ]
   },
@@ -621,17 +621,47 @@
    },
    "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.733,
+   "divergence": 0.739,
    "category": "international",
    "terms_left": [
     "guerre",
-    "direct",
-    "russes"
+    "ukraine",
+    "direct"
    ],
    "terms_right": [
     "bruno retailleau",
     "bruno",
-    "milliards"
+    "retailleau"
+   ]
+  },
+  {
+   "title": "Justice : l’institution fait bloc derrière le juge Youssef Badr, ciblé par le média Frontières",
+   "url": "https://www.lemonde.fr/international/article/2026/10/10/palestine-mahmoud-abbas-repousse-les-elections-legislatives-d-un-an-et-convoque-des-elections-presidentielles-en-septembre-2027_6790992_3210.html",
+   "n_members": 60,
+   "n_sources": 28,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.623,
+   "category": "international",
+   "terms_left": [
+    "attaques",
+    "bobigny",
+    "paris"
+   ],
+   "terms_right": [
+    "cyberharcèlement",
+    "justice",
+    "km"
    ]
   },
   {
@@ -711,7 +741,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.653,
+   "divergence": 0.654,
    "category": "politique",
    "terms_left": [
     "nationale",
@@ -771,7 +801,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.539,
+   "divergence": 0.53,
    "category": "société",
    "terms_left": [
     "lycéens",
@@ -779,9 +809,9 @@
     "ténèbres"
    ],
    "terms_right": [
-    "lycéenne",
-    "mobilisation",
-    "saint-denis"
+    "sy",
+    "omar sy",
+    "omar"
    ]
   },
   {
@@ -801,7 +831,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.512,
+   "divergence": 0.515,
    "category": "économie",
    "terms_left": [
     "paris",
@@ -810,8 +840,8 @@
    ],
    "terms_right": [
     "constructeurs",
-    "face",
-    "bfm"
+    "bfm",
+    "face"
    ]
   },
   {
@@ -861,16 +891,16 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.662,
+   "divergence": 0.665,
    "category": "société",
    "terms_left": [
     "mouvement lycéen",
     "lycéen",
-    "nouvelle"
+    "marge"
    ],
    "terms_right": [
-    "violences",
     "français",
+    "violences",
     "lycées"
    ]
   },
@@ -921,7 +951,7 @@
    },
    "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.429,
+   "divergence": 0.425,
    "category": "économie",
    "terms_left": [
     "woodford robert",
@@ -929,9 +959,9 @@
     "robert"
    ],
    "terms_right": [
+    "france",
     "mondiale",
-    "mois",
-    "pays"
+    "mois"
    ]
   },
   {
@@ -981,7 +1011,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.842,
+   "divergence": 0.843,
    "category": "société",
    "terms_left": [
     "temps",
@@ -995,9 +1025,39 @@
    ]
   },
   {
+   "title": "«L'intérêt national des États-Unis» : en pleine crise avec Kiev, Donald Trump exempte la Russie de nouvelles sanctions",
+   "url": "https://www.leparisien.fr/international/etats-unis/a-trois-semaines-des-midterms-elon-musk-a-deja-depense-276-millions-de-dollars-pour-les-republicains-13-10-2026-77B5VXYWHZCQZAD4EVCNQTU57I.php",
+   "n_members": 59,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.492,
+   "category": "international",
+   "terms_left": [
+    "prix",
+    "guerre",
+    "républicains"
+   ],
+   "terms_right": [
+    "nouvelles sanctions",
+    "nouvelles",
+    "groenland"
+   ]
+  },
+  {
    "title": "Contestation en Inde: le chef des «cafards» à nouveau arrêté à New Delhi avant une nouvelle manifestation",
    "url": "https://www.bfmtv.com/police-justice/mobilisation-lyceenne-deux-adolescentes-blessees-au-dos-et-a-l-oreille-apres-des-tirs-de-mortiers-au-blanc-mesnil_AN-202610060640.html",
-   "n_members": 89,
+   "n_members": 90,
    "n_sources": 25,
    "counts": {
     "left": 7,
@@ -1011,7 +1071,7 @@
    },
    "blindspot_score": -0.273,
    "blindspot_for": null,
-   "divergence": 0.774,
+   "divergence": 0.775,
    "category": "international",
    "terms_left": [
     "manifestations lycéennes",
@@ -1071,11 +1131,11 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.567,
+   "divergence": 0.571,
    "category": "international",
    "terms_left": [
     "restreint",
-    "ukrainienne",
+    "trump",
     "spacex"
    ],
    "terms_right": [
@@ -1101,7 +1161,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.854,
+   "divergence": 0.837,
    "category": "international",
    "terms_left": [
     "inde",
@@ -1142,66 +1202,6 @@
     "personnes",
     "région",
     "cyberattaque"
-   ]
-  },
-  {
-   "title": "Un micro caché dans du papier toilette chez OpenAI : un ingénieur saoudien arrêté par le FBI",
-   "url": "https://www.bfmtv.com/tech/intelligence-artificielle/elle-utilisait-claude-comme-un-journal-intime-l-ia-d-anthropic-l-a-denoncee-en-signalant-a-la-police-son-intention-de-tirer-sur-les-forces-de-l-ordre_AV-202610060631.html",
-   "n_members": 59,
-   "n_sources": 25,
-   "counts": {
-    "left": 4,
-    "centre": 14,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 10,
-    "opinion": 0
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.9,
-   "category": "sciences-tech",
-   "terms_left": [
-    "meta",
-    "entreprise",
-    "annonce"
-   ],
-   "terms_right": [
-    "anthropic",
-    "police",
-    "trump"
-   ]
-  },
-  {
-   "title": "Guerre en Ukraine: nouvel incident attribué à des drones en mer Noire au large de la Roumanie",
-   "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-un-robot-terrestre-ukrainien-parvient-a-detruire-un-drone-kamikaze-russe-au-cours-dun-rare-combat-filme-08-10-2026-KQBNFUWSRBBM3CWZM7DAFKTD4E.php",
-   "n_members": 73,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 1
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.784,
-   "category": "international",
-   "terms_left": [
-    "attaques",
-    "week-end",
-    "trump"
-   ],
-   "terms_right": [
-    "ukraine",
-    "guerre",
-    "guerre ukraine"
    ]
   }
  ]
