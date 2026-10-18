@@ -1,6 +1,6 @@
 {
  "week": "2026-W42",
- "generated_at": "2026-10-17T23:16:18+00:00",
+ "generated_at": "2026-10-18T01:18:14+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -187,7 +187,7 @@
   {
    "title": "Mobilisation du 17 octobre : un samedi sous haute tension, des manifestations attendues partout en France",
    "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-le-budget-prevoit-il-650-millions-en-moins-pour-l-education-nationale-et-1-600-postes-de-professeurs-en-moins-comme-l-affirme-lfi_8223316.html",
-   "n_members": 204,
+   "n_members": 205,
    "n_sources": 33,
    "counts": {
     "left": 6,
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.285,
+   "divergence": 0.286,
    "category": "société",
    "terms_left": [
     "masse",
@@ -384,8 +384,8 @@
    "divergence": 0.453,
    "category": "société",
    "terms_left": [
-    "rohan",
     "rane",
+    "rohan",
     "rohan rane"
    ],
    "terms_right": [
@@ -452,6 +452,36 @@
     "marine",
     "marine pen",
     "pen"
+   ]
+  },
+  {
+   "title": "Sondage Présidentielle 2027 : Marine Le Pen toujours loin devant, percée de Raphaël Glucksmann sur les talons de Jean-Luc Mélenchon, Édouard Philippe en baisse",
+   "url": "https://www.liberation.fr/politique/elections/primaire-sociale-democrate-raphael-glucksmann-se-sent-favori-de-pied-en-cap-clair-20261009_DJUNKU53WJCU3NLYFGJJ4P2Z24/",
+   "n_members": 72,
+   "n_sources": 29,
+   "counts": {
+    "left": 7,
+    "centre": 11,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 10,
+    "opinion": 5
+   },
+   "blindspot_score": 0.222,
+   "blindspot_for": null,
+   "divergence": 0.387,
+   "category": "politique",
+   "terms_left": [
+    "candidat",
+    "primaire",
+    "primaire ps"
+   ],
+   "terms_right": [
+    "marine",
+    "pen",
+    "mélenchon"
    ]
   },
   {
@@ -531,12 +561,12 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.337,
+   "divergence": 0.336,
    "category": "international",
    "terms_left": [
     "guerre ukraine",
-    "direct",
-    "guerre"
+    "guerre",
+    "direct"
    ],
    "terms_right": [
     "frappe",
@@ -572,36 +602,6 @@
     "lycéens",
     "français",
     "lycées"
-   ]
-  },
-  {
-   "title": "Sondage Présidentielle 2027 : Marine Le Pen toujours loin devant, percée de Raphaël Glucksmann sur les talons de Jean-Luc Mélenchon, Édouard Philippe en baisse",
-   "url": "https://www.liberation.fr/politique/elections/primaire-sociale-democrate-raphael-glucksmann-se-sent-favori-de-pied-en-cap-clair-20261009_DJUNKU53WJCU3NLYFGJJ4P2Z24/",
-   "n_members": 71,
-   "n_sources": 28,
-   "counts": {
-    "left": 7,
-    "centre": 10,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 10,
-    "opinion": 5
-   },
-   "blindspot_score": 0.222,
-   "blindspot_for": null,
-   "divergence": 0.387,
-   "category": "politique",
-   "terms_left": [
-    "candidat",
-    "primaire",
-    "primaire ps"
-   ],
-   "terms_right": [
-    "marine",
-    "pen",
-    "mélenchon"
    ]
   },
   {
@@ -1131,7 +1131,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.59,
+   "divergence": 0.589,
    "category": "international",
    "terms_left": [
     "spacex",
