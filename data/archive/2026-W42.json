@@ -1,13 +1,13 @@
 {
  "week": "2026-W42",
- "generated_at": "2026-10-18T06:11:53+00:00",
+ "generated_at": "2026-10-18T11:29:30+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Mobilisation du 17 octobre : comment les gilets jaunes tentent de structurer le mouvement, relancé par la colère lycéenne",
    "url": "https://www.sudouest.fr/politique/education/education-plusieurs-lycees-d-ile-de-france-bloques-par-des-eleves-protestant-contre-des-emplois-du-temps-surcharges-30764108.php",
-   "n_members": 1219,
+   "n_members": 1220,
    "n_sources": 43,
    "counts": {
     "left": 13,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.279,
+   "divergence": 0.28,
    "category": "société",
    "terms_left": [
     "mouvement",
@@ -127,7 +127,7 @@
   {
    "title": "Guerre en Ukraine : «Plus difficile de travailler avec Volodymyr Zelensky qu’avec Vladimir Poutine», estime Donald Trump",
    "url": "https://fr.euronews.com/2026/10/05/les-exportations-de-petrole-du-moyen-orient-reviennent-a-leur-niveau-davant-guerre-sans-li",
-   "n_members": 282,
+   "n_members": 285,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -141,11 +141,11 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.289,
+   "divergence": 0.29,
    "category": "international",
    "terms_left": [
-    "direct guerre",
     "direct",
+    "direct guerre",
     "accord"
    ],
    "terms_right": [
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.44,
+   "divergence": 0.439,
    "category": "économie",
    "terms_left": [
     "frigos",
@@ -187,7 +187,7 @@
   {
    "title": "Mobilisation du 17 octobre : un samedi sous haute tension, des manifestations attendues partout en France",
    "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-le-budget-prevoit-il-650-millions-en-moins-pour-l-education-nationale-et-1-600-postes-de-professeurs-en-moins-comme-l-affirme-lfi_8223316.html",
-   "n_members": 219,
+   "n_members": 250,
    "n_sources": 33,
    "counts": {
     "left": 6,
@@ -201,17 +201,17 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.556,
+   "divergence": 0.513,
    "category": "société",
    "terms_left": [
     "syndicats",
-    "capitale",
-    "appel"
+    "groupes",
+    "capitale"
    ],
    "terms_right": [
+    "paris",
     "vie chère",
-    "chère",
-    "vie"
+    "chère"
    ]
   },
   {
@@ -261,17 +261,17 @@
    },
    "blindspot_score": 0.158,
    "blindspot_for": null,
-   "divergence": 0.38,
+   "divergence": 0.375,
    "category": "politique",
    "terms_left": [
     "rejet",
-    "hémicycle",
-    "motion"
+    "motion",
+    "motion rejet"
    ],
    "terms_right": [
     "milliards",
-    "impôt",
-    "milliards euros"
+    "milliards euros",
+    "euros"
    ]
   },
   {
@@ -291,12 +291,12 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.493,
+   "divergence": 0.482,
    "category": "société",
    "terms_left": [
     "mobilisation",
-    "annonces",
-    "edouard"
+    "lycéennes",
+    "organisations"
    ],
    "terms_right": [
     "professeurs",
@@ -321,23 +321,23 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.285,
+   "divergence": 0.268,
    "category": "société",
    "terms_left": [
-    "masse",
-    "tueries",
-    "tueries masse"
+    "jeune",
+    "crime",
+    "true"
    ],
    "terms_right": [
-    "tirs",
     "examen",
-    "judiciaire"
+    "tirs",
+    "mis examen"
    ]
   },
   {
    "title": "Présidentielle 2027 : Raphaël Glucksmann au défi de faire durer \"l'effet primaire\"",
    "url": "https://www.liberation.fr/politique/elections/jerome-guedj-candidat-a-la-primaire-sociale-democrate-le-ps-creve-de-ses-ambiguites-20261003_HNVYH3XILJECVIJUXZNV4FGCCI/",
-   "n_members": 176,
+   "n_members": 177,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -381,7 +381,7 @@
    },
    "blindspot_score": -0.059,
    "blindspot_for": null,
-   "divergence": 0.453,
+   "divergence": 0.458,
    "category": "société",
    "terms_left": [
     "rohan rane",
@@ -390,8 +390,8 @@
    ],
    "terms_right": [
     "sexistes",
-    "violences sexistes",
-    "nationale"
+    "nationale",
+    "assemblée nationale"
    ]
   },
   {
@@ -441,12 +441,12 @@
    },
    "blindspot_score": 0.412,
    "blindspot_for": null,
-   "divergence": 0.685,
+   "divergence": 0.709,
    "category": "politique",
    "terms_left": [
     "lfi",
     "recettes",
-    "gauche"
+    "milliards"
    ],
    "terms_right": [
     "marine",
@@ -457,7 +457,7 @@
   {
    "title": "Sondage Présidentielle 2027 : Marine Le Pen toujours loin devant, percée de Raphaël Glucksmann sur les talons de Jean-Luc Mélenchon, Édouard Philippe en baisse",
    "url": "https://www.liberation.fr/politique/elections/primaire-sociale-democrate-raphael-glucksmann-se-sent-favori-de-pied-en-cap-clair-20261009_DJUNKU53WJCU3NLYFGJJ4P2Z24/",
-   "n_members": 73,
+   "n_members": 74,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.37,
+   "divergence": 0.385,
    "category": "société",
    "terms_left": [
     "mouvement",
@@ -511,13 +511,13 @@
    "terms_right": [
     "fusillade aubagne",
     "fusillade",
-    "mouvance"
+    "qu"
    ]
   },
   {
-   "title": "« La France ne protège pas assez ses enfants » : un rapport du Sénat dénonce des défaillances « systémiques » dans le périscolaire",
+   "title": "Périscolaire : «Les défaillances systémiques» à Paris révèlent des failles présentes dans toute la France",
    "url": "https://www.valeursactuelles.com/economie/124-pays-beneficiaires-un-rapport-confidentiel-pointe-les-failles-francaises-de-laide-au-developpement",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -531,23 +531,23 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.662,
+   "divergence": 0.636,
    "category": "société",
    "terms_left": [
     "mesures",
-    "périscolaire",
+    "ministre",
     "défaillances"
    ],
    "terms_right": [
-    "cour comptes",
-    "comptes",
-    "cour"
+    "loi",
+    "personnes",
+    "mois"
    ]
   },
   {
-   "title": "Guerre en Ukraine: frappes russes meurtrières, des infrastructures énergétiques touchées à Kiev",
-   "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-plus-de-1-000-cas-de-violences-sexuelles-depuis-le-debut-du-conflit-alerte-l-onu_8198969.html",
-   "n_members": 347,
+   "title": "Recrudescence des attaques russes en Ukraine : des habitants dénoncent le manque d'abris antiaériens",
+   "url": "https://information.tv5monde.com/international/zelensky-inaugure-en-ukraine-le-premier-sommet-des-pays-des-carpates-2838059",
+   "n_members": 344,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -561,12 +561,12 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.339,
+   "divergence": 0.336,
    "category": "international",
    "terms_left": [
+    "direct",
     "guerre ukraine",
-    "guerre",
-    "direct"
+    "blessés"
    ],
    "terms_right": [
     "frappe",
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.822,
+   "divergence": 0.823,
    "category": "société",
    "terms_left": [
     "mobilisation lycéenne",
@@ -621,12 +621,12 @@
    },
    "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.738,
+   "divergence": 0.743,
    "category": "international",
    "terms_left": [
     "guerre",
     "ukraine",
-    "direct"
+    "soupçonné"
    ],
    "terms_right": [
     "bruno retailleau",
@@ -651,7 +651,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.624,
+   "divergence": 0.628,
    "category": "international",
    "terms_left": [
     "attaques",
@@ -681,7 +681,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.328,
+   "divergence": 0.329,
    "category": "international",
    "terms_left": [
     "houthistes",
@@ -741,7 +741,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.683,
+   "divergence": 0.696,
    "category": "politique",
    "terms_left": [
     "pays",
@@ -750,8 +750,8 @@
    ],
    "terms_right": [
     "france",
-    "budget",
-    "budget européen"
+    "union européenne",
+    "union"
    ]
   },
   {
@@ -771,17 +771,17 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.652,
+   "divergence": 0.645,
    "category": "société",
    "terms_left": [
-    "jeunesse",
     "lycéen",
-    "mouvement lycéen"
+    "mouvement lycéen",
+    "mouvement"
    ],
    "terms_right": [
-    "état",
     "syndicat",
-    "plainte état"
+    "police",
+    "plainte"
    ]
   },
   {
@@ -831,17 +831,47 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.53,
+   "divergence": 0.529,
    "category": "société",
    "terms_left": [
     "lycéens",
-    "nouveau",
-    "ténèbres"
+    "monde",
+    "français"
    ],
    "terms_right": [
-    "omar sy",
-    "sy",
-    "omar"
+    "saint-denis",
+    "lycéenne",
+    "omar sy"
+   ]
+  },
+  {
+   "title": "EN DIRECT, guerre en Ukraine : Donald Trump exempte la Russie de nouvelles sanctions, Kiev dénonce un encouragement à poursuivre les attaques",
+   "url": "https://www.leparisien.fr/international/etats-unis/a-trois-semaines-des-midterms-elon-musk-a-deja-depense-276-millions-de-dollars-pour-les-republicains-13-10-2026-77B5VXYWHZCQZAD4EVCNQTU57I.php",
+   "n_members": 64,
+   "n_sources": 27,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.49,
+   "category": "international",
+   "terms_left": [
+    "midterms",
+    "prix",
+    "guerre"
+   ],
+   "terms_right": [
+    "nouvelles sanctions",
+    "nouvelles",
+    "groenland"
    ]
   },
   {
@@ -891,17 +921,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.669,
+   "divergence": 0.672,
    "category": "société",
    "terms_left": [
-    "mouvement lycéen",
     "mobilisation",
+    "mouvement",
     "marge"
    ],
    "terms_right": [
-    "policier",
     "français",
-    "qu"
+    "policier",
+    "violences"
    ]
   },
   {
@@ -951,7 +981,7 @@
    },
    "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.425,
+   "divergence": 0.429,
    "category": "économie",
    "terms_left": [
     "woodford robert",
@@ -960,8 +990,8 @@
    ],
    "terms_right": [
     "france",
-    "mondiale",
-    "mois"
+    "mois",
+    "ia"
    ]
   },
   {
@@ -1025,39 +1055,9 @@
    ]
   },
   {
-   "title": "«L'intérêt national des États-Unis» : en pleine crise avec Kiev, Donald Trump exempte la Russie de nouvelles sanctions",
-   "url": "https://www.leparisien.fr/international/etats-unis/a-trois-semaines-des-midterms-elon-musk-a-deja-depense-276-millions-de-dollars-pour-les-republicains-13-10-2026-77B5VXYWHZCQZAD4EVCNQTU57I.php",
-   "n_members": 61,
-   "n_sources": 26,
-   "counts": {
-    "left": 6,
-    "centre": 14,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.479,
-   "category": "international",
-   "terms_left": [
-    "midterms",
-    "prix",
-    "guerre"
-   ],
-   "terms_right": [
-    "nouvelles sanctions",
-    "nouvelles",
-    "groenland"
-   ]
-  },
-  {
    "title": "Contestation en Inde: le chef des «cafards» à nouveau arrêté à New Delhi avant une nouvelle manifestation",
    "url": "https://www.bfmtv.com/police-justice/mobilisation-lyceenne-deux-adolescentes-blessees-au-dos-et-a-l-oreille-apres-des-tirs-de-mortiers-au-blanc-mesnil_AN-202610060640.html",
-   "n_members": 92,
+   "n_members": 93,
    "n_sources": 25,
    "counts": {
     "left": 7,
@@ -1071,7 +1071,7 @@
    },
    "blindspot_score": -0.273,
    "blindspot_for": null,
-   "divergence": 0.776,
+   "divergence": 0.777,
    "category": "international",
    "terms_left": [
     "manifestations lycéennes",
@@ -1131,17 +1131,17 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.592,
+   "divergence": 0.579,
    "category": "international",
    "terms_left": [
-    "spacex",
     "ukrainienne",
+    "spacex",
     "accusé"
    ],
    "terms_right": [
+    "réseau",
     "réseau satellitaire",
-    "ukrainiens",
-    "américain"
+    "satellitaire"
    ]
   },
   {
@@ -1161,7 +1161,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.841,
+   "divergence": 0.84,
    "category": "international",
    "terms_left": [
     "cafards",
@@ -1169,9 +1169,9 @@
     "modi"
    ],
    "terms_right": [
-    "adolescente",
-    "robot",
-    "ans"
+    "ans",
+    "signatures",
+    "pétition"
    ]
   },
   {
