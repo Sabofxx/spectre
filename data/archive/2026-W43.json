@@ -1,6 +1,6 @@
 {
  "week": "2026-W43",
- "generated_at": "2026-10-19T05:00:18+00:00",
+ "generated_at": "2026-10-19T10:32:52+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.281,
+   "divergence": 0.278,
    "category": "société",
    "terms_left": [
     "mobilisation",
-    "mouvement",
-    "mouvement lycéen"
+    "mouvement lycéen",
+    "mouvement"
    ],
    "terms_right": [
     "blocus",
@@ -35,9 +35,39 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine : «Plus difficile de travailler avec Volodymyr Zelensky qu’avec Vladimir Poutine», estime Donald Trump",
+   "title": "Brésil : la déforestation en Amazonie au plus bas depuis près de 40 ans",
+   "url": "https://information.tv5monde.com/international/presidentielle-au-bresil-flavio-bolsonaro-surfe-sur-le-scandale-2838501",
+   "n_members": 220,
+   "n_sources": 37,
+   "counts": {
+    "left": 9,
+    "centre": 14,
+    "right": 14
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 13,
+    "opinion": 7
+   },
+   "blindspot_score": 0.217,
+   "blindspot_for": null,
+   "divergence": 0.264,
+   "category": "international",
+   "terms_left": [
+    "brésil lula",
+    "trump",
+    "ia"
+   ],
+   "terms_right": [
+    "macron",
+    "élection",
+    "flavio"
+   ]
+  },
+  {
+   "title": "Guerre en Ukraine : Donald Trump attaque de nouveau Volodymyr Zelensky, qu’il accuse de « ne pas vouloir mettre fin » au conflit avec la Russie",
    "url": "https://fr.euronews.com/2026/10/05/les-exportations-de-petrole-du-moyen-orient-reviennent-a-leur-niveau-davant-guerre-sans-li",
-   "n_members": 295,
+   "n_members": 299,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -51,42 +81,42 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.297,
+   "divergence": 0.289,
    "category": "international",
    "terms_left": [
     "direct",
     "direct guerre",
-    "guerre ukraine"
+    "guerre"
    ],
    "terms_right": [
     "qu",
     "prix",
-    "pétrole"
+    "trump"
    ]
   },
   {
    "title": "Mobilisation du 17 octobre : un samedi sous haute tension, des manifestations attendues partout en France",
    "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-le-budget-prevoit-il-650-millions-en-moins-pour-l-education-nationale-et-1-600-postes-de-professeurs-en-moins-comme-l-affirme-lfi_8223316.html",
-   "n_members": 276,
-   "n_sources": 33,
+   "n_members": 280,
+   "n_sources": 34,
    "counts": {
-    "left": 6,
+    "left": 7,
     "centre": 17,
     "right": 10
    },
    "style_counts": {
     "factuel": 19,
     "mixte": 9,
-    "opinion": 5
+    "opinion": 6
    },
-   "blindspot_score": 0.25,
+   "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.504,
+   "divergence": 0.522,
    "category": "société",
    "terms_left": [
     "syndicats",
-    "gouvernement",
-    "groupes"
+    "groupes",
+    "gouvernement"
    ],
    "terms_right": [
     "vie chère",
@@ -95,9 +125,99 @@
    ]
   },
   {
-   "title": "Ukraine: la municipalité de Kiev installe son premier abri antiaérien dans la rue",
-   "url": "https://www.ladepeche.fr/2026/09/19/direct-guerre-en-ukraine-les-attaques-hybrides-russes-ne-resteront-pas-sans-reponse-previent-emmanuel-macron-13557394.php",
-   "n_members": 336,
+   "title": "Budget de la Sécurité sociale : rejet en commission, tensions politiques",
+   "url": "https://www.lefigaro.fr/politique/budget-2027-les-deputes-socialistes-ont-le-doigt-sur-le-bouton-de-la-censure-20260930",
+   "n_members": 168,
+   "n_sources": 31,
+   "counts": {
+    "left": 8,
+    "centre": 12,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 13,
+    "opinion": 3
+   },
+   "blindspot_score": 0.158,
+   "blindspot_for": null,
+   "divergence": 0.372,
+   "category": "politique",
+   "terms_left": [
+    "préalable",
+    "dette",
+    "motion"
+   ],
+   "terms_right": [
+    "euros",
+    "milliards",
+    "qu"
+   ]
+  },
+  {
+   "title": "Richard Ferrand : le RN et l'UDR saisissent le Conseil constitutionnel pour demander la démission de son président",
+   "url": "https://www.20minutes.fr/politique/4253734-20261012-presidentielle-2027-ca-existe-ferrand-torpille-mesure-rn-visant-changer-constitution-referendum",
+   "n_members": 84,
+   "n_sources": 29,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 6
+   },
+   "blindspot_score": 0.412,
+   "blindspot_for": null,
+   "divergence": 0.676,
+   "category": "politique",
+   "terms_left": [
+    "lfi",
+    "réseaux",
+    "sociaux"
+   ],
+   "terms_right": [
+    "marine",
+    "constitutionnel",
+    "marine pen"
+   ]
+  },
+  {
+   "title": "SONDAGE BFMTV. Présidentielle 2027: Édouard Philippe, Raphaël Glucksmann et Jean-Luc Mélenchon donnés au coude-à-coude derrière Marine Le Pen",
+   "url": "https://www.liberation.fr/politique/elections/primaire-sociale-democrate-raphael-glucksmann-se-sent-favori-de-pied-en-cap-clair-20261009_DJUNKU53WJCU3NLYFGJJ4P2Z24/",
+   "n_members": 76,
+   "n_sources": 29,
+   "counts": {
+    "left": 7,
+    "centre": 11,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 10,
+    "opinion": 5
+   },
+   "blindspot_score": 0.222,
+   "blindspot_for": null,
+   "divergence": 0.398,
+   "category": "politique",
+   "terms_left": [
+    "primaire",
+    "candidat",
+    "primaire ps"
+   ],
+   "terms_right": [
+    "mélenchon",
+    "marine",
+    "présidentielle"
+   ]
+  },
+  {
+   "title": "EN DIRECT, guerre en Ukraine : la capitale Kiev visée par de nouvelles frappes russes au cours de la nuit",
+   "url": "https://www.bfmtv.com/international/asie/russie/video-guerre-en-ukraine-bfmtv-avec-les-lanceurs-de-drones-ukrainiens_VN-202609200071.html",
+   "n_members": 327,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -111,12 +231,12 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.332,
+   "divergence": 0.328,
    "category": "international",
    "terms_left": [
     "direct",
     "nuit",
-    "guerre ukraine"
+    "blessés"
    ],
    "terms_right": [
     "frappe",
@@ -127,7 +247,97 @@
   {
    "title": "Manifestations du 17 octobre : Violences, maintien de l'ordre, \"colère\", on vous résume l'allocution d'Emmanuel Macron",
    "url": "https://www.franceinfo.fr/monde/afrique/algerie/une-trentaine-de-maires-de-france-appellent-a-la-reconnaissance-du-massacre-du-17-octobre-1961-des-manifestants-algeriens-a-paris-comme-un-crime-d-etat_8238424.html",
-   "n_members": 123,
+   "n_members": 137,
+   "n_sources": 28,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.422,
+   "category": "politique",
+   "terms_left": [
+    "allocution emmanuel",
+    "calme",
+    "heures"
+   ],
+   "terms_right": [
+    "état",
+    "émeutes",
+    "chaos"
+   ]
+  },
+  {
+   "title": "Mobilisation du 17 octobre : JD Vance tient l'immigration responsable des violences",
+   "url": "https://www.cnews.fr/sport/2026-10-15/nba-la-belle-performance-de-victor-wembanyama-lors-de-la-victoire-des-spurs-en",
+   "n_members": 60,
+   "n_sources": 27,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.87,
+   "category": "international",
+   "terms_left": [
+    "mobilisation",
+    "violence",
+    "etats-unis"
+   ],
+   "terms_right": [
+    "immigration",
+    "france",
+    "américain"
+   ]
+  },
+  {
+   "title": "Contestation en Inde: le chef des «cafards» à nouveau arrêté à New Delhi avant une nouvelle manifestation",
+   "url": "https://www.bfmtv.com/police-justice/mobilisation-lyceenne-deux-adolescentes-blessees-au-dos-et-a-l-oreille-apres-des-tirs-de-mortiers-au-blanc-mesnil_AN-202610060640.html",
+   "n_members": 96,
+   "n_sources": 25,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": -0.273,
+   "blindspot_for": null,
+   "divergence": 0.81,
+   "category": "international",
+   "terms_left": [
+    "manifestation",
+    "mouvement",
+    "parti"
+   ],
+   "terms_right": [
+    "policier",
+    "coup",
+    "genou"
+   ]
+  },
+  {
+   "title": "\"Un superpétrolier a heurté une mine\": l'Iran intensifie ses attaques dans le détroit d'Ormuz, alors que le baril de pétrole frôle à nouveau les 110 dollars",
+   "url": "https://www.telerama.fr/debats-reportages/i-am-jane-doe-un-slogan-viral-pour-preserver-l-anonymat-d-une-victime-de-viol-collectif-aux-etats-unis-7033262.php",
+   "n_members": 62,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -135,103 +345,43 @@
     "right": 7
    },
    "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 3
+    "factuel": 16,
+    "mixte": 8,
+    "opinion": 1
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.433,
-   "category": "politique",
-   "terms_left": [
-    "allocution emmanuel",
-    "emmanuel",
-    "heures"
-   ],
-   "terms_right": [
-    "chaos",
-    "état",
-    "vie chère"
-   ]
-  },
-  {
-   "title": "La dette rattrape les candidats à la présidentielle... et personne n’est à la hauteur",
-   "url": "https://www.20minutes.fr/economie/4251811-20261008-dette-grand-emprunt-national-mega-solution-va-sauver-france-banqueroute",
-   "n_members": 58,
-   "n_sources": 24,
-   "counts": {
-    "left": 6,
-    "centre": 6,
-    "right": 12
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 9,
-    "opinion": 5
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.631,
-   "category": "économie",
-   "terms_left": [
-    "dette",
-    "présidentielle",
-    "politique"
-   ],
-   "terms_right": [
-    "ville",
-    "temps",
-    "marseille"
-   ]
-  },
-  {
-   "title": "Mobilisation du 17 octobre : JD Vance tient l'immigration responsable des violences",
-   "url": "https://www.cnews.fr/sport/2026-10-15/nba-la-belle-performance-de-victor-wembanyama-lors-de-la-victoire-des-spurs-en",
-   "n_members": 55,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 5
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.897,
+   "divergence": 0.893,
    "category": "international",
    "terms_left": [
-    "mobilisation",
-    "etats-unis",
-    "violence"
+    "affaire",
+    "dette",
+    "viol"
    ],
    "terms_right": [
-    "france",
-    "immigration",
-    "violences"
+    "iran",
+    "qu",
+    "trump"
    ]
   },
   {
    "title": "Manifestations du 17 octobre : un incendie en cours à l'hôtel de ville de Limoges",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/plus-de-40-compagnies-de-crs-et-d-escadrons-de-gendarmes-mobiles-deployes-a-paris-pour-le-17-octobre-6993573",
-   "n_members": 99,
-   "n_sources": 23,
+   "n_members": 106,
+   "n_sources": 24,
    "counts": {
     "left": 5,
-    "centre": 11,
+    "centre": 12,
     "right": 7
    },
    "style_counts": {
-    "factuel": 13,
+    "factuel": 14,
     "mixte": 7,
     "opinion": 3
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.607,
+   "divergence": 0.611,
    "category": "société",
    "terms_left": [
     "journaliste",
@@ -245,69 +395,279 @@
    ]
   },
   {
-   "title": "Donald Trump exempte la Russie de nouvelles sanctions",
-   "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/kiev-et-bruxelles-ont-trouve-un-accord-sur-les-modalites-du-financement-de-l-ukraine-pour-2026_8218864.html",
-   "n_members": 84,
-   "n_sources": 20,
+   "title": "Mobilisation du 17 octobre : un manifestant a eu la main arrachée par une grenade policière à Saint-Etienne",
+   "url": "https://www.liberation.fr/checknews/mobilisation-lyceenne-a-paris-des-policiers-victimes-de-leur-propre-grenade-explosive-20261015_2CYRCSHJW5A2NH4LTALYR6GODQ/",
+   "n_members": 61,
+   "n_sources": 24,
    "counts": {
-    "left": 4,
+    "left": 5,
     "centre": 9,
-    "right": 7
+    "right": 10
    },
    "style_counts": {
-    "factuel": 12,
+    "factuel": 13,
     "mixte": 7,
-    "opinion": 1
+    "opinion": 4
    },
-   "blindspot_score": 0.273,
+   "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.603,
-   "category": "international",
+   "divergence": 0.697,
+   "category": "société",
    "terms_left": [
-    "direct",
-    "direct guerre",
-    "bruxelles"
+    "interpellations",
+    "nationale",
+    "rues"
    ],
    "terms_right": [
-    "ukraine",
-    "russie",
-    "qu"
+    "cnews",
+    "europe",
+    "blessé"
    ]
   },
   {
-   "title": "Mobilisation du 17 octobre : les grenades assourdissantes pourront être utilisées en cas de violences urbaines, dit Laurent Nuñez",
-   "url": "https://www.humanite.fr/politique/laurent-nunez/pour-laurent-nunez-le-mouvement-lyceen-ne-releve-pas-du-maintien-de-lordre-classique-mais-des-violences-urbaines",
-   "n_members": 62,
-   "n_sources": 20,
+   "title": "« Le risque d’un étouffement financier » : la présidente de la Cour des comptes sonne le tocsin sur la dette française",
+   "url": "https://www.20minutes.fr/economie/4251811-20261008-dette-grand-emprunt-national-mega-solution-va-sauver-france-banqueroute",
+   "n_members": 60,
+   "n_sources": 24,
    "counts": {
-    "left": 4,
-    "centre": 9,
+    "left": 6,
+    "centre": 6,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.611,
+   "category": "économie",
+   "terms_left": [
+    "dette",
+    "publique",
+    "dette publique"
+   ],
+   "terms_right": [
+    "ville",
+    "marseille",
+    "temps"
+   ]
+  },
+  {
+   "title": "Le RN et l'UDR saisissent le Conseil constitutionnel, réclamant la démission de Richard Ferrand",
+   "url": "https://www.20minutes.fr/justice/4253967-20261013-conseil-superieur-magistrature-defavorable-reintegration-rachida-dati",
+   "n_members": 48,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 12,
     "right": 7
    },
    "style_counts": {
-    "factuel": 12,
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.611,
+   "category": "politique",
+   "terms_left": [
+    "droite",
+    "extrême",
+    "extrême droite"
+   ],
+   "terms_right": [
+    "laurent",
+    "président",
+    "violences"
+   ]
+  },
+  {
+   "title": "Mobilisation du 17 octobre : quand Laurent Nuñez assurait il y a 10 jours que la situation n'était pas «hors de contrôle»",
+   "url": "https://www.humanite.fr/politique/laurent-nunez/pour-laurent-nunez-le-mouvement-lyceen-ne-releve-pas-du-maintien-de-lordre-classique-mais-des-violences-urbaines",
+   "n_members": 66,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
     "mixte": 5,
     "opinion": 3
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.65,
+   "divergence": 0.663,
    "category": "société",
    "terms_left": [
     "nouveau",
-    "usage",
-    "lycéen"
+    "lycéen",
+    "grenades"
    ],
    "terms_right": [
     "mobilisation",
-    "manifestations",
-    "journée"
+    "journée",
+    "vie"
    ]
   },
   {
-   "title": "Mobilisation du 17 octobre à Bordeaux : \"Rien ne peut légitimer une telle violence\", dénonce le maire",
+   "title": "Donald Trump exempte la Russie de nouvelles sanctions",
+   "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/kiev-et-bruxelles-ont-trouve-un-accord-sur-les-modalites-du-financement-de-l-ukraine-pour-2026_8218864.html",
+   "n_members": 85,
+   "n_sources": 21,
+   "counts": {
+    "left": 4,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 7,
+    "opinion": 1
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.613,
+   "category": "international",
+   "terms_left": [
+    "direct",
+    "visite",
+    "direct guerre"
+   ],
+   "terms_right": [
+    "russie",
+    "ukraine",
+    "qu"
+   ]
+  },
+  {
+   "title": "Un maire français blessé par des colons pendant l'attaque d'un convoi diplomatique en Cisjordanie occupée",
+   "url": "https://www.nouvelobs.com/monde/20261013.OBS119160/elections-israeliennes-et-les-palestiniens-dans-tout-ca.html",
+   "n_members": 68,
+   "n_sources": 21,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 1
+   },
+   "blindspot_score": -0.111,
+   "blindspot_for": null,
+   "divergence": 0.382,
+   "category": "international",
+   "terms_left": [
+    "bernard baudoux",
+    "baudoux",
+    "bernard"
+   ],
+   "terms_right": [
+    "attaque",
+    "post",
+    "washington post"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : François Fillon apporte son soutien à Bruno Retailleau",
+   "url": "https://www.leparisien.fr/elections/presidentielle/ce-nest-pas-sur-nos-terres-quil-va-chasser-raphael-glucksmann-candidat-lfi-joue-lindifference-13-10-2026-57G7VH2OA5DZDHCEOVJSAKYCTE.php",
+   "n_members": 55,
+   "n_sources": 21,
+   "counts": {
+    "left": 6,
+    "centre": 7,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 5,
+    "opinion": 6
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.617,
+   "category": "politique",
+   "terms_left": [
+    "primaire",
+    "glucksmann",
+    "victoire"
+   ],
+   "terms_right": [
+    "david lisnard",
+    "lisnard",
+    "david"
+   ]
+  },
+  {
+   "title": "L'Indonésie ravagée par le feu, une partie de l'Asie du Sud-Est sous les fumées toxiques",
+   "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/la-propagation-de-la-fumee-toxique-des-incendies-en-indonesie-entraine-des-fermetures-d-ecoles-en-malaisie-et-des-annulations-de-vols_8234884.html",
+   "n_members": 53,
+   "n_sources": 21,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 5,
+    "opinion": 2
+   },
+   "blindspot_score": 0.111,
+   "blindspot_for": null,
+   "divergence": 0.567,
+   "category": "international",
+   "terms_left": [
+    "violents",
+    "brouillard toxique",
+    "toxique"
+   ],
+   "terms_right": [
+    "france",
+    "millions",
+    "euros"
+   ]
+  },
+  {
+   "title": "À Aix-en-Provence, le procès d’un triple assassinat, dont l'une des victimes est Brahim Kessaci, s'ouvre ce lundi",
+   "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-proces-des-assassins-presumes-de-brahim-kessaci-amine-son-frere-s-exprime-22412-2469847.html",
+   "n_members": 32,
+   "n_sources": 21,
+   "counts": {
+    "left": 6,
+    "centre": 10,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": -0.091,
+   "blindspot_for": null,
+   "divergence": 0.384,
+   "category": "société",
+   "terms_left": [
+    "ouvre",
+    "devant",
+    "procès triple"
+   ],
+   "terms_right": [
+    "frère aîné",
+    "parmi victimes",
+    "face"
+   ]
+  },
+  {
+   "title": "Violences du 17 octobre : l'Association des maires de France appelle au rassemblement devant les mairies lundi midi",
    "url": "https://fr.euronews.com/2026/10/17/journee-de-colere-le-gouvernement-hausse-le-ton-face-au-risque-de-violences",
-   "n_members": 60,
+   "n_members": 66,
    "n_sources": 20,
    "counts": {
     "left": 4,
@@ -321,53 +681,23 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.704,
+   "divergence": 0.689,
    "category": "société",
    "terms_left": [
     "extrême",
     "tandis",
-    "incendie"
+    "paris"
    ],
    "terms_right": [
     "manifestations",
-    "qu",
+    "pillages",
     "police"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : François Fillon apporte son soutien à Bruno Retailleau",
-   "url": "https://www.leparisien.fr/elections/presidentielle/ce-nest-pas-sur-nos-terres-quil-va-chasser-raphael-glucksmann-candidat-lfi-joue-lindifference-13-10-2026-57G7VH2OA5DZDHCEOVJSAKYCTE.php",
-   "n_members": 52,
-   "n_sources": 20,
-   "counts": {
-    "left": 6,
-    "centre": 7,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 5,
-    "opinion": 5
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.645,
-   "category": "politique",
-   "terms_left": [
-    "campagne",
-    "gauche",
-    "primaire"
-   ],
-   "terms_right": [
-    "david lisnard",
-    "lisnard",
-    "david"
    ]
   },
   {
    "title": "Incendie à l'université de Rouen, la façade d'un bâtiment détruite",
    "url": "https://www.ladepeche.fr/2026/10/15/on-avait-enormement-de-reservations-sauf-quon-a-perdu-tous-les-contacts-une-auberge-de-montagne-vieille-de-deux-siecles-ravagee-par-un-incendie-en-13603313.php",
-   "n_members": 49,
+   "n_members": 50,
    "n_sources": 18,
    "counts": {
     "left": 2,
@@ -381,18 +711,70 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.703,
+   "divergence": 0.7,
    "category": "faits-divers",
    "terms_left": [
-    "ministre",
-    "canadien",
-    "incendie base"
+    "carney",
+    "mark",
+    "mark carney"
    ],
    "terms_right": [
     "université",
     "incendie",
-    "personnes"
+    "université rouen"
    ]
+  },
+  {
+   "title": "Après les pillages, Jordan Bardella affirme que «LFI pousse à la guerre civile»",
+   "url": "https://www.valeursactuelles.com/politique/il-est-mort-mais-il-ne-le-sait-pas-encore-jerome-cahuzac-enterre-jordan-bardella-et-lui-conseille-de-reprendre-ses-etudes-tres-vite",
+   "n_members": 36,
+   "n_sources": 18,
+   "counts": {
+    "left": 6,
+    "centre": 6,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 7,
+    "mixte": 5,
+    "opinion": 6
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.582,
+   "category": "politique",
+   "terms_left": [
+    "affaire",
+    "histoire",
+    "mondial"
+   ],
+   "terms_right": [
+    "jordan bardella",
+    "jordan",
+    "france"
+   ]
+  },
+  {
+   "title": "Guerre en Ukraine : Un mort et deux sites pétroliers russes incendiés après une attaque massive de drones",
+   "url": "https://www.courrierinternational.com/article/justice-sabotage-de-nord-stream-l-allemagne-suspendue-au-debut-du-proces-d-un-ex-officier-ukrainien_278292",
+   "n_members": 36,
+   "n_sources": 18,
+   "counts": {
+    "left": 2,
+    "centre": 12,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 2,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "L’écrivain Jean-Christophe Rufin agressé, un militaire mis en examen",
@@ -417,31 +799,99 @@
    "terms_right": []
   },
   {
-   "title": "Guerre en Ukraine : Un mort et deux sites pétroliers russes incendiés après une attaque massive de drones",
-   "url": "https://www.courrierinternational.com/article/justice-sabotage-de-nord-stream-l-allemagne-suspendue-au-debut-du-proces-d-un-ex-officier-ukrainien_278292",
-   "n_members": 33,
+   "title": "Violences du 17 octobre : Édouard Philippe se «pose des questions» sur le niveau du renseignement et du dispositif",
+   "url": "https://www.tf1info.fr/replay-lci/videos/video-la-matinale-lci-du-samedi-17-octobre-2026-2470489.html",
+   "n_members": 32,
    "n_sources": 17,
    "counts": {
-    "left": 2,
-    "centre": 12,
-    "right": 3
+    "left": 4,
+    "centre": 8,
+    "right": 5
    },
    "style_counts": {
-    "factuel": 14,
-    "mixte": 1,
+    "factuel": 10,
+    "mixte": 5,
     "opinion": 2
    },
-   "blindspot_score": 0.2,
+   "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
+   "divergence": 0.745,
+   "category": "politique",
+   "terms_left": [
+    "parole",
+    "crise",
+    "manifestations"
+   ],
+   "terms_right": [
+    "paris",
+    "présidentielle",
+    "vie"
+   ]
+  },
+  {
+   "title": "Budget 2027 : les députés votent une mesure limitant l'optimisation fiscale des plus fortunés",
+   "url": "https://www.sudradio.fr/societe/le-rabot-de-350-millions-deuros-de-maprimerenov-acte-par-lagence-nationale-de-lhabitat",
+   "n_members": 24,
+   "n_sources": 17,
+   "counts": {
+    "left": 3,
+    "centre": 6,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 8,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.455,
+   "blindspot_for": null,
+   "divergence": 0.92,
+   "category": "société",
+   "terms_left": [
+    "aides",
+    "face",
+    "gouvernement"
+   ],
+   "terms_right": [
+    "gauche",
+    "nationale",
+    "qu"
+   ]
+  },
+  {
+   "title": "Paroles de lycéens : «J’ai commencé à avoir tout le temps peur de la mort»",
+   "url": "https://www.valeursactuelles.com/clubvaleurs/regions/provence-alpes-cote-dazur/var/toulon/societe/manifestations-lyceennes-ces-parents-qui-viennent-chercher-leurs-enfants",
+   "n_members": 33,
+   "n_sources": 16,
+   "counts": {
+    "left": 3,
+    "centre": 7,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 7,
+    "mixte": 4,
+    "opinion": 5
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.955,
+   "category": "société",
+   "terms_left": [
+    "parole",
+    "france",
+    "mobilisation"
+   ],
+   "terms_right": [
+    "adultes",
+    "crise",
+    "blocus"
+   ]
   },
   {
    "title": "Ligue 1 : le Paris Saint-Germain veut confirmer ses progrès à Strasbourg",
    "url": "https://www.nicematin.com/sports/hockey/ils-ont-encore-fait-tomber-un-cador-de-la-ligue-magnus-ce-vendredi-soir-les-aigles-de-nice-continuent-de-seduire-en-ce-debut-de-saison-10737324",
-   "n_members": 56,
+   "n_members": 58,
    "n_sources": 15,
    "counts": {
     "left": 1,
@@ -463,7 +913,7 @@
   {
    "title": "Lyon prend la tête de la Ligue 1 après sa victoire contre Nice",
    "url": "https://www.ladepeche.fr/2026/10/13/stade-toulousain-cest-lheure-du-grand-retour-pour-anthony-jelonch-et-peato-mauvaka-thomas-ramos-patiente-encore-trois-joueurs-menages-apres-bayonne-13598705.php",
-   "n_members": 49,
+   "n_members": 53,
    "n_sources": 15,
    "counts": {
     "left": 1,
@@ -483,9 +933,31 @@
    "terms_right": []
   },
   {
-   "title": "20h du dimanche 18 octobre 2026",
-   "url": "https://www.tf1info.fr/replay-lci/videos/video-la-matinale-lci-du-samedi-17-octobre-2026-2470489.html",
-   "n_members": 29,
+   "title": "Brésil: premier débat entre Lula et Bolsonaro, une semaine avant le second tour",
+   "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-12h30/journal-de-12h30-du-dimanche-04-octobre-2026-7794885",
+   "n_members": 37,
+   "n_sources": 15,
+   "counts": {
+    "left": 5,
+    "centre": 7,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 5,
+    "opinion": 1
+   },
+   "blindspot_score": -0.25,
+   "blindspot_for": null,
+   "divergence": 0.63,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Qui sont les casseurs ?",
+   "url": "https://www.lefigaro.fr/actualite-france/un-samedi-tres-complique-avec-les-casseurs-de-l-ultragauche-en-embuscade-ce-que-prevoient-les-autorites-pour-la-mobilisation-du-17-octobre-20261016",
+   "n_members": 21,
    "n_sources": 15,
    "counts": {
     "left": 3,
@@ -493,29 +965,29 @@
     "right": 5
    },
    "style_counts": {
-    "factuel": 9,
-    "mixte": 4,
+    "factuel": 7,
+    "mixte": 6,
     "opinion": 2
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.725,
-   "category": "politique",
+   "divergence": 0.881,
+   "category": "société",
    "terms_left": [
-    "ordre",
-    "maintien",
-    "maintien ordre"
+    "chaos",
+    "macron",
+    "ministre"
    ],
    "terms_right": [
-    "présidentielle",
-    "paris",
-    "vie"
+    "casseurs",
+    "marseille",
+    "personnes"
    ]
   },
   {
-   "title": "Narcotrafic : un procès dans l’ombre d’Amine Kessaci, au cœur de l’engrenage de la violence",
-   "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-proces-des-assassins-presumes-de-brahim-kessaci-amine-son-frere-s-exprime-22412-2469847.html",
-   "n_members": 23,
+   "title": "Albanie : sixième jour de manifestations à Tirana, le Premier ministre refuse de démissionner",
+   "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-resultats-de-la-primaire-socialiste-arabie-saoudite-brexit-soudan-les-informations-de-la-nuit_277863",
+   "n_members": 55,
    "n_sources": 14,
    "counts": {
     "left": 3,
@@ -523,43 +995,13 @@
     "right": 3
    },
    "style_counts": {
-    "factuel": 8,
-    "mixte": 4,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.484,
-   "category": "société",
-   "terms_left": [
-    "devant",
-    "sécurité",
-    "procès"
-   ],
-   "terms_right": [
-    "présumés",
-    "dz mafia",
-    "dz"
-   ]
-  },
-  {
-   "title": "Albanie: le Premier ministre accuse \"des mains étrangères\" d'attiser les violences",
-   "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-resultats-de-la-primaire-socialiste-arabie-saoudite-brexit-soudan-les-informations-de-la-nuit_277863",
-   "n_members": 52,
-   "n_sources": 13,
-   "counts": {
-    "left": 3,
-    "centre": 7,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 9,
+    "factuel": 10,
     "mixte": 3,
     "opinion": 1
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.823,
+   "divergence": 0.824,
    "category": "international",
    "terms_left": [
     "albanie",
@@ -571,6 +1013,58 @@
     "ministre",
     "mobilisation"
    ]
+  },
+  {
+   "title": "Orages, pluies et inondations : les départements du Gard et de l’Hérault placés en vigilance orange lundi",
+   "url": "https://www.cnews.fr/france/2026-10-15/attention-ces-departements-seront-menaces-par-les-orages-ce-samedi-1935676",
+   "n_members": 26,
+   "n_sources": 14,
+   "counts": {
+    "left": 2,
+    "centre": 7,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 9,
+    "mixte": 4,
+    "opinion": 1
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.544,
+   "category": "environnement",
+   "terms_left": [
+    "heures",
+    "partir heures",
+    "orange partir"
+   ],
+   "terms_right": [
+    "départements",
+    "orages",
+    "météo-france"
+   ]
+  },
+  {
+   "title": "Qu’est-ce que la COP17 sur la biodiversité, qui s’ouvre à Erevan ?",
+   "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261017-arm%C3%A9nie-des-chercheurs-fran%C3%A7ais-en-qu%C3%AAte-de-semences-pour-affronter-le-r%C3%A9chauffement-climatique",
+   "n_members": 18,
+   "n_sources": 14,
+   "counts": {
+    "left": 6,
+    "centre": 7,
+    "right": 1
+   },
+   "style_counts": {
+    "factuel": 8,
+    "mixte": 5,
+    "opinion": 1
+   },
+   "blindspot_score": -0.714,
+   "blindspot_for": "droite",
+   "divergence": null,
+   "category": "environnement",
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Tennis de table : les frères Lebrun conservent leur titre de champions d'Europe en double",
@@ -603,462 +1097,64 @@
    ]
   },
   {
-   "title": "Un jeune homme meurt après une chute de l’Arc de triomphe, la piste du suicide est étudiée",
-   "url": "https://www.ladepeche.fr/2026/10/10/un-motard-de-60-ans-meurt-apres-un-accident-avec-une-voiture-sur-une-route-departementale-de-laude-13592985.php",
-   "n_members": 37,
-   "n_sources": 12,
-   "counts": {
-    "left": 1,
-    "centre": 6,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 8,
-    "mixte": 3,
-    "opinion": 1
-   },
-   "blindspot_score": 0.667,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Qui sont les casseurs ?",
-   "url": "https://www.lefigaro.fr/actualite-france/un-samedi-tres-complique-avec-les-casseurs-de-l-ultragauche-en-embuscade-ce-que-prevoient-les-autorites-pour-la-mobilisation-du-17-octobre-20261016",
-   "n_members": 18,
-   "n_sources": 12,
-   "counts": {
-    "left": 3,
-    "centre": 5,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 5,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.881,
-   "category": "société",
-   "terms_left": [
-    "chaos",
-    "macron",
-    "ministre"
-   ],
-   "terms_right": [
-    "casseurs",
-    "personnes",
-    "marseille"
-   ]
-  },
-  {
-   "title": "COP17 sur la biodiversité : pays participants, frictions, progrès… Tout comprendre aux enjeux de ce nouveau sommet",
-   "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261017-arm%C3%A9nie-des-chercheurs-fran%C3%A7ais-en-qu%C3%AAte-de-semences-pour-affronter-le-r%C3%A9chauffement-climatique",
-   "n_members": 15,
-   "n_sources": 11,
-   "counts": {
-    "left": 5,
-    "centre": 5,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 6,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": -0.667,
-   "blindspot_for": "droite",
-   "divergence": null,
-   "category": "environnement",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Orages : voici les deux départements placés en vigilance orange ce lundi",
-   "url": "https://www.cnews.fr/france/2026-10-15/attention-ces-departements-seront-menaces-par-les-orages-ce-samedi-1935676",
-   "n_members": 20,
-   "n_sources": 10,
-   "counts": {
-    "left": 0,
-    "centre": 5,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 7,
-    "mixte": 2,
-    "opinion": 1
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "environnement",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
    "title": "Législatives en Israël : Donald Trump adoube Benjamin Netanyahou... qui lui rend la pareille avant les midterms",
-   "url": "https://www.20minutes.fr/monde/israel/4255130-20261017-israel-peuple-juif-occupant-netanyahou-repond-accusations-obama",
-   "n_members": 12,
-   "n_sources": 10,
+   "url": "https://www.humanite.fr/monde/benyamin-netanyahou/interdits-dinformer-israel-refuse-lentree-a-lenvoye-special-de-lhumanite",
+   "n_members": 18,
+   "n_sources": 13,
    "counts": {
-    "left": 1,
-    "centre": 6,
+    "left": 2,
+    "centre": 8,
     "right": 3
    },
    "style_counts": {
-    "factuel": 8,
+    "factuel": 10,
     "mixte": 2,
-    "opinion": 0
+    "opinion": 1
    },
-   "blindspot_score": 0.5,
+   "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.898,
+   "divergence": 0.877,
    "category": "international",
    "terms_left": [
-    "ministre",
-    "nétanyahou",
-    "gadi"
+    "attaques",
+    "armée",
+    "entrée"
    ],
    "terms_right": [
-    "israël",
+    "trump",
     "donald",
     "donald trump"
    ]
   },
   {
-   "title": "Mobilisations du 17 octobre: la situation s'est calmée place de la République à Paris, la circulation a repris",
-   "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/cinq-questions-sur-les-3-000-professeurs-mobilises-en-urgence-dans-les-lycees_8229574.html",
-   "n_members": 148,
-   "n_sources": 7,
+   "title": "«C’est l’anarchie» : les Parisiens partagés entre dégoût et tristesse face au chaos dans les rues ce lundi matin",
+   "url": "https://www.rfi.fr/fr/europe/20261018-%C3%A0-rome-et-%C3%A0-milan-plusieurs-dizaines-de-milliers-d-italiens-manifestent-contre-la-vie-ch%C3%A8re",
+   "n_members": 16,
+   "n_sources": 13,
    "counts": {
     "left": 3,
-    "centre": 3,
-    "right": 1
+    "centre": 6,
+    "right": 4
    },
    "style_counts": {
-    "factuel": 4,
-    "mixte": 3,
-    "opinion": 0
+    "factuel": 7,
+    "mixte": 5,
+    "opinion": 1
    },
-   "blindspot_score": -0.5,
+   "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.795,
+   "divergence": 0.906,
    "category": "société",
    "terms_left": [
-    "chaos",
-    "villes france",
-    "villes"
-   ],
-   "terms_right": [
-    "lycéens",
-    "vie chère",
-    "chère"
-   ]
-  },
-  {
-   "title": "\"On a été en sous-nombre toute la journée\" : les forces de l'ordre, asphyxiées par le manque de moyens ?",
-   "url": "https://fr.euronews.com/2026/10/17/journee-de-la-colere-des-scenes-de-chaos-a-paris-et-plusieurs-villes-de-france",
-   "n_members": 9,
-   "n_sources": 7,
-   "counts": {
-    "left": 1,
-    "centre": 3,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 5,
-    "mixte": 2,
-    "opinion": 0
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "société",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Rima Hassan jugée pour apologie du terrorisme : ce qu’il faut savoir avant le procès qui s’ouvre ce lundi",
-   "url": "https://www.nouvelobs.com/justice/20261016.OBS119268/un-homme-juge-le-15-janvier-a-cahors-pour-menaces-de-mort-contre-rima-hassan-on-vous-resume-cette-affaire.html",
-   "n_members": 7,
-   "n_sources": 7,
-   "counts": {
-    "left": 3,
-    "centre": 1,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 2,
-    "mixte": 3,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.417,
-   "category": "politique",
-   "terms_left": [
-    "homme",
-    "mort",
-    "cahors"
-   ],
-   "terms_right": [
-    "apologie terrorisme",
-    "apologie",
-    "terrorisme"
-   ]
-  },
-  {
-   "title": "Paris encore sous tension : les pillages et les dégradations se poursuivent",
-   "url": "https://www.mediapart.fr/journal/france/181026/paris-la-colere-et-les-pillages-ont-envahi-les-beaux-quartiers",
-   "n_members": 6,
-   "n_sources": 6,
-   "counts": {
-    "left": 3,
-    "centre": 1,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 2,
-    "mixte": 4,
-    "opinion": 0
-   },
-   "blindspot_score": -0.2,
-   "blindspot_for": null,
-   "divergence": 0.924,
-   "category": "société",
-   "terms_left": [
+    "quartiers",
     "colère",
-    "police",
-    "lieu"
+    "police"
    ],
    "terms_right": [
     "violences",
     "matin",
-    "nuit"
+    "chaos"
    ]
-  },
-  {
-   "title": "En Alberta, un scrutin test pour l'unité du Canada",
-   "url": "https://information.tv5monde.com/international/carney-en-campagne-pour-lunite-du-canada-avant-un-vote-crucial-en-alberta-2841833",
-   "n_members": 7,
-   "n_sources": 5,
-   "counts": {
-    "left": 1,
-    "centre": 3,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 3,
-    "mixte": 1,
-    "opinion": 1
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "\"J'avais envie d'aller questionner ce mythe de l'école émancipatrice\" : Marine Atlan réalise \"La Gradiva\", un premier film remarquable sur des lycéens d'aujourd'hui",
-   "url": "https://www.sudouest.fr/culture/cinema-le-premier-film-de-marine-atlan-la-gradiva-en-echo-au-mouvement-actuel-des-lyceens-31108781.php",
-   "n_members": 7,
-   "n_sources": 5,
-   "counts": {
-    "left": 3,
-    "centre": 2,
-    "right": 0
-   },
-   "style_counts": {
-    "factuel": 2,
-    "mixte": 3,
-    "opinion": 0
-   },
-   "blindspot_score": -1.0,
-   "blindspot_for": "droite",
-   "divergence": null,
-   "category": "culture",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "[TRIBUNE] Emmanuel Macron dans le Golfe : les enjeux de la visite d’État au Qatar",
-   "url": "https://www.valeursactuelles.com/monde/tribune-entre-trump-et-xi-jinping-comment-emmanuel-macron-a-choisi-le-kazakhstan-pour-la-france",
-   "n_members": 6,
-   "n_sources": 5,
-   "counts": {
-    "left": 0,
-    "centre": 1,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 2,
-    "mixte": 1,
-    "opinion": 2
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "France: un an après le casse du Louvre, où en est la sécurité dans les musées?",
-   "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-casse-du-louvre-ou-sont-passes-les-bijoux-85502-2470151.html",
-   "n_members": 5,
-   "n_sources": 5,
-   "counts": {
-    "left": 1,
-    "centre": 2,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 4,
-    "mixte": 1,
-    "opinion": 0
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "culture",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "On vous présente la mission spatiale MMX à laquelle participe Idefix, rover franco-allemand qui va se poser sur la plus grande lune de Mars",
-   "url": "https://www.leparisien.fr/sciences/le-nez-sur-la-surface-de-phobos-depart-imminent-pour-idefix-premier-robot-francais-a-aller-vers-mars-17-10-2026-2VRBWECUEJATPDHQOCB3MJXFEM.php",
-   "n_members": 5,
-   "n_sources": 5,
-   "counts": {
-    "left": 0,
-    "centre": 4,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 5,
-    "mixte": 0,
-    "opinion": 0
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "sciences-tech",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Dégâts, pillages : qui va payer ?",
-   "url": "https://www.sudouest.fr/societe/mobilisation-du-17-octobre-nos-etablissements-ne-sont-pas-des-defouloirs-hoteliers-et-restaurateurs-ne-veulent-pas-etre-les-victimes-collaterales-des-violences-31126273.php",
-   "n_members": 5,
-   "n_sources": 4,
-   "counts": {
-    "left": 0,
-    "centre": 2,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 4,
-    "mixte": 0,
-    "opinion": 0
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "économie",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Un couvre-feu pour les mineurs instauré en Guadeloupe après les violences",
-   "url": "https://la1ere.franceinfo.fr/guadeloupe/pillages-et-violences-en-agglomeration-pointoise-le-prefet-instaure-un-couvre-feu-pour-les-mineurs-1749363.html",
-   "n_members": 4,
-   "n_sources": 4,
-   "counts": {
-    "left": 0,
-    "centre": 3,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 4,
-    "mixte": 0,
-    "opinion": 0
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "société",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Un vol reliant Tel Aviv à Vienne dérouté vers la Bulgarie en raison d’une alerte à la bombe",
-   "url": "https://www.lemonde.fr/international/article/2026/10/19/un-vol-reliant-tel-aviv-a-vienne-deroute-vers-la-bulgarie-en-raison-d-une-alerte-a-la-bombe_6797300_3210.html",
-   "n_members": 4,
-   "n_sources": 4,
-   "counts": {
-    "left": 1,
-    "centre": 2,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 2,
-    "mixte": 2,
-    "opinion": 0
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "« C’est complètement détruit, il n’y a plus rien dedans » : les commerçants traumatisés après le saccage de l’avenue Jean-Médecin à Nice",
-   "url": "https://www.nicematin.com/faits-divers/un-petit-obus-retrouve-dans-un-immeuble-du-centre-ville-de-nice-le-quartier-gambetta-boucle-10741746",
-   "n_members": 13,
-   "n_sources": 3,
-   "counts": {
-    "left": 1,
-    "centre": 1,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 1,
-    "mixte": 1,
-    "opinion": 1
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "société",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Sous pression, l'exécutif tente de reprendre la main après le chaos",
-   "url": "https://www.nouvelobs.com/societe/20261018.OBS119311/apres-une-mobilisation-17-octobre-qui-a-vire-au-chaos-les-politiques-se-divisent-sur-la-responsabilite-des-violences.html",
-   "n_members": 3,
-   "n_sources": 3,
-   "counts": {
-    "left": 1,
-    "centre": 1,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 1,
-    "mixte": 2,
-    "opinion": 0
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "société",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
