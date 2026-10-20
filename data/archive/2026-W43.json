@@ -1,6 +1,6 @@
 {
  "week": "2026-W43",
- "generated_at": "2026-10-20T19:29:26+00:00",
+ "generated_at": "2026-10-20T22:31:03+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.053,
    "blindspot_for": null,
-   "divergence": 0.559,
+   "divergence": 0.56,
    "category": "société",
    "terms_left": [
     "gouvernement",
@@ -95,9 +95,9 @@
    ]
   },
   {
-   "title": "L’Ukraine accuse Washington de retarder la livraison de missiles, un émissaire américain va rencontrer Zelensky puis Poutine cette semaine",
+   "title": "Guerre en Ukraine : Kiev accuse Washington de retarder la livraison de missiles",
    "url": "https://fr.euronews.com/2026/10/05/les-exportations-de-petrole-du-moyen-orient-reviennent-a-leur-niveau-davant-guerre-sans-li",
-   "n_members": 328,
+   "n_members": 331,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -111,12 +111,12 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.283,
+   "divergence": 0.279,
    "category": "international",
    "terms_left": [
     "direct",
     "direct guerre",
-    "président ukrainien"
+    "ukrainien"
    ],
    "terms_right": [
     "trump",
@@ -127,31 +127,31 @@
   {
    "title": "Budget de l'État: après avoir commencé à détricoter le projet du gouvernement, l'Assemblée appuie sur pause pour passer au budget de la Sécu",
    "url": "https://www.lefigaro.fr/politique/budget-2027-les-deputes-socialistes-ont-le-doigt-sur-le-bouton-de-la-censure-20260930",
-   "n_members": 180,
-   "n_sources": 32,
+   "n_members": 181,
+   "n_sources": 33,
    "counts": {
     "left": 8,
     "centre": 12,
-    "right": 12
+    "right": 13
    },
    "style_counts": {
     "factuel": 15,
     "mixte": 13,
-    "opinion": 4
+    "opinion": 5
    },
-   "blindspot_score": 0.2,
+   "blindspot_score": 0.238,
    "blindspot_for": null,
-   "divergence": 0.356,
+   "divergence": 0.355,
    "category": "politique",
    "terms_left": [
-    "préalable",
-    "dette",
-    "motion"
+    "motion",
+    "motion rejet",
+    "rejettent commission"
    ],
    "terms_right": [
     "euros",
-    "milliards",
-    "budget députés"
+    "qu",
+    "milliards"
    ]
   },
   {
@@ -182,6 +182,36 @@
     "émeutes",
     "politique",
     "chaos"
+   ]
+  },
+  {
+   "title": "EN DIRECT, manifestations du 17 octobre : de nouveaux couvre-feux pour mardi soir, à Paris, Lyon, Bordeaux et Nice, après une nuit calme",
+   "url": "https://la1ere.franceinfo.fr/guadeloupe/pillages-et-violences-en-agglomeration-pointoise-le-prefet-instaure-un-couvre-feu-pour-les-mineurs-1749363.html",
+   "n_members": 110,
+   "n_sources": 29,
+   "counts": {
+    "left": 4,
+    "centre": 15,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 6
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.415,
+   "category": "société",
+   "terms_left": [
+    "lyon bordeaux",
+    "direct",
+    "bordeaux"
+   ],
+   "terms_right": [
+    "violences",
+    "place",
+    "couvre-feu"
    ]
   },
   {
@@ -217,7 +247,7 @@
   {
    "title": "SONDAGE BFMTV. Présidentielle 2027: Édouard Philippe, Raphaël Glucksmann et Jean-Luc Mélenchon donnés au coude-à-coude derrière Marine Le Pen",
    "url": "https://www.liberation.fr/politique/elections/primaire-sociale-democrate-raphael-glucksmann-se-sent-favori-de-pied-en-cap-clair-20261009_DJUNKU53WJCU3NLYFGJJ4P2Z24/",
-   "n_members": 81,
+   "n_members": 82,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -231,12 +261,12 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.4,
+   "divergence": 0.411,
    "category": "politique",
    "terms_left": [
     "primaire",
     "candidat",
-    "primaire ps"
+    "glucksmann"
    ],
    "terms_right": [
     "jean-luc",
@@ -245,39 +275,9 @@
    ]
   },
   {
-   "title": "EN DIRECT, manifestations du 17 octobre : de nouveaux couvre-feux pour mardi soir, à Paris, Lyon, Bordeaux et Nice, après une nuit calme",
-   "url": "https://la1ere.franceinfo.fr/guadeloupe/pillages-et-violences-en-agglomeration-pointoise-le-prefet-instaure-un-couvre-feu-pour-les-mineurs-1749363.html",
-   "n_members": 107,
-   "n_sources": 28,
-   "counts": {
-    "left": 4,
-    "centre": 15,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 7,
-    "opinion": 5
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.416,
-   "category": "société",
-   "terms_left": [
-    "bordeaux",
-    "direct",
-    "nouveaux couvre-feux"
-   ],
-   "terms_right": [
-    "violences",
-    "place",
-    "couvre-feu mineurs"
-   ]
-  },
-  {
    "title": "\"La France est en feu\", alerte Donald Trump après les violences urbaines du 17 octobre",
    "url": "https://www.cnews.fr/sport/2026-10-15/nba-la-belle-performance-de-victor-wembanyama-lors-de-la-victoire-des-spurs-en",
-   "n_members": 77,
+   "n_members": 79,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.825,
+   "divergence": 0.818,
    "category": "international",
    "terms_left": [
     "mobilisation",
@@ -307,7 +307,7 @@
   {
    "title": "\"On est profondément tristes\" : les habitants de Limoges choqués par l'incendie de leur hôtel de ville par des émeutiers",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/plus-de-40-compagnies-de-crs-et-d-escadrons-de-gendarmes-mobiles-deployes-a-paris-pour-le-17-octobre-6993573",
-   "n_members": 122,
+   "n_members": 123,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.598,
+   "divergence": 0.596,
    "category": "société",
    "terms_left": [
     "place république",
@@ -329,9 +329,9 @@
     "paris"
    ],
    "terms_right": [
+    "lyon",
     "hôtel ville",
-    "hôtel",
-    "lyon"
+    "hôtel"
    ]
   },
   {
@@ -351,7 +351,7 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.335,
+   "divergence": 0.34,
    "category": "international",
    "terms_left": [
     "direct",
@@ -422,6 +422,36 @@
     "guerre ukraine",
     "guerre",
     "américain"
+   ]
+  },
+  {
+   "title": "Répression, accusations contre LFI, instrumentalisation de la police : les mensonges d’État sur le 17 octobre",
+   "url": "https://www.valeursactuelles.com/politique/il-est-mort-mais-il-ne-le-sait-pas-encore-jerome-cahuzac-enterre-jordan-bardella-et-lui-conseille-de-reprendre-ses-etudes-tres-vite",
+   "n_members": 60,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 10,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 7,
+    "opinion": 7
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.652,
+   "category": "politique",
+   "terms_left": [
+    "manifestations",
+    "pouvoir",
+    "affaire"
+   ],
+   "terms_right": [
+    "jordan bardella",
+    "jordan",
+    "bardella"
    ]
   },
   {
@@ -501,7 +531,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.726,
+   "divergence": 0.727,
    "category": "société",
    "terms_left": [
     "soutien",
@@ -565,8 +595,8 @@
    "category": "politique",
    "terms_left": [
     "dati",
-    "rachida dati",
-    "rachida"
+    "rachida",
+    "rachida dati"
    ],
    "terms_right": [
     "laurent nuñez",
@@ -605,36 +635,6 @@
    ]
   },
   {
-   "title": "Répression, accusations contre LFI, instrumentalisation de la police : les mensonges d’État sur le 17 octobre",
-   "url": "https://www.valeursactuelles.com/politique/il-est-mort-mais-il-ne-le-sait-pas-encore-jerome-cahuzac-enterre-jordan-bardella-et-lui-conseille-de-reprendre-ses-etudes-tres-vite",
-   "n_members": 57,
-   "n_sources": 25,
-   "counts": {
-    "left": 6,
-    "centre": 10,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 6,
-    "opinion": 7
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.647,
-   "category": "politique",
-   "terms_left": [
-    "pouvoir",
-    "manifestations",
-    "affaire"
-   ],
-   "terms_right": [
-    "jordan bardella",
-    "jordan",
-    "bardella"
-   ]
-  },
-  {
    "title": "Mobilisation du 17 octobre : la main d'un manifestant arrachée par une grenade, à Saint-Etienne",
    "url": "https://www.liberation.fr/checknews/mobilisation-lyceenne-a-paris-des-policiers-victimes-de-leur-propre-grenade-explosive-20261015_2CYRCSHJW5A2NH4LTALYR6GODQ/",
    "n_members": 66,
@@ -651,7 +651,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.727,
+   "divergence": 0.736,
    "category": "société",
    "terms_left": [
     "main",
@@ -662,6 +662,36 @@
     "violences",
     "cnews",
     "euros"
+   ]
+  },
+  {
+   "title": "Ouverture à Paris du procès de l'Insoumise Rima Hassan pour apologie du terrorisme",
+   "url": "https://www.leparisien.fr/faits-divers/comme-une-bombe-tombee-du-ciel-et-soudain-la-rue-de-trevise-a-explose-16-10-2026-DQ6PDK6DJNG6JPAZE4LWUPUQ2M.php",
+   "n_members": 62,
+   "n_sources": 24,
+   "counts": {
+    "left": 6,
+    "centre": 9,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.249,
+   "category": "société",
+   "terms_left": [
+    "personnes",
+    "procès ville",
+    "élue"
+   ],
+   "terms_right": [
+    "tweet",
+    "lfi rima",
+    "devant"
    ]
   },
   {
@@ -697,7 +727,7 @@
   {
    "title": "Mairie de Limoges incendiée : un suspect fiché S interpellé",
    "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/19/guillaume-guerin-le-maire-de-limoges-qui-accuse-lfi-d-etre-comptable-du-chaos-apres-l-incendie-de-l-hotel-de-ville_6797559_4500055.html",
-   "n_members": 39,
+   "n_members": 43,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -711,8 +741,8 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.361,
-   "category": "faits-divers",
+   "divergence": 0.363,
+   "category": "société",
    "terms_left": [
     "sous-direction antiterroriste",
     "interpellé incendie",
@@ -721,7 +751,7 @@
    "terms_right": [
     "ultragauche",
     "enquête",
-    "fiché"
+    "matin"
    ]
   },
   {
@@ -755,39 +785,9 @@
    ]
   },
   {
-   "title": "Ouverture à Paris du procès de l'Insoumise Rima Hassan pour apologie du terrorisme",
-   "url": "https://www.leparisien.fr/faits-divers/comme-une-bombe-tombee-du-ciel-et-soudain-la-rue-de-trevise-a-explose-16-10-2026-DQ6PDK6DJNG6JPAZE4LWUPUQ2M.php",
-   "n_members": 60,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 9,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 5
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.268,
-   "category": "société",
-   "terms_left": [
-    "personnes",
-    "procès ville",
-    "ouvre"
-   ],
-   "terms_right": [
-    "sursis ans",
-    "tweet",
-    "devant"
-   ]
-  },
-  {
    "title": "Brésil: premier débat entre Lula et Bolsonaro, une semaine avant le second tour",
    "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-12h30/journal-de-12h30-du-dimanche-04-octobre-2026-7794885",
-   "n_members": 59,
+   "n_members": 62,
    "n_sources": 23,
    "counts": {
     "left": 6,
@@ -801,12 +801,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.743,
+   "divergence": 0.744,
    "category": "international",
    "terms_left": [
     "brésil",
     "flavio",
-    "flavio bolsonaro"
+    "droite"
    ],
    "terms_right": [
     "débat",
@@ -831,7 +831,7 @@
    },
    "blindspot_score": -0.167,
    "blindspot_for": null,
-   "divergence": 0.362,
+   "divergence": 0.363,
    "category": "société",
    "terms_left": [
     "assises",
@@ -861,17 +861,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.69,
+   "divergence": 0.685,
    "category": "société",
    "terms_left": [
     "gouvernement",
     "lycéen",
-    "france ministre"
+    "réponse"
    ],
    "terms_right": [
     "mobilisation",
     "violences",
-    "journée"
+    "bardella"
    ]
   },
   {
@@ -951,7 +951,7 @@
   {
    "title": "« C’est comme lancer une pièce de bœuf au milieu d’une cage aux lions » : ces milliards d’euros d’économies du budget 2027 déjà rejetés par les députés",
    "url": "https://www.sudradio.fr/societe/le-rabot-de-350-millions-deuros-de-maprimerenov-acte-par-lagence-nationale-de-lhabitat",
-   "n_members": 39,
+   "n_members": 42,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -965,7 +965,7 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.736,
+   "divergence": 0.719,
    "category": "économie",
    "terms_left": [
     "gouvernement",
@@ -973,15 +973,15 @@
     "mobilisation"
    ],
    "terms_right": [
-    "objectif",
-    "cour",
-    "sociale"
+    "sociale",
+    "assemblée",
+    "sécu"
    ]
   },
   {
    "title": "Guerre en Ukraine: Donald Trump accuse Volodymyr Zelensky de \"ne pas vouloir mettre fin\" au conflit avec la Russie",
    "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/kiev-et-bruxelles-ont-trouve-un-accord-sur-les-modalites-du-financement-de-l-ukraine-pour-2026_8218864.html",
-   "n_members": 87,
+   "n_members": 89,
    "n_sources": 21,
    "counts": {
     "left": 4,
@@ -995,17 +995,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.601,
+   "divergence": 0.604,
    "category": "international",
    "terms_left": [
     "direct",
-    "visite",
-    "merz"
+    "merz",
+    "visite"
    ],
    "terms_right": [
-    "ukraine",
     "russie",
-    "président"
+    "donald trump",
+    "donald"
    ]
   },
   {
@@ -1025,7 +1025,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.342,
+   "divergence": 0.343,
    "category": "international",
    "terms_left": [
     "occupée",
@@ -1036,6 +1036,36 @@
     "attaque",
     "post",
     "washington post"
+   ]
+  },
+  {
+   "title": "Guerre en Ukraine : Un mort et deux sites pétroliers russes incendiés après une attaque massive de drones",
+   "url": "https://www.courrierinternational.com/article/justice-sabotage-de-nord-stream-l-allemagne-suspendue-au-debut-du-proces-d-un-ex-officier-ukrainien_278292",
+   "n_members": 57,
+   "n_sources": 21,
+   "counts": {
+    "left": 3,
+    "centre": 14,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 3,
+    "opinion": 2
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.806,
+   "category": "international",
+   "terms_left": [
+    "nord",
+    "ukrainien",
+    "sabotage"
+   ],
+   "terms_right": [
+    "ukraine",
+    "russe",
+    "russes"
    ]
   },
   {
@@ -1059,6 +1089,36 @@
    "category": "international",
    "terms_left": [],
    "terms_right": []
+  },
+  {
+   "title": "Pillages du 17 octobre : Vinted, eBay et Leboncoin sommés d’empêcher la revente d’objets volés",
+   "url": "https://www.leprogres.fr/faits-divers-justice/2026/10/19/j-ai-rentabilise-mon-17-octobre-la-revente-scandaleuse-du-butin-des-pillages-sur-vinted",
+   "n_members": 31,
+   "n_sources": 21,
+   "counts": {
+    "left": 3,
+    "centre": 9,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.686,
+   "category": "société",
+   "terms_left": [
+    "identifier",
+    "empêcher",
+    "leboncoin"
+   ],
+   "terms_right": [
+    "volés",
+    "ligne",
+    "annonces"
+   ]
   },
   {
    "title": "Violences et maintien de l'ordre le 17 octobre: l'Assemblée lance une commission d'enquête qui commencera ses travaux dans les prochains jours",
@@ -1093,7 +1153,7 @@
   {
    "title": "Prix des carburants : Macron « a sécurisé » la livraison mensuelle de 200.000 tonnes de diesel par Bahreïn et les Émirats",
    "url": "https://www.valeursactuelles.com/monde/tribune-entre-trump-et-xi-jinping-comment-emmanuel-macron-a-choisi-le-kazakhstan-pour-la-france",
-   "n_members": 39,
+   "n_members": 40,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -1107,7 +1167,7 @@
    },
    "blindspot_score": 0.6,
    "blindspot_for": "gauche",
-   "divergence": 0.552,
+   "divergence": 0.546,
    "category": "international",
    "terms_left": [
     "emirats arabes",
@@ -1118,66 +1178,6 @@
     "emmanuel macron",
     "emmanuel",
     "macron"
-   ]
-  },
-  {
-   "title": "Manifestations du 17 octobre : des commissariats saturés à Paris, des avocats critiquent \"des traitements dégradants\" en garde à vue",
-   "url": "https://www.bfmtv.com/grand-lille/replay-emissions/bonsoir-lille/video-manifestations-du-17-octobre-les-premiers-proces-ont-commence-a-lille_VN-202610190759.html",
-   "n_members": 58,
-   "n_sources": 19,
-   "counts": {
-    "left": 3,
-    "centre": 10,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 5,
-    "opinion": 1
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.748,
-   "category": "société",
-   "terms_left": [
-    "violences pillages",
-    "face",
-    "gouvernement"
-   ],
-   "terms_right": [
-    "policiers",
-    "vie",
-    "ans"
-   ]
-  },
-  {
-   "title": "Guerre en Ukraine : Un mort et deux sites pétroliers russes incendiés après une attaque massive de drones",
-   "url": "https://www.courrierinternational.com/article/justice-sabotage-de-nord-stream-l-allemagne-suspendue-au-debut-du-proces-d-un-ex-officier-ukrainien_278292",
-   "n_members": 52,
-   "n_sources": 19,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 3,
-    "opinion": 2
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.794,
-   "category": "international",
-   "terms_left": [
-    "année",
-    "nord",
-    "ukrainien"
-   ],
-   "terms_right": [
-    "guerre",
-    "ukraine",
-    "russe"
    ]
   }
  ]
