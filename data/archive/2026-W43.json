@@ -1,6 +1,6 @@
 {
  "week": "2026-W43",
- "generated_at": "2026-10-19T21:39:18+00:00",
+ "generated_at": "2026-10-20T00:50:04+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -97,7 +97,7 @@
   {
    "title": "Guerre en Ukraine : Donald Trump attaque de nouveau Volodymyr Zelensky, qu’il accuse de « ne pas vouloir mettre fin » au conflit avec la Russie",
    "url": "https://fr.euronews.com/2026/10/05/les-exportations-de-petrole-du-moyen-orient-reviennent-a-leur-niveau-davant-guerre-sans-li",
-   "n_members": 303,
+   "n_members": 306,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -111,23 +111,23 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.289,
+   "divergence": 0.29,
    "category": "international",
    "terms_left": [
     "direct",
     "direct guerre",
-    "gazole"
+    "guerre"
    ],
    "terms_right": [
-    "qu",
+    "trump",
     "prix",
-    "trump"
+    "russe"
    ]
   },
   {
-   "title": "Budget 2027 : le vote solennel sur la première partie du PLF repoussé",
+   "title": "Budget de l'État: après avoir commencé à détricoter le projet du gouvernement, l'Assemblée appuie sur pause pour passer au budget de la Sécu",
    "url": "https://www.lefigaro.fr/politique/budget-2027-les-deputes-socialistes-ont-le-doigt-sur-le-bouton-de-la-censure-20260930",
-   "n_members": 170,
+   "n_members": 172,
    "n_sources": 31,
    "counts": {
     "left": 8,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.423,
+   "divergence": 0.422,
    "category": "politique",
    "terms_left": [
     "gouvernement",
@@ -205,8 +205,8 @@
    "category": "politique",
    "terms_left": [
     "lfi",
-    "réseaux",
-    "sociaux"
+    "sociaux",
+    "réseaux"
    ],
    "terms_right": [
     "marine",
@@ -277,7 +277,7 @@
   {
    "title": "Mobilisation du 17 octobre : JD Vance tient l'immigration responsable des violences",
    "url": "https://www.cnews.fr/sport/2026-10-15/nba-la-belle-performance-de-victor-wembanyama-lors-de-la-victoire-des-spurs-en",
-   "n_members": 63,
+   "n_members": 65,
    "n_sources": 27,
    "counts": {
     "left": 7,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.869,
+   "divergence": 0.859,
    "category": "international",
    "terms_left": [
     "mobilisation",
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.513,
+   "divergence": 0.51,
    "category": "économie",
    "terms_left": [
     "électrique citroën",
@@ -331,7 +331,7 @@
    "terms_right": [
     "mondial",
     "mondial auto",
-    "euros"
+    "auto"
    ]
   },
   {
@@ -381,7 +381,7 @@
    },
    "blindspot_score": -0.273,
    "blindspot_for": null,
-   "divergence": 0.819,
+   "divergence": 0.82,
    "category": "international",
    "terms_left": [
     "manifestation",
@@ -425,9 +425,9 @@
    ]
   },
   {
-   "title": "Violences et pillages du 17 octobre : le ministre de l'Intérieur Laurent Nuñez a présenté sa démission à Emmanuel Macron, qui l'a refusée tout en pointant des \"défaillances\"",
+   "title": "Violences du 17 octobre : Macron a refusé la démission de Laurent Nuñez et pointe les « défaillances » du renseignement",
    "url": "https://www.20minutes.fr/justice/4253967-20261013-conseil-superieur-magistrature-defavorable-reintegration-rachida-dati",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -441,12 +441,12 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.561,
+   "divergence": 0.568,
    "category": "politique",
    "terms_left": [
     "dati",
-    "rachida dati",
-    "rachida"
+    "rachida",
+    "rachida dati"
    ],
    "terms_right": [
     "laurent nuñez",
@@ -545,9 +545,39 @@
    ]
   },
   {
+   "title": "Pillages de commerces, immeuble d'habitation pris d'assaut... Nouvelle flambée de violences à Paris dimanche",
+   "url": "https://www.rfi.fr/fr/europe/20261018-%C3%A0-rome-et-%C3%A0-milan-plusieurs-dizaines-de-milliers-d-italiens-manifestent-contre-la-vie-ch%C3%A8re",
+   "n_members": 49,
+   "n_sources": 23,
+   "counts": {
+    "left": 5,
+    "centre": 10,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.777,
+   "category": "société",
+   "terms_left": [
+    "quartiers",
+    "malgré",
+    "soutien"
+   ],
+   "terms_right": [
+    "violences",
+    "commerces",
+    "marge"
+   ]
+  },
+  {
    "title": "Violences urbaines : Paris, Lyon, Nice... Voici les villes où un couvre-feu est instauré",
    "url": "https://la1ere.franceinfo.fr/guadeloupe/pillages-et-violences-en-agglomeration-pointoise-le-prefet-instaure-un-couvre-feu-pour-les-mineurs-1749363.html",
-   "n_members": 45,
+   "n_members": 48,
    "n_sources": 23,
    "counts": {
     "left": 3,
@@ -561,7 +591,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.523,
+   "divergence": 0.535,
    "category": "société",
    "terms_left": [
     "villes",
@@ -569,15 +599,45 @@
     "sébastien lecornu"
    ],
    "terms_right": [
-    "violences",
     "couvre-feu",
+    "violences",
     "mineurs"
+   ]
+  },
+  {
+   "title": "Mobilisation du 17 octobre : plus de «2.000» commerces touchés et des «centaines de millions d'euros de dégâts», selon le président de CCI France",
+   "url": "https://www.sudouest.fr/societe/mobilisation-du-17-octobre-nos-etablissements-ne-sont-pas-des-defouloirs-hoteliers-et-restaurateurs-ne-veulent-pas-etre-les-victimes-collaterales-des-violences-31126273.php",
+   "n_members": 46,
+   "n_sources": 23,
+   "counts": {
+    "left": 5,
+    "centre": 9,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.752,
+   "category": "économie",
+   "terms_left": [
+    "commerces pillés",
+    "lendemain",
+    "charge"
+   ],
+   "terms_right": [
+    "pillages",
+    "commerces",
+    "france"
    ]
   },
   {
    "title": "À Aix-en-Provence, le procès d’un triple assassinat, dont l'une des victimes est Brahim Kessaci, s'ouvre ce lundi",
    "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-proces-des-assassins-presumes-de-brahim-kessaci-amine-son-frere-s-exprime-22412-2469847.html",
-   "n_members": 42,
+   "n_members": 43,
    "n_sources": 23,
    "counts": {
     "left": 7,
@@ -591,8 +651,8 @@
    },
    "blindspot_score": -0.167,
    "blindspot_for": null,
-   "divergence": 0.355,
-   "category": "faits-divers",
+   "divergence": 0.358,
+   "category": "société",
    "terms_left": [
     "assises",
     "cour assises",
@@ -607,7 +667,7 @@
   {
    "title": "\"Je suis responsable\": les explications du ministre français de l'Intérieur après le fiasco du 17 octobre et sa démission refusée",
    "url": "https://www.humanite.fr/politique/laurent-nunez/pour-laurent-nunez-le-mouvement-lyceen-ne-releve-pas-du-maintien-de-lordre-classique-mais-des-violences-urbaines",
-   "n_members": 70,
+   "n_members": 71,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -659,7 +719,7 @@
   {
    "title": "Appel à la mobilisation le 24 octobre : qui se cache derrière la «coordination des gilets jaunes» ?",
    "url": "https://www.leparisien.fr/politique/mobilisation-des-lyceens-du-17-octobre-sebastien-lecornu-convoque-une-cellule-de-crise-pour-suivre-le-mouvement-16-10-2026-LPFOKJUQLJBQDPIUT5KLLBHEEI.php",
-   "n_members": 48,
+   "n_members": 54,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -673,12 +733,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.75,
+   "divergence": 0.773,
    "category": "société",
    "terms_left": [
     "macron",
     "mobilisations",
-    "politique"
+    "maintien"
    ],
    "terms_right": [
     "casseurs",
@@ -689,7 +749,7 @@
   {
    "title": "Mobilisation du 17 octobre : Jordan Bardella met en cause LFI et fustige une «ultragauche», «cancer de notre démocratie»",
    "url": "https://www.valeursactuelles.com/politique/il-est-mort-mais-il-ne-le-sait-pas-encore-jerome-cahuzac-enterre-jordan-bardella-et-lui-conseille-de-reprendre-ses-etudes-tres-vite",
-   "n_members": 42,
+   "n_members": 44,
    "n_sources": 22,
    "counts": {
     "left": 6,
@@ -703,77 +763,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.584,
+   "divergence": 0.598,
    "category": "politique",
    "terms_left": [
     "affaire",
-    "met",
-    "antisémitisme"
+    "extrême",
+    "met"
    ],
    "terms_right": [
     "france",
-    "président",
-    "violences"
-   ]
-  },
-  {
-   "title": "Mobilisation du 17 octobre : plus de «2.000» commerces touchés et des «centaines de millions d'euros de dégâts», selon le président de CCI France",
-   "url": "https://www.sudouest.fr/societe/mobilisation-du-17-octobre-nos-etablissements-ne-sont-pas-des-defouloirs-hoteliers-et-restaurateurs-ne-veulent-pas-etre-les-victimes-collaterales-des-violences-31126273.php",
-   "n_members": 41,
-   "n_sources": 22,
-   "counts": {
-    "left": 4,
-    "centre": 9,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.77,
-   "category": "économie",
-   "terms_left": [
-    "commerces pillés",
-    "charge",
-    "indemnisation"
-   ],
-   "terms_right": [
-    "pillages",
-    "violences",
-    "week-end"
-   ]
-  },
-  {
-   "title": "Pillages de commerces, immeuble d'habitation pris d'assaut... Nouvelle flambée de violences à Paris dimanche",
-   "url": "https://www.rfi.fr/fr/europe/20261018-%C3%A0-rome-et-%C3%A0-milan-plusieurs-dizaines-de-milliers-d-italiens-manifestent-contre-la-vie-ch%C3%A8re",
-   "n_members": 37,
-   "n_sources": 22,
-   "counts": {
-    "left": 5,
-    "centre": 9,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.77,
-   "category": "société",
-   "terms_left": [
-    "quartiers",
-    "république",
-    "autour"
-   ],
-   "terms_right": [
-    "violences",
-    "commerces",
-    "marge"
+    "jordan bardella",
+    "jordan"
    ]
   },
   {
@@ -899,7 +899,7 @@
   {
    "title": "Brésil: premier débat entre Lula et Bolsonaro, une semaine avant le second tour",
    "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-12h30/journal-de-12h30-du-dimanche-04-octobre-2026-7794885",
-   "n_members": 50,
+   "n_members": 51,
    "n_sources": 19,
    "counts": {
     "left": 5,
@@ -989,7 +989,7 @@
   {
    "title": "Guerre en Ukraine : Un mort et deux sites pétroliers russes incendiés après une attaque massive de drones",
    "url": "https://www.courrierinternational.com/article/justice-sabotage-de-nord-stream-l-allemagne-suspendue-au-debut-du-proces-d-un-ex-officier-ukrainien_278292",
-   "n_members": 40,
+   "n_members": 41,
    "n_sources": 18,
    "counts": {
     "left": 2,
@@ -1077,7 +1077,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.577,
+   "divergence": 0.582,
    "category": "culture",
    "terms_left": [
     "concert",
@@ -1085,8 +1085,8 @@
    ],
    "terms_right": [
     "retour",
-    "soir",
-    "devant"
+    "devant",
+    "dion"
    ]
   },
   {
