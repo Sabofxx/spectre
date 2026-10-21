@@ -1,6 +1,6 @@
 {
  "week": "2026-W43",
- "generated_at": "2026-10-20T22:31:03+00:00",
+ "generated_at": "2026-10-21T00:48:13+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.435,
+   "divergence": 0.44,
    "category": "politique",
    "terms_left": [
     "emmanuel",
@@ -187,7 +187,7 @@
   {
    "title": "EN DIRECT, manifestations du 17 octobre : de nouveaux couvre-feux pour mardi soir, à Paris, Lyon, Bordeaux et Nice, après une nuit calme",
    "url": "https://la1ere.franceinfo.fr/guadeloupe/pillages-et-violences-en-agglomeration-pointoise-le-prefet-instaure-un-couvre-feu-pour-les-mineurs-1749363.html",
-   "n_members": 110,
+   "n_members": 111,
    "n_sources": 29,
    "counts": {
     "left": 4,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.415,
+   "divergence": 0.411,
    "category": "société",
    "terms_left": [
     "lyon bordeaux",
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.411,
+   "divergence": 0.41,
    "category": "politique",
    "terms_left": [
     "primaire",
@@ -595,8 +595,8 @@
    "category": "politique",
    "terms_left": [
     "dati",
-    "rachida",
-    "rachida dati"
+    "rachida dati",
+    "rachida"
    ],
    "terms_right": [
     "laurent nuñez",
@@ -655,8 +655,8 @@
    "category": "société",
    "terms_left": [
     "main",
-    "manifestants",
-    "main arrachée"
+    "manifestation",
+    "manifestants"
    ],
    "terms_right": [
     "violences",
@@ -667,7 +667,7 @@
   {
    "title": "Ouverture à Paris du procès de l'Insoumise Rima Hassan pour apologie du terrorisme",
    "url": "https://www.leparisien.fr/faits-divers/comme-une-bombe-tombee-du-ciel-et-soudain-la-rue-de-trevise-a-explose-16-10-2026-DQ6PDK6DJNG6JPAZE4LWUPUQ2M.php",
-   "n_members": 62,
+   "n_members": 63,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -681,12 +681,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.249,
+   "divergence": 0.242,
    "category": "société",
    "terms_left": [
     "personnes",
-    "procès ville",
-    "élue"
+    "élue",
+    "post"
    ],
    "terms_right": [
     "tweet",
@@ -727,7 +727,7 @@
   {
    "title": "Mairie de Limoges incendiée : un suspect fiché S interpellé",
    "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/19/guillaume-guerin-le-maire-de-limoges-qui-accuse-lfi-d-etre-comptable-du-chaos-apres-l-incendie-de-l-hotel-de-ville_6797559_4500055.html",
-   "n_members": 43,
+   "n_members": 44,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -741,12 +741,12 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.363,
+   "divergence": 0.36,
    "category": "société",
    "terms_left": [
+    "limoges homme",
     "sous-direction antiterroriste",
-    "interpellé incendie",
-    "antiterroriste"
+    "interpellé incendie"
    ],
    "terms_right": [
     "ultragauche",
@@ -782,6 +782,36 @@
     "pillages",
     "face",
     "manifestations"
+   ]
+  },
+  {
+   "title": "\"Je suis responsable\": les explications du ministre français de l'Intérieur après le fiasco du 17 octobre et sa démission refusée",
+   "url": "https://www.humanite.fr/politique/laurent-nunez/pour-laurent-nunez-le-mouvement-lyceen-ne-releve-pas-du-maintien-de-lordre-classique-mais-des-violences-urbaines",
+   "n_members": 76,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 5,
+    "opinion": 3
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.685,
+   "category": "société",
+   "terms_left": [
+    "gouvernement",
+    "lycéen",
+    "réponse"
+   ],
+   "terms_right": [
+    "mobilisation",
+    "violences",
+    "bardella"
    ]
   },
   {
@@ -842,36 +872,6 @@
     "présumés",
     "frère aîné",
     "ans"
-   ]
-  },
-  {
-   "title": "\"Je suis responsable\": les explications du ministre français de l'Intérieur après le fiasco du 17 octobre et sa démission refusée",
-   "url": "https://www.humanite.fr/politique/laurent-nunez/pour-laurent-nunez-le-mouvement-lyceen-ne-releve-pas-du-maintien-de-lordre-classique-mais-des-violences-urbaines",
-   "n_members": 75,
-   "n_sources": 22,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.685,
-   "category": "société",
-   "terms_left": [
-    "gouvernement",
-    "lycéen",
-    "réponse"
-   ],
-   "terms_right": [
-    "mobilisation",
-    "violences",
-    "bardella"
    ]
   },
   {
@@ -951,7 +951,7 @@
   {
    "title": "« C’est comme lancer une pièce de bœuf au milieu d’une cage aux lions » : ces milliards d’euros d’économies du budget 2027 déjà rejetés par les députés",
    "url": "https://www.sudradio.fr/societe/le-rabot-de-350-millions-deuros-de-maprimerenov-acte-par-lagence-nationale-de-lhabitat",
-   "n_members": 42,
+   "n_members": 43,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -965,7 +965,7 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.719,
+   "divergence": 0.72,
    "category": "économie",
    "terms_left": [
     "gouvernement",
@@ -975,7 +975,7 @@
    "terms_right": [
     "sociale",
     "assemblée",
-    "sécu"
+    "france"
    ]
   },
   {
@@ -1025,7 +1025,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.343,
+   "divergence": 0.336,
    "category": "international",
    "terms_left": [
     "occupée",
@@ -1034,14 +1034,14 @@
    ],
    "terms_right": [
     "attaque",
-    "post",
-    "washington post"
+    "attaque convoi",
+    "convoi diplomates"
    ]
   },
   {
    "title": "Guerre en Ukraine : Un mort et deux sites pétroliers russes incendiés après une attaque massive de drones",
    "url": "https://www.courrierinternational.com/article/justice-sabotage-de-nord-stream-l-allemagne-suspendue-au-debut-du-proces-d-un-ex-officier-ukrainien_278292",
-   "n_members": 57,
+   "n_members": 58,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -1058,13 +1058,13 @@
    "divergence": 0.806,
    "category": "international",
    "terms_left": [
-    "nord",
-    "ukrainien",
-    "sabotage"
+    "direct",
+    "drones",
+    "année"
    ],
    "terms_right": [
-    "ukraine",
     "russe",
+    "ukraine",
     "russes"
    ]
   },
@@ -1091,9 +1091,39 @@
    "terms_right": []
   },
   {
+   "title": "Prix des carburants : Macron « a sécurisé » la livraison mensuelle de 200.000 tonnes de diesel par Bahreïn et les Émirats",
+   "url": "https://www.valeursactuelles.com/monde/tribune-entre-trump-et-xi-jinping-comment-emmanuel-macron-a-choisi-le-kazakhstan-pour-la-france",
+   "n_members": 41,
+   "n_sources": 21,
+   "counts": {
+    "left": 2,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 5,
+    "opinion": 2
+   },
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": 0.546,
+   "category": "international",
+   "terms_left": [
+    "emirats arabes",
+    "région",
+    "emirats"
+   ],
+   "terms_right": [
+    "emmanuel macron",
+    "emmanuel",
+    "macron"
+   ]
+  },
+  {
    "title": "Pillages du 17 octobre : Vinted, eBay et Leboncoin sommés d’empêcher la revente d’objets volés",
    "url": "https://www.leprogres.fr/faits-divers-justice/2026/10/19/j-ai-rentabilise-mon-17-octobre-la-revente-scandaleuse-du-butin-des-pillages-sur-vinted",
-   "n_members": 31,
+   "n_members": 34,
    "n_sources": 21,
    "counts": {
     "left": 3,
@@ -1107,12 +1137,12 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.686,
-   "category": "société",
+   "divergence": 0.7,
+   "category": "économie",
    "terms_left": [
     "identifier",
-    "empêcher",
-    "leboncoin"
+    "leboncoin",
+    "empêcher"
    ],
    "terms_right": [
     "volés",
@@ -1148,36 +1178,6 @@
     "pillages",
     "devant",
     "présidentielle"
-   ]
-  },
-  {
-   "title": "Prix des carburants : Macron « a sécurisé » la livraison mensuelle de 200.000 tonnes de diesel par Bahreïn et les Émirats",
-   "url": "https://www.valeursactuelles.com/monde/tribune-entre-trump-et-xi-jinping-comment-emmanuel-macron-a-choisi-le-kazakhstan-pour-la-france",
-   "n_members": 40,
-   "n_sources": 20,
-   "counts": {
-    "left": 2,
-    "centre": 10,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": 0.546,
-   "category": "international",
-   "terms_left": [
-    "emirats arabes",
-    "région",
-    "emirats"
-   ],
-   "terms_right": [
-    "emmanuel macron",
-    "emmanuel",
-    "macron"
    ]
   }
  ]
