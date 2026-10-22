@@ -1,6 +1,6 @@
 {
  "week": "2026-W43",
- "generated_at": "2026-10-22T01:06:45+00:00",
+ "generated_at": "2026-10-22T06:17:19+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -25,8 +25,8 @@
    "category": "société",
    "terms_left": [
     "mobilisation",
-    "mouvement",
-    "mouvement lycéen"
+    "mouvement lycéen",
+    "mouvement"
    ],
    "terms_right": [
     "blocus",
@@ -51,17 +51,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.574,
+   "divergence": 0.575,
    "category": "société",
    "terms_left": [
     "colère",
-    "gouvernement",
+    "lycéens",
     "mouvement"
    ],
    "terms_right": [
     "france",
-    "violences",
-    "emmanuel macron"
+    "emmanuel macron",
+    "emmanuel"
    ]
   },
   {
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.217,
    "blindspot_for": null,
-   "divergence": 0.265,
+   "divergence": 0.266,
    "category": "international",
    "terms_left": [
     "brésil lula",
@@ -97,7 +97,7 @@
   {
    "title": "L'émissaire de Trump attendu en Russie pour une rencontre avec Poutine sur l'Ukraine",
    "url": "https://fr.euronews.com/2026/10/05/les-exportations-de-petrole-du-moyen-orient-reviennent-a-leur-niveau-davant-guerre-sans-li",
-   "n_members": 365,
+   "n_members": 369,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.262,
+   "divergence": 0.26,
    "category": "international",
    "terms_left": [
     "direct",
@@ -120,8 +120,8 @@
    ],
    "terms_right": [
     "rencontre",
-    "trump",
-    "discussions"
+    "discussions",
+    "trump"
    ]
   },
   {
@@ -155,9 +155,9 @@
    ]
   },
   {
-   "title": "Violences du 17 octobre : Emmanuel Macron promet d'être \"",
+   "title": "EN DIRECT - Violences urbaines : Emmanuel Macron convoque les renseignements à l’Élysée, accusés d’avoir mal anticipé la mobilisation du 17 octobre",
    "url": "https://www.franceinfo.fr/monde/afrique/algerie/une-trentaine-de-maires-de-france-appellent-a-la-reconnaissance-du-massacre-du-17-octobre-1961-des-manifestants-algeriens-a-paris-comme-un-crime-d-etat_8238424.html",
-   "n_members": 180,
+   "n_members": 186,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -171,23 +171,23 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.497,
+   "divergence": 0.514,
    "category": "politique",
    "terms_left": [
-    "etat",
+    "allocution",
     "allocution emmanuel",
-    "emmanuel"
+    "manifestations"
    ],
    "terms_right": [
-    "violences",
     "politique",
-    "laurent"
+    "ministre",
+    "violences"
    ]
   },
   {
    "title": "EN DIRECT, manifestations du 17 octobre : de nouveaux couvre-feux pour mardi soir, à Paris, Lyon, Bordeaux et Nice, après une nuit calme",
    "url": "https://la1ere.franceinfo.fr/guadeloupe/pillages-et-violences-en-agglomeration-pointoise-le-prefet-instaure-un-couvre-feu-pour-les-mineurs-1749363.html",
-   "n_members": 133,
+   "n_members": 134,
    "n_sources": 29,
    "counts": {
     "left": 4,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.389,
+   "divergence": 0.391,
    "category": "société",
    "terms_left": [
     "heures",
@@ -261,16 +261,46 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.789,
+   "divergence": 0.8,
    "category": "international",
    "terms_left": [
-    "monde",
     "midterms",
+    "monde",
     "ministre"
    ],
    "terms_right": [
     "donald trump",
     "donald",
+    "émeutes"
+   ]
+  },
+  {
+   "title": "Chômage partiel, fonds de soutien… : les aides du gouvernement pour les commerces touchés par les violences du week-end",
+   "url": "https://www.sudouest.fr/societe/mobilisation-du-17-octobre-nos-etablissements-ne-sont-pas-des-defouloirs-hoteliers-et-restaurateurs-ne-veulent-pas-etre-les-victimes-collaterales-des-violences-31126273.php",
+   "n_members": 85,
+   "n_sources": 29,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.619,
+   "category": "économie",
+   "terms_left": [
+    "tourisme",
+    "indemniser",
+    "pris"
+   ],
+   "terms_right": [
+    "euros",
+    "week-end",
     "émeutes"
    ]
   },
@@ -335,39 +365,9 @@
    ]
   },
   {
-   "title": "Manifestations du 17 octobre : le gouvernement annonce des aides pour les commerces touchés par les violences",
-   "url": "https://www.sudouest.fr/societe/mobilisation-du-17-octobre-nos-etablissements-ne-sont-pas-des-defouloirs-hoteliers-et-restaurateurs-ne-veulent-pas-etre-les-victimes-collaterales-des-violences-31126273.php",
-   "n_members": 84,
-   "n_sources": 28,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.632,
-   "category": "économie",
-   "terms_left": [
-    "tourisme",
-    "pris",
-    "pris charge"
-   ],
-   "terms_right": [
-    "commerçants",
-    "euros",
-    "week-end"
-   ]
-  },
-  {
    "title": "Violences urbaines : traumatisée par l'incendie de l'hôtel de ville, Limoges attend le soutien de l'Etat",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/plus-de-40-compagnies-de-crs-et-d-escadrons-de-gendarmes-mobiles-deployes-a-paris-pour-le-17-octobre-6993573",
-   "n_members": 127,
+   "n_members": 128,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.611,
+   "divergence": 0.609,
    "category": "société",
    "terms_left": [
     "république",
@@ -389,9 +389,9 @@
     "place république"
    ],
    "terms_right": [
-    "hôtel ville",
-    "hôtel",
-    "violences"
+    "limoges",
+    "violences",
+    "hôtel ville"
    ]
   },
   {
@@ -411,12 +411,12 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.669,
+   "divergence": 0.672,
    "category": "politique",
    "terms_left": [
-    "interdiction",
     "manifestations",
-    "pouvoir"
+    "interdiction",
+    "mouvement"
    ],
    "terms_right": [
     "jordan bardella",
@@ -441,12 +441,12 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.339,
+   "divergence": 0.342,
    "category": "international",
    "terms_left": [
     "direct",
-    "nuit",
-    "attaques russes"
+    "attaques russes",
+    "attaques"
    ],
    "terms_right": [
     "frappe",
@@ -482,6 +482,36 @@
     "guerre ukraine",
     "guerre",
     "américain"
+   ]
+  },
+  {
+   "title": "A quoi s'attendre pour la nouvelle journée de mobilisation du samedi 24 octobre ?",
+   "url": "https://www.leparisien.fr/politique/mobilisation-des-lyceens-du-17-octobre-sebastien-lecornu-convoque-une-cellule-de-crise-pour-suivre-le-mouvement-16-10-2026-LPFOKJUQLJBQDPIUT5KLLBHEEI.php",
+   "n_members": 70,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.729,
+   "category": "société",
+   "terms_left": [
+    "appel",
+    "mobilisations",
+    "paris"
+   ],
+   "terms_right": [
+    "casseurs",
+    "coordination",
+    "manifestations"
    ]
   },
   {
@@ -531,7 +561,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.506,
+   "divergence": 0.507,
    "category": "économie",
    "terms_left": [
     "électrique citroën",
@@ -577,7 +607,7 @@
   {
    "title": "Violences urbaines : «123 personnes sont incarcérées» ce mardi matin, souligne Gérald Darmanin",
    "url": "https://www.humanite.fr/politique/laurent-nunez/pour-laurent-nunez-le-mouvement-lyceen-ne-releve-pas-du-maintien-de-lordre-classique-mais-des-violences-urbaines",
-   "n_members": 88,
+   "n_members": 90,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -591,23 +621,23 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.691,
+   "divergence": 0.675,
    "category": "société",
    "terms_left": [
     "lycéen",
-    "laurent",
-    "nuñez"
+    "réponse",
+    "ferme"
    ],
    "terms_right": [
-    "mobilisation",
     "violences",
-    "justice"
+    "personnes",
+    "europe"
    ]
   },
   {
    "title": "Violences urbaines : des cagnottes suspectes ouvertes au nom de commerçants, parfois à leur insu",
    "url": "https://www.rfi.fr/fr/europe/20261018-%C3%A0-rome-et-%C3%A0-milan-plusieurs-dizaines-de-milliers-d-italiens-manifestent-contre-la-vie-ch%C3%A8re",
-   "n_members": 76,
+   "n_members": 77,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -621,17 +651,47 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.73,
+   "divergence": 0.733,
    "category": "société",
    "terms_left": [
     "soutien",
     "soutien commerçants",
-    "autour"
+    "manifestation"
    ],
    "terms_right": [
-    "qu",
     "week-end",
+    "qu",
     "face"
+   ]
+  },
+  {
+   "title": "Brésil: Lula et Bolsonaro cherchent à se disqualifier mutuellement, à quelques jours du second tour",
+   "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-12h30/journal-de-12h30-du-dimanche-04-octobre-2026-7794885",
+   "n_members": 72,
+   "n_sources": 25,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": -0.077,
+   "blindspot_for": null,
+   "divergence": 0.676,
+   "category": "international",
+   "terms_left": [
+    "brésil",
+    "présidentielle",
+    "flavio"
+   ],
+   "terms_right": [
+    "flávio",
+    "flávio bolsonaro",
+    "jours"
    ]
   },
   {
@@ -665,36 +725,6 @@
    ]
   },
   {
-   "title": "A quoi s'attendre pour la nouvelle journée de mobilisation du samedi 24 octobre ?",
-   "url": "https://www.leparisien.fr/politique/mobilisation-des-lyceens-du-17-octobre-sebastien-lecornu-convoque-une-cellule-de-crise-pour-suivre-le-mouvement-16-10-2026-LPFOKJUQLJBQDPIUT5KLLBHEEI.php",
-   "n_members": 67,
-   "n_sources": 25,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.754,
-   "category": "société",
-   "terms_left": [
-    "appel",
-    "gouvernement",
-    "macron"
-   ],
-   "terms_right": [
-    "casseurs",
-    "gilets jaunes",
-    "jaunes"
-   ]
-  },
-  {
    "title": "Violences et pillages du 17 octobre : le ministre de l'Intérieur Laurent Nuñez a présenté sa démission à Emmanuel Macron, qui l'a refusée tout en pointant des \"défaillances\"",
    "url": "https://www.20minutes.fr/justice/4253967-20261013-conseil-superieur-magistrature-defavorable-reintegration-rachida-dati",
    "n_members": 63,
@@ -711,17 +741,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.6,
+   "divergence": 0.615,
    "category": "politique",
    "terms_left": [
     "conseil",
     "dati",
-    "rachida dati"
+    "rachida"
    ],
    "terms_right": [
-    "refusée",
+    "laurent",
     "laurent nuñez",
-    "laurent"
+    "refusée"
    ]
   },
   {
@@ -755,9 +785,9 @@
    ]
   },
   {
-   "title": "À Aix-en-Provence, le procès d’un triple assassinat, dont l'une des victimes est Brahim Kessaci, s'ouvre ce lundi",
+   "title": "Toulouse : quatre personnes d'une même famille retrouvées mortes, la thèse d'un triple homicide puis d'un suicide privilégiée",
    "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-proces-des-assassins-presumes-de-brahim-kessaci-amine-son-frere-s-exprime-22412-2469847.html",
-   "n_members": 59,
+   "n_members": 61,
    "n_sources": 25,
    "counts": {
     "left": 7,
@@ -771,17 +801,47 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.388,
+   "divergence": 0.387,
    "category": "faits-divers",
    "terms_left": [
-    "assises",
-    "cour assises",
-    "cour"
+    "procès triple",
+    "accusés",
+    "amine"
    ],
    "terms_right": [
     "retrouvées",
     "toulouse",
     "retrouvées mortes"
+   ]
+  },
+  {
+   "title": "Violences urbaines : que risquent les personnes qui achètent des objets pillés ?",
+   "url": "https://www.leprogres.fr/faits-divers-justice/2026/10/19/j-ai-rentabilise-mon-17-octobre-la-revente-scandaleuse-du-butin-des-pillages-sur-vinted",
+   "n_members": 60,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 4
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.75,
+   "category": "société",
+   "terms_left": [
+    "police",
+    "leboncoin",
+    "mobilisation"
+   ],
+   "terms_right": [
+    "volés",
+    "pillages",
+    "ligne"
    ]
   },
   {
@@ -801,17 +861,47 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.234,
+   "divergence": 0.24,
    "category": "société",
    "terms_left": [
-    "personnes",
     "élue",
-    "post"
+    "post",
+    "ouvre"
    ],
    "terms_right": [
-    "lfi rima",
-    "rima hassan",
+    "hassan jugée",
+    "silence",
     "rima"
+   ]
+  },
+  {
+   "title": "Après le 17 octobre et avant de nouvelles manifestations, Sébastien Lecornu reçoit les syndicats, sans les lycéens",
+   "url": "https://www.nouvelobs.com/societe/20261018.OBS119311/apres-une-mobilisation-17-octobre-qui-a-vire-au-chaos-les-politiques-se-divisent-sur-la-responsabilite-des-violences.html",
+   "n_members": 63,
+   "n_sources": 24,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.704,
+   "category": "société",
+   "terms_left": [
+    "grève",
+    "mouvement",
+    "appelle"
+   ],
+   "terms_right": [
+    "gouvernement",
+    "week-end",
+    "nouvelle"
    ]
   },
   {
@@ -831,7 +921,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.614,
+   "divergence": 0.615,
    "category": "économie",
    "terms_left": [
     "dette",
@@ -845,69 +935,9 @@
    ]
   },
   {
-   "title": "Après le 17 octobre et avant de nouvelles manifestations, Sébastien Lecornu reçoit les syndicats, sans les lycéens",
-   "url": "https://www.nouvelobs.com/societe/20261018.OBS119311/apres-une-mobilisation-17-octobre-qui-a-vire-au-chaos-les-politiques-se-divisent-sur-la-responsabilite-des-violences.html",
-   "n_members": 60,
-   "n_sources": 24,
-   "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.721,
-   "category": "société",
-   "terms_left": [
-    "grève",
-    "mouvement",
-    "syndicats"
-   ],
-   "terms_right": [
-    "week-end",
-    "sébastien lecornu",
-    "sébastien"
-   ]
-  },
-  {
-   "title": "Violences urbaines : que risquent les personnes qui achètent des objets pillés ?",
-   "url": "https://www.leprogres.fr/faits-divers-justice/2026/10/19/j-ai-rentabilise-mon-17-octobre-la-revente-scandaleuse-du-butin-des-pillages-sur-vinted",
-   "n_members": 56,
-   "n_sources": 24,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.741,
-   "category": "société",
-   "terms_left": [
-    "leboncoin",
-    "empêcher",
-    "identifier"
-   ],
-   "terms_right": [
-    "volés",
-    "ligne",
-    "gouvernement"
-   ]
-  },
-  {
-   "title": "Congrès du RN à Orléans : Laurent Nuñez s’attend à «plusieurs dizaines de milliers» de contre-manifestants ce week-end",
+   "title": "Congrès du RN : les intimidations et les pressions se multiplient",
    "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-casse-du-louvre-ou-sont-passes-les-bijoux-85502-2470151.html",
-   "n_members": 56,
+   "n_members": 59,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -921,7 +951,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.725,
+   "divergence": 0.724,
    "category": "politique",
    "terms_left": [
     "vie",
@@ -929,9 +959,9 @@
     "vie chère"
    ],
    "terms_right": [
+    "week-end",
     "musée",
-    "louvre",
-    "week-end"
+    "louvre"
    ]
   },
   {
@@ -951,7 +981,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.855,
+   "divergence": 0.856,
    "category": "société",
    "terms_left": [
     "maires",
@@ -965,33 +995,33 @@
    ]
   },
   {
-   "title": "Présidentielle au Brésil: entre Lula et Flavio Bolsonaro, un premier débat télévisé stérile et violent",
-   "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-12h30/journal-de-12h30-du-dimanche-04-octobre-2026-7794885",
-   "n_members": 67,
+   "title": "Crise des carburants : la France sécurise des livraisons supplémentaires de 200.000 tonnes de diesel par mois auprès de pays du Golfe",
+   "url": "https://www.valeursactuelles.com/monde/tribune-entre-trump-et-xi-jinping-comment-emmanuel-macron-a-choisi-le-kazakhstan-pour-la-france",
+   "n_members": 64,
    "n_sources": 23,
    "counts": {
-    "left": 6,
+    "left": 3,
     "centre": 11,
-    "right": 6
+    "right": 9
    },
    "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
+    "factuel": 15,
+    "mixte": 5,
     "opinion": 3
    },
-   "blindspot_score": 0.0,
+   "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.693,
+   "divergence": 0.547,
    "category": "international",
    "terms_left": [
-    "brésil",
-    "présidentielle",
-    "droite"
+    "elysée",
+    "paris",
+    "carburant"
    ],
    "terms_right": [
-    "flávio",
-    "flávio bolsonaro",
-    "violences"
+    "emmanuel macron",
+    "emmanuel",
+    "diesel"
    ]
   },
   {
@@ -1011,7 +1041,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.811,
+   "divergence": 0.812,
    "category": "international",
    "terms_left": [
     "direct",
@@ -1022,36 +1052,6 @@
     "russe",
     "région",
     "jours"
-   ]
-  },
-  {
-   "title": "Prix des carburants : Macron « a sécurisé » la livraison mensuelle de 200.000 tonnes de diesel par Bahreïn et les Émirats",
-   "url": "https://www.valeursactuelles.com/monde/tribune-entre-trump-et-xi-jinping-comment-emmanuel-macron-a-choisi-le-kazakhstan-pour-la-france",
-   "n_members": 62,
-   "n_sources": 23,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.546,
-   "category": "international",
-   "terms_left": [
-    "elysée",
-    "emirats arabes",
-    "passé"
-   ],
-   "terms_right": [
-    "emmanuel macron",
-    "emmanuel",
-    "macron"
    ]
   },
   {
@@ -1101,7 +1101,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.799,
+   "divergence": 0.798,
    "category": "politique",
    "terms_left": [
     "mediapart",
@@ -1117,7 +1117,7 @@
   {
    "title": "« C’est comme lancer une pièce de bœuf au milieu d’une cage aux lions » : ces milliards d’euros d’économies du budget 2027 déjà rejetés par les députés",
    "url": "https://www.sudradio.fr/societe/le-rabot-de-350-millions-deuros-de-maprimerenov-acte-par-lagence-nationale-de-lhabitat",
-   "n_members": 52,
+   "n_members": 53,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1131,7 +1131,7 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.701,
+   "divergence": 0.695,
    "category": "économie",
    "terms_left": [
     "gouvernement",
@@ -1161,12 +1161,12 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.688,
+   "divergence": 0.69,
    "category": "société",
    "terms_left": [
     "fiasco",
-    "capitale",
-    "pris"
+    "pris",
+    "jeunes"
    ],
    "terms_right": [
     "pilleurs",
@@ -1177,7 +1177,7 @@
   {
    "title": "Météo du mardi 20 octobre 2026 : une France coupée en deux, sous la menace de fortes pluies en Méditerranée",
    "url": "https://information.tv5monde.com/international/climat-les-pays-du-pacifique-au-premier-plan-lors-du-sommet-avant-la-cop31-2840220",
-   "n_members": 69,
+   "n_members": 70,
    "n_sources": 22,
    "counts": {
     "left": 3,
