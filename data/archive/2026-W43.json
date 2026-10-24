@@ -1,6 +1,6 @@
 {
  "week": "2026-W43",
- "generated_at": "2026-10-24T18:55:23+00:00",
+ "generated_at": "2026-10-24T21:20:34+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.282,
+   "divergence": 0.283,
    "category": "société",
    "terms_left": [
     "mobilisation",
@@ -66,7 +66,7 @@
   },
   {
    "title": "Brésil : déforestation amazonienne au plus bas, El Niño et présidentielle serrée menacent",
-   "url": "https://www.bfmtv.com/politique/elysee/cela-ne-serait-pas-bon-pour-le-pays-emmanuel-macron-ecarte-une-nouvelle-dissolution-de-l-assemblee-nationale_AD-202609240877.html",
+   "url": "https://www.lemonde.fr/politique/article/2026/09/25/presidentielle-2027-une-ia-souveraine-unique-consensus-de-candidats-aux-visions-opposees_6781933_823448.html",
    "n_members": 221,
    "n_sources": 37,
    "counts": {
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.27,
+   "divergence": 0.273,
    "category": "international",
    "terms_left": [
     "direct",
@@ -127,7 +127,7 @@
   {
    "title": "En images. Manifestations du 24 octobre : un dispositif policier important, des premiers rassemblements assez calmes",
    "url": "https://www.leparisien.fr/politique/mobilisation-des-lyceens-du-17-octobre-sebastien-lecornu-convoque-une-cellule-de-crise-pour-suivre-le-mouvement-16-10-2026-LPFOKJUQLJBQDPIUT5KLLBHEEI.php",
-   "n_members": 131,
+   "n_members": 148,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -145,13 +145,43 @@
    "category": "société",
    "terms_left": [
     "manifestants",
-    "mobilisations",
-    "fin"
+    "fin",
+    "parcours"
    ],
    "terms_right": [
     "acte",
-    "haute",
-    "sécurité"
+    "sécurité",
+    "pillages"
+   ]
+  },
+  {
+   "title": "Orléans: des manifestants défilent contre la tenue d'un congrès du Rassemblement national",
+   "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-casse-du-louvre-ou-sont-passes-les-bijoux-85502-2470151.html",
+   "n_members": 219,
+   "n_sources": 33,
+   "counts": {
+    "left": 8,
+    "centre": 16,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 11,
+    "opinion": 5
+   },
+   "blindspot_score": 0.059,
+   "blindspot_for": null,
+   "divergence": 0.567,
+   "category": "politique",
+   "terms_left": [
+    "rn orléans",
+    "extrême",
+    "opposants attendus"
+   ],
+   "terms_right": [
+    "mobilisation",
+    "paris",
+    "manifestation"
    ]
   },
   {
@@ -187,7 +217,7 @@
   {
    "title": "Un mort, plusieurs blessés, le parquet antiterroriste saisi : ce que l’on sait après les tirs en rafales mortels en pleine rue à Trappes ce vendredi",
    "url": "https://www.cnews.fr/faits-divers/2026-10-23/yvelines-au-moins-un-mort-et-quatre-blesses-apres-des-tirs-en-rafales-sur",
-   "n_members": 149,
+   "n_members": 152,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -201,53 +231,23 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.232,
+   "divergence": 0.23,
    "category": "faits-divers",
    "terms_left": [
-    "raciste",
     "attentat",
-    "enfant"
+    "raciste",
+    "rue"
    ],
    "terms_right": [
-    "tirs",
     "blessés",
-    "nuñez"
-   ]
-  },
-  {
-   "title": "Orléans: des manifestants défilent contre la tenue d'un congrès du Rassemblement national",
-   "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-casse-du-louvre-ou-sont-passes-les-bijoux-85502-2470151.html",
-   "n_members": 204,
-   "n_sources": 32,
-   "counts": {
-    "left": 7,
-    "centre": 16,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 10,
-    "opinion": 5
-   },
-   "blindspot_score": 0.125,
-   "blindspot_for": null,
-   "divergence": 0.565,
-   "category": "politique",
-   "terms_left": [
-    "rn orléans",
-    "opposants attendus",
-    "bardella"
-   ],
-   "terms_right": [
-    "mobilisation",
-    "manifestation",
-    "gendarmes"
+    "tirs",
+    "suspect"
    ]
   },
   {
    "title": "Présidentielle au Brésil : un sondage donne Lula da Silva et Flavio Bolsonaro à égalité à 50 %",
    "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-12h30/journal-de-12h30-du-dimanche-04-octobre-2026-7794885",
-   "n_members": 106,
+   "n_members": 107,
    "n_sources": 31,
    "counts": {
     "left": 10,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.491,
+   "divergence": 0.492,
    "category": "international",
    "terms_left": [
     "extrême",
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.497,
+   "divergence": 0.495,
    "category": "politique",
    "terms_left": [
     "manifestations",
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.819,
+   "divergence": 0.82,
    "category": "international",
    "terms_left": [
     "midterms",
@@ -397,7 +397,7 @@
   {
    "title": "Italie: les étudiants, routiers et agriculteurs poursuivent les manifestations contre la hausse du coût de la vie",
    "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-dans-les-rues-de-l-hexagone-la-convergence-des-coleres-francaises_279546",
-   "n_members": 64,
+   "n_members": 65,
    "n_sources": 30,
    "counts": {
     "left": 8,
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.708,
+   "divergence": 0.709,
    "category": "international",
    "terms_left": [
     "europe",
@@ -421,7 +421,7 @@
    "terms_right": [
     "milan",
     "france",
-    "place"
+    "gouvernement"
    ]
   },
   {
@@ -441,11 +441,11 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.524,
+   "divergence": 0.53,
    "category": "société",
    "terms_left": [
     "manifestations",
-    "direct",
+    "nouveaux couvre-feux",
     "nouveaux"
    ],
    "terms_right": [
@@ -487,7 +487,7 @@
   {
    "title": "Incendie à la mairie de Limoges : deux suspects interpellés",
    "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/19/guillaume-guerin-le-maire-de-limoges-qui-accuse-lfi-d-etre-comptable-du-chaos-apres-l-incendie-de-l-hotel-de-ville_6797559_4500055.html",
-   "n_members": 97,
+   "n_members": 98,
    "n_sources": 29,
    "counts": {
     "left": 5,
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.701,
+   "divergence": 0.702,
    "category": "politique",
    "terms_left": [
     "affaire",
@@ -681,7 +681,7 @@
    },
    "blindspot_score": -0.231,
    "blindspot_for": null,
-   "divergence": 0.707,
+   "divergence": 0.706,
    "category": "politique",
    "terms_left": [
     "manifester",
@@ -711,16 +711,16 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.546,
+   "divergence": 0.519,
    "category": "sciences-tech",
    "terms_left": [
-    "inaccessibles",
-    "france",
-    "sites web"
+    "nombreux",
+    "web",
+    "langage"
    ],
    "terms_right": [
+    "sécurité",
     "ia",
-    "partie",
     "europe"
    ]
   },
@@ -1093,7 +1093,7 @@
    },
    "blindspot_score": 0.538,
    "blindspot_for": null,
-   "divergence": 0.461,
+   "divergence": 0.46,
    "category": "économie",
    "terms_left": [
     "publique",
@@ -1104,6 +1104,36 @@
     "moody",
     "notation",
     "dette française"
+   ]
+  },
+  {
+   "title": "\"Attentat terroriste raciste\" de Trappes: l'appartement du tueur présumé était piégé, ses proches placés en garde à vue",
+   "url": "https://www.humanite.fr/politique/racisme/racaille-pilleurs-binationaux-france-des-wallah-le-racisme-en-roue-libre-avant-lattentat-de-trappe",
+   "n_members": 67,
+   "n_sources": 24,
+   "counts": {
+    "left": 7,
+    "centre": 9,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.413,
+   "category": "faits-divers",
+   "terms_left": [
+    "attentat raciste",
+    "tué",
+    "gauche"
+   ],
+   "terms_right": [
+    "rabeh",
+    "ali rabeh",
+    "ali"
    ]
   },
   {
@@ -1157,36 +1187,6 @@
    "category": "politique",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "\"Attentat terroriste raciste\" de Trappes: l'appartement du tueur présumé était piégé, ses proches placés en garde à vue",
-   "url": "https://www.humanite.fr/politique/racisme/racaille-pilleurs-binationaux-france-des-wallah-le-racisme-en-roue-libre-avant-lattentat-de-trappe",
-   "n_members": 63,
-   "n_sources": 24,
-   "counts": {
-    "left": 7,
-    "centre": 9,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 9,
-    "opinion": 4
-   },
-   "blindspot_score": 0.067,
-   "blindspot_for": null,
-   "divergence": 0.424,
-   "category": "société",
-   "terms_left": [
-    "attentat raciste",
-    "tué",
-    "gauche"
-   ],
-   "terms_right": [
-    "ali rabeh",
-    "rabeh",
-    "ali"
-   ]
   }
  ]
 }
