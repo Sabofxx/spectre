@@ -1,6 +1,6 @@
 {
  "week": "2026-W43",
- "generated_at": "2026-10-24T02:28:42+00:00",
+ "generated_at": "2026-10-24T07:31:48+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.61,
+   "divergence": 0.611,
    "category": "société",
    "terms_left": [
     "lycéens",
@@ -66,7 +66,7 @@
   },
   {
    "title": "Brésil : déforestation amazonienne au plus bas, El Niño et présidentielle serrée menacent",
-   "url": "https://www.20minutes.fr/politique/4248110-20260924-emmanuel-macron-peut-annuler-election-presidentielle-si-france-entre-guerre",
+   "url": "https://www.lemonde.fr/politique/article/2026/09/24/l-ancien-ministre-olivier-becht-candidat-a-l-election-presidentielle_6781497_823448.html",
    "n_members": 221,
    "n_sources": 37,
    "counts": {
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.264,
+   "divergence": 0.267,
    "category": "international",
    "terms_left": [
     "direct",
@@ -120,8 +120,8 @@
    ],
    "terms_right": [
     "trump",
-    "discussions",
-    "rencontre"
+    "rencontre",
+    "qu"
    ]
   },
   {
@@ -157,7 +157,7 @@
   {
    "title": "Un mort, plusieurs blessés, le parquet antiterroriste saisi : ce que l’on sait après les tirs en rafales mortels en pleine rue à Trappes ce vendredi",
    "url": "https://www.cnews.fr/faits-divers/2026-10-23/yvelines-au-moins-un-mort-et-quatre-blesses-apres-des-tirs-en-rafales-sur",
-   "n_members": 118,
+   "n_members": 124,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -171,23 +171,53 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.267,
+   "divergence": 0.255,
    "category": "faits-divers",
    "terms_left": [
     "raciste",
     "enfant",
-    "attaque"
+    "attentat"
    ],
    "terms_right": [
-    "blessés",
     "suspect",
+    "blessés",
     "tirs"
+   ]
+  },
+  {
+   "title": "A quoi s'attendre pour la nouvelle journée de mobilisation du samedi 24 octobre ?",
+   "url": "https://www.leparisien.fr/politique/mobilisation-des-lyceens-du-17-octobre-sebastien-lecornu-convoque-une-cellule-de-crise-pour-suivre-le-mouvement-16-10-2026-LPFOKJUQLJBQDPIUT5KLLBHEEI.php",
+   "n_members": 104,
+   "n_sources": 31,
+   "counts": {
+    "left": 6,
+    "centre": 16,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.678,
+   "category": "société",
+   "terms_left": [
+    "manifestants",
+    "sociaux",
+    "réseaux"
+   ],
+   "terms_right": [
+    "pillages",
+    "acte",
+    "paris"
    ]
   },
   {
    "title": "Présidentielle au Brésil : un sondage donne Lula da Silva et Flavio Bolsonaro à égalité à 50 %",
    "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-12h30/journal-de-12h30-du-dimanche-04-octobre-2026-7794885",
-   "n_members": 94,
+   "n_members": 97,
    "n_sources": 31,
    "counts": {
     "left": 10,
@@ -201,7 +231,7 @@
    },
    "blindspot_score": -0.111,
    "blindspot_for": null,
-   "divergence": 0.528,
+   "divergence": 0.518,
    "category": "international",
    "terms_left": [
     "brésil",
@@ -231,7 +261,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.495,
+   "divergence": 0.497,
    "category": "politique",
    "terms_left": [
     "manifestations",
@@ -247,7 +277,7 @@
   {
    "title": "Congrès du RN à Orléans : un dispositif de sécurité renforcé et 20.000 à 30.000 opposants attendus samedi, selon le préfet",
    "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-casse-du-louvre-ou-sont-passes-les-bijoux-85502-2470151.html",
-   "n_members": 107,
+   "n_members": 129,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -261,7 +291,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.377,
+   "divergence": 0.402,
    "category": "politique",
    "terms_left": [
     "vie",
@@ -269,9 +299,9 @@
     "vie chère"
    ],
    "terms_right": [
+    "haute",
     "rassemblement national",
-    "national",
-    "ville"
+    "national"
    ]
   },
   {
@@ -291,7 +321,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.489,
+   "divergence": 0.492,
    "category": "politique",
    "terms_left": [
     "primaire",
@@ -321,7 +351,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.625,
+   "divergence": 0.652,
    "category": "économie",
    "terms_left": [
     "tourisme",
@@ -329,9 +359,9 @@
     "pillages commerçants"
    ],
    "terms_right": [
-    "week-end",
     "france",
-    "euros"
+    "commerces",
+    "week-end"
    ]
   },
   {
@@ -351,17 +381,17 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.813,
+   "divergence": 0.814,
    "category": "international",
    "terms_left": [
     "midterms",
     "mobilisation",
-    "président"
+    "sociale"
    ],
    "terms_right": [
-    "immigration",
+    "émeutes",
     "france",
-    "émeutes"
+    "violences"
    ]
   },
   {
@@ -381,7 +411,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.495,
+   "divergence": 0.516,
    "category": "société",
    "terms_left": [
     "nouveaux",
@@ -391,13 +421,13 @@
    "terms_right": [
     "violences",
     "couvre-feu mineurs",
-    "interdites"
+    "couvre-feu"
    ]
   },
   {
    "title": "«On va mettre des vigiles» : à Lille, les commerçants prennent leurs dispositions avant un nouveau week-end de mobilisation",
    "url": "https://www.rfi.fr/fr/europe/20261018-%C3%A0-rome-et-%C3%A0-milan-plusieurs-dizaines-de-milliers-d-italiens-manifestent-contre-la-vie-ch%C3%A8re",
-   "n_members": 110,
+   "n_members": 112,
    "n_sources": 29,
    "counts": {
     "left": 5,
@@ -414,44 +444,14 @@
    "divergence": 0.749,
    "category": "société",
    "terms_left": [
-    "paris",
+    "place",
     "colère",
-    "cagnottes"
+    "paris"
    ],
    "terms_right": [
     "mobilisation",
     "france",
     "week-end"
-   ]
-  },
-  {
-   "title": "A quoi s'attendre pour la nouvelle journée de mobilisation du samedi 24 octobre ?",
-   "url": "https://www.leparisien.fr/politique/mobilisation-des-lyceens-du-17-octobre-sebastien-lecornu-convoque-une-cellule-de-crise-pour-suivre-le-mouvement-16-10-2026-LPFOKJUQLJBQDPIUT5KLLBHEEI.php",
-   "n_members": 87,
-   "n_sources": 29,
-   "counts": {
-    "left": 6,
-    "centre": 14,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 10,
-    "opinion": 4
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.712,
-   "category": "société",
-   "terms_left": [
-    "mobilisations",
-    "emmanuel",
-    "sociaux"
-   ],
-   "terms_right": [
-    "france",
-    "casseurs",
-    "acte"
    ]
   },
   {
@@ -471,17 +471,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.283,
+   "divergence": 0.281,
    "category": "société",
    "terms_left": [
     "écologiste",
     "homme âgé",
-    "interpellé incendie"
+    "homme"
    ],
    "terms_right": [
     "ultragauche",
     "fiché",
-    "enquête"
+    "mobilisation"
    ]
   },
   {
@@ -531,23 +531,53 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.705,
+   "divergence": 0.71,
    "category": "international",
    "terms_left": [
     "europe",
-    "belgique",
-    "colère"
+    "colère",
+    "belgique"
    ],
    "terms_right": [
     "milan",
-    "manifestations",
-    "émeutes"
+    "émeutes",
+    "manifestations"
    ]
   },
   {
-   "title": "Incendie de la mairie de Limoges : tensions autour des zadistes",
+   "title": "\"Bouc émissaire\", \"scandale d'Etat\"... On vous raconte le bras de fer entre le gouvernement et LFI au sujet des violences du 17 octobre",
+   "url": "https://www.valeursactuelles.com/politique/il-est-mort-mais-il-ne-le-sait-pas-encore-jerome-cahuzac-enterre-jordan-bardella-et-lui-conseille-de-reprendre-ses-etudes-tres-vite",
+   "n_members": 72,
+   "n_sources": 28,
+   "counts": {
+    "left": 7,
+    "centre": 11,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 7
+   },
+   "blindspot_score": 0.176,
+   "blindspot_for": null,
+   "divergence": 0.688,
+   "category": "politique",
+   "terms_left": [
+    "gouvernement",
+    "affaire",
+    "état"
+   ],
+   "terms_right": [
+    "jordan bardella",
+    "jordan",
+    "bardella"
+   ]
+  },
+  {
+   "title": "« Relever la tête, ne pas se diviser » : Sébastien Lecornu au chevet de Limoges",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/plus-de-40-compagnies-de-crs-et-d-escadrons-de-gendarmes-mobiles-deployes-a-paris-pour-le-17-octobre-6993573",
-   "n_members": 132,
+   "n_members": 133,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -561,7 +591,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.593,
+   "divergence": 0.573,
    "category": "société",
    "terms_left": [
     "paris",
@@ -569,9 +599,9 @@
     "qu"
    ],
    "terms_right": [
-    "ville",
     "limoges",
-    "violences"
+    "ville",
+    "incendie"
    ]
   },
   {
@@ -591,53 +621,23 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.612,
+   "divergence": 0.618,
    "category": "société",
    "terms_left": [
     "ferme",
-    "mouvement",
-    "lycéen"
+    "paris",
+    "mouvement"
    ],
    "terms_right": [
     "violences",
     "mobilisation",
-    "veut"
-   ]
-  },
-  {
-   "title": "Manifestations du 17 octobre : entre LFI et le gouvernement, un face-à-face de plus en plus virulent qui resserre les rangs à gauche",
-   "url": "https://www.valeursactuelles.com/politique/il-est-mort-mais-il-ne-le-sait-pas-encore-jerome-cahuzac-enterre-jordan-bardella-et-lui-conseille-de-reprendre-ses-etudes-tres-vite",
-   "n_members": 71,
-   "n_sources": 27,
-   "counts": {
-    "left": 7,
-    "centre": 10,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
-    "opinion": 7
-   },
-   "blindspot_score": 0.176,
-   "blindspot_for": null,
-   "divergence": 0.678,
-   "category": "politique",
-   "terms_left": [
-    "gouvernement",
-    "affaire",
-    "état"
-   ],
-   "terms_right": [
-    "jordan bardella",
-    "jordan",
-    "bardella"
+    "violences urbaines"
    ]
   },
   {
    "title": "Une partie de l’Internet mondial mise à l’arrêt après la découverte de failles «critiques» dans le langage informatique PHP",
    "url": "https://next.ink/262987/php-va-corriger-deux-vulnerabilites-critiques-aujourdhui/",
-   "n_members": 52,
+   "n_members": 53,
    "n_sources": 27,
    "counts": {
     "left": 4,
@@ -695,9 +695,9 @@
    ]
   },
   {
-   "title": "DIRECT. Violences du 17 octobre: les renseignements convoqués par Emmanuel Macron à l'Élysée, les partis politiques reçus à Matignon",
+   "title": "Mobilisations en France : une sécurité massive prévue pour le 24 octobre",
    "url": "https://www.nouvelobs.com/societe/20261018.OBS119311/apres-une-mobilisation-17-octobre-qui-a-vire-au-chaos-les-politiques-se-divisent-sur-la-responsabilite-des-violences.html",
-   "n_members": 92,
+   "n_members": 95,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -711,12 +711,12 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.626,
+   "divergence": 0.623,
    "category": "société",
    "terms_left": [
+    "syndicats",
     "grève",
-    "gign",
-    "syndicats"
+    "gign"
    ],
    "terms_right": [
     "nouvelle",
@@ -741,7 +741,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.616,
+   "divergence": 0.615,
    "category": "international",
    "terms_left": [
     "satellites",
@@ -861,7 +861,7 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.719,
+   "divergence": 0.72,
    "category": "politique",
    "terms_left": [
     "manifester",
@@ -870,8 +870,8 @@
    ],
    "terms_right": [
     "état",
-    "état urgence",
-    "urgence"
+    "violences",
+    "état urgence"
    ]
   },
   {
@@ -951,7 +951,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.771,
+   "divergence": 0.775,
    "category": "société",
    "terms_left": [
     "leboncoin",
@@ -981,7 +981,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.686,
+   "divergence": 0.687,
    "category": "politique",
    "terms_left": [
     "dati",
@@ -1041,7 +1041,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.225,
+   "divergence": 0.226,
    "category": "société",
    "terms_left": [
     "lfi",
@@ -1071,7 +1071,7 @@
    },
    "blindspot_score": 0.467,
    "blindspot_for": null,
-   "divergence": 0.848,
+   "divergence": 0.849,
    "category": "politique",
    "terms_left": [
     "propose",
@@ -1079,8 +1079,8 @@
     "président salvador"
    ],
    "terms_right": [
-    "aides",
     "violences",
+    "aides",
     "présidentielle"
    ]
   },
@@ -1131,17 +1131,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.77,
+   "divergence": 0.747,
    "category": "international",
    "terms_left": [
     "ukraine",
-    "guerre",
-    "face"
+    "face",
+    "soutien"
    ],
    "terms_right": [
-    "tesla",
-    "spacex",
-    "fusion"
+    "ans",
+    "fusion",
+    "tesla"
    ]
   },
   {
@@ -1177,7 +1177,7 @@
   {
    "title": "La foire Art Basel Paris écourtée et des musées fermés samedi en raison de la manifestation",
    "url": "https://www.sudouest.fr/culture/la-paris-games-week-qui-debute-jeudi-se-recentre-sur-le-jeu-video-touche-par-une-vague-de-fermetures-de-studios-et-de-licenciements-31139755.php",
-   "n_members": 50,
+   "n_members": 55,
    "n_sources": 24,
    "counts": {
     "left": 8,
@@ -1191,7 +1191,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.605,
+   "divergence": 0.641,
    "category": "société",
    "terms_left": [
     "art",
@@ -1199,9 +1199,9 @@
     "marché"
    ],
    "terms_right": [
-    "débordements",
+    "qu",
     "violences",
-    "nouveau"
+    "débordements"
    ]
   }
  ]
