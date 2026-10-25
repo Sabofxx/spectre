@@ -1,12 +1,12 @@
 {
  "week": "2026-W43",
- "generated_at": "2026-10-25T06:25:56+00:00",
+ "generated_at": "2026-10-25T11:53:39+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "« On va vous défoncer la gueule ! » : à Paris et Lille, l’extrême droite attaque des blocages étudiants",
-   "url": "https://www.nicematin.com/societe/education/un-lycee-de-grasse-bloque-par-des-eleves-mecontents-le-mouvement-de-contestation-soutenu-par-des-enseignants-10730045",
+   "url": "https://www.nicematin.com/societe/education/des-eleves-se-mobilisent-pour-bloquer-leur-lycee-a-cannes-ce-lundi-matin-10730652",
    "n_members": 1227,
    "n_sources": 43,
    "counts": {
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.283,
+   "divergence": 0.282,
    "category": "société",
    "terms_left": [
     "mobilisation",
@@ -66,7 +66,7 @@
   },
   {
    "title": "Brésil : déforestation amazonienne au plus bas, El Niño et présidentielle serrée menacent",
-   "url": "https://theconversation.com/presidentielle-2027-qui-peut-rassembler-la-gauche-sociale-ecologique-291179",
+   "url": "https://www.courrierinternational.com/article/politique-des-congressistes-democrates-s-inquietent-d-une-ingerence-de-trump-dans-les-elections-bresiliennes_274205",
    "n_members": 221,
    "n_sources": 37,
    "counts": {
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.275,
+   "divergence": 0.276,
    "category": "international",
    "terms_left": [
     "direct",
@@ -127,7 +127,7 @@
   {
    "title": "Manifestations du 24 octobre: des heurts et pillages en marge des cortèges dans certaines villes",
    "url": "https://www.leparisien.fr/politique/mobilisation-des-lyceens-du-17-octobre-sebastien-lecornu-convoque-une-cellule-de-crise-pour-suivre-le-mouvement-16-10-2026-LPFOKJUQLJBQDPIUT5KLLBHEEI.php",
-   "n_members": 161,
+   "n_members": 180,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -141,12 +141,12 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.554,
+   "divergence": 0.51,
    "category": "société",
    "terms_left": [
-    "manifestants",
     "parcours",
-    "lieu"
+    "manifestants",
+    "paris"
    ],
    "terms_right": [
     "acte",
@@ -155,9 +155,39 @@
    ]
   },
   {
+   "title": "Présidentielle au Brésil : un sondage donne Lula da Silva et Flavio Bolsonaro à égalité à 50 %",
+   "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-12h30/journal-de-12h30-du-dimanche-04-octobre-2026-7794885",
+   "n_members": 123,
+   "n_sources": 34,
+   "counts": {
+    "left": 10,
+    "centre": 13,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 12,
+    "opinion": 6
+   },
+   "blindspot_score": 0.048,
+   "blindspot_for": null,
+   "divergence": 0.386,
+   "category": "international",
+   "terms_left": [
+    "extrême droite",
+    "extrême",
+    "droite"
+   ],
+   "terms_right": [
+    "tour",
+    "vote",
+    "sortant"
+   ]
+  },
+  {
    "title": "Orléans: des manifestants défilent contre la tenue d'un congrès du Rassemblement national",
    "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-casse-du-louvre-ou-sont-passes-les-bijoux-85502-2470151.html",
-   "n_members": 226,
+   "n_members": 228,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -171,7 +201,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.56,
+   "divergence": 0.569,
    "category": "politique",
    "terms_left": [
     "rn orléans",
@@ -181,7 +211,7 @@
    "terms_right": [
     "mobilisation",
     "paris",
-    "journée"
+    "laurent"
    ]
   },
   {
@@ -217,7 +247,7 @@
   {
    "title": "Un mort, plusieurs blessés, le parquet antiterroriste saisi : ce que l’on sait après les tirs en rafales mortels en pleine rue à Trappes ce vendredi",
    "url": "https://www.cnews.fr/faits-divers/2026-10-23/yvelines-au-moins-un-mort-et-quatre-blesses-apres-des-tirs-en-rafales-sur",
-   "n_members": 156,
+   "n_members": 159,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -231,47 +261,17 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.219,
+   "divergence": 0.218,
    "category": "faits-divers",
    "terms_left": [
     "raciste",
     "rue",
-    "enfant"
+    "attentat"
    ],
    "terms_right": [
-    "blessés",
     "suspect",
-    "tirs"
-   ]
-  },
-  {
-   "title": "Présidentielle au Brésil : un sondage donne Lula da Silva et Flavio Bolsonaro à égalité à 50 %",
-   "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-12h30/journal-de-12h30-du-dimanche-04-octobre-2026-7794885",
-   "n_members": 113,
-   "n_sources": 31,
-   "counts": {
-    "left": 10,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 12,
-    "opinion": 4
-   },
-   "blindspot_score": -0.111,
-   "blindspot_for": null,
-   "divergence": 0.492,
-   "category": "international",
-   "terms_left": [
-    "brésil",
-    "extrême",
-    "extrême droite"
-   ],
-   "terms_right": [
-    "lula da",
-    "da silva",
-    "silva"
+    "blessés",
+    "nuñez"
    ]
   },
   {
@@ -291,23 +291,23 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.5,
+   "divergence": 0.499,
    "category": "politique",
    "terms_left": [
     "manifestations",
     "allocution",
-    "jours"
+    "réunion"
    ],
    "terms_right": [
     "violences",
-    "république",
-    "week-end"
+    "week-end",
+    "république"
    ]
   },
   {
    "title": "Présidentielle 2027 - Sondage : Le Pen confirme sa très large avance, Mélenchon solide deuxième alors que Glucksmann relègue Philippe au quatrième rang",
    "url": "https://www.liberation.fr/politique/elections/primaire-sociale-democrate-raphael-glucksmann-se-sent-favori-de-pied-en-cap-clair-20261009_DJUNKU53WJCU3NLYFGJJ4P2Z24/",
-   "n_members": 100,
+   "n_members": 101,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.488,
+   "divergence": 0.496,
    "category": "politique",
    "terms_left": [
     "primaire",
@@ -329,8 +329,8 @@
     "candidat"
    ],
    "terms_right": [
-    "présidentielle",
     "tour",
+    "présidentielle",
     "mélenchon"
    ]
   },
@@ -351,17 +351,17 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.647,
+   "divergence": 0.648,
    "category": "économie",
    "terms_left": [
     "tourisme",
-    "commerces pillés",
-    "dégâts"
+    "dégâts",
+    "commerces pillés"
    ],
    "terms_right": [
     "commerçants",
-    "france",
-    "commerces"
+    "commerces",
+    "week-end"
    ]
   },
   {
@@ -381,23 +381,23 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.819,
+   "divergence": 0.822,
    "category": "international",
    "terms_left": [
     "midterms",
     "mobilisation",
-    "sociale"
+    "manifestations"
    ],
    "terms_right": [
     "émeutes",
-    "violences",
-    "france"
+    "france",
+    "violences"
    ]
   },
   {
    "title": "Italie: les étudiants, routiers et agriculteurs poursuivent les manifestations contre la hausse du coût de la vie",
    "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-dans-les-rues-de-l-hexagone-la-convergence-des-coleres-francaises_279546",
-   "n_members": 67,
+   "n_members": 69,
    "n_sources": 30,
    "counts": {
     "left": 8,
@@ -411,17 +411,17 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.711,
+   "divergence": 0.698,
    "category": "international",
    "terms_left": [
     "europe",
     "colère",
-    "belgique"
+    "paris"
    ],
    "terms_right": [
     "milan",
-    "gouvernement",
-    "france"
+    "france",
+    "gouvernement"
    ]
   },
   {
@@ -441,12 +441,12 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.541,
+   "divergence": 0.54,
    "category": "société",
    "terms_left": [
     "manifestations",
     "direct",
-    "couvre-feux soir"
+    "nouveaux couvre-feux"
    ],
    "terms_right": [
     "violences",
@@ -457,7 +457,7 @@
   {
    "title": "Mobilisation du 24 octobre : à Bordeaux, les commerçants se préparent",
    "url": "https://www.rfi.fr/fr/europe/20261018-%C3%A0-rome-et-%C3%A0-milan-plusieurs-dizaines-de-milliers-d-italiens-manifestent-contre-la-vie-ch%C3%A8re",
-   "n_members": 121,
+   "n_members": 123,
    "n_sources": 29,
    "counts": {
     "left": 5,
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.732,
+   "divergence": 0.733,
    "category": "société",
    "terms_left": [
     "paris",
@@ -481,7 +481,7 @@
    "terms_right": [
     "mobilisation",
     "france",
-    "week-end"
+    "face"
    ]
   },
   {
@@ -501,17 +501,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.277,
+   "divergence": 0.253,
    "category": "société",
    "terms_left": [
     "homme",
-    "homme âgé",
-    "interpellé incendie"
+    "interpellé incendie",
+    "suspect interpellé"
    ],
    "terms_right": [
     "suspects",
-    "parquet",
-    "fiché"
+    "fiché",
+    "parquet"
    ]
   },
   {
@@ -621,7 +621,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.659,
+   "divergence": 0.66,
    "category": "société",
    "terms_left": [
     "garde",
@@ -637,7 +637,7 @@
   {
    "title": "Guerre en Ukraine : Trump affirme que Musk a rétabli l'accès à son réseau satellitaire Starlink",
    "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/starlink-a-restreint-ses-operations-pendant-la-nuit-en-ukraine-denonce-un-conseiller-de-volodymyr-zelensky_8236789.html",
-   "n_members": 86,
+   "n_members": 90,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -651,17 +651,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.571,
+   "divergence": 0.53,
    "category": "international",
    "terms_left": [
     "conditions",
-    "satellites",
-    "réseau starlink"
+    "starlink",
+    "satellites"
    ],
    "terms_right": [
+    "militaire",
     "musk",
-    "trump",
-    "elon musk"
+    "trump"
    ]
   },
   {
@@ -681,23 +681,23 @@
    },
    "blindspot_score": -0.231,
    "blindspot_for": null,
-   "divergence": 0.706,
+   "divergence": 0.693,
    "category": "politique",
    "terms_left": [
     "manifester",
-    "conseil",
-    "macron"
+    "droit",
+    "conseil"
    ],
    "terms_right": [
     "violences",
-    "état urgence",
-    "urgence"
+    "qu",
+    "état urgence"
    ]
   },
   {
-   "title": "Une partie de l’Internet mondial mise à l’arrêt après la découverte de failles «critiques» dans le langage informatique PHP",
+   "title": "Une IA découvre une faille dans le langage informatique PHP, des milliers de sites web mis hors ligne",
    "url": "https://next.ink/262987/php-va-corriger-deux-vulnerabilites-critiques-aujourdhui/",
-   "n_members": 53,
+   "n_members": 54,
    "n_sources": 27,
    "counts": {
     "left": 4,
@@ -711,7 +711,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.539,
+   "divergence": 0.538,
    "category": "sciences-tech",
    "terms_left": [
     "langage",
@@ -771,12 +771,12 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.636,
+   "divergence": 0.645,
    "category": "société",
    "terms_left": [
     "gign",
-    "syndicats",
-    "unités"
+    "unités",
+    "grève"
    ],
    "terms_right": [
     "gouvernement",
@@ -831,17 +831,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.354,
+   "divergence": 0.282,
    "category": "société",
    "terms_left": [
     "population",
     "risque",
-    "patient immunodéprimé"
+    "fois humain"
    ],
    "terms_right": [
-    "humain",
-    "cas humain",
-    "patient"
+    "cas",
+    "virus",
+    "humain"
    ]
   },
   {
@@ -891,7 +891,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.76,
+   "divergence": 0.759,
    "category": "société",
    "terms_left": [
     "manifestants",
@@ -930,8 +930,8 @@
    ],
    "terms_right": [
     "retrouvées mortes",
-    "retrouvées",
-    "mortes"
+    "mortes",
+    "retrouvées"
    ]
   },
   {
@@ -1003,17 +1003,17 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.707,
+   "divergence": 0.7,
    "category": "économie",
    "terms_left": [
     "gouvernement",
-    "projet",
-    "économies"
+    "mobilisation",
+    "face"
    ],
    "terms_right": [
     "france",
     "euros",
-    "déficit"
+    "français"
    ]
   },
   {
@@ -1063,7 +1063,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.632,
+   "divergence": 0.629,
    "category": "société",
    "terms_left": [
     "art",
@@ -1071,15 +1071,15 @@
     "interdictions"
    ],
    "terms_right": [
-    "violences",
     "débordements",
-    "qu"
+    "violences",
+    "lieux"
    ]
   },
   {
    "title": "Dette publique : l'agence de notation Moody's maintient la note souveraine de la France à Aa3 avec perspective négative",
    "url": "https://www.sudouest.fr/france/dette-de-la-france-moody-s-va-degrader-sa-note-ce-vendredi-31167288.php",
-   "n_members": 45,
+   "n_members": 46,
    "n_sources": 25,
    "counts": {
     "left": 3,
@@ -1093,12 +1093,12 @@
    },
    "blindspot_score": 0.538,
    "blindspot_for": null,
-   "divergence": 0.461,
+   "divergence": 0.459,
    "category": "économie",
    "terms_left": [
     "publique",
-    "dette publique",
-    "moody maintient"
+    "agence moody",
+    "dette publique"
    ],
    "terms_right": [
     "moody",
@@ -1109,7 +1109,7 @@
   {
    "title": "\"Attentat terroriste raciste\" de Trappes: l'appartement du tueur présumé était piégé, ses proches placés en garde à vue",
    "url": "https://www.humanite.fr/politique/racisme/racaille-pilleurs-binationaux-france-des-wallah-le-racisme-en-roue-libre-avant-lattentat-de-trappe",
-   "n_members": 70,
+   "n_members": 73,
    "n_sources": 24,
    "counts": {
     "left": 7,
@@ -1123,7 +1123,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.399,
+   "divergence": 0.383,
    "category": "société",
    "terms_left": [
     "attentat raciste",
@@ -1131,9 +1131,9 @@
     "racisme"
    ],
    "terms_right": [
+    "proches",
     "rabeh",
-    "ali rabeh",
-    "ali"
+    "ali rabeh"
    ]
   },
   {
