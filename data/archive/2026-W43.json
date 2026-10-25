@@ -1,6 +1,6 @@
 {
  "week": "2026-W43",
- "generated_at": "2026-10-25T18:31:34+00:00",
+ "generated_at": "2026-10-25T21:07:42+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -66,7 +66,7 @@
   },
   {
    "title": "Brésil : déforestation amazonienne au plus bas, El Niño et présidentielle serrée menacent",
-   "url": "https://www.ladepeche.fr/2026/09/25/emmanuel-macron-candidat-a-la-presidentielle-en-2032-le-chef-de-letat-nexclut-rien-et-le-droit-francais-lautorise-13569158.php",
+   "url": "https://www.lemonde.fr/international/article/2026/09/26/au-bresil-lula-interdit-les-paris-sportifs-en-ligne-a-quelques-jours-de-la-presidentielle-denoncant-une-maladie-qui-gagne-les-foyers_6782740_3210.html",
    "n_members": 221,
    "n_sources": 37,
    "counts": {
@@ -97,7 +97,7 @@
   {
    "title": "EN DIRECT, élection présidentielle au Brésil : Lula ou Flavio Bolsonaro, les Brésiliens appelés à choisir entre le sortant et le fils de l’ancien président",
    "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-12h30/journal-de-12h30-du-dimanche-04-octobre-2026-7794885",
-   "n_members": 135,
+   "n_members": 139,
    "n_sources": 35,
    "counts": {
     "left": 10,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.339,
+   "divergence": 0.336,
    "category": "international",
    "terms_left": [
     "extrême droite",
@@ -125,9 +125,9 @@
    ]
   },
   {
-   "title": "Guerre en Ukraine: comment Donald Trump est devenu la meilleure arme de Vladimir Poutine",
+   "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky confirme qu’une réunion entre Russes, Ukrainiens et Américains aura lieu en novembre",
    "url": "https://fr.euronews.com/2026/10/05/les-exportations-de-petrole-du-moyen-orient-reviennent-a-leur-niveau-davant-guerre-sans-li",
-   "n_members": 392,
+   "n_members": 396,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.276,
+   "divergence": 0.279,
    "category": "international",
    "terms_left": [
     "direct",
@@ -150,14 +150,44 @@
    ],
    "terms_right": [
     "trump",
-    "qu",
-    "diesel russe"
+    "diesel russe",
+    "affirme"
+   ]
+  },
+  {
+   "title": "Orléans: des manifestants défilent contre la tenue d'un congrès du Rassemblement national",
+   "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-casse-du-louvre-ou-sont-passes-les-bijoux-85502-2470151.html",
+   "n_members": 246,
+   "n_sources": 34,
+   "counts": {
+    "left": 9,
+    "centre": 16,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 11,
+    "opinion": 6
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.538,
+   "category": "politique",
+   "terms_left": [
+    "rn orléans",
+    "droite",
+    "extrême droite"
+   ],
+   "terms_right": [
+    "mobilisation",
+    "paris",
+    "laurent"
    ]
   },
   {
    "title": "Manifestations du 24 octobre: des heurts et pillages en marge des cortèges dans certaines villes",
    "url": "https://www.leparisien.fr/politique/mobilisation-des-lyceens-du-17-octobre-sebastien-lecornu-convoque-une-cellule-de-crise-pour-suivre-le-mouvement-16-10-2026-LPFOKJUQLJBQDPIUT5KLLBHEEI.php",
-   "n_members": 190,
+   "n_members": 195,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -171,7 +201,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.506,
+   "divergence": 0.509,
    "category": "société",
    "terms_left": [
     "manifestants",
@@ -179,39 +209,9 @@
     "droit"
    ],
    "terms_right": [
-    "acte",
     "pillages",
+    "acte",
     "sécurité"
-   ]
-  },
-  {
-   "title": "Orléans: des manifestants défilent contre la tenue d'un congrès du Rassemblement national",
-   "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-casse-du-louvre-ou-sont-passes-les-bijoux-85502-2470151.html",
-   "n_members": 244,
-   "n_sources": 33,
-   "counts": {
-    "left": 8,
-    "centre": 16,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 11,
-    "opinion": 5
-   },
-   "blindspot_score": 0.059,
-   "blindspot_for": null,
-   "divergence": 0.544,
-   "category": "politique",
-   "terms_left": [
-    "rn orléans",
-    "droite",
-    "extrême droite"
-   ],
-   "terms_right": [
-    "mobilisation",
-    "paris",
-    "laurent"
    ]
   },
   {
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.219,
+   "divergence": 0.22,
    "category": "faits-divers",
    "terms_left": [
     "raciste",
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.246,
+   "divergence": 0.236,
    "category": "société",
    "terms_left": [
     "homme",
@@ -511,7 +511,7 @@
    "terms_right": [
     "suspects",
     "fiché",
-    "parquet"
+    "ans"
    ]
   },
   {
@@ -621,12 +621,12 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.661,
+   "divergence": 0.672,
    "category": "société",
    "terms_left": [
-    "mouvement",
     "lycéen",
-    "garde"
+    "république",
+    "nouveau"
    ],
    "terms_right": [
     "mobilisation",
@@ -681,7 +681,7 @@
    },
    "blindspot_score": -0.231,
    "blindspot_for": null,
-   "divergence": 0.712,
+   "divergence": 0.718,
    "category": "politique",
    "terms_left": [
     "manifester",
@@ -869,7 +869,7 @@
   {
    "title": "DIRECT. Tempête Austen: des rafales jusqu'à 140 km/h attendues, 161.000 foyers déjà privés d'électricité",
    "url": "https://www.bfmtv.com/meteo/video-le-soleil-s-impose-partout-en-france-avec-des-temperatures-comprises-entre-19-c-et-28-c-la-meteo-de-ce-mercredi-14-octobre_VN-202610140125.html",
-   "n_members": 135,
+   "n_members": 138,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -883,17 +883,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.251,
+   "divergence": 0.253,
    "category": "environnement",
    "terms_left": [
     "orange",
-    "nord",
-    "vigilance orange"
+    "vigilance orange",
+    "austen départements"
    ],
    "terms_right": [
     "bretagne",
-    "normandie",
-    "rafales"
+    "rafales",
+    "normandie"
    ]
   },
   {
@@ -929,7 +929,7 @@
   {
    "title": "Attaque dans les Yvelines : plusieurs centaines de personnes rassemblées en hommage à Pengo Bossio Wangi, jeune de 26 ans tué par balle",
    "url": "https://www.humanite.fr/politique/racisme/racaille-pilleurs-binationaux-france-des-wallah-le-racisme-en-roue-libre-avant-lattentat-de-trappe",
-   "n_members": 91,
+   "n_members": 97,
    "n_sources": 25,
    "counts": {
     "left": 7,
@@ -943,17 +943,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.325,
+   "divergence": 0.31,
    "category": "société",
    "terms_left": [
     "attentat trappes",
     "gauche",
-    "racisme"
+    "attentat raciste"
    ],
    "terms_right": [
-    "hommage",
     "hommage pengo",
-    "suspect"
+    "marche",
+    "marche blanche"
    ]
   },
   {
@@ -1145,7 +1145,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.64,
+   "divergence": 0.635,
    "category": "société",
    "terms_left": [
     "art",
@@ -1161,7 +1161,7 @@
   {
    "title": "Dette publique : l'agence de notation Moody's maintient la note souveraine de la France à Aa3 avec perspective négative",
    "url": "https://www.sudouest.fr/france/dette-de-la-france-moody-s-va-degrader-sa-note-ce-vendredi-31167288.php",
-   "n_members": 46,
+   "n_members": 47,
    "n_sources": 25,
    "counts": {
     "left": 3,
@@ -1175,11 +1175,11 @@
    },
    "blindspot_score": 0.538,
    "blindspot_for": null,
-   "divergence": 0.459,
+   "divergence": 0.462,
    "category": "économie",
    "terms_left": [
-    "publique",
     "agence moody",
+    "publique",
     "dette publique"
    ],
    "terms_right": [
