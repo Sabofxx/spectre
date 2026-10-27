@@ -1,6 +1,6 @@
 {
  "week": "2026-W44",
- "generated_at": "2026-10-26T23:29:05+00:00",
+ "generated_at": "2026-10-27T02:17:26+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -111,17 +111,17 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.509,
+   "divergence": 0.522,
    "category": "société",
    "terms_left": [
     "parcours",
-    "manifestants",
-    "paris"
+    "paris",
+    "manifestants"
    ],
    "terms_right": [
     "acte",
-    "pillages",
-    "acte ii"
+    "acte ii",
+    "ii"
    ]
   },
   {
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.317,
+   "divergence": 0.32,
    "category": "faits-divers",
    "terms_left": [
     "raciste",
@@ -187,7 +187,7 @@
   {
    "title": "Parcoursup remplacé, classes à 28 élèves... Les mesures du gouvernement face à la colère des lycéens et des étudiants",
    "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-le-pen-et-melenchon-mais-pas-tondelier-ni-philippe-lci-organise-un-nouveau-debat-le-16-novembre-21-10-2026-EZSLSDC5XFD5JOWXDD7PXQQM5Q.php",
-   "n_members": 110,
+   "n_members": 111,
    "n_sources": 32,
    "counts": {
     "left": 7,
@@ -277,7 +277,7 @@
   {
    "title": "Présidentielle : Marine Le Pen lance sa campagne à Orléans et souhaite l’axer sur la « renaissance » avec l’ambition « d’insuffler un peu d’optimisme »",
    "url": "https://www.leparisien.fr/elections/presidentielle/nous-voulons-etre-outrageusement-optimistes-marine-le-pen-lance-sa-campagne-sous-haute-pression-24-10-2026-34DN2WVRVNA6LJJCUBH4FHLZIM.php",
-   "n_members": 57,
+   "n_members": 58,
    "n_sources": 29,
    "counts": {
     "left": 5,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.435,
+   "divergence": 0.433,
    "category": "politique",
    "terms_left": [
     "droite",
@@ -337,7 +337,7 @@
   {
    "title": "Élections en Serbie : le dirigeant Aleksandar Vucic reconnaît sa défaite aux législatives anticipées",
    "url": "https://theconversation.com/iran-lechec-strategique-de-donald-trump-294376",
-   "n_members": 87,
+   "n_members": 88,
    "n_sources": 28,
    "counts": {
     "left": 8,
@@ -515,6 +515,36 @@
    ]
   },
   {
+   "title": "\"C'était lamentable\" : Donald Trump fustige la réélection de Lula au Brésil et dénonce des élections \"truquées\"",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-eco-en-vo/l-eco-en-vo-du-samedi-17-octobre-2026-3780275",
+   "n_members": 43,
+   "n_sources": 26,
+   "counts": {
+    "left": 8,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 6
+   },
+   "blindspot_score": -0.067,
+   "blindspot_for": null,
+   "divergence": 0.694,
+   "category": "international",
+   "terms_left": [
+    "présidentielle",
+    "élection présidentielle",
+    "élection"
+   ],
+   "terms_right": [
+    "flavio bolsonaro",
+    "flavio",
+    "qu"
+   ]
+  },
+  {
    "title": "Tempête Austen : encore 40 000 foyers privés d’électricité dimanche soir, principalement en Bretagne et Normandie",
    "url": "https://www.bfmtv.com/meteo/video-le-soleil-s-impose-partout-en-france-avec-des-temperatures-comprises-entre-19-c-et-28-c-la-meteo-de-ce-mercredi-14-octobre_VN-202610140125.html",
    "n_members": 142,
@@ -542,36 +572,6 @@
     "normandie",
     "bretagne",
     "km"
-   ]
-  },
-  {
-   "title": "\"C'était lamentable\" : Donald Trump fustige la réélection de Lula au Brésil et dénonce des élections \"truquées\"",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-eco-en-vo/l-eco-en-vo-du-samedi-17-octobre-2026-3780275",
-   "n_members": 40,
-   "n_sources": 25,
-   "counts": {
-    "left": 8,
-    "centre": 11,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 5
-   },
-   "blindspot_score": -0.143,
-   "blindspot_for": null,
-   "divergence": 0.696,
-   "category": "international",
-   "terms_left": [
-    "élection présidentielle",
-    "élection",
-    "présidentielle"
-   ],
-   "terms_right": [
-    "lula brésil",
-    "lula",
-    "flavio bolsonaro"
    ]
   },
   {
@@ -659,7 +659,7 @@
   {
    "title": "Élections législatives en Israël: qui est Gadi Eisenkot, le principal opposant de Benjamin Netanyahu?",
    "url": "https://www.humanite.fr/monde/benyamin-netanyahou/interdits-dinformer-israel-refuse-lentree-a-lenvoye-special-de-lhumanite",
-   "n_members": 101,
+   "n_members": 102,
    "n_sources": 23,
    "counts": {
     "left": 7,
@@ -703,7 +703,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.716,
+   "divergence": 0.717,
    "category": "international",
    "terms_left": [
     "direct",
@@ -769,6 +769,36 @@
    "terms_right": []
   },
   {
+   "title": "24H du lundi 26 octobre 2026",
+   "url": "https://www.leparisien.fr/paris-75/manifestations-du-24-octobre-a-paris-parcours-gilets-jaunes-etudiants-syndicats-a-quoi-sattendre-samedi-21-10-2026-QYKRGWXMBFDYJH2AWVOERBBQ3U.php",
+   "n_members": 47,
+   "n_sources": 22,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": -0.091,
+   "blindspot_for": null,
+   "divergence": 0.943,
+   "category": "international",
+   "terms_left": [
+    "face",
+    "mobilisations",
+    "réseaux sociaux"
+   ],
+   "terms_right": [
+    "mesures",
+    "colère",
+    "lycéenne"
+   ]
+  },
+  {
    "title": "L’inquiétude des marchés financiers face à la hausse des taux d’emprunt",
    "url": "https://www.rfi.fr/fr/podcasts/aujourd-hui-l-%C3%A9conomie/20261020-pourquoi-la-crise-politique-et-sociale-pourrait-peser-sur-la-capacit%C3%A9-d-emprunt-de-la-france",
    "n_members": 40,
@@ -796,36 +826,6 @@
     "emprunt",
     "taux emprunt",
     "ans"
-   ]
-  },
-  {
-   "title": "Manifestations du 24 octobre : comment le gouvernement Lecornu a envisagé la coupure des réseaux sociaux pour endiguer les émeutes",
-   "url": "https://www.leparisien.fr/paris-75/manifestations-du-24-octobre-a-paris-parcours-gilets-jaunes-etudiants-syndicats-a-quoi-sattendre-samedi-21-10-2026-QYKRGWXMBFDYJH2AWVOERBBQ3U.php",
-   "n_members": 39,
-   "n_sources": 22,
-   "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": -0.091,
-   "blindspot_for": null,
-   "divergence": 0.954,
-   "category": "société",
-   "terms_left": [
-    "gouvernement",
-    "face",
-    "sébastien"
-   ],
-   "terms_right": [
-    "manifestations",
-    "italie",
-    "manifestation"
    ]
   },
   {
@@ -889,9 +889,9 @@
    ]
   },
   {
-   "title": "Midterms : Trump va-t-il \"tricher à tout va\" ? Neuf scénarios possibles",
+   "title": "Guerre en Ukraine : début de la trêve humanitaire à Olechky, ville occupée par les forces russes",
    "url": "https://fr.euronews.com/2026/10/19/la-france-affronte-les-consequences-dun-week-end-de-violences",
-   "n_members": 65,
+   "n_members": 66,
    "n_sources": 21,
    "counts": {
     "left": 2,
@@ -905,12 +905,12 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.749,
+   "divergence": 0.717,
    "category": "international",
    "terms_left": [
-    "ukrainienne",
     "permettre",
-    "olechky partir"
+    "olechky partir",
+    "direct"
    ],
    "terms_right": [
     "trump",
@@ -951,7 +951,7 @@
   {
    "title": "Attentat raciste de Trappes : des hommages aux victimes dans plusieurs villes",
    "url": "https://www.sudouest.fr/faits-divers/attaque-a-trappes-la-haine-tue-l-horreur-a-frappe-les-reactions-politiques-apres-la-fusillade-dans-les-yvelines-31207382.php",
-   "n_members": 49,
+   "n_members": 51,
    "n_sources": 21,
    "counts": {
     "left": 7,
@@ -965,17 +965,17 @@
    },
    "blindspot_score": -0.167,
    "blindspot_for": null,
-   "divergence": 0.506,
+   "divergence": 0.503,
    "category": "société",
    "terms_left": [
     "maire",
-    "ali rabeh",
-    "rabeh"
+    "ali",
+    "ali rabeh"
    ],
    "terms_right": [
     "victimes",
     "hommage",
-    "rassemblements"
+    "hommage victimes"
    ]
   },
   {
@@ -1129,53 +1129,23 @@
    ]
   },
   {
-   "title": "Barack Obama s’en prend à Donald Trump",
-   "url": "https://www.lefigaro.fr/international/le-moment-est-venu-marco-rubio-appelle-ceux-qui-veulent-un-changement-a-cuba-a-cooperer-avec-la-cia-20261024",
-   "n_members": 44,
-   "n_sources": 17,
-   "counts": {
-    "left": 4,
-    "centre": 10,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": -0.143,
-   "blindspot_for": null,
-   "divergence": 0.555,
-   "category": "international",
-   "terms_left": [
-    "meeting",
-    "attaque",
-    "corruption"
-   ],
-   "terms_right": [
-    "cia",
-    "états-unis",
-    "cubains"
-   ]
-  },
-  {
    "title": "Ballon d'or 2026 : Kylian Mbappé, Lamine Yamal, Harry Kane... Les arguments des principaux favoris",
    "url": "https://www.franceinfo.fr/sports/foot/ballon-d-or/ballon-d-or-2026-kylian-mbappe-lamine-yamal-harry-kane-les-arguments-des-principaux-favoris_8244049.html",
-   "n_members": 43,
-   "n_sources": 17,
+   "n_members": 47,
+   "n_sources": 18,
    "counts": {
     "left": 2,
-    "centre": 8,
+    "centre": 9,
     "right": 7
    },
    "style_counts": {
-    "factuel": 10,
+    "factuel": 11,
     "mixte": 6,
     "opinion": 1
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.597,
+   "divergence": 0.604,
    "category": "sport",
    "terms_left": [
     "suspense",
@@ -1183,9 +1153,39 @@
     "football"
    ],
    "terms_right": [
-    "monde",
-    "qu",
-    "ans"
+    "kane",
+    "harry kane",
+    "harry"
+   ]
+  },
+  {
+   "title": "Emmanuel Macron s'attend à un nouveau samedi \"à risque\" ce 31 octobre, les tracés des manifestations seront hors des centres-villes",
+   "url": "https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-emmanuel-macron-en-deplacement-a-marseille-le-gouvernement-doit-presenter-ses-reponses-au-mouvement-lyceen_6800604_823448.html",
+   "n_members": 33,
+   "n_sources": 18,
+   "counts": {
+    "left": 2,
+    "centre": 10,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 5,
+    "opinion": 0
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.574,
+   "category": "politique",
+   "terms_left": [
+    "république",
+    "anticipation",
+    "visite marseille"
+   ],
+   "terms_right": [
+    "macron",
+    "emmanuel macron",
+    "emmanuel"
    ]
   }
  ]
