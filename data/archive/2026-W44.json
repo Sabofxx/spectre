@@ -1,6 +1,6 @@
 {
  "week": "2026-W44",
- "generated_at": "2026-10-27T19:46:53+00:00",
+ "generated_at": "2026-10-27T23:21:03+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -111,17 +111,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.35,
+   "divergence": 0.344,
    "category": "politique",
    "terms_left": [
     "rn orléans",
-    "manifestation rn",
-    "rn"
+    "rn",
+    "manifestation rn"
    ],
    "terms_right": [
     "paris",
     "laurent",
-    "laurent nuñez"
+    "pen"
    ]
   },
   {
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.571,
+   "divergence": 0.58,
    "category": "société",
    "terms_left": [
     "manifestants",
@@ -150,8 +150,8 @@
    ],
    "terms_right": [
     "casseurs",
-    "acte",
-    "personnes interpellées"
+    "heurts",
+    "acte"
    ]
   },
   {
@@ -187,7 +187,7 @@
   {
    "title": "Attentat de Trappes : le profil inquiétant de Kévin T.",
    "url": "https://www.cnews.fr/faits-divers/2026-10-23/yvelines-au-moins-un-mort-et-quatre-blesses-apres-des-tirs-en-rafales-sur",
-   "n_members": 187,
+   "n_members": 188,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -201,16 +201,16 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.329,
+   "divergence": 0.331,
    "category": "faits-divers",
    "terms_left": [
     "raciste",
-    "rue",
-    "saisit"
+    "attentat raciste",
+    "rue"
    ],
    "terms_right": [
-    "suspect",
     "ans",
+    "suspect",
     "tirs"
    ]
   },
@@ -247,7 +247,7 @@
   {
    "title": "Israël : les premières élections législatives depuis le 7-Octobre placent Benjamin Netanyahou à l’épreuve des urnes",
    "url": "https://www.humanite.fr/monde/benyamin-netanyahou/interdits-dinformer-israel-refuse-lentree-a-lenvoye-special-de-lhumanite",
-   "n_members": 159,
+   "n_members": 178,
    "n_sources": 30,
    "counts": {
     "left": 9,
@@ -261,17 +261,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.449,
+   "divergence": 0.422,
    "category": "international",
    "terms_left": [
     "elections",
-    "partis",
-    "comprendre"
+    "arabes",
+    "partis"
    ],
    "terms_right": [
     "benjamin",
-    "netanyahu",
-    "netanyahou"
+    "netanyahou",
+    "netanyahu"
    ]
   },
   {
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.809,
+   "divergence": 0.81,
    "category": "international",
    "terms_left": [
     "midterms",
@@ -307,7 +307,7 @@
   {
    "title": "Plus de 2.500 commerces touchés par les violences dont un millier fortement dégradés, selon CCI France",
    "url": "https://www.rfi.fr/fr/europe/20261018-%C3%A0-rome-et-%C3%A0-milan-plusieurs-dizaines-de-milliers-d-italiens-manifestent-contre-la-vie-ch%C3%A8re",
-   "n_members": 141,
+   "n_members": 142,
    "n_sources": 29,
    "counts": {
     "left": 5,
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.299,
+   "divergence": 0.297,
    "category": "faits-divers",
    "terms_left": [
     "attentat trappes",
@@ -360,8 +360,38 @@
    ],
    "terms_right": [
     "hommage pengo",
-    "yvelines",
-    "wangi tué"
+    "wangi tué",
+    "marche"
+   ]
+  },
+  {
+   "title": "Élections en Serbie : le dirigeant Aleksandar Vucic reconnaît sa défaite aux législatives anticipées",
+   "url": "https://theconversation.com/iran-lechec-strategique-de-donald-trump-294376",
+   "n_members": 92,
+   "n_sources": 29,
+   "counts": {
+    "left": 8,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 11,
+    "opinion": 3
+   },
+   "blindspot_score": 0.059,
+   "blindspot_for": null,
+   "divergence": 0.513,
+   "category": "international",
+   "terms_left": [
+    "étudiante",
+    "liste étudiante",
+    "serbe"
+   ],
+   "terms_right": [
+    "nationaliste aleksandar",
+    "nationaliste",
+    "législatives anticipées"
    ]
   },
   {
@@ -381,12 +411,12 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.442,
+   "divergence": 0.446,
    "category": "politique",
    "terms_left": [
     "journalistes",
     "mediapart",
-    "service"
+    "presse"
    ],
    "terms_right": [
     "national",
@@ -397,7 +427,7 @@
   {
    "title": "Trump fustige une élection « truquée » au Brésil après la remontada de Lula, Bolsonaro interdit de quitter le pays",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-eco-en-vo/l-eco-en-vo-du-samedi-17-octobre-2026-3780275",
-   "n_members": 62,
+   "n_members": 73,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -411,17 +441,17 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.582,
+   "divergence": 0.561,
    "category": "international",
    "terms_left": [
     "droite",
-    "présidentielle",
+    "fils",
     "élection"
    ],
    "terms_right": [
     "flavio bolsonaro",
     "flavio",
-    "quitter"
+    "bolsonaro"
    ]
   },
   {
@@ -441,7 +471,7 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.444,
+   "divergence": 0.443,
    "category": "politique",
    "terms_left": [
     "droite",
@@ -452,36 +482,6 @@
     "france",
     "pays",
     "monde"
-   ]
-  },
-  {
-   "title": "Élections en Serbie : le dirigeant Aleksandar Vucic reconnaît sa défaite aux législatives anticipées",
-   "url": "https://theconversation.com/iran-lechec-strategique-de-donald-trump-294376",
-   "n_members": 91,
-   "n_sources": 28,
-   "counts": {
-    "left": 8,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 11,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.525,
-   "category": "international",
-   "terms_left": [
-    "étudiante",
-    "liste étudiante",
-    "serbe"
-   ],
-   "terms_right": [
-    "dirigeant nationaliste",
-    "israël",
-    "nationaliste"
    ]
   },
   {
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.531,
+   "divergence": 0.532,
    "category": "international",
    "terms_left": [
     "conditions",
@@ -531,7 +531,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.277,
+   "divergence": 0.276,
    "category": "faits-divers",
    "terms_left": [
     "raciste trappes",
@@ -575,6 +575,36 @@
    ]
   },
   {
+   "title": "« Que faut-il donc à Moody’s pour dégrader la France ? » : la décision de l'agence de notation sous le feu des critiques",
+   "url": "https://www.sudouest.fr/france/dette-de-la-france-moody-s-va-degrader-sa-note-ce-vendredi-31167288.php",
+   "n_members": 60,
+   "n_sources": 27,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": 0.47,
+   "category": "économie",
+   "terms_left": [
+    "budgétaire",
+    "malgré",
+    "moody maintient"
+   ],
+   "terms_right": [
+    "moody",
+    "note",
+    "france"
+   ]
+  },
+  {
    "title": "Failles dans PHP, « colonne vertébrale du web » : avec l’IA, « une période assez chaotique » commence pour la cybersécurité, analyse un ex-conseiller d’Obama",
    "url": "https://next.ink/262987/php-va-corriger-deux-vulnerabilites-critiques-aujourdhui/",
    "n_members": 57,
@@ -591,7 +621,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.542,
+   "divergence": 0.541,
    "category": "sciences-tech",
    "terms_left": [
     "langage",
@@ -602,6 +632,36 @@
     "faille",
     "sécurité",
     "partie"
+   ]
+  },
+  {
+   "title": "Kylian Mbappé présente ses excuses après avoir qualifié l'ancien dirigeant chinois Mao Zedong de \"dictateur\"",
+   "url": "https://www.sudradio.fr/sport-rugby/sport/chine-deux-grandes-compagnies-chinoises-rompent-avec-mbappe-laccusant-davoir-heurte-les-sentiments-nationaux",
+   "n_members": 57,
+   "n_sources": 27,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.305,
+   "category": "sport",
+   "terms_left": [
+    "dit",
+    "dit sincèrement",
+    "dirigeant chinois"
+   ],
+   "terms_right": [
+    "polémique",
+    "qu",
+    "fin"
    ]
   },
   {
@@ -621,7 +681,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.656,
+   "divergence": 0.655,
    "category": "société",
    "terms_left": [
     "syndicats",
@@ -632,66 +692,6 @@
     "forces ordre",
     "forces",
     "gendarmes"
-   ]
-  },
-  {
-   "title": "Les Experts : Moody's laisse la note de la France inchangée - 26/10",
-   "url": "https://www.sudouest.fr/france/dette-de-la-france-moody-s-va-degrader-sa-note-ce-vendredi-31167288.php",
-   "n_members": 59,
-   "n_sources": 26,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.571,
-   "blindspot_for": null,
-   "divergence": 0.473,
-   "category": "économie",
-   "terms_left": [
-    "budgétaire",
-    "malgré",
-    "moody maintient"
-   ],
-   "terms_right": [
-    "moody",
-    "note",
-    "france"
-   ]
-  },
-  {
-   "title": "Kylian Mbappé présente ses excuses après avoir qualifié l'ancien dirigeant chinois Mao Zedong de \"dictateur\"",
-   "url": "https://www.sudradio.fr/sport-rugby/sport/chine-deux-grandes-compagnies-chinoises-rompent-avec-mbappe-laccusant-davoir-heurte-les-sentiments-nationaux",
-   "n_members": 53,
-   "n_sources": 26,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.334,
-   "category": "sport",
-   "terms_left": [
-    "dit",
-    "dit sincèrement",
-    "désolé"
-   ],
-   "terms_right": [
-    "polémique",
-    "qu",
-    "fin"
    ]
   },
   {
@@ -748,8 +748,8 @@
   },
   {
    "title": "Corse: le Sénat rejette la réforme du statut, le camp autonomiste claque la porte",
-   "url": "https://www.valeursactuelles.com/clubvaleurs/societe/autonomie-de-la-corse-le-pour-de-laurent-marcangeli",
-   "n_members": 43,
+   "url": "https://www.bvoltaire.fr/point-de-vue-la-question-corse-cause-nationale-un-natif-et-resident-interpelle-le-parlement/",
+   "n_members": 44,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -763,7 +763,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.459,
+   "divergence": 0.467,
    "category": "politique",
    "terms_left": [
     "sénat",
@@ -845,7 +845,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.729,
+   "divergence": 0.722,
    "category": "international",
    "terms_left": [
     "direct",
@@ -853,9 +853,9 @@
     "mort"
    ],
    "terms_right": [
-    "ukrainienne",
     "russe",
-    "morts"
+    "morts",
+    "nord"
    ]
   },
   {
@@ -885,7 +885,7 @@
    "terms_right": [
     "euros",
     "vue",
-    "yvelines"
+    "famille"
    ]
   },
   {
@@ -905,7 +905,7 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.95,
+   "divergence": 0.949,
    "category": "international",
    "terms_left": [
     "gouvernement",
@@ -973,7 +973,7 @@
   {
    "title": "DIRECT. Colère sociale: après un mois de mobilisation, le gouvernement promet ce lundi \"des réponses très concrètes\" aux lycéens",
    "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/emmanuel-macron-recevra-les-organisations-lyceennes-vendredi-a-15heures-annonce-l-elysee_8249623.html",
-   "n_members": 75,
+   "n_members": 76,
    "n_sources": 22,
    "counts": {
     "left": 6,
@@ -988,7 +988,7 @@
    "blindspot_score": 0.0,
    "blindspot_for": null,
    "divergence": 0.556,
-   "category": "société",
+   "category": "politique",
    "terms_left": [
     "influenceurs",
     "annoncé",
@@ -1001,9 +1001,39 @@
    ]
   },
   {
+   "title": "Manifestations du 24 octobre : enquête ouverte à Nice contre des membres de la mouvance d’ultradroite après des agressions de manifestants",
+   "url": "https://www.tf1info.fr/economie/videos/video-les-violences-font-elles-fuir-les-touristes-32420-2471070.html",
+   "n_members": 66,
+   "n_sources": 22,
+   "counts": {
+    "left": 6,
+    "centre": 9,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.764,
+   "category": "société",
+   "terms_left": [
+    "paris",
+    "albanie",
+    "extrême"
+   ],
+   "terms_right": [
+    "violences",
+    "marge manifestations",
+    "ultradroite"
+   ]
+  },
+  {
    "title": "Harry Kane nommé Ballon d'Or 2026, Kylian Mbappé deuxième devant Lamine Yamal",
    "url": "https://www.franceinfo.fr/sports/foot/ballon-d-or/ballon-d-or-2026-kylian-mbappe-lamine-yamal-harry-kane-les-arguments-des-principaux-favoris_8244049.html",
-   "n_members": 65,
+   "n_members": 66,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -1028,36 +1058,6 @@
     "sud",
     "femme",
     "monde"
-   ]
-  },
-  {
-   "title": "Manifestations du 24 octobre : enquête ouverte à Nice contre des membres de la mouvance d’ultradroite après des agressions de manifestants",
-   "url": "https://www.tf1info.fr/economie/videos/video-les-violences-font-elles-fuir-les-touristes-32420-2471070.html",
-   "n_members": 64,
-   "n_sources": 22,
-   "counts": {
-    "left": 6,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.774,
-   "category": "société",
-   "terms_left": [
-    "paris",
-    "albanie",
-    "images"
-   ],
-   "terms_right": [
-    "violences",
-    "marge",
-    "nice"
    ]
   },
   {
@@ -1145,7 +1145,7 @@
   {
    "title": "Guerre en Ukraine : début de la trêve humanitaire à Olechky, ville occupée par les forces russes",
    "url": "https://fr.euronews.com/2026/10/19/la-france-affronte-les-consequences-dun-week-end-de-violences",
-   "n_members": 79,
+   "n_members": 80,
    "n_sources": 21,
    "counts": {
     "left": 2,
@@ -1159,12 +1159,12 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.659,
+   "divergence": 0.645,
    "category": "international",
    "terms_left": [
     "russie",
-    "partir",
-    "ukrainienne"
+    "permettre",
+    "partir"
    ],
    "terms_right": [
     "trump",
