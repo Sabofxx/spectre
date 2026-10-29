@@ -1,6 +1,6 @@
 {
  "week": "2026-W44",
- "generated_at": "2026-10-29T00:33:21+00:00",
+ "generated_at": "2026-10-29T06:39:18+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.12,
    "blindspot_for": null,
-   "divergence": 0.29,
+   "divergence": 0.276,
    "category": "international",
    "terms_left": [
     "extrême",
@@ -37,7 +37,7 @@
   {
    "title": "Parcoursup remplacé, classes à 28 élèves... Les mesures du gouvernement face à la colère des lycéens et des étudiants",
    "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-le-pen-et-melenchon-mais-pas-tondelier-ni-philippe-lci-organise-un-nouveau-debat-le-16-novembre-21-10-2026-EZSLSDC5XFD5JOWXDD7PXQQM5Q.php",
-   "n_members": 179,
+   "n_members": 183,
    "n_sources": 36,
    "counts": {
     "left": 8,
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.488,
+   "divergence": 0.485,
    "category": "société",
    "terms_left": [
     "mouvement",
-    "macron",
-    "mouvement lycéen"
+    "mouvement lycéen",
+    "lycéen"
    ],
    "terms_right": [
     "ministre",
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.275,
+   "divergence": 0.276,
    "category": "international",
    "terms_left": [
     "direct",
@@ -121,7 +121,7 @@
    "terms_right": [
     "rencontre",
     "qu",
-    "paix"
+    "trump"
    ]
   },
   {
@@ -171,23 +171,23 @@
    },
    "blindspot_score": 0.1,
    "blindspot_for": null,
-   "divergence": 0.28,
+   "divergence": 0.285,
    "category": "société",
    "terms_left": [
     "racisme",
-    "france",
-    "politiques"
+    "politiques",
+    "france"
    ],
    "terms_right": [
-    "assemblée",
     "hommage",
-    "gouvernement"
+    "assemblée",
+    "yvelines"
    ]
   },
   {
    "title": "La vidéo du jour. Élections législatives en Israël : Benjamin Netanyahou va-t-il rester Premier ministre ?",
    "url": "https://www.humanite.fr/monde/benyamin-netanyahou/interdits-dinformer-israel-refuse-lentree-a-lenvoye-special-de-lhumanite",
-   "n_members": 264,
+   "n_members": 266,
    "n_sources": 33,
    "counts": {
     "left": 9,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.1,
    "blindspot_for": null,
-   "divergence": 0.34,
+   "divergence": 0.337,
    "category": "international",
    "terms_left": [
     "elections",
@@ -212,6 +212,36 @@
     "benjamin",
     "netanyahu",
     "netanyahou"
+   ]
+  },
+  {
+   "title": "Attentat de Trappes : le profil inquiétant de Kévin T.",
+   "url": "https://www.cnews.fr/faits-divers/2026-10-23/yvelines-au-moins-un-mort-et-quatre-blesses-apres-des-tirs-en-rafales-sur",
+   "n_members": 201,
+   "n_sources": 33,
+   "counts": {
+    "left": 7,
+    "centre": 16,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 11,
+    "opinion": 5
+   },
+   "blindspot_score": 0.176,
+   "blindspot_for": null,
+   "divergence": 0.321,
+   "category": "faits-divers",
+   "terms_left": [
+    "kevin",
+    "raciste",
+    "rue"
+   ],
+   "terms_right": [
+    "suspect",
+    "ans",
+    "tirs"
    ]
   },
   {
@@ -245,39 +275,9 @@
    ]
   },
   {
-   "title": "Attentat de Trappes : le profil inquiétant de Kévin T.",
-   "url": "https://www.cnews.fr/faits-divers/2026-10-23/yvelines-au-moins-un-mort-et-quatre-blesses-apres-des-tirs-en-rafales-sur",
-   "n_members": 196,
-   "n_sources": 33,
-   "counts": {
-    "left": 7,
-    "centre": 16,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 11,
-    "opinion": 5
-   },
-   "blindspot_score": 0.176,
-   "blindspot_for": null,
-   "divergence": 0.323,
-   "category": "faits-divers",
-   "terms_left": [
-    "raciste",
-    "kevin",
-    "verrière"
-   ],
-   "terms_right": [
-    "ans",
-    "suspect",
-    "tirs"
-   ]
-  },
-  {
    "title": "Flavio Bolsonaro a fui le Brésil pour les États-Unis, selon des médias américains",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-eco-en-vo/l-eco-en-vo-du-samedi-17-octobre-2026-3780275",
-   "n_members": 121,
+   "n_members": 123,
    "n_sources": 32,
    "counts": {
     "left": 9,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.1,
    "blindspot_for": null,
-   "divergence": 0.467,
+   "divergence": 0.457,
    "category": "international",
    "terms_left": [
     "droite",
@@ -307,7 +307,7 @@
   {
    "title": "EN DIRECT - Accident ferroviaire en Espagne : le bilan s’alourdit à 68 morts, trois jours de deuil national décrétés",
    "url": "https://www.europe1.fr/international/en-direct-espagne-au-moins-64-morts-et-80-blesses-selon-un-nouveau-bilan-1188633",
-   "n_members": 142,
+   "n_members": 156,
    "n_sources": 31,
    "counts": {
     "left": 8,
@@ -321,23 +321,23 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.282,
+   "divergence": 0.283,
    "category": "international",
    "terms_left": [
     "catastrophe ferroviaire",
-    "espagne morts",
-    "catastrophe"
+    "catastrophe",
+    "espagne morts"
    ],
    "terms_right": [
     "espagnol",
     "trains entrés",
-    "séville"
+    "pedro"
    ]
   },
   {
    "title": "Sondage présidentielle 2027 : Édouard Philippe distancé par Jean-Luc Mélenchon pour le second tour, Marine Le Pen creuse l’écart",
    "url": "https://www.liberation.fr/politique/elections/primaire-sociale-democrate-raphael-glucksmann-se-sent-favori-de-pied-en-cap-clair-20261009_DJUNKU53WJCU3NLYFGJJ4P2Z24/",
-   "n_members": 120,
+   "n_members": 124,
    "n_sources": 31,
    "counts": {
     "left": 7,
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.564,
+   "divergence": 0.568,
    "category": "politique",
    "terms_left": [
     "glucksmann",
@@ -381,12 +381,12 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.509,
+   "divergence": 0.502,
    "category": "international",
    "terms_left": [
     "liste étudiante",
     "étudiante",
-    "pouvoir"
+    "serbe"
    ],
    "terms_right": [
     "dirigeant",
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.698,
+   "divergence": 0.697,
    "category": "société",
    "terms_left": [
     "colère",
@@ -482,6 +482,36 @@
     "france",
     "mobilisation",
     "face"
+   ]
+  },
+  {
+   "title": "Kylian Mbappé présente ses excuses après avoir qualifié l'ancien dirigeant chinois Mao Zedong de \"dictateur\"",
+   "url": "https://www.sudradio.fr/sport-rugby/sport/chine-deux-grandes-compagnies-chinoises-rompent-avec-mbappe-laccusant-davoir-heurte-les-sentiments-nationaux",
+   "n_members": 87,
+   "n_sources": 29,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.375,
+   "blindspot_for": null,
+   "divergence": 0.304,
+   "category": "sport",
+   "terms_left": [
+    "dit sincèrement",
+    "dit",
+    "publicitaires"
+   ],
+   "terms_right": [
+    "polémique",
+    "mao zedong",
+    "zedong"
    ]
   },
   {
@@ -515,36 +545,6 @@
    ]
   },
   {
-   "title": "Kylian Mbappé présente ses excuses après avoir qualifié l'ancien dirigeant chinois Mao Zedong de \"dictateur\"",
-   "url": "https://www.sudradio.fr/sport-rugby/sport/chine-deux-grandes-compagnies-chinoises-rompent-avec-mbappe-laccusant-davoir-heurte-les-sentiments-nationaux",
-   "n_members": 85,
-   "n_sources": 29,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 9,
-    "opinion": 4
-   },
-   "blindspot_score": 0.375,
-   "blindspot_for": null,
-   "divergence": 0.295,
-   "category": "sport",
-   "terms_left": [
-    "dit sincèrement",
-    "publicitaires",
-    "contrats publicitaires"
-   ],
-   "terms_right": [
-    "polémique",
-    "qu",
-    "zedong"
-   ]
-  },
-  {
    "title": "Présidentielle : Marine Le Pen lance sa campagne à Orléans et souhaite l’axer sur la « renaissance » avec l’ambition « d’insuffler un peu d’optimisme »",
    "url": "https://www.leparisien.fr/elections/presidentielle/nous-voulons-etre-outrageusement-optimistes-marine-le-pen-lance-sa-campagne-sous-haute-pression-24-10-2026-34DN2WVRVNA6LJJCUBH4FHLZIM.php",
    "n_members": 62,
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.388,
+   "divergence": 0.392,
    "category": "politique",
    "terms_left": [
     "orléans marine",
@@ -571,13 +571,73 @@
    "terms_right": [
     "monde",
     "pays",
-    "veut"
+    "crise"
    ]
   },
   {
-   "title": "Guerre en Ukraine : Elon Musk accuse Kiev d'avoir violé les conditions d'utilisation de Starlink pour mener des frappes de drones meurtrières",
+   "title": "Le Sénat rejette la réforme allant vers l’autonomie de la Corse",
+   "url": "https://www.bvoltaire.fr/point-de-vue-la-question-corse-cause-nationale-un-natif-et-resident-interpelle-le-parlement/",
+   "n_members": 58,
+   "n_sources": 28,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.462,
+   "category": "politique",
+   "terms_left": [
+    "texte",
+    "projet loi",
+    "loi"
+   ],
+   "terms_right": [
+    "crimes sexuels",
+    "sexuels",
+    "imprescriptibilité crimes"
+   ]
+  },
+  {
+   "title": "Attentat raciste à Trappes : comment fonctionnent les examens psychiatriques en garde à vue ?",
+   "url": "https://www.france24.com/fr/france/20261023-homme-tire-rue-yvelines-un-mort-plusieurs-bless%C3%A9s-pnat",
+   "n_members": 95,
+   "n_sources": 27,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.232,
+   "category": "faits-divers",
+   "terms_left": [
+    "retrouvés",
+    "assaillant",
+    "raciste trappes"
+   ],
+   "terms_right": [
+    "yvelines",
+    "vue suspect",
+    "schizophrénie"
+   ]
+  },
+  {
+   "title": "Russie : « Un génie, vraiment un génie »… Vladimir Poutine encense Elon Musk",
    "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/starlink-a-restreint-ses-operations-pendant-la-nuit-en-ukraine-denonce-un-conseiller-de-volodymyr-zelensky_8236789.html",
-   "n_members": 92,
+   "n_members": 93,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -605,39 +665,9 @@
    ]
   },
   {
-   "title": "Attentat raciste dans les Yvelines : le suspect sous traitement pour schizophrénie",
-   "url": "https://www.france24.com/fr/france/20261023-homme-tire-rue-yvelines-un-mort-plusieurs-bless%C3%A9s-pnat",
-   "n_members": 92,
-   "n_sources": 27,
-   "counts": {
-    "left": 7,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 5
-   },
-   "blindspot_score": 0.067,
-   "blindspot_for": null,
-   "divergence": 0.251,
-   "category": "faits-divers",
-   "terms_left": [
-    "retrouvés",
-    "raciste trappes",
-    "trappes"
-   ],
-   "terms_right": [
-    "yvelines",
-    "vue suspect",
-    "ans"
-   ]
-  },
-  {
    "title": "Attentat raciste de Trappes : des hommages aux victimes dans plusieurs villes",
    "url": "https://www.sudouest.fr/faits-divers/attaque-a-trappes-la-haine-tue-l-horreur-a-frappe-les-reactions-politiques-apres-la-fusillade-dans-les-yvelines-31207382.php",
-   "n_members": 79,
+   "n_members": 80,
    "n_sources": 27,
    "counts": {
     "left": 9,
@@ -651,7 +681,7 @@
    },
    "blindspot_score": -0.2,
    "blindspot_for": null,
-   "divergence": 0.337,
+   "divergence": 0.338,
    "category": "politique",
    "terms_left": [
     "droite",
@@ -741,7 +771,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.645,
+   "divergence": 0.653,
    "category": "société",
    "terms_left": [
     "syndicats",
@@ -751,7 +781,7 @@
    "terms_right": [
     "forces ordre",
     "forces",
-    "gendarmes"
+    "ministre"
    ]
   },
   {
@@ -787,7 +817,7 @@
   {
    "title": "Attentat raciste de Trappes : une séance sous tension à l'Assemblée après la minute de silence en hommage aux victimes",
    "url": "https://www.lemonde.fr/politique/article/2026/10/26/a-l-assemblee-nationale-la-commission-d-enquete-sur-le-17-octobre-en-crise-avant-meme-d-avoir-commence-ses-travaux_6800607_823448.html",
-   "n_members": 63,
+   "n_members": 64,
    "n_sources": 26,
    "counts": {
     "left": 7,
@@ -801,12 +831,12 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.534,
+   "divergence": 0.524,
    "category": "politique",
    "terms_left": [
     "gauche",
-    "accusé",
-    "gouvernement"
+    "travaux",
+    "accusé gauche"
    ],
    "terms_right": [
     "monde",
@@ -831,7 +861,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.251,
+   "divergence": 0.249,
    "category": "environnement",
    "terms_left": [
     "vigilance orange",
@@ -842,36 +872,6 @@
     "km",
     "jusqu",
     "vents"
-   ]
-  },
-  {
-   "title": "Corse: le Sénat rejette la réforme du statut, le camp autonomiste claque la porte",
-   "url": "https://www.bvoltaire.fr/point-de-vue-la-question-corse-cause-nationale-un-natif-et-resident-interpelle-le-parlement/",
-   "n_members": 45,
-   "n_sources": 25,
-   "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 9,
-    "opinion": 5
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.471,
-   "category": "politique",
-   "terms_left": [
-    "projet loi",
-    "loi",
-    "projet"
-   ],
-   "terms_right": [
-    "udr",
-    "richard ferrand",
-    "ferrand"
    ]
   },
   {
@@ -902,6 +902,36 @@
     "spacex",
     "fusion",
     "tesla"
+   ]
+  },
+  {
+   "title": "Pourquoi le procès des trois policiers jugés pour la mort de Cédric Chouviat a été renvoyé à juin",
+   "url": "https://www.leparisien.fr/faits-divers/mort-de-cedric-chouviat-ces-policiers-se-sont-amuses-avec-lui-et-ont-fini-par-le-tuer-accuse-la-fille-de-la-victime-23-10-2026-H3SWA5F26RA6RGXP6JUZCSY2VE.php",
+   "n_members": 56,
+   "n_sources": 24,
+   "counts": {
+    "left": 7,
+    "centre": 9,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 8,
+    "opinion": 5
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.437,
+   "category": "faits-divers",
+   "terms_left": [
+    "tribunal correctionnel",
+    "correctionnel",
+    "cédric"
+   ],
+   "terms_right": [
+    "lyon",
+    "justice",
+    "lfi"
    ]
   },
   {
@@ -957,9 +987,9 @@
    "terms_right": []
   },
   {
-   "title": "DIRECT. Colère sociale: après un mois de mobilisation, le gouvernement promet ce lundi \"des réponses très concrètes\" aux lycéens",
+   "title": "Des organisations lycéennes appellent à poursuivre la mobilisation après leur rencontre avec Sébastien Lecornu",
    "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/emmanuel-macron-recevra-les-organisations-lyceennes-vendredi-a-15heures-annonce-l-elysee_8249623.html",
-   "n_members": 87,
+   "n_members": 88,
    "n_sources": 23,
    "counts": {
     "left": 6,
@@ -973,17 +1003,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.569,
+   "divergence": 0.612,
    "category": "politique",
    "terms_left": [
     "influenceurs",
     "exécutif",
-    "lycéens étudiants"
+    "face"
    ],
    "terms_right": [
-    "après-midi",
-    "état",
-    "reprendre"
+    "emmanuel macron",
+    "emmanuel",
+    "macron"
    ]
   },
   {
@@ -1003,16 +1033,16 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.7,
+   "divergence": 0.704,
    "category": "international",
    "terms_left": [
     "direct",
     "russes",
-    "blessés"
+    "guerre ukraine"
    ],
    "terms_right": [
-    "ukrainienne",
     "russe",
+    "ukrainienne",
     "morts"
    ]
   },
@@ -1041,7 +1071,7 @@
   {
    "title": "Emmanuel Macron s'attend à un nouveau samedi \"à risque\" ce 31 octobre, les tracés des manifestations seront hors des centres-villes",
    "url": "https://www.leparisien.fr/paris-75/ce-sera-la-premiere-grosse-manifestation-ici-entre-les-portes-ditalie-et-de-vincennes-les-commercants-inquiets-24-10-2026-DCOTSPLWYBGDND72TNSSXO5MT4.php",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 23,
    "counts": {
     "left": 2,
@@ -1055,7 +1085,7 @@
    },
    "blindspot_score": 0.636,
    "blindspot_for": "gauche",
-   "divergence": 0.607,
+   "divergence": 0.605,
    "category": "politique",
    "terms_left": [
     "république",
@@ -1071,7 +1101,7 @@
   {
    "title": "24H du lundi 26 octobre 2026",
    "url": "https://www.leparisien.fr/paris-75/manifestations-du-24-octobre-a-paris-parcours-gilets-jaunes-etudiants-syndicats-a-quoi-sattendre-samedi-21-10-2026-QYKRGWXMBFDYJH2AWVOERBBQ3U.php",
-   "n_members": 55,
+   "n_members": 56,
    "n_sources": 23,
    "counts": {
     "left": 6,
@@ -1085,17 +1115,47 @@
    },
    "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.961,
+   "divergence": 0.963,
    "category": "international",
    "terms_left": [
     "israël",
-    "gouvernement",
-    "face"
+    "face",
+    "réseaux sociaux"
    ],
    "terms_right": [
-    "mesures",
     "lecornu",
-    "colère"
+    "colère",
+    "lycéenne"
+   ]
+  },
+  {
+   "title": "Marine Le Pen veut sabrer de 29 % les crédits français à l’Union européenne tout en espérant… un geste de la BCE sur la dette tricolore",
+   "url": "https://www.rfi.fr/fr/podcasts/aujourd-hui-l-%C3%A9conomie/20261020-pourquoi-la-crise-politique-et-sociale-pourrait-peser-sur-la-capacit%C3%A9-d-emprunt-de-la-france",
+   "n_members": 44,
+   "n_sources": 23,
+   "counts": {
+    "left": 3,
+    "centre": 8,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": 0.718,
+   "category": "économie",
+   "terms_left": [
+    "intérêt",
+    "taux intérêt",
+    "budgétaire"
+   ],
+   "terms_right": [
+    "emprunt",
+    "taux emprunt",
+    "ans"
    ]
   },
   {
@@ -1126,58 +1186,6 @@
     "cas",
     "petit",
     "olivier"
-   ]
-  },
-  {
-   "title": "La météo du lundi 26 octobre 2026 : l'anticyclone reprend la main, retour au calme",
-   "url": "https://information.tv5monde.com/international/climat-les-pays-du-pacifique-au-premier-plan-lors-du-sommet-avant-la-cop31-2840220",
-   "n_members": 76,
-   "n_sources": 22,
-   "counts": {
-    "left": 3,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.549,
-   "category": "environnement",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Militants d'ultra-droite arrêtés à Nice : premières comparutions",
-   "url": "https://www.tf1info.fr/economie/videos/video-les-violences-font-elles-fuir-les-touristes-32420-2471070.html",
-   "n_members": 69,
-   "n_sources": 22,
-   "counts": {
-    "left": 6,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.773,
-   "category": "société",
-   "terms_left": [
-    "paris",
-    "albanie",
-    "cnews"
-   ],
-   "terms_right": [
-    "violences",
-    "marge",
-    "ultradroite"
    ]
   }
  ]
