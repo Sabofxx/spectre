@@ -1,6 +1,6 @@
 {
  "week": "2026-W44",
- "generated_at": "2026-10-29T23:28:07+00:00",
+ "generated_at": "2026-10-30T02:46:44+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -157,7 +157,7 @@
   {
    "title": "Élections en Israël: Benjamin Netanyahu se bat pour sa survie dans ce premier scrutin après le 7-octobre",
    "url": "https://www.humanite.fr/monde/benyamin-netanyahou/interdits-dinformer-israel-refuse-lentree-a-lenvoye-special-de-lhumanite",
-   "n_members": 283,
+   "n_members": 290,
    "n_sources": 34,
    "counts": {
     "left": 9,
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.1,
    "blindspot_for": null,
-   "divergence": 0.345,
+   "divergence": 0.341,
    "category": "international",
    "terms_left": [
     "elections",
@@ -291,12 +291,12 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.414,
+   "divergence": 0.413,
    "category": "international",
    "terms_left": [
     "droite",
-    "extrême",
-    "extrême droite"
+    "flávio",
+    "flávio bolsonaro"
    ],
    "terms_right": [
     "flavio bolsonaro",
@@ -307,7 +307,7 @@
   {
    "title": "EN DIRECT - Accident ferroviaire en Espagne : le bilan s’alourdit à 68 morts, trois jours de deuil national décrétés",
    "url": "https://www.europe1.fr/international/en-direct-espagne-au-moins-64-morts-et-80-blesses-selon-un-nouveau-bilan-1188633",
-   "n_members": 239,
+   "n_members": 240,
    "n_sources": 32,
    "counts": {
     "left": 8,
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.394,
+   "divergence": 0.395,
    "category": "politique",
    "terms_left": [
     "droite",
@@ -419,9 +419,9 @@
     "usage"
    ],
    "terms_right": [
-    "qu",
     "prévoit",
-    "responsabilité"
+    "qu",
+    "payer"
    ]
   },
   {
@@ -457,7 +457,7 @@
   {
    "title": "Kylian Mbappé présente ses excuses après avoir qualifié l'ancien dirigeant chinois Mao Zedong de \"dictateur\"",
    "url": "https://www.sudradio.fr/sport-rugby/sport/chine-deux-grandes-compagnies-chinoises-rompent-avec-mbappe-laccusant-davoir-heurte-les-sentiments-nationaux",
-   "n_members": 98,
+   "n_members": 99,
    "n_sources": 30,
    "counts": {
     "left": 5,
@@ -621,12 +621,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.354,
+   "divergence": 0.362,
    "category": "politique",
    "terms_left": [
-    "sexuels mineurs",
-    "projet",
-    "france"
+    "processus",
+    "processus beauvau",
+    "beauvau"
    ],
    "terms_right": [
     "sexuels commis",
@@ -837,6 +837,36 @@
    ]
   },
   {
+   "title": "Prix Goncourt 2026 : les quatre finalistes dévoilés",
+   "url": "https://www.tf1info.fr/culture/l-editeur-de-thelyson-orelien-reconnait-l-utilisation-de-l-ia-dans-l-ecriture-de-son-roman-2471251.html",
+   "n_members": 60,
+   "n_sources": 26,
+   "counts": {
+    "left": 9,
+    "centre": 12,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": -0.286,
+   "blindspot_for": null,
+   "divergence": 0.42,
+   "category": "culture",
+   "terms_left": [
+    "prix",
+    "goncourt",
+    "finalistes"
+   ],
+   "terms_right": [
+    "essai",
+    "sélection prix",
+    "sélection"
+   ]
+  },
+  {
    "title": "Tempête Austen : encore 40 000 foyers privés d’électricité dimanche soir, principalement en Bretagne et Normandie",
    "url": "https://www.bfmtv.com/meteo/video-le-soleil-s-impose-partout-en-france-avec-des-temperatures-comprises-entre-19-c-et-28-c-la-meteo-de-ce-mercredi-14-octobre_VN-202610140125.html",
    "n_members": 143,
@@ -867,36 +897,6 @@
    ]
   },
   {
-   "title": "Prix Goncourt 2026 : les quatre finalistes dévoilés",
-   "url": "https://www.tf1info.fr/culture/l-editeur-de-thelyson-orelien-reconnait-l-utilisation-de-l-ia-dans-l-ecriture-de-son-roman-2471251.html",
-   "n_members": 59,
-   "n_sources": 25,
-   "counts": {
-    "left": 9,
-    "centre": 12,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 10,
-    "opinion": 2
-   },
-   "blindspot_score": -0.385,
-   "blindspot_for": null,
-   "divergence": 0.401,
-   "category": "culture",
-   "terms_left": [
-    "prix",
-    "goncourt",
-    "finalistes"
-   ],
-   "terms_right": [
-    "roman thélyson",
-    "orélien",
-    "thélyson orélien"
-   ]
-  },
-  {
    "title": "Comment Donald Trump fait déjà peser l'accusation d'un vote volé aux midterms",
    "url": "https://www.lefigaro.fr/international/le-moment-est-venu-marco-rubio-appelle-ceux-qui-veulent-un-changement-a-cuba-a-cooperer-avec-la-cia-20261024",
    "n_members": 82,
@@ -913,7 +913,7 @@
    },
    "blindspot_score": -0.167,
    "blindspot_for": null,
-   "divergence": 0.528,
+   "divergence": 0.523,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -923,7 +923,7 @@
    "terms_right": [
     "pays",
     "républicain",
-    "états-unis"
+    "monde"
    ]
   },
   {
