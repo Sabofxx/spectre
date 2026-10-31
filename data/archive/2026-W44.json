@@ -1,6 +1,6 @@
 {
  "week": "2026-W44",
- "generated_at": "2026-10-31T06:02:39+00:00",
+ "generated_at": "2026-10-31T12:54:41+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.12,
    "blindspot_for": null,
-   "divergence": 0.243,
+   "divergence": 0.244,
    "category": "international",
    "terms_left": [
     "droite",
@@ -51,17 +51,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.563,
+   "divergence": 0.568,
    "category": "société",
    "terms_left": [
     "mouvement",
-    "lycéen",
-    "mouvement lycéen"
+    "propositions",
+    "lycéen"
    ],
    "terms_right": [
     "colère",
     "ministre",
-    "lecornu"
+    "parcoursup remplacé"
    ]
   },
   {
@@ -81,12 +81,12 @@
    },
    "blindspot_score": 0.048,
    "blindspot_for": null,
-   "divergence": 0.287,
+   "divergence": 0.286,
    "category": "société",
    "terms_left": [
     "racisme",
-    "haine",
-    "france"
+    "france",
+    "haine"
    ],
    "terms_right": [
     "hommage",
@@ -111,16 +111,16 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.313,
+   "divergence": 0.314,
    "category": "international",
    "terms_left": [
     "elections",
-    "israéliens",
-    "arabes"
+    "arabes",
+    "droite"
    ],
    "terms_right": [
-    "benjamin",
     "netanyahu",
+    "netanyahou",
     "bloc"
    ]
   },
@@ -141,11 +141,11 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.633,
+   "divergence": 0.635,
    "category": "société",
    "terms_left": [
-    "manifestants",
     "police",
+    "manifestants",
     "face"
    ],
    "terms_right": [
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.277,
+   "divergence": 0.278,
    "category": "international",
    "terms_left": [
     "direct",
@@ -179,15 +179,15 @@
     "guerre ukraine"
    ],
    "terms_right": [
-    "rencontre",
+    "trump",
     "qu",
-    "trump"
+    "prix"
    ]
   },
   {
    "title": "Attentat de Trappes : le suspect reconnaît avoir ciblé des musulmans et des personnes d’origine africaines",
    "url": "https://www.cnews.fr/faits-divers/2026-10-23/yvelines-au-moins-un-mort-et-quatre-blesses-apres-des-tirs-en-rafales-sur",
-   "n_members": 272,
+   "n_members": 273,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -201,17 +201,17 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.272,
+   "divergence": 0.273,
    "category": "faits-divers",
    "terms_left": [
-    "rn",
+    "parquet national",
     "kevin",
-    "parquet national"
+    "enquête"
    ],
    "terms_right": [
+    "ans",
     "vue",
-    "examen",
-    "suspect"
+    "examen"
    ]
   },
   {
@@ -245,9 +245,39 @@
    ]
   },
   {
+   "title": "Flavio Bolsonaro dit avoir quitté le Brésil pour fuir une «persécution»",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-eco-en-vo/l-eco-en-vo-du-samedi-17-octobre-2026-3780275",
+   "n_members": 149,
+   "n_sources": 34,
+   "counts": {
+    "left": 9,
+    "centre": 12,
+    "right": 13
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 12,
+    "opinion": 7
+   },
+   "blindspot_score": 0.182,
+   "blindspot_for": null,
+   "divergence": 0.395,
+   "category": "international",
+   "terms_left": [
+    "flávio",
+    "flávio bolsonaro",
+    "etats-unis"
+   ],
+   "terms_right": [
+    "flavio bolsonaro",
+    "flavio",
+    "états-unis"
+   ]
+  },
+  {
    "title": "EN DIRECT - Accident ferroviaire en Espagne : le bilan s’alourdit à 68 morts, trois jours de deuil national décrétés",
    "url": "https://www.europe1.fr/international/en-direct-espagne-au-moins-64-morts-et-80-blesses-selon-un-nouveau-bilan-1188633",
-   "n_members": 270,
+   "n_members": 272,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -261,7 +291,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.267,
+   "divergence": 0.236,
    "category": "international",
    "terms_left": [
     "catastrophe ferroviaire",
@@ -270,26 +300,26 @@
    ],
    "terms_right": [
     "trains",
-    "séville",
-    "environ"
+    "autorités",
+    "nouvelles"
    ]
   },
   {
    "title": "Budget de la Sécurité sociale : face au blocage, l'exécutif hésite entre 49.3 et ordonnances",
-   "url": "https://www.ladepeche.fr/2026/10/01/direct-presidentielle-2027-bruno-retailleau-estime-que-la-question-de-linterdiction-de-lfi-se-pose-car-cest-un-parti-fascine-par-la-violence-13578028.php",
+   "url": "https://reporterre.net/Le-dernier-budget-de-l-ere-Macron-ne-montre-pas-le-sursaut-ecologique-necessaire",
    "n_members": 199,
-   "n_sources": 33,
+   "n_sources": 32,
    "counts": {
     "left": 8,
     "centre": 12,
-    "right": 13
+    "right": 12
    },
    "style_counts": {
     "factuel": 15,
-    "mixte": 13,
+    "mixte": 12,
     "opinion": 5
    },
-   "blindspot_score": 0.238,
+   "blindspot_score": 0.2,
    "blindspot_for": null,
    "divergence": 0.33,
    "category": "politique",
@@ -305,39 +335,9 @@
    ]
   },
   {
-   "title": "Flavio Bolsonaro dit avoir quitté le Brésil pour fuir une «persécution»",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-eco-en-vo/l-eco-en-vo-du-samedi-17-octobre-2026-3780275",
-   "n_members": 141,
-   "n_sources": 33,
-   "counts": {
-    "left": 9,
-    "centre": 12,
-    "right": 12
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 11,
-    "opinion": 7
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.395,
-   "category": "international",
-   "terms_left": [
-    "flávio",
-    "flávio bolsonaro",
-    "etats-unis"
-   ],
-   "terms_right": [
-    "flavio bolsonaro",
-    "flavio",
-    "argentine"
-   ]
-  },
-  {
    "title": "Présidentielle 2027 : jusqu'où ira la chute de Gabriel Attal et Édouard Philippe ?",
    "url": "https://www.liberation.fr/politique/elections/primaire-sociale-democrate-raphael-glucksmann-se-sent-favori-de-pied-en-cap-clair-20261009_DJUNKU53WJCU3NLYFGJJ4P2Z24/",
-   "n_members": 127,
+   "n_members": 129,
    "n_sources": 32,
    "counts": {
     "left": 7,
@@ -351,17 +351,47 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.574,
+   "divergence": 0.577,
    "category": "politique",
    "terms_left": [
     "primaire",
     "glucksmann",
-    "raphaël glucksmann"
+    "candidat"
    ],
    "terms_right": [
     "présidentielle",
     "mélenchon",
     "jean-luc mélenchon"
+   ]
+  },
+  {
+   "title": "Un rassemblement contre le racisme et l'islamophobie ce vendredi à Trappes, une semaine après l'attentat",
+   "url": "https://www.sudouest.fr/faits-divers/attaque-a-trappes-la-haine-tue-l-horreur-a-frappe-les-reactions-politiques-apres-la-fusillade-dans-les-yvelines-31207382.php",
+   "n_members": 133,
+   "n_sources": 31,
+   "counts": {
+    "left": 10,
+    "centre": 15,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 13,
+    "opinion": 2
+   },
+   "blindspot_score": -0.25,
+   "blindspot_for": null,
+   "divergence": 0.253,
+   "category": "société",
+   "terms_left": [
+    "droite",
+    "rendre",
+    "raciste"
+   ],
+   "terms_right": [
+    "mort",
+    "lieu",
+    "mort blessés"
    ]
   },
   {
@@ -381,7 +411,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.498,
+   "divergence": 0.497,
    "category": "international",
    "terms_left": [
     "mouvement",
@@ -411,16 +441,16 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.389,
+   "divergence": 0.384,
    "category": "politique",
    "terms_left": [
     "gouvernement",
-    "sénat adopté",
+    "mobilisation",
     "droite"
    ],
    "terms_right": [
-    "texte",
     "sénat",
+    "payer",
     "qu"
    ]
   },
@@ -441,47 +471,17 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.713,
+   "divergence": 0.722,
    "category": "société",
    "terms_left": [
     "colère",
     "paris",
-    "commerce"
+    "soutien"
    ],
    "terms_right": [
     "mobilisation",
     "face",
     "commerçants"
-   ]
-  },
-  {
-   "title": "Un rassemblement contre le racisme et l'islamophobie ce vendredi à Trappes, une semaine après l'attentat",
-   "url": "https://www.sudouest.fr/faits-divers/attaque-a-trappes-la-haine-tue-l-horreur-a-frappe-les-reactions-politiques-apres-la-fusillade-dans-les-yvelines-31207382.php",
-   "n_members": 129,
-   "n_sources": 30,
-   "counts": {
-    "left": 9,
-    "centre": 15,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 12,
-    "opinion": 2
-   },
-   "blindspot_score": -0.2,
-   "blindspot_for": null,
-   "divergence": 0.258,
-   "category": "société",
-   "terms_left": [
-    "droite",
-    "raciste",
-    "qu"
-   ],
-   "terms_right": [
-    "mort",
-    "lieu",
-    "semaine attentat"
    ]
   },
   {
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.412,
    "blindspot_for": null,
-   "divergence": 0.345,
+   "divergence": 0.357,
    "category": "sport",
    "terms_left": [
     "politique",
@@ -510,7 +510,7 @@
    ],
    "terms_right": [
     "polémique",
-    "mao zedong",
+    "propos",
     "zedong"
    ]
   },
@@ -561,17 +561,17 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.406,
+   "divergence": 0.389,
    "category": "politique",
    "terms_left": [
     "journalistes",
     "antisémitisme",
-    "brutalisés congrès"
+    "pouvoir travailler"
    ],
    "terms_right": [
+    "jordan bardella",
     "national",
-    "rassemblement national",
-    "rassemblement"
+    "bardella"
    ]
   },
   {
@@ -607,7 +607,7 @@
   {
    "title": "Manifestations du 31 octobre : 70.000 policiers et gendarmes mobilisés, «un dispositif exceptionnel» reconduit, annonce Laurent Nuñez",
    "url": "https://www.nouvelobs.com/societe/20261018.OBS119311/apres-une-mobilisation-17-octobre-qui-a-vire-au-chaos-les-politiques-se-divisent-sur-la-responsabilite-des-violences.html",
-   "n_members": 170,
+   "n_members": 172,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -621,7 +621,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.508,
+   "divergence": 0.506,
    "category": "société",
    "terms_left": [
     "grève",
@@ -630,8 +630,38 @@
    ],
    "terms_right": [
     "journée",
-    "france",
-    "dispositif sécurité"
+    "dispositif sécurité",
+    "france"
+   ]
+  },
+  {
+   "title": "Manifestation du 31 octobre: le préfet de police de Paris va faire appel de la décision de justice de valider le parcours Bastille-Nation",
+   "url": "https://www.lemonde.fr/politique/article/2026/10/27/attentat-de-trappes-la-gauche-en-ordre-disperse-dans-les-rassemblements-contre-le-racisme_6801088_823448.html",
+   "n_members": 75,
+   "n_sources": 28,
+   "counts": {
+    "left": 8,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 6
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.579,
+   "category": "politique",
+   "terms_left": [
+    "remigration",
+    "droite",
+    "extrême"
+   ],
+   "terms_right": [
+    "appel",
+    "tribunal administratif",
+    "administratif"
    ]
   },
   {
@@ -651,7 +681,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.336,
+   "divergence": 0.331,
    "category": "politique",
    "terms_left": [
     "sexuels mineurs",
@@ -659,8 +689,8 @@
     "camp"
    ],
    "terms_right": [
-    "commis mineurs",
     "sexuels commis",
+    "commis mineurs",
     "commis"
    ]
   },
@@ -741,17 +771,17 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.714,
+   "divergence": 0.725,
    "category": "politique",
    "terms_left": [
     "rn",
     "modifier",
-    "exécutif"
+    "dates élection"
    ],
    "terms_right": [
     "violences",
-    "changer",
-    "sociales"
+    "sociales",
+    "changer"
    ]
   },
   {
@@ -771,7 +801,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.55,
+   "divergence": 0.551,
    "category": "politique",
    "terms_left": [
     "trappes",
@@ -837,6 +867,66 @@
    ]
   },
   {
+   "title": "Agressions sexuelles : deux ans de prison avec sursis requis contre l'ancien secrétaire d'État Jean-Vincent Placé",
+   "url": "https://www.rfi.fr/fr/podcasts/reportage-france/20261025-je-te-crois-des-formation-aux-violences-faites-aux-enfants-pour-les-acteurs-du-p%C3%A9riscolaire-en-france",
+   "n_members": 55,
+   "n_sources": 27,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.473,
+   "category": "société",
+   "terms_left": [
+    "france",
+    "cm",
+    "campagne"
+   ],
+   "terms_right": [
+    "agressions",
+    "agressions sexuelles",
+    "placé"
+   ]
+  },
+  {
+   "title": "Manifestation du 31 octobre à Paris: les commerçants près de la place de la Bastille soulagés",
+   "url": "https://www.20minutes.fr/societe/greve/4256698-20261022-lance-greve-dimanche-comment-fixees-journees-mobilisations-syndicats",
+   "n_members": 128,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.643,
+   "category": "société",
+   "terms_left": [
+    "intersyndicale",
+    "préfecture",
+    "grève"
+   ],
+   "terms_right": [
+    "mobilisation",
+    "paris",
+    "troisième"
+   ]
+  },
+  {
    "title": "Prix Goncourt 2026 : les quatre finalistes dévoilés",
    "url": "https://www.tf1info.fr/culture/l-editeur-de-thelyson-orelien-reconnait-l-utilisation-de-l-ia-dans-l-ecriture-de-son-roman-2471251.html",
    "n_members": 60,
@@ -864,36 +954,6 @@
     "essai",
     "sélection prix",
     "roman thélyson"
-   ]
-  },
-  {
-   "title": "Éducation Nationale : L'enquête choc sur les violences sexuelles",
-   "url": "https://www.rfi.fr/fr/podcasts/reportage-france/20261025-je-te-crois-des-formation-aux-violences-faites-aux-enfants-pour-les-acteurs-du-p%C3%A9riscolaire-en-france",
-   "n_members": 47,
-   "n_sources": 26,
-   "counts": {
-    "left": 7,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 4
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.4,
-   "category": "société",
-   "terms_left": [
-    "france",
-    "cm déclarent",
-    "ans"
-   ],
-   "terms_right": [
-    "violences",
-    "élèves déclarent",
-    "éducation nationale"
    ]
   },
   {
@@ -929,7 +989,7 @@
   {
    "title": "Cryptomonnaies : Binance confirme une cyberattaque massive estimée à 6,3 milliards de dollars",
    "url": "https://www.leparisien.fr/economie/le-bitcoin-en-chute-apres-un-piratage-dune-des-principales-plateformes-dechange-30-10-2026-DUSTOHBPRBBHPI7CSMHO6GRDEE.php",
-   "n_members": 41,
+   "n_members": 43,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -943,17 +1003,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.29,
+   "divergence": 0.309,
    "category": "économie",
    "terms_left": [
     "record",
-    "dollars plateforme",
-    "annonce"
+    "piratage binance",
+    "dollars plateforme"
    ],
    "terms_right": [
     "qu",
-    "monde",
-    "millions"
+    "cyberattaque massive",
+    "massive"
    ]
   },
   {
@@ -987,39 +1047,39 @@
    ]
   },
   {
-   "title": "Manifestation du 31 octobre: le préfet de police de Paris va faire appel de la décision de justice de valider le parcours Bastille-Nation",
-   "url": "https://www.lemonde.fr/politique/article/2026/10/27/attentat-de-trappes-la-gauche-en-ordre-disperse-dans-les-rassemblements-contre-le-racisme_6801088_823448.html",
-   "n_members": 65,
+   "title": "Comment Donald Trump fait déjà peser l'accusation d'un vote volé aux midterms",
+   "url": "https://www.lefigaro.fr/international/le-moment-est-venu-marco-rubio-appelle-ceux-qui-veulent-un-changement-a-cuba-a-cooperer-avec-la-cia-20261024",
+   "n_members": 92,
    "n_sources": 25,
    "counts": {
     "left": 7,
-    "centre": 11,
-    "right": 7
+    "centre": 12,
+    "right": 6
    },
    "style_counts": {
-    "factuel": 12,
-    "mixte": 8,
-    "opinion": 5
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 3
    },
-   "blindspot_score": 0.0,
+   "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.663,
-   "category": "politique",
+   "divergence": 0.505,
+   "category": "international",
    "terms_left": [
-    "remigration",
-    "droite",
-    "extrême"
+    "etats-unis",
+    "démocrates",
+    "face"
    ],
    "terms_right": [
-    "parcours",
-    "appel",
-    "tribunal administratif"
+    "pays",
+    "pays chiottes",
+    "chiottes"
    ]
   },
   {
    "title": "Manifestations le samedi : le gouvernement va faciliter l’ouverture des commerces «le dimanche d’ici à Noël»",
    "url": "https://www.ladepeche.fr/2026/10/26/budget-2027-le-gouvernement-prevoit-de-doubler-le-nombre-de-radars-en-ville-pour-engranger-22-milliards-deuros-de-recettes-13620911.php",
-   "n_members": 61,
+   "n_members": 63,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -1033,7 +1093,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.871,
+   "divergence": 0.876,
    "category": "société",
    "terms_left": [
     "rénovation",
@@ -1042,8 +1102,8 @@
    ],
    "terms_right": [
     "commerçants",
-    "noël",
-    "commerces"
+    "commerces",
+    "noël"
    ]
   },
   {
@@ -1063,7 +1123,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.722,
+   "divergence": 0.724,
    "category": "économie",
    "terms_left": [
     "intérêt",
@@ -1093,7 +1153,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.777,
+   "divergence": 0.765,
    "category": "politique",
    "terms_left": [
     "droite",
@@ -1109,7 +1169,7 @@
   {
    "title": "DIRECT. Colère sociale: François Ruffin estime que la \"France d'en haut se gave\" et constate \"la convergence des pourrissements\"",
    "url": "https://www.sudradio.fr/societe/faure-ps-pour-interrompre-les-manifestations-il-suffit-de-repondre-aux-revendications",
-   "n_members": 51,
+   "n_members": 53,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -1123,7 +1183,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.834,
+   "divergence": 0.836,
    "category": "société",
    "terms_left": [
     "mouvement",
@@ -1131,69 +1191,9 @@
     "lycéen"
    ],
    "terms_right": [
-    "france",
     "ministre",
+    "manifestations",
     "crise"
-   ]
-  },
-  {
-   "title": "État des lieux de l'économie américaine 5/5 : L'IA, moteur fragile de la croissance américaine",
-   "url": "https://www.bfmtv.com/international/l-allemagne-copie-le-choose-france-de-macron-pour-trouver-4-100-milliards-d-euros-mais-la-montee-de-l-extreme-droite-glace-les-investisseurs_AN-202610190356.html",
-   "n_members": 49,
-   "n_sources": 25,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.804,
-   "category": "économie",
-   "terms_left": [
-    "économie",
-    "trump",
-    "violences"
-   ],
-   "terms_right": [
-    "allemagne",
-    "milliards",
-    "euros"
-   ]
-  },
-  {
-   "title": "Mobilisation du samedi 31 octobre : manifestations, interdictions…À quoi s’attendre ce week-end",
-   "url": "https://www.20minutes.fr/societe/greve/4256698-20261022-lance-greve-dimanche-comment-fixees-journees-mobilisations-syndicats",
-   "n_members": 96,
-   "n_sources": 24,
-   "counts": {
-    "left": 3,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.455,
-   "blindspot_for": null,
-   "divergence": 0.669,
-   "category": "société",
-   "terms_left": [
-    "grève",
-    "gouvernement",
-    "mouvement"
-   ],
-   "terms_right": [
-    "gilets jaunes",
-    "jaunes",
-    "gilets"
    ]
   }
  ]
