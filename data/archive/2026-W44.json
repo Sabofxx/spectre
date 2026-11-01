@@ -1,6 +1,6 @@
 {
  "week": "2026-W44",
- "generated_at": "2026-10-31T23:52:39+00:00",
+ "generated_at": "2026-11-01T03:09:50+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -566,7 +566,7 @@
    "terms_left": [
     "journalistes",
     "antisémitisme",
-    "presse pouvoir"
+    "pouvoir travailler"
    ],
    "terms_right": [
     "national",
@@ -577,7 +577,7 @@
   {
    "title": "Manifestations du 31 octobre : 70.000 policiers et gendarmes mobilisés, «un dispositif exceptionnel» reconduit, annonce Laurent Nuñez",
    "url": "https://www.nouvelobs.com/societe/20261018.OBS119311/apres-une-mobilisation-17-octobre-qui-a-vire-au-chaos-les-politiques-se-divisent-sur-la-responsabilite-des-violences.html",
-   "n_members": 185,
+   "n_members": 186,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.487,
+   "divergence": 0.486,
    "category": "société",
    "terms_left": [
     "grève",
@@ -711,17 +711,47 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.33,
+   "divergence": 0.317,
    "category": "politique",
    "terms_left": [
     "sexuels mineurs",
-    "projet loi",
-    "camp"
+    "france",
+    "projet loi"
    ],
    "terms_right": [
-    "sexuels commis",
     "commis mineurs",
+    "sexuels commis",
     "commis"
+   ]
+  },
+  {
+   "title": "Cryptomonnaies : Binance confirme une cyberattaque massive estimée à 6,3 milliards de dollars",
+   "url": "https://www.lemonde.fr/pixels/article/2026/10/28/piratage-du-site-des-impots-un-deuxieme-suspect-age-de-16-ans-mis-en-examen_6801643_4408996.html",
+   "n_members": 61,
+   "n_sources": 28,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 11,
+    "opinion": 2
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.309,
+   "category": "économie",
+   "terms_left": [
+    "pirates",
+    "piratage binance",
+    "cryptomonnaies"
+   ],
+   "terms_right": [
+    "mis",
+    "mis examen",
+    "examen"
    ]
   },
   {
@@ -741,7 +771,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.514,
+   "divergence": 0.502,
    "category": "société",
    "terms_left": [
     "france",
@@ -897,36 +927,6 @@
    "terms_right": []
   },
   {
-   "title": "Cryptomonnaies : Binance confirme une cyberattaque massive estimée à 6,3 milliards de dollars",
-   "url": "https://www.lemonde.fr/pixels/article/2026/10/28/piratage-du-site-des-impots-un-deuxieme-suspect-age-de-16-ans-mis-en-examen_6801643_4408996.html",
-   "n_members": 58,
-   "n_sources": 27,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 11,
-    "opinion": 2
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.305,
-   "category": "économie",
-   "terms_left": [
-    "pirates",
-    "piratage binance",
-    "dollars plateforme"
-   ],
-   "terms_right": [
-    "mis",
-    "mis examen",
-    "examen"
-   ]
-  },
-  {
    "title": "Failles dans PHP, « colonne vertébrale du web » : avec l’IA, « une période assez chaotique » commence pour la cybersécurité, analyse un ex-conseiller d’Obama",
    "url": "https://next.ink/262987/php-va-corriger-deux-vulnerabilites-critiques-aujourdhui/",
    "n_members": 57,
@@ -1003,7 +1003,7 @@
    },
    "blindspot_score": -0.286,
    "blindspot_for": null,
-   "divergence": 0.409,
+   "divergence": 0.407,
    "category": "culture",
    "terms_left": [
     "prix",
@@ -1102,8 +1102,8 @@
    ],
    "terms_right": [
     "états-unis",
-    "pays chiottes",
-    "chiottes"
+    "chiottes",
+    "pays chiottes"
    ]
   },
   {
@@ -1153,7 +1153,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.527,
+   "divergence": 0.502,
    "category": "politique",
    "terms_left": [
     "raciste yvelines",
