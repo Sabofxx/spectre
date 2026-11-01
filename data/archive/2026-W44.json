@@ -1,6 +1,6 @@
 {
  "week": "2026-W44",
- "generated_at": "2026-11-01T16:59:12+00:00",
+ "generated_at": "2026-11-01T20:57:25+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.564,
+   "divergence": 0.565,
    "category": "société",
    "terms_left": [
     "macron",
@@ -60,14 +60,14 @@
    ],
    "terms_right": [
     "colère",
-    "parcoursup remplacé",
-    "remplacé"
+    "parcoursup",
+    "parcoursup remplacé"
    ]
   },
   {
-   "title": "\"Un homme humble, souriant, travailleur, respectueux\" : l'hommage du maire de La Verrière à Pengo Bossio Wangi, victime de l'attentat de Trappes",
+   "title": "Le Portrait : Ritsia, mon frère Pengo tué à Trappes",
    "url": "https://www.humanite.fr/politique/racisme/racaille-pilleurs-binationaux-france-des-wallah-le-racisme-en-roue-libre-avant-lattentat-de-trappe",
-   "n_members": 150,
+   "n_members": 153,
    "n_sources": 36,
    "counts": {
     "left": 10,
@@ -81,12 +81,12 @@
    },
    "blindspot_score": 0.048,
    "blindspot_for": null,
-   "divergence": 0.281,
+   "divergence": 0.29,
    "category": "société",
    "terms_left": [
     "racisme",
-    "haine",
-    "france"
+    "france",
+    "haine"
    ],
    "terms_right": [
     "hommage",
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.305,
+   "divergence": 0.304,
    "category": "international",
    "terms_left": [
     "elections",
@@ -157,7 +157,7 @@
   {
    "title": "Vers une rencontre entre Donald Trump et Vladimir Poutine en Chine mi-novembre ?",
    "url": "https://fr.euronews.com/2026/10/05/les-exportations-de-petrole-du-moyen-orient-reviennent-a-leur-niveau-davant-guerre-sans-li",
-   "n_members": 412,
+   "n_members": 413,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.238,
    "blindspot_for": null,
-   "divergence": 0.267,
+   "divergence": 0.272,
    "category": "international",
    "terms_left": [
     "catastrophe ferroviaire",
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.286,
+   "divergence": 0.284,
    "category": "faits-divers",
    "terms_left": [
     "raciste",
@@ -240,8 +240,8 @@
    ],
    "terms_right": [
     "tirs",
-    "yvelines",
-    "ans"
+    "suspect",
+    "yvelines"
    ]
   },
   {
@@ -307,7 +307,7 @@
   {
    "title": "Un rassemblement contre le racisme et l'islamophobie ce vendredi à Trappes, une semaine après l'attentat",
    "url": "https://www.sudouest.fr/faits-divers/attaque-a-trappes-la-haine-tue-l-horreur-a-frappe-les-reactions-politiques-apres-la-fusillade-dans-les-yvelines-31207382.php",
-   "n_members": 137,
+   "n_members": 139,
    "n_sources": 32,
    "counts": {
     "left": 11,
@@ -321,16 +321,16 @@
    },
    "blindspot_score": -0.294,
    "blindspot_for": null,
-   "divergence": 0.249,
+   "divergence": 0.248,
    "category": "société",
    "terms_left": [
     "droite",
     "rendre",
-    "ville yvelines"
+    "raciste"
    ],
    "terms_right": [
-    "mort",
     "lieu",
+    "mort",
     "attentat terroriste"
    ]
   },
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.576,
+   "divergence": 0.577,
    "category": "politique",
    "terms_left": [
     "primaire",
@@ -425,39 +425,9 @@
    ]
   },
   {
-   "title": "Budget de la Sécurité sociale : face au blocage, l'exécutif hésite entre 49.3 et ordonnances",
-   "url": "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/laurent-nunez-promet-un-milliard-d-euros-supplementaire-sur-cinq-ans-pour-les-pompiers_8220361.html",
-   "n_members": 199,
-   "n_sources": 30,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 12
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 10,
-    "opinion": 5
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.33,
-   "category": "politique",
-   "terms_left": [
-    "motion",
-    "motion rejet",
-    "rejettent commission"
-   ],
-   "terms_right": [
-    "euros",
-    "milliards",
-    "qu"
-   ]
-  },
-  {
    "title": "Manifestations du 31 octobre: 70.000 personnes recensées à Paris ce samedi, annonce la préfecture de police",
    "url": "https://www.20minutes.fr/societe/greve/4256698-20261022-lance-greve-dimanche-comment-fixees-journees-mobilisations-syndicats",
-   "n_members": 185,
+   "n_members": 186,
    "n_sources": 30,
    "counts": {
     "left": 6,
@@ -471,17 +441,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.696,
+   "divergence": 0.698,
    "category": "société",
    "terms_left": [
     "intersyndicale",
-    "direct",
-    "grève"
+    "grève",
+    "direct"
    ],
    "terms_right": [
-    "troisième",
     "mobilisation sociale",
-    "fin"
+    "troisième",
+    "sociale"
    ]
   },
   {
@@ -596,12 +566,72 @@
    "terms_left": [
     "journalistes",
     "antisémitisme",
-    "presse pouvoir"
+    "pouvoir travailler"
    ],
    "terms_right": [
     "national",
     "jordan bardella",
     "rassemblement national"
+   ]
+  },
+  {
+   "title": "Piratage de la plateforme de cryptomonnaies Binance : le FBI accuse la Corée du Nord",
+   "url": "https://www.lemonde.fr/pixels/article/2026/10/28/piratage-du-site-des-impots-un-deuxieme-suspect-age-de-16-ans-mis-en-examen_6801643_4408996.html",
+   "n_members": 83,
+   "n_sources": 30,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 11,
+    "opinion": 2
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.219,
+   "category": "économie",
+   "terms_left": [
+    "pirates",
+    "plateforme cryptomonnaies",
+    "grand"
+   ],
+   "terms_right": [
+    "qu",
+    "massif",
+    "fonds"
+   ]
+  },
+  {
+   "title": "Budget de la Sécurité sociale : face au blocage, l'exécutif hésite entre 49.3 et ordonnances",
+   "url": "https://www.lefigaro.fr/economie/budget-bercy-evalue-a-10-milliards-d-euros-l-effort-des-entreprises-moitie-moins-que-le-medef-20261003",
+   "n_members": 199,
+   "n_sources": 29,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.33,
+   "category": "politique",
+   "terms_left": [
+    "motion",
+    "motion rejet",
+    "rejettent commission"
+   ],
+   "terms_right": [
+    "euros",
+    "milliards",
+    "qu"
    ]
   },
   {
@@ -621,47 +651,47 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.49,
+   "divergence": 0.528,
    "category": "société",
    "terms_left": [
+    "syndicats",
     "grève",
-    "cgt",
-    "syndicats"
+    "cgt"
    ],
    "terms_right": [
-    "journée",
-    "sécurité",
-    "dispositif sécurité"
+    "ministre",
+    "autorités",
+    "ministre intérieur"
    ]
   },
   {
-   "title": "Cryptomonnaies : Binance confirme une cyberattaque massive estimée à 6,3 milliards de dollars",
-   "url": "https://www.lemonde.fr/pixels/article/2026/10/28/piratage-du-site-des-impots-un-deuxieme-suspect-age-de-16-ans-mis-en-examen_6801643_4408996.html",
-   "n_members": 81,
+   "title": "Chances d'une vague démocrate, enjeu pour Donald Trump et pour 2028... L'article à lire pour tout comprendre aux midterms, les élections de mi-mandat aux Etats-Unis",
+   "url": "https://www.lefigaro.fr/international/le-moment-est-venu-marco-rubio-appelle-ceux-qui-veulent-un-changement-a-cuba-a-cooperer-avec-la-cia-20261024",
+   "n_members": 100,
    "n_sources": 29,
    "counts": {
-    "left": 6,
-    "centre": 13,
+    "left": 7,
+    "centre": 12,
     "right": 10
    },
    "style_counts": {
     "factuel": 16,
-    "mixte": 11,
-    "opinion": 2
+    "mixte": 8,
+    "opinion": 5
    },
-   "blindspot_score": 0.25,
+   "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.217,
-   "category": "économie",
+   "divergence": 0.495,
+   "category": "international",
    "terms_left": [
-    "plateforme cryptomonnaies",
-    "pirates",
-    "grand"
+    "etats-unis",
+    "incompétence",
+    "face"
    ],
    "terms_right": [
-    "qu",
-    "massif",
-    "fonds"
+    "états-unis",
+    "donald trump",
+    "donald"
    ]
   },
   {
@@ -695,36 +725,6 @@
    ]
   },
   {
-   "title": "« Midterms » aux États-Unis : pourquoi les républicains sont sur la défensive, jusque dans leurs bastions",
-   "url": "https://www.lefigaro.fr/international/le-moment-est-venu-marco-rubio-appelle-ceux-qui-veulent-un-changement-a-cuba-a-cooperer-avec-la-cia-20261024",
-   "n_members": 99,
-   "n_sources": 28,
-   "counts": {
-    "left": 7,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 8,
-    "opinion": 4
-   },
-   "blindspot_score": 0.125,
-   "blindspot_for": null,
-   "divergence": 0.499,
-   "category": "international",
-   "terms_left": [
-    "etats-unis",
-    "face",
-    "démocrates"
-   ],
-   "terms_right": [
-    "états-unis",
-    "donald trump",
-    "donald"
-   ]
-  },
-  {
    "title": "Manifestation du 31 octobre: le préfet de police de Paris va faire appel de la décision de justice de valider le parcours Bastille-Nation",
    "url": "https://www.lemonde.fr/politique/article/2026/10/27/attentat-de-trappes-la-gauche-en-ordre-disperse-dans-les-rassemblements-contre-le-racisme_6801088_823448.html",
    "n_members": 77,
@@ -741,7 +741,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.597,
+   "divergence": 0.608,
    "category": "politique",
    "terms_left": [
     "remigration",
@@ -806,7 +806,7 @@
    "terms_left": [
     "france",
     "racistes",
-    "rn"
+    "subi"
    ],
    "terms_right": [
     "placé",
@@ -831,7 +831,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.262,
+   "divergence": 0.263,
    "category": "faits-divers",
    "terms_left": [
     "retrouvés",
@@ -921,16 +921,16 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.578,
+   "divergence": 0.579,
    "category": "politique",
    "terms_left": [
     "trappes",
     "attentat",
-    "commission enquête"
+    "raciste"
    ],
    "terms_right": [
-    "monde",
     "rn",
+    "monde",
     "semaine"
    ]
   },
@@ -1003,23 +1003,23 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.257,
+   "divergence": 0.264,
    "category": "économie",
    "terms_left": [
-    "annonce",
     "qu",
-    "nouvelle"
+    "annonce",
+    "lagarde bce"
    ],
    "terms_right": [
-    "tête",
-    "france",
-    "présidentielle"
+    "lagarde quitter",
+    "quitter présidence",
+    "quitter"
    ]
   },
   {
    "title": "Colère sociale: l'Union étudiante appelle à \"bloquer les facs et les lycées dès mardi\"",
    "url": "https://www.sudradio.fr/societe/faure-ps-pour-interrompre-les-manifestations-il-suffit-de-repondre-aux-revendications",
-   "n_members": 83,
+   "n_members": 92,
    "n_sources": 26,
    "counts": {
     "left": 7,
@@ -1033,17 +1033,17 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.838,
+   "divergence": 0.795,
    "category": "société",
    "terms_left": [
     "mouvement",
-    "lycéen",
-    "mouvement lycéen"
+    "mouvement lycéen",
+    "lycéen"
    ],
    "terms_right": [
-    "sociale",
-    "lycées",
-    "semaine"
+    "universités",
+    "lycées universités",
+    "grève"
    ]
   },
   {
@@ -1063,17 +1063,17 @@
    },
    "blindspot_score": -0.286,
    "blindspot_for": null,
-   "divergence": 0.407,
+   "divergence": 0.409,
    "category": "culture",
    "terms_left": [
     "prix",
     "goncourt",
-    "grand"
+    "prix goncourt"
    ],
    "terms_right": [
     "roman thélyson",
     "écriture roman",
-    "ia"
+    "roman"
    ]
   },
   {
@@ -1123,7 +1123,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.855,
+   "divergence": 0.863,
    "category": "société",
    "terms_left": [
     "gouvernement",
@@ -1183,7 +1183,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.731,
+   "divergence": 0.73,
    "category": "économie",
    "terms_left": [
     "budgétaire",
