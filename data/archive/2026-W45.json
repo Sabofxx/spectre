@@ -1,6 +1,6 @@
 {
  "week": "2026-W45",
- "generated_at": "2026-11-05T01:35:09+00:00",
+ "generated_at": "2026-11-05T08:44:24+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -111,17 +111,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.371,
+   "divergence": 0.381,
    "category": "international",
    "terms_left": [
     "etats-unis",
-    "démocrate",
-    "direct"
+    "direct",
+    "camp"
    ],
    "terms_right": [
     "américains",
-    "pays",
-    "ans"
+    "ans",
+    "donald trump"
    ]
   },
   {
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.238,
    "blindspot_for": null,
-   "divergence": 0.282,
+   "divergence": 0.283,
    "category": "international",
    "terms_left": [
     "catastrophe ferroviaire",
@@ -157,7 +157,7 @@
   {
    "title": "Midterms 2026 : un \"tsunami bleu\" pour les démocrates et un revers cinglant pour Donald Trump",
    "url": "https://www.leparisien.fr/international/etats-unis/elections-americaines/donald-trump-evoque-le-fessier-diablement-magnifique-de-nicki-minaj-lors-dun-meeting-dans-le-michigan-25-10-2026-JUXCRMNK7VATBKZ6DSME2QIZ2E.php",
-   "n_members": 259,
+   "n_members": 263,
    "n_sources": 34,
    "counts": {
     "left": 8,
@@ -277,7 +277,7 @@
   {
    "title": "DIRECT. La colère des lycéens et étudiants ne redescend pas à la veille de la journée de mobilisation massive du 5 novembre",
    "url": "https://www.sudradio.fr/societe/faure-ps-pour-interrompre-les-manifestations-il-suffit-de-repondre-aux-revendications",
-   "n_members": 172,
+   "n_members": 180,
    "n_sources": 30,
    "counts": {
     "left": 8,
@@ -291,17 +291,47 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.599,
+   "divergence": 0.598,
    "category": "société",
    "terms_left": [
-    "jeunesse",
+    "monde",
     "mouvement lycéen",
-    "mouvement"
+    "jeunesse"
    ],
    "terms_right": [
-    "vacances",
     "manifestation",
-    "nouveau"
+    "colère",
+    "lycées"
+   ]
+  },
+  {
+   "title": "Manifestations du 5 novembre : la préfecture de police de Paris interdit le parcours Bastille-Concorde et propose République-Nation",
+   "url": "https://www.lemonde.fr/politique/article/2026/10/27/attentat-de-trappes-la-gauche-en-ordre-disperse-dans-les-rassemblements-contre-le-racisme_6801088_823448.html",
+   "n_members": 98,
+   "n_sources": 30,
+   "counts": {
+    "left": 9,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 11,
+    "opinion": 6
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.475,
+   "category": "politique",
+   "terms_left": [
+    "remigration",
+    "extrême",
+    "droite"
+   ],
+   "terms_right": [
+    "place",
+    "police paris",
+    "alternatif"
    ]
   },
   {
@@ -332,36 +362,6 @@
     "corée nord",
     "corée",
     "nord"
-   ]
-  },
-  {
-   "title": "Manifestations du 5 novembre : la préfecture de police de Paris interdit le parcours Bastille-Concorde et propose République-Nation",
-   "url": "https://www.lemonde.fr/politique/article/2026/10/27/attentat-de-trappes-la-gauche-en-ordre-disperse-dans-les-rassemblements-contre-le-racisme_6801088_823448.html",
-   "n_members": 90,
-   "n_sources": 30,
-   "counts": {
-    "left": 9,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 11,
-    "opinion": 6
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.554,
-   "category": "politique",
-   "terms_left": [
-    "remigration",
-    "droite",
-    "extrême"
-   ],
-   "terms_right": [
-    "place",
-    "nation",
-    "république"
    ]
   },
   {
@@ -411,17 +411,47 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.24,
+   "divergence": 0.241,
    "category": "économie",
    "terms_left": [
     "annonce",
-    "présidence banque",
-    "sujets"
+    "présidente",
+    "présidence banque"
    ],
    "terms_right": [
     "france",
     "emmanuel",
-    "christine lagarde"
+    "tête"
+   ]
+  },
+  {
+   "title": "Budget 2027 : l'Assemblée nationale rejette, à l'unanimité, la copie budgétaire modifiée",
+   "url": "https://www.rfi.fr/fr/afrique/20261024-s%C3%A9n%C3%A9gal-les-d%C3%A9put%C3%A9s-du-pastef-rejettent-la-loi-de-finances-rectificative-du-gouvernement",
+   "n_members": 91,
+   "n_sources": 27,
+   "counts": {
+    "left": 3,
+    "centre": 15,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.504,
+   "category": "politique",
+   "terms_left": [
+    "ordonnances",
+    "hémicycle",
+    "croissance"
+   ],
+   "terms_right": [
+    "rejeté",
+    "état",
+    "unanimité"
    ]
   },
   {
@@ -441,53 +471,23 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.743,
+   "divergence": 0.741,
    "category": "international",
    "terms_left": [
     "manifester",
-    "france",
-    "ministre"
+    "ministre",
+    "vie"
    ],
    "terms_right": [
     "manifestations",
     "jeunesse",
-    "enfants"
-   ]
-  },
-  {
-   "title": "Budget 2027 : à l’Assemblée nationale, le rejet attendu d’une copie budgétaire distordue et périmée",
-   "url": "https://www.rfi.fr/fr/afrique/20261024-s%C3%A9n%C3%A9gal-les-d%C3%A9put%C3%A9s-du-pastef-rejettent-la-loi-de-finances-rectificative-du-gouvernement",
-   "n_members": 83,
-   "n_sources": 26,
-   "counts": {
-    "left": 3,
-    "centre": 14,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.573,
-   "category": "politique",
-   "terms_left": [
-    "texte",
-    "ordonnances",
-    "colère"
-   ],
-   "terms_right": [
-    "état",
-    "unanimité",
-    "budget état"
+    "jeunesse allemande"
    ]
   },
   {
    "title": "Midterms : Trump concède la défaite et admet que la guerre en Iran est \"en partie\" responsable",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/geopolitique/geopolitique-du-samedi-31-octobre-2026-2034982",
-   "n_members": 69,
+   "n_members": 71,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -501,17 +501,17 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.644,
+   "divergence": 0.625,
    "category": "international",
    "terms_left": [
     "pétrole",
-    "déclaré",
-    "direct"
+    "vice-président",
+    "déclaré"
    ],
    "terms_right": [
     "défaite",
     "élections",
-    "donald trump"
+    "mi-mandat"
    ]
   },
   {
@@ -561,23 +561,23 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.485,
+   "divergence": 0.509,
    "category": "économie",
    "terms_left": [
     "baisser prix",
-    "moyenne",
-    "france"
+    "moitié",
+    "baisser"
    ],
    "terms_right": [
     "baisse",
-    "centimes",
-    "pompe"
+    "stratégiques",
+    "centimes"
    ]
   },
   {
    "title": "Présidentielle 2027 : vers une \"primaire des démocrates\" ? Gabriel Attal et Édouard Philippe s’opposent sur la question",
    "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-david-lisnard-de-nouveau-devant-bruno-retailleau-selon-notre-sondage-25-10-2026-YCUCGEBESVBQXEEFSSUQ2M5YTY.php",
-   "n_members": 111,
+   "n_members": 113,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.335,
+   "divergence": 0.339,
    "category": "politique",
    "terms_left": [
     "edouard philippe",
@@ -601,7 +601,7 @@
    "terms_right": [
     "primaire démocrates",
     "démocrates",
-    "idée"
+    "organisation"
    ]
   },
   {
@@ -621,7 +621,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.815,
+   "divergence": 0.816,
    "category": "société",
    "terms_left": [
     "rénovation",
@@ -630,14 +630,44 @@
    ],
    "terms_right": [
     "noël",
-    "dimanches",
-    "commerçants"
+    "commerçants",
+    "dimanches"
+   ]
+  },
+  {
+   "title": "EN DIRECT, midterms 2026 : les démocrates remportent la majorité des sièges au Sénat et à la Chambre des représentants",
+   "url": "https://www.courrierinternational.com/long-format/politique-le-michigan-va-t-il-elire-le-premier-senateur-musulman-des-etats-unis-abdul-el-sayed_280416",
+   "n_members": 77,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.566,
+   "category": "international",
+   "terms_left": [
+    "etat",
+    "démocrates",
+    "vote"
+   ],
+   "terms_right": [
+    "mi-mandat",
+    "élections mi-mandat",
+    "élections"
    ]
   },
   {
    "title": "Mouvement lycéen : où en est-on des blocus ?",
    "url": "https://www.challenges.fr/entreprise/medias/tiktok-centre-la-mobilisation-sur-les-likes-et-les-vues-apres-le-17-octobre-le-nouveau-role-ambigu-des-reseaux-sociaux_646647",
-   "n_members": 61,
+   "n_members": 62,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -665,31 +695,9 @@
    ]
   },
   {
-   "title": "Inde: des dizaines de milliers de manifestants contre la révision des listes électorales",
-   "url": "https://www.tf1info.fr/economie/videos/video-carburants-ou-paie-t-on-le-plus-cher-dans-le-monde-77288-2472140.html",
-   "n_members": 60,
-   "n_sources": 25,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.96,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
    "title": "« CNews est une machine de propagande » : la pétition demandant la suppression de la chaîne dépasse les 500 000 signatures",
    "url": "https://www.humanite.fr/medias/assemblee-nationale/une-petition-pour-la-fermeture-de-cnews-cartonne-sur-le-site-de-lassemblee-nationale",
-   "n_members": 60,
+   "n_members": 61,
    "n_sources": 25,
    "counts": {
     "left": 9,
@@ -713,13 +721,35 @@
    "terms_right": [
     "fermeture cnews",
     "pétition supprimer",
-    "pétition cnews"
+    "suppression cnews"
    ]
   },
   {
-   "title": "Blocage de lycées: Édouard Geffray évoque un mouvement \"résiduel\", mais alerte sur une \"année scolaire en risque\" pour de nombreux lycéens",
+   "title": "Inde: des dizaines de milliers de manifestants contre la révision des listes électorales",
+   "url": "https://www.tf1info.fr/economie/videos/video-carburants-ou-paie-t-on-le-plus-cher-dans-le-monde-77288-2472140.html",
+   "n_members": 60,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.96,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Blocages des lycées : à Lille, des élèves entre colère et inquiétude",
    "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/emmanuel-macron-recevra-les-organisations-lyceennes-vendredi-a-15heures-annonce-l-elysee_8249623.html",
-   "n_members": 121,
+   "n_members": 122,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -747,9 +777,9 @@
    ]
   },
   {
-   "title": "DIRECT. Procès de la \"martyre de l'A10\": les parents d'Inass jugés à Blois, 39 ans après la mort de leur fille",
+   "title": "Procès de la «martyre de l'A10» : la mère de la fillette prise à partie par des manifestants à Blois",
    "url": "https://www.ladepeche.fr/2026/10/28/recit-affaire-de-la-petite-martyre-de-la10-les-parents-dinass-la-fillette-retrouvee-morte-en-1987-vont-etre-juges-39-ans-apres-retour-sur-laffaire-en-13622231.php",
-   "n_members": 76,
+   "n_members": 79,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -763,47 +793,47 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.37,
+   "divergence": 0.387,
    "category": "société",
    "terms_left": [
     "inconnue",
-    "touloub ans",
+    "assises loir-et-cher",
     "petite inconnue"
    ],
    "terms_right": [
     "martyre",
-    "mort",
-    "fillette"
+    "fillette",
+    "faits"
    ]
   },
   {
-   "title": "EN DIRECT, midterms 2026 : les démocrates remportent la majorité des sièges au Sénat et à la Chambre des représentants",
-   "url": "https://www.courrierinternational.com/long-format/politique-le-michigan-va-t-il-elire-le-premier-senateur-musulman-des-etats-unis-abdul-el-sayed_280416",
-   "n_members": 75,
+   "title": "Manifestations du 5 novembre : la SNCF prévoit un trafic \"perturbé\" sur les liaisons TGV, Intercités et TER",
+   "url": "https://www.nicematin.com/societe/temoignage/vie-chere-varois-comment-etes-vous-impactes-a-quelques-jours-de-la-manifestation-du-5-novembre-vous-avez-la-parole-10752475",
+   "n_members": 69,
    "n_sources": 24,
    "counts": {
-    "left": 5,
+    "left": 7,
     "centre": 11,
-    "right": 8
+    "right": 6
    },
    "style_counts": {
-    "factuel": 15,
-    "mixte": 6,
-    "opinion": 3
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 2
    },
-   "blindspot_score": 0.231,
+   "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.567,
-   "category": "international",
+   "divergence": 0.619,
+   "category": "société",
    "terms_left": [
-    "etat",
-    "démocrates",
-    "sénat"
+    "intersyndicale",
+    "journée mobilisation",
+    "monde"
    ],
    "terms_right": [
-    "mi-mandat",
-    "élections mi-mandat",
-    "élections"
+    "lignes",
+    "trafic",
+    "tgv"
    ]
   },
   {
@@ -823,17 +853,47 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.389,
+   "divergence": 0.403,
    "category": "international",
    "terms_left": [
-    "ministre",
     "tribunal constitutionnel",
-    "constitutionnel"
+    "constitutionnel",
+    "tribunal"
    ],
    "terms_right": [
     "état",
     "pologne",
     "politique pologne"
+   ]
+  },
+  {
+   "title": "Quand et de combien augmenter le Smic ? Les deux questions sont \"sur la table\" du gouvernement",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/le-debat-d-on-n-arrete-pas-l-eco/le-debat-d-on-n-arrete-pas-l-eco-du-samedi-31-octobre-2026-2865366",
+   "n_members": 51,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.829,
+   "category": "économie",
+   "terms_left": [
+    "infertilité",
+    "rapport",
+    "femmes"
+   ],
+   "terms_right": [
+    "pouvoir",
+    "heures",
+    "ministre travail"
    ]
   },
   {
@@ -857,6 +917,36 @@
    "category": "économie",
    "terms_left": [],
    "terms_right": []
+  },
+  {
+   "title": "Cyberattaque : le Crédit Mutuel Arkéa victime d'opérations frauduleuses, des millions d'euros potentiellement détournés",
+   "url": "https://www.20minutes.fr/societe/4260219-20261104-cyberattaque-30-110-refrigerateurs-don-sang-pirates-tour",
+   "n_members": 46,
+   "n_sources": 24,
+   "counts": {
+    "left": 3,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.4,
+   "blindspot_for": null,
+   "divergence": 0.533,
+   "category": "économie",
+   "terms_left": [
+    "pirates",
+    "français sang",
+    "français"
+   ],
+   "terms_right": [
+    "mutuel arkéa",
+    "banque",
+    "crédit mutuel"
+   ]
   },
   {
    "title": "Cyberattaques : des supermarchés européens dénoncent des attaques informatiques",
@@ -935,7 +1025,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.38,
+   "divergence": 0.376,
    "category": "faits-divers",
    "terms_left": [
     "scolaire",
@@ -944,8 +1034,8 @@
    ],
    "terms_right": [
     "état",
-    "feu",
-    "sapeur-pompier"
+    "sapeur-pompier",
+    "feu"
    ]
   },
   {
@@ -965,23 +1055,23 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.714,
+   "divergence": 0.722,
    "category": "économie",
    "terms_left": [
     "week-end",
-    "manifestations",
-    "droite"
+    "qu",
+    "manifestations"
    ],
    "terms_right": [
-    "gaz",
     "euros",
+    "gaz",
     "colis"
    ]
   },
   {
-   "title": "Colère sociale en France : près de 5 000 gardes à vue et 329 incarcérations, Gérald Darmanin se félicite d'une réponse judiciaire \"extrêmement forte\"",
+   "title": "\"On dénonce ces outils de lutte contre le terrorisme\" : pourquoi les assignations à résidence prononcées contre des manifestants font polémique",
    "url": "https://information.tv5monde.com/environnement/video/indonesie-un-brouillard-toxique-etouffe-des-centaines-de-milliers-de-personnes-2843386",
-   "n_members": 56,
+   "n_members": 58,
    "n_sources": 23,
    "counts": {
     "left": 8,
@@ -995,47 +1085,17 @@
    },
    "blindspot_score": -0.333,
    "blindspot_for": null,
-   "divergence": 0.914,
+   "divergence": 0.916,
    "category": "société",
    "terms_left": [
     "indonésie",
-    "incendies",
-    "personnes"
+    "gouvernement",
+    "incendies"
    ],
    "terms_right": [
-    "violences",
     "manifestations",
+    "violences",
     "france"
-   ]
-  },
-  {
-   "title": "Quand et de combien augmenter le Smic ? Les deux questions sont \"sur la table\" du gouvernement",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/le-debat-d-on-n-arrete-pas-l-eco/le-debat-d-on-n-arrete-pas-l-eco-du-samedi-31-octobre-2026-2865366",
-   "n_members": 50,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.844,
-   "category": "économie",
-   "terms_left": [
-    "infertilité",
-    "rapport",
-    "sociale"
-   ],
-   "terms_right": [
-    "ministre travail",
-    "travail",
-    "ministre"
    ]
   },
   {
@@ -1055,7 +1115,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.418,
+   "divergence": 0.4,
    "category": "sport",
    "terms_left": [
     "charles",
@@ -1064,14 +1124,14 @@
    ],
    "terms_right": [
     "départ",
-    "bord",
-    "heures"
+    "ans",
+    "bord"
    ]
   },
   {
    "title": "DIRECT. Guerre en Ukraine : des négociateurs européens, américains et ukrainiens se réunissent à Bruxelles ce mercredi",
    "url": "https://www.tf1info.fr/international/videos/video-guerre-en-ukraine-50-miradors-entourent-la-villa-de-poutine-a-valdai-il-n-a-pas-seulement-peur-de-kiev-70490-2472012.html",
-   "n_members": 64,
+   "n_members": 66,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -1085,7 +1145,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.769,
+   "divergence": 0.77,
    "category": "international",
    "terms_left": [
     "attaques",
@@ -1125,67 +1185,7 @@
    "terms_right": [
     "israël",
     "donald",
-    "donald trump"
-   ]
-  },
-  {
-   "title": "Cyberattaque : le Crédit Mutuel Arkéa victime d'opérations frauduleuses, des millions d'euros potentiellement détournés",
-   "url": "https://www.20minutes.fr/societe/4260219-20261104-cyberattaque-30-110-refrigerateurs-don-sang-pirates-tour",
-   "n_members": 43,
-   "n_sources": 22,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.536,
-   "category": "économie",
-   "terms_left": [
-    "pirates",
-    "français sang",
-    "français"
-   ],
-   "terms_right": [
-    "mutuel arkéa",
-    "banque",
-    "crédit mutuel"
-   ]
-  },
-  {
-   "title": "Attentat raciste de Trappes : le suspect, Kévin Tessier, a tenté de se suicider en détention",
-   "url": "https://www.leparisien.fr/faits-divers/attentat-raciste-de-trappes-la-vie-derrance-de-kevin-t-entre-schizophrenie-et-solitude-26-10-2026-S2BKPI2DUNCUPK2JEC6XBVGH7Y.php",
-   "n_members": 39,
-   "n_sources": 22,
-   "counts": {
-    "left": 6,
-    "centre": 8,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 9,
-    "opinion": 4
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.635,
-   "category": "société",
-   "terms_left": [
-    "médias",
-    "revenu",
-    "droite"
-   ],
-   "terms_right": [
-    "yvelines",
-    "kévin",
-    "arme"
+    "législatives israël"
    ]
   }
  ]
