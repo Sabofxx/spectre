@@ -1,6 +1,6 @@
 {
  "week": "2026-W45",
- "generated_at": "2026-11-04T21:02:24+00:00",
+ "generated_at": "2026-11-05T01:35:09+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -67,7 +67,7 @@
   {
    "title": "Israël: le bloc d'opposition se réunit, Netanyahu revendique de mener le prochain gouvernement",
    "url": "https://www.humanite.fr/monde/benyamin-netanyahou/interdits-dinformer-israel-refuse-lentree-a-lenvoye-special-de-lhumanite",
-   "n_members": 336,
+   "n_members": 337,
    "n_sources": 35,
    "counts": {
     "left": 9,
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.368,
+   "divergence": 0.371,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -120,8 +120,8 @@
    ],
    "terms_right": [
     "américains",
-    "partie",
-    "pays"
+    "pays",
+    "ans"
    ]
   },
   {
@@ -157,26 +157,26 @@
   {
    "title": "Midterms 2026 : un \"tsunami bleu\" pour les démocrates et un revers cinglant pour Donald Trump",
    "url": "https://www.leparisien.fr/international/etats-unis/elections-americaines/donald-trump-evoque-le-fessier-diablement-magnifique-de-nicki-minaj-lors-dun-meeting-dans-le-michigan-25-10-2026-JUXCRMNK7VATBKZ6DSME2QIZ2E.php",
-   "n_members": 250,
-   "n_sources": 33,
+   "n_members": 259,
+   "n_sources": 34,
    "counts": {
     "left": 8,
     "centre": 14,
-    "right": 11
+    "right": 12
    },
    "style_counts": {
     "factuel": 17,
     "mixte": 11,
-    "opinion": 5
+    "opinion": 6
    },
-   "blindspot_score": 0.158,
+   "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.333,
+   "divergence": 0.317,
    "category": "international",
    "terms_left": [
-    "etats-unis",
     "direct",
-    "représentants"
+    "démocrate",
+    "etats-unis"
    ],
    "terms_right": [
     "américains",
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.597,
+   "divergence": 0.599,
    "category": "société",
    "terms_left": [
     "jeunesse",
@@ -337,7 +337,7 @@
   {
    "title": "Manifestations du 5 novembre : la préfecture de police de Paris interdit le parcours Bastille-Concorde et propose République-Nation",
    "url": "https://www.lemonde.fr/politique/article/2026/10/27/attentat-de-trappes-la-gauche-en-ordre-disperse-dans-les-rassemblements-contre-le-racisme_6801088_823448.html",
-   "n_members": 87,
+   "n_members": 90,
    "n_sources": 30,
    "counts": {
     "left": 9,
@@ -351,7 +351,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.601,
+   "divergence": 0.554,
    "category": "politique",
    "terms_left": [
     "remigration",
@@ -359,9 +359,9 @@
     "extrême"
    ],
    "terms_right": [
+    "place",
     "nation",
-    "république",
-    "mobilisation"
+    "république"
    ]
   },
   {
@@ -427,7 +427,7 @@
   {
    "title": "Manifestations en France : vers la fin du droit de défiler en centre-ville ?",
    "url": "https://www.nicematin.com/economie/commerce/fermetures-inquietudes-organisation-comment-les-commercants-de-cette-rue-de-nice-se-preparent-a-la-manifestation-de-ce-samedi-31-octobre-2026-10748589",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -455,6 +455,66 @@
    ]
   },
   {
+   "title": "Budget 2027 : à l’Assemblée nationale, le rejet attendu d’une copie budgétaire distordue et périmée",
+   "url": "https://www.rfi.fr/fr/afrique/20261024-s%C3%A9n%C3%A9gal-les-d%C3%A9put%C3%A9s-du-pastef-rejettent-la-loi-de-finances-rectificative-du-gouvernement",
+   "n_members": 83,
+   "n_sources": 26,
+   "counts": {
+    "left": 3,
+    "centre": 14,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.573,
+   "category": "politique",
+   "terms_left": [
+    "texte",
+    "ordonnances",
+    "colère"
+   ],
+   "terms_right": [
+    "état",
+    "unanimité",
+    "budget état"
+   ]
+  },
+  {
+   "title": "Midterms : Trump concède la défaite et admet que la guerre en Iran est \"en partie\" responsable",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/geopolitique/geopolitique-du-samedi-31-octobre-2026-2034982",
+   "n_members": 69,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.644,
+   "category": "international",
+   "terms_left": [
+    "pétrole",
+    "déclaré",
+    "direct"
+   ],
+   "terms_right": [
+    "défaite",
+    "élections",
+    "donald trump"
+   ]
+  },
+  {
    "title": "Fâché contre TF1 et l’interview de Philippe, Mélenchon annule un passage au 20H",
    "url": "https://www.sudradio.fr/politique/melenchon-insulte-t-il-35-millions-de-proprietaires-en-france",
    "n_members": 66,
@@ -471,7 +531,7 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.769,
+   "divergence": 0.77,
    "category": "politique",
    "terms_left": [
     "interview",
@@ -482,36 +542,6 @@
     "mélenchon",
     "jean-luc mélenchon",
     "jean-luc"
-   ]
-  },
-  {
-   "title": "Midterms : Trump concède la défaite et admet que la guerre en Iran est \"en partie\" responsable",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/geopolitique/geopolitique-du-samedi-31-octobre-2026-2034982",
-   "n_members": 66,
-   "n_sources": 26,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.286,
-   "blindspot_for": null,
-   "divergence": 0.638,
-   "category": "international",
-   "terms_left": [
-    "pétrole",
-    "déclaré",
-    "jour"
-   ],
-   "terms_right": [
-    "défaite",
-    "élections",
-    "démocrate"
    ]
   },
   {
@@ -531,7 +561,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.486,
+   "divergence": 0.485,
    "category": "économie",
    "terms_left": [
     "baisser prix",
@@ -547,7 +577,7 @@
   {
    "title": "Présidentielle 2027 : vers une \"primaire des démocrates\" ? Gabriel Attal et Édouard Philippe s’opposent sur la question",
    "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-david-lisnard-de-nouveau-devant-bruno-retailleau-selon-notre-sondage-25-10-2026-YCUCGEBESVBQXEEFSSUQ2M5YTY.php",
-   "n_members": 110,
+   "n_members": 111,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -561,7 +591,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.34,
+   "divergence": 0.335,
    "category": "politique",
    "terms_left": [
     "edouard philippe",
@@ -621,7 +651,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.657,
+   "divergence": 0.656,
    "category": "société",
    "terms_left": [
     "cours",
@@ -719,7 +749,7 @@
   {
    "title": "DIRECT. Procès de la \"martyre de l'A10\": les parents d'Inass jugés à Blois, 39 ans après la mort de leur fille",
    "url": "https://www.ladepeche.fr/2026/10/28/recit-affaire-de-la-petite-martyre-de-la10-les-parents-dinass-la-fillette-retrouvee-morte-en-1987-vont-etre-juges-39-ans-apres-retour-sur-laffaire-en-13622231.php",
-   "n_members": 75,
+   "n_members": 76,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -733,12 +763,12 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.373,
+   "divergence": 0.37,
    "category": "société",
    "terms_left": [
     "inconnue",
     "touloub ans",
-    "effondrements rue"
+    "petite inconnue"
    ],
    "terms_right": [
     "martyre",
@@ -793,7 +823,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.388,
+   "divergence": 0.389,
    "category": "international",
    "terms_left": [
     "ministre",
@@ -831,7 +861,7 @@
   {
    "title": "Cyberattaques : des supermarchés européens dénoncent des attaques informatiques",
    "url": "https://www.liberation.fr/international/europe/piratage-de-frigos-apres-la-france-et-les-etats-unis-des-dizaines-de-supermarches-touches-en-suede-et-en-belgique-20261102_BZIZVKQNMNDZLLZGLO7CDCY3VE/",
-   "n_members": 42,
+   "n_members": 43,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -849,8 +879,8 @@
    "category": "international",
    "terms_left": [
     "nuit",
-    "cyberattaque",
-    "réfrigérateurs"
+    "réfrigérateurs",
+    "cyberattaque"
    ],
    "terms_right": [
     "enseignes",
@@ -935,7 +965,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.715,
+   "divergence": 0.714,
    "category": "économie",
    "terms_left": [
     "week-end",
@@ -946,6 +976,36 @@
     "gaz",
     "euros",
     "colis"
+   ]
+  },
+  {
+   "title": "Colère sociale en France : près de 5 000 gardes à vue et 329 incarcérations, Gérald Darmanin se félicite d'une réponse judiciaire \"extrêmement forte\"",
+   "url": "https://information.tv5monde.com/environnement/video/indonesie-un-brouillard-toxique-etouffe-des-centaines-de-milliers-de-personnes-2843386",
+   "n_members": 56,
+   "n_sources": 23,
+   "counts": {
+    "left": 8,
+    "centre": 11,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": -0.333,
+   "blindspot_for": null,
+   "divergence": 0.914,
+   "category": "société",
+   "terms_left": [
+    "indonésie",
+    "incendies",
+    "personnes"
+   ],
+   "terms_right": [
+    "violences",
+    "manifestations",
+    "france"
    ]
   },
   {
@@ -995,7 +1055,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.421,
+   "divergence": 0.418,
    "category": "sport",
    "terms_left": [
     "charles",
@@ -1004,8 +1064,8 @@
    ],
    "terms_right": [
     "départ",
-    "heures",
-    "bord"
+    "bord",
+    "heures"
    ]
   },
   {
@@ -1055,47 +1115,17 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.558,
+   "divergence": 0.562,
    "category": "international",
    "terms_left": [
     "qu",
     "pouvoir",
-    "partis arabes"
+    "historique"
    ],
    "terms_right": [
-    "législatives israël",
     "israël",
-    "donald"
-   ]
-  },
-  {
-   "title": "Colère sociale en France : près de 5 000 gardes à vue et 329 incarcérations, Gérald Darmanin se félicite d'une réponse judiciaire \"extrêmement forte\"",
-   "url": "https://www.nicematin.com/societe/securite/acte-iii-contre-la-vie-chere-a-toulon-le-prefet-maintient-de-fortes-interdictions-mais-autorise-une-manifestation-ce-samedi-31-octobre-2026-10748580",
-   "n_members": 43,
-   "n_sources": 22,
-   "counts": {
-    "left": 7,
-    "centre": 11,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": -0.273,
-   "blindspot_for": null,
-   "divergence": 0.925,
-   "category": "société",
-   "terms_left": [
-    "résidence",
-    "manifester",
-    "dénoncent"
-   ],
-   "terms_right": [
-    "manifestations",
-    "violences",
-    "france"
+    "donald",
+    "donald trump"
    ]
   },
   {
@@ -1115,7 +1145,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.535,
+   "divergence": 0.536,
    "category": "économie",
    "terms_left": [
     "pirates",
@@ -1131,7 +1161,7 @@
   {
    "title": "Attentat raciste de Trappes : le suspect, Kévin Tessier, a tenté de se suicider en détention",
    "url": "https://www.leparisien.fr/faits-divers/attentat-raciste-de-trappes-la-vie-derrance-de-kevin-t-entre-schizophrenie-et-solitude-26-10-2026-S2BKPI2DUNCUPK2JEC6XBVGH7Y.php",
-   "n_members": 37,
+   "n_members": 39,
    "n_sources": 22,
    "counts": {
     "left": 6,
@@ -1145,7 +1175,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.634,
+   "divergence": 0.635,
    "category": "société",
    "terms_left": [
     "médias",
@@ -1156,36 +1186,6 @@
     "yvelines",
     "kévin",
     "arme"
-   ]
-  },
-  {
-   "title": "En Ukraine, des habitants d'Olechky retrouvent leurs proches après avoir été évacués",
-   "url": "https://fr.euronews.com/2026/10/19/la-france-affronte-les-consequences-dun-week-end-de-violences",
-   "n_members": 142,
-   "n_sources": 21,
-   "counts": {
-    "left": 2,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 5,
-    "opinion": 2
-   },
-   "blindspot_score": 0.556,
-   "blindspot_for": null,
-   "divergence": 0.563,
-   "category": "international",
-   "terms_left": [
-    "ukraine habitants",
-    "évacués",
-    "direct"
-   ],
-   "terms_right": [
-    "trump",
-    "donald trump",
-    "donald"
    ]
   }
  ]
