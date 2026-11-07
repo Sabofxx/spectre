@@ -1,6 +1,6 @@
 {
  "week": "2026-W45",
- "generated_at": "2026-11-06T22:32:26+00:00",
+ "generated_at": "2026-11-07T02:15:49+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.13,
    "blindspot_for": null,
-   "divergence": 0.322,
+   "divergence": 0.316,
    "category": "international",
    "terms_left": [
     "direct",
     "etats-unis",
-    "démocrate"
+    "démocratie"
    ],
    "terms_right": [
     "donald trump",
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.383,
+   "divergence": 0.384,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -187,7 +187,7 @@
   {
    "title": "DIRECT. La colère des lycéens et étudiants ne redescend pas à la veille de la journée de mobilisation massive du 5 novembre",
    "url": "https://www.sudradio.fr/societe/faure-ps-pour-interrompre-les-manifestations-il-suffit-de-repondre-aux-revendications",
-   "n_members": 213,
+   "n_members": 214,
    "n_sources": 33,
    "counts": {
     "left": 8,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.059,
    "blindspot_for": null,
-   "divergence": 0.554,
+   "divergence": 0.553,
    "category": "société",
    "terms_left": [
     "mouvement lycéen",
@@ -209,9 +209,9 @@
     "intersyndicale"
    ],
    "terms_right": [
-    "colère",
     "colère sociale",
-    "personnes"
+    "personnes",
+    "colère"
    ]
   },
   {
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.658,
+   "divergence": 0.647,
    "category": "international",
    "terms_left": [
     "midterms",
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.232,
+   "divergence": 0.231,
    "category": "international",
    "terms_left": [
     "cryptomonnaies binance",
@@ -457,7 +457,7 @@
   {
    "title": "Douze vols visés par de nouvelles alertes à la bombe en Europe, un avion dérouté sur Evreux",
    "url": "https://www.liberation.fr/international/europe/quatre-vols-europeens-en-provenance-de-londres-copenhague-manchester-et-israel-vises-par-des-alertes-a-la-bombe-20261103_AAHGIUN5WRCPTATPYIDBOMCX5Q/",
-   "n_members": 90,
+   "n_members": 91,
    "n_sources": 30,
    "counts": {
     "left": 5,
@@ -621,7 +621,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.738,
+   "divergence": 0.739,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -801,7 +801,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.356,
+   "divergence": 0.355,
    "category": "politique",
    "terms_left": [
     "edouard philippe",
@@ -811,7 +811,7 @@
    "terms_right": [
     "primaire démocrates",
     "démocrates",
-    "bruno retailleau"
+    "organisation"
    ]
   },
   {
@@ -831,12 +831,12 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.61,
+   "divergence": 0.609,
    "category": "international",
    "terms_left": [
-    "démocrates",
     "sénat",
-    "parti"
+    "démocrates",
+    "donald"
    ],
    "terms_right": [
     "mi-mandat",
@@ -897,6 +897,36 @@
    "terms_right": []
   },
   {
+   "title": "Présidentielle 2027 : une majorité des députés communistes tourne le dos à Fabien Roussel pour Jean-Luc Mélenchon",
+   "url": "https://www.humanite.fr/politique/amf/les-maires-communistes-demandent-le-retrait-de-david-lisnard-a-la-presidence-de-lamf-la-pression-saccentue-sur-le-candidat-a-lelection-presidentielle",
+   "n_members": 60,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 5
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.633,
+   "category": "politique",
+   "terms_left": [
+    "groupe",
+    "communistes",
+    "assemblée"
+   ],
+   "terms_right": [
+    "david lisnard",
+    "david",
+    "lisnard"
+   ]
+  },
+  {
    "title": "\"Face à la colère sociale\", le gouvernement envisage la hausse du smic",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-debat-d-on-n-arrete-pas-l-eco/le-debat-d-on-n-arrete-pas-l-eco-du-samedi-31-octobre-2026-2865366",
    "n_members": 58,
@@ -927,9 +957,9 @@
    ]
   },
   {
-   "title": "Attentat raciste à Trappes : le suspect a tenté de se suicider en détention",
+   "title": "Attentat raciste à Trappes : Le suspect Kévin T. aurait tenté de se suicider en prison",
    "url": "https://www.leparisien.fr/faits-divers/attentat-raciste-de-trappes-la-vie-derrance-de-kevin-t-entre-schizophrenie-et-solitude-26-10-2026-S2BKPI2DUNCUPK2JEC6XBVGH7Y.php",
-   "n_members": 54,
+   "n_members": 55,
    "n_sources": 25,
    "counts": {
     "left": 6,
@@ -943,12 +973,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.609,
+   "divergence": 0.601,
    "category": "société",
    "terms_left": [
+    "trappes",
     "droite",
-    "grand",
-    "rn"
+    "grand"
    ],
    "terms_right": [
     "kévin",
@@ -1047,39 +1077,9 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : Emmanuel Macron en faveur d'une «coalition» de Raphaël Glucksmann à David Lisnard pour éviter un second tour entre LFI et le RN",
-   "url": "https://www.humanite.fr/politique/amf/les-maires-communistes-demandent-le-retrait-de-david-lisnard-a-la-presidence-de-lamf-la-pression-saccentue-sur-le-candidat-a-lelection-presidentielle",
-   "n_members": 59,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 5,
-    "opinion": 5
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.642,
-   "category": "politique",
-   "terms_left": [
-    "groupe",
-    "jean-luc",
-    "jean-luc mélenchon"
-   ],
-   "terms_right": [
-    "david lisnard",
-    "david",
-    "lisnard"
-   ]
-  },
-  {
    "title": "Les cadres confrontés à une baisse inédite de leur pouvoir d'achat depuis 2010, selon l'APEC",
    "url": "https://www.nicematin.com/conso/l-acceleration-de-la-transition-vers-l-electrique-tirees-par-l-electrique-les-ventes-de-voitures-neuves-en-france-progressent-de-7-en-octobre-10750891",
-   "n_members": 54,
+   "n_members": 55,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -1093,7 +1093,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.731,
+   "divergence": 0.728,
    "category": "économie",
    "terms_left": [
     "prix",
@@ -1159,33 +1159,33 @@
    "terms_right": []
   },
   {
-   "title": "EN DIRECT, guerre en Ukraine : un entrepôt d’e-commerce russe visé par une attaque de drones ukrainiens",
-   "url": "https://www.courrierinternational.com/article/justice-sabotage-de-nord-stream-l-allemagne-suspendue-au-debut-du-proces-d-un-ex-officier-ukrainien_278292",
-   "n_members": 113,
-   "n_sources": 23,
+   "title": "Etats-Unis : le gouverneur de Californie Gavin Newsom commue les peines de 548 détenus du couloir de la mort",
+   "url": "https://www.lemonde.fr/economie/article/2026/10/23/mark-zuckerberg-restera-en-californie-meme-en-cas-d-impot-sur-la-fortune_6798940_3234.html",
+   "n_members": 40,
+   "n_sources": 24,
    "counts": {
-    "left": 4,
-    "centre": 15,
-    "right": 4
+    "left": 6,
+    "centre": 10,
+    "right": 8
    },
    "style_counts": {
-    "factuel": 17,
-    "mixte": 4,
-    "opinion": 2
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 4
    },
-   "blindspot_score": 0.0,
+   "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.622,
+   "divergence": 0.499,
    "category": "international",
    "terms_left": [
-    "guerre ukraine",
-    "direct",
-    "attaque"
+    "milliardaires",
+    "californie",
+    "proposition"
    ],
    "terms_right": [
-    "frappe",
-    "russe",
-    "zelensky"
+    "qu",
+    "veut",
+    "nouveau"
    ]
   }
  ]
