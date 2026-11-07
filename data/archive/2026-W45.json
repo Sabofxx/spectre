@@ -1,6 +1,6 @@
 {
  "week": "2026-W45",
- "generated_at": "2026-11-07T19:33:34+00:00",
+ "generated_at": "2026-11-07T23:15:58+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -35,9 +35,9 @@
    ]
   },
   {
-   "title": "Edition spéciale résultats des midterms : les Etats-Unis déçus par Trump",
+   "title": "Midterms 2026 : la défaite de Trump en 5 chiffres",
    "url": "https://www.leparisien.fr/international/etats-unis/elections-americaines/donald-trump-evoque-le-fessier-diablement-magnifique-de-nicki-minaj-lors-dun-meeting-dans-le-michigan-25-10-2026-JUXCRMNK7VATBKZ6DSME2QIZ2E.php",
-   "n_members": 302,
+   "n_members": 303,
    "n_sources": 38,
    "counts": {
     "left": 10,
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.13,
    "blindspot_for": null,
-   "divergence": 0.385,
+   "divergence": 0.386,
    "category": "international",
    "terms_left": [
     "démocrate",
-    "midterms",
-    "direct"
+    "direct",
+    "midterms"
    ],
    "terms_right": [
     "donald trump",
@@ -97,7 +97,7 @@
   {
    "title": "Israël: Benjamin Netanyahu menacé, le centriste Gadi Eisenkot pourrait mener le futur gouvernement",
    "url": "https://www.humanite.fr/monde/benyamin-netanyahou/interdits-dinformer-israel-refuse-lentree-a-lenvoye-special-de-lhumanite",
-   "n_members": 362,
+   "n_members": 375,
    "n_sources": 35,
    "counts": {
     "left": 9,
@@ -111,17 +111,17 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.291,
+   "divergence": 0.284,
    "category": "international",
    "terms_left": [
     "elections",
-    "arabes",
-    "israël benyamin"
+    "israël benyamin",
+    "droite"
    ],
    "terms_right": [
+    "benjamin",
     "netanyahu",
-    "netanyahou",
-    "élections législatives"
+    "netanyahou"
    ]
   },
   {
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.385,
+   "divergence": 0.39,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.64,
+   "divergence": 0.639,
    "category": "international",
    "terms_left": [
     "midterms",
@@ -291,17 +291,17 @@
    },
    "blindspot_score": -0.125,
    "blindspot_for": null,
-   "divergence": 0.635,
+   "divergence": 0.649,
    "category": "société",
    "terms_left": [
     "direct",
-    "intersyndicale",
-    "million"
+    "million",
+    "intersyndicale"
    ],
    "terms_right": [
-    "fonctionnaires",
-    "salariés fonctionnaires",
-    "concrètes"
+    "grève",
+    "sncf",
+    "salariés"
    ]
   },
   {
@@ -351,17 +351,17 @@
    },
    "blindspot_score": 0.6,
    "blindspot_for": "gauche",
-   "divergence": 0.484,
+   "divergence": 0.456,
    "category": "politique",
    "terms_left": [
     "taxe",
     "budgétaire",
-    "surtaxe"
+    "groupes"
    ],
    "terms_right": [
     "rejeté",
     "partie",
-    "recettes"
+    "rejet"
    ]
   },
   {
@@ -441,7 +441,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.487,
+   "divergence": 0.507,
    "category": "politique",
    "terms_left": [
     "remigration",
@@ -450,14 +450,14 @@
    ],
    "terms_right": [
     "mobilisation",
-    "alternatif",
-    "itinéraire"
+    "manifestations",
+    "parisien"
    ]
   },
   {
    "title": "Douze vols visés par de nouvelles alertes à la bombe en Europe, un avion dérouté sur Evreux",
    "url": "https://www.liberation.fr/international/europe/quatre-vols-europeens-en-provenance-de-londres-copenhague-manchester-et-israel-vises-par-des-alertes-a-la-bombe-20261103_AAHGIUN5WRCPTATPYIDBOMCX5Q/",
-   "n_members": 99,
+   "n_members": 100,
    "n_sources": 30,
    "counts": {
     "left": 5,
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.295,
+   "divergence": 0.291,
    "category": "international",
    "terms_left": [
     "sait",
@@ -481,7 +481,7 @@
    "terms_right": [
     "rome",
     "aérienne",
-    "base aérienne"
+    "enquête"
    ]
   },
   {
@@ -501,7 +501,7 @@
    },
    "blindspot_score": -0.059,
    "blindspot_for": null,
-   "divergence": 0.093,
+   "divergence": 0.094,
    "category": "culture",
    "terms_left": [
     "prix goncourt",
@@ -545,6 +545,36 @@
    ]
   },
   {
+   "title": "DIRECT. Présidentielle: le meeting de La France insoumise commence au Bourget, le discours de Jean-Luc Mélenchon attendu vers 16h45",
+   "url": "https://www.leprogres.fr/politique/2026/10/27/l-ex-candidat-rn-alexandre-dupalais-appelle-a-l-interdiction-d-une-conference-de-raphael-arnault-dans-le-8e",
+   "n_members": 95,
+   "n_sources": 28,
+   "counts": {
+    "left": 8,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 10,
+    "opinion": 5
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.676,
+   "category": "politique",
+   "terms_left": [
+    "guetté",
+    "clémence",
+    "clémence guetté"
+   ],
+   "terms_right": [
+    "candidat",
+    "présidentielle",
+    "mois"
+   ]
+  },
+  {
    "title": "Cyberattaque au Crédit Mutuel Arkéa : La banque française évalue ses pertes à plus de 100 millions d’euros",
    "url": "https://www.20minutes.fr/societe/4260219-20261104-cyberattaque-30-110-refrigerateurs-don-sang-pirates-tour",
    "n_members": 58,
@@ -561,17 +591,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.337,
+   "divergence": 0.334,
    "category": "économie",
    "terms_left": [
     "cyberattaque crédit",
-    "français sang",
-    "explique"
+    "français",
+    "français sang"
    ],
    "terms_right": [
     "mutuel arkéa",
     "arkéa",
-    "victime"
+    "crédit mutuel"
    ]
   },
   {
@@ -591,53 +621,23 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.629,
+   "divergence": 0.638,
    "category": "international",
    "terms_left": [
     "fin",
-    "israël",
-    "direct"
+    "direct",
+    "aide"
    ],
    "terms_right": [
     "élections",
-    "donald trump",
-    "donald"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : Jean-Luc Mélenchon en meeting au Bourget, jusqu'à 20.000 personnes attendues",
-   "url": "https://www.leprogres.fr/politique/2026/10/27/l-ex-candidat-rn-alexandre-dupalais-appelle-a-l-interdiction-d-une-conference-de-raphael-arnault-dans-le-8e",
-   "n_members": 77,
-   "n_sources": 27,
-   "counts": {
-    "left": 7,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 5
-   },
-   "blindspot_score": 0.067,
-   "blindspot_for": null,
-   "divergence": 0.618,
-   "category": "politique",
-   "terms_left": [
-    "clémence guetté",
-    "guetté",
-    "clémence"
-   ],
-   "terms_right": [
-    "bourget",
-    "bouamrane",
+    "guerre iran",
     "guerre"
    ]
   },
   {
-   "title": "Édouard Philippe: derrière la polémique, le long flirt d’Horizons avec l’extrême droite",
+   "title": "Présidentielle : Mélenchon balaie l'offre de débat de Philippe sur le «racisme» et l'«antisémitisme»",
    "url": "https://www.sudradio.fr/politique/melenchon-insulte-t-il-35-millions-de-proprietaires-en-france",
-   "n_members": 71,
+   "n_members": 72,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -651,7 +651,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.708,
+   "divergence": 0.702,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -741,7 +741,7 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.645,
+   "divergence": 0.644,
    "category": "société",
    "terms_left": [
     "établissements",
@@ -757,7 +757,7 @@
   {
    "title": "Présidentielle 2027. La majorité des communistes à l'Assemblée soutient Jean-Luc Mélenchon plutôt que Fabien Roussel",
    "url": "https://www.humanite.fr/politique/amf/les-maires-communistes-demandent-le-retrait-de-david-lisnard-a-la-presidence-de-lamf-la-pression-saccentue-sur-le-candidat-a-lelection-presidentielle",
-   "n_members": 80,
+   "n_members": 82,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -771,7 +771,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.549,
+   "divergence": 0.547,
    "category": "politique",
    "terms_left": [
     "pcf",
@@ -781,7 +781,7 @@
    "terms_right": [
     "david lisnard",
     "david",
-    "lisnard"
+    "raphaël glucksmann"
    ]
   },
   {
@@ -845,9 +845,9 @@
    ]
   },
   {
-   "title": "Présidentielle 2027: Gabriel Attal, candidat Renaissance, affirme que la primaire du bloc central \"aura lieu\"",
+   "title": "«On ne peut pas vouloir faire une course et rester à l'écurie» : Bruno Retailleau presse Édouard Philippe d'accepter une primaire",
    "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-david-lisnard-de-nouveau-devant-bruno-retailleau-selon-notre-sondage-25-10-2026-YCUCGEBESVBQXEEFSSUQ2M5YTY.php",
-   "n_members": 125,
+   "n_members": 126,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -901,7 +901,7 @@
    "terms_right": [
     "états-unis",
     "élections",
-    "mi-mandat"
+    "ia"
    ]
   },
   {
@@ -951,7 +951,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.79,
+   "divergence": 0.791,
    "category": "économie",
    "terms_left": [
     "sociale",
@@ -1003,12 +1003,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.593,
+   "divergence": 0.584,
    "category": "société",
    "terms_left": [
     "droite",
-    "gouvernement",
-    "grand"
+    "grand",
+    "rn"
    ],
    "terms_right": [
     "kévin",
@@ -1017,9 +1017,9 @@
    ]
   },
   {
-   "title": "Baromètre de la CFDT : un français sur deux dit avoir des difficultés financières et a du mal à vivre dignement",
+   "title": "Pouvoir d'achat : 85 % des Français pensent s'être appauvris en dix ans malgré les chiffres de l'Insee",
    "url": "https://www.franceinfo.fr/economie/pouvoir-achat/trois-francais-sur-quatre-jugent-le-cout-du-chauffage-au-gaz-trop-eleve-selon-un-sondage-de-que-choisir-ensemble_8262911.html",
-   "n_members": 41,
+   "n_members": 42,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -1033,17 +1033,17 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.74,
+   "divergence": 0.741,
    "category": "économie",
    "terms_left": [
     "baromètre",
-    "pouvoir vivre",
-    "vivre"
+    "vivre",
+    "pouvoir vivre"
    ],
    "terms_right": [
     "euros",
-    "français",
-    "france"
+    "santé",
+    "sondage"
    ]
   },
   {
@@ -1063,23 +1063,23 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.438,
+   "divergence": 0.449,
    "category": "société",
    "terms_left": [
     "inconnue",
     "petite",
-    "mère"
+    "cour"
    ],
    "terms_right": [
     "martyre",
     "ouvre",
-    "procès"
+    "parents"
    ]
   },
   {
    "title": "Manifestation du 5 novembre: 1,6 million de manifestants d'après la CGT, 575.000 selon le ministère de l'Intérieur",
    "url": "https://information.tv5monde.com/environnement/video/indonesie-un-brouillard-toxique-etouffe-des-centaines-de-milliers-de-personnes-2843386",
-   "n_members": 71,
+   "n_members": 74,
    "n_sources": 24,
    "counts": {
     "left": 8,
@@ -1093,7 +1093,7 @@
    },
    "blindspot_score": -0.333,
    "blindspot_for": null,
-   "divergence": 0.855,
+   "divergence": 0.85,
    "category": "société",
    "terms_left": [
     "incendies",
@@ -1102,8 +1102,8 @@
    ],
    "terms_right": [
     "france",
-    "ministère intérieur",
-    "ministère"
+    "ministère",
+    "ministère intérieur"
    ]
   },
   {
@@ -1123,7 +1123,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.385,
+   "divergence": 0.386,
    "category": "international",
    "terms_left": [
     "constitutionnel cœur",
@@ -1139,7 +1139,7 @@
   {
    "title": "Les cadres confrontés à une baisse inédite de leur pouvoir d'achat depuis 2010, selon l'APEC",
    "url": "https://www.nicematin.com/conso/l-acceleration-de-la-transition-vers-l-electrique-tirees-par-l-electrique-les-ventes-de-voitures-neuves-en-france-progressent-de-7-en-octobre-10750891",
-   "n_members": 58,
+   "n_members": 59,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -1153,7 +1153,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.69,
+   "divergence": 0.687,
    "category": "économie",
    "terms_left": [
     "prix",
