@@ -1,6 +1,6 @@
 {
  "week": "2026-W45",
- "generated_at": "2026-11-08T09:43:34+00:00",
+ "generated_at": "2026-11-08T16:28:55+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -35,9 +35,9 @@
    ]
   },
   {
-   "title": "Midterms 2026 : la défaite de Trump en 5 chiffres",
+   "title": "Midterms 2026 : Donald Trump estime que « l’Amérique a fait un gigantesque pas en arrière dans l’histoire » avec la victoire des démocrates",
    "url": "https://www.leparisien.fr/international/etats-unis/elections-americaines/donald-trump-evoque-le-fessier-diablement-magnifique-de-nicki-minaj-lors-dun-meeting-dans-le-michigan-25-10-2026-JUXCRMNK7VATBKZ6DSME2QIZ2E.php",
-   "n_members": 304,
+   "n_members": 311,
    "n_sources": 38,
    "counts": {
     "left": 10,
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.13,
    "blindspot_for": null,
-   "divergence": 0.384,
+   "divergence": 0.366,
    "category": "international",
    "terms_left": [
     "démocrate",
     "direct",
-    "midterms victoire"
+    "midterms"
    ],
    "terms_right": [
     "donald trump",
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.048,
    "blindspot_for": null,
-   "divergence": 0.256,
+   "divergence": 0.257,
    "category": "société",
    "terms_left": [
     "racisme",
@@ -95,9 +95,9 @@
    ]
   },
   {
-   "title": "Israël: Benjamin Netanyahu menacé, le centriste Gadi Eisenkot pourrait mener le futur gouvernement",
+   "title": "Israël : l'ancien chef d'état-major Gadi Eisenkot chargé de former le gouvernement",
    "url": "https://www.humanite.fr/monde/benyamin-netanyahou/interdits-dinformer-israel-refuse-lentree-a-lenvoye-special-de-lhumanite",
-   "n_members": 384,
+   "n_members": 395,
    "n_sources": 35,
    "counts": {
     "left": 9,
@@ -111,12 +111,12 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.278,
+   "divergence": 0.275,
    "category": "international",
    "terms_left": [
     "elections",
-    "opposition",
-    "arabes"
+    "israël benyamin",
+    "knesset"
    ],
    "terms_right": [
     "benjamin",
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.39,
+   "divergence": 0.393,
    "category": "international",
    "terms_left": [
     "etats-unis",
@@ -201,17 +201,17 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.575,
+   "divergence": 0.583,
    "category": "société",
    "terms_left": [
+    "mouvement",
     "mouvement lycéen",
-    "lycéens étudiants",
-    "lycéen"
+    "manifestants"
    ],
    "terms_right": [
     "colère",
-    "personnes",
-    "colère sociale"
+    "colère sociale",
+    "personnes"
    ]
   },
   {
@@ -261,17 +261,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.636,
+   "divergence": 0.658,
    "category": "international",
    "terms_left": [
     "midterms",
     "tech",
-    "démocrate"
+    "géants tech"
    ],
    "terms_right": [
-    "donald trump",
-    "donald",
-    "wall street"
+    "wall street",
+    "wall",
+    "street"
    ]
   },
   {
@@ -291,7 +291,7 @@
    },
    "blindspot_score": -0.125,
    "blindspot_for": null,
-   "divergence": 0.647,
+   "divergence": 0.662,
    "category": "société",
    "terms_left": [
     "million",
@@ -351,17 +351,17 @@
    },
    "blindspot_score": 0.6,
    "blindspot_for": "gauche",
-   "divergence": 0.449,
+   "divergence": 0.46,
    "category": "politique",
    "terms_left": [
-    "groupes",
     "budgétaire",
-    "taxe"
+    "taxe",
+    "colère"
    ],
    "terms_right": [
-    "partie",
+    "rejet",
     "rejeté",
-    "rejet"
+    "france"
    ]
   },
   {
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.29,
+   "divergence": 0.3,
    "category": "international",
    "terms_left": [
     "sait",
@@ -479,15 +479,15 @@
     "commerciaux"
    ],
    "terms_right": [
-    "enquête",
     "rome",
-    "fausses alertes"
+    "enquête",
+    "français"
    ]
   },
   {
    "title": "Philippe Jaenada, prix Goncourt 2026, défend une utilisation “amusée, ironique et limitée” de l’IA",
    "url": "https://www.liberation.fr/culture/livres/prix-goncourt-2026-on-a-lu-pour-vous-les-quatre-livres-finalistes-20261031_SFVM5AWQHRBYVKVPCYOWYJ2ZLI/",
-   "n_members": 75,
+   "n_members": 76,
    "n_sources": 30,
    "counts": {
     "left": 9,
@@ -501,7 +501,7 @@
    },
    "blindspot_score": -0.059,
    "blindspot_for": null,
-   "divergence": 0.094,
+   "divergence": 0.096,
    "category": "culture",
    "terms_left": [
     "prix goncourt",
@@ -517,7 +517,7 @@
   {
    "title": "DIRECT. Présidentielle: le meeting de La France insoumise commence au Bourget, le discours de Jean-Luc Mélenchon attendu vers 16h45",
    "url": "https://www.leprogres.fr/politique/2026/10/27/l-ex-candidat-rn-alexandre-dupalais-appelle-a-l-interdiction-d-une-conference-de-raphael-arnault-dans-le-8e",
-   "n_members": 96,
+   "n_members": 99,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -531,12 +531,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.686,
+   "divergence": 0.667,
    "category": "politique",
    "terms_left": [
-    "clémence",
-    "guetté",
-    "clémence guetté"
+    "glucksmann",
+    "raphaël glucksmann",
+    "raphaël"
    ],
    "terms_right": [
     "candidat",
@@ -545,9 +545,9 @@
    ]
   },
   {
-   "title": "Qui succédera à Christine Lagarde après son départ de la présidence de la Banque centrale européenne ?",
+   "title": "Présidentielle 2027 : Christine Lagarde, le mirage d’un bloc central en panne",
    "url": "https://information.tv5monde.com/international/bce-statu-quo-attendu-sur-les-taux-les-regards-tournes-vers-lapres-lagarde-2843561",
-   "n_members": 53,
+   "n_members": 54,
    "n_sources": 29,
    "counts": {
     "left": 5,
@@ -561,23 +561,23 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.255,
+   "divergence": 0.249,
    "category": "économie",
    "terms_left": [
-    "annonce",
     "droite",
+    "annonce",
     "démission"
    ],
    "terms_right": [
     "présidence",
-    "ans",
-    "fin"
+    "fin",
+    "ans"
    ]
   },
   {
    "title": "Colère de lycéens : Le ministre promet des sanctions quand les accès aux cours sont bloqués",
    "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/emmanuel-macron-recevra-les-organisations-lyceennes-vendredi-a-15heures-annonce-l-elysee_8249623.html",
-   "n_members": 138,
+   "n_members": 140,
    "n_sources": 28,
    "counts": {
     "left": 8,
@@ -591,17 +591,47 @@
    },
    "blindspot_score": -0.143,
    "blindspot_for": null,
-   "divergence": 0.635,
+   "divergence": 0.643,
    "category": "société",
    "terms_left": [
-    "edouard",
     "lycées",
-    "mouvement lycéen"
+    "mouvement lycéen",
+    "yvelines"
    ],
    "terms_right": [
     "sébastien lecornu",
     "sébastien",
-    "lecornu"
+    "lycéens"
+   ]
+  },
+  {
+   "title": "Fusillade en Pologne : idéologie d’extrême droite, neuf morts, deuil national… Ce que l’on sait de l’attaque à Cracovie",
+   "url": "https://fr.euronews.com/2026/11/05/turquie-huit-morts-dans-des-fusillades-vaste-chasse-a-lhomme-pour-retrouver-le-suspect",
+   "n_members": 75,
+   "n_sources": 28,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.311,
+   "category": "international",
+   "terms_left": [
+    "droite",
+    "extrême",
+    "extrême droite"
+   ],
+   "terms_right": [
+    "police",
+    "fusillade",
+    "blessés"
    ]
   },
   {
@@ -623,16 +653,8 @@
    "blindspot_for": null,
    "divergence": 0.341,
    "category": "économie",
-   "terms_left": [
-    "cyberattaque crédit",
-    "français",
-    "français sang"
-   ],
-   "terms_right": [
-    "mutuel arkéa",
-    "arkéa",
-    "crédit mutuel"
-   ]
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Donald Trump juge \"en grande partie vrai\" que la guerre en Iran a causé la défaite aux midterms, après des commentaires de JD Vance",
@@ -651,7 +673,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.658,
+   "divergence": 0.659,
    "category": "international",
    "terms_left": [
     "fin",
@@ -659,9 +681,9 @@
     "aide"
    ],
    "terms_right": [
-    "élections",
     "donald trump",
-    "donald"
+    "donald",
+    "élections"
    ]
   },
   {
@@ -711,7 +733,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.653,
+   "divergence": 0.65,
    "category": "société",
    "terms_left": [
     "mouvement lycéen",
@@ -719,8 +741,8 @@
     "mouvement"
    ],
    "terms_right": [
+    "bloqués",
     "lycée",
-    "lycées",
     "colère"
    ]
   },
@@ -744,20 +766,20 @@
    "divergence": 0.775,
    "category": "international",
    "terms_left": [
+    "manifester",
     "sociaux",
-    "gouvernement",
-    "manifester"
+    "état"
    ],
    "terms_right": [
     "manifestations",
     "jeunesse",
-    "français"
+    "jeunesse allemande"
    ]
   },
   {
-   "title": "Présidentielle 2027. La majorité des communistes à l'Assemblée soutient Jean-Luc Mélenchon plutôt que Fabien Roussel",
+   "title": "EN DIRECT - Présidentielle 2027 : La France insoumise dévoile ce vendredi 1000 propositions dans son programme L’Avenir en commun",
    "url": "https://www.humanite.fr/politique/amf/les-maires-communistes-demandent-le-retrait-de-david-lisnard-a-la-presidence-de-lamf-la-pression-saccentue-sur-le-candidat-a-lelection-presidentielle",
-   "n_members": 83,
+   "n_members": 85,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -771,23 +793,23 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.556,
+   "divergence": 0.497,
    "category": "politique",
    "terms_left": [
-    "pcf",
+    "national",
     "groupe",
-    "national"
+    "soutenir"
    ],
    "terms_right": [
-    "david lisnard",
-    "david",
-    "raphaël glucksmann"
+    "raphaël glucksmann",
+    "raphaël",
+    "david lisnard"
    ]
   },
   {
-   "title": "CNews : la pétition appelant à fermer la chaîne dépasse les 760 000 signatures, décision sur son sort dans les prochains jours",
+   "title": "La pétition anti-CNews approche le million de signatures",
    "url": "https://www.humanite.fr/medias/assemblee-nationale/une-petition-pour-la-fermeture-de-cnews-cartonne-sur-le-site-de-lassemblee-nationale",
-   "n_members": 66,
+   "n_members": 67,
    "n_sources": 26,
    "counts": {
     "left": 10,
@@ -801,7 +823,7 @@
    },
    "blindspot_score": -0.429,
    "blindspot_for": null,
-   "divergence": 0.502,
+   "divergence": 0.505,
    "category": "culture",
    "terms_left": [
     "pétition",
@@ -831,7 +853,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.551,
+   "divergence": 0.55,
    "category": "économie",
    "terms_left": [
     "baisser prix",
@@ -845,9 +867,9 @@
    ]
   },
   {
-   "title": "«On ne peut pas vouloir faire une course et rester à l'écurie» : Bruno Retailleau presse Édouard Philippe d'accepter une primaire",
+   "title": "Présidentielle 2027 : Gabriel Attal défend une primaire « inéluctable » face à Édouard Philippe",
    "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-david-lisnard-de-nouveau-devant-bruno-retailleau-selon-notre-sondage-25-10-2026-YCUCGEBESVBQXEEFSSUQ2M5YTY.php",
-   "n_members": 128,
+   "n_members": 134,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -861,7 +883,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.361,
+   "divergence": 0.348,
    "category": "politique",
    "terms_left": [
     "edouard philippe",
@@ -871,7 +893,7 @@
    "terms_right": [
     "primaire démocrates",
     "démocrates",
-    "organisation"
+    "édouard"
    ]
   },
   {
@@ -951,7 +973,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.794,
+   "divergence": 0.803,
    "category": "économie",
    "terms_left": [
     "sociale",
@@ -1007,19 +1029,19 @@
    "category": "société",
    "terms_left": [
     "droite",
-    "grand",
-    "rn"
+    "rn",
+    "extrême"
    ],
    "terms_right": [
+    "prison",
     "kévin",
-    "détention",
-    "prison"
+    "détention"
    ]
   },
   {
-   "title": "Colère contre la « vie chère » : le logement, premier poste de dépense des ménages, est au cœur des préoccupations des Français",
+   "title": "Santé : 150 euros de reste à charge par an en moyenne, mais plus de 900 euros pour une minorité de Français",
    "url": "https://www.franceinfo.fr/economie/pouvoir-achat/trois-francais-sur-quatre-jugent-le-cout-du-chauffage-au-gaz-trop-eleve-selon-un-sondage-de-que-choisir-ensemble_8262911.html",
-   "n_members": 44,
+   "n_members": 45,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -1033,7 +1055,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.738,
+   "divergence": 0.741,
    "category": "économie",
    "terms_left": [
     "vivre",
@@ -1042,8 +1064,38 @@
    ],
    "terms_right": [
     "euros",
-    "santé",
-    "an"
+    "france",
+    "santé"
+   ]
+  },
+  {
+   "title": "Guerre en Ukraine: de nouvelles frappes russes perturbent l'approvisionnement en eau et en chauffage de Kiev",
+   "url": "https://www.tf1info.fr/international/une-menace-credible-la-russie-avertie-par-les-etats-unis-d-un-risque-d-attentat-a-moscou-ce-samedi-31-octobre-2026-2473121.html",
+   "n_members": 105,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.58,
+   "category": "international",
+   "terms_left": [
+    "oblast",
+    "guerre ukraine",
+    "armée"
+   ],
+   "terms_right": [
+    "frappes russes",
+    "moscou",
+    "nouvelles"
    ]
   },
   {
@@ -1079,7 +1131,7 @@
   {
    "title": "Manifestation du 5 novembre: 1,6 million de manifestants d'après la CGT, 575.000 selon le ministère de l'Intérieur",
    "url": "https://information.tv5monde.com/environnement/video/indonesie-un-brouillard-toxique-etouffe-des-centaines-de-milliers-de-personnes-2843386",
-   "n_members": 74,
+   "n_members": 75,
    "n_sources": 24,
    "counts": {
     "left": 8,
@@ -1107,9 +1159,9 @@
    ]
   },
   {
-   "title": "Accusations de \"coup d'État\", manifestations... Que se passe-t-il en Pologne ?",
+   "title": "[TRIBUNE] Pologne : le coup d’État de Donald Tusk contre le Tribunal constitutionnel",
    "url": "https://www.sudouest.fr/elections/europeennes/europe/pologne-le-chef-de-l-opposition-conservatrice-jaroslaw-kaczynski-evoque-une-sortie-de-l-ue-et-suscite-un-tolle-31290641.php",
-   "n_members": 62,
+   "n_members": 63,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -1123,77 +1175,17 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.389,
+   "divergence": 0.412,
    "category": "international",
    "terms_left": [
-    "constitutionnel cœur",
-    "autour tribunal",
-    "juges"
+    "tribunal",
+    "constitutionnel",
+    "tribunal constitutionnel"
    ],
    "terms_right": [
     "état",
     "politique pologne",
     "coup"
-   ]
-  },
-  {
-   "title": "Les cadres confrontés à une baisse inédite de leur pouvoir d'achat depuis 2010, selon l'APEC",
-   "url": "https://www.nicematin.com/conso/l-acceleration-de-la-transition-vers-l-electrique-tirees-par-l-electrique-les-ventes-de-voitures-neuves-en-france-progressent-de-7-en-octobre-10750891",
-   "n_members": 59,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 9,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.705,
-   "category": "économie",
-   "terms_left": [
-    "prix",
-    "carburants",
-    "prix carburants"
-   ],
-   "terms_right": [
-    "inflation",
-    "entreprise",
-    "chef"
-   ]
-  },
-  {
-   "title": "Pologne : une fusillade à Cracovie fait au moins 5 morts et une douzaine de blessés, le tireur a été interpellé",
-   "url": "https://fr.euronews.com/2026/11/05/turquie-huit-morts-dans-des-fusillades-vaste-chasse-a-lhomme-pour-retrouver-le-suspect",
-   "n_members": 53,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 1
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.383,
-   "category": "international",
-   "terms_left": [
-    "pologne tireur",
-    "droite",
-    "extrême"
-   ],
-   "terms_right": [
-    "fusillade",
-    "police",
-    "fusillade cracovie"
    ]
   }
  ]
