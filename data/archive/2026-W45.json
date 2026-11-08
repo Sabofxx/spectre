@@ -1,6 +1,6 @@
 {
  "week": "2026-W45",
- "generated_at": "2026-11-08T02:36:56+00:00",
+ "generated_at": "2026-11-08T09:43:34+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -37,7 +37,7 @@
   {
    "title": "Midterms 2026 : la défaite de Trump en 5 chiffres",
    "url": "https://www.leparisien.fr/international/etats-unis/elections-americaines/donald-trump-evoque-le-fessier-diablement-magnifique-de-nicki-minaj-lors-dun-meeting-dans-le-michigan-25-10-2026-JUXCRMNK7VATBKZ6DSME2QIZ2E.php",
-   "n_members": 303,
+   "n_members": 304,
    "n_sources": 38,
    "counts": {
     "left": 10,
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.13,
    "blindspot_for": null,
-   "divergence": 0.386,
+   "divergence": 0.384,
    "category": "international",
    "terms_left": [
     "démocrate",
     "direct",
-    "midterms"
+    "midterms victoire"
    ],
    "terms_right": [
     "donald trump",
@@ -97,7 +97,7 @@
   {
    "title": "Israël: Benjamin Netanyahu menacé, le centriste Gadi Eisenkot pourrait mener le futur gouvernement",
    "url": "https://www.humanite.fr/monde/benyamin-netanyahou/interdits-dinformer-israel-refuse-lentree-a-lenvoye-special-de-lhumanite",
-   "n_members": 376,
+   "n_members": 384,
    "n_sources": 35,
    "counts": {
     "left": 9,
@@ -111,12 +111,12 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.284,
+   "divergence": 0.278,
    "category": "international",
    "terms_left": [
     "elections",
-    "israël benyamin",
-    "droite"
+    "opposition",
+    "arabes"
    ],
    "terms_right": [
     "benjamin",
@@ -187,7 +187,7 @@
   {
    "title": "Mouvement lycéen: \"On déplore des phénomènes de violences extrêmement durs\" devant certains des 41 établissements bloqués, annonce Laurent Nuñez, ministre de l'Intérieur",
    "url": "https://www.sudradio.fr/societe/faure-ps-pour-interrompre-les-manifestations-il-suffit-de-repondre-aux-revendications",
-   "n_members": 221,
+   "n_members": 222,
    "n_sources": 34,
    "counts": {
     "left": 8,
@@ -201,12 +201,12 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.564,
+   "divergence": 0.575,
    "category": "société",
    "terms_left": [
+    "mouvement lycéen",
     "lycéens étudiants",
-    "lycéens",
-    "mouvement lycéen"
+    "lycéen"
    ],
    "terms_right": [
     "colère",
@@ -247,7 +247,7 @@
   {
    "title": "Midterms 2026 : les valeurs boursières liées à l'intelligence artificielle en chute après la victoire des démocrates",
    "url": "https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/la-corruption-du-clan-trump-au-coeur-des-elections-de-mi-mandat-1485269",
-   "n_members": 74,
+   "n_members": 76,
    "n_sources": 32,
    "counts": {
     "left": 8,
@@ -261,7 +261,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.639,
+   "divergence": 0.636,
    "category": "international",
    "terms_left": [
     "midterms",
@@ -291,16 +291,16 @@
    },
    "blindspot_score": -0.125,
    "blindspot_for": null,
-   "divergence": 0.651,
+   "divergence": 0.647,
    "category": "société",
    "terms_left": [
+    "million",
     "direct",
-    "intersyndicale",
-    "million"
+    "intersyndicale"
    ],
    "terms_right": [
     "grève",
-    "salariés",
+    "trafic",
     "sncf"
    ]
   },
@@ -351,17 +351,17 @@
    },
    "blindspot_score": 0.6,
    "blindspot_for": "gauche",
-   "divergence": 0.448,
+   "divergence": 0.449,
    "category": "politique",
    "terms_left": [
-    "taxe",
+    "groupes",
     "budgétaire",
-    "groupes"
+    "taxe"
    ],
    "terms_right": [
-    "rejeté",
     "partie",
-    "recettes"
+    "rejeté",
+    "rejet"
    ]
   },
   {
@@ -441,23 +441,23 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.507,
+   "divergence": 0.546,
    "category": "politique",
    "terms_left": [
     "remigration",
-    "extrême",
-    "droite"
+    "droite",
+    "extrême"
    ],
    "terms_right": [
-    "mobilisation",
+    "police",
     "manifestations",
-    "parisien"
+    "mobilisation"
    ]
   },
   {
-   "title": "Douze vols visés par de nouvelles alertes à la bombe en Europe, un avion dérouté sur Evreux",
+   "title": "Une nouvelle vague d'alertes à la bombe perturbe le trafic aérien européen, douze incidents recensés jeudi matin",
    "url": "https://www.liberation.fr/international/europe/quatre-vols-europeens-en-provenance-de-londres-copenhague-manchester-et-israel-vises-par-des-alertes-a-la-bombe-20261103_AAHGIUN5WRCPTATPYIDBOMCX5Q/",
-   "n_members": 100,
+   "n_members": 101,
    "n_sources": 30,
    "counts": {
     "left": 5,
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.291,
+   "divergence": 0.29,
    "category": "international",
    "terms_left": [
     "sait",
@@ -479,9 +479,9 @@
     "commerciaux"
    ],
    "terms_right": [
+    "enquête",
     "rome",
-    "aérienne",
-    "enquête"
+    "fausses alertes"
    ]
   },
   {
@@ -515,6 +515,36 @@
    ]
   },
   {
+   "title": "DIRECT. Présidentielle: le meeting de La France insoumise commence au Bourget, le discours de Jean-Luc Mélenchon attendu vers 16h45",
+   "url": "https://www.leprogres.fr/politique/2026/10/27/l-ex-candidat-rn-alexandre-dupalais-appelle-a-l-interdiction-d-une-conference-de-raphael-arnault-dans-le-8e",
+   "n_members": 96,
+   "n_sources": 29,
+   "counts": {
+    "left": 8,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 10,
+    "opinion": 5
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.686,
+   "category": "politique",
+   "terms_left": [
+    "clémence",
+    "guetté",
+    "clémence guetté"
+   ],
+   "terms_right": [
+    "candidat",
+    "présidentielle",
+    "mois"
+   ]
+  },
+  {
    "title": "Qui succédera à Christine Lagarde après son départ de la présidence de la Banque centrale européenne ?",
    "url": "https://information.tv5monde.com/international/bce-statu-quo-attendu-sur-les-taux-les-regards-tournes-vers-lapres-lagarde-2843561",
    "n_members": 53,
@@ -545,33 +575,33 @@
    ]
   },
   {
-   "title": "DIRECT. Présidentielle: le meeting de La France insoumise commence au Bourget, le discours de Jean-Luc Mélenchon attendu vers 16h45",
-   "url": "https://www.leprogres.fr/politique/2026/10/27/l-ex-candidat-rn-alexandre-dupalais-appelle-a-l-interdiction-d-une-conference-de-raphael-arnault-dans-le-8e",
-   "n_members": 95,
+   "title": "Colère de lycéens : Le ministre promet des sanctions quand les accès aux cours sont bloqués",
+   "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/emmanuel-macron-recevra-les-organisations-lyceennes-vendredi-a-15heures-annonce-l-elysee_8249623.html",
+   "n_members": 138,
    "n_sources": 28,
    "counts": {
     "left": 8,
-    "centre": 12,
-    "right": 8
+    "centre": 14,
+    "right": 6
    },
    "style_counts": {
-    "factuel": 13,
-    "mixte": 10,
-    "opinion": 5
+    "factuel": 15,
+    "mixte": 11,
+    "opinion": 2
    },
-   "blindspot_score": 0.0,
+   "blindspot_score": -0.143,
    "blindspot_for": null,
-   "divergence": 0.676,
-   "category": "politique",
+   "divergence": 0.635,
+   "category": "société",
    "terms_left": [
-    "clémence",
-    "guetté",
-    "clémence guetté"
+    "edouard",
+    "lycées",
+    "mouvement lycéen"
    ],
    "terms_right": [
-    "candidat",
-    "présidentielle",
-    "mois"
+    "sébastien lecornu",
+    "sébastien",
+    "lecornu"
    ]
   },
   {
@@ -591,7 +621,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.334,
+   "divergence": 0.341,
    "category": "économie",
    "terms_left": [
     "cyberattaque crédit",
@@ -621,7 +651,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.638,
+   "divergence": 0.658,
    "category": "international",
    "terms_left": [
     "fin",
@@ -630,8 +660,8 @@
    ],
    "terms_right": [
     "élections",
-    "guerre iran",
-    "guerre"
+    "donald trump",
+    "donald"
    ]
   },
   {
@@ -651,7 +681,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.702,
+   "divergence": 0.71,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -681,7 +711,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.655,
+   "divergence": 0.653,
    "category": "société",
    "terms_left": [
     "mouvement lycéen",
@@ -725,39 +755,9 @@
    ]
   },
   {
-   "title": "Lycées : le gouvernement promet des sanctions quand l'accès aux salles est compromis",
-   "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/emmanuel-macron-recevra-les-organisations-lyceennes-vendredi-a-15heures-annonce-l-elysee_8249623.html",
-   "n_members": 134,
-   "n_sources": 26,
-   "counts": {
-    "left": 7,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 10,
-    "opinion": 2
-   },
-   "blindspot_score": -0.077,
-   "blindspot_for": null,
-   "divergence": 0.644,
-   "category": "société",
-   "terms_left": [
-    "établissements",
-    "lycées",
-    "yvelines"
-   ],
-   "terms_right": [
-    "sébastien lecornu",
-    "sébastien",
-    "lecornu"
-   ]
-  },
-  {
    "title": "Présidentielle 2027. La majorité des communistes à l'Assemblée soutient Jean-Luc Mélenchon plutôt que Fabien Roussel",
    "url": "https://www.humanite.fr/politique/amf/les-maires-communistes-demandent-le-retrait-de-david-lisnard-a-la-presidence-de-lamf-la-pression-saccentue-sur-le-candidat-a-lelection-presidentielle",
-   "n_members": 82,
+   "n_members": 83,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -771,7 +771,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.548,
+   "divergence": 0.556,
    "category": "politique",
    "terms_left": [
     "pcf",
@@ -801,7 +801,7 @@
    },
    "blindspot_score": -0.429,
    "blindspot_for": null,
-   "divergence": 0.515,
+   "divergence": 0.502,
    "category": "culture",
    "terms_left": [
     "pétition",
@@ -811,7 +811,7 @@
    "terms_right": [
     "média",
     "gauche",
-    "pétition cnews"
+    "député"
    ]
   },
   {
@@ -847,7 +847,7 @@
   {
    "title": "«On ne peut pas vouloir faire une course et rester à l'écurie» : Bruno Retailleau presse Édouard Philippe d'accepter une primaire",
    "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-david-lisnard-de-nouveau-devant-bruno-retailleau-selon-notre-sondage-25-10-2026-YCUCGEBESVBQXEEFSSUQ2M5YTY.php",
-   "n_members": 126,
+   "n_members": 128,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -861,7 +861,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.365,
+   "divergence": 0.361,
    "category": "politique",
    "terms_left": [
     "edouard philippe",
@@ -891,7 +891,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.674,
+   "divergence": 0.677,
    "category": "international",
    "terms_left": [
     "sénat",
@@ -951,12 +951,12 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.791,
+   "divergence": 0.794,
    "category": "économie",
    "terms_left": [
     "sociale",
-    "face",
-    "colère sociale"
+    "colère sociale",
+    "face"
    ],
    "terms_right": [
     "heures",
@@ -1017,9 +1017,9 @@
    ]
   },
   {
-   "title": "Pouvoir d'achat : 85 % des Français pensent s'être appauvris en dix ans malgré les chiffres de l'Insee",
+   "title": "Colère contre la « vie chère » : le logement, premier poste de dépense des ménages, est au cœur des préoccupations des Français",
    "url": "https://www.franceinfo.fr/economie/pouvoir-achat/trois-francais-sur-quatre-jugent-le-cout-du-chauffage-au-gaz-trop-eleve-selon-un-sondage-de-que-choisir-ensemble_8262911.html",
-   "n_members": 43,
+   "n_members": 44,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -1033,17 +1033,17 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.739,
+   "divergence": 0.738,
    "category": "économie",
    "terms_left": [
-    "baromètre",
     "vivre",
+    "baromètre",
     "pouvoir vivre"
    ],
    "terms_right": [
     "euros",
     "santé",
-    "sondage"
+    "an"
    ]
   },
   {
@@ -1063,12 +1063,12 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.449,
+   "divergence": 0.445,
    "category": "société",
    "terms_left": [
     "inconnue",
     "petite",
-    "cour"
+    "procès petite"
    ],
    "terms_right": [
     "martyre",
@@ -1123,7 +1123,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.386,
+   "divergence": 0.389,
    "category": "international",
    "terms_left": [
     "constitutionnel cœur",
@@ -1153,40 +1153,48 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.687,
+   "divergence": 0.705,
    "category": "économie",
    "terms_left": [
     "prix",
-    "fois",
-    "carburants"
+    "carburants",
+    "prix carburants"
    ],
    "terms_right": [
+    "inflation",
     "entreprise",
-    "chef",
-    "gouvernement"
+    "chef"
    ]
   },
   {
-   "title": "Ce que l’on sait de la cyberattaque contre des réfrigérateurs dans plusieurs supermarchés en Europe",
-   "url": "https://www.liberation.fr/international/europe/piratage-de-frigos-apres-la-france-et-les-etats-unis-des-dizaines-de-supermarches-touches-en-suede-et-en-belgique-20261102_BZIZVKQNMNDZLLZGLO7CDCY3VE/",
-   "n_members": 47,
+   "title": "Pologne : une fusillade à Cracovie fait au moins 5 morts et une douzaine de blessés, le tireur a été interpellé",
+   "url": "https://fr.euronews.com/2026/11/05/turquie-huit-morts-dans-des-fusillades-vaste-chasse-a-lhomme-pour-retrouver-le-suspect",
+   "n_members": 53,
    "n_sources": 24,
    "counts": {
     "left": 5,
-    "centre": 14,
-    "right": 5
+    "centre": 13,
+    "right": 6
    },
    "style_counts": {
-    "factuel": 14,
+    "factuel": 15,
     "mixte": 8,
-    "opinion": 2
+    "opinion": 1
    },
-   "blindspot_score": 0.0,
+   "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.609,
+   "divergence": 0.383,
    "category": "international",
-   "terms_left": [],
-   "terms_right": []
+   "terms_left": [
+    "pologne tireur",
+    "droite",
+    "extrême"
+   ],
+   "terms_right": [
+    "fusillade",
+    "police",
+    "fusillade cracovie"
+   ]
   }
  ]
 }
