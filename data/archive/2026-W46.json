@@ -1,37 +1,37 @@
 {
  "week": "2026-W46",
- "generated_at": "2026-11-09T06:58:49+00:00",
+ "generated_at": "2026-11-09T17:04:43+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Israël : l'ancien chef d'état-major Gadi Eisenkot chargé de former le gouvernement",
    "url": "https://www.humanite.fr/monde/benyamin-netanyahou/interdits-dinformer-israel-refuse-lentree-a-lenvoye-special-de-lhumanite",
-   "n_members": 409,
-   "n_sources": 35,
+   "n_members": 413,
+   "n_sources": 36,
    "counts": {
     "left": 9,
     "centre": 14,
-    "right": 12
+    "right": 13
    },
    "style_counts": {
     "factuel": 17,
     "mixte": 12,
-    "opinion": 6
+    "opinion": 7
    },
-   "blindspot_score": 0.143,
+   "blindspot_score": 0.182,
    "blindspot_for": null,
    "divergence": 0.265,
    "category": "international",
    "terms_left": [
     "elections",
-    "parti",
-    "président isaac"
+    "eisenkot",
+    "parti"
    ],
    "terms_right": [
     "benjamin",
     "netanyahu",
-    "majorité"
+    "netanyahou"
    ]
   },
   {
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.67,
+   "divergence": 0.71,
    "category": "international",
    "terms_left": [
     "midterms",
     "tech",
-    "géants tech"
+    "élections"
    ],
    "terms_right": [
     "wall street",
@@ -81,17 +81,77 @@
    },
    "blindspot_score": 0.6,
    "blindspot_for": "gauche",
-   "divergence": 0.451,
+   "divergence": 0.45,
    "category": "politique",
    "terms_left": [
-    "taxe",
     "budgétaire",
-    "surtaxe"
+    "taxe",
+    "colère"
    ],
    "terms_right": [
     "sénat",
     "rejeté",
     "rejet"
+   ]
+  },
+  {
+   "title": "DIRECT. Présidentielle: le meeting de La France insoumise commence au Bourget, le discours de Jean-Luc Mélenchon attendu vers 16h45",
+   "url": "https://www.leprogres.fr/politique/2026/10/27/l-ex-candidat-rn-alexandre-dupalais-appelle-a-l-interdiction-d-une-conference-de-raphael-arnault-dans-le-8e",
+   "n_members": 103,
+   "n_sources": 31,
+   "counts": {
+    "left": 9,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 11,
+    "opinion": 5
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.631,
+   "category": "politique",
+   "terms_left": [
+    "personnes",
+    "devant",
+    "glucksmann"
+   ],
+   "terms_right": [
+    "présidentielle",
+    "candidat",
+    "présenter"
+   ]
+  },
+  {
+   "title": "Smic à 1.502 euros, prime carburant...: les annonces du gouvernement sur le pouvoir d'achat",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/le-debat-d-on-n-arrete-pas-l-eco/le-debat-d-on-n-arrete-pas-l-eco-du-samedi-31-octobre-2026-2865366",
+   "n_members": 94,
+   "n_sources": 31,
+   "counts": {
+    "left": 6,
+    "centre": 17,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 20,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.615,
+   "category": "économie",
+   "terms_left": [
+    "sociale",
+    "colère sociale",
+    "colère"
+   ],
+   "terms_right": [
+    "salaires",
+    "euros",
+    "pouvoir"
    ]
   },
   {
@@ -111,83 +171,83 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.307,
+   "divergence": 0.312,
    "category": "international",
    "terms_left": [
     "sait",
-    "médias",
-    "commerciaux"
+    "nouvelle",
+    "vague"
    ],
    "terms_right": [
     "enquête",
-    "français",
-    "alerte bombe"
+    "fausses alertes",
+    "fausses"
    ]
   },
   {
-   "title": "DIRECT. Présidentielle: le meeting de La France insoumise commence au Bourget, le discours de Jean-Luc Mélenchon attendu vers 16h45",
-   "url": "https://www.leprogres.fr/politique/2026/10/27/l-ex-candidat-rn-alexandre-dupalais-appelle-a-l-interdiction-d-une-conference-de-raphael-arnault-dans-le-8e",
-   "n_members": 101,
-   "n_sources": 30,
-   "counts": {
-    "left": 8,
-    "centre": 13,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 10,
-    "opinion": 5
-   },
-   "blindspot_score": 0.059,
-   "blindspot_for": null,
-   "divergence": 0.667,
-   "category": "politique",
-   "terms_left": [
-    "glucksmann",
-    "raphaël glucksmann",
-    "raphaël"
-   ],
-   "terms_right": [
-    "présidentielle",
-    "candidat",
-    "mois"
-   ]
-  },
-  {
-   "title": "Qui sont les candidats en lice pour succéder à Christine Lagarde à la tête de la BCE?",
+   "title": "Présidentielle 2027 : Christine Lagarde tentée par l’Élysée ?",
    "url": "https://information.tv5monde.com/international/bce-statu-quo-attendu-sur-les-taux-les-regards-tournes-vers-lapres-lagarde-2843561",
-   "n_members": 58,
-   "n_sources": 29,
+   "n_members": 60,
+   "n_sources": 30,
    "counts": {
     "left": 5,
     "centre": 13,
-    "right": 11
+    "right": 12
    },
    "style_counts": {
     "factuel": 17,
-    "mixte": 9,
+    "mixte": 10,
     "opinion": 3
    },
-   "blindspot_score": 0.375,
+   "blindspot_score": 0.412,
    "blindspot_for": null,
-   "divergence": 0.243,
+   "divergence": 0.232,
    "category": "économie",
    "terms_left": [
     "droite",
     "annonce",
-    "démission"
+    "sujets"
    ],
    "terms_right": [
     "tête",
-    "france",
-    "fin"
+    "fin",
+    "sud"
    ]
   },
   {
-   "title": "Pologne: ce que l'on sait de la fusillade qui a fait au moins six morts et une dizaine de blessés à Cracovie",
+   "title": "Mouvement lycéen : des cours de rattrapage possibles pendant les vacances en février ou à Pâques, annonce Edouard Geffray",
+   "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/emmanuel-macron-recevra-les-organisations-lyceennes-vendredi-a-15heures-annonce-l-elysee_8249623.html",
+   "n_members": 149,
+   "n_sources": 29,
+   "counts": {
+    "left": 8,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 11,
+    "opinion": 3
+   },
+   "blindspot_score": -0.067,
+   "blindspot_for": null,
+   "divergence": 0.609,
+   "category": "société",
+   "terms_left": [
+    "mouvement lycéen",
+    "mobilisation lycéenne",
+    "lycéen"
+   ],
+   "terms_right": [
+    "édouard geffray",
+    "édouard",
+    "lycéens"
+   ]
+  },
+  {
+   "title": "Pologne : l'auteur de la tuerie de Cracovie est mort à l'hôpital",
    "url": "https://fr.euronews.com/2026/11/05/turquie-huit-morts-dans-des-fusillades-vaste-chasse-a-lhomme-pour-retrouver-le-suspect",
-   "n_members": 97,
+   "n_members": 105,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -201,7 +261,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.308,
+   "divergence": 0.32,
    "category": "international",
    "terms_left": [
     "droite",
@@ -217,37 +277,89 @@
   {
    "title": "Une pétition appelant à fermer CNews atteint un million de signatures sur le site de l'Assemblée nationale",
    "url": "https://www.humanite.fr/medias/assemblee-nationale/une-petition-pour-la-fermeture-de-cnews-cartonne-sur-le-site-de-lassemblee-nationale",
-   "n_members": 76,
-   "n_sources": 27,
+   "n_members": 79,
+   "n_sources": 28,
    "counts": {
     "left": 10,
     "centre": 12,
-    "right": 5
+    "right": 6
    },
    "style_counts": {
     "factuel": 12,
     "mixte": 11,
-    "opinion": 4
+    "opinion": 5
    },
-   "blindspot_score": -0.333,
+   "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.462,
+   "divergence": 0.432,
    "category": "culture",
    "terms_left": [
-    "dépasse",
-    "pétition",
-    "dépasse signatures"
+    "assemblée",
+    "dépasse signatures",
+    "qu"
    ],
    "terms_right": [
-    "média",
-    "gauche",
-    "député"
+    "suppression cnews",
+    "million",
+    "million signatures"
+   ]
+  },
+  {
+   "title": "Crédit Mutuel Arkéa récupère une partie des fonds dérobés",
+   "url": "https://www.20minutes.fr/societe/4260219-20261104-cyberattaque-30-110-refrigerateurs-don-sang-pirates-tour",
+   "n_members": 60,
+   "n_sources": 28,
+   "counts": {
+    "left": 4,
+    "centre": 16,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.341,
+   "category": "économie",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "L'aide militaire américaine à Israël remise en question?",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/geopolitique/geopolitique-du-samedi-31-octobre-2026-2034982",
+   "n_members": 87,
+   "n_sources": 27,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": 0.286,
+   "blindspot_for": null,
+   "divergence": 0.661,
+   "category": "international",
+   "terms_left": [
+    "fin",
+    "direct",
+    "aide"
+   ],
+   "terms_right": [
+    "donald trump",
+    "donald",
+    "trump"
    ]
   },
   {
    "title": "Présidentielle 2027 : les députés communistes qui soutiennent LFI se mettent « en dehors du parti », dit le PCF",
    "url": "https://www.humanite.fr/politique/amf/les-maires-communistes-demandent-le-retrait-de-david-lisnard-a-la-presidence-de-lamf-la-pression-saccentue-sur-le-candidat-a-lelection-presidentielle",
-   "n_members": 89,
+   "n_members": 91,
    "n_sources": 26,
    "counts": {
     "left": 4,
@@ -261,53 +373,23 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.475,
+   "divergence": 0.468,
    "category": "politique",
    "terms_left": [
     "national",
     "groupe",
-    "communistes"
+    "france"
    ],
    "terms_right": [
-    "raphaël glucksmann",
-    "raphaël",
-    "david lisnard"
-   ]
-  },
-  {
-   "title": "\"Face à la colère sociale\", le gouvernement envisage la hausse du smic",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/le-debat-d-on-n-arrete-pas-l-eco/le-debat-d-on-n-arrete-pas-l-eco-du-samedi-31-octobre-2026-2865366",
-   "n_members": 65,
-   "n_sources": 26,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.743,
-   "category": "économie",
-   "terms_left": [
-    "sociale",
-    "colère sociale",
-    "colère"
-   ],
-   "terms_right": [
-    "salaires",
-    "pouvoir",
-    "heures"
+    "david lisnard",
+    "david",
+    "raphaël glucksmann"
    ]
   },
   {
    "title": "Présidentielle 2027 : Gabriel Attal défend une primaire « inéluctable » face à Édouard Philippe",
    "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-david-lisnard-de-nouveau-devant-bruno-retailleau-selon-notre-sondage-25-10-2026-YCUCGEBESVBQXEEFSSUQ2M5YTY.php",
-   "n_members": 136,
+   "n_members": 137,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -321,7 +403,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.347,
+   "divergence": 0.346,
    "category": "politique",
    "terms_left": [
     "edouard philippe",
@@ -331,7 +413,67 @@
    "terms_right": [
     "primaire démocrates",
     "démocrates",
-    "édouard"
+    "qu"
+   ]
+  },
+  {
+   "title": "France: Lecornu réunit partenaires sociaux, lycéens et étudiants pour tenter d'apaiser la colère sociale",
+   "url": "https://www.europe1.fr/societe/en-direct-mouvement-des-lyceens-sebastien-lecornu-redit-etre-pret-a-recevoir-de-nouveau-les-lyceens-la-semaine-prochaine-1202214",
+   "n_members": 81,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.342,
+   "category": "politique",
+   "terms_left": [
+    "parcoursup",
+    "ministre",
+    "jeunesse"
+   ],
+   "terms_right": [
+    "organisations",
+    "colère sociale",
+    "manifestations"
+   ]
+  },
+  {
+   "title": "Affaire Michel Zecler : six ans après, trois policiers jugés pour l’agression du producteur",
+   "url": "https://www.cnews.fr/faits-divers/2026-11-01/rouen-lissue-dune-rencontre-de-football-une-rixe-eclate-aux-abords-dun-bar",
+   "n_members": 73,
+   "n_sources": 25,
+   "counts": {
+    "left": 4,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 7,
+    "opinion": 6
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.844,
+   "category": "société",
+   "terms_left": [
+    "paris",
+    "procès policiers",
+    "sol"
+   ],
+   "terms_right": [
+    "agression",
+    "ans",
+    "jugés"
    ]
   },
   {
@@ -351,23 +493,53 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.688,
+   "divergence": 0.693,
    "category": "économie",
    "terms_left": [
-    "travail",
     "prix",
-    "carburants"
+    "carburants",
+    "prix carburants"
    ],
    "terms_right": [
     "inflation",
     "gouvernement",
-    "cadres"
+    "cœur"
    ]
   },
   {
-   "title": "Consommation. Les Français refusent de sacrifier le budget de leur repas de Noël",
-   "url": "https://www.franceinfo.fr/economie/pouvoir-achat/trois-francais-sur-quatre-jugent-le-cout-du-chauffage-au-gaz-trop-eleve-selon-un-sondage-de-que-choisir-ensemble_8262911.html",
-   "n_members": 51,
+   "title": "«C'était le chaos» : la tribune des supporters de Bodo/Glimt s’effondre en plein match en Norvège",
+   "url": "https://www.leparisien.fr/faits-divers/attentat-raciste-de-trappes-la-vie-derrance-de-kevin-t-entre-schizophrenie-et-solitude-26-10-2026-S2BKPI2DUNCUPK2JEC6XBVGH7Y.php",
+   "n_members": 60,
+   "n_sources": 25,
+   "counts": {
+    "left": 6,
+    "centre": 10,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.593,
+   "category": "société",
+   "terms_left": [
+    "trappes",
+    "attentat",
+    "attentat trappes"
+   ],
+   "terms_right": [
+    "prison",
+    "suspect",
+    "match"
+   ]
+  },
+  {
+   "title": "[BRÈVE] La ministre Maud Bregeon part en congé maternité",
+   "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-faut-il-augmenter-le-smic-06-11_EN-202611060364.html",
+   "n_members": 58,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -375,21 +547,29 @@
     "right": 9
    },
    "style_counts": {
-    "factuel": 13,
+    "factuel": 15,
     "mixte": 7,
-    "opinion": 5
+    "opinion": 3
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.739,
+   "divergence": 0.851,
    "category": "économie",
-   "terms_left": [],
-   "terms_right": []
+   "terms_left": [
+    "sénat",
+    "enfants",
+    "projet"
+   ],
+   "terms_right": [
+    "ministre",
+    "lefèvre",
+    "maud bregeon"
+   ]
   },
   {
-   "title": "«Macron est un énorme c******, comme ces flics de m****» : un enfant de 8 ans insulte le président de la République et les forces de l'ordre, Franceinfo s'excuse",
+   "title": "Manifestation du 7 novembre : \"Macron est un énorme c***d\" : à 8 ans, Marcel insulte le président en direct sur franceinfo, la chaîne présente ses excuses",
    "url": "https://www.lefigaro.fr/elections/presidentielles/sa-demission-cnews-les-riches-et-sa-vie-d-apres-des-messages-chocs-d-emmanuel-macron-reveles-dans-un-livre-20261103",
-   "n_members": 50,
+   "n_members": 56,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -403,121 +583,31 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.634,
+   "divergence": 0.617,
    "category": "politique",
    "terms_left": [
-    "dresse",
     "france",
-    "état"
+    "info",
+    "direct"
    ],
    "terms_right": [
-    "françois",
-    "hollande",
-    "record"
-   ]
-  },
-  {
-   "title": "Guerre en Ukraine : des centaines de milliers de personnes sans électricité après des frappes russes",
-   "url": "https://www.tf1info.fr/international/une-menace-credible-la-russie-avertie-par-les-etats-unis-d-un-risque-d-attentat-a-moscou-ce-samedi-31-octobre-2026-2473121.html",
-   "n_members": 109,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.57,
-   "category": "international",
-   "terms_left": [
-    "oblast",
-    "armée",
-    "guerre ukraine"
-   ],
-   "terms_right": [
-    "frappes russes",
-    "frappes",
-    "centaines milliers"
-   ]
-  },
-  {
-   "title": "EN DIRECT - Crise sociale : Lecornu convoque une conférence sociale ce matin",
-   "url": "https://www.europe1.fr/societe/en-direct-mouvement-des-lyceens-sebastien-lecornu-redit-etre-pret-a-recevoir-de-nouveau-les-lyceens-la-semaine-prochaine-1202214",
-   "n_members": 69,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.377,
-   "category": "politique",
-   "terms_left": [
-    "jours",
-    "rendez-vous",
-    "sociale pouvoir"
-   ],
-   "terms_right": [
-    "salaires",
-    "sociale",
-    "organisations"
-   ]
-  },
-  {
-   "title": "Affaire Michel Zecler : six ans après, trois policiers jugés pour l’agression du producteur",
-   "url": "https://www.cnews.fr/faits-divers/2026-11-01/rouen-lissue-dune-rencontre-de-football-une-rixe-eclate-aux-abords-dun-bar",
-   "n_members": 67,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 6
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.881,
-   "category": "société",
-   "terms_left": [
-    "sol",
     "paris",
-    "mort"
-   ],
-   "terms_right": [
-    "agression",
-    "jugés",
-    "jeunes"
+    "président",
+    "ordre"
    ]
   },
   {
-   "title": "Midterms : la Chine de Xi Jinping sur ses gardes après la défaite de Trump",
+   "title": "Recomposition politique américaine à plusieurs échelles : quel avenir pour Trump ?",
    "url": "https://www.leparisien.fr/international/etats-unis/elections-americaines/midterms-2026-abdul-el-sayed-le-trublion-qui-bouscule-les-democrates-americains-01-11-2026-NPDAIGTG4BCDXFFGNXLWY5YLWA.php",
-   "n_members": 54,
-   "n_sources": 24,
+   "n_members": 55,
+   "n_sources": 25,
    "counts": {
     "left": 7,
-    "centre": 10,
+    "centre": 11,
     "right": 7
    },
    "style_counts": {
-    "factuel": 12,
+    "factuel": 13,
     "mixte": 10,
     "opinion": 2
    },
@@ -537,39 +627,99 @@
    ]
   },
   {
-   "title": "[BRÈVE] La ministre Maud Bregeon part en congé maternité",
-   "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-faut-il-augmenter-le-smic-06-11_EN-202611060364.html",
+   "title": "Consommation. Les Français refusent de sacrifier le budget de leur repas de Noël",
+   "url": "https://www.franceinfo.fr/economie/pouvoir-achat/trois-francais-sur-quatre-jugent-le-cout-du-chauffage-au-gaz-trop-eleve-selon-un-sondage-de-que-choisir-ensemble_8262911.html",
    "n_members": 54,
-   "n_sources": 24,
+   "n_sources": 25,
    "counts": {
     "left": 4,
-    "centre": 11,
+    "centre": 12,
     "right": 9
    },
    "style_counts": {
-    "factuel": 14,
+    "factuel": 13,
     "mixte": 7,
-    "opinion": 3
+    "opinion": 5
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.861,
+   "divergence": 0.734,
    "category": "économie",
    "terms_left": [
-    "sénat",
-    "gouvernement",
-    "transition"
+    "vivre",
+    "baromètre",
+    "pouvoir"
    ],
    "terms_right": [
-    "ministre",
-    "émission",
-    "nationale"
+    "qu",
+    "france",
+    "prix"
+   ]
+  },
+  {
+   "title": "Guerre en Ukraine : des centaines de milliers de personnes sans électricité après des frappes russes",
+   "url": "https://www.tf1info.fr/international/une-menace-credible-la-russie-avertie-par-les-etats-unis-d-un-risque-d-attentat-a-moscou-ce-samedi-31-octobre-2026-2473121.html",
+   "n_members": 109,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.569,
+   "category": "international",
+   "terms_left": [
+    "armée",
+    "oblast",
+    "guerre ukraine"
+   ],
+   "terms_right": [
+    "frappes russes",
+    "frappes",
+    "centaines milliers"
+   ]
+  },
+  {
+   "title": "Au procès des parents de « la petite inconnue de l’A10 » : « Vous avez compris de quoi votre fille est morte ? – Elle était très fatiguée », dit la mère",
+   "url": "https://www.ladepeche.fr/2026/10/28/recit-affaire-de-la-petite-martyre-de-la10-les-parents-dinass-la-fillette-retrouvee-morte-en-1987-vont-etre-juges-39-ans-apres-retour-sur-laffaire-en-13622231.php",
+   "n_members": 96,
+   "n_sources": 24,
+   "counts": {
+    "left": 6,
+    "centre": 10,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.456,
+   "category": "société",
+   "terms_left": [
+    "inconnue",
+    "petite",
+    "procès petite"
+   ],
+   "terms_right": [
+    "martyre",
+    "ouvre",
+    "parents"
    ]
   },
   {
    "title": "EN DIRECT – Manifestations du 7 novembre : nouvelle journée de mobilisation ce samedi, deux jours avant une conférence sociale à Matignon",
    "url": "https://www.cnews.fr/france/2026-11-03/nous-desobeirons-les-gilets-jaunes-annoncent-quils-manifesteront-concorde-ce",
-   "n_members": 47,
+   "n_members": 49,
    "n_sources": 24,
    "counts": {
     "left": 7,
@@ -583,17 +733,47 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.694,
+   "divergence": 0.707,
    "category": "société",
    "terms_left": [
-    "mobilisations",
     "coordination gilets",
+    "concorde",
     "coordination"
    ],
    "terms_right": [
+    "nationale",
     "qu",
-    "vie",
-    "nationale"
+    "syndicats"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : pourquoi Teddy Riner, quintuple champion olympique, veut désormais conquérir l'Élysée",
+   "url": "https://www.leparisien.fr/elections/presidentielle/les-gens-mont-pousse-a-me-presenter-des-jo-de-paris-a-la-presidentielle-les-coulisses-de-la-candidature-de-teddy-riner-09-11-2026-2CRPIYFKPFG43FTC777BRBLUEE.php",
+   "n_members": 44,
+   "n_sources": 24,
+   "counts": {
+    "left": 3,
+    "centre": 11,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 5
+   },
+   "blindspot_score": 0.538,
+   "blindspot_for": null,
+   "divergence": 0.348,
+   "category": "politique",
+   "terms_left": [
+    "carrière",
+    "présidentielle quintuple",
+    "riner annonce"
+   ],
+   "terms_right": [
+    "candidat",
+    "ans",
+    "politique"
    ]
   },
   {
@@ -613,23 +793,83 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.316,
+   "divergence": 0.277,
    "category": "faits-divers",
    "terms_left": [
-    "bus",
+    "ans",
     "bourg-en-bresse morts",
-    "niveau commune"
+    "sortie"
    ],
    "terms_right": [
-    "personnes",
     "assoupi",
-    "bilan"
+    "vie",
+    "lent"
+   ]
+  },
+  {
+   "title": "Le Smic augmente à partir du 1er décembre prochain : il sera de 1502 euros net environ, annonce le ministre du Travail",
+   "url": "https://www.sudradio.fr/sud-radio/on-ne-peut-pas-laisser-862-000-agents-publics-sous-le-smic",
+   "n_members": 65,
+   "n_sources": 23,
+   "counts": {
+    "left": 3,
+    "centre": 10,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.538,
+   "blindspot_for": null,
+   "divergence": 0.509,
+   "category": "économie",
+   "terms_left": [
+    "essayer",
+    "essayer franchir",
+    "franchir barre"
+   ],
+   "terms_right": [
+    "euros",
+    "smic",
+    "gouvernement"
+   ]
+  },
+  {
+   "title": "Nvidia ouvre une enquête sur son patron après des soupçons d'espionnage chinois",
+   "url": "https://www.lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html",
+   "n_members": 29,
+   "n_sources": 23,
+   "counts": {
+    "left": 3,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 1
+   },
+   "blindspot_score": 0.4,
+   "blindspot_for": null,
+   "divergence": 0.428,
+   "category": "international",
+   "terms_left": [
+    "pékin",
+    "révélations",
+    "entreprise"
+   ],
+   "terms_right": [
+    "espionne",
+    "espionne chinoise",
+    "femme"
    ]
   },
   {
    "title": "Crise bancaire au Paraguay : Pedro Alliana investi président après la destitution de Santiago Peña",
    "url": "https://www.rfi.fr/fr/france/20261101-proc%C3%A8s-des-duba%C3%AF-papers-trois-soci%C3%A9t%C3%A9s-et-14-personnes-dont-un-prince-belge-seront-jug%C3%A9es-%C3%A0-paris",
-   "n_members": 79,
+   "n_members": 80,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -643,23 +883,23 @@
    },
    "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.373,
+   "divergence": 0.378,
    "category": "international",
    "terms_left": [
     "démissionne",
-    "scandale bancaire",
-    "espagne"
+    "espagne",
+    "scandale bancaire"
    ],
    "terms_right": [
     "nouveau",
-    "crise bancaire",
-    "épargnants"
+    "épargnants",
+    "place"
    ]
   },
   {
    "title": "Donald Trump propose le poste de porte-parole de la Maison Blanche à Dana White, le patron de l'UFC",
    "url": "https://www.courrierinternational.com/article/etats-unis-le-projet-d-arc-de-triomphe-de-trump-vise-par-une-nouvelle-plainte_283838",
-   "n_members": 72,
+   "n_members": 75,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -673,17 +913,47 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.414,
+   "divergence": 0.415,
    "category": "international",
    "terms_left": [
+    "défaite",
     "figure",
-    "conseillers",
-    "miller"
+    "conseillers"
    ],
    "terms_right": [
     "dana white",
     "dana",
     "white"
+   ]
+  },
+  {
+   "title": "DIRECT. Guerre en Ukraine : Kiev frappée par une série de missiles russes, au moins trois blessés, dont un enfant",
+   "url": "https://www.tf1info.fr/international/videos/video-guerre-en-ukraine-50-miradors-entourent-la-villa-de-poutine-a-valdai-il-n-a-pas-seulement-peur-de-kiev-70490-2472012.html",
+   "n_members": 70,
+   "n_sources": 22,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.091,
+   "blindspot_for": null,
+   "divergence": 0.766,
+   "category": "international",
+   "terms_left": [
+    "attaques",
+    "direct",
+    "iran"
+   ],
+   "terms_right": [
+    "poutine",
+    "prix",
+    "ukraine"
    ]
   },
   {
@@ -703,23 +973,83 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.512,
+   "divergence": 0.514,
    "category": "politique",
    "terms_left": [
     "conférence",
-    "villeurbanne",
-    "arnault"
+    "paris",
+    "villeurbanne"
    ],
    "terms_right": [
-    "voiture",
-    "ans",
-    "préfet"
+    "préfet",
+    "glucksmann",
+    "fin"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : Laurent Wauquiez réclame un «candidat unique» de la droite «avant Noël»",
+   "url": "https://fr.euronews.com/2026/11/05/giorgia-meloni-fustige-lue-pour-son-approche-eclatee-des-pourparlers-de-paix-sur-lukraine",
+   "n_members": 60,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.592,
+   "category": "politique",
+   "terms_left": [
+    "insoumis",
+    "européens",
+    "négociations"
+   ],
+   "terms_right": [
+    "mélenchon",
+    "jean-luc mélenchon",
+    "jean-luc"
+   ]
+  },
+  {
+   "title": "Cyberattaques visant des frigos de supermarchés en France : l’Iran est « responsable », selon la diplomatie française",
+   "url": "https://www.rfi.fr/fr/podcasts/lignes-de-d%C3%A9fense/20261031-le-salon-euronaval-2026-marque-le-retour-de-la-puissance-navale",
+   "n_members": 37,
+   "n_sources": 22,
+   "counts": {
+    "left": 2,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 1
+   },
+   "blindspot_score": 0.556,
+   "blindspot_for": null,
+   "divergence": 0.836,
+   "category": "société",
+   "terms_left": [
+    "enquête",
+    "justice",
+    "français"
+   ],
+   "terms_right": [
+    "iran",
+    "cyberattaque",
+    "attaque"
    ]
   },
   {
    "title": "Arabie saoudite: les Houthis revendiquent l'attaque du coeur financier de Riyad, deux missiles balistiques interceptés",
    "url": "https://www.rfi.fr/fr/moyen-orient/20261106-y%C3%A9men-un-mois-de-contre-offensive-contre-les-houthis-et-toujours-pas-de-victoire-en-vue",
-   "n_members": 35,
+   "n_members": 36,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -733,12 +1063,12 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.558,
+   "divergence": 0.499,
    "category": "international",
    "terms_left": [
     "attaque",
-    "morts",
-    "saoudiennes"
+    "conflit",
+    "drones"
    ],
    "terms_right": [
     "financier",
@@ -747,9 +1077,9 @@
    ]
   },
   {
-   "title": "Tom Laperche remporte la Route du Rhum : pourquoi le skipper de 29 ans a obtenu une bonification d'une heure et deux minutes",
+   "title": "Route du Rhum : Tom Laperche triomphe et bat un nouveau record",
    "url": "https://www.franceinfo.fr/sports/voile/route-du-rhum/francis-joyon-vainqueur-de-la-route-du-rhum-2018-victime-d-un-chavirage_8264363.html",
-   "n_members": 88,
+   "n_members": 89,
    "n_sources": 21,
    "counts": {
     "left": 4,
@@ -763,7 +1093,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.312,
+   "divergence": 0.308,
    "category": "sport",
    "terms_left": [
     "ultim",
@@ -772,8 +1102,8 @@
    ],
    "terms_right": [
     "guadeloupe",
-    "course",
-    "nuit"
+    "nuit",
+    "course"
    ]
   },
   {
@@ -793,12 +1123,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.642,
+   "divergence": 0.63,
    "category": "société",
    "terms_left": [
-    "journalistes",
-    "agression sexuelle",
-    "sexuelle"
+    "justice république",
+    "cour",
+    "justice"
    ],
    "terms_right": [
     "mineurs",
@@ -807,39 +1137,39 @@
    ]
   },
   {
-   "title": "Smic : sur TF1, le ministre du Travail Jean-Pierre Farandou juge \"important\" de \"franchir la barre des 1.500 euros net\"",
-   "url": "https://www.sudradio.fr/sud-radio/on-ne-peut-pas-laisser-862-000-agents-publics-sous-le-smic",
-   "n_members": 56,
-   "n_sources": 21,
+   "title": "Championnats des nations : la XV de France s'impose largement face aux Fidji mais perd Ntamack sur blessure",
+   "url": "https://www.tf1info.fr/sport/streaming-gratuit-rugby-tf1-championnat-des-nations-a-quelle-heure-et-sur-quelle-chaine-regarder-le-match-du-xv-de-france-contre-les-fidji-2473445.html",
+   "n_members": 74,
+   "n_sources": 20,
    "counts": {
     "left": 3,
-    "centre": 9,
-    "right": 9
+    "centre": 10,
+    "right": 7
    },
    "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 2
+    "factuel": 12,
+    "mixte": 5,
+    "opinion": 3
    },
-   "blindspot_score": 0.5,
+   "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.521,
-   "category": "économie",
+   "divergence": 0.466,
+   "category": "sport",
    "terms_left": [
-    "essayer",
-    "essayer franchir",
-    "mouvement"
+    "ouvreur",
+    "jours",
+    "rugby"
    ],
    "terms_right": [
-    "euros",
-    "hausse",
-    "hausse smic"
+    "xv france",
+    "xv",
+    "france"
    ]
   },
   {
-   "title": "Le pape Léon XIV arrive en Uruguay, première étape d'une intense tournée en Amérique du Sud",
+   "title": "Le pape Léon XIV arrive en Argentine, deuxième étape de sa tournée en Amérique du Sud",
    "url": "https://www.leprogres.fr/societe/2026/10/26/le-pape-leon-xiv-sera-bien-present-en-amerique-du-sud-en-novembre",
-   "n_members": 70,
+   "n_members": 73,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -853,284 +1183,18 @@
    },
    "blindspot_score": 0.556,
    "blindspot_for": null,
-   "divergence": 0.572,
+   "divergence": 0.574,
    "category": "international",
    "terms_left": [
     "femmes",
-    "souverain",
-    "souverain pontife"
+    "latine",
+    "amérique latine"
    ],
    "terms_right": [
     "léon xiv",
     "xiv",
     "léon"
    ]
-  },
-  {
-   "title": "Présidentielle 2027 : Laurent Wauquiez réclame un «candidat unique» de la droite «avant Noël»",
-   "url": "https://fr.euronews.com/2026/11/05/giorgia-meloni-fustige-lue-pour-son-approche-eclatee-des-pourparlers-de-paix-sur-lukraine",
-   "n_members": 52,
-   "n_sources": 20,
-   "counts": {
-    "left": 4,
-    "centre": 10,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.2,
-   "blindspot_for": null,
-   "divergence": 0.594,
-   "category": "politique",
-   "terms_left": [
-    "insoumis",
-    "européens",
-    "négociations"
-   ],
-   "terms_right": [
-    "unique",
-    "candidat unique",
-    "noël"
-   ]
-  },
-  {
-   "title": "Nantes : deux élèves de 16 ans mis en examen pour avoir mis le feu à leur lycée",
-   "url": "https://www.nicematin.com/societe/blocage-des-lycees/pres-de-200-lycees-rassembles-dans-le-calme-devant-le-lycee-curie-a-menton-une-dizaine-de-policiers-positionnes-devant-l-etablissement-10753135",
-   "n_members": 69,
-   "n_sources": 19,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.545,
-   "category": "société",
-   "terms_left": [
-    "judiciaire",
-    "tournefeuille toulouse",
-    "toulouse"
-   ],
-   "terms_right": [
-    "courneuve",
-    "lyon",
-    "ans"
-   ]
-  },
-  {
-   "title": "SONDAGE. Présidentielle 2027 : Marine Le Pen toujours loin devant, Jean-Luc Mélenchon progresse alors qu’Édouard Philippe recule",
-   "url": "https://www.ouest-france.fr/politique/posez-vos-questions-a-natacha-polony-invitee-du-grand-jury-rtl-avec-ouest-france-bc3d4f8a-d46e-11f1-84f3-5611f158a658",
-   "n_members": 81,
-   "n_sources": 18,
-   "counts": {
-    "left": 2,
-    "centre": 8,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 4,
-    "opinion": 4
-   },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": 0.763,
-   "category": "politique",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Espagne. Mort du footballeur Jesus de Miguel : son club s'engage à soutenir financièrement sa fille jusqu'à ses 18 ans",
-   "url": "https://www.ouest-france.fr/sport/football/un-footballeur-amateur-est-mort-apres-un-geste-anodin-en-plein-match-46d5d8da-d639-11f1-84f3-5611f158a658",
-   "n_members": 59,
-   "n_sources": 18,
-   "counts": {
-    "left": 2,
-    "centre": 11,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": 0.525,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Ligue 1 : le RC Lens s'incline contre l'OM malgré une réaction",
-   "url": "https://www.leprogres.fr/sport/2026/10/31/ol-angers-le-bon-appetit-a-domicile-pour-faire-oublier-les-tuiles",
-   "n_members": 56,
-   "n_sources": 16,
-   "counts": {
-    "left": 2,
-    "centre": 9,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": 0.713,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Toulon 43-23 Stade Français : \"Sauter dans les tribunes...\" Rebbadj rayonne après son triplé",
-   "url": "https://rmcsport.bfmtv.com/football/liga/la-liga-boycottee-les-deux-premiers-matchs-du-week-end-n-ont-pas-ete-diffuses-par-la-tv-publique-chinoise-apres-la-polemique-mbappe_AV-202610310274.html",
-   "n_members": 49,
-   "n_sources": 15,
-   "counts": {
-    "left": 1,
-    "centre": 9,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": 0.667,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Braquage dans une usine de joaillerie : un butin de plusieurs millions d'euros retrouvé",
-   "url": "https://www.leprogres.fr/faits-divers-justice/2026/11/03/elle-est-remontee-chez-elle-pour-sauver-ses-lapins-florence-56-ans-decede-dans-l-incendie-de-son-appartement",
-   "n_members": 44,
-   "n_sources": 14,
-   "counts": {
-    "left": 1,
-    "centre": 7,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": 0.714,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "faits-divers",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "En Turquie, la COP31 vise à remettre le climat en haut de l’agenda, dans un monde percuté par les crises",
-   "url": "https://www.sudouest.fr/environnement/conference-pour-le-climat/cop31-en-turquie-un-sommet-mondial-sous-tension-debute-lundi-a-antalya-face-a-l-urgence-climatique-et-aux-divisions-geopolitiques-31409559.php",
-   "n_members": 22,
-   "n_sources": 14,
-   "counts": {
-    "left": 6,
-    "centre": 7,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 8,
-    "mixte": 6,
-    "opinion": 0
-   },
-   "blindspot_score": -0.714,
-   "blindspot_for": "droite",
-   "divergence": null,
-   "category": "environnement",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Des pluies diluviennes s'abattent sur la bande de Gaza, des milliers de déplacés privés d'abri et plusieurs blessés",
-   "url": "https://www.liberation.fr/international/moyen-orient/a-gaza-des-pluies-diluviennes-privent-dabri-des-dizaines-de-milliers-de-deplaces-20261107_WIXB3O3KX5BDXAYZ74KMU5DHPE/",
-   "n_members": 15,
-   "n_sources": 14,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 3,
-    "opinion": 1
-   },
-   "blindspot_score": -0.2,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Déserts médicaux : près de 3 000 docteurs juniors en renfort, mais resteront-ils ?",
-   "url": "https://www.lemonde.fr/sante/article/2026/11/02/medecine-generale-3-000-docteurs-juniors-deployes-sur-le-territoire-pour-repondre-aux-deserts-medicaux_6804771_1651302.html",
-   "n_members": 27,
-   "n_sources": 13,
-   "counts": {
-    "left": 3,
-    "centre": 7,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 9,
-    "mixte": 3,
-    "opinion": 1
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.397,
-   "category": "société",
-   "terms_left": [
-    "arrivent",
-    "année",
-    "générale"
-   ],
-   "terms_right": [
-    "renfort",
-    "juniors",
-    "médecins"
-   ]
-  },
-  {
-   "title": "Gers : le domicile d'un policier incendié, Nuñez dénonce un «acte criminel intolérable»",
-   "url": "https://france3-regions.franceinfo.fr/occitanie/gers/auch/un-acte-criminel-le-domicile-d-un-policier-incendie-en-raison-de-sa-profession-selon-le-ministre-de-l-interieur-laurent-nunez-3446172.html",
-   "n_members": 21,
-   "n_sources": 12,
-   "counts": {
-    "left": 2,
-    "centre": 3,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 5,
-    "mixte": 4,
-    "opinion": 3
-   },
-   "blindspot_score": 0.556,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "société",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
