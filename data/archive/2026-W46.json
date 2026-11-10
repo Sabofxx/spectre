@@ -1,13 +1,13 @@
 {
  "week": "2026-W46",
- "generated_at": "2026-11-10T07:54:25+00:00",
+ "generated_at": "2026-11-10T15:57:49+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Israël : l'ancien chef d'état-major Gadi Eisenkot chargé de former le gouvernement",
    "url": "https://www.humanite.fr/monde/benyamin-netanyahou/interdits-dinformer-israel-refuse-lentree-a-lenvoye-special-de-lhumanite",
-   "n_members": 417,
+   "n_members": 425,
    "n_sources": 37,
    "counts": {
     "left": 9,
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.217,
    "blindspot_for": null,
-   "divergence": 0.263,
+   "divergence": 0.264,
    "category": "international",
    "terms_left": [
     "elections",
-    "eisenkot",
-    "eisenkot former"
+    "eisenkot former",
+    "parti"
    ],
    "terms_right": [
     "benjamin",
@@ -37,7 +37,7 @@
   {
    "title": "EN DIRECT - Colère sociale : nouvelle journée de mobilisation dans l'éducation, 10.000 manifestants attendus à Paris",
    "url": "https://www.sudradio.fr/societe/faure-ps-pour-interrompre-les-manifestations-il-suffit-de-repondre-aux-revendications",
-   "n_members": 231,
+   "n_members": 237,
    "n_sources": 34,
    "counts": {
     "left": 8,
@@ -51,23 +51,23 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.608,
+   "divergence": 0.603,
    "category": "société",
    "terms_left": [
     "mouvement",
-    "syndicats",
-    "jeunesse"
+    "jeunesse",
+    "syndicats"
    ],
    "terms_right": [
     "colère",
     "colère lycéenne",
-    "crise"
+    "manifestation"
    ]
   },
   {
    "title": "Smic à 1.502 euros, prime carburant...: les annonces du gouvernement sur le pouvoir d'achat",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-debat-d-on-n-arrete-pas-l-eco/le-debat-d-on-n-arrete-pas-l-eco-du-samedi-31-octobre-2026-2865366",
-   "n_members": 117,
+   "n_members": 123,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -81,23 +81,23 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.499,
+   "divergence": 0.477,
    "category": "économie",
    "terms_left": [
     "colère",
-    "ans",
-    "sociale"
+    "sociale",
+    "ans"
    ],
    "terms_right": [
     "euros",
     "pouvoir",
-    "pouvoir achat"
+    "er"
    ]
   },
   {
-   "title": "Social. Grève du 10 novembre dans l'éducation : une nouvelle journée d'action ce mardi",
+   "title": "Manifestations : étudiants, lycéens, profs…A quoi faut-il s’attendre ce mardi 10 novembre ?",
    "url": "https://www.nicematin.com/societe/temoignage/vie-chere-varois-comment-etes-vous-impactes-a-quelques-jours-de-la-manifestation-du-5-novembre-vous-avez-la-parole-10752475",
-   "n_members": 117,
+   "n_members": 122,
    "n_sources": 32,
    "counts": {
     "left": 9,
@@ -111,16 +111,16 @@
    },
    "blindspot_score": -0.059,
    "blindspot_for": null,
-   "divergence": 0.634,
+   "divergence": 0.63,
    "category": "société",
    "terms_left": [
-    "syndicats",
     "direct",
+    "syndicats",
     "journée mobilisation"
    ],
    "terms_right": [
-    "enseignants",
     "journée grève",
+    "grève manifestations",
     "trafic"
    ]
   },
@@ -141,12 +141,12 @@
    },
    "blindspot_score": 0.625,
    "blindspot_for": "gauche",
-   "divergence": 0.45,
+   "divergence": 0.457,
    "category": "politique",
    "terms_left": [
-    "taxe",
     "budgétaire",
-    "colère"
+    "surtaxe",
+    "entreprises"
    ],
    "terms_right": [
     "sénat",
@@ -171,7 +171,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.635,
+   "divergence": 0.638,
    "category": "politique",
    "terms_left": [
     "personnes",
@@ -205,13 +205,43 @@
    "category": "international",
    "terms_left": [
     "midterms",
-    "élections",
-    "victoire"
+    "victoire",
+    "bulle ia"
    ],
    "terms_right": [
-    "street",
+    "wall street",
     "wall",
-    "wall street"
+    "street"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : pourquoi Teddy Riner, quintuple champion olympique, veut désormais conquérir l'Élysée",
+   "url": "https://www.leparisien.fr/elections/presidentielle/les-gens-mont-pousse-a-me-presenter-des-jo-de-paris-a-la-presidentielle-les-coulisses-de-la-candidature-de-teddy-riner-09-11-2026-2CRPIYFKPFG43FTC777BRBLUEE.php",
+   "n_members": 103,
+   "n_sources": 31,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 6
+   },
+   "blindspot_score": 0.294,
+   "blindspot_for": null,
+   "divergence": 0.247,
+   "category": "politique",
+   "terms_left": [
+    "campagne",
+    "riner annonce",
+    "postée"
+   ],
+   "terms_right": [
+    "candidature teddy",
+    "macron",
+    "surprise"
    ]
   },
   {
@@ -245,33 +275,33 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : pourquoi Teddy Riner, quintuple champion olympique, veut désormais conquérir l'Élysée",
-   "url": "https://www.leparisien.fr/elections/presidentielle/les-gens-mont-pousse-a-me-presenter-des-jo-de-paris-a-la-presidentielle-les-coulisses-de-la-candidature-de-teddy-riner-09-11-2026-2CRPIYFKPFG43FTC777BRBLUEE.php",
+   "title": "La France accuse l’Iran de la cyberattaque contre des frigos de supermarchés",
+   "url": "https://www.rfi.fr/fr/podcasts/lignes-de-d%C3%A9fense/20261031-le-salon-euronaval-2026-marque-le-retour-de-la-puissance-navale",
    "n_members": 77,
    "n_sources": 30,
    "counts": {
     "left": 6,
-    "centre": 14,
-    "right": 10
+    "centre": 15,
+    "right": 9
    },
    "style_counts": {
     "factuel": 16,
-    "mixte": 8,
-    "opinion": 6
+    "mixte": 11,
+    "opinion": 3
    },
-   "blindspot_score": 0.25,
+   "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.258,
-   "category": "politique",
+   "divergence": 0.435,
+   "category": "international",
    "terms_left": [
-    "postée",
-    "vidéo postée",
-    "présidentielle quintuple"
+    "enquête",
+    "cyber",
+    "unité"
    ],
    "terms_right": [
-    "ans",
-    "président",
-    "macron"
+    "riposte",
+    "rien",
+    "origine"
    ]
   },
   {
@@ -305,9 +335,9 @@
    ]
   },
   {
-   "title": "Mouvement lycéen : des cours de rattrapage possibles pendant les vacances en février ou à Pâques, annonce Edouard Geffray",
+   "title": "Colère des lycéens : malgré les heures de cours perdues, Édouard Geffray n’a « pas l’intention de toucher » au calendrier du baccalauréat",
    "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/emmanuel-macron-recevra-les-organisations-lyceennes-vendredi-a-15heures-annonce-l-elysee_8249623.html",
-   "n_members": 149,
+   "n_members": 150,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -321,12 +351,12 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.609,
+   "divergence": 0.604,
    "category": "société",
    "terms_left": [
     "mouvement lycéen",
     "mobilisation lycéenne",
-    "lycéen"
+    "edouard"
    ],
    "terms_right": [
     "édouard geffray",
@@ -335,39 +365,9 @@
    ]
   },
   {
-   "title": "La France accuse l’Iran de la cyberattaque contre des frigos de supermarchés",
-   "url": "https://www.rfi.fr/fr/podcasts/lignes-de-d%C3%A9fense/20261031-le-salon-euronaval-2026-marque-le-retour-de-la-puissance-navale",
-   "n_members": 62,
-   "n_sources": 29,
-   "counts": {
-    "left": 6,
-    "centre": 15,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 11,
-    "opinion": 2
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.505,
-   "category": "international",
-   "terms_left": [
-    "enquête",
-    "frigos iran",
-    "justice"
-   ],
-   "terms_right": [
-    "mois",
-    "chef",
-    "qu"
-   ]
-  },
-  {
-   "title": "Pologne : l'auteur de la tuerie de Cracovie est mort à l'hôpital",
+   "title": "Pologne : ce que l'on sait après la mort de six personnes dans une fusillade à Cracovie",
    "url": "https://fr.euronews.com/2026/11/05/turquie-huit-morts-dans-des-fusillades-vaste-chasse-a-lhomme-pour-retrouver-le-suspect",
-   "n_members": 108,
+   "n_members": 109,
    "n_sources": 28,
    "counts": {
     "left": 7,
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.32,
+   "divergence": 0.341,
    "category": "international",
    "terms_left": [
     "droite",
@@ -395,9 +395,9 @@
    ]
   },
   {
-   "title": "Une pétition appelant à fermer CNews atteint un million de signatures sur le site de l'Assemblée nationale",
+   "title": "La pétition appelant à fermer CNews dépasse le million de signatures sur le site de l’Assemblée nationale",
    "url": "https://www.humanite.fr/medias/assemblee-nationale/une-petition-pour-la-fermeture-de-cnews-cartonne-sur-le-site-de-lassemblee-nationale",
-   "n_members": 84,
+   "n_members": 103,
    "n_sources": 28,
    "counts": {
     "left": 10,
@@ -411,17 +411,17 @@
    },
    "blindspot_score": -0.25,
    "blindspot_for": null,
-   "divergence": 0.427,
+   "divergence": 0.363,
    "category": "culture",
    "terms_left": [
+    "chaîne",
     "assemblée",
-    "dépasse signatures",
     "fermer"
    ],
    "terms_right": [
     "suppression cnews",
-    "million signatures",
-    "média"
+    "liberté",
+    "dépassé million"
    ]
   },
   {
@@ -477,9 +477,39 @@
    ]
   },
   {
-   "title": "[BRÈVE] Toulouse : des pressions sur des lycéens voulant aller en cours",
+   "title": "France : ouverture du procès de trois policiers pour le passage à tabac du producteur Michel Zecler",
+   "url": "https://www.cnews.fr/faits-divers/2026-11-01/rouen-lissue-dune-rencontre-de-football-une-rixe-eclate-aux-abords-dun-bar",
+   "n_members": 86,
+   "n_sources": 27,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 9,
+    "opinion": 6
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.677,
+   "category": "société",
+   "terms_left": [
+    "paris",
+    "procès policiers",
+    "passé tabac"
+   ],
+   "terms_right": [
+    "agression",
+    "ans",
+    "zecler policiers"
+   ]
+  },
+  {
+   "title": "Blocage des lycées : deux petits feux mais une situation globalement calme... La journée de mobilisation du 10 novembre a commencé à Toulouse",
    "url": "https://www.challenges.fr/entreprise/medias/tiktok-centre-la-mobilisation-sur-les-likes-et-les-vues-apres-le-17-octobre-le-nouveau-role-ambigu-des-reseaux-sociaux_646647",
-   "n_members": 71,
+   "n_members": 72,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -493,7 +523,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.673,
+   "divergence": 0.675,
    "category": "société",
    "terms_left": [
     "mouvement lycéen",
@@ -504,6 +534,66 @@
     "lycéens",
     "colère",
     "direct"
+   ]
+  },
+  {
+   "title": "Jensen Huang, PDG de Nvidia, pris dans un scandale d’adultère et d’espionnage : on vous explique l’affaire",
+   "url": "https://www.lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html",
+   "n_members": 62,
+   "n_sources": 27,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.352,
+   "category": "international",
+   "terms_left": [
+    "chinois",
+    "espionnage",
+    "affaire"
+   ],
+   "terms_right": [
+    "espionne",
+    "espionne chinoise",
+    "chinoise"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : Gabriel Attal défend une primaire « inéluctable » face à Édouard Philippe",
+   "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-david-lisnard-de-nouveau-devant-bruno-retailleau-selon-notre-sondage-25-10-2026-YCUCGEBESVBQXEEFSSUQ2M5YTY.php",
+   "n_members": 139,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 5
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.343,
+   "category": "politique",
+   "terms_left": [
+    "edouard philippe",
+    "edouard",
+    "juge"
+   ],
+   "terms_right": [
+    "primaire démocrates",
+    "démocrates",
+    "qu"
    ]
   },
   {
@@ -523,12 +613,12 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.463,
+   "divergence": 0.468,
    "category": "politique",
    "terms_left": [
-    "national",
     "groupe",
-    "france"
+    "france",
+    "assure"
    ],
    "terms_right": [
     "david lisnard",
@@ -553,7 +643,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.853,
+   "divergence": 0.854,
    "category": "économie",
    "terms_left": [
     "sénat",
@@ -569,7 +659,7 @@
   {
    "title": "« Midterms » : après leur victoire face à Trump, les démocrates face au défi de l’unité pour 2028",
    "url": "https://www.leparisien.fr/international/etats-unis/elections-americaines/midterms-2026-abdul-el-sayed-le-trublion-qui-bouscule-les-democrates-americains-01-11-2026-NPDAIGTG4BCDXFFGNXLWY5YLWA.php",
-   "n_members": 58,
+   "n_members": 59,
    "n_sources": 26,
    "counts": {
     "left": 8,
@@ -583,7 +673,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.561,
+   "divergence": 0.565,
    "category": "international",
    "terms_left": [
     "démocrate",
@@ -597,63 +687,33 @@
    ]
   },
   {
-   "title": "Jensen Huang, PDG de Nvidia, pris dans un scandale d’adultère et d’espionnage : on vous explique l’affaire",
-   "url": "https://www.lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html",
-   "n_members": 51,
+   "title": "États-Unis : le ministre de la Justice Todd Blanche prêt à défendre l’administration Trump face aux démocrates",
+   "url": "https://www.lemonde.fr/economie/article/2026/10/23/mark-zuckerberg-restera-en-californie-meme-en-cas-d-impot-sur-la-fortune_6798940_3234.html",
+   "n_members": 46,
    "n_sources": 26,
    "counts": {
-    "left": 5,
-    "centre": 13,
+    "left": 7,
+    "centre": 11,
     "right": 8
    },
    "style_counts": {
-    "factuel": 15,
-    "mixte": 10,
-    "opinion": 1
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.381,
-   "category": "international",
-   "terms_left": [
-    "espionnage",
-    "chinois",
-    "pékin"
-   ],
-   "terms_right": [
-    "espionne",
-    "espionne chinoise",
-    "chinoise"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : Gabriel Attal défend une primaire « inéluctable » face à Édouard Philippe",
-   "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-david-lisnard-de-nouveau-devant-bruno-retailleau-selon-notre-sondage-25-10-2026-YCUCGEBESVBQXEEFSSUQ2M5YTY.php",
-   "n_members": 137,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
+    "factuel": 13,
+    "mixte": 9,
     "opinion": 4
    },
-   "blindspot_score": 0.286,
+   "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.344,
-   "category": "politique",
+   "divergence": 0.492,
+   "category": "international",
    "terms_left": [
-    "edouard philippe",
-    "edouard",
-    "juge"
+    "californie",
+    "milliardaires",
+    "trump"
    ],
    "terms_right": [
-    "primaire démocrates",
-    "démocrates",
-    "qu"
+    "taxe",
+    "veut",
+    "californiens"
    ]
   },
   {
@@ -673,12 +733,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.566,
+   "divergence": 0.578,
    "category": "international",
    "terms_left": [
-    "armée",
     "oblast",
-    "guerre"
+    "guerre",
+    "guerre ukraine"
    ],
    "terms_right": [
     "frappes russes",
@@ -687,9 +747,9 @@
    ]
   },
   {
-   "title": "France: Lecornu réunit partenaires sociaux, lycéens et étudiants pour tenter d'apaiser la colère sociale",
+   "title": "Conférence sociale : pour répondre à la colère, le Premier ministre réunit lundi matin les syndicats",
    "url": "https://www.europe1.fr/societe/en-direct-mouvement-des-lyceens-sebastien-lecornu-redit-etre-pret-a-recevoir-de-nouveau-les-lyceens-la-semaine-prochaine-1202214",
-   "n_members": 84,
+   "n_members": 86,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -703,53 +763,23 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.349,
+   "divergence": 0.35,
    "category": "politique",
    "terms_left": [
-    "parcoursup",
     "jeunesse",
-    "recevoir"
+    "parcoursup",
+    "mobilisation"
    ],
    "terms_right": [
-    "colère sociale",
     "sociale",
+    "sociale syndicats",
     "organisations"
    ]
   },
   {
-   "title": "France: six ans après le tabassage de Michel Zecler, trois policiers comparaissent devant la justice",
-   "url": "https://www.cnews.fr/faits-divers/2026-11-01/rouen-lissue-dune-rencontre-de-football-une-rixe-eclate-aux-abords-dun-bar",
-   "n_members": 83,
-   "n_sources": 25,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 6
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.708,
-   "category": "société",
-   "terms_left": [
-    "paris",
-    "procès policiers",
-    "écriture publique"
-   ],
-   "terms_right": [
-    "agression",
-    "ans",
-    "zecler policiers"
-   ]
-  },
-  {
-   "title": "« Il ne suffira pas d’avoir rempli ses objectifs » : face à l’inflation et aux incertitudes économiques, les cadres devront batailler pour obtenir une augmentation",
+   "title": "Présidentielle 2027. Hausse du brut, baisse des charges... ce que proposent les candidats pour augmenter les salaires",
    "url": "https://www.nicematin.com/conso/l-acceleration-de-la-transition-vers-l-electrique-tirees-par-l-electrique-les-ventes-de-voitures-neuves-en-france-progressent-de-7-en-octobre-10750891",
-   "n_members": 61,
+   "n_members": 62,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -763,16 +793,16 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.693,
+   "divergence": 0.673,
    "category": "économie",
    "terms_left": [
+    "vraiment",
     "prix",
-    "carburants",
-    "prix carburants"
+    "carburants"
    ],
    "terms_right": [
-    "gouvernement",
     "inflation",
+    "gouvernement",
     "cœur"
    ]
   },
@@ -823,7 +853,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.616,
+   "divergence": 0.614,
    "category": "politique",
    "terms_left": [
     "france",
@@ -833,13 +863,13 @@
    "terms_right": [
     "paris",
     "qu",
-    "ia"
+    "président"
    ]
   },
   {
    "title": "Les overdoses ont plus que doublé en 10 ans, les drogues de synthèse en plein essor, selon l'office antistupéfiants",
    "url": "https://www.franceinfo.fr/economie/pouvoir-achat/trois-francais-sur-quatre-jugent-le-cout-du-chauffage-au-gaz-trop-eleve-selon-un-sondage-de-que-choisir-ensemble_8262911.html",
-   "n_members": 55,
+   "n_members": 56,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -853,7 +883,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.717,
+   "divergence": 0.72,
    "category": "économie",
    "terms_left": [
     "vivre",
@@ -861,45 +891,15 @@
     "pouvoir"
    ],
    "terms_right": [
+    "qu",
     "prix",
-    "euros",
-    "qu"
+    "euros"
    ]
   },
   {
-   "title": "États-Unis : le ministre de la Justice Todd Blanche prêt à défendre l’administration Trump face aux démocrates",
-   "url": "https://www.lemonde.fr/economie/article/2026/10/23/mark-zuckerberg-restera-en-californie-meme-en-cas-d-impot-sur-la-fortune_6798940_3234.html",
-   "n_members": 45,
-   "n_sources": 25,
-   "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 4
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.493,
-   "category": "international",
-   "terms_left": [
-    "californie",
-    "milliardaires",
-    "trump"
-   ],
-   "terms_right": [
-    "taxe",
-    "veut",
-    "fortune"
-   ]
-  },
-  {
-   "title": "Au procès des parents de « la petite inconnue de l’A10 » : « Vous avez compris de quoi votre fille est morte ? – Elle était très fatiguée », dit la mère",
+   "title": "\"Je pense qu'elle se souvient de tout\" : les experts psychologues et psychiatres livrent leurs rapports sur les accusés",
    "url": "https://www.ladepeche.fr/2026/10/28/recit-affaire-de-la-petite-martyre-de-la10-les-parents-dinass-la-fillette-retrouvee-morte-en-1987-vont-etre-juges-39-ans-apres-retour-sur-laffaire-en-13622231.php",
-   "n_members": 97,
+   "n_members": 99,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -913,17 +913,47 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.478,
+   "divergence": 0.454,
    "category": "société",
    "terms_left": [
-    "inconnue",
     "petite",
+    "inconnue",
     "procès petite"
    ],
    "terms_right": [
     "ans",
     "martyre",
     "ouvre"
+   ]
+  },
+  {
+   "title": "Guerre au Moyen-Orient : Donald Trump dit voir «un élan positif» vers un accord avec l'Iran après avoir rencontré le Premier ministre du Qatar",
+   "url": "https://www.20minutes.fr/monde/etats-unis/4261118-20261107-guerre-iran-washington-offre-20-millions-dollars-toute-information-programme-nucleaire-teheran",
+   "n_members": 66,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.706,
+   "category": "international",
+   "terms_left": [
+    "nucléaire",
+    "etats-unis",
+    "expulsions"
+   ],
+   "terms_right": [
+    "guerre",
+    "iran",
+    "qu"
    ]
   },
   {
@@ -943,47 +973,17 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.708,
+   "divergence": 0.718,
    "category": "société",
    "terms_left": [
-    "coordination gilets",
-    "concorde",
+    "sociale",
+    "direct",
     "jeunesse"
    ],
    "terms_right": [
-    "qu",
-    "nationale",
-    "france"
-   ]
-  },
-  {
-   "title": "Guerre au Moyen-Orient : Donald Trump juge «très improbable» une reprise des hostilités",
-   "url": "https://www.20minutes.fr/monde/etats-unis/4261118-20261107-guerre-iran-washington-offre-20-millions-dollars-toute-information-programme-nucleaire-teheran",
-   "n_members": 60,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.772,
-   "category": "international",
-   "terms_left": [
-    "etats-unis",
-    "expulsions",
-    "immigrés"
-   ],
-   "terms_right": [
-    "iran",
-    "guerre",
-    "reprise"
+    "paris",
+    "france",
+    "qu"
    ]
   },
   {
@@ -1003,12 +1003,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.551,
+   "divergence": 0.553,
    "category": "international",
    "terms_left": [
-    "ans",
     "morts",
-    "tirs"
+    "ans",
+    "marseille"
    ],
    "terms_right": [
     "financier",
@@ -1033,7 +1033,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.273,
+   "divergence": 0.272,
    "category": "faits-divers",
    "terms_left": [
     "ans",
@@ -1042,8 +1042,38 @@
    ],
    "terms_right": [
     "chauffeur",
-    "lent",
-    "vie"
+    "ain",
+    "accident"
+   ]
+  },
+  {
+   "title": "« Justice a été rendue ! » : la chute de Santiago Peña, président destitué du Paraguay, après l’effondrement d’une banque en ligne",
+   "url": "https://www.rfi.fr/fr/france/20261101-proc%C3%A8s-des-duba%C3%AF-papers-trois-soci%C3%A9t%C3%A9s-et-14-personnes-dont-un-prince-belge-seront-jug%C3%A9es-%C3%A0-paris",
+   "n_members": 85,
+   "n_sources": 23,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 2
+   },
+   "blindspot_score": 0.455,
+   "blindspot_for": null,
+   "divergence": 0.386,
+   "category": "international",
+   "terms_left": [
+    "démissionne",
+    "pedro",
+    "espagne"
+   ],
+   "terms_right": [
+    "bancaire",
+    "millions",
+    "procès"
    ]
   },
   {
@@ -1063,7 +1093,7 @@
    },
    "blindspot_score": 0.538,
    "blindspot_for": null,
-   "divergence": 0.525,
+   "divergence": 0.526,
    "category": "économie",
    "terms_left": [
     "franchir barre",
@@ -1077,39 +1107,9 @@
    ]
   },
   {
-   "title": "Crise bancaire au Paraguay : Pedro Alliana investi président après la destitution de Santiago Peña",
-   "url": "https://www.rfi.fr/fr/france/20261101-proc%C3%A8s-des-duba%C3%AF-papers-trois-soci%C3%A9t%C3%A9s-et-14-personnes-dont-un-prince-belge-seront-jug%C3%A9es-%C3%A0-paris",
-   "n_members": 82,
-   "n_sources": 22,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.455,
-   "blindspot_for": null,
-   "divergence": 0.396,
-   "category": "international",
-   "terms_left": [
-    "démissionne",
-    "espagne",
-    "ministre"
-   ],
-   "terms_right": [
-    "destitué",
-    "nouveau",
-    "bancaire"
-   ]
-  },
-  {
    "title": "Donald Trump propose le poste de porte-parole de la Maison Blanche à Dana White, le patron de l'UFC",
    "url": "https://www.courrierinternational.com/article/etats-unis-le-projet-d-arc-de-triomphe-de-trump-vise-par-une-nouvelle-plainte_283838",
-   "n_members": 80,
+   "n_members": 81,
    "n_sources": 22,
    "counts": {
     "left": 4,
@@ -1123,12 +1123,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.42,
+   "divergence": 0.443,
    "category": "international",
    "terms_left": [
-    "figure",
     "cabinet",
-    "nomme"
+    "miller",
+    "stephen"
    ],
    "terms_right": [
     "dana white",
@@ -1153,7 +1153,7 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.766,
+   "divergence": 0.765,
    "category": "international",
    "terms_left": [
     "attaques",
@@ -1167,9 +1167,9 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : Laurent Wauquiez réclame un «candidat unique» de la droite «avant Noël»",
+   "title": "Accusé de se faire le \"porte-parole du Kremlin\", Jean-Luc Mélenchon réplique sur l'Ukraine",
    "url": "https://fr.euronews.com/2026/11/05/giorgia-meloni-fustige-lue-pour-son-approche-eclatee-des-pourparlers-de-paix-sur-lukraine",
-   "n_members": 65,
+   "n_members": 68,
    "n_sources": 22,
    "counts": {
     "left": 4,
