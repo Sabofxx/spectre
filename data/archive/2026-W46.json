@@ -1,13 +1,13 @@
 {
  "week": "2026-W46",
- "generated_at": "2026-11-11T08:38:36+00:00",
+ "generated_at": "2026-11-11T16:47:30+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Israël : Gadi Eisenkot pourra-t-il former un gouvernement ?",
    "url": "https://www.humanite.fr/monde/benyamin-netanyahou/interdits-dinformer-israel-refuse-lentree-a-lenvoye-special-de-lhumanite",
-   "n_members": 434,
+   "n_members": 435,
    "n_sources": 37,
    "counts": {
     "left": 9,
@@ -21,17 +21,47 @@
    },
    "blindspot_score": 0.217,
    "blindspot_for": null,
-   "divergence": 0.263,
+   "divergence": 0.259,
    "category": "international",
    "terms_left": [
     "elections",
-    "parti",
-    "knesset"
+    "knesset",
+    "isaac herzog"
    ],
    "terms_right": [
     "benjamin",
     "netanyahu",
     "majorité"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : pourquoi Teddy Riner, quintuple champion olympique, veut désormais conquérir l'Élysée",
+   "url": "https://www.leparisien.fr/elections/presidentielle/les-gens-mont-pousse-a-me-presenter-des-jo-de-paris-a-la-presidentielle-les-coulisses-de-la-candidature-de-teddy-riner-09-11-2026-2CRPIYFKPFG43FTC777BRBLUEE.php",
+   "n_members": 144,
+   "n_sources": 35,
+   "counts": {
+    "left": 8,
+    "centre": 15,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 11,
+    "opinion": 7
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.226,
+   "category": "politique",
+   "terms_left": [
+    "campagne",
+    "vidéo postée",
+    "postée"
+   ],
+   "terms_right": [
+    "candidature teddy",
+    "présidentielle",
+    "surprise"
    ]
   },
   {
@@ -65,39 +95,9 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : pourquoi Teddy Riner, quintuple champion olympique, veut désormais conquérir l'Élysée",
-   "url": "https://www.leparisien.fr/elections/presidentielle/les-gens-mont-pousse-a-me-presenter-des-jo-de-paris-a-la-presidentielle-les-coulisses-de-la-candidature-de-teddy-riner-09-11-2026-2CRPIYFKPFG43FTC777BRBLUEE.php",
-   "n_members": 128,
-   "n_sources": 34,
-   "counts": {
-    "left": 7,
-    "centre": 15,
-    "right": 12
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 10,
-    "opinion": 7
-   },
-   "blindspot_score": 0.263,
-   "blindspot_for": null,
-   "divergence": 0.241,
-   "category": "politique",
-   "terms_left": [
-    "campagne",
-    "riner annonce",
-    "vidéo postée"
-   ],
-   "terms_right": [
-    "candidature teddy",
-    "macron",
-    "emmanuel"
-   ]
-  },
-  {
    "title": "Smic à 1.502 euros, prime carburant...: les annonces du gouvernement sur le pouvoir d'achat",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-debat-d-on-n-arrete-pas-l-eco/le-debat-d-on-n-arrete-pas-l-eco-du-samedi-31-octobre-2026-2865366",
-   "n_members": 125,
+   "n_members": 128,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -111,17 +111,47 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.473,
+   "divergence": 0.468,
    "category": "économie",
    "terms_left": [
+    "mobilisation",
     "colère",
-    "sociale",
     "ans"
    ],
    "terms_right": [
     "euros",
     "augmentation",
     "pouvoir"
+   ]
+  },
+  {
+   "title": "Cyberattaque contre des frigos : la France accuse l’Iran",
+   "url": "https://www.rfi.fr/fr/podcasts/lignes-de-d%C3%A9fense/20261031-le-salon-euronaval-2026-marque-le-retour-de-la-puissance-navale",
+   "n_members": 109,
+   "n_sources": 33,
+   "counts": {
+    "left": 6,
+    "centre": 17,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 12,
+    "opinion": 4
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.405,
+   "category": "international",
+   "terms_left": [
+    "enquête",
+    "frigos iran",
+    "unité"
+   ],
+   "terms_right": [
+    "chef",
+    "riposte",
+    "connectés"
    ]
   },
   {
@@ -171,7 +201,7 @@
    },
    "blindspot_score": 0.625,
    "blindspot_for": "gauche",
-   "divergence": 0.457,
+   "divergence": 0.456,
    "category": "politique",
    "terms_left": [
     "budgétaire",
@@ -182,36 +212,6 @@
     "sénat",
     "rejet",
     "face"
-   ]
-  },
-  {
-   "title": "Cyberattaque contre des frigos : la France accuse l’Iran",
-   "url": "https://www.rfi.fr/fr/podcasts/lignes-de-d%C3%A9fense/20261031-le-salon-euronaval-2026-marque-le-retour-de-la-puissance-navale",
-   "n_members": 105,
-   "n_sources": 32,
-   "counts": {
-    "left": 6,
-    "centre": 16,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 11,
-    "opinion": 4
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.405,
-   "category": "international",
-   "terms_left": [
-    "enquête",
-    "frigos iran",
-    "unité"
-   ],
-   "terms_right": [
-    "chef",
-    "riposte",
-    "connectés"
    ]
   },
   {
@@ -231,12 +231,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.663,
+   "divergence": 0.68,
    "category": "politique",
    "terms_left": [
     "glucksmann",
     "raphaël glucksmann",
-    "raphaël"
+    "mélenchon"
    ],
    "terms_right": [
     "présidentielle",
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.304,
+   "divergence": 0.309,
    "category": "international",
    "terms_left": [
     "sait",
@@ -307,7 +307,7 @@
   {
    "title": "Présidentielle 2027 : Christine Lagarde tentée par l’Élysée ?",
    "url": "https://information.tv5monde.com/international/bce-statu-quo-attendu-sur-les-taux-les-regards-tournes-vers-lapres-lagarde-2843561",
-   "n_members": 61,
+   "n_members": 62,
    "n_sources": 30,
    "counts": {
     "left": 5,
@@ -321,17 +321,17 @@
    },
    "blindspot_score": 0.412,
    "blindspot_for": null,
-   "divergence": 0.216,
+   "divergence": 0.217,
    "category": "économie",
    "terms_left": [
-    "droite",
     "succession christine",
-    "annonce"
+    "annonce",
+    "droite"
    ],
    "terms_right": [
     "france",
-    "sud",
-    "christine lagarde"
+    "lagarde quitter",
+    "quitter présidence"
    ]
   },
   {
@@ -351,7 +351,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.603,
+   "divergence": 0.607,
    "category": "société",
    "terms_left": [
     "mouvement lycéen",
@@ -365,9 +365,9 @@
    ]
   },
   {
-   "title": "Pétition contre CNews : les députés classent le texte sans suite malgré plus d’un million de signatures appelant à la fermeture de la chaîne",
+   "title": "Malgré un million de signatures, la pétition pour « supprimer CNews » n’aura pas de suite à l’Assemblée",
    "url": "https://www.humanite.fr/medias/assemblee-nationale/une-petition-pour-la-fermeture-de-cnews-cartonne-sur-le-site-de-lassemblee-nationale",
-   "n_members": 113,
+   "n_members": 115,
    "n_sources": 29,
    "counts": {
     "left": 11,
@@ -381,17 +381,47 @@
    },
    "blindspot_score": -0.294,
    "blindspot_for": null,
-   "divergence": 0.32,
+   "divergence": 0.311,
    "category": "culture",
    "terms_left": [
     "chaîne",
     "fermer",
-    "assemblée"
+    "malgré"
    ],
    "terms_right": [
     "liberté",
     "suppression cnews",
-    "pétition réclamant"
+    "liberté expression"
+   ]
+  },
+  {
+   "title": "« J’ai été traité de ”sale n*gre” » : le procès des policiers agresseurs de Michel Zecler s’ouvre",
+   "url": "https://www.cnews.fr/faits-divers/2026-11-01/rouen-lissue-dune-rencontre-de-football-une-rixe-eclate-aux-abords-dun-bar",
+   "n_members": 99,
+   "n_sources": 29,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 7
+   },
+   "blindspot_score": 0.176,
+   "blindspot_for": null,
+   "divergence": 0.587,
+   "category": "société",
+   "terms_left": [
+    "paris",
+    "passé tabac",
+    "passé"
+   ],
+   "terms_right": [
+    "agression",
+    "policiers jugés",
+    "zecler policiers"
    ]
   },
   {
@@ -411,47 +441,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.35,
+   "divergence": 0.387,
    "category": "international",
    "terms_left": [
-    "attaque",
-    "attentat cracovie",
-    "droite"
+    "homme",
+    "personnes",
+    "attaque"
    ],
    "terms_right": [
     "fusillade",
-    "police",
-    "cracovie pologne"
-   ]
-  },
-  {
-   "title": "« J’ai été traité de ”sale n*gre” » : le procès des policiers agresseurs de Michel Zecler s’ouvre",
-   "url": "https://www.cnews.fr/faits-divers/2026-11-01/rouen-lissue-dune-rencontre-de-football-une-rixe-eclate-aux-abords-dun-bar",
-   "n_members": 94,
-   "n_sources": 28,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 6
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.621,
-   "category": "société",
-   "terms_left": [
-    "paris",
-    "procès",
-    "procès policiers"
-   ],
-   "terms_right": [
-    "agression",
-    "ans",
-    "policiers jugés"
+    "auteur",
+    "police"
    ]
   },
   {
@@ -493,7 +493,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.686,
+   "divergence": 0.685,
    "category": "international",
    "terms_left": [
     "direct",
@@ -523,7 +523,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.676,
+   "divergence": 0.675,
    "category": "société",
    "terms_left": [
     "mouvement lycéen",
@@ -539,7 +539,7 @@
   {
    "title": "Jensen Huang, PDG de Nvidia, pris dans un scandale d’adultère et d’espionnage : on vous explique l’affaire",
    "url": "https://www.lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html",
-   "n_members": 70,
+   "n_members": 72,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -553,7 +553,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.343,
+   "divergence": 0.346,
    "category": "international",
    "terms_left": [
     "espionnage",
@@ -583,12 +583,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.563,
+   "divergence": 0.562,
    "category": "international",
    "terms_left": [
     "démocrate",
     "fin",
-    "américain"
+    "michigan"
    ],
    "terms_right": [
     "donald trump",
@@ -599,7 +599,7 @@
   {
    "title": "Présidentielle 2027 : Bruno Retailleau propose une primaire de la droite et du centre les 31 janvier et 7 février",
    "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-david-lisnard-de-nouveau-devant-bruno-retailleau-selon-notre-sondage-25-10-2026-YCUCGEBESVBQXEEFSSUQ2M5YTY.php",
-   "n_members": 146,
+   "n_members": 148,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -613,7 +613,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.335,
+   "divergence": 0.319,
    "category": "politique",
    "terms_left": [
     "edouard philippe",
@@ -643,17 +643,17 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.468,
+   "divergence": 0.469,
    "category": "politique",
    "terms_left": [
     "groupe",
-    "communistes",
-    "assure"
+    "assure",
+    "communistes"
    ],
    "terms_right": [
     "david lisnard",
     "david",
-    "candidat"
+    "lisnard"
    ]
   },
   {
@@ -673,7 +673,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.859,
+   "divergence": 0.863,
    "category": "économie",
    "terms_left": [
     "enfants",
@@ -683,13 +683,43 @@
    "terms_right": [
     "lefèvre",
     "mathieu lefèvre",
-    "bregeon"
+    "maud bregeon"
    ]
   },
   {
-   "title": "États-Unis : le ministre de la Justice Todd Blanche prêt à défendre l’administration Trump face aux démocrates",
+   "title": "Pourquoi des syndicats d’enseignants appellent-ils au boycott des cérémonies du 11-Novembre ?",
+   "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-clairon-a-l-ecole-enjeux-politiques-des-commemorations-2706356",
+   "n_members": 57,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.721,
+   "category": "société",
+   "terms_left": [
+    "france",
+    "morts",
+    "morts france"
+   ],
+   "terms_right": [
+    "mobilisation",
+    "enseignants",
+    "qu"
+   ]
+  },
+  {
+   "title": "États-Unis : la famille Kennedy porte plainte contre le projet d’arc de triomphe de Trump",
    "url": "https://www.lemonde.fr/economie/article/2026/10/23/mark-zuckerberg-restera-en-californie-meme-en-cas-d-impot-sur-la-fortune_6798940_3234.html",
-   "n_members": 46,
+   "n_members": 51,
    "n_sources": 26,
    "counts": {
     "left": 7,
@@ -703,17 +733,17 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.493,
+   "divergence": 0.492,
    "category": "international",
    "terms_left": [
     "californie",
     "milliardaires",
-    "trump"
+    "proposition"
    ],
    "terms_right": [
-    "taxe",
-    "veut",
-    "californiens"
+    "famille kennedy",
+    "kennedy",
+    "projet"
    ]
   },
   {
@@ -733,17 +763,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.586,
+   "divergence": 0.605,
    "category": "international",
    "terms_left": [
-    "guerre",
-    "oblast",
-    "direct"
+    "direct",
+    "attaque russe",
+    "infrastructures"
    ],
    "terms_right": [
     "frappes russes",
-    "centaines milliers",
-    "centaines"
+    "moscou",
+    "centaines milliers"
    ]
   },
   {
@@ -763,17 +793,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.359,
+   "divergence": 0.382,
    "category": "politique",
    "terms_left": [
+    "recevoir",
     "jeunesse",
-    "parcoursup",
-    "heures"
+    "parcoursup"
    ],
    "terms_right": [
     "sociale",
-    "sociale syndicats",
-    "colère sociale"
+    "colère sociale",
+    "colère"
    ]
   },
   {
@@ -793,7 +823,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.676,
+   "divergence": 0.677,
    "category": "économie",
    "terms_left": [
     "vraiment",
@@ -823,7 +853,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.594,
+   "divergence": 0.596,
    "category": "société",
    "terms_left": [
     "trappes",
@@ -853,17 +883,47 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.615,
+   "divergence": 0.607,
    "category": "politique",
    "terms_left": [
     "france",
     "info",
-    "ans"
+    "enfant ans"
    ],
    "terms_right": [
-    "paris",
-    "qu",
-    "président"
+    "président",
+    "ia",
+    "qu"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : Eric Zemmour annonce officiellement sa candidature à l'élection",
+   "url": "https://www.ladepeche.fr/2026/11/06/decryptage-presidentielle-2027-emmanuel-macron-cherche-t-il-a-reprendre-la-main-sur-la-campagne-13638241.php",
+   "n_members": 60,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.707,
+   "category": "politique",
+   "terms_left": [
+    "jours",
+    "place",
+    "élu"
+   ],
+   "terms_right": [
+    "zemmour",
+    "candidature",
+    "élection présidentielle"
    ]
   },
   {
@@ -883,7 +943,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.72,
+   "divergence": 0.721,
    "category": "économie",
    "terms_left": [
     "vivre",
@@ -897,39 +957,9 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : Eric Zemmour annonce officiellement sa candidature à l'élection",
-   "url": "https://www.ladepeche.fr/2026/11/06/decryptage-presidentielle-2027-emmanuel-macron-cherche-t-il-a-reprendre-la-main-sur-la-campagne-13638241.php",
-   "n_members": 53,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.733,
-   "category": "politique",
-   "terms_left": [
-    "jours",
-    "place",
-    "élu"
-   ],
-   "terms_right": [
-    "zemmour",
-    "ministre",
-    "élection présidentielle"
-   ]
-  },
-  {
    "title": "Procès des parents de la « Martyre de l’A10 » : viols conjugaux, violences sur sa fille… Ce qu’il faut retenir des conclusions psychiatriques de la mère",
    "url": "https://www.ladepeche.fr/2026/10/28/recit-affaire-de-la-petite-martyre-de-la10-les-parents-dinass-la-fillette-retrouvee-morte-en-1987-vont-etre-juges-39-ans-apres-retour-sur-laffaire-en-13622231.php",
-   "n_members": 103,
+   "n_members": 104,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -1003,7 +1033,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.715,
+   "divergence": 0.721,
    "category": "international",
    "terms_left": [
     "nucléaire",
@@ -1012,8 +1042,38 @@
    ],
    "terms_right": [
     "guerre",
-    "iran",
-    "qu"
+    "qu",
+    "guerre iran"
+   ]
+  },
+  {
+   "title": "Électrification, financements, déchets… Quels sont les enjeux de la COP31 qui vient de s’ouvrir en Turquie ?",
+   "url": "https://www.sudouest.fr/environnement/conference-pour-le-climat/cop31-en-turquie-un-sommet-mondial-sous-tension-debute-lundi-a-antalya-face-a-l-urgence-climatique-et-aux-divisions-geopolitiques-31409559.php",
+   "n_members": 62,
+   "n_sources": 24,
+   "counts": {
+    "left": 8,
+    "centre": 12,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": -0.333,
+   "blindspot_for": null,
+   "divergence": 0.552,
+   "category": "environnement",
+   "terms_left": [
+    "ouvre",
+    "fossiles",
+    "énergies fossiles"
+   ],
+   "terms_right": [
+    "ouverte",
+    "chef",
+    "gaz"
    ]
   },
   {
@@ -1033,12 +1093,12 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.738,
+   "divergence": 0.722,
    "category": "société",
    "terms_left": [
     "direct",
     "europe",
-    "conférence"
+    "semaines"
    ],
    "terms_right": [
     "paris",
@@ -1047,9 +1107,9 @@
    ]
   },
   {
-   "title": "Arabie saoudite: les Houthis revendiquent l'attaque du coeur financier de Riyad, deux missiles balistiques interceptés",
+   "title": "Égypte. Collision de deux trains au sud du Caire : le bilan s’alourdit à sept morts et une centaine de blessés",
    "url": "https://www.ladepeche.fr/2026/11/05/manifestation-du-17-octobre-a-toulouse-des-responsables-syndicales-blessees-par-des-grenades-deposent-plainte-13637513.php",
-   "n_members": 48,
+   "n_members": 49,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -1063,17 +1123,17 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.57,
+   "divergence": 0.564,
    "category": "international",
    "terms_left": [
-    "ans",
     "pétrolier aramco",
-    "attaque"
+    "ans",
+    "morts"
    ],
    "terms_right": [
     "financier",
     "quartier financier",
-    "bâtiment"
+    "attaques"
    ]
   },
   {
@@ -1125,76 +1185,8 @@
    "blindspot_for": null,
    "divergence": 0.517,
    "category": "économie",
-   "terms_left": [
-    "franchir barre",
-    "barre",
-    "franchir"
-   ],
-   "terms_right": [
-    "euros",
-    "smic",
-    "hausse"
-   ]
-  },
-  {
-   "title": "Électrification, financements, déchets… Quels sont les enjeux de la COP31 qui vient de s’ouvrir en Turquie ?",
-   "url": "https://www.sudouest.fr/environnement/conference-pour-le-climat/cop31-en-turquie-un-sommet-mondial-sous-tension-debute-lundi-a-antalya-face-a-l-urgence-climatique-et-aux-divisions-geopolitiques-31409559.php",
-   "n_members": 55,
-   "n_sources": 23,
-   "counts": {
-    "left": 8,
-    "centre": 12,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": -0.455,
-   "blindspot_for": null,
-   "divergence": 0.602,
-   "category": "environnement",
-   "terms_left": [
-    "ouvre",
-    "cop",
-    "cop ouvre"
-   ],
-   "terms_right": [
-    "ouverte",
-    "chine",
-    "émissions"
-   ]
-  },
-  {
-   "title": "Pourquoi des syndicats d’enseignants appellent-ils au boycott des cérémonies du 11-Novembre ?",
-   "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-clairon-a-l-ecole-enjeux-politiques-des-commemorations-2706356",
-   "n_members": 49,
-   "n_sources": 23,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.091,
-   "blindspot_for": null,
-   "divergence": 0.73,
-   "category": "société",
-   "terms_left": [
-    "france",
-    "cérémonie",
-    "morts"
-   ],
-   "terms_right": [
-    "enseignants",
-    "sud",
-    "sociale"
-   ]
+   "terms_left": [],
+   "terms_right": []
   }
  ]
 }
