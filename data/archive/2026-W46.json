@@ -1,13 +1,13 @@
 {
  "week": "2026-W46",
- "generated_at": "2026-11-12T03:59:28+00:00",
+ "generated_at": "2026-11-12T12:08:18+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "Israël : Gadi Eisenkot pourra-t-il former un gouvernement ?",
+   "title": "Israël: Gadi Eisenkot fait face à l'ancien Premier ministre Benjamin Netanyahu à l'inauguration de la Knesset",
    "url": "https://www.humanite.fr/monde/benyamin-netanyahou/interdits-dinformer-israel-refuse-lentree-a-lenvoye-special-de-lhumanite",
-   "n_members": 438,
+   "n_members": 439,
    "n_sources": 37,
    "counts": {
     "left": 9,
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.217,
    "blindspot_for": null,
-   "divergence": 0.263,
+   "divergence": 0.265,
    "category": "international",
    "terms_left": [
     "elections",
@@ -29,15 +29,15 @@
     "gauche"
    ],
    "terms_right": [
-    "benjamin",
     "netanyahu",
+    "majorité",
     "netanyahou"
    ]
   },
   {
    "title": "Présidentielle 2027 : pourquoi Teddy Riner, quintuple champion olympique, veut désormais conquérir l'Élysée",
    "url": "https://www.leparisien.fr/elections/presidentielle/les-gens-mont-pousse-a-me-presenter-des-jo-de-paris-a-la-presidentielle-les-coulisses-de-la-candidature-de-teddy-riner-09-11-2026-2CRPIYFKPFG43FTC777BRBLUEE.php",
-   "n_members": 150,
+   "n_members": 159,
    "n_sources": 35,
    "counts": {
     "left": 8,
@@ -51,12 +51,12 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.218,
+   "divergence": 0.213,
    "category": "politique",
    "terms_left": [
     "campagne",
-    "postée",
-    "vidéo postée"
+    "riner annonce",
+    "sérieux"
    ],
    "terms_right": [
     "macron",
@@ -65,9 +65,39 @@
    ]
   },
   {
+   "title": "Smic à 1.502 euros, prime carburant...: les annonces du gouvernement sur le pouvoir d'achat",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/le-debat-d-on-n-arrete-pas-l-eco/le-debat-d-on-n-arrete-pas-l-eco-du-samedi-31-octobre-2026-2865366",
+   "n_members": 132,
+   "n_sources": 35,
+   "counts": {
+    "left": 8,
+    "centre": 17,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 20,
+    "mixte": 12,
+    "opinion": 3
+   },
+   "blindspot_score": 0.111,
+   "blindspot_for": null,
+   "divergence": 0.466,
+   "category": "économie",
+   "terms_left": [
+    "sociale",
+    "mobilisation",
+    "colère"
+   ],
+   "terms_right": [
+    "euros",
+    "er",
+    "augmentation"
+   ]
+  },
+  {
    "title": "EN DIRECT - Colère sociale : nouvelle journée de mobilisation dans l'éducation, 10.000 manifestants attendus à Paris",
    "url": "https://www.sudradio.fr/societe/faure-ps-pour-interrompre-les-manifestations-il-suffit-de-repondre-aux-revendications",
-   "n_members": 245,
+   "n_members": 247,
    "n_sources": 34,
    "counts": {
     "left": 8,
@@ -81,12 +111,12 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.6,
+   "divergence": 0.597,
    "category": "société",
    "terms_left": [
     "mouvement",
-    "jeunesse",
-    "syndicats"
+    "syndicats",
+    "jeunesse"
    ],
    "terms_right": [
     "colère",
@@ -95,39 +125,9 @@
    ]
   },
   {
-   "title": "Smic à 1.502 euros, prime carburant...: les annonces du gouvernement sur le pouvoir d'achat",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/le-debat-d-on-n-arrete-pas-l-eco/le-debat-d-on-n-arrete-pas-l-eco-du-samedi-31-octobre-2026-2865366",
-   "n_members": 130,
-   "n_sources": 34,
-   "counts": {
-    "left": 7,
-    "centre": 17,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 20,
-    "mixte": 11,
-    "opinion": 3
-   },
-   "blindspot_score": 0.176,
-   "blindspot_for": null,
-   "divergence": 0.462,
-   "category": "économie",
-   "terms_left": [
-    "mobilisation",
-    "colère",
-    "ans"
-   ],
-   "terms_right": [
-    "euros",
-    "er",
-    "augmentation"
-   ]
-  },
-  {
    "title": "Cyberattaque contre des frigos : la France accuse l’Iran",
    "url": "https://www.rfi.fr/fr/podcasts/lignes-de-d%C3%A9fense/20261031-le-salon-euronaval-2026-marque-le-retour-de-la-puissance-navale",
-   "n_members": 111,
+   "n_members": 114,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -141,7 +141,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.389,
+   "divergence": 0.388,
    "category": "international",
    "terms_left": [
     "enquête",
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.625,
    "blindspot_for": "gauche",
-   "divergence": 0.453,
+   "divergence": 0.452,
    "category": "politique",
    "terms_left": [
     "budgétaire",
@@ -209,9 +209,9 @@
     "rn"
    ],
    "terms_right": [
-    "sénat",
     "rejet",
-    "rejeté"
+    "sénat",
+    "guerre"
    ]
   },
   {
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.675,
+   "divergence": 0.689,
    "category": "politique",
    "terms_left": [
     "glucksmann",
@@ -305,9 +305,9 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : Christine Lagarde obtiendrait 14% des voix au premier tour si elle était candidate, selon un sondage",
+   "title": "SONDAGE. Présidentielle 2027 : Christine Lagarde créditée de 14 % des intentions de vote au premier tour si elle se présente",
    "url": "https://information.tv5monde.com/international/bce-statu-quo-attendu-sur-les-taux-les-regards-tournes-vers-lapres-lagarde-2843561",
-   "n_members": 65,
+   "n_members": 68,
    "n_sources": 30,
    "counts": {
     "left": 5,
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.412,
    "blindspot_for": null,
-   "divergence": 0.22,
+   "divergence": 0.217,
    "category": "politique",
    "terms_left": [
     "droite",
@@ -330,8 +330,8 @@
    ],
    "terms_right": [
     "france",
-    "lagarde quitter",
-    "quitter présidence"
+    "présidentielle",
+    "lagarde quitter"
    ]
   },
   {
@@ -351,23 +351,23 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.607,
+   "divergence": 0.604,
    "category": "société",
    "terms_left": [
     "mouvement lycéen",
-    "edouard",
-    "edouard geffray"
+    "mobilisation lycéenne",
+    "mouvement"
    ],
    "terms_right": [
-    "édouard geffray",
-    "édouard",
-    "lycéens"
+    "lycéens",
+    "éducation",
+    "sébastien lecornu"
    ]
   },
   {
    "title": "Malgré un million de signatures, la pétition pour « supprimer CNews » n’aura pas de suite à l’Assemblée",
    "url": "https://www.humanite.fr/medias/assemblee-nationale/une-petition-pour-la-fermeture-de-cnews-cartonne-sur-le-site-de-lassemblee-nationale",
-   "n_members": 115,
+   "n_members": 117,
    "n_sources": 29,
    "counts": {
     "left": 11,
@@ -381,7 +381,7 @@
    },
    "blindspot_score": -0.294,
    "blindspot_for": null,
-   "divergence": 0.306,
+   "divergence": 0.303,
    "category": "culture",
    "terms_left": [
     "chaîne",
@@ -397,7 +397,7 @@
   {
    "title": "« J’ai été traité de ”sale n*gre” » : le procès des policiers agresseurs de Michel Zecler s’ouvre",
    "url": "https://www.cnews.fr/faits-divers/2026-11-01/rouen-lissue-dune-rencontre-de-football-une-rixe-eclate-aux-abords-dun-bar",
-   "n_members": 99,
+   "n_members": 100,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -411,17 +411,17 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.587,
+   "divergence": 0.568,
    "category": "société",
    "terms_left": [
     "paris",
-    "passé tabac",
-    "passé"
+    "procès",
+    "procès policiers"
    ],
    "terms_right": [
     "agression",
-    "policiers jugés",
-    "zecler policiers"
+    "ans",
+    "policiers jugés"
    ]
   },
   {
@@ -441,17 +441,47 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.4,
+   "divergence": 0.383,
    "category": "international",
    "terms_left": [
-    "homme",
-    "attaque",
-    "personnes"
+    "tireur",
+    "droite",
+    "extrême"
    ],
    "terms_right": [
     "fusillade",
-    "auteur",
-    "police"
+    "pologne",
+    "auteur"
+   ]
+  },
+  {
+   "title": "Jensen Huang, PDG de Nvidia, pris dans un scandale d’adultère et d’espionnage : on vous explique l’affaire",
+   "url": "https://www.lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html",
+   "n_members": 99,
+   "n_sources": 28,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.309,
+   "category": "international",
+   "terms_left": [
+    "espionnage",
+    "chinois",
+    "pdg jensen"
+   ],
+   "terms_right": [
+    "alice",
+    "alice huang",
+    "espionne"
    ]
   },
   {
@@ -475,6 +505,36 @@
    "category": "économie",
    "terms_left": [],
    "terms_right": []
+  },
+  {
+   "title": "\"Projet d'attentat\" contre une base aérienne anglaise : les États-Unis inculpent trois \"agents iraniens\"",
+   "url": "https://www.nouvelobs.com/politique/20261108.OBS119946/la-retraite-a-60-ans-de-la-france-insoumise-projet-credible-ou-saut-dans-le-vide.html",
+   "n_members": 50,
+   "n_sources": 28,
+   "counts": {
+    "left": 4,
+    "centre": 16,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.698,
+   "category": "international",
+   "terms_left": [
+    "israéliennes",
+    "colonies",
+    "colonies israéliennes"
+   ],
+   "terms_right": [
+    "base",
+    "présidentielle",
+    "qu"
+   ]
   },
   {
    "title": "L'aide militaire américaine à Israël remise en question?",
@@ -504,36 +564,6 @@
     "donald trump",
     "donald",
     "trump"
-   ]
-  },
-  {
-   "title": "Jensen Huang, PDG de Nvidia, pris dans un scandale d’adultère et d’espionnage : on vous explique l’affaire",
-   "url": "https://www.lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html",
-   "n_members": 76,
-   "n_sources": 27,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 10,
-    "opinion": 2
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.34,
-   "category": "international",
-   "terms_left": [
-    "espionnage",
-    "chinois",
-    "affaire"
-   ],
-   "terms_right": [
-    "espionne",
-    "alice",
-    "alice huang"
    ]
   },
   {
@@ -597,39 +627,9 @@
    ]
   },
   {
-   "title": "\"Projet d'attentat\" contre une base aérienne anglaise : les États-Unis inculpent trois \"agents iraniens\"",
-   "url": "https://www.nouvelobs.com/politique/20261108.OBS119946/la-retraite-a-60-ans-de-la-france-insoumise-projet-credible-ou-saut-dans-le-vide.html",
-   "n_members": 43,
-   "n_sources": 27,
-   "counts": {
-    "left": 4,
-    "centre": 15,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.677,
-   "category": "international",
-   "terms_left": [
-    "israéliennes",
-    "colonies",
-    "colonies israéliennes"
-   ],
-   "terms_right": [
-    "base",
-    "présidentielle",
-    "qu"
-   ]
-  },
-  {
    "title": "Présidentielle 2027 : Bruno Retailleau propose une primaire de la droite et du centre les 31 janvier et 7 février",
    "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-david-lisnard-de-nouveau-devant-bruno-retailleau-selon-notre-sondage-25-10-2026-YCUCGEBESVBQXEEFSSUQ2M5YTY.php",
-   "n_members": 148,
+   "n_members": 154,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -643,7 +643,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.319,
+   "divergence": 0.304,
    "category": "politique",
    "terms_left": [
     "edouard philippe",
@@ -651,9 +651,9 @@
     "juge"
    ],
    "terms_right": [
-    "primaire démocrates",
-    "démocrates",
-    "édouard"
+    "david lisnard",
+    "lisnard",
+    "david"
    ]
   },
   {
@@ -673,12 +673,12 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.475,
+   "divergence": 0.478,
    "category": "politique",
    "terms_left": [
-    "communistes",
     "groupe",
-    "députés"
+    "communistes",
+    "jean-luc"
    ],
    "terms_right": [
     "david lisnard",
@@ -703,17 +703,17 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.862,
+   "divergence": 0.863,
    "category": "économie",
    "terms_left": [
     "enfants",
-    "loi",
-    "projet"
+    "projet",
+    "loi"
    ],
    "terms_right": [
     "mathieu lefèvre",
     "lefèvre",
-    "maud bregeon"
+    "bregeon"
    ]
   },
   {
@@ -733,17 +733,17 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.719,
+   "divergence": 0.74,
    "category": "société",
    "terms_left": [
+    "cérémonie",
     "france",
-    "morts",
-    "morts france"
+    "morts"
    ],
    "terms_right": [
     "mobilisation",
     "enseignants",
-    "cérémonies"
+    "sociale"
    ]
   },
   {
@@ -763,7 +763,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.492,
+   "divergence": 0.491,
    "category": "international",
    "terms_left": [
     "californie",
@@ -779,7 +779,7 @@
   {
    "title": "Pourquoi la Russie interdit de territoire deux journalistes et deux députés français",
    "url": "https://www.lemonde.fr/international/article/2026/11/06/belgique-apres-l-adoption-d-un-projet-de-loi-controverse-autorisant-la-police-a-des-visites-domiciliaires-ses-opposants-denoncent-un-ice-a-la-belge_6807738_3210.html",
-   "n_members": 49,
+   "n_members": 50,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -793,7 +793,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.321,
+   "divergence": 0.32,
    "category": "international",
    "terms_left": [
     "députés sacha",
@@ -802,8 +802,8 @@
    ],
    "terms_right": [
     "entrée",
-    "entrée russie",
-    "pro-kremlin xenia"
+    "pro-kremlin xenia",
+    "entrée russie"
    ]
   },
   {
@@ -823,7 +823,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.61,
+   "divergence": 0.618,
    "category": "international",
    "terms_left": [
     "direct",
@@ -833,7 +833,7 @@
    "terms_right": [
     "frappes russes",
     "moscou",
-    "centaines milliers"
+    "attentat"
    ]
   },
   {
@@ -853,17 +853,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.382,
+   "divergence": 0.374,
    "category": "politique",
    "terms_left": [
-    "recevoir",
-    "jeunesse",
+    "sébastien lecornu",
+    "sébastien",
     "parcoursup"
    ],
    "terms_right": [
     "colère",
-    "sociale",
-    "colère sociale"
+    "colère sociale",
+    "sociale"
    ]
   },
   {
@@ -883,7 +883,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.678,
+   "divergence": 0.677,
    "category": "économie",
    "terms_left": [
     "vraiment",
@@ -899,7 +899,7 @@
   {
    "title": "Marcel sur Franceinfo : « Macron est un c… », c’est vraiment grave si un enfant de 8 ans dit des gros mots ?",
    "url": "https://www.lefigaro.fr/elections/presidentielles/sa-demission-cnews-les-riches-et-sa-vie-d-apres-des-messages-chocs-d-emmanuel-macron-reveles-dans-un-livre-20261103",
-   "n_members": 61,
+   "n_members": 62,
    "n_sources": 25,
    "counts": {
     "left": 4,
@@ -913,23 +913,23 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.606,
+   "divergence": 0.602,
    "category": "politique",
    "terms_left": [
     "france",
-    "info",
-    "enfant ans"
+    "ans",
+    "info"
    ],
    "terms_right": [
     "président",
-    "ia",
-    "qu"
+    "qu",
+    "livre"
    ]
   },
   {
    "title": "Présidentielle 2027 : Eric Zemmour annonce officiellement sa candidature à l'élection",
    "url": "https://www.ladepeche.fr/2026/11/06/decryptage-presidentielle-2027-emmanuel-macron-cherche-t-il-a-reprendre-la-main-sur-la-campagne-13638241.php",
-   "n_members": 61,
+   "n_members": 62,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -943,12 +943,12 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.654,
+   "divergence": 0.655,
    "category": "politique",
    "terms_left": [
-    "jours",
     "raphaël",
-    "raphaël glucksmann"
+    "raphaël glucksmann",
+    "glucksmann"
    ],
    "terms_right": [
     "zemmour",
@@ -973,7 +973,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.596,
+   "divergence": 0.597,
    "category": "société",
    "terms_left": [
     "droite",
@@ -1017,9 +1017,9 @@
    ]
   },
   {
-   "title": "Procès des parents de la « Martyre de l’A10 » : viols conjugaux, violences sur sa fille… Ce qu’il faut retenir des conclusions psychiatriques de la mère",
+   "title": "Affaire de la petite inconnue de l'A10 : \"Inass ne m'a pas reconnue et moi non plus\", que sait-on du passé et du profil d'Halima T., une mère \"consumée de l'intérieur\" ?",
    "url": "https://www.ladepeche.fr/2026/10/28/recit-affaire-de-la-petite-martyre-de-la10-les-parents-dinass-la-fillette-retrouvee-morte-en-1987-vont-etre-juges-39-ans-apres-retour-sur-laffaire-en-13622231.php",
-   "n_members": 104,
+   "n_members": 105,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -1047,9 +1047,9 @@
    ]
   },
   {
-   "title": "Paraguay : 3 millions d'habitants privés de leur compte bancaire après l'effondrement de la Ueno Bank",
+   "title": "Le Paraguay cherche à l'étranger les fonds d'une banque en faillite",
    "url": "https://www.rfi.fr/fr/france/20261101-proc%C3%A8s-des-duba%C3%AF-papers-trois-soci%C3%A9t%C3%A9s-et-14-personnes-dont-un-prince-belge-seront-jug%C3%A9es-%C3%A0-paris",
-   "n_members": 87,
+   "n_members": 88,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -1063,17 +1063,77 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.381,
+   "divergence": 0.388,
    "category": "international",
    "terms_left": [
     "démissionne",
-    "président santiago",
+    "santiago peña",
     "pedro"
    ],
    "terms_right": [
     "crise",
     "bancaire",
-    "crise bancaire"
+    "procès"
+   ]
+  },
+  {
+   "title": "EN DIRECT - Guerre en Ukraine : des pourparlers de paix s'ouvrent à Abou Dhabi",
+   "url": "https://www.lejdd.fr/International/reunion-du-g7-deplacee-de-marseille-a-paris-marco-rubio-attendu-des-dimanche-187983",
+   "n_members": 84,
+   "n_sources": 24,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 4
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.436,
+   "category": "international",
+   "terms_left": [
+    "abu dhabi",
+    "abu",
+    "jours"
+   ],
+   "terms_right": [
+    "washington",
+    "sécurité",
+    "règlement conflit"
+   ]
+  },
+  {
+   "title": "COP31 sur le climat : les chefs d'État entrent en scène, avec de nombreux absents",
+   "url": "https://www.sudouest.fr/environnement/conference-pour-le-climat/cop31-en-turquie-un-sommet-mondial-sous-tension-debute-lundi-a-antalya-face-a-l-urgence-climatique-et-aux-divisions-geopolitiques-31409559.php",
+   "n_members": 67,
+   "n_sources": 24,
+   "counts": {
+    "left": 8,
+    "centre": 12,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": -0.333,
+   "blindspot_for": null,
+   "divergence": 0.569,
+   "category": "environnement",
+   "terms_left": [
+    "cop",
+    "turquie",
+    "énergies fossiles"
+   ],
+   "terms_right": [
+    "ouverte",
+    "chine",
+    "chef onu"
    ]
   },
   {
@@ -1093,47 +1153,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.726,
+   "divergence": 0.717,
    "category": "international",
    "terms_left": [
-    "nucléaire",
-    "etats-unis",
-    "expulsions"
+    "ukraine",
+    "dure",
+    "etats-unis"
    ],
    "terms_right": [
     "guerre",
     "iran",
-    "guerre iran"
-   ]
-  },
-  {
-   "title": "COP31 : qu'attendre de ce nouveau sommet pour le climat ?",
-   "url": "https://www.sudouest.fr/environnement/conference-pour-le-climat/cop31-en-turquie-un-sommet-mondial-sous-tension-debute-lundi-a-antalya-face-a-l-urgence-climatique-et-aux-divisions-geopolitiques-31409559.php",
-   "n_members": 64,
-   "n_sources": 24,
-   "counts": {
-    "left": 8,
-    "centre": 12,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 2
-   },
-   "blindspot_score": -0.333,
-   "blindspot_for": null,
-   "divergence": 0.561,
-   "category": "environnement",
-   "terms_left": [
-    "fossiles",
-    "turquie",
-    "énergies fossiles"
-   ],
-   "terms_right": [
-    "ouverte",
-    "chef",
-    "gaz"
+    "dollars"
    ]
   },
   {
@@ -1153,47 +1183,17 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.737,
+   "divergence": 0.745,
    "category": "société",
    "terms_left": [
-    "sociale",
     "direct",
+    "sociale",
     "europe"
    ],
    "terms_right": [
     "paris",
     "qu",
     "france"
-   ]
-  },
-  {
-   "title": "Égypte. Collision de deux trains au sud du Caire : le bilan s’alourdit à sept morts et une centaine de blessés",
-   "url": "https://www.ladepeche.fr/2026/11/05/manifestation-du-17-octobre-a-toulouse-des-responsables-syndicales-blessees-par-des-grenades-deposent-plainte-13637513.php",
-   "n_members": 49,
-   "n_sources": 24,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.574,
-   "category": "international",
-   "terms_left": [
-    "ans",
-    "morts",
-    "pétrolier aramco"
-   ],
-   "terms_right": [
-    "quartier financier",
-    "financier",
-    "menace"
    ]
   }
  ]
