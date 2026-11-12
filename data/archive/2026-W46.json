@@ -1,6 +1,6 @@
 {
  "week": "2026-W46",
- "generated_at": "2026-11-11T23:15:10+00:00",
+ "generated_at": "2026-11-12T03:59:28+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -55,8 +55,8 @@
    "category": "politique",
    "terms_left": [
     "campagne",
-    "vidéo postée",
-    "postée"
+    "postée",
+    "vidéo postée"
    ],
    "terms_right": [
     "macron",
@@ -97,7 +97,7 @@
   {
    "title": "Smic à 1.502 euros, prime carburant...: les annonces du gouvernement sur le pouvoir d'achat",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-debat-d-on-n-arrete-pas-l-eco/le-debat-d-on-n-arrete-pas-l-eco-du-samedi-31-octobre-2026-2865366",
-   "n_members": 129,
+   "n_members": 130,
    "n_sources": 34,
    "counts": {
     "left": 7,
@@ -111,12 +111,12 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.469,
+   "divergence": 0.462,
    "category": "économie",
    "terms_left": [
     "mobilisation",
     "colère",
-    "sociale"
+    "ans"
    ],
    "terms_right": [
     "euros",
@@ -201,17 +201,17 @@
    },
    "blindspot_score": 0.625,
    "blindspot_for": "gauche",
-   "divergence": 0.455,
+   "divergence": 0.453,
    "category": "politique",
    "terms_left": [
     "budgétaire",
-    "surtaxe",
-    "entreprises"
+    "colère",
+    "rn"
    ],
    "terms_right": [
     "sénat",
     "rejet",
-    "face"
+    "rejeté"
    ]
   },
   {
@@ -307,7 +307,7 @@
   {
    "title": "Présidentielle 2027 : Christine Lagarde obtiendrait 14% des voix au premier tour si elle était candidate, selon un sondage",
    "url": "https://information.tv5monde.com/international/bce-statu-quo-attendu-sur-les-taux-les-regards-tournes-vers-lapres-lagarde-2843561",
-   "n_members": 64,
+   "n_members": 65,
    "n_sources": 30,
    "counts": {
     "left": 5,
@@ -321,8 +321,8 @@
    },
    "blindspot_score": 0.412,
    "blindspot_for": null,
-   "divergence": 0.219,
-   "category": "économie",
+   "divergence": 0.22,
+   "category": "politique",
    "terms_left": [
     "droite",
     "succession christine",
@@ -509,7 +509,7 @@
   {
    "title": "Jensen Huang, PDG de Nvidia, pris dans un scandale d’adultère et d’espionnage : on vous explique l’affaire",
    "url": "https://www.lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html",
-   "n_members": 74,
+   "n_members": 76,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -523,7 +523,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.345,
+   "divergence": 0.34,
    "category": "international",
    "terms_left": [
     "espionnage",
@@ -597,9 +597,9 @@
    ]
   },
   {
-   "title": "Attaque contre des frigos de supermarchés : le projet de loi pour renforcer la cybersécurité enfin à l’Assemblée après deux ans de report",
+   "title": "\"Projet d'attentat\" contre une base aérienne anglaise : les États-Unis inculpent trois \"agents iraniens\"",
    "url": "https://www.nouvelobs.com/politique/20261108.OBS119946/la-retraite-a-60-ans-de-la-france-insoumise-projet-credible-ou-saut-dans-le-vide.html",
-   "n_members": 41,
+   "n_members": 43,
    "n_sources": 27,
    "counts": {
     "left": 4,
@@ -613,7 +613,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.653,
+   "divergence": 0.677,
    "category": "international",
    "terms_left": [
     "israéliennes",
@@ -621,8 +621,8 @@
     "colonies israéliennes"
    ],
    "terms_right": [
-    "projet loi",
     "base",
+    "présidentielle",
     "qu"
    ]
   },
@@ -774,6 +774,36 @@
     "famille kennedy",
     "kennedy",
     "projet"
+   ]
+  },
+  {
+   "title": "Pourquoi la Russie interdit de territoire deux journalistes et deux députés français",
+   "url": "https://www.lemonde.fr/international/article/2026/11/06/belgique-apres-l-adoption-d-un-projet-de-loi-controverse-autorisant-la-police-a-des-visites-domiciliaires-ses-opposants-denoncent-un-ice-a-la-belge_6807738_3210.html",
+   "n_members": 49,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.321,
+   "category": "international",
+   "terms_left": [
+    "députés sacha",
+    "expulsion xenia",
+    "fin"
+   ],
+   "terms_right": [
+    "entrée",
+    "entrée russie",
+    "pro-kremlin xenia"
    ]
   },
   {
@@ -987,36 +1017,6 @@
    ]
   },
   {
-   "title": "Pourquoi la Russie interdit de territoire deux journalistes et deux députés français",
-   "url": "https://www.lemonde.fr/international/article/2026/11/06/belgique-apres-l-adoption-d-un-projet-de-loi-controverse-autorisant-la-police-a-des-visites-domiciliaires-ses-opposants-denoncent-un-ice-a-la-belge_6807738_3210.html",
-   "n_members": 48,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.353,
-   "category": "international",
-   "terms_left": [
-    "fin",
-    "députés sacha",
-    "expulsion xenia"
-   ],
-   "terms_right": [
-    "entrée",
-    "entrée russie",
-    "pro-kremlin xenia"
-   ]
-  },
-  {
    "title": "Procès des parents de la « Martyre de l’A10 » : viols conjugaux, violences sur sa fille… Ce qu’il faut retenir des conclusions psychiatriques de la mère",
    "url": "https://www.ladepeche.fr/2026/10/28/recit-affaire-de-la-petite-martyre-de-la10-les-parents-dinass-la-fillette-retrouvee-morte-en-1987-vont-etre-juges-39-ans-apres-retour-sur-laffaire-en-13622231.php",
    "n_members": 104,
@@ -1063,7 +1063,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.38,
+   "divergence": 0.381,
    "category": "international",
    "terms_left": [
     "démissionne",
@@ -1093,7 +1093,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.727,
+   "divergence": 0.726,
    "category": "international",
    "terms_left": [
     "nucléaire",
@@ -1153,17 +1153,17 @@
    },
    "blindspot_score": -0.077,
    "blindspot_for": null,
-   "divergence": 0.722,
+   "divergence": 0.737,
    "category": "société",
    "terms_left": [
+    "sociale",
     "direct",
-    "europe",
-    "semaines"
+    "europe"
    ],
    "terms_right": [
     "paris",
     "qu",
-    "colère sociale"
+    "france"
    ]
   },
   {
