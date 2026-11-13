@@ -1,6 +1,6 @@
 {
  "week": "2026-W46",
- "generated_at": "2026-11-12T20:14:47+00:00",
+ "generated_at": "2026-11-13T01:18:49+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": 0.217,
    "blindspot_for": null,
-   "divergence": 0.265,
+   "divergence": 0.267,
    "category": "international",
    "terms_left": [
     "elections",
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.498,
+   "divergence": 0.5,
    "category": "économie",
    "terms_left": [
     "sociale",
@@ -171,7 +171,7 @@
    },
    "blindspot_score": -0.059,
    "blindspot_for": null,
-   "divergence": 0.632,
+   "divergence": 0.638,
    "category": "société",
    "terms_left": [
     "direct",
@@ -180,8 +180,8 @@
    ],
    "terms_right": [
     "journée grève",
-    "grève manifestations",
-    "trafic"
+    "trafic",
+    "grève manifestations"
    ]
   },
   {
@@ -321,12 +321,12 @@
    },
    "blindspot_score": 0.412,
    "blindspot_for": null,
-   "divergence": 0.214,
+   "divergence": 0.215,
    "category": "politique",
    "terms_left": [
     "annonce",
     "droite",
-    "macron"
+    "départ"
    ],
    "terms_right": [
     "france",
@@ -335,9 +335,9 @@
    ]
   },
   {
-   "title": "Mouvement lycéen : des cours de rattrapage possibles en février ou à Pâques",
+   "title": "\"Mon professeur d'histoire, je l'ai vu 2 heures\" : comment les lycéens vont-ils pouvoir rattraper le retard accumulé ?",
    "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/emmanuel-macron-recevra-les-organisations-lyceennes-vendredi-a-15heures-annonce-l-elysee_8249623.html",
-   "n_members": 151,
+   "n_members": 152,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -367,7 +367,7 @@
   {
    "title": "Malgré un million de signatures, la pétition pour « supprimer CNews » n’aura pas de suite à l’Assemblée",
    "url": "https://www.humanite.fr/medias/assemblee-nationale/une-petition-pour-la-fermeture-de-cnews-cartonne-sur-le-site-de-lassemblee-nationale",
-   "n_members": 117,
+   "n_members": 118,
    "n_sources": 29,
    "counts": {
     "left": 11,
@@ -397,7 +397,7 @@
   {
    "title": "« Ils sont entrés, et m’ont lynché » : Michel Zecler exemplaire au procès des policiers qui l’ont agressé",
    "url": "https://www.cnews.fr/faits-divers/2026-11-01/rouen-lissue-dune-rencontre-de-football-une-rixe-eclate-aux-abords-dun-bar",
-   "n_members": 101,
+   "n_members": 102,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.577,
+   "divergence": 0.567,
    "category": "société",
    "terms_left": [
     "procès",
@@ -420,8 +420,8 @@
    ],
    "terms_right": [
     "agression",
-    "policiers jugés",
-    "raconte"
+    "jeunes",
+    "policiers jugés"
    ]
   },
   {
@@ -457,7 +457,7 @@
   {
    "title": "Nvidia: Jensen Huang démissionne de son poste de directeur général",
    "url": "https://www.lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html",
-   "n_members": 142,
+   "n_members": 148,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -471,7 +471,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.239,
+   "divergence": 0.238,
    "category": "international",
    "terms_left": [
     "espionnage",
@@ -539,7 +539,7 @@
   {
    "title": "\"Projet d'attentat\" contre une base aérienne anglaise : les États-Unis inculpent trois \"agents iraniens\"",
    "url": "https://www.nouvelobs.com/politique/20261108.OBS119946/la-retraite-a-60-ans-de-la-france-insoumise-projet-credible-ou-saut-dans-le-vide.html",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 28,
    "counts": {
     "left": 4,
@@ -553,7 +553,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.746,
+   "divergence": 0.745,
    "category": "international",
    "terms_left": [
     "israéliennes",
@@ -564,6 +564,36 @@
     "base",
     "iran",
     "sécurité"
+   ]
+  },
+  {
+   "title": "Pourquoi la Russie interdit de territoire deux journalistes et deux députés français",
+   "url": "https://www.lemonde.fr/international/article/2026/11/06/belgique-apres-l-adoption-d-un-projet-de-loi-controverse-autorisant-la-police-a-des-visites-domiciliaires-ses-opposants-denoncent-un-ice-a-la-belge_6807738_3210.html",
+   "n_members": 55,
+   "n_sources": 28,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.349,
+   "category": "international",
+   "terms_left": [
+    "expulsion xenia",
+    "députés sacha",
+    "fin"
+   ],
+   "terms_right": [
+    "canon français",
+    "canon",
+    "lfi"
    ]
   },
   {
@@ -654,6 +684,36 @@
     "donald trump",
     "donald",
     "présidentielle"
+   ]
+  },
+  {
+   "title": "CNews : les organisations lycéennes et la CGT font front contre la chaîne ; Catherine Pégard, la ministre de la culture, appelle à ne pas « trier les journalistes »",
+   "url": "https://www.humanite.fr/politique/jordan-bardella/de-la-fin-du-barrage-au-soutien-opportuniste-comment-les-grands-patrons-pavent-la-voie-au-rn",
+   "n_members": 59,
+   "n_sources": 27,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 5
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.792,
+   "category": "société",
+   "terms_left": [
+    "droite",
+    "extrême droite",
+    "rn"
+   ],
+   "terms_right": [
+    "cnews",
+    "presse",
+    "binet"
    ]
   },
   {
@@ -763,7 +823,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.491,
+   "divergence": 0.492,
    "category": "international",
    "terms_left": [
     "californie",
@@ -774,36 +834,6 @@
     "famille kennedy",
     "kennedy",
     "projet"
-   ]
-  },
-  {
-   "title": "Pourquoi la Russie interdit de territoire deux journalistes et deux députés français",
-   "url": "https://www.lemonde.fr/international/article/2026/11/06/belgique-apres-l-adoption-d-un-projet-de-loi-controverse-autorisant-la-police-a-des-visites-domiciliaires-ses-opposants-denoncent-un-ice-a-la-belge_6807738_3210.html",
-   "n_members": 50,
-   "n_sources": 26,
-   "counts": {
-    "left": 6,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.327,
-   "category": "international",
-   "terms_left": [
-    "députés sacha",
-    "expulsion xenia",
-    "fin"
-   ],
-   "terms_right": [
-    "entrée",
-    "pro-kremlin xenia",
-    "entrée russie"
    ]
   },
   {
@@ -837,9 +867,9 @@
    ]
   },
   {
-   "title": "Conférence sociale : pour répondre à la colère, le Premier ministre réunit lundi matin les syndicats",
+   "title": "Les mesures annoncées par Sébastien Lecornu ne suffisent pas à éteindre la colère sociale",
    "url": "https://www.europe1.fr/societe/en-direct-mouvement-des-lyceens-sebastien-lecornu-redit-etre-pret-a-recevoir-de-nouveau-les-lyceens-la-semaine-prochaine-1202214",
-   "n_members": 86,
+   "n_members": 87,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -853,23 +883,23 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.375,
+   "divergence": 0.364,
    "category": "politique",
    "terms_left": [
     "sébastien",
     "sébastien lecornu",
-    "lecornu"
+    "mobilisation"
    ],
    "terms_right": [
     "colère",
     "colère sociale",
-    "sociale"
+    "salaires"
    ]
   },
   {
    "title": "COP31 sur le climat : les chefs d'État entrent en scène, avec de nombreux absents",
    "url": "https://www.sudouest.fr/environnement/conference-pour-le-climat/cop31-en-turquie-un-sommet-mondial-sous-tension-debute-lundi-a-antalya-face-a-l-urgence-climatique-et-aux-divisions-geopolitiques-31409559.php",
-   "n_members": 73,
+   "n_members": 75,
    "n_sources": 25,
    "counts": {
     "left": 8,
@@ -883,17 +913,17 @@
    },
    "blindspot_score": -0.333,
    "blindspot_for": null,
-   "divergence": 0.558,
+   "divergence": 0.552,
    "category": "environnement",
    "terms_left": [
     "cop",
-    "énergies fossiles",
-    "fossiles"
+    "turquie",
+    "énergies fossiles"
    ],
    "terms_right": [
-    "internationale",
     "ouverte",
-    "chine"
+    "chef",
+    "onu"
    ]
   },
   {
@@ -943,7 +973,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.676,
+   "divergence": 0.677,
    "category": "économie",
    "terms_left": [
     "vraiment",
@@ -973,7 +1003,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.581,
+   "divergence": 0.571,
    "category": "politique",
    "terms_left": [
     "france",
@@ -982,8 +1012,8 @@
    ],
    "terms_right": [
     "président",
-    "qu",
-    "ia"
+    "livre",
+    "emmanuel macron"
    ]
   },
   {
@@ -1033,7 +1063,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.705,
+   "divergence": 0.689,
    "category": "économie",
    "terms_left": [
     "vivre",
@@ -1041,9 +1071,9 @@
     "pouvoir"
    ],
    "terms_right": [
+    "français",
     "prix",
-    "euros",
-    "français"
+    "euros"
    ]
   },
   {
@@ -1079,7 +1109,7 @@
   {
    "title": "Poursuite des pourparlers Ukraine-Russie après des «changements» salués par Zelensky",
    "url": "https://www.lejdd.fr/International/reunion-du-g7-deplacee-de-marseille-a-paris-marco-rubio-attendu-des-dimanche-187983",
-   "n_members": 92,
+   "n_members": 95,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -1093,7 +1123,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.436,
+   "divergence": 0.419,
    "category": "international",
    "terms_left": [
     "européens",
@@ -1107,9 +1137,9 @@
    ]
   },
   {
-   "title": "Le Paraguay cherche à l'étranger les fonds d'une banque en faillite",
+   "title": "Paraguay : 3 millions d'habitants privés de leur compte bancaire après l'effondrement de la Ueno Bank",
    "url": "https://www.rfi.fr/fr/france/20261101-proc%C3%A8s-des-duba%C3%AF-papers-trois-soci%C3%A9t%C3%A9s-et-14-personnes-dont-un-prince-belge-seront-jug%C3%A9es-%C3%A0-paris",
-   "n_members": 88,
+   "n_members": 89,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -1153,47 +1183,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.72,
+   "divergence": 0.707,
    "category": "international",
    "terms_left": [
-    "etats-unis",
     "dure",
-    "politique"
+    "politique",
+    "direct"
    ],
    "terms_right": [
-    "guerre",
     "dollars",
-    "qu"
-   ]
-  },
-  {
-   "title": "EN DIRECT – Manifestations du 7 novembre : nouvelle journée de mobilisation ce samedi, deux jours avant une conférence sociale à Matignon",
-   "url": "https://www.cnews.fr/france/2026-11-03/nous-desobeirons-les-gilets-jaunes-annoncent-quils-manifesteront-concorde-ce",
-   "n_members": 60,
-   "n_sources": 24,
-   "counts": {
-    "left": 7,
-    "centre": 11,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": -0.077,
-   "blindspot_for": null,
-   "divergence": 0.74,
-   "category": "société",
-   "terms_left": [
-    "direct",
-    "europe",
-    "sociale"
-   ],
-   "terms_right": [
-    "paris",
-    "qu",
-    "france"
+    "états-unis",
+    "guerre"
    ]
   }
  ]
