@@ -1,13 +1,13 @@
 {
  "week": "2026-W46",
- "generated_at": "2026-11-13T08:19:40+00:00",
+ "generated_at": "2026-11-13T16:38:33+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "Israël: Gadi Eisenkot fait face à l'ancien Premier ministre Benjamin Netanyahu à l'inauguration de la Knesset",
+   "title": "Israël : Gadi Eisenkot fustige les attaques \"honteuses\" de Benyamin Netanyahou contre les partis israéliens arabes",
    "url": "https://www.humanite.fr/monde/benyamin-netanyahou/interdits-dinformer-israel-refuse-lentree-a-lenvoye-special-de-lhumanite",
-   "n_members": 439,
+   "n_members": 443,
    "n_sources": 37,
    "counts": {
     "left": 9,
@@ -21,23 +21,23 @@
    },
    "blindspot_score": 0.217,
    "blindspot_for": null,
-   "divergence": 0.267,
+   "divergence": 0.264,
    "category": "international",
    "terms_left": [
     "elections",
-    "pays",
-    "israël benyamin"
+    "israël benyamin",
+    "droite"
    ],
    "terms_right": [
     "netanyahu",
     "netanyahou",
-    "majorité"
+    "benyamin netanyahou"
    ]
   },
   {
    "title": "Cyberattaque contre des frigos : la France accuse l’Iran",
    "url": "https://www.rfi.fr/fr/podcasts/lignes-de-d%C3%A9fense/20261031-le-salon-euronaval-2026-marque-le-retour-de-la-puissance-navale",
-   "n_members": 119,
+   "n_members": 121,
    "n_sources": 36,
    "counts": {
     "left": 7,
@@ -51,23 +51,23 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.411,
+   "divergence": 0.39,
    "category": "international",
    "terms_left": [
     "cyberattaques frigos",
-    "menace",
-    "pointe"
+    "européenne",
+    "menace"
    ],
    "terms_right": [
-    "mois",
-    "français",
-    "réfrigérateurs"
+    "téhéran",
+    "qu",
+    "français"
    ]
   },
   {
    "title": "Présidentielle 2027: l’ombre du macronisme plane sur la candidature de Teddy Riner",
    "url": "https://www.leparisien.fr/elections/presidentielle/les-gens-mont-pousse-a-me-presenter-des-jo-de-paris-a-la-presidentielle-les-coulisses-de-la-candidature-de-teddy-riner-09-11-2026-2CRPIYFKPFG43FTC777BRBLUEE.php",
-   "n_members": 175,
+   "n_members": 184,
    "n_sources": 35,
    "counts": {
     "left": 8,
@@ -81,17 +81,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.208,
+   "divergence": 0.18,
    "category": "politique",
    "terms_left": [
+    "campagne",
     "riner annonce",
-    "république",
-    "campagne"
+    "sport"
    ],
    "terms_right": [
-    "macron",
-    "présidentielle",
-    "emmanuel macron"
+    "français",
+    "champion olympique",
+    "olympique"
    ]
   },
   {
@@ -111,23 +111,23 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.5,
+   "divergence": 0.514,
    "category": "économie",
    "terms_left": [
     "sociale",
-    "mobilisation",
-    "colère"
+    "colère",
+    "coup"
    ],
    "terms_right": [
-    "euros",
     "salaires",
+    "euros",
     "heures"
    ]
   },
   {
    "title": "« Tout est en ébullition » : récit d'une nouvelle mobilisation étudiante à Paris ce mardi",
    "url": "https://www.sudradio.fr/societe/faure-ps-pour-interrompre-les-manifestations-il-suffit-de-repondre-aux-revendications",
-   "n_members": 248,
+   "n_members": 249,
    "n_sources": 34,
    "counts": {
     "left": 8,
@@ -141,17 +141,47 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.603,
+   "divergence": 0.606,
    "category": "société",
    "terms_left": [
-    "mouvement",
     "syndicats",
-    "jeunesse"
+    "mouvement",
+    "grève"
    ],
    "terms_right": [
     "colère",
     "colère sociale",
-    "nouvelle"
+    "colère lycéenne"
+   ]
+  },
+  {
+   "title": "Nvidia: Jensen Huang démissionne de son poste de directeur général",
+   "url": "https://www.lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html",
+   "n_members": 172,
+   "n_sources": 32,
+   "counts": {
+    "left": 7,
+    "centre": 15,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 13,
+    "opinion": 3
+   },
+   "blindspot_score": 0.176,
+   "blindspot_for": null,
+   "divergence": 0.223,
+   "category": "international",
+   "terms_left": [
+    "espionnage",
+    "chute",
+    "street"
+   ],
+   "terms_right": [
+    "alice huang",
+    "alice",
+    "nvidia jensen"
    ]
   },
   {
@@ -275,36 +305,6 @@
    ]
   },
   {
-   "title": "Nvidia: Jensen Huang démissionne de son poste de directeur général",
-   "url": "https://www.lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html",
-   "n_members": 156,
-   "n_sources": 30,
-   "counts": {
-    "left": 6,
-    "centre": 14,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 11,
-    "opinion": 3
-   },
-   "blindspot_score": 0.25,
-   "blindspot_for": null,
-   "divergence": 0.236,
-   "category": "international",
-   "terms_left": [
-    "espionnage",
-    "street",
-    "wall"
-   ],
-   "terms_right": [
-    "alice huang",
-    "alice",
-    "tête"
-   ]
-  },
-  {
    "title": "DIRECT - Fausses alertes à la bombe en Europe: des avions visés, plusieurs médias aussi",
    "url": "https://www.liberation.fr/international/europe/quatre-vols-europeens-en-provenance-de-londres-copenhague-manchester-et-israel-vises-par-des-alertes-a-la-bombe-20261103_AAHGIUN5WRCPTATPYIDBOMCX5Q/",
    "n_members": 102,
@@ -337,7 +337,7 @@
   {
    "title": "Présidentielle 2027 : Christine Lagarde obtiendrait 14% des voix au premier tour si elle était candidate, selon un sondage",
    "url": "https://information.tv5monde.com/international/bce-statu-quo-attendu-sur-les-taux-les-regards-tournes-vers-lapres-lagarde-2843561",
-   "n_members": 71,
+   "n_members": 75,
    "n_sources": 30,
    "counts": {
     "left": 5,
@@ -361,7 +361,7 @@
    "terms_right": [
     "france",
     "fin",
-    "pays"
+    "femme"
    ]
   },
   {
@@ -381,7 +381,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.598,
+   "divergence": 0.602,
    "category": "société",
    "terms_left": [
     "mouvement lycéen",
@@ -395,9 +395,9 @@
    ]
   },
   {
-   "title": "Malgré un million de signatures, la pétition pour « supprimer CNews » n’aura pas de suite à l’Assemblée",
+   "title": "Pétition contre CNews : des députés de droite unis pour défendre la chaîne face à la gauche",
    "url": "https://www.humanite.fr/medias/assemblee-nationale/une-petition-pour-la-fermeture-de-cnews-cartonne-sur-le-site-de-lassemblee-nationale",
-   "n_members": 118,
+   "n_members": 119,
    "n_sources": 29,
    "counts": {
     "left": 11,
@@ -411,23 +411,23 @@
    },
    "blindspot_score": -0.294,
    "blindspot_for": null,
-   "divergence": 0.306,
+   "divergence": 0.32,
    "category": "culture",
    "terms_left": [
     "chaîne",
-    "signatures",
-    "fermer"
+    "fermer",
+    "pétition appelant"
    ],
    "terms_right": [
     "liberté",
     "liberté expression",
-    "suppression cnews"
+    "expression"
    ]
   },
   {
    "title": "Procès de l’interpellation violente de Michel Zecler par des policiers : « Depuis l’agression, il a perdu cette lumière, cette faculté à aller de l’avant »",
    "url": "https://www.cnews.fr/faits-divers/2026-11-01/rouen-lissue-dune-rencontre-de-football-une-rixe-eclate-aux-abords-dun-bar",
-   "n_members": 103,
+   "n_members": 105,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -441,17 +441,47 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.555,
+   "divergence": 0.545,
    "category": "société",
    "terms_left": [
     "procès",
-    "paris",
-    "procès policiers"
+    "procès policiers",
+    "paris"
    ],
    "terms_right": [
-    "jeunes",
     "agression",
+    "jeunes",
     "policiers jugés"
+   ]
+  },
+  {
+   "title": "Une panne mondiale touche la messagerie Outlook depuis plusieurs heures, les réparations de Microsoft ne se passent « pas comme prévu »",
+   "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-de-messagerie-microsoft-outlook-affecte-par-une-panne-des-utilisateurs-du-monde-entier-concernes-20261112",
+   "n_members": 57,
+   "n_sources": 29,
+   "counts": {
+    "left": 5,
+    "centre": 16,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.408,
+   "category": "sciences-tech",
+   "terms_left": [
+    "cyberattaque",
+    "france",
+    "firme"
+   ],
+   "terms_right": [
+    "américain",
+    "géant",
+    "europe"
    ]
   },
   {
@@ -471,7 +501,7 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.301,
+   "divergence": 0.302,
    "category": "politique",
    "terms_left": [
     "edouard philippe",
@@ -553,7 +583,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.754,
+   "divergence": 0.77,
    "category": "international",
    "terms_left": [
     "israéliennes",
@@ -569,7 +599,7 @@
   {
    "title": "Pourquoi la Russie interdit de territoire deux journalistes et deux députés français",
    "url": "https://www.lemonde.fr/international/article/2026/11/06/belgique-apres-l-adoption-d-un-projet-de-loi-controverse-autorisant-la-police-a-des-visites-domiciliaires-ses-opposants-denoncent-un-ice-a-la-belge_6807738_3210.html",
-   "n_members": 55,
+   "n_members": 56,
    "n_sources": 28,
    "counts": {
     "left": 6,
@@ -673,12 +703,12 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.555,
+   "divergence": 0.56,
    "category": "international",
    "terms_left": [
     "démocrate",
-    "michigan",
-    "fin"
+    "fin",
+    "michigan"
    ],
    "terms_right": [
     "donald trump",
@@ -703,17 +733,47 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.794,
+   "divergence": 0.815,
    "category": "société",
    "terms_left": [
-    "droite",
+    "mobilisation",
     "parcoursup",
     "réforme parcoursup"
    ],
    "terms_right": [
-    "binet",
     "cnews",
-    "sophie binet"
+    "sophie binet",
+    "binet"
+   ]
+  },
+  {
+   "title": "Fonction publique : l'intersyndicale sort remontée de Matignon, la CFDT rejoint l'appel à la grève",
+   "url": "https://www.europe1.fr/societe/en-direct-mouvement-des-lyceens-sebastien-lecornu-redit-etre-pret-a-recevoir-de-nouveau-les-lyceens-la-semaine-prochaine-1202214",
+   "n_members": 102,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 3
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.354,
+   "category": "politique",
+   "terms_left": [
+    "point",
+    "indice",
+    "point indice"
+   ],
+   "terms_right": [
+    "colère",
+    "sociale",
+    "colère sociale"
    ]
   },
   {
@@ -744,6 +804,36 @@
     "david lisnard",
     "david",
     "lisnard"
+   ]
+  },
+  {
+   "title": "Insultes d'un enfant visant Emmanuel Macron : \"délirant\" et \"scandaleux\", l'Élysée réagit après les propos de Marcel, 8 ans, tenus en direct sur franceinfo",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/sa-demission-cnews-les-riches-et-sa-vie-d-apres-des-messages-chocs-d-emmanuel-macron-reveles-dans-un-livre-20261103",
+   "n_members": 63,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 11,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 7
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.56,
+   "category": "politique",
+   "terms_left": [
+    "france",
+    "ans",
+    "connard"
+   ],
+   "terms_right": [
+    "livre",
+    "président",
+    "franceinfo"
    ]
   },
   {
@@ -793,16 +883,16 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.796,
+   "divergence": 0.813,
    "category": "société",
    "terms_left": [
     "france",
-    "morts",
-    "hommage"
+    "hommage",
+    "cérémonie"
    ],
    "terms_right": [
     "enseignants",
-    "journée",
+    "écoles",
     "grande"
    ]
   },
@@ -823,7 +913,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.502,
+   "divergence": 0.501,
    "category": "international",
    "terms_left": [
     "californie",
@@ -867,39 +957,9 @@
    ]
   },
   {
-   "title": "Fonction publique : les syndicats rencontrent Sébastien Lecornu sur les salaires",
-   "url": "https://www.europe1.fr/societe/en-direct-mouvement-des-lyceens-sebastien-lecornu-redit-etre-pret-a-recevoir-de-nouveau-les-lyceens-la-semaine-prochaine-1202214",
-   "n_members": 91,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.361,
-   "category": "politique",
-   "terms_left": [
-    "sébastien",
-    "sébastien lecornu",
-    "mobilisation"
-   ],
-   "terms_right": [
-    "colère",
-    "colère sociale",
-    "salaires"
-   ]
-  },
-  {
    "title": "COP31 sur le climat : les chefs d'État entrent en scène, avec de nombreux absents",
    "url": "https://www.sudouest.fr/environnement/conference-pour-le-climat/cop31-en-turquie-un-sommet-mondial-sous-tension-debute-lundi-a-antalya-face-a-l-urgence-climatique-et-aux-divisions-geopolitiques-31409559.php",
-   "n_members": 75,
+   "n_members": 76,
    "n_sources": 25,
    "counts": {
     "left": 8,
@@ -913,16 +973,16 @@
    },
    "blindspot_score": -0.333,
    "blindspot_for": null,
-   "divergence": 0.552,
+   "divergence": 0.554,
    "category": "environnement",
    "terms_left": [
-    "cop",
     "turquie",
-    "énergies fossiles"
+    "cop",
+    "président"
    ],
    "terms_right": [
-    "ouverte",
     "chef",
+    "ouverte",
     "onu"
    ]
   },
@@ -943,7 +1003,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.626,
+   "divergence": 0.633,
    "category": "politique",
    "terms_left": [
     "raphaël",
@@ -984,36 +1044,6 @@
     "inflation",
     "gouvernement",
     "négociations"
-   ]
-  },
-  {
-   "title": "Marcel sur Franceinfo : « Macron est un c… », c’est vraiment grave si un enfant de 8 ans dit des gros mots ?",
-   "url": "https://www.lefigaro.fr/elections/presidentielles/sa-demission-cnews-les-riches-et-sa-vie-d-apres-des-messages-chocs-d-emmanuel-macron-reveles-dans-un-livre-20261103",
-   "n_members": 62,
-   "n_sources": 25,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 6,
-    "opinion": 6
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": 0.571,
-   "category": "politique",
-   "terms_left": [
-    "france",
-    "ans",
-    "enfant ans"
-   ],
-   "terms_right": [
-    "président",
-    "livre",
-    "emmanuel macron"
    ]
   },
   {
@@ -1079,7 +1109,7 @@
   {
    "title": "Procès martyre de l'A10 : « J’étais pas un être humain »… Les aveux impossibles de la mère d’Inass, tuée à 4 ans",
    "url": "https://www.ladepeche.fr/2026/10/28/recit-affaire-de-la-petite-martyre-de-la10-les-parents-dinass-la-fillette-retrouvee-morte-en-1987-vont-etre-juges-39-ans-apres-retour-sur-laffaire-en-13622231.php",
-   "n_members": 111,
+   "n_members": 114,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -1093,23 +1123,23 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.43,
+   "divergence": 0.435,
    "category": "société",
    "terms_left": [
-    "petite",
     "inconnue",
+    "petite",
     "procès petite"
    ],
    "terms_right": [
     "ans",
-    "ouvre",
-    "martyre"
+    "martyre",
+    "ouvre"
    ]
   },
   {
-   "title": "Poursuite des pourparlers Ukraine-Russie après des «changements» salués par Zelensky",
+   "title": "Fin des pourparlers d'Abou Dhabi",
    "url": "https://www.lejdd.fr/International/reunion-du-g7-deplacee-de-marseille-a-paris-marco-rubio-attendu-des-dimanche-187983",
-   "n_members": 100,
+   "n_members": 105,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -1123,16 +1153,16 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.409,
+   "divergence": 0.414,
    "category": "international",
    "terms_left": [
     "direct",
-    "européens",
-    "direct guerre"
+    "direct guerre",
+    "européens"
    ],
    "terms_right": [
-    "sécurité",
     "washington",
+    "sécurité",
     "europe"
    ]
   },
@@ -1153,7 +1183,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.387,
+   "divergence": 0.386,
    "category": "international",
    "terms_left": [
     "démissionne",
@@ -1164,36 +1194,6 @@
     "crise",
     "bancaire",
     "procès"
-   ]
-  },
-  {
-   "title": "Guerre au Moyen-Orient : Donald Trump dit voir «un élan positif» vers un accord avec l'Iran après avoir rencontré le Premier ministre du Qatar",
-   "url": "https://www.20minutes.fr/monde/etats-unis/4261118-20261107-guerre-iran-washington-offre-20-millions-dollars-toute-information-programme-nucleaire-teheran",
-   "n_members": 67,
-   "n_sources": 24,
-   "counts": {
-    "left": 5,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.706,
-   "category": "international",
-   "terms_left": [
-    "dure",
-    "politique",
-    "direct"
-   ],
-   "terms_right": [
-    "dollars",
-    "états-unis",
-    "guerre"
    ]
   }
  ]
