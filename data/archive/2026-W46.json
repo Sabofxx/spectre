@@ -1,6 +1,6 @@
 {
  "week": "2026-W46",
- "generated_at": "2026-11-14T09:39:02+00:00",
+ "generated_at": "2026-11-14T16:15:29+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -51,7 +51,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.364,
+   "divergence": 0.363,
    "category": "international",
    "terms_left": [
     "réfrigérateurs supermarchés",
@@ -65,9 +65,9 @@
    ]
   },
   {
-   "title": "Présidentielle 2027: l’ombre du macronisme plane sur la candidature de Teddy Riner",
+   "title": "Présidentielle 2027: Teddy Riner dévoile ses premiers déplacements de campagne",
    "url": "https://www.leparisien.fr/elections/presidentielle/les-gens-mont-pousse-a-me-presenter-des-jo-de-paris-a-la-presidentielle-les-coulisses-de-la-candidature-de-teddy-riner-09-11-2026-2CRPIYFKPFG43FTC777BRBLUEE.php",
-   "n_members": 190,
+   "n_members": 199,
    "n_sources": 35,
    "counts": {
     "left": 8,
@@ -81,17 +81,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.17,
+   "divergence": 0.16,
    "category": "politique",
    "terms_left": [
-    "campagne",
+    "sport",
     "riner annonce",
-    "candidature judoka"
+    "campagne"
    ],
    "terms_right": [
-    "riner candidat",
-    "candidature teddy",
-    "candidat présidentielle"
+    "candidat présidentielle",
+    "qu",
+    "candidature teddy"
    ]
   },
   {
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.502,
+   "divergence": 0.508,
    "category": "économie",
    "terms_left": [
     "sociale",
@@ -125,9 +125,9 @@
    ]
   },
   {
-   "title": "Blocage, cours à distance... Étudiants et enseignants sont de plus en plus lassés des blocus universitaires",
+   "title": "DIRECT. Colère sociale: entre 30.000 et 60.000 manifestants attendus à Paris ce samedi",
    "url": "https://www.sudradio.fr/societe/faure-ps-pour-interrompre-les-manifestations-il-suffit-de-repondre-aux-revendications",
-   "n_members": 250,
+   "n_members": 251,
    "n_sources": 34,
    "counts": {
     "left": 8,
@@ -157,7 +157,7 @@
   {
    "title": "Nvidia: Jensen Huang démissionne de son poste de directeur général",
    "url": "https://www.lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html",
-   "n_members": 191,
+   "n_members": 193,
    "n_sources": 32,
    "counts": {
     "left": 7,
@@ -335,6 +335,36 @@
    ]
   },
   {
+   "title": "Une panne mondiale touche la messagerie Outlook depuis plusieurs heures, les réparations de Microsoft ne se passent « pas comme prévu »",
+   "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-de-messagerie-microsoft-outlook-affecte-par-une-panne-des-utilisateurs-du-monde-entier-concernes-20261112",
+   "n_members": 83,
+   "n_sources": 30,
+   "counts": {
+    "left": 5,
+    "centre": 17,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.401,
+   "category": "sciences-tech",
+   "terms_left": [
+    "france",
+    "cyberattaque",
+    "entreprises"
+   ],
+   "terms_right": [
+    "géant",
+    "géant américain",
+    "panne mondiale"
+   ]
+  },
+  {
    "title": "Présidentielle 2027 : Christine Lagarde obtiendrait 14% des voix au premier tour si elle était candidate, selon un sondage",
    "url": "https://information.tv5monde.com/international/bce-statu-quo-attendu-sur-les-taux-les-regards-tournes-vers-lapres-lagarde-2843561",
    "n_members": 77,
@@ -351,7 +381,7 @@
    },
    "blindspot_score": 0.412,
    "blindspot_for": null,
-   "divergence": 0.218,
+   "divergence": 0.22,
    "category": "politique",
    "terms_left": [
     "droite",
@@ -362,36 +392,6 @@
     "france",
     "fin",
     "pays"
-   ]
-  },
-  {
-   "title": "Une panne mondiale touche la messagerie Outlook depuis plusieurs heures, les réparations de Microsoft ne se passent « pas comme prévu »",
-   "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-de-messagerie-microsoft-outlook-affecte-par-une-panne-des-utilisateurs-du-monde-entier-concernes-20261112",
-   "n_members": 74,
-   "n_sources": 30,
-   "counts": {
-    "left": 5,
-    "centre": 17,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 18,
-    "mixte": 10,
-    "opinion": 2
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.404,
-   "category": "sciences-tech",
-   "terms_left": [
-    "france",
-    "cyberattaque",
-    "panne microsoft"
-   ],
-   "terms_right": [
-    "géant",
-    "géant américain",
-    "europe"
    ]
   },
   {
@@ -411,7 +411,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.606,
+   "divergence": 0.605,
    "category": "société",
    "terms_left": [
     "mouvement lycéen",
@@ -441,23 +441,23 @@
    },
    "blindspot_score": -0.294,
    "blindspot_for": null,
-   "divergence": 0.319,
+   "divergence": 0.325,
    "category": "culture",
    "terms_left": [
-    "chaîne",
     "assemblée",
+    "chaîne",
     "dépasse"
    ],
    "terms_right": [
-    "anti-cnews",
-    "pétition anti-cnews",
-    "droite"
+    "média",
+    "suppression cnews",
+    "anti-cnews"
    ]
   },
   {
    "title": "Procès de l’interpellation violente de Michel Zecler par des policiers : « Depuis l’agression, il a perdu cette lumière, cette faculté à aller de l’avant »",
    "url": "https://www.cnews.fr/faits-divers/2026-11-01/rouen-lissue-dune-rencontre-de-football-une-rixe-eclate-aux-abords-dun-bar",
-   "n_members": 106,
+   "n_members": 107,
    "n_sources": 29,
    "counts": {
     "left": 7,
@@ -471,17 +471,17 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.544,
+   "divergence": 0.539,
    "category": "société",
    "terms_left": [
     "procès",
     "procès policiers",
-    "paris"
+    "zecler"
    ],
    "terms_right": [
     "violences",
     "jeunes",
-    "policiers jugés"
+    "agression"
    ]
   },
   {
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.296,
+   "divergence": 0.286,
    "category": "politique",
    "terms_left": [
     "edouard philippe",
@@ -509,9 +509,9 @@
     "pression"
    ],
    "terms_right": [
-    "lisnard",
     "primaire démocrates",
-    "david lisnard"
+    "lisnard",
+    "démocrates"
    ]
   },
   {
@@ -561,17 +561,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.78,
+   "divergence": 0.786,
    "category": "international",
    "terms_left": [
-    "israéliennes",
-    "colonies",
-    "colonies israéliennes"
+    "france",
+    "ans",
+    "assemblée"
    ],
    "terms_right": [
     "base",
     "iran",
-    "états-unis"
+    "sécurité"
    ]
   },
   {
@@ -613,12 +613,12 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.349,
+   "divergence": 0.39,
    "category": "international",
    "terms_left": [
+    "houlié arthur",
     "expulsion xenia",
-    "députés sacha",
-    "fin"
+    "ariane chemin"
    ],
    "terms_right": [
     "canon français",
@@ -643,7 +643,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.358,
+   "divergence": 0.357,
    "category": "politique",
    "terms_left": [
     "point",
@@ -703,7 +703,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.674,
+   "divergence": 0.673,
    "category": "société",
    "terms_left": [
     "mouvement lycéen",
@@ -763,7 +763,7 @@
    },
    "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.811,
+   "divergence": 0.799,
    "category": "société",
    "terms_left": [
     "mobilisation",
@@ -772,7 +772,7 @@
    ],
    "terms_right": [
     "cnews",
-    "sophie binet",
+    "sophie",
     "binet"
    ]
   },
@@ -823,7 +823,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.559,
+   "divergence": 0.56,
    "category": "politique",
    "terms_left": [
     "france",
@@ -883,17 +883,46 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.847,
+   "divergence": 0.843,
    "category": "société",
    "terms_left": [
-    "militarisation",
-    "gouvernement",
-    "cérémonie"
+    "cérémonie",
+    "école"
    ],
    "terms_right": [
-    "grande",
     "sociale",
-    "journée"
+    "syndicats",
+    "grande"
+   ]
+  },
+  {
+   "title": "Pagaille aérienne aux États-Unis : encore des annulations et des retards de vols ce samedi",
+   "url": "https://www.liberation.fr/international/amerique/les-avions-cloues-au-sol-aux-etats-unis-en-raison-de-circonstances-exceptionnelles-et-pour-des-raisons-de-securite-20261113_GLSL27DPABAHLC5GLVAFHUFNJI/",
+   "n_members": 54,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 10,
+    "opinion": 1
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.448,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "autorités",
+    "soir"
+   ],
+   "terms_right": [
+    "états-unis",
+    "décollages",
+    "problème"
    ]
   },
   {
@@ -913,7 +942,7 @@
    },
    "blindspot_score": 0.067,
    "blindspot_for": null,
-   "divergence": 0.505,
+   "divergence": 0.504,
    "category": "international",
    "terms_left": [
     "californie",
@@ -924,6 +953,36 @@
     "veut",
     "taxe",
     "projet"
+   ]
+  },
+  {
+   "title": "EN DIRECT, guerre en Ukraine : la présence des Européens dans les prochaines négociations de paix annoncée par Volodymyr Zelensky et les émissaires américains",
+   "url": "https://www.lejdd.fr/International/reunion-du-g7-deplacee-de-marseille-a-paris-marco-rubio-attendu-des-dimanche-187983",
+   "n_members": 111,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 6,
+    "opinion": 4
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.455,
+   "category": "international",
+   "terms_left": [
+    "paix",
+    "direct",
+    "ukrainien"
+   ],
+   "terms_right": [
+    "rencontrer",
+    "zelensky",
+    "face"
    ]
   },
   {
@@ -957,36 +1016,6 @@
    ]
   },
   {
-   "title": "EN DIRECT, guerre en Ukraine : la présence des Européens dans les prochaines négociations de paix annoncée par Volodymyr Zelensky et les émissaires américains",
-   "url": "https://www.lejdd.fr/International/reunion-du-g7-deplacee-de-marseille-a-paris-marco-rubio-attendu-des-dimanche-187983",
-   "n_members": 110,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 6,
-    "opinion": 4
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.45,
-   "category": "international",
-   "terms_left": [
-    "paix",
-    "direct",
-    "européens"
-   ],
-   "terms_right": [
-    "rencontrer",
-    "zelensky",
-    "face"
-   ]
-  },
-  {
    "title": "Scandale bancaire au Paraguay : le parquet élargit les poursuites à «association de malfaiteurs» contre l'ex-président Peña, «chef» de structure",
    "url": "https://www.rfi.fr/fr/france/20261101-proc%C3%A8s-des-duba%C3%AF-papers-trois-soci%C3%A9t%C3%A9s-et-14-personnes-dont-un-prince-belge-seront-jug%C3%A9es-%C3%A0-paris",
    "n_members": 92,
@@ -1017,9 +1046,9 @@
    ]
   },
   {
-   "title": "COP31 : \"Comme les dinosaures, les énergies fossiles doivent disparaître\", martèle le chef de l'ONU António Guterres",
+   "title": "À Antalya, des milliers de manifestants dénoncent une COP sourde aux populations",
    "url": "https://www.sudouest.fr/environnement/conference-pour-le-climat/cop31-en-turquie-un-sommet-mondial-sous-tension-debute-lundi-a-antalya-face-a-l-urgence-climatique-et-aux-divisions-geopolitiques-31409559.php",
-   "n_members": 79,
+   "n_members": 82,
    "n_sources": 25,
    "counts": {
     "left": 8,
@@ -1033,17 +1062,16 @@
    },
    "blindspot_score": -0.333,
    "blindspot_for": null,
-   "divergence": 0.537,
+   "divergence": 0.542,
    "category": "environnement",
    "terms_left": [
-    "turquie",
     "pays",
-    "qu"
+    "énergies fossiles",
+    "fossiles"
    ],
    "terms_right": [
-    "chef",
-    "onu",
-    "chef onu"
+    "vraiment",
+    "climat"
    ]
   },
   {
@@ -1063,7 +1091,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.604,
+   "divergence": 0.597,
    "category": "politique",
    "terms_left": [
     "raphaël",
@@ -1072,8 +1100,8 @@
    ],
    "terms_right": [
     "zemmour",
-    "présidentielle",
-    "reconquête"
+    "candidat",
+    "qu"
    ]
   },
   {
@@ -1164,36 +1192,6 @@
     "français",
     "prix",
     "euros"
-   ]
-  },
-  {
-   "title": "\"J'ai pas pu protéger ma fille\": au procès des parents de la \"martyre de l'A10\", le père d'Inass dit vouloir \"assumer\" sa responsabilité",
-   "url": "https://www.ladepeche.fr/2026/10/28/recit-affaire-de-la-petite-martyre-de-la10-les-parents-dinass-la-fillette-retrouvee-morte-en-1987-vont-etre-juges-39-ans-apres-retour-sur-laffaire-en-13622231.php",
-   "n_members": 116,
-   "n_sources": 24,
-   "counts": {
-    "left": 6,
-    "centre": 10,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 9,
-    "opinion": 4
-   },
-   "blindspot_score": 0.143,
-   "blindspot_for": null,
-   "divergence": 0.435,
-   "category": "société",
-   "terms_left": [
-    "inconnue",
-    "petite",
-    "procès petite"
-   ],
-   "terms_right": [
-    "ans",
-    "martyre",
-    "ouvre"
    ]
   }
  ]
