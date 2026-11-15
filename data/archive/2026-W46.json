@@ -1,12 +1,12 @@
 {
  "week": "2026-W46",
- "generated_at": "2026-11-15T07:00:16+00:00",
+ "generated_at": "2026-11-15T14:33:26+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Israël : Eisenkot accuse Netanyahu d'entraver la formation d'un gouvernement",
-   "url": "https://www.humanite.fr/monde/benyamin-netanyahou/interdits-dinformer-israel-refuse-lentree-a-lenvoye-special-de-lhumanite",
+   "url": "https://www.20minutes.fr/monde/israel/4255130-20261017-israel-peuple-juif-occupant-netanyahou-repond-accusations-obama",
    "n_members": 452,
    "n_sources": 37,
    "counts": {
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.217,
    "blindspot_for": null,
-   "divergence": 0.26,
+   "divergence": 0.259,
    "category": "international",
    "terms_left": [
     "elections",
-    "israël benyamin",
-    "opposant"
+    "arabes",
+    "israël benyamin"
    ],
    "terms_right": [
     "netanyahu",
@@ -67,7 +67,7 @@
   {
    "title": "Présidentielle 2027 : Teddy Riner fera son premier déplacement de campagne au salon du «Made in France»",
    "url": "https://www.leparisien.fr/elections/presidentielle/les-gens-mont-pousse-a-me-presenter-des-jo-de-paris-a-la-presidentielle-les-coulisses-de-la-candidature-de-teddy-riner-09-11-2026-2CRPIYFKPFG43FTC777BRBLUEE.php",
-   "n_members": 206,
+   "n_members": 210,
    "n_sources": 35,
    "counts": {
     "left": 8,
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.153,
+   "divergence": 0.156,
    "category": "politique",
    "terms_left": [
     "annonce",
@@ -111,17 +111,17 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.504,
+   "divergence": 0.487,
    "category": "économie",
    "terms_left": [
     "sociale",
-    "gouvernement",
-    "colère"
+    "colère",
+    "gouvernement"
    ],
    "terms_right": [
     "salaires",
     "heures",
-    "pouvoir"
+    "syndicats"
    ]
   },
   {
@@ -141,12 +141,12 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.605,
+   "divergence": 0.607,
    "category": "société",
    "terms_left": [
-    "syndicats",
     "mouvement",
-    "grève"
+    "syndicats",
+    "jeunesse"
    ],
    "terms_right": [
     "colère",
@@ -155,9 +155,9 @@
    ]
   },
   {
-   "title": "Nvidia: Jensen Huang démissionne de son poste de directeur général",
+   "title": "Jensen Huang démissionne de Nvidia après le scandale sur son adultère : le géant des puces IA face à une transition de tous les dangers",
    "url": "https://www.lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html",
-   "n_members": 195,
+   "n_members": 196,
    "n_sources": 32,
    "counts": {
     "left": 7,
@@ -176,12 +176,12 @@
    "terms_left": [
     "espionnage",
     "chute",
-    "pdg jensen"
+    "huang patron"
    ],
    "terms_right": [
     "nvidia jensen",
-    "tête",
-    "alice huang"
+    "alice huang",
+    "alice"
    ]
   },
   {
@@ -395,6 +395,36 @@
    ]
   },
   {
+   "title": "Présidentielle 2027. Bruno Retailleau juge que la primaire doit se faire même sans Edouard Philippe",
+   "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-david-lisnard-de-nouveau-devant-bruno-retailleau-selon-notre-sondage-25-10-2026-YCUCGEBESVBQXEEFSSUQ2M5YTY.php",
+   "n_members": 173,
+   "n_sources": 29,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 6
+   },
+   "blindspot_score": 0.294,
+   "blindspot_for": null,
+   "divergence": 0.301,
+   "category": "politique",
+   "terms_left": [
+    "edouard philippe",
+    "edouard",
+    "primaire centre"
+   ],
+   "terms_right": [
+    "primaire démocrates",
+    "démocrates",
+    "qu"
+   ]
+  },
+  {
    "title": "\"Mon professeur d'histoire, je l'ai vu 2 heures\" : comment les lycéens vont-ils pouvoir rattraper le retard accumulé ?",
    "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/emmanuel-macron-recevra-les-organisations-lyceennes-vendredi-a-15heures-annonce-l-elysee_8249623.html",
    "n_members": 152,
@@ -411,7 +441,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.603,
+   "divergence": 0.602,
    "category": "société",
    "terms_left": [
     "mouvement lycéen",
@@ -441,7 +471,7 @@
    },
    "blindspot_score": -0.294,
    "blindspot_for": null,
-   "divergence": 0.326,
+   "divergence": 0.32,
    "category": "culture",
    "terms_left": [
     "assemblée",
@@ -482,36 +512,6 @@
     "jeunes",
     "agression",
     "violences"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027. Bruno Retailleau juge que la primaire doit se faire même sans Edouard Philippe",
-   "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-david-lisnard-de-nouveau-devant-bruno-retailleau-selon-notre-sondage-25-10-2026-YCUCGEBESVBQXEEFSSUQ2M5YTY.php",
-   "n_members": 171,
-   "n_sources": 28,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 11
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
-    "opinion": 6
-   },
-   "blindspot_score": 0.375,
-   "blindspot_for": null,
-   "divergence": 0.302,
-   "category": "politique",
-   "terms_left": [
-    "edouard philippe",
-    "edouard",
-    "pression"
-   ],
-   "terms_right": [
-    "primaire démocrates",
-    "démocrates",
-    "qu"
    ]
   },
   {
@@ -570,8 +570,8 @@
    ],
    "terms_right": [
     "base",
-    "iran",
-    "trump"
+    "trump",
+    "iran"
    ]
   },
   {
@@ -613,7 +613,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.401,
+   "divergence": 0.4,
    "category": "international",
    "terms_left": [
     "expulsion xenia",
@@ -643,7 +643,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.357,
+   "divergence": 0.356,
    "category": "politique",
    "terms_left": [
     "point",
@@ -654,6 +654,36 @@
     "colère",
     "sociale",
     "colère sociale"
+   ]
+  },
+  {
+   "title": "Colère sociale: la manifestation parisienne arrive place de la Nation",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/12/mobilisation-sociale-la-coordination-des-gilets-jaunes-les-organisations-de-jeunesse-et-certains-syndicats-appelent-a-un-acte-v-samedi_6809098_3224.html",
+   "n_members": 92,
+   "n_sources": 27,
+   "counts": {
+    "left": 8,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 11,
+    "opinion": 3
+   },
+   "blindspot_score": -0.067,
+   "blindspot_for": null,
+   "divergence": 0.485,
+   "category": "société",
+   "terms_left": [
+    "organisations",
+    "revendications",
+    "pays"
+   ],
+   "terms_right": [
+    "capitale",
+    "attendus",
+    "paris"
    ]
   },
   {
@@ -687,36 +717,6 @@
    ]
   },
   {
-   "title": "Colère sociale: la manifestation parisienne arrive place de la Nation",
-   "url": "https://www.lemonde.fr/societe/article/2026/11/12/mobilisation-sociale-la-coordination-des-gilets-jaunes-les-organisations-de-jeunesse-et-certains-syndicats-appelent-a-un-acte-v-samedi_6809098_3224.html",
-   "n_members": 81,
-   "n_sources": 27,
-   "counts": {
-    "left": 8,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 11,
-    "opinion": 3
-   },
-   "blindspot_score": -0.067,
-   "blindspot_for": null,
-   "divergence": 0.512,
-   "category": "société",
-   "terms_left": [
-    "revendications",
-    "organisations",
-    "journée"
-   ],
-   "terms_right": [
-    "capitale",
-    "attendus",
-    "marche internationale"
-   ]
-  },
-  {
    "title": "REPORTAGE. Ce lycée emblématique de Toulouse fermé sous la pression et la violence des bloqueurs, \"se faire traiter de facho par ses camarades parce qu'on veut retourner en cours est insupportable\"",
    "url": "https://www.challenges.fr/entreprise/medias/tiktok-centre-la-mobilisation-sur-les-likes-et-les-vues-apres-le-17-octobre-le-nouveau-role-ambigu-des-reseaux-sociaux_646647",
    "n_members": 73,
@@ -733,7 +733,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.672,
+   "divergence": 0.671,
    "category": "société",
    "terms_left": [
     "mouvement lycéen",
@@ -744,6 +744,36 @@
     "lycéens",
     "colère",
     "direct"
+   ]
+  },
+  {
+   "title": "Pagaille aérienne aux États-Unis : encore des annulations et des retards de vols ce samedi",
+   "url": "https://www.liberation.fr/international/amerique/les-avions-cloues-au-sol-aux-etats-unis-en-raison-de-circonstances-exceptionnelles-et-pour-des-raisons-de-securite-20261113_GLSL27DPABAHLC5GLVAFHUFNJI/",
+   "n_members": 68,
+   "n_sources": 27,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.439,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "soir",
+    "trump"
+   ],
+   "terms_right": [
+    "décollages",
+    "annulés",
+    "suspension décollages"
    ]
   },
   {
@@ -837,36 +867,6 @@
    ]
   },
   {
-   "title": "Pagaille aérienne aux États-Unis : encore des annulations et des retards de vols ce samedi",
-   "url": "https://www.liberation.fr/international/amerique/les-avions-cloues-au-sol-aux-etats-unis-en-raison-de-circonstances-exceptionnelles-et-pour-des-raisons-de-securite-20261113_GLSL27DPABAHLC5GLVAFHUFNJI/",
-   "n_members": 66,
-   "n_sources": 26,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 10,
-    "opinion": 1
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.442,
-   "category": "international",
-   "terms_left": [
-    "etats-unis",
-    "soir",
-    "autorités"
-   ],
-   "terms_right": [
-    "décollages",
-    "états-unis",
-    "américain"
-   ]
-  },
-  {
    "title": "Insultes d'un enfant visant Emmanuel Macron : \"délirant\" et \"scandaleux\", l'Élysée réagit après les propos de Marcel, 8 ans, tenus en direct sur franceinfo",
    "url": "https://www.lefigaro.fr/elections/presidentielles/sa-demission-cnews-les-riches-et-sa-vie-d-apres-des-messages-chocs-d-emmanuel-macron-reveles-dans-un-livre-20261103",
    "n_members": 63,
@@ -883,7 +883,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.565,
+   "divergence": 0.567,
    "category": "politique",
    "terms_left": [
     "france",
@@ -958,7 +958,7 @@
   {
    "title": "Budget de la Sécu : le Sénat adopte les recettes mais doit trouver 3,2 milliards d'euros d'économies",
    "url": "https://www.lefigaro.fr/placement/approuvez-vous-le-relevement-du-plafond-du-livret-a-a-30-000-euros-20261103",
-   "n_members": 54,
+   "n_members": 55,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -972,12 +972,12 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.508,
+   "divergence": 0.531,
    "category": "économie",
    "terms_left": [
     "budget",
     "ministre",
-    "sénat"
+    "heures"
    ],
    "terms_right": [
     "plafond",
@@ -1032,7 +1032,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.454,
+   "divergence": 0.461,
    "category": "international",
    "terms_left": [
     "paix",
@@ -1102,13 +1102,13 @@
    "terms_right": [
     "crise",
     "bancaire",
-    "pays"
+    "crise bancaire"
    ]
   },
   {
    "title": "À Antalya, des milliers de manifestants dénoncent une COP sourde aux populations",
    "url": "https://www.sudouest.fr/environnement/conference-pour-le-climat/cop31-en-turquie-un-sommet-mondial-sous-tension-debute-lundi-a-antalya-face-a-l-urgence-climatique-et-aux-divisions-geopolitiques-31409559.php",
-   "n_members": 84,
+   "n_members": 86,
    "n_sources": 25,
    "counts": {
     "left": 8,
@@ -1122,16 +1122,46 @@
    },
    "blindspot_score": -0.333,
    "blindspot_for": null,
-   "divergence": 0.544,
+   "divergence": 0.546,
    "category": "environnement",
    "terms_left": [
-    "turquie",
     "pays",
-    "énergies fossiles"
+    "énergies fossiles",
+    "fossiles"
    ],
    "terms_right": [
     "vraiment",
     "climat"
+   ]
+  },
+  {
+   "title": "France: des proviseurs épuisés par deux mois de colère lycéenne",
+   "url": "https://www.leprogres.fr/faits-divers-justice/2026/10/29/un-medecin-victime-d-un-coup-de-couteau-dans-son-cabinet",
+   "n_members": 74,
+   "n_sources": 25,
+   "counts": {
+    "left": 6,
+    "centre": 11,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 4
+   },
+   "blindspot_score": 0.143,
+   "blindspot_for": null,
+   "divergence": 0.712,
+   "category": "société",
+   "terms_left": [
+    "paul-éluard",
+    "mouvement lycéen",
+    "mouvement"
+   ],
+   "terms_right": [
+    "proviseurs",
+    "proviseur",
+    "violence"
    ]
   },
   {
@@ -1151,47 +1181,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.589,
+   "divergence": 0.608,
    "category": "politique",
    "terms_left": [
-    "raphaël glucksmann",
     "raphaël",
+    "raphaël glucksmann",
     "glucksmann"
    ],
    "terms_right": [
     "zemmour",
     "présidentielle",
-    "qu"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027. Hausse du brut, baisse des charges... ce que proposent les candidats pour augmenter les salaires",
-   "url": "https://www.nicematin.com/conso/l-acceleration-de-la-transition-vers-l-electrique-tirees-par-l-electrique-les-ventes-de-voitures-neuves-en-france-progressent-de-7-en-octobre-10750891",
-   "n_members": 62,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 10,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.676,
-   "category": "économie",
-   "terms_left": [
-    "vraiment",
-    "prix",
-    "carburants"
-   ],
-   "terms_right": [
-    "inflation",
-    "gouvernement",
-    "négociations"
+    "eric zemmour"
    ]
   }
  ]
