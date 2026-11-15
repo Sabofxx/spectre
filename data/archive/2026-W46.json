@@ -1,13 +1,13 @@
 {
  "week": "2026-W46",
- "generated_at": "2026-11-14T20:51:53+00:00",
+ "generated_at": "2026-11-15T00:31:31+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
-   "title": "Israël : Gadi Eisenkot accuse Benyamin Netanyahou de mener une «campagne raciste» contre la minorité arabe",
+   "title": "Israël : Eisenkot accuse Netanyahu d'entraver la formation d'un gouvernement",
    "url": "https://www.humanite.fr/monde/benyamin-netanyahou/interdits-dinformer-israel-refuse-lentree-a-lenvoye-special-de-lhumanite",
-   "n_members": 449,
+   "n_members": 452,
    "n_sources": 37,
    "counts": {
     "left": 9,
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.217,
    "blindspot_for": null,
-   "divergence": 0.261,
+   "divergence": 0.26,
    "category": "international",
    "terms_left": [
     "elections",
-    "arabes",
-    "israël benyamin"
+    "israël benyamin",
+    "opposant"
    ],
    "terms_right": [
     "netanyahu",
@@ -67,7 +67,7 @@
   {
    "title": "Présidentielle 2027 : Teddy Riner fera son premier déplacement de campagne au salon du «Made in France»",
    "url": "https://www.leparisien.fr/elections/presidentielle/les-gens-mont-pousse-a-me-presenter-des-jo-de-paris-a-la-presidentielle-les-coulisses-de-la-candidature-de-teddy-riner-09-11-2026-2CRPIYFKPFG43FTC777BRBLUEE.php",
-   "n_members": 202,
+   "n_members": 203,
    "n_sources": 35,
    "counts": {
     "left": 8,
@@ -81,7 +81,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.151,
+   "divergence": 0.152,
    "category": "politique",
    "terms_left": [
     "sport",
@@ -111,7 +111,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.508,
+   "divergence": 0.509,
    "category": "économie",
    "terms_left": [
     "sociale",
@@ -157,7 +157,7 @@
   {
    "title": "Nvidia: Jensen Huang démissionne de son poste de directeur général",
    "url": "https://www.lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html",
-   "n_members": 193,
+   "n_members": 194,
    "n_sources": 32,
    "counts": {
     "left": 7,
@@ -171,12 +171,12 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.21,
+   "divergence": 0.209,
    "category": "international",
    "terms_left": [
     "espionnage",
     "chute",
-    "street"
+    "huang patron"
    ],
    "terms_right": [
     "nvidia jensen",
@@ -501,7 +501,7 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.28,
+   "divergence": 0.279,
    "category": "politique",
    "terms_left": [
     "edouard philippe",
@@ -561,17 +561,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.783,
+   "divergence": 0.781,
    "category": "international",
    "terms_left": [
     "france",
     "ans",
-    "assemblée"
+    "israéliennes"
    ],
    "terms_right": [
     "base",
     "iran",
-    "américain"
+    "trump"
    ]
   },
   {
@@ -613,7 +613,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.394,
+   "divergence": 0.4,
    "category": "international",
    "terms_left": [
     "expulsion xenia",
@@ -689,7 +689,7 @@
   {
    "title": "Colère sociale: la manifestation parisienne arrive place de la Nation",
    "url": "https://www.lemonde.fr/societe/article/2026/11/12/mobilisation-sociale-la-coordination-des-gilets-jaunes-les-organisations-de-jeunesse-et-certains-syndicats-appelent-a-un-acte-v-samedi_6809098_3224.html",
-   "n_members": 75,
+   "n_members": 78,
    "n_sources": 27,
    "counts": {
     "left": 8,
@@ -703,17 +703,17 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.54,
+   "divergence": 0.517,
    "category": "société",
    "terms_left": [
+    "journée",
     "revendications",
-    "organisations",
-    "pays"
+    "organisations"
    ],
    "terms_right": [
     "capitale",
     "attendus",
-    "acte mouvement"
+    "marche internationale"
    ]
   },
   {
@@ -837,6 +837,36 @@
    ]
   },
   {
+   "title": "Pagaille aérienne aux États-Unis : encore des annulations et des retards de vols ce samedi",
+   "url": "https://www.liberation.fr/international/amerique/les-avions-cloues-au-sol-aux-etats-unis-en-raison-de-circonstances-exceptionnelles-et-pour-des-raisons-de-securite-20261113_GLSL27DPABAHLC5GLVAFHUFNJI/",
+   "n_members": 64,
+   "n_sources": 26,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 10,
+    "opinion": 1
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.442,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "soir",
+    "autorités"
+   ],
+   "terms_right": [
+    "décollages",
+    "états-unis",
+    "américain"
+   ]
+  },
+  {
    "title": "Insultes d'un enfant visant Emmanuel Macron : \"délirant\" et \"scandaleux\", l'Élysée réagit après les propos de Marcel, 8 ans, tenus en direct sur franceinfo",
    "url": "https://www.lefigaro.fr/elections/presidentielles/sa-demission-cnews-les-riches-et-sa-vie-d-apres-des-messages-chocs-d-emmanuel-macron-reveles-dans-un-livre-20261103",
    "n_members": 63,
@@ -864,36 +894,6 @@
     "livre",
     "président",
     "emmanuel macron"
-   ]
-  },
-  {
-   "title": "Pagaille aérienne aux États-Unis : encore des annulations et des retards de vols ce samedi",
-   "url": "https://www.liberation.fr/international/amerique/les-avions-cloues-au-sol-aux-etats-unis-en-raison-de-circonstances-exceptionnelles-et-pour-des-raisons-de-securite-20261113_GLSL27DPABAHLC5GLVAFHUFNJI/",
-   "n_members": 63,
-   "n_sources": 26,
-   "counts": {
-    "left": 6,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 10,
-    "opinion": 1
-   },
-   "blindspot_score": 0.077,
-   "blindspot_for": null,
-   "divergence": 0.442,
-   "category": "international",
-   "terms_left": [
-    "etats-unis",
-    "soir",
-    "autorités"
-   ],
-   "terms_right": [
-    "décollages",
-    "états-unis",
-    "américain"
    ]
   },
   {
@@ -958,7 +958,7 @@
   {
    "title": "Budget de la Sécu : le Sénat adopte les recettes mais doit trouver 3,2 milliards d'euros d'économies",
    "url": "https://www.lefigaro.fr/placement/approuvez-vous-le-relevement-du-plafond-du-livret-a-a-30-000-euros-20261103",
-   "n_members": 52,
+   "n_members": 53,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -972,17 +972,17 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.481,
+   "divergence": 0.506,
    "category": "économie",
    "terms_left": [
     "budget",
     "ministre",
-    "veut"
+    "projet"
    ],
    "terms_right": [
     "plafond",
-    "relèvement",
-    "plafond livret"
+    "livret",
+    "relèvement"
    ]
   },
   {
@@ -1032,7 +1032,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.443,
+   "divergence": 0.448,
    "category": "international",
    "terms_left": [
     "paix",
@@ -1040,8 +1040,8 @@
     "direct"
    ],
    "terms_right": [
-    "zelensky",
     "face",
+    "zelensky",
     "rencontrer"
    ]
   },
@@ -1092,7 +1092,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.361,
+   "divergence": 0.362,
    "category": "international",
    "terms_left": [
     "démissionne",
