@@ -1,6 +1,6 @@
 {
  "week": "2026-W47",
- "generated_at": "2026-11-16T16:38:47+00:00",
+ "generated_at": "2026-11-17T00:35:53+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,12 +21,12 @@
    },
    "blindspot_score": 0.217,
    "blindspot_for": null,
-   "divergence": 0.26,
+   "divergence": 0.263,
    "category": "international",
    "terms_left": [
     "elections",
     "arabe",
-    "arabes"
+    "israël benyamin"
    ],
    "terms_right": [
     "netanyahu",
@@ -81,17 +81,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.149,
+   "divergence": 0.136,
    "category": "politique",
    "terms_left": [
-    "annonce",
     "riner annonce",
-    "quintuple champion"
+    "annonce",
+    "sérieux"
    ],
    "terms_right": [
     "candidature teddy",
-    "qu",
-    "candidat présidentielle"
+    "candidat présidentielle",
+    "qu"
    ]
   },
   {
@@ -111,11 +111,11 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.487,
+   "divergence": 0.486,
    "category": "économie",
    "terms_left": [
     "sociale",
-    "coup pouce",
+    "coup",
     "pouce"
    ],
    "terms_right": [
@@ -127,7 +127,7 @@
   {
    "title": "Jensen Huang : l'ancien patron de Nvidia va-t-il faire son retour à la tête de l'entreprise ?",
    "url": "https://www.lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html",
-   "n_members": 205,
+   "n_members": 210,
    "n_sources": 32,
    "counts": {
     "left": 7,
@@ -145,13 +145,13 @@
    "category": "international",
    "terms_left": [
     "espionnage",
-    "chute",
-    "démission jensen"
+    "pdg",
+    "chute"
    ],
    "terms_right": [
     "nvidia jensen",
     "alice huang",
-    "alice"
+    "démissionne"
    ]
   },
   {
@@ -171,23 +171,23 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.344,
+   "divergence": 0.336,
    "category": "sciences-tech",
    "terms_left": [
     "entreprises",
-    "dépendance",
-    "administrations"
+    "administrations",
+    "entreprises administrations"
    ],
    "terms_right": [
     "monde",
-    "panne mondiale",
-    "annonce"
+    "annonce",
+    "messagerie"
    ]
   },
   {
    "title": "Présidentielle 2027 : Edouard Philippe accepte l’invitation de Gérard Larcher à une discussion des candidats de la droite et du centre, mais refuse toujours une primaire",
    "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-david-lisnard-de-nouveau-devant-bruno-retailleau-selon-notre-sondage-25-10-2026-YCUCGEBESVBQXEEFSSUQ2M5YTY.php",
-   "n_members": 186,
+   "n_members": 191,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -201,7 +201,7 @@
    },
    "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.283,
+   "divergence": 0.281,
    "category": "politique",
    "terms_left": [
     "edouard philippe",
@@ -231,7 +231,7 @@
    },
    "blindspot_score": 0.176,
    "blindspot_for": null,
-   "divergence": 0.556,
+   "divergence": 0.553,
    "category": "société",
    "terms_left": [
     "procès",
@@ -242,6 +242,36 @@
     "jeunes",
     "agression",
     "violences"
+   ]
+  },
+  {
+   "title": "Pagaille aérienne aux États-Unis : encore des annulations et des retards de vols ce samedi",
+   "url": "https://www.liberation.fr/international/amerique/les-avions-cloues-au-sol-aux-etats-unis-en-raison-de-circonstances-exceptionnelles-et-pour-des-raisons-de-securite-20261113_GLSL27DPABAHLC5GLVAFHUFNJI/",
+   "n_members": 76,
+   "n_sources": 28,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.432,
+   "category": "international",
+   "terms_left": [
+    "etats-unis",
+    "suspension vols",
+    "soir"
+   ],
+   "terms_right": [
+    "décollages",
+    "annulés",
+    "suspension décollages"
    ]
   },
   {
@@ -269,9 +299,9 @@
     "veut"
    ],
    "terms_right": [
-    "plafond",
     "livret",
-    "euros"
+    "plafond",
+    "plafond livret"
    ]
   },
   {
@@ -291,7 +321,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.396,
+   "divergence": 0.397,
    "category": "international",
    "terms_left": [
     "expulsion xenia",
@@ -305,9 +335,9 @@
    ]
   },
   {
-   "title": "Social. Pourquoi la fonction publique appelle à nouveau à la grève le 17 novembre",
+   "title": "Mobilisation de la fonction publique : le gel persistant du point d’indice échauffe les syndicats",
    "url": "https://www.europe1.fr/societe/en-direct-mouvement-des-lyceens-sebastien-lecornu-redit-etre-pret-a-recevoir-de-nouveau-les-lyceens-la-semaine-prochaine-1202214",
-   "n_members": 106,
+   "n_members": 108,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -321,16 +351,16 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.37,
+   "divergence": 0.381,
    "category": "politique",
    "terms_left": [
     "fonction publique",
-    "fonctionnaires",
-    "fonction"
+    "fonction",
+    "publique"
    ],
    "terms_right": [
-    "colère",
     "sociale",
+    "colère",
     "colère sociale"
    ]
   },
@@ -351,7 +381,7 @@
    },
    "blindspot_score": -0.067,
    "blindspot_for": null,
-   "divergence": 0.513,
+   "divergence": 0.516,
    "category": "société",
    "terms_left": [
     "journée",
@@ -365,39 +395,39 @@
    ]
   },
   {
-   "title": "Pagaille aérienne aux États-Unis : encore des annulations et des retards de vols ce samedi",
-   "url": "https://www.liberation.fr/international/amerique/les-avions-cloues-au-sol-aux-etats-unis-en-raison-de-circonstances-exceptionnelles-et-pour-des-raisons-de-securite-20261113_GLSL27DPABAHLC5GLVAFHUFNJI/",
+   "title": "Macron dénonce \"ceux qui veulent rationner\" l’aide à l’Ukraine et \"l’obliger à une paix injuste\"",
+   "url": "https://www.lefigaro.fr/international/le-secretaire-general-de-l-otan-mark-rutte-juge-tres-difficile-de-dire-si-une-paix-en-ukraine-est-plus-proche-20261112",
    "n_members": 74,
-   "n_sources": 27,
+   "n_sources": 26,
    "counts": {
-    "left": 7,
+    "left": 5,
     "centre": 13,
-    "right": 7
+    "right": 8
    },
    "style_counts": {
     "factuel": 15,
-    "mixte": 10,
-    "opinion": 2
+    "mixte": 8,
+    "opinion": 3
    },
-   "blindspot_score": 0.0,
+   "blindspot_score": 0.231,
    "blindspot_for": null,
    "divergence": 0.424,
    "category": "international",
    "terms_left": [
-    "etats-unis",
-    "soir",
-    "suspension vols"
+    "dénonce",
+    "volodymyr zelensky",
+    "volodymyr"
    ],
    "terms_right": [
-    "décollages",
-    "annulés",
-    "suspension décollages"
+    "france",
+    "président",
+    "message"
    ]
   },
   {
    "title": "Donald Trump, Xi Jinping et Vladimir Poutine vont se rencontrer jeudi en Chine",
    "url": "https://www.leparisien.fr/international/etats-unis/nous-allons-parler-de-beaucoup-de-choses-donald-trump-va-aller-en-chine-pour-rencontrer-vladimir-poutine-et-xi-jinping-09-11-2026-ZPN6QJDI5RGSDI33YUESX3JJ4Q.php",
-   "n_members": 59,
+   "n_members": 63,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -411,7 +441,7 @@
    },
    "blindspot_score": 0.286,
    "blindspot_for": null,
-   "divergence": 0.496,
+   "divergence": 0.498,
    "category": "international",
    "terms_left": [
     "ukraine",
@@ -425,9 +455,9 @@
    ]
   },
   {
-   "title": "Pourparlers sur l'Ukraine : imbroglio sur la participation de l'Europe, qui craint un \"piège\" russe",
+   "title": "Guerre en Ukraine : une réunion clé en préparation pour fixer la position européenne avant les pourparlers de paix",
    "url": "https://www.lejdd.fr/International/reunion-du-g7-deplacee-de-marseille-a-paris-marco-rubio-attendu-des-dimanche-187983",
-   "n_members": 115,
+   "n_members": 116,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -441,12 +471,12 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.465,
+   "divergence": 0.464,
    "category": "international",
    "terms_left": [
-    "européens",
     "direct guerre",
-    "direct"
+    "direct",
+    "européens"
    ],
    "terms_right": [
     "poutine",
@@ -457,7 +487,7 @@
   {
    "title": "À Antalya, des milliers de manifestants dénoncent une COP sourde aux populations",
    "url": "https://www.sudouest.fr/environnement/conference-pour-le-climat/cop31-en-turquie-un-sommet-mondial-sous-tension-debute-lundi-a-antalya-face-a-l-urgence-climatique-et-aux-divisions-geopolitiques-31409559.php",
-   "n_members": 93,
+   "n_members": 95,
    "n_sources": 25,
    "counts": {
     "left": 8,
@@ -471,7 +501,7 @@
    },
    "blindspot_score": -0.333,
    "blindspot_for": null,
-   "divergence": 0.551,
+   "divergence": 0.554,
    "category": "environnement",
    "terms_left": [
     "turquie",
@@ -481,7 +511,7 @@
    "terms_right": [
     "environnement",
     "europe",
-    "santé"
+    "vraiment"
    ]
   },
   {
@@ -501,53 +531,23 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.719,
+   "divergence": 0.695,
    "category": "société",
    "terms_left": [
     "paul-éluard",
-    "répression",
-    "mouvement lycéen"
+    "mouvement lycéen",
+    "répression"
    ],
    "terms_right": [
     "proviseurs",
-    "qu",
-    "proviseur"
+    "proviseur",
+    "lycées"
    ]
   },
   {
-   "title": "Macron dénonce \"ceux qui veulent rationner\" l’aide à l’Ukraine et \"l’obliger à une paix injuste\"",
-   "url": "https://www.lefigaro.fr/international/le-secretaire-general-de-l-otan-mark-rutte-juge-tres-difficile-de-dire-si-une-paix-en-ukraine-est-plus-proche-20261112",
-   "n_members": 65,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.466,
-   "category": "international",
-   "terms_left": [
-    "ambassadeur",
-    "candidate",
-    "rn"
-   ],
-   "terms_right": [
-    "président",
-    "message",
-    "europe"
-   ]
-  },
-  {
-   "title": "DIRECT. Procès de la \"martyre de l'A10\": 20 ans de réclusion criminelle requis contre la mère d'Inass, 14 ans contre le père",
+   "title": "Procès de la « martyre de l’A10 » : 20 ans de réclusion requis contre la mère, 14 ans contre le père",
    "url": "https://www.ladepeche.fr/2026/10/28/recit-affaire-de-la-petite-martyre-de-la10-les-parents-dinass-la-fillette-retrouvee-morte-en-1987-vont-etre-juges-39-ans-apres-retour-sur-laffaire-en-13622231.php",
-   "n_members": 123,
+   "n_members": 127,
    "n_sources": 24,
    "counts": {
     "left": 6,
@@ -561,7 +561,7 @@
    },
    "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.424,
+   "divergence": 0.418,
    "category": "société",
    "terms_left": [
     "inconnue",
@@ -569,15 +569,15 @@
     "procès petite"
    ],
    "terms_right": [
-    "ans",
     "martyre",
+    "ans",
     "parents martyre"
    ]
   },
   {
-   "title": "Vol massif de données dans une filiale de La Poste : 22 millions de personnes concernées par la cyberattaque",
+   "title": "La plateforme Maileva du groupe La Poste victime d'un vol de données touchant 22 millions de personnes",
    "url": "https://www.bfmtv.com/tech/cybersecurite/la-plateforme-maileva-du-groupe-la-poste-victime-d-un-vol-de-donnees-touchant-22-millions-de-personnes_AD-202611140348.html",
-   "n_members": 38,
+   "n_members": 39,
    "n_sources": 24,
    "counts": {
     "left": 5,
@@ -591,7 +591,7 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.217,
+   "divergence": 0.218,
    "category": "société",
    "terms_left": [
     "cours",
@@ -605,9 +605,39 @@
    ]
   },
   {
+   "title": "SpaceX rattrape l'étage supérieur de sa mégafusée Starship, une première et une prouesse technique",
+   "url": "https://www.lefigaro.fr/sciences/pour-la-premiere-fois-spacex-va-tenter-de-rattraper-les-deux-etages-de-starship-20261113",
+   "n_members": 36,
+   "n_sources": 24,
+   "counts": {
+    "left": 2,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.6,
+   "blindspot_for": "gauche",
+   "divergence": 0.642,
+   "category": "sciences-tech",
+   "terms_left": [
+    "récupérer",
+    "récupérer étage",
+    "supérieur"
+   ],
+   "terms_right": [
+    "starship",
+    "spacex",
+    "mégafusée starship"
+   ]
+  },
+  {
    "title": "Gérard Depardieu : l'acteur présente des «excuses profondes et sincères» à son procès pour agressions sexuelles",
    "url": "https://www.leparisien.fr/faits-divers/ils-ont-pris-une-partie-de-moi-six-ans-apres-son-lynchage-par-des-policiers-la-douleur-intacte-de-michel-zecler-08-11-2026-UGIA4OR77NGVBFPJLVD7EBFHZI.php",
-   "n_members": 65,
+   "n_members": 71,
    "n_sources": 23,
    "counts": {
     "left": 8,
@@ -621,17 +651,17 @@
    },
    "blindspot_score": -0.231,
    "blindspot_for": null,
-   "divergence": 0.402,
+   "divergence": 0.318,
    "category": "société",
    "terms_left": [
-    "appel",
-    "femmes tournage",
-    "femmes"
+    "condamné agressions",
+    "qu",
+    "condamné"
    ],
    "terms_right": [
-    "procès agressions",
-    "entends",
-    "paris"
+    "définitive condamnation",
+    "condamnation",
+    "depardieu renonce"
    ]
   },
   {
@@ -653,16 +683,8 @@
    "blindspot_for": null,
    "divergence": 0.674,
    "category": "politique",
-   "terms_left": [
-    "marine",
-    "marine pen",
-    "pen"
-   ],
-   "terms_right": [
-    "français",
-    "ancien",
-    "prix"
-   ]
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "500 jours de détention pour Christophe Gleizes: des personnalités publiques se mobilisent",
@@ -717,39 +739,39 @@
    "terms_right": []
   },
   {
-   "title": "SpaceX rattrape l'étage supérieur de sa mégafusée Starship, une première et une prouesse technique",
-   "url": "https://www.lefigaro.fr/sciences/pour-la-premiere-fois-spacex-va-tenter-de-rattraper-les-deux-etages-de-starship-20261113",
-   "n_members": 35,
+   "title": "Cinéma: l'acteur britannique Robert Pattinson sera le nouveau James Bond",
+   "url": "https://www.tf1info.fr/culture/cinema-robert-pattinson-est-le-nouveau-james-bond-007-2476172.html",
+   "n_members": 29,
    "n_sources": 23,
    "counts": {
-    "left": 2,
-    "centre": 14,
-    "right": 7
+    "left": 6,
+    "centre": 12,
+    "right": 5
    },
    "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
+    "factuel": 14,
+    "mixte": 8,
     "opinion": 1
    },
-   "blindspot_score": 0.556,
+   "blindspot_score": -0.091,
    "blindspot_for": null,
-   "divergence": 0.63,
-   "category": "sciences-tech",
+   "divergence": 0.291,
+   "category": "culture",
    "terms_left": [
-    "récupérer",
-    "récupérer étage",
-    "supérieur"
+    "célèbre",
+    "français",
+    "fin"
    ],
    "terms_right": [
-    "starship",
-    "spacex",
-    "mégafusée starship"
+    "bond",
+    "james bond",
+    "james"
    ]
   },
   {
    "title": "EN DIRECT, France-Turquie : les Bleus de Zinédine Zidane confisquent le ballon en ce début de rencontre",
    "url": "https://www.cnews.fr/sport/2026-11-10/italie-france-ligue-des-nations-quelle-heure-et-sur-quelle-chaine-1950973",
-   "n_members": 126,
+   "n_members": 127,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -763,23 +785,23 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.391,
+   "divergence": 0.38,
    "category": "sport",
    "terms_left": [
     "football",
-    "france-turquie bleus",
-    "bleus zinédine"
+    "finale compétition",
+    "france-turquie bleus"
    ],
    "terms_right": [
-    "équipe",
     "mbappé",
-    "équipe france"
+    "italie",
+    "équipe"
    ]
   },
   {
-   "title": "EN DIRECT Guerre en Ukraine : Environ 600 drones lancés depuis la nuit vers la région de Moscou et une frappe sur le pont de Crimée...",
+   "title": "Guerre en Ukraine: le pont de Crimée touché en Russie après l'interception de plus de 1300 drones ukrainiens",
    "url": "https://www.tf1info.fr/international/videos/video-guerre-en-ukraine-50-miradors-entourent-la-villa-de-poutine-a-valdai-il-n-a-pas-seulement-peur-de-kiev-70490-2472012.html",
-   "n_members": 93,
+   "n_members": 96,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -793,12 +815,12 @@
    },
    "blindspot_score": 0.091,
    "blindspot_for": null,
-   "divergence": 0.742,
+   "divergence": 0.716,
    "category": "international",
    "terms_left": [
     "direct",
-    "attaques",
-    "heures"
+    "maire",
+    "ponts"
    ],
    "terms_right": [
     "poutine",
@@ -831,8 +853,8 @@
     "porter"
    ],
    "terms_right": [
-    "jordan",
     "jordan bardella",
+    "jordan",
     "bardella"
    ]
   },
@@ -853,7 +875,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.797,
+   "divergence": 0.794,
    "category": "société",
    "terms_left": [
     "mélenchon",
@@ -862,14 +884,74 @@
    ],
    "terms_right": [
     "attentats",
+    "cagnotte",
+    "sonia"
+   ]
+  },
+  {
+   "title": "Iran : les Gardiens disent avoir attaqué une base militaire au Bahreïn avec des drones",
+   "url": "https://www.europe1.fr/international/le-bleuet-de-france-ma-aidee-a-me-reconstruire-le-temoignage-de-caroline-rescapee-de-lattentat-du-caire-1219136",
+   "n_members": 55,
+   "n_sources": 22,
+   "counts": {
+    "left": 3,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 5,
+    "opinion": 3
+   },
+   "blindspot_score": 0.4,
+   "blindspot_for": null,
+   "divergence": 0.68,
+   "category": "international",
+   "terms_left": [
+    "base",
+    "profit",
+    "espionnage profit"
+   ],
+   "terms_right": [
     "france",
-    "cagnotte"
+    "retour",
+    "armes"
+   ]
+  },
+  {
+   "title": "EN DIRECT - Présidentielle 2027 : cinq candidats débattent ce lundi sur TF1 et LCI",
+   "url": "https://www.la-croix.com/societe/pierre-edouard-sterin-le-milliardaire-sera-juge-en-janvier-pour-son-refus-de-temoigner-a-l-assemblee-20261112",
+   "n_members": 55,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 11,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 6,
+    "opinion": 4
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.738,
+   "category": "politique",
+   "terms_left": [
+    "glucksmann",
+    "raphaël",
+    "raphaël glucksmann"
+   ],
+   "terms_right": [
+    "présidentielle",
+    "france",
+    "vie"
    ]
   },
   {
    "title": "La revalorisation du Smic promise par le gouvernement coûtera \"plus d'un milliard d'euros pour l'État\"",
    "url": "https://www.leparisien.fr/politique/smic-le-gouvernement-annonce-un-coup-de-pouce-voici-son-nouveau-montant-09-11-2026-6LGQGPYBQJDC3E73DVNEHTLQJE.php",
-   "n_members": 50,
+   "n_members": 51,
    "n_sources": 22,
    "counts": {
     "left": 6,
@@ -883,12 +965,12 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.529,
+   "divergence": 0.52,
    "category": "économie",
    "terms_left": [
+    "coup",
     "augmenter",
-    "euros gouvernement",
-    "coup"
+    "pouce"
    ],
    "terms_right": [
     "smic",
@@ -897,9 +979,9 @@
    ]
   },
   {
-   "title": "Le pape s'inquiète de l'exode rural lors de son retour dans les Andes péruviennes",
+   "title": "Au Pérou, Léon XIV à l'épreuve des Andes et de l'Amazonie",
    "url": "https://www.leprogres.fr/societe/2026/10/26/le-pape-leon-xiv-sera-bien-present-en-amerique-du-sud-en-novembre",
-   "n_members": 125,
+   "n_members": 126,
    "n_sources": 21,
    "counts": {
     "left": 2,
@@ -913,7 +995,7 @@
    },
    "blindspot_score": 0.6,
    "blindspot_for": "gauche",
-   "divergence": 0.438,
+   "divergence": 0.436,
    "category": "international",
    "terms_left": [
     "latine",
@@ -951,7 +1033,7 @@
   {
    "title": "Un homme placé en garde à vue après la découverte du corps de son ex-conjointe dans les Ardennes",
    "url": "https://www.nicematin.com/societe/justice/etre-un-bon-marin-ca-n-excuse-pas-tout-ce-qu-il-faut-savoir-avant-l-ouverture-du-proces-de-kevin-escoffier-pour-quatre-agressions-sexuelles-10754847",
-   "n_members": 65,
+   "n_members": 66,
    "n_sources": 21,
    "counts": {
     "left": 5,
@@ -995,7 +1077,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.666,
+   "divergence": 0.668,
    "category": "société",
    "terms_left": [
     "procès",
@@ -1006,6 +1088,36 @@
     "président",
     "politique",
     "europe"
+   ]
+  },
+  {
+   "title": "Yvelines : un vice-président d’université attaqué à l’arme blanche dans son bureau, l’agresseur en fuite",
+   "url": "https://www.ladepeche.fr/2026/11/11/il-ouvre-la-superette-avec-sa-carte-bancaire-deux-hommes-encagoules-sengouffrent-derriere-lui-quatre-suspects-arretes-pour-le-cambriolage-dune-13647135.php",
+   "n_members": 43,
+   "n_sources": 21,
+   "counts": {
+    "left": 4,
+    "centre": 9,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.371,
+   "category": "faits-divers",
+   "terms_left": [
+    "versailles-saint-quentin",
+    "saint-quentin-en-yvelines agressé",
+    "établissement"
+   ],
+   "terms_right": [
+    "agression",
+    "vice-président",
+    "philippe"
    ]
   },
   {
@@ -1025,17 +1137,17 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.336,
+   "divergence": 0.414,
    "category": "sport",
    "terms_left": [
-    "titre",
-    "monde titre",
-    "joueurs fabien"
+    "champions",
+    "champions monde",
+    "journée"
    ],
    "terms_right": [
-    "finale",
-    "tête",
-    "france-afrique"
+    "france-afrique sud",
+    "france-afrique",
+    "nations"
    ]
   },
   {
@@ -1059,126 +1171,6 @@
    "category": "international",
    "terms_left": [],
    "terms_right": []
-  },
-  {
-   "title": "Le gouvernement interdit la vente de mortiers d'artifice jusqu'au 27 novembre",
-   "url": "https://www.la-croix.com/societe/mortiers-d-artifices-comment-la-loi-tente-de-limiter-lusage-detourne-de-ces-engins-20261111",
-   "n_members": 58,
-   "n_sources": 20,
-   "counts": {
-    "left": 4,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 8,
-    "opinion": 2
-   },
-   "blindspot_score": 0.273,
-   "blindspot_for": null,
-   "divergence": 0.496,
-   "category": "société",
-   "terms_left": [
-    "mobilisation",
-    "marge",
-    "rassemblements interdits"
-   ],
-   "terms_right": [
-    "autour lycées",
-    "ordre",
-    "interdiction"
-   ]
-  },
-  {
-   "title": "Sommet de la Francophonie : la rivalité RD Congo-Rwanda au cœur des débats",
-   "url": "https://www.rfi.fr/fr/asie-pacifique/20261112-francophonie-cambodge-sommet-oif-multiples-enjeux",
-   "n_members": 50,
-   "n_sources": 19,
-   "counts": {
-    "left": 3,
-    "centre": 10,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 4,
-    "opinion": 2
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.477,
-   "category": "international",
-   "terms_left": [
-    "organisation",
-    "rwanda",
-    "internationale"
-   ],
-   "terms_right": [
-    "cambodge",
-    "président",
-    "pays"
-   ]
-  },
-  {
-   "title": "Explosions à Bahreïn, l'Iran revendique une attaque contre une base américaine",
-   "url": "https://www.europe1.fr/international/le-bleuet-de-france-ma-aidee-a-me-reconstruire-le-temoignage-de-caroline-rescapee-de-lattentat-du-caire-1219136",
-   "n_members": 48,
-   "n_sources": 19,
-   "counts": {
-    "left": 3,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.672,
-   "category": "international",
-   "terms_left": [
-    "américaine",
-    "base",
-    "profit"
-   ],
-   "terms_right": [
-    "france",
-    "retour",
-    "vie"
-   ]
-  },
-  {
-   "title": "« Une volonté de lynchage » : les violences contre les journalistes se multiplient lors des manifestations",
-   "url": "https://www.leparisien.fr/culture-loisirs/tv/vous-vous-prenez-pour-qui-apres-une-sequence-tendue-avec-alexis-corbiere-louise-montangon-quitte-le-plateau-de-bfmtv-10-11-2026-ULTV2EHSGVBKBA7TNUKFP2T6NI.php",
-   "n_members": 46,
-   "n_sources": 19,
-   "counts": {
-    "left": 3,
-    "centre": 7,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 8,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": 0.759,
-   "category": "société",
-   "terms_left": [
-    "manifestations",
-    "manifestation",
-    "journalistes"
-   ],
-   "terms_right": [
-    "marge",
-    "bfmtv",
-    "agression"
-   ]
   }
  ]
 }
