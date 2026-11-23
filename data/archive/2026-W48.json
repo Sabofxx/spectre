@@ -1,27 +1,27 @@
 {
  "week": "2026-W48",
- "generated_at": "2026-11-23T10:59:57+00:00",
+ "generated_at": "2026-11-23T22:28:22+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "La COP31 s'achève sur un constat d'échec, sans accord en raison de la division des pays sur les énergies fossiles",
    "url": "https://www.sudouest.fr/environnement/conference-pour-le-climat/cop31-en-turquie-un-sommet-mondial-sous-tension-debute-lundi-a-antalya-face-a-l-urgence-climatique-et-aux-divisions-geopolitiques-31409559.php",
-   "n_members": 205,
-   "n_sources": 33,
+   "n_members": 216,
+   "n_sources": 34,
    "counts": {
     "left": 9,
     "centre": 17,
-    "right": 7
+    "right": 8
    },
    "style_counts": {
     "factuel": 18,
     "mixte": 13,
-    "opinion": 2
+    "opinion": 3
    },
-   "blindspot_score": -0.125,
+   "blindspot_score": -0.059,
    "blindspot_for": null,
-   "divergence": 0.295,
+   "divergence": 0.29,
    "category": "environnement",
    "terms_left": [
     "sortie",
@@ -30,8 +30,38 @@
    ],
    "terms_right": [
     "pétroliers",
-    "pays",
-    "france"
+    "france",
+    "états pétroliers"
+   ]
+  },
+  {
+   "title": "Jensen Huang est de retour au siège de Nvidia, accueilli avec ferveur par les salariés",
+   "url": "https://www.lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html",
+   "n_members": 281,
+   "n_sources": 33,
+   "counts": {
+    "left": 7,
+    "centre": 16,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 13,
+    "opinion": 3
+   },
+   "blindspot_score": 0.176,
+   "blindspot_for": null,
+   "divergence": 0.183,
+   "category": "international",
+   "terms_left": [
+    "espionnage",
+    "dirigeant",
+    "chute jensen"
+   ],
+   "terms_right": [
+    "nvidia jensen",
+    "américain",
+    "huang"
    ]
   },
   {
@@ -51,7 +81,7 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.327,
+   "divergence": 0.325,
    "category": "politique",
    "terms_left": [
     "réforme retraites",
@@ -67,7 +97,7 @@
   {
    "title": "« Il s’agit d’éliminer les macronistes » : David Lisnard voit la primaire de la droite comme un « pré-premier tour »",
    "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-david-lisnard-de-nouveau-devant-bruno-retailleau-selon-notre-sondage-25-10-2026-YCUCGEBESVBQXEEFSSUQ2M5YTY.php",
-   "n_members": 287,
+   "n_members": 290,
    "n_sources": 31,
    "counts": {
     "left": 7,
@@ -81,7 +111,7 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.249,
+   "divergence": 0.257,
    "category": "politique",
    "terms_left": [
     "edouard philippe",
@@ -95,9 +125,9 @@
    ]
   },
   {
-   "title": "Affaire Michel Zecler: cinq ans de prison contre les trois policiers, le caractère raciste retenu",
+   "title": "Au procès Zecler, le racisme retenu, prison ferme pour trois policiers",
    "url": "https://www.cnews.fr/faits-divers/2026-11-01/rouen-lissue-dune-rencontre-de-football-une-rixe-eclate-aux-abords-dun-bar",
-   "n_members": 211,
+   "n_members": 214,
    "n_sources": 31,
    "counts": {
     "left": 8,
@@ -111,7 +141,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.223,
+   "divergence": 0.218,
    "category": "société",
    "terms_left": [
     "procès",
@@ -121,37 +151,97 @@
    "terms_right": [
     "ans",
     "prison",
-    "accusés"
+    "ans prison"
    ]
   },
   {
    "title": "Enquête sur des fuites vers le RN : le préfet Moutouh demande à être relevé de ses fonctions",
    "url": "https://www.lemonde.fr/societe/article/2026/11/19/une-enquete-ouverte-sur-des-fuites-en-provenance-du-ministere-de-l-interieur-vers-le-rn_6813316_3224.html",
-   "n_members": 117,
-   "n_sources": 29,
+   "n_members": 121,
+   "n_sources": 30,
    "counts": {
     "left": 7,
-    "centre": 13,
+    "centre": 14,
     "right": 9
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": 0.125,
+   "blindspot_for": null,
+   "divergence": 0.213,
+   "category": "politique",
+   "terms_left": [
+    "pen",
+    "moutouh préfet",
+    "marine pen"
+   ],
+   "terms_right": [
+    "soupçons fuites",
+    "soupçons",
+    "plainte"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : fronde chez les Écologistes, 70 cadres défient Tondelier sur son rapprochement avec Mélenchon",
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/direct-presidentielle-2027-la-candidate-ecologiste-marine-tondelier-est-l-invitee-de-vous-presidente_LN-202611120882.html",
+   "n_members": 104,
+   "n_sources": 29,
+   "counts": {
+    "left": 6,
+    "centre": 13,
+    "right": 10
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.265,
+   "category": "politique",
+   "terms_left": [
+    "mélenchon",
+    "prête",
+    "main"
+   ],
+   "terms_right": [
+    "qu",
+    "élection",
+    "france"
+   ]
+  },
+  {
+   "title": "Pour Emmanuel Macron, inscrire une règle d'or budgétaire dans la Constitution est \"une idée à explorer\"",
+   "url": "https://www.publicsenat.fr/emission/sens-public/regle-dor-doit-on-interdire-de-sendetter-e0",
+   "n_members": 83,
+   "n_sources": 29,
+   "counts": {
+    "left": 6,
+    "centre": 12,
+    "right": 11
    },
    "style_counts": {
     "factuel": 15,
     "mixte": 10,
     "opinion": 4
    },
-   "blindspot_score": 0.125,
+   "blindspot_score": 0.294,
    "blindspot_for": null,
-   "divergence": 0.211,
+   "divergence": 0.287,
    "category": "politique",
    "terms_left": [
-    "moutouh préfet",
-    "pen",
-    "découvert"
+    "droite",
+    "publics",
+    "volonté"
    ],
    "terms_right": [
-    "soupçons fuites",
-    "soupçons",
-    "enquête"
+    "budgétaire constitution",
+    "convoquer",
+    "budget"
    ]
   },
   {
@@ -179,15 +269,105 @@
     "loyers"
    ],
    "terms_right": [
-    "députés",
-    "projet",
-    "amendement"
+    "amendement rn",
+    "amendement",
+    "projet"
    ]
   },
   {
-   "title": "\"Le 2 mai est le pire scénario possible\" : Marylise Léon appelle aussi à changer les dates de la présidentielle",
+   "title": "Protestations : Gilets jaunes et syndicats de nouveau mobilisés, pour un acte d'envergure européenne",
+   "url": "https://www.franceinfo.fr/vrai-ou-fake/le-gaz-lacrymogene-a-t-il-des-effets-sur-les-cycles-menstruels_8269799.html",
+   "n_members": 80,
+   "n_sources": 28,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.683,
+   "category": "société",
+   "terms_left": [
+    "gaz",
+    "gaz lacrymogènes",
+    "lacrymogènes"
+   ],
+   "terms_right": [
+    "sixième",
+    "syndicats",
+    "allemagne"
+   ]
+  },
+  {
+   "title": "Soldats français en Ukraine : un pas vers la cobelligérance ou simple application des accords existants ?",
+   "url": "https://www.tf1info.fr/international/aujourd-hui-dans-24h-presente-par-yves-calvi-protection-us-l-offre-choc-de-3-pays-europeens-2475753.html",
+   "n_members": 68,
+   "n_sources": 27,
+   "counts": {
+    "left": 6,
+    "centre": 14,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.077,
+   "blindspot_for": null,
+   "divergence": 0.399,
+   "category": "international",
+   "terms_left": [
+    "déployés ukraine",
+    "paris",
+    "déployés"
+   ],
+   "terms_right": [
+    "guerre",
+    "france",
+    "français ukraine"
+   ]
+  },
+  {
+   "title": "Pourquoi des pays européens choisissent-ils le Rwanda pour expulser leurs migrants interdits de séjour ?",
+   "url": "https://www.rfi.fr/fr/europe/20261115-expulsions-vers-des-pays-tiers-ce-que-l-on-sait-du-projet-pr%C3%A9par%C3%A9-par-cinq-%C3%A9tats-europ%C3%A9en",
+   "n_members": 57,
+   "n_sources": 27,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 10,
+    "opinion": 3
+   },
+   "blindspot_score": 0.067,
+   "blindspot_for": null,
+   "divergence": 0.39,
+   "category": "international",
+   "terms_left": [
+    "pays européens",
+    "européens",
+    "ue"
+   ],
+   "terms_right": [
+    "centre",
+    "estime",
+    "migrants"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : \"Le 2 mai est le pire scénario possible\", la CFDT demande d'avancer le second tour pour éviter qu'il ne tombe au \"lendemain de la fête des Travailleurs\"",
    "url": "https://www.sudouest.fr/economie/agriculture/presidentielle-2027-les-jeunes-agriculteurs-publient-un-manifeste-pour-peser-sur-la-campagne-et-insistent-sur-la-transmission-31576893.php",
-   "n_members": 64,
+   "n_members": 66,
    "n_sources": 26,
    "counts": {
     "left": 6,
@@ -201,53 +381,23 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.637,
+   "divergence": 0.6,
    "category": "politique",
    "terms_left": [
-    "créateurs contenu",
-    "contenu",
-    "créateurs"
+    "créateurs",
+    "arcom",
+    "créateurs contenu"
    ],
    "terms_right": [
+    "élection présidentielle",
     "marylise léon",
-    "marylise",
-    "léon"
+    "marylise"
    ]
   },
   {
-   "title": "Emmanuel Macron veut inscrire la règle d’or budgétaire dans la Constitution avec l’appui de la droite et de l’extrême droite",
-   "url": "https://www.publicsenat.fr/emission/sens-public/regle-dor-doit-on-interdire-de-sendetter-e0",
-   "n_members": 61,
-   "n_sources": 26,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 15,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.429,
-   "blindspot_for": null,
-   "divergence": 0.424,
-   "category": "politique",
-   "terms_left": [
-    "droite",
-    "déficits",
-    "réunir"
-   ],
-   "terms_right": [
-    "règle",
-    "budgétaire constitution",
-    "emmanuel"
-   ]
-  },
-  {
-   "title": "Après les annonces du gouvernement, l’intersyndicale lance un nouvel appel à la grève dans la fonction publique le 1er décembre 2026",
+   "title": "Belgique: journée de grève nationale contre la vie chère, le trafic aérien entièrement paralysé",
    "url": "https://www.bfmtv.com/economie/economie-social/social/insuffisante-inadmissible-la-hausse-de-la-prime-de-risque-des-policiers-proposee-par-nunez-revolte-les-syndicats_AD-202611130834.html",
-   "n_members": 55,
+   "n_members": 57,
    "n_sources": 26,
    "counts": {
     "left": 5,
@@ -264,14 +414,14 @@
    "divergence": 0.614,
    "category": "société",
    "terms_left": [
-    "mouvement",
-    "appel",
-    "pays"
+    "cfdt",
+    "intersyndicale",
+    "nouvelle journée"
    ],
    "terms_right": [
-    "er",
-    "mobilisation",
-    "hausses rémunération"
+    "risque",
+    "alliance",
+    "prime risque"
    ]
   },
   {
@@ -293,21 +443,13 @@
    "blindspot_for": null,
    "divergence": 0.537,
    "category": "sciences-tech",
-   "terms_left": [
-    "récupérer étage",
-    "récupérer",
-    "suite"
-   ],
-   "terms_right": [
-    "starship",
-    "mégafusée starship",
-    "mégafusée"
-   ]
+   "terms_left": [],
+   "terms_right": []
   },
   {
    "title": "Ukraine : au moins deux morts après une frappe de drone russe contre un immeuble résidentiel",
    "url": "https://www.france24.com/fr/asie-pacifique/20261117-japon-accuse-russie-deux-avions-viole-espace-aerien",
-   "n_members": 85,
+   "n_members": 86,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -321,23 +463,23 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.574,
+   "divergence": 0.705,
    "category": "international",
    "terms_left": [
     "rih",
-    "guerre",
-    "ans"
+    "ans",
+    "direct"
    ],
    "terms_right": [
+    "russes",
     "pologne",
-    "qu",
-    "france"
+    "frappes"
    ]
   },
   {
    "title": "Présidentielle 2027: François Ruffin annonce retirer sa candidature",
    "url": "https://www.lejdd.fr/politique/liberale-regalienne-progressiste-ou-integrale-vers-quelle-droite-penche-aujourdhui-la-france-188991",
-   "n_members": 55,
+   "n_members": 58,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -351,7 +493,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.425,
+   "divergence": 0.42,
    "category": "politique",
    "terms_left": [
     "somme",
@@ -365,9 +507,37 @@
    ]
   },
   {
-   "title": "Présidentielle 2027 : Marine Le Pen à 37-38 %, Philippe et Glucksmann menacent Mélenchon",
+   "title": "Budget de l’UE : le président du Conseil européen António Costa propose des coupes de 204 milliards d’euros et une taxe numérique",
+   "url": "https://www.bfmtv.com/politique/video-dix-ans-au-pouvoir-d-emmanuel-macron-ca-a-ete-deux-quinquennats-d-echecs-estime-laurent-jacobelli-porte-parole-du-rn_VN-202611160975.html",
+   "n_members": 52,
+   "n_sources": 23,
+   "counts": {
+    "left": 3,
+    "centre": 9,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 6,
+    "opinion": 4
+   },
+   "blindspot_score": 0.571,
+   "blindspot_for": null,
+   "divergence": 0.745,
+   "category": "politique",
+   "terms_left": [
+    "parlementaires"
+   ],
+   "terms_right": [
+    "euros",
+    "budget",
+    "nouvelle"
+   ]
+  },
+  {
+   "title": "Sondage présidentielle 2027 : donné au second tour face à Marine Le Pen, Jean-Luc Mélenchon progresse de cinq points en un mois et réduit l’écart",
    "url": "https://www.ouest-france.fr/politique/posez-vos-questions-a-natacha-polony-invitee-du-grand-jury-rtl-avec-ouest-france-bc3d4f8a-d46e-11f1-84f3-5611f158a658",
-   "n_members": 147,
+   "n_members": 149,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -381,7 +551,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.728,
+   "divergence": 0.726,
    "category": "politique",
    "terms_left": [
     "macron",
@@ -391,7 +561,37 @@
    "terms_right": [
     "pen",
     "mélenchon",
-    "présidentielle"
+    "marine"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027 : près d’un maire sur deux refuse de parrainer un candidat",
+   "url": "https://www.humanite.fr/politique/election-presidentielle/teddy-riner-president-la-derniere-carte-de-macron-banger-%f0%9f%92%a5-yerim-sar",
+   "n_members": 68,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 10,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.333,
+   "blindspot_for": null,
+   "divergence": 0.521,
+   "category": "politique",
+   "terms_left": [
+    "gauche",
+    "macron",
+    "david"
+   ],
+   "terms_right": [
+    "candidat",
+    "maire",
+    "politique"
    ]
   },
   {
@@ -417,9 +617,39 @@
    "terms_right": []
   },
   {
-   "title": "Dix ans après le Brexit, le retour européen du Royaume-Uni",
+   "title": "Racisme en France: une marche pour l'égalité s'élance de Marseille en direction de Trappes",
+   "url": "https://www.leparisien.fr/yvelines-78/attentat-de-trappes-les-obseques-de-pengo-bossio-wangi-ouvertes-a-tous-ce-samedi-a-guyancourt-04-11-2026-7UXN5ZWCOBEZNA5S73OS4STBMI.php",
+   "n_members": 57,
+   "n_sources": 22,
+   "counts": {
+    "left": 7,
+    "centre": 10,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 12,
+    "mixte": 8,
+    "opinion": 2
+   },
+   "blindspot_score": -0.167,
+   "blindspot_for": null,
+   "divergence": 0.396,
+   "category": "société",
+   "terms_left": [
+    "gouvernement",
+    "mois",
+    "nouvelle"
+   ],
+   "terms_right": [
+    "pengo",
+    "bossio",
+    "bossio wangi"
+   ]
+  },
+  {
+   "title": "Londres renoue les liens avec l'Union européenne lors d'un sommet",
    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-invite-d-un-jour-dans-le-monde/l-invite-d-un-jour-dans-le-monde-du-mardi-17-novembre-2026-1190484",
-   "n_members": 44,
+   "n_members": 45,
    "n_sources": 22,
    "counts": {
     "left": 5,
@@ -433,17 +663,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.529,
+   "divergence": 0.598,
    "category": "international",
    "terms_left": [
-    "sommet bruxelles",
-    "retour",
-    "europe"
+    "royaume-uni",
+    "rapprochement",
+    "retour"
    ],
    "terms_right": [
     "brexit",
-    "londres",
-    "ans"
+    "ans",
+    "ministre"
    ]
   },
   {
@@ -463,12 +693,12 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.338,
+   "divergence": 0.345,
    "category": "sport",
    "terms_left": [
     "pumas",
     "finale compétition",
-    "retrouveront"
+    "compétition"
    ],
    "terms_right": [
     "nations",
@@ -477,39 +707,39 @@
    ]
   },
   {
-   "title": "Le parquet de Paris ouvre une enquête contre des policiers pour violences et agression sexuelle lors de la manifestation du 31 octobre",
-   "url": "https://www.leprogres.fr/social/2026/11/18/le-21-novembre-on-va-a-bellecour-la-crainte-de-nouveaux-incidents-ce-samedi-lors-du-mouvement-contre-la-vie-chere",
-   "n_members": 57,
-   "n_sources": 20,
+   "title": "Présidence de la Fifa: la CAF affiche son unité derrière Gianni Infantino, un désaveu pour Philippe Diallo",
+   "url": "https://www.ouest-france.fr/sport/football/fifa-sepp-blatter-qualifie-infantino-de-dictateur-et-suggere-de-lenvoyer-en-psychiatrie-89f336de-ddec-11f1-86b6-0a2fbb1d8ed9",
+   "n_members": 66,
+   "n_sources": 21,
    "counts": {
     "left": 3,
-    "centre": 8,
-    "right": 9
+    "centre": 11,
+    "right": 7
    },
    "style_counts": {
-    "factuel": 9,
+    "factuel": 12,
     "mixte": 6,
-    "opinion": 5
+    "opinion": 3
    },
-   "blindspot_score": 0.5,
+   "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.71,
-   "category": "société",
+   "divergence": 0.248,
+   "category": "sport",
    "terms_left": [
-    "mobilisation",
-    "accusés",
-    "personnes"
+    "lance",
+    "fédération",
+    "infantino présidence"
    ],
    "terms_right": [
-    "camélia",
-    "ans",
-    "proches"
+    "candidat",
+    "candidat présidence",
+    "présidence fifa"
    ]
   },
   {
    "title": "EN DIRECT, guerre en Ukraine : deux navires, dont un russe, ciblés par des attaques de drones à Benghazi, en Libye, selon les autorités locales",
    "url": "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_8293799.html",
-   "n_members": 55,
+   "n_members": 77,
    "n_sources": 20,
    "counts": {
     "left": 2,
@@ -523,83 +753,53 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.492,
+   "divergence": 0.489,
    "category": "international",
    "terms_left": [
     "direct",
     "direct guerre",
-    "guerre ukraine"
+    "qu"
    ],
    "terms_right": [
     "russes",
-    "russie",
-    "mer baltique"
+    "kiev",
+    "libye"
    ]
   },
   {
-   "title": "\"J’ai senti les Français unis\": les sœurs de Pengo Bossio Wangi, tué dans l'attentat raciste de Trappes, témoignent",
-   "url": "https://www.leparisien.fr/yvelines-78/attentat-de-trappes-les-obseques-de-pengo-bossio-wangi-ouvertes-a-tous-ce-samedi-a-guyancourt-04-11-2026-7UXN5ZWCOBEZNA5S73OS4STBMI.php",
-   "n_members": 51,
+   "title": "Le parquet de Paris ouvre une enquête contre des policiers pour violences et agression sexuelle lors de la manifestation du 31 octobre",
+   "url": "https://www.leprogres.fr/social/2026/11/18/le-21-novembre-on-va-a-bellecour-la-crainte-de-nouveaux-incidents-ce-samedi-lors-du-mouvement-contre-la-vie-chere",
+   "n_members": 60,
    "n_sources": 20,
    "counts": {
-    "left": 6,
-    "centre": 9,
-    "right": 5
+    "left": 3,
+    "centre": 8,
+    "right": 9
    },
    "style_counts": {
-    "factuel": 11,
-    "mixte": 7,
-    "opinion": 2
+    "factuel": 9,
+    "mixte": 6,
+    "opinion": 5
    },
-   "blindspot_score": -0.091,
+   "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.381,
+   "divergence": 0.724,
    "category": "société",
    "terms_left": [
-    "gouvernement",
-    "mois",
-    "dénonce"
+    "mobilisation",
+    "face",
+    "accusés"
    ],
    "terms_right": [
-    "hommage pengo",
-    "tué",
-    "pengo"
+    "camélia",
+    "plainte",
+    "proches"
    ]
   },
   {
-   "title": "Budget de l’UE : Antonio Costa propose 200 milliards de coupes et une taxe numérique",
-   "url": "https://www.bfmtv.com/politique/video-dix-ans-au-pouvoir-d-emmanuel-macron-ca-a-ete-deux-quinquennats-d-echecs-estime-laurent-jacobelli-porte-parole-du-rn_VN-202611160975.html",
-   "n_members": 46,
-   "n_sources": 20,
-   "counts": {
-    "left": 2,
-    "centre": 8,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.667,
-   "blindspot_for": "gauche",
-   "divergence": 0.709,
-   "category": "politique",
-   "terms_left": [
-    "dit",
-    "pensions",
-    "favorable"
-   ],
-   "terms_right": [
-    "budget",
-    "euros",
-    "nouvelle"
-   ]
-  },
-  {
-   "title": "\"J'aimerais le voir revenir\": Donald Trump déclare qu'il aimerait que Jensen Huang, l'ex-patron de Nvidia, ait \"une deuxième chance\"",
+   "title": "États-Unis : piratages informatiques du FBI et du ministère de l'Agriculture",
    "url": "https://www.leparisien.fr/international/etats-unis/liran-preparerait-une-attaque-chimique-sur-des-membres-de-ladministration-trump-a-washington-alertent-les-etats-unis-17-11-2026-DOIU73JTLNEVLPD64DUSXPGTOI.php",
-   "n_members": 50,
+   "n_members": 51,
    "n_sources": 19,
    "counts": {
     "left": 3,
@@ -613,7 +813,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.862,
+   "divergence": 0.864,
    "category": "international",
    "terms_left": [
     "stephen",
@@ -627,9 +827,31 @@
    ]
   },
   {
-   "title": "Mobilisations du 21 novembre : Laurent Nuñez appelle les préfets à la vigilance",
+   "title": "Deux nouveaux pétroliers touchés dans le détroit d'Ormuz",
+   "url": "https://www.sudouest.fr/international/video-detroit-d-ormuz-un-petrolier-touche-par-un-projectile-et-en-feu-31578312.php",
+   "n_members": 41,
+   "n_sources": 19,
+   "counts": {
+    "left": 2,
+    "centre": 10,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 5,
+    "opinion": 1
+   },
+   "blindspot_score": 0.556,
+   "blindspot_for": null,
+   "divergence": null,
+   "category": "international",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Week-end sans filtre du samedi 21 novembre 2026",
    "url": "https://www.sudradio.fr/sud-radio/la-meteo-du-mercredi-18-novembre-2026-encore-doux-mais-toujours-humide-et-venteux",
-   "n_members": 43,
+   "n_members": 44,
    "n_sources": 18,
    "counts": {
     "left": 5,
@@ -643,23 +865,23 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.884,
+   "divergence": 0.878,
    "category": "société",
    "terms_left": [
+    "police",
     "logement",
-    "droit",
-    "droit logement"
+    "paris"
    ],
    "terms_right": [
-    "mobilisation",
     "france",
-    "journée"
+    "journée",
+    "météo"
    ]
   },
   {
    "title": "Législatives en Espagne: le pari de Pedro Sanchez peut-il ouvrir les portes du pouvoir à l’extrême droite ?",
    "url": "https://www.franceinfo.fr/monde/espagne/comment-le-premier-ministre-espagnol-pedro-sanchez-affaibli-sur-la-scene-interieure-a-su-faire-de-la-politique-etrangere-un-point-fort_8284973.html",
-   "n_members": 24,
+   "n_members": 26,
    "n_sources": 18,
    "counts": {
     "left": 5,
@@ -679,26 +901,56 @@
    "terms_right": []
   },
   {
-   "title": "Un nageur britannique nage dans le détroit d'Ormuz pour alerter sur le désastre écologique lié à la guerre en Iran",
-   "url": "https://www.sudouest.fr/international/video-detroit-d-ormuz-un-petrolier-touche-par-un-projectile-et-en-feu-31578312.php",
-   "n_members": 28,
-   "n_sources": 17,
+   "title": "Grâce à l’IA, un chercheur résout l’un des problèmes mathématiques les plus célèbres du monde",
+   "url": "https://www.numerama.com/tech/2380265-un-graal-des-maths-tombe-un-chercheur-danthropic-revendique-avoir-resolu-lhypothese-de-riemann-avec-lia-claude.html",
+   "n_members": 23,
+   "n_sources": 18,
    "counts": {
     "left": 1,
-    "centre": 10,
-    "right": 6
+    "centre": 14,
+    "right": 3
    },
    "style_counts": {
     "factuel": 12,
-    "mixte": 4,
+    "mixte": 5,
     "opinion": 1
    },
-   "blindspot_score": 0.714,
-   "blindspot_for": "gauche",
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
    "divergence": null,
-   "category": "international",
+   "category": "sciences-tech",
    "terms_left": [],
    "terms_right": []
+  },
+  {
+   "title": "Landes : pourquoi le remorquage du cargo échoué sur une plage pourrait prendre du temps",
+   "url": "https://www.franceinfo.fr/faits-divers/un-cargo-avec-22-personnes-a-bord-s-echoue-sur-le-littoral-landais-en-raison-des-intemperies_8291624.html",
+   "n_members": 50,
+   "n_sources": 17,
+   "counts": {
+    "left": 3,
+    "centre": 9,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 10,
+    "mixte": 6,
+    "opinion": 1
+   },
+   "blindspot_score": 0.25,
+   "blindspot_for": null,
+   "divergence": 0.342,
+   "category": "société",
+   "terms_left": [
+    "hélitreuillés",
+    "attendu",
+    "déséchouement"
+   ],
+   "terms_right": [
+    "météo",
+    "heures",
+    "cargo échoué"
+   ]
   },
   {
    "title": "Après huit ans de voyage, la sonde BepiColombo a atteint l'orbite de Mercure",
@@ -720,8 +972,8 @@
    "divergence": 0.51,
    "category": "sciences-tech",
    "terms_left": [
-    "orbite autour",
     "autour mercure",
+    "orbite autour",
     "autour"
    ],
    "terms_right": [
@@ -731,9 +983,39 @@
    ]
   },
   {
+   "title": "Crues : voici le seul département placé en vigilance orange ce dimanche",
+   "url": "https://www.cnews.fr/france/2026-10-29/orages-voici-le-seul-departement-en-vigilance-jaune-ce-vendredi-1944276",
+   "n_members": 154,
+   "n_sources": 16,
+   "counts": {
+    "left": 2,
+    "centre": 9,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 11,
+    "mixte": 4,
+    "opinion": 1
+   },
+   "blindspot_score": 0.429,
+   "blindspot_for": null,
+   "divergence": 0.515,
+   "category": "environnement",
+   "terms_left": [
+    "hérault",
+    "gard",
+    "pas-de-calais"
+   ],
+   "terms_right": [
+    "départements",
+    "jaune",
+    "vigilance jaune"
+   ]
+  },
+  {
    "title": "OGC Nice - PSG : Désiré Doué souffre d’une rupture du ligament croisé antérieur du genou droit",
    "url": "https://www.franceinfo.fr/sports/foot/ligue-1/grosse-inquietude-pour-desire-doue-blesse-au-genou-droit-avec-le-psg-et-sorti-sur-civiere-face-a-nice-en-ligue-1_8294027.html",
-   "n_members": 31,
+   "n_members": 35,
    "n_sources": 16,
    "counts": {
     "left": 2,
@@ -747,7 +1029,7 @@
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.598,
+   "divergence": 0.608,
    "category": "sport",
    "terms_left": [
     "ligue",
@@ -761,352 +1043,116 @@
    ]
   },
   {
-   "title": "EN DIRECT - Présidentielle 2027 : Marine Le Pen attaque David Lisnard et son projet de «broyer» le code du travail, le maire de Cannes réplique vivement",
-   "url": "https://www.nicematin.com/societe/politique/les-electeurs-du-rn-vont-voter-pour-une-socialiste-eric-zemmour-sans-filtre-face-aux-lecteurs-de-var-matin-et-nice-matin-10765012",
-   "n_members": 29,
-   "n_sources": 15,
+   "title": "Le Mexique arrête le baron de la drogue «Chapo Isidro» recherché par le FBI",
+   "url": "https://www.leprogres.fr/faits-divers-justice/2026/11/15/miguel-angel-felix-l-un-des-plus-puissants-barons-de-la-drogue-est-mort",
+   "n_members": 33,
+   "n_sources": 16,
    "counts": {
     "left": 1,
-    "centre": 7,
-    "right": 7
+    "centre": 11,
+    "right": 4
    },
    "style_counts": {
-    "factuel": 8,
-    "mixte": 4,
-    "opinion": 3
+    "factuel": 13,
+    "mixte": 2,
+    "opinion": 1
    },
-   "blindspot_score": 0.75,
+   "blindspot_score": 0.6,
    "blindspot_for": "gauche",
    "divergence": null,
-   "category": "politique",
+   "category": "international",
    "terms_left": [],
    "terms_right": []
   },
   {
    "title": "Choose France : 273 projets valorisés et près de 15 milliards d'euros d'investissements nouveaux",
    "url": "https://www.ouest-france.fr/economie/exclusif-choose-france-voici-les-communes-de-louest-qui-accueillent-des-investissements-evoques-lors-du-sommet-1e8a3e34-e403-11f1-9a72-32f9104dab1b",
-   "n_members": 23,
-   "n_sources": 15,
+   "n_members": 25,
+   "n_sources": 16,
    "counts": {
     "left": 2,
-    "centre": 7,
+    "centre": 8,
     "right": 6
    },
    "style_counts": {
-    "factuel": 9,
+    "factuel": 10,
     "mixte": 5,
     "opinion": 1
    },
    "blindspot_score": 0.5,
    "blindspot_for": null,
-   "divergence": 0.518,
+   "divergence": 0.511,
    "category": "économie",
    "terms_left": [
     "mettre",
     "entreprises",
-    "françaises"
+    "tient"
    ],
    "terms_right": [
     "investissements",
     "euros investissements",
-    "choose france"
+    "france"
    ]
   },
   {
-   "title": "Grâce à l’IA, un chercheur résout l’un des problèmes mathématiques les plus célèbres du monde",
-   "url": "https://www.numerama.com/tech/2380265-un-graal-des-maths-tombe-un-chercheur-danthropic-revendique-avoir-resolu-lhypothese-de-riemann-avec-lia-claude.html",
-   "n_members": 18,
-   "n_sources": 15,
+   "title": "Présidentielle 2027 : Sandrine Rousseau regrette le «truc anti-Mélenchon primaire» de Yannick Jadot",
+   "url": "https://www.bfmtv.com/politique/elections/video-je-quitte-le-mouvement-des-ecologistes-annonce-sur-bfmtv-yannick-jadot-senateur-ecologiste-de-paris-et-soutien-de-raphael-glucksmann_VN-202611191058.html",
+   "n_members": 24,
+   "n_sources": 16,
    "counts": {
-    "left": 1,
-    "centre": 11,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": 0.5,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "sciences-tech",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Black Week 2026 : notre sélection des meilleures offres et promotions à saisir",
-   "url": "https://www.radiofrance.fr/ici/podcasts/l-horoscope-de-catherine-viguie/l-horoscope-du-samedi-14-novembre-2026-8598287",
-   "n_members": 46,
-   "n_sources": 14,
-   "counts": {
-    "left": 0,
+    "left": 3,
     "centre": 9,
-    "right": 5
+    "right": 4
    },
    "style_counts": {
     "factuel": 11,
-    "mixte": 1,
+    "mixte": 3,
     "opinion": 2
    },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "économie",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Inondations dans le Pas-de-Calais : la situation «n'est pas totalement stabilisée», alerte le préfet",
-   "url": "https://www.leparisien.fr/meteo/pluie-inondation-la-somme-et-le-pas-de-calais-places-en-vigilance-orange-17-11-2026-45HDA3HUQNBTFFOWBTUXZTIZMM.php",
-   "n_members": 43,
-   "n_sources": 14,
-   "counts": {
-    "left": 2,
-    "centre": 6,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 7,
-    "mixte": 6,
-    "opinion": 1
-   },
-   "blindspot_score": 0.5,
+   "blindspot_score": 0.143,
    "blindspot_for": null,
-   "divergence": 0.545,
-   "category": "environnement",
+   "divergence": 0.557,
+   "category": "politique",
    "terms_left": [
-    "préfecture",
-    "vigicrues",
-    "canche reste"
+    "gauche",
+    "parti",
+    "présidentielle"
    ],
    "terms_right": [
-    "pas-de-calais",
-    "crues",
-    "inondations"
+    "écologistes",
+    "annonce",
+    "jadot annonce"
    ]
   },
   {
-   "title": "Prévisions du 21 novembre 2026",
-   "url": "https://www.sudradio.fr/sud-radio/la-meteo-du-lundi-2-novembre-2026-sec-plus-frais-que-la-normale-soleil-au-sud",
-   "n_members": 65,
-   "n_sources": 13,
+   "title": "Montpellier : un directeur d’école maternelle mis en examen pour viol et agression sexuelle sur des enfants",
+   "url": "https://www.nicematin.com/societe/justice/le-directeur-de-la-prison-d-aix-luynes-en-garde-a-vue-il-est-soupconne-d-avoir-telecharge-et-de-detenir-des-images-pedopornographiques-10762847",
+   "n_members": 51,
+   "n_sources": 15,
    "counts": {
-    "left": 1,
-    "centre": 7,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 2,
-    "opinion": 1
-   },
-   "blindspot_score": 0.667,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "environnement",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Des propos racistes et salut nazi diffusés dans des conversations entre élèves d’une école de police de Seine-et-Marne",
-   "url": "https://www.leparisien.fr/paris-75/salut-nazi-racisme-harcelement-photo-denfant-nu-quand-la-promotion-de-futurs-officiers-de-police-derape-22-11-2026-U7YWU2TBEJGIDNIDNGAZBXJDWU.php",
-   "n_members": 14,
-   "n_sources": 13,
-   "counts": {
-    "left": 2,
+    "left": 4,
     "centre": 8,
     "right": 3
    },
    "style_counts": {
-    "factuel": 8,
+    "factuel": 10,
     "mixte": 3,
     "opinion": 2
    },
-   "blindspot_score": 0.2,
+   "blindspot_score": -0.143,
    "blindspot_for": null,
-   "divergence": 0.744,
-   "category": "société",
+   "divergence": 0.428,
+   "category": "faits-divers",
    "terms_left": [
-    "supérieure",
-    "école nationale",
-    "supérieure police"
+    "prison",
+    "aix-luynes",
+    "prison aix-luynes"
    ],
    "terms_right": [
-    "racistes",
-    "police",
-    "affaire"
+    "mis examen",
+    "examen",
+    "mis"
    ]
-  },
-  {
-   "title": "Taxation des milliardaires : “La France est beaucoup moins prête à accepter les inégalités que les États-Unis”",
-   "url": "https://www.nouvelobs.com/economie/20261118.OBS120220/gabriel-zucman-la-concentration-des-richesses-est-telle-que-ces-milliardaires-menacent-nos-democraties.html",
-   "n_members": 24,
-   "n_sources": 12,
-   "counts": {
-    "left": 4,
-    "centre": 3,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 6,
-    "mixte": 4,
-    "opinion": 2
-   },
-   "blindspot_score": 0.111,
-   "blindspot_for": null,
-   "divergence": 0.542,
-   "category": "économie",
-   "terms_left": [
-    "sommet oligarchie",
-    "ultrariches",
-    "face"
-   ],
-   "terms_right": [
-    "économiste",
-    "économiste gabriel",
-    "économie"
-   ]
-  },
-  {
-   "title": "Le CHU de Guadeloupe victime d'une «cyberattaque de grande ampleur»",
-   "url": "https://www.lemonde.fr/outre-mer/article/2026/11/22/guadeloupe-le-chu-victime-d-une-cyberattaque-de-grande-ampleur-le-plan-blanc-declenche_6814248_1840826.html",
-   "n_members": 12,
-   "n_sources": 12,
-   "counts": {
-    "left": 3,
-    "centre": 7,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 7,
-    "mixte": 3,
-    "opinion": 2
-   },
-   "blindspot_score": -0.2,
-   "blindspot_for": null,
-   "divergence": 0.495,
-   "category": "société",
-   "terms_left": [
-    "blanc déclenché",
-    "plan blanc",
-    "déclenché"
-   ],
-   "terms_right": [
-    "matin",
-    "cyberattaque grande",
-    "grande ampleur"
-   ]
-  },
-  {
-   "title": "Cisjordanie occupée : Eisenkot condamne des attaques de colons et dénonce un \"terrorisme juif\"",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/a-jericho-2607036",
-   "n_members": 26,
-   "n_sources": 11,
-   "counts": {
-    "left": 3,
-    "centre": 8,
-    "right": 0
-   },
-   "style_counts": {
-    "factuel": 8,
-    "mixte": 2,
-    "opinion": 1
-   },
-   "blindspot_score": -1.0,
-   "blindspot_for": "droite",
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Tennis : les Français Théo Arribagé et Albano Olivetti triomphent au Masters ATP en double",
-   "url": "https://www.ladepeche.fr/2026/11/16/ils-ne-jouaient-pas-ensemble-il-y-a-plus-dun-an-et-se-retrouvent-avec-les-meilleurs-du-tennis-mondial-lascension-eclair-du-toulousain-theo-arribage-et-13655692.php",
-   "n_members": 19,
-   "n_sources": 11,
-   "counts": {
-    "left": 1,
-    "centre": 6,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 6,
-    "mixte": 4,
-    "opinion": 1
-   },
-   "blindspot_score": 0.6,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Championnat des nations : l'Écossaise Hollie Davidson va devenir la première femme à arbitrer le XV de France",
-   "url": "https://www.leparisien.fr/sports/rugby/xv-de-france/xv-de-france-matthieu-jalibert-un-retour-qui-va-soulager-les-bleus-avant-largentine-15-11-2026-P64B5AMETNCUJMLKPTKVJ5DNCI.php",
-   "n_members": 24,
-   "n_sources": 10,
-   "counts": {
-    "left": 0,
-    "centre": 6,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 7,
-    "mixte": 2,
-    "opinion": 1
-   },
-   "blindspot_score": 1.0,
-   "blindspot_for": "gauche",
-   "divergence": null,
-   "category": "sport",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "La députée RN Laure Lavalette accusée à son tour d’ écrits antisémites, Marine Le Pen excuse (encore) l’erreur de jeunesse",
-   "url": "https://www.leparisien.fr/elections/presidentielle/il-y-a-30-ans-dans-un-climat-tout-a-fait-different-la-deputee-rn-laure-lavalette-accusee-davoir-cautionne-des-ecrits-antisemites-19-11-2026-UBPF7LYVAFCNZNTEJP5UK2JQBM.php",
-   "n_members": 13,
-   "n_sources": 10,
-   "counts": {
-    "left": 4,
-    "centre": 5,
-    "right": 1
-   },
-   "style_counts": {
-    "factuel": 6,
-    "mixte": 3,
-    "opinion": 1
-   },
-   "blindspot_score": -0.6,
-   "blindspot_for": "droite",
-   "divergence": null,
-   "category": "politique",
-   "terms_left": [],
-   "terms_right": []
-  },
-  {
-   "title": "Bahreïn accuse l'Iran d'avoir mené une frappe contre un de ses sites industriels",
-   "url": "https://www.france24.com/fr/moyen-orient/20261120-etats-unis-bombes-graphite-iran",
-   "n_members": 12,
-   "n_sources": 9,
-   "counts": {
-    "left": 1,
-    "centre": 6,
-    "right": 2
-   },
-   "style_counts": {
-    "factuel": 8,
-    "mixte": 1,
-    "opinion": 0
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": null,
-   "category": "international",
-   "terms_left": [],
-   "terms_right": []
   }
  ]
 }
