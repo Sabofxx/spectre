@@ -1,13 +1,13 @@
 {
  "week": "2026-W48",
- "generated_at": "2026-11-26T02:59:07+00:00",
+ "generated_at": "2026-11-26T11:50:40+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
   {
    "title": "Le raz-de-marée provoqué par GTA VI à des conséquences : où peut-on trouver une PS5 aujourd'hui ?",
    "url": "https://next.ink/brief-article/gta-vi-dans-les-starting-blocks-30-fps-et-xbox-cloud-gaming-au-programme/",
-   "n_members": 133,
+   "n_members": 134,
    "n_sources": 38,
    "counts": {
     "left": 11,
@@ -37,7 +37,7 @@
   {
    "title": "Jensen Huang est de retour au siège de Nvidia, accueilli avec ferveur par les salariés",
    "url": "https://www.lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html",
-   "n_members": 339,
+   "n_members": 341,
    "n_sources": 36,
    "counts": {
     "left": 7,
@@ -54,8 +54,8 @@
    "divergence": 0.159,
    "category": "international",
    "terms_left": [
-    "chute",
     "espionnage",
+    "chute",
     "spectaculaire"
    ],
    "terms_right": [
@@ -115,13 +115,73 @@
    "category": "environnement",
    "terms_left": [
     "turquie",
-    "fossiles",
+    "qu",
     "cop turquie"
    ],
    "terms_right": [
     "pétroliers",
-    "france",
-    "cœur"
+    "cœur",
+    "prise"
+   ]
+  },
+  {
+   "title": "Congrès des maires de France : David Lisnard réélu pour un troisième mandat à la tête de l'AMF",
+   "url": "https://www.europe1.fr/politique/primaire-a-droite-cest-surtout-edouard-philippe-qui-bloque-affirme-david-lisnard-1187205",
+   "n_members": 348,
+   "n_sources": 33,
+   "counts": {
+    "left": 7,
+    "centre": 14,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 10,
+    "opinion": 6
+   },
+   "blindspot_score": 0.263,
+   "blindspot_for": null,
+   "divergence": 0.225,
+   "category": "politique",
+   "terms_left": [
+    "edouard philippe",
+    "edouard",
+    "droite"
+   ],
+   "terms_right": [
+    "édouard philippe",
+    "édouard",
+    "primaire démocrates"
+   ]
+  },
+  {
+   "title": "La «règle d’or» budgétaire, une fausse bonne idée pour redresser les finances publiques ?",
+   "url": "https://www.publicsenat.fr/emission/sens-public/regle-dor-doit-on-interdire-de-sendetter-e0",
+   "n_members": 96,
+   "n_sources": 33,
+   "counts": {
+    "left": 7,
+    "centre": 13,
+    "right": 13
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 11,
+    "opinion": 5
+   },
+   "blindspot_score": 0.3,
+   "blindspot_for": null,
+   "divergence": 0.231,
+   "category": "politique",
+   "terms_left": [
+    "publics",
+    "macron veut",
+    "droite"
+   ],
+   "terms_right": [
+    "qu",
+    "est-ce",
+    "déficit"
    ]
   },
   {
@@ -141,7 +201,7 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.328,
+   "divergence": 0.325,
    "category": "politique",
    "terms_left": [
     "réforme retraites",
@@ -152,66 +212,6 @@
     "départ",
     "retraite",
     "âge"
-   ]
-  },
-  {
-   "title": "Congrès des maires de France : David Lisnard réélu pour un troisième mandat à la tête de l'AMF",
-   "url": "https://www.europe1.fr/politique/primaire-a-droite-cest-surtout-edouard-philippe-qui-bloque-affirme-david-lisnard-1187205",
-   "n_members": 344,
-   "n_sources": 32,
-   "counts": {
-    "left": 7,
-    "centre": 13,
-    "right": 12
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 10,
-    "opinion": 6
-   },
-   "blindspot_score": 0.263,
-   "blindspot_for": null,
-   "divergence": 0.23,
-   "category": "politique",
-   "terms_left": [
-    "edouard philippe",
-    "edouard",
-    "droite"
-   ],
-   "terms_right": [
-    "édouard philippe",
-    "édouard",
-    "david lisnard"
-   ]
-  },
-  {
-   "title": "Pour Emmanuel Macron, inscrire une règle d'or budgétaire dans la Constitution est \"une idée à explorer\"",
-   "url": "https://www.publicsenat.fr/emission/sens-public/regle-dor-doit-on-interdire-de-sendetter-e0",
-   "n_members": 94,
-   "n_sources": 32,
-   "counts": {
-    "left": 7,
-    "centre": 13,
-    "right": 12
-   },
-   "style_counts": {
-    "factuel": 16,
-    "mixte": 11,
-    "opinion": 5
-   },
-   "blindspot_score": 0.263,
-   "blindspot_for": null,
-   "divergence": 0.235,
-   "category": "politique",
-   "terms_left": [
-    "droite",
-    "publics",
-    "macron veut"
-   ],
-   "terms_right": [
-    "qu",
-    "est-ce",
-    "budgétaire constitution"
    ]
   },
   {
@@ -261,23 +261,23 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.201,
+   "divergence": 0.208,
    "category": "politique",
    "terms_left": [
     "soupçonné",
     "moutouh préfet",
-    "pen"
+    "confidentielles rn"
    ],
    "terms_right": [
     "soupçons fuites",
     "soupçons",
-    "plainte"
+    "demande"
    ]
   },
   {
    "title": "«Marine Tondelier est soumise à LFI» : Cohn-Bendit charge la patronne des Écologistes",
    "url": "https://www.bfmtv.com/politique/elections/presidentielle/direct-presidentielle-2027-la-candidate-ecologiste-marine-tondelier-est-l-invitee-de-vous-presidente_LN-202611120882.html",
-   "n_members": 106,
+   "n_members": 107,
    "n_sources": 29,
    "counts": {
     "left": 6,
@@ -291,7 +291,7 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.263,
+   "divergence": 0.262,
    "category": "politique",
    "terms_left": [
     "mélenchon",
@@ -299,9 +299,9 @@
     "présidentielle marine"
    ],
    "terms_right": [
-    "qu",
-    "élection",
-    "écologistes"
+    "marine",
+    "écologistes",
+    "qu"
    ]
   },
   {
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.358,
+   "divergence": 0.359,
    "category": "société",
    "terms_left": [
     "loyers",
@@ -331,7 +331,7 @@
    "terms_right": [
     "dpe",
     "jeanbrun",
-    "relancer"
+    "vincent jeanbrun"
    ]
   },
   {
@@ -381,7 +381,7 @@
    },
    "blindspot_score": -0.2,
    "blindspot_for": null,
-   "divergence": 0.644,
+   "divergence": 0.646,
    "category": "société",
    "terms_left": [
     "pfas",
@@ -411,7 +411,7 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.395,
+   "divergence": 0.393,
    "category": "international",
    "terms_left": [
     "ue",
@@ -441,17 +441,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.584,
+   "divergence": 0.579,
    "category": "politique",
    "terms_left": [
     "créateurs",
     "arcom",
-    "créateurs contenu"
+    "règles"
    ],
    "terms_right": [
     "larcher",
-    "gérard larcher",
-    "dates"
+    "qu",
+    "gérard larcher"
    ]
   },
   {
@@ -515,9 +515,69 @@
    ]
   },
   {
+   "title": "Les députés socialistes déposent un recours contre la loi « permis de tuer »",
+   "url": "https://www.europe1.fr/immobilier/prolongation-de-lencadrement-des-loyers-une-mauvaise-nouvelle-pour-le-ministre-jeanbrun-1240966",
+   "n_members": 52,
+   "n_sources": 26,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 4
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.843,
+   "category": "politique",
+   "terms_left": [
+    "pesticides",
+    "commission européenne",
+    "commission"
+   ],
+   "terms_right": [
+    "jeanbrun",
+    "armes",
+    "présomption"
+   ]
+  },
+  {
+   "title": "Présidentielle 2027: pour les candidats comme pour les maires, la galère des parrainages",
+   "url": "https://www.humanite.fr/politique/election-presidentielle/teddy-riner-president-la-derniere-carte-de-macron-banger-%f0%9f%92%a5-yerim-sar",
+   "n_members": 94,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 12,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 8,
+    "opinion": 3
+   },
+   "blindspot_score": 0.231,
+   "blindspot_for": null,
+   "divergence": 0.525,
+   "category": "politique",
+   "terms_left": [
+    "gauche",
+    "signatures",
+    "course"
+   ],
+   "terms_right": [
+    "qu",
+    "parrainages",
+    "candidat"
+   ]
+  },
+  {
    "title": "Budget 2027 : Sébastien Lecornu tend la main aux parlementaires pour un compromis, sans toucher au déficit",
    "url": "https://www.bfmtv.com/politique/video-dix-ans-au-pouvoir-d-emmanuel-macron-ca-a-ete-deux-quinquennats-d-echecs-estime-laurent-jacobelli-porte-parole-du-rn_VN-202611160975.html",
-   "n_members": 65,
+   "n_members": 69,
    "n_sources": 25,
    "counts": {
     "left": 3,
@@ -531,7 +591,7 @@
    },
    "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.691,
+   "divergence": 0.679,
    "category": "politique",
    "terms_left": [
     "appelle",
@@ -539,9 +599,39 @@
     "ministre"
    ],
    "terms_right": [
-    "rn",
     "français",
-    "projet"
+    "projet",
+    "rn"
+   ]
+  },
+  {
+   "title": "\"Une nouvelle fois humiliée\" : Gisèle Pelicot veut saisir la justice après qu’une maison d’édition a utilisé des photos intimes d’elle pour promouvoir un livre",
+   "url": "https://www.liberation.fr/societe/sante/cancer-du-pancreas-le-daraxonrasib-un-nouveau-traitement-qui-double-lesperance-de-vie-des-patients-autorise-par-la-commission-europeenne-20261117_TZMN2KB4P5CW5KYRW3GJ4OLIRY/",
+   "n_members": 60,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 7,
+    "opinion": 3
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.687,
+   "category": "société",
+   "terms_left": [
+    "maison",
+    "édition",
+    "maison édition"
+   ],
+   "terms_right": [
+    "françois",
+    "pape",
+    "journal"
    ]
   },
   {
@@ -572,36 +662,6 @@
     "refus obtempérer",
     "obtempérer",
     "refus"
-   ]
-  },
-  {
-   "title": "Nouvelle mobilisation, devant le Parlement européen, contre la levée des normes de certains pesticides",
-   "url": "https://www.europe1.fr/immobilier/prolongation-de-lencadrement-des-loyers-une-mauvaise-nouvelle-pour-le-ministre-jeanbrun-1240966",
-   "n_members": 47,
-   "n_sources": 25,
-   "counts": {
-    "left": 5,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 4
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.797,
-   "category": "politique",
-   "terms_left": [
-    "européen",
-    "parlement européen",
-    "parlement"
-   ],
-   "terms_right": [
-    "jeanbrun",
-    "armes",
-    "présomption"
    ]
   },
   {
@@ -657,36 +717,6 @@
    ]
   },
   {
-   "title": "Présidentielle 2027: pour les candidats comme pour les maires, la galère des parrainages",
-   "url": "https://www.humanite.fr/politique/election-presidentielle/teddy-riner-president-la-derniere-carte-de-macron-banger-%f0%9f%92%a5-yerim-sar",
-   "n_members": 90,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 7,
-    "opinion": 3
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.523,
-   "category": "politique",
-   "terms_left": [
-    "gauche",
-    "macron",
-    "david"
-   ],
-   "terms_right": [
-    "parrainages",
-    "qu",
-    "candidats"
-   ]
-  },
-  {
    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky revendique l’attaque de deux bateaux russes en Libye",
    "url": "https://www.france24.com/fr/asie-pacifique/20261117-japon-accuse-russie-deux-avions-viole-espace-aerien",
    "n_members": 88,
@@ -703,17 +733,17 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.716,
+   "divergence": 0.75,
    "category": "international",
    "terms_left": [
+    "russe",
     "direct",
-    "guerre",
-    "russe"
+    "guerre"
    ],
    "terms_right": [
     "russes",
-    "frappes",
-    "pologne"
+    "pologne",
+    "frappes russes"
    ]
   },
   {
@@ -733,7 +763,7 @@
    },
    "blindspot_score": -0.167,
    "blindspot_for": null,
-   "divergence": 0.398,
+   "divergence": 0.396,
    "category": "société",
    "terms_left": [
     "nouvelle",
@@ -743,37 +773,37 @@
    "terms_right": [
     "pengo",
     "hommage pengo",
-    "bossio"
+    "bossio wangi"
    ]
   },
   {
-   "title": "\"Une nouvelle fois humiliée\" : Gisèle Pelicot veut saisir la justice après qu’une maison d’édition a utilisé des photos intimes d’elle pour promouvoir un livre",
-   "url": "https://www.liberation.fr/societe/sante/cancer-du-pancreas-le-daraxonrasib-un-nouveau-traitement-qui-double-lesperance-de-vie-des-patients-autorise-par-la-commission-europeenne-20261117_TZMN2KB4P5CW5KYRW3GJ4OLIRY/",
-   "n_members": 58,
-   "n_sources": 24,
+   "title": "DIRECT. Manifestations du 26 novembre : \"les réponses du gouvernement restent insuffisantes\", estiment les syndicats, des cortèges attendus cet après-midi",
+   "url": "https://www.sudradio.fr/sud-radio/la-meteo-du-mercredi-18-novembre-2026-encore-doux-mais-toujours-humide-et-venteux",
+   "n_members": 65,
+   "n_sources": 23,
    "counts": {
-    "left": 4,
-    "centre": 13,
+    "left": 5,
+    "centre": 11,
     "right": 7
    },
    "style_counts": {
-    "factuel": 15,
-    "mixte": 6,
+    "factuel": 12,
+    "mixte": 8,
     "opinion": 3
    },
-   "blindspot_score": 0.273,
+   "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.748,
+   "divergence": 0.915,
    "category": "société",
    "terms_left": [
-    "maison",
-    "édition",
-    "maison édition"
+    "mois",
+    "gilets jaunes",
+    "gilets"
    ],
    "terms_right": [
-    "pape",
-    "françois",
-    "journal"
+    "france",
+    "laurent nuñez",
+    "laurent"
    ]
   },
   {
@@ -807,9 +837,39 @@
    ]
   },
   {
+   "title": "Blocus des lycées : plus de 400 élèves exclus définitivement de leur établissement",
+   "url": "https://www.leparisien.fr/paris-75/salut-nazi-racisme-harcelement-photo-denfant-nu-quand-la-promotion-de-futurs-officiers-de-police-derape-22-11-2026-U7YWU2TBEJGIDNIDNGAZBXJDWU.php",
+   "n_members": 58,
+   "n_sources": 23,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 7,
+    "opinion": 2
+   },
+   "blindspot_score": 0.2,
+   "blindspot_for": null,
+   "divergence": 0.581,
+   "category": "société",
+   "terms_left": [
+    "mobilisation",
+    "école police",
+    "école"
+   ],
+   "terms_right": [
+    "blessés",
+    "mouvement",
+    "début"
+   ]
+  },
+  {
    "title": "Terres rares : Emmanuel Macron annonce que la France va se doter de \"stocks stratégiques\"",
    "url": "https://www.ouest-france.fr/economie/exclusif-choose-france-voici-les-communes-de-louest-qui-accueillent-des-investissements-evoques-lors-du-sommet-1e8a3e34-e403-11f1-9a72-32f9104dab1b",
-   "n_members": 54,
+   "n_members": 57,
    "n_sources": 23,
    "counts": {
     "left": 3,
@@ -826,14 +886,44 @@
    "divergence": 0.525,
    "category": "économie",
    "terms_left": [
+    "projets",
     "projets industriels",
-    "gouvernement",
     "industriels"
    ],
    "terms_right": [
-    "milliards euros",
-    "milliards",
+    "europe",
+    "france",
     "euros"
+   ]
+  },
+  {
+   "title": "Échec de la COP31 : « Les pays développés ont bloqué les négociations sur des sujets essentiels pour les États du Sud »",
+   "url": "https://www.challenges.fr/entreprise/green-economie/cetait-le-pire-choix-possible-la-france-copresidente-des-negociations-sur-les-finances-a-la-cop31-et-accusee-de-tout-bloquer_647065",
+   "n_members": 34,
+   "n_sources": 23,
+   "counts": {
+    "left": 8,
+    "centre": 11,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 9,
+    "opinion": 1
+   },
+   "blindspot_score": -0.333,
+   "blindspot_for": null,
+   "divergence": 0.858,
+   "category": "environnement",
+   "terms_left": [
+    "robots tueurs",
+    "tueurs",
+    "robots"
+   ],
+   "terms_right": [
+    "france",
+    "international",
+    "décision"
    ]
   },
   {
@@ -853,23 +943,23 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.396,
+   "divergence": 0.382,
    "category": "international",
    "terms_left": [
-    "drones",
+    "direct guerre",
     "direct",
-    "direct guerre"
+    "drones"
    ],
    "terms_right": [
     "kiev",
-    "bateaux",
-    "large"
+    "large libye",
+    "bateaux"
    ]
   },
   {
-   "title": "Présidentielle 2027 : David Lisnard double Edouard Philippe dans un sondage, Marine Le Pen perd des points, Teddy Riner fait autant que Bruno Retailleau",
+   "title": "Présidentielle 2027: Edouard Philippe défie David Lisnard et lui propose un débat télévisé",
    "url": "https://www.nicematin.com/societe/politique/les-electeurs-du-rn-vont-voter-pour-une-socialiste-eric-zemmour-sans-filtre-face-aux-lecteurs-de-var-matin-et-nice-matin-10765012",
-   "n_members": 82,
+   "n_members": 86,
    "n_sources": 22,
    "counts": {
     "left": 1,
@@ -883,7 +973,7 @@
    },
    "blindspot_score": 0.8,
    "blindspot_for": "gauche",
-   "divergence": 0.657,
+   "divergence": 0.655,
    "category": "politique",
    "terms_left": [
     "départage",
@@ -935,21 +1025,21 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.803,
+   "divergence": 0.798,
    "category": "international",
    "terms_left": [
     "mort"
    ],
    "terms_right": [
+    "trump",
     "états-unis",
-    "menace",
-    "affirme"
+    "menace"
    ]
   },
   {
    "title": "Colombie : braquage raté, président sur place... Ce que l'on sait de la prise d'otages dans un supermarché",
    "url": "https://www.ladepeche.fr/2026/11/20/recit-feminicide-de-chahinez-daoud-la-jeune-femme-avait-ete-brulee-vive-par-son-ex-mari-malgre-des-alertes-repetees-lhomme-rejuge-en-dordogne-13661657.php",
-   "n_members": 59,
+   "n_members": 60,
    "n_sources": 22,
    "counts": {
     "left": 3,
@@ -963,7 +1053,7 @@
    },
    "blindspot_score": 0.333,
    "blindspot_for": null,
-   "divergence": 0.73,
+   "divergence": 0.712,
    "category": "international",
    "terms_left": [
     "accord",
@@ -971,39 +1061,39 @@
     "ans"
    ],
    "terms_right": [
-    "lyon",
+    "otages",
     "personnes",
-    "supermarché"
+    "lyon"
    ]
   },
   {
-   "title": "Blocus des lycées : plus de 400 élèves exclus définitivement de leur établissement",
-   "url": "https://www.leparisien.fr/paris-75/salut-nazi-racisme-harcelement-photo-denfant-nu-quand-la-promotion-de-futurs-officiers-de-police-derape-22-11-2026-U7YWU2TBEJGIDNIDNGAZBXJDWU.php",
-   "n_members": 56,
+   "title": "Présidentielle 2027 : \"L'Ukraine n'est pas notre guerre\"... Teddy Riner critique l’envoi de militaires français sur le sol ukrainien au Salon des maires de France",
+   "url": "https://www.nicematin.com/societe/politique/c-est-de-la-posture-david-lisnard-juge-etrange-l-idee-d-emmanuel-macron-a-propos-d-une-regle-d-or-budgetaire-10767491",
+   "n_members": 54,
    "n_sources": 22,
    "counts": {
-    "left": 4,
-    "centre": 12,
-    "right": 6
+    "left": 3,
+    "centre": 11,
+    "right": 8
    },
    "style_counts": {
-    "factuel": 13,
-    "mixte": 7,
+    "factuel": 14,
+    "mixte": 6,
     "opinion": 2
    },
-   "blindspot_score": 0.2,
+   "blindspot_score": 0.455,
    "blindspot_for": null,
-   "divergence": 0.572,
-   "category": "société",
+   "divergence": 0.689,
+   "category": "politique",
    "terms_left": [
-    "mobilisation",
-    "école",
-    "école police"
+    "qu envoie",
+    "guerre ukraine",
+    "aide"
    ],
    "terms_right": [
-    "blessés",
-    "début",
-    "qu"
+    "élection",
+    "david",
+    "lisnard"
    ]
   },
   {
@@ -1023,17 +1113,47 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.604,
+   "divergence": 0.618,
    "category": "international",
    "terms_left": [
     "royaume-uni",
-    "ue royaume-uni",
-    "retour"
+    "union européenne",
+    "européenne"
    ],
    "terms_right": [
     "brexit",
-    "ans",
-    "juste"
+    "ue",
+    "ans"
+   ]
+  },
+  {
+   "title": "Gérard Depardieu jugé pour le viol de Charlotte Arnould ? Pourquoi la décision de ce jeudi est primordiale pour l'acteur",
+   "url": "https://www.mediapart.fr/journal/france/191126/gerard-depardieu-vise-par-une-plainte-pour-viol-en-reunion-et-michel-houellebecq-pour-complicite",
+   "n_members": 30,
+   "n_sources": 22,
+   "counts": {
+    "left": 7,
+    "centre": 12,
+    "right": 3
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 8,
+    "opinion": 1
+   },
+   "blindspot_score": -0.4,
+   "blindspot_for": null,
+   "divergence": 0.254,
+   "category": "culture",
+   "terms_left": [
+    "plainte",
+    "houellebecq",
+    "depardieu houellebecq"
+   ],
+   "terms_right": [
+    "procès",
+    "judiciaire",
+    "accusations"
    ]
   },
   {
@@ -1064,126 +1184,6 @@
     "nations",
     "finale",
     "france-afrique"
-   ]
-  },
-  {
-   "title": "Présidence de la Fifa: la CAF affiche son unité derrière Gianni Infantino, un désaveu pour Philippe Diallo",
-   "url": "https://www.ouest-france.fr/sport/football/fifa-sepp-blatter-qualifie-infantino-de-dictateur-et-suggere-de-lenvoyer-en-psychiatrie-89f336de-ddec-11f1-86b6-0a2fbb1d8ed9",
-   "n_members": 66,
-   "n_sources": 21,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 6,
-    "opinion": 3
-   },
-   "blindspot_score": 0.4,
-   "blindspot_for": null,
-   "divergence": 0.249,
-   "category": "sport",
-   "terms_left": [
-    "lance",
-    "fédération",
-    "infantino présidence"
-   ],
-   "terms_right": [
-    "candidat",
-    "candidat présidence",
-    "présidence fifa"
-   ]
-  },
-  {
-   "title": "Une intersyndicale des étudiants et des enseignants du supérieur appelle à la mobilisation le 26 novembre",
-   "url": "https://www.sudradio.fr/sud-radio/la-meteo-du-mercredi-18-novembre-2026-encore-doux-mais-toujours-humide-et-venteux",
-   "n_members": 60,
-   "n_sources": 21,
-   "counts": {
-    "left": 5,
-    "centre": 9,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 10,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.167,
-   "blindspot_for": null,
-   "divergence": 0.902,
-   "category": "société",
-   "terms_left": [
-    "gilets jaunes",
-    "gilets",
-    "jaunes"
-   ],
-   "terms_right": [
-    "france",
-    "laurent nuñez",
-    "laurent"
-   ]
-  },
-  {
-   "title": "Budget 2027 : Marine Le Pen, clé de voûte de la survie du gouvernement ?",
-   "url": "https://www.bfmtv.com/economie/consommation/une-canette-de-25-cl-represente-l-equivalent-de-quatre-shooters-de-vodka-d-affilee-le-senat-veut-davantage-taxer-les-vody-ces-boissons-qui-melangent-sucre-et-alcool-fort-et-dont-raffolent-les-jeunes_AV-202611140261.html",
-   "n_members": 59,
-   "n_sources": 21,
-   "counts": {
-    "left": 3,
-    "centre": 8,
-    "right": 10
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 5,
-    "opinion": 4
-   },
-   "blindspot_score": 0.538,
-   "blindspot_for": null,
-   "divergence": 0.62,
-   "category": "économie",
-   "terms_left": [
-    "texte",
-    "adopté sénat",
-    "budget"
-   ],
-   "terms_right": [
-    "veut",
-    "fin",
-    "nationale"
-   ]
-  },
-  {
-   "title": "Le PP en tête, le PSOE toujours en lice... À moins d'une semaine des législatives anticipées en Espagne, que disent les sondages ?",
-   "url": "https://www.franceinfo.fr/monde/espagne/comment-le-premier-ministre-espagnol-pedro-sanchez-affaibli-sur-la-scene-interieure-a-su-faire-de-la-politique-etrangere-un-point-fort_8284973.html",
-   "n_members": 44,
-   "n_sources": 21,
-   "counts": {
-    "left": 6,
-    "centre": 11,
-    "right": 4
-   },
-   "style_counts": {
-    "factuel": 12,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": -0.2,
-   "blindspot_for": null,
-   "divergence": 0.669,
-   "category": "international",
-   "terms_left": [
-    "droite",
-    "élections",
-    "législatives"
-   ],
-   "terms_right": [
-    "sanchez",
-    "pedro",
-    "pedro sanchez"
    ]
   }
  ]
