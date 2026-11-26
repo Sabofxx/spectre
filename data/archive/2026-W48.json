@@ -1,6 +1,6 @@
 {
  "week": "2026-W48",
- "generated_at": "2026-11-26T11:50:40+00:00",
+ "generated_at": "2026-11-26T20:43:28+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": -0.1,
    "blindspot_for": null,
-   "divergence": 0.236,
+   "divergence": 0.237,
    "category": "culture",
    "terms_left": [
     "vidéo",
@@ -51,17 +51,17 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.159,
+   "divergence": 0.156,
    "category": "international",
    "terms_left": [
     "espionnage",
     "chute",
-    "spectaculaire"
+    "bourse"
    ],
    "terms_right": [
     "américain",
     "nvidia jensen",
-    "jours démission"
+    "président"
    ]
   },
   {
@@ -95,6 +95,36 @@
    ]
   },
   {
+   "title": "Congrès des maires de France : David Lisnard réélu pour un troisième mandat à la tête de l'AMF",
+   "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-jappelle-eric-ciotti-a-me-rejoindre-et-a-se-separer-du-rn-david-lisnard-passe-a-loffensive-28-10-2026-OGAFHWHU55HFJPUSX3L6U7G5QQ.php",
+   "n_members": 353,
+   "n_sources": 34,
+   "counts": {
+    "left": 7,
+    "centre": 15,
+    "right": 12
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 10,
+    "opinion": 6
+   },
+   "blindspot_score": 0.263,
+   "blindspot_for": null,
+   "divergence": 0.226,
+   "category": "politique",
+   "terms_left": [
+    "edouard philippe",
+    "edouard",
+    "droite"
+   ],
+   "terms_right": [
+    "édouard philippe",
+    "édouard",
+    "primaire démocrates"
+   ]
+  },
+  {
    "title": "La COP31 s'achève sur un constat d'échec, sans accord en raison de la division des pays sur les énergies fossiles",
    "url": "https://www.sudouest.fr/environnement/conference-pour-le-climat/cop31-en-turquie-un-sommet-mondial-sous-tension-debute-lundi-a-antalya-face-a-l-urgence-climatique-et-aux-divisions-geopolitiques-31409559.php",
    "n_members": 220,
@@ -125,36 +155,6 @@
    ]
   },
   {
-   "title": "Congrès des maires de France : David Lisnard réélu pour un troisième mandat à la tête de l'AMF",
-   "url": "https://www.europe1.fr/politique/primaire-a-droite-cest-surtout-edouard-philippe-qui-bloque-affirme-david-lisnard-1187205",
-   "n_members": 348,
-   "n_sources": 33,
-   "counts": {
-    "left": 7,
-    "centre": 14,
-    "right": 12
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 10,
-    "opinion": 6
-   },
-   "blindspot_score": 0.263,
-   "blindspot_for": null,
-   "divergence": 0.225,
-   "category": "politique",
-   "terms_left": [
-    "edouard philippe",
-    "edouard",
-    "droite"
-   ],
-   "terms_right": [
-    "édouard philippe",
-    "édouard",
-    "primaire démocrates"
-   ]
-  },
-  {
    "title": "La «règle d’or» budgétaire, une fausse bonne idée pour redresser les finances publiques ?",
    "url": "https://www.publicsenat.fr/emission/sens-public/regle-dor-doit-on-interdire-de-sendetter-e0",
    "n_members": 96,
@@ -171,17 +171,17 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.231,
+   "divergence": 0.225,
    "category": "politique",
    "terms_left": [
+    "veut",
     "publics",
-    "macron veut",
-    "droite"
+    "versailles adopter"
    ],
    "terms_right": [
     "qu",
-    "est-ce",
-    "déficit"
+    "règle constitution",
+    "budget"
    ]
   },
   {
@@ -247,7 +247,7 @@
   {
    "title": "Soupçons de fuites du ministère de l'Intérieur au profit du RN: le préfet Hugues Moutouh démis de ses fonctions",
    "url": "https://www.lemonde.fr/societe/article/2026/11/19/une-enquete-ouverte-sur-des-fuites-en-provenance-du-ministere-de-l-interieur-vers-le-rn_6813316_3224.html",
-   "n_members": 145,
+   "n_members": 147,
    "n_sources": 30,
    "counts": {
     "left": 7,
@@ -261,12 +261,12 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.208,
+   "divergence": 0.209,
    "category": "politique",
    "terms_left": [
     "soupçonné",
     "moutouh préfet",
-    "confidentielles rn"
+    "pen"
    ],
    "terms_right": [
     "soupçons fuites",
@@ -294,20 +294,20 @@
    "divergence": 0.262,
    "category": "politique",
    "terms_left": [
-    "mélenchon",
     "prête",
+    "mélenchon",
     "présidentielle marine"
    ],
    "terms_right": [
     "marine",
-    "écologistes",
+    "marine tondelier",
     "qu"
    ]
   },
   {
    "title": "Loi logement : les députés adoptent en première lecture le projet, y compris la suppression de l'interdiction de louer des «passoires thermiques»",
    "url": "https://www.bvoltaire.fr/presidentielle-2027-le-logement-laddition-de-macron/",
-   "n_members": 98,
+   "n_members": 99,
    "n_sources": 29,
    "counts": {
     "left": 8,
@@ -321,7 +321,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.359,
+   "divergence": 0.347,
    "category": "société",
    "terms_left": [
     "loyers",
@@ -331,7 +331,37 @@
    "terms_right": [
     "dpe",
     "jeanbrun",
-    "vincent jeanbrun"
+    "logements"
+   ]
+  },
+  {
+   "title": "Des députés LFI vont porter plainte pour des menaces de mort anonymes",
+   "url": "https://www.europe1.fr/immobilier/prolongation-de-lencadrement-des-loyers-une-mauvaise-nouvelle-pour-le-ministre-jeanbrun-1240966",
+   "n_members": 56,
+   "n_sources": 29,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 11
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 8,
+    "opinion": 6
+   },
+   "blindspot_score": 0.375,
+   "blindspot_for": null,
+   "divergence": 0.876,
+   "category": "politique",
+   "terms_left": [
+    "pesticides",
+    "européenne",
+    "micro-organismes"
+   ],
+   "terms_right": [
+    "jeanbrun",
+    "tuer",
+    "lfi"
    ]
   },
   {
@@ -381,7 +411,7 @@
    },
    "blindspot_score": -0.2,
    "blindspot_for": null,
-   "divergence": 0.646,
+   "divergence": 0.647,
    "category": "société",
    "terms_left": [
     "pfas",
@@ -411,23 +441,23 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.393,
+   "divergence": 0.391,
    "category": "international",
    "terms_left": [
     "ue",
-    "pays européens",
-    "européens"
+    "pays ue",
+    "pays européens"
    ],
    "terms_right": [
-    "migrants",
-    "centre",
-    "estime"
+    "estime",
+    "immigration",
+    "centre"
    ]
   },
   {
    "title": "2027 : un second tour le 2 mai reste la meilleure option, selon le porte-parole du gouvernement",
    "url": "https://www.sudouest.fr/economie/agriculture/presidentielle-2027-les-jeunes-agriculteurs-publient-un-manifeste-pour-peser-sur-la-campagne-et-insistent-sur-la-transmission-31576893.php",
-   "n_members": 72,
+   "n_members": 73,
    "n_sources": 27,
    "counts": {
     "left": 6,
@@ -441,17 +471,17 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.579,
+   "divergence": 0.612,
    "category": "politique",
    "terms_left": [
     "créateurs",
     "arcom",
-    "règles"
+    "pluralisme"
    ],
    "terms_right": [
     "larcher",
-    "qu",
-    "gérard larcher"
+    "gérard larcher",
+    "gérard"
    ]
   },
   {
@@ -471,7 +501,7 @@
    },
    "blindspot_score": 0.077,
    "blindspot_for": null,
-   "divergence": 0.401,
+   "divergence": 0.402,
    "category": "international",
    "terms_left": [
     "déployés ukraine",
@@ -515,33 +545,33 @@
    ]
   },
   {
-   "title": "Les députés socialistes déposent un recours contre la loi « permis de tuer »",
-   "url": "https://www.europe1.fr/immobilier/prolongation-de-lencadrement-des-loyers-une-mauvaise-nouvelle-pour-le-ministre-jeanbrun-1240966",
-   "n_members": 52,
+   "title": "Affaire Bardella : de nouveaux écrits antisémites révélés par « Le Monde » et Mediapart",
+   "url": "https://www.lemonde.fr/politique/article/2026/11/26/messages-antisemites-de-jordan-bardella-les-19-preuves-que-le-president-du-rn-est-bien-l-auteur-des-propos-incrimines-sur-messenger_6815482_823448.html",
+   "n_members": 61,
    "n_sources": 26,
    "counts": {
-    "left": 5,
-    "centre": 13,
-    "right": 8
+    "left": 7,
+    "centre": 12,
+    "right": 7
    },
    "style_counts": {
-    "factuel": 15,
-    "mixte": 7,
+    "factuel": 14,
+    "mixte": 8,
     "opinion": 4
    },
-   "blindspot_score": 0.231,
+   "blindspot_score": 0.0,
    "blindspot_for": null,
-   "divergence": 0.843,
+   "divergence": 0.249,
    "category": "politique",
    "terms_left": [
-    "pesticides",
-    "commission européenne",
-    "commission"
+    "antisémites jordan",
+    "messages",
+    "mediapart monde"
    ],
    "terms_right": [
-    "jeanbrun",
-    "armes",
-    "présomption"
+    "antisémites attribués",
+    "attribués",
+    "jeunesse"
    ]
   },
   {
@@ -561,7 +591,7 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.525,
+   "divergence": 0.527,
    "category": "politique",
    "terms_left": [
     "gauche",
@@ -577,7 +607,7 @@
   {
    "title": "Budget 2027 : Sébastien Lecornu tend la main aux parlementaires pour un compromis, sans toucher au déficit",
    "url": "https://www.bfmtv.com/politique/video-dix-ans-au-pouvoir-d-emmanuel-macron-ca-a-ete-deux-quinquennats-d-echecs-estime-laurent-jacobelli-porte-parole-du-rn_VN-202611160975.html",
-   "n_members": 69,
+   "n_members": 73,
    "n_sources": 25,
    "counts": {
     "left": 3,
@@ -591,7 +621,7 @@
    },
    "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.679,
+   "divergence": 0.662,
    "category": "politique",
    "terms_left": [
     "appelle",
@@ -621,17 +651,17 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.687,
+   "divergence": 0.707,
    "category": "société",
    "terms_left": [
-    "maison",
-    "édition",
-    "maison édition"
+    "diffusion",
+    "fernandez",
+    "fois"
    ],
    "terms_right": [
     "françois",
-    "pape",
-    "journal"
+    "journal",
+    "vu"
    ]
   },
   {
@@ -661,7 +691,7 @@
    "terms_right": [
     "refus obtempérer",
     "obtempérer",
-    "refus"
+    "tir"
    ]
   },
   {
@@ -687,9 +717,9 @@
    "terms_right": []
   },
   {
-   "title": "Sondage présidentielle 2027 : donné au second tour face à Marine Le Pen, Jean-Luc Mélenchon progresse de cinq points en un mois et réduit l’écart",
+   "title": "Présidentielle 2027 : \"Entre LFI et le Rassemblement national, je ne choisis pas\", tranche Édouard Philippe... \"Sur bien des points, ils se ressemblent\"",
    "url": "https://www.ouest-france.fr/politique/posez-vos-questions-a-natacha-polony-invitee-du-grand-jury-rtl-avec-ouest-france-bc3d4f8a-d46e-11f1-84f3-5611f158a658",
-   "n_members": 157,
+   "n_members": 158,
    "n_sources": 24,
    "counts": {
     "left": 4,
@@ -763,17 +793,99 @@
    },
    "blindspot_score": -0.167,
    "blindspot_for": null,
-   "divergence": 0.396,
+   "divergence": 0.401,
    "category": "société",
    "terms_left": [
-    "nouvelle",
     "mois",
-    "gouvernement"
+    "gouvernement",
+    "nouvelle"
    ],
    "terms_right": [
     "pengo",
     "hommage pengo",
     "bossio wangi"
+   ]
+  },
+  {
+   "title": "Gérard Depardieu va être jugé pour viol à l'encontre de la comédienne Charlotte Arnould, confirme la cour d'appel de Paris",
+   "url": "https://www.mediapart.fr/journal/france/191126/gerard-depardieu-vise-par-une-plainte-pour-viol-en-reunion-et-michel-houellebecq-pour-complicite",
+   "n_members": 44,
+   "n_sources": 24,
+   "counts": {
+    "left": 8,
+    "centre": 12,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 13,
+    "mixte": 10,
+    "opinion": 1
+   },
+   "blindspot_score": -0.333,
+   "blindspot_for": null,
+   "divergence": 0.248,
+   "category": "culture",
+   "terms_left": [
+    "plainte",
+    "houellebecq",
+    "depardieu houellebecq"
+   ],
+   "terms_right": [
+    "renvoi",
+    "judiciaire",
+    "comédienne charlotte"
+   ]
+  },
+  {
+   "title": "Climat : indignation et appels aux réformes après le \"terrible\" échec de la COP31",
+   "url": "https://www.challenges.fr/entreprise/green-economie/cetait-le-pire-choix-possible-la-france-copresidente-des-negociations-sur-les-finances-a-la-cop31-et-accusee-de-tout-bloquer_647065",
+   "n_members": 35,
+   "n_sources": 24,
+   "counts": {
+    "left": 8,
+    "centre": 12,
+    "right": 4
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 1
+   },
+   "blindspot_score": -0.333,
+   "blindspot_for": null,
+   "divergence": 0.858,
+   "category": "environnement",
+   "terms_left": [],
+   "terms_right": []
+  },
+  {
+   "title": "Présidentielle 2027 : retour sur le difficile début de campagne de Teddy Riner",
+   "url": "https://www.nicematin.com/societe/politique/c-est-de-la-posture-david-lisnard-juge-etrange-l-idee-d-emmanuel-macron-a-propos-d-une-regle-d-or-budgetaire-10767491",
+   "n_members": 66,
+   "n_sources": 23,
+   "counts": {
+    "left": 3,
+    "centre": 11,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 3
+   },
+   "blindspot_score": 0.5,
+   "blindspot_for": null,
+   "divergence": 0.632,
+   "category": "politique",
+   "terms_left": [
+    "qu envoie",
+    "envoie",
+    "envoie troupes"
+   ],
+   "terms_right": [
+    "lisnard",
+    "david",
+    "david lisnard"
    ]
   },
   {
@@ -823,7 +935,7 @@
    },
    "blindspot_score": 0.429,
    "blindspot_for": null,
-   "divergence": 0.345,
+   "divergence": 0.34,
    "category": "politique",
    "terms_left": [
     "renonce candidature",
@@ -833,13 +945,13 @@
    "terms_right": [
     "élection présidentielle",
     "gauche",
-    "candidats"
+    "david"
    ]
   },
   {
    "title": "Blocus des lycées : plus de 400 élèves exclus définitivement de leur établissement",
    "url": "https://www.leparisien.fr/paris-75/salut-nazi-racisme-harcelement-photo-denfant-nu-quand-la-promotion-de-futurs-officiers-de-police-derape-22-11-2026-U7YWU2TBEJGIDNIDNGAZBXJDWU.php",
-   "n_members": 58,
+   "n_members": 59,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -853,23 +965,23 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.581,
+   "divergence": 0.52,
    "category": "société",
    "terms_left": [
     "mobilisation",
-    "école police",
-    "école"
+    "école",
+    "police"
    ],
    "terms_right": [
     "blessés",
     "mouvement",
-    "début"
+    "élèves"
    ]
   },
   {
    "title": "Terres rares : Emmanuel Macron annonce que la France va se doter de \"stocks stratégiques\"",
    "url": "https://www.ouest-france.fr/economie/exclusif-choose-france-voici-les-communes-de-louest-qui-accueillent-des-investissements-evoques-lors-du-sommet-1e8a3e34-e403-11f1-9a72-32f9104dab1b",
-   "n_members": 57,
+   "n_members": 58,
    "n_sources": 23,
    "counts": {
     "left": 3,
@@ -883,7 +995,7 @@
    },
    "blindspot_score": 0.4,
    "blindspot_for": null,
-   "divergence": 0.525,
+   "divergence": 0.544,
    "category": "économie",
    "terms_left": [
     "projets",
@@ -892,74 +1004,44 @@
    ],
    "terms_right": [
     "europe",
-    "france",
-    "euros"
+    "euros",
+    "france"
    ]
   },
   {
-   "title": "Échec de la COP31 : « Les pays développés ont bloqué les négociations sur des sujets essentiels pour les États du Sud »",
-   "url": "https://www.challenges.fr/entreprise/green-economie/cetait-le-pire-choix-possible-la-france-copresidente-des-negociations-sur-les-finances-a-la-cop31-et-accusee-de-tout-bloquer_647065",
-   "n_members": 34,
+   "title": "SpaceX pourra lancer un million de satellites pour ses centres de données dans l'espace",
+   "url": "https://www.lefigaro.fr/international/la-russie-s-appreterait-a-placer-une-arme-nucleaire-dans-l-espace-20261123",
+   "n_members": 39,
    "n_sources": 23,
    "counts": {
-    "left": 8,
-    "centre": 11,
-    "right": 4
+    "left": 1,
+    "centre": 15,
+    "right": 7
    },
    "style_counts": {
-    "factuel": 13,
-    "mixte": 9,
-    "opinion": 1
-   },
-   "blindspot_score": -0.333,
-   "blindspot_for": null,
-   "divergence": 0.858,
-   "category": "environnement",
-   "terms_left": [
-    "robots tueurs",
-    "tueurs",
-    "robots"
-   ],
-   "terms_right": [
-    "france",
-    "international",
-    "décision"
-   ]
-  },
-  {
-   "title": "EN DIRECT, guerre en Ukraine : deux navires, dont un russe, ciblés par des attaques de drones à Benghazi, en Libye, selon les autorités locales",
-   "url": "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_8293799.html",
-   "n_members": 94,
-   "n_sources": 22,
-   "counts": {
-    "left": 4,
-    "centre": 13,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 16,
+    "factuel": 17,
     "mixte": 5,
     "opinion": 1
    },
-   "blindspot_score": 0.111,
-   "blindspot_for": null,
-   "divergence": 0.382,
+   "blindspot_score": 0.75,
+   "blindspot_for": "gauche",
+   "divergence": 0.722,
    "category": "international",
    "terms_left": [
-    "direct guerre",
-    "direct",
-    "drones"
+    "russe",
+    "spatiaux",
+    "projet"
    ],
    "terms_right": [
-    "kiev",
-    "large libye",
-    "bateaux"
+    "spacex",
+    "espace",
+    "russie"
    ]
   },
   {
-   "title": "Présidentielle 2027: Edouard Philippe défie David Lisnard et lui propose un débat télévisé",
+   "title": "Présidentielle 2027 : David Lisnard répond à Édouard Philippe et conditionne tout débat à une primaire",
    "url": "https://www.nicematin.com/societe/politique/les-electeurs-du-rn-vont-voter-pour-une-socialiste-eric-zemmour-sans-filtre-face-aux-lecteurs-de-var-matin-et-nice-matin-10765012",
-   "n_members": 86,
+   "n_members": 97,
    "n_sources": 22,
    "counts": {
     "left": 1,
@@ -973,7 +1055,7 @@
    },
    "blindspot_score": 0.8,
    "blindspot_for": "gauche",
-   "divergence": 0.655,
+   "divergence": 0.617,
    "category": "politique",
    "terms_left": [
     "départage",
@@ -981,9 +1063,39 @@
     "méthode"
    ],
    "terms_right": [
-    "philippe",
     "lisnard",
+    "philippe",
     "david lisnard"
+   ]
+  },
+  {
+   "title": "Ukraine en direct : deux militaires libyens tués dans les attaques de navires russes à Benghazi",
+   "url": "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_8293799.html",
+   "n_members": 97,
+   "n_sources": 22,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 5
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 5,
+    "opinion": 1
+   },
+   "blindspot_score": 0.111,
+   "blindspot_for": null,
+   "divergence": 0.406,
+   "category": "international",
+   "terms_left": [
+    "direct guerre",
+    "direct",
+    "drones"
+   ],
+   "terms_right": [
+    "ukraine navires",
+    "port",
+    "europe"
    ]
   },
   {
@@ -1025,7 +1137,7 @@
    },
    "blindspot_score": 0.273,
    "blindspot_for": null,
-   "divergence": 0.798,
+   "divergence": 0.797,
    "category": "international",
    "terms_left": [
     "mort"
@@ -1064,126 +1176,6 @@
     "otages",
     "personnes",
     "lyon"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : \"L'Ukraine n'est pas notre guerre\"... Teddy Riner critique l’envoi de militaires français sur le sol ukrainien au Salon des maires de France",
-   "url": "https://www.nicematin.com/societe/politique/c-est-de-la-posture-david-lisnard-juge-etrange-l-idee-d-emmanuel-macron-a-propos-d-une-regle-d-or-budgetaire-10767491",
-   "n_members": 54,
-   "n_sources": 22,
-   "counts": {
-    "left": 3,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 2
-   },
-   "blindspot_score": 0.455,
-   "blindspot_for": null,
-   "divergence": 0.689,
-   "category": "politique",
-   "terms_left": [
-    "qu envoie",
-    "guerre ukraine",
-    "aide"
-   ],
-   "terms_right": [
-    "élection",
-    "david",
-    "lisnard"
-   ]
-  },
-  {
-   "title": "Londres renoue les liens avec l'Union européenne lors d'un sommet",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/l-invite-d-un-jour-dans-le-monde/l-invite-d-un-jour-dans-le-monde-du-mardi-17-novembre-2026-1190484",
-   "n_members": 45,
-   "n_sources": 22,
-   "counts": {
-    "left": 5,
-    "centre": 9,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 11,
-    "mixte": 8,
-    "opinion": 3
-   },
-   "blindspot_score": 0.231,
-   "blindspot_for": null,
-   "divergence": 0.618,
-   "category": "international",
-   "terms_left": [
-    "royaume-uni",
-    "union européenne",
-    "européenne"
-   ],
-   "terms_right": [
-    "brexit",
-    "ue",
-    "ans"
-   ]
-  },
-  {
-   "title": "Gérard Depardieu jugé pour le viol de Charlotte Arnould ? Pourquoi la décision de ce jeudi est primordiale pour l'acteur",
-   "url": "https://www.mediapart.fr/journal/france/191126/gerard-depardieu-vise-par-une-plainte-pour-viol-en-reunion-et-michel-houellebecq-pour-complicite",
-   "n_members": 30,
-   "n_sources": 22,
-   "counts": {
-    "left": 7,
-    "centre": 12,
-    "right": 3
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 8,
-    "opinion": 1
-   },
-   "blindspot_score": -0.4,
-   "blindspot_for": null,
-   "divergence": 0.254,
-   "category": "culture",
-   "terms_left": [
-    "plainte",
-    "houellebecq",
-    "depardieu houellebecq"
-   ],
-   "terms_right": [
-    "procès",
-    "judiciaire",
-    "accusations"
-   ]
-  },
-  {
-   "title": "France-Argentine : les Bleus balaient les Pumas et retrouveront l’Afrique du Sud en finale du Championnat des nations de rugby",
-   "url": "https://www.leparisien.fr/sports/rugby/xv-de-france-marchand-de-retour-carbonel-fickou-et-thomas-convoques-pour-preparer-le-choc-contre-lafrique-du-sud-08-11-2026-QWYJ3HGKYBAMZCY5J2SPBZRRIE.php",
-   "n_members": 125,
-   "n_sources": 21,
-   "counts": {
-    "left": 3,
-    "centre": 12,
-    "right": 6
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 5,
-    "opinion": 3
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.356,
-   "category": "sport",
-   "terms_left": [
-    "face",
-    "antoine",
-    "antoine dupont"
-   ],
-   "terms_right": [
-    "nations",
-    "finale",
-    "france-afrique"
    ]
   }
  ]
