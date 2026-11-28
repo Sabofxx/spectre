@@ -1,6 +1,6 @@
 {
  "week": "2026-W48",
- "generated_at": "2026-11-28T03:40:15+00:00",
+ "generated_at": "2026-11-28T12:35:11+00:00",
  "license": "CC-BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
  "attribution": "Spectre (https://sabofxx.github.io/spectre/)",
  "clusters": [
@@ -21,7 +21,7 @@
    },
    "blindspot_score": -0.1,
    "blindspot_for": null,
-   "divergence": 0.241,
+   "divergence": 0.245,
    "category": "culture",
    "terms_left": [
     "vidéo",
@@ -31,13 +31,13 @@
    "terms_right": [
     "lancement",
     "sortie",
-    "monde"
+    "ans"
    ]
   },
   {
-   "title": "Affaire Nvidia : les excuses de Jensen Huang ne suffisent pas à éteindre la polémique",
+   "title": "Nvidia : Trump impliqué, jusqu'où ?",
    "url": "https://www.lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html",
-   "n_members": 346,
+   "n_members": 347,
    "n_sources": 36,
    "counts": {
     "left": 7,
@@ -51,17 +51,17 @@
    },
    "blindspot_score": 0.263,
    "blindspot_for": null,
-   "divergence": 0.151,
+   "divergence": 0.15,
    "category": "international",
    "terms_left": [
     "espionnage",
-    "bourse",
+    "pdg",
     "chute jensen"
    ],
    "terms_right": [
     "américain",
-    "nvidia jensen",
-    "géant"
+    "géant",
+    "nvidia jensen"
    ]
   },
   {
@@ -125,6 +125,36 @@
    ]
   },
   {
+   "title": "Faut-il une règle d'or budgétaire ?",
+   "url": "https://www.publicsenat.fr/emission/sens-public/regle-dor-doit-on-interdire-de-sendetter-e0",
+   "n_members": 97,
+   "n_sources": 34,
+   "counts": {
+    "left": 8,
+    "centre": 13,
+    "right": 13
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 12,
+    "opinion": 5
+   },
+   "blindspot_score": 0.238,
+   "blindspot_for": null,
+   "divergence": 0.237,
+   "category": "politique",
+   "terms_left": [
+    "veut",
+    "budgétaire macron",
+    "droite"
+   ],
+   "terms_right": [
+    "budget",
+    "qu",
+    "emmanuel"
+   ]
+  },
+  {
    "title": "Abattement fiscal des retraités : que proposent les candidats à la présidentielle ?",
    "url": "https://www.bfmtv.com/economie/economie-social/68-ans-des-2030-et-jusqu-a-72-ans-a-terme-la-grece-se-prepare-a-un-nouveau-recul-spectaculaire-et-automatique-de-l-age-de-depart-a-la-retraite_AV-202611150164.html",
    "n_members": 88,
@@ -141,7 +171,7 @@
    },
    "blindspot_score": 0.3,
    "blindspot_for": null,
-   "divergence": 0.325,
+   "divergence": 0.326,
    "category": "politique",
    "terms_left": [
     "projet réforme",
@@ -156,8 +186,8 @@
   },
   {
    "title": "Congrès des maires de France : David Lisnard réélu pour un troisième mandat à la tête de l'AMF",
-   "url": "https://www.ladepeche.fr/2026/10/29/direct-presidentielle-2027-un-systeme-a-bout-de-souffle-david-lisnard-propose-de-geler-les-pensions-de-retraite-de-plus-de-2-200-euros-par-mois-13625896.php",
-   "n_members": 327,
+   "url": "https://www.lefigaro.fr/elections/presidentielles/primaires-droite/presidentielle-2027-le-reflux-d-edouard-philippe-reveille-le-debat-sur-la-primaire-a-droite-20261029",
+   "n_members": 314,
    "n_sources": 33,
    "counts": {
     "left": 7,
@@ -171,7 +201,7 @@
    },
    "blindspot_score": 0.222,
    "blindspot_for": null,
-   "divergence": 0.228,
+   "divergence": 0.23,
    "category": "politique",
    "terms_left": [
     "edouard",
@@ -179,39 +209,9 @@
     "droite"
    ],
    "terms_right": [
-    "édouard philippe",
     "édouard",
-    "présidentielle"
-   ]
-  },
-  {
-   "title": "La «règle d’or» budgétaire, une fausse bonne idée pour redresser les finances publiques ?",
-   "url": "https://www.publicsenat.fr/emission/sens-public/regle-dor-doit-on-interdire-de-sendetter-e0",
-   "n_members": 96,
-   "n_sources": 33,
-   "counts": {
-    "left": 7,
-    "centre": 13,
-    "right": 13
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 11,
-    "opinion": 5
-   },
-   "blindspot_score": 0.3,
-   "blindspot_for": null,
-   "divergence": 0.235,
-   "category": "politique",
-   "terms_left": [
-    "veut",
-    "congrès versailles",
-    "adopter règle"
-   ],
-   "terms_right": [
-    "qu",
-    "règle constitution",
-    "emmanuel"
+    "édouard philippe",
+    "campagne"
    ]
   },
   {
@@ -261,17 +261,47 @@
    },
    "blindspot_score": 0.125,
    "blindspot_for": null,
-   "divergence": 0.206,
+   "divergence": 0.211,
    "category": "politique",
    "terms_left": [
-    "moutouh préfet",
     "soupçonné",
+    "moutouh préfet",
     "confidentielles rn"
    ],
    "terms_right": [
     "soupçons fuites",
     "soupçons",
     "demande"
+   ]
+  },
+  {
+   "title": "Automobile : pourquoi le chinois BYD a préféré la France plutôt qu'un autre pays pour s'implanter en Europe",
+   "url": "https://www.challenges.fr/entreprise/green-economie/cetait-le-pire-choix-possible-la-france-copresidente-des-negociations-sur-les-finances-a-la-cop31-et-accusee-de-tout-bloquer_647065",
+   "n_members": 61,
+   "n_sources": 30,
+   "counts": {
+    "left": 8,
+    "centre": 14,
+    "right": 8
+   },
+   "style_counts": {
+    "factuel": 18,
+    "mixte": 10,
+    "opinion": 2
+   },
+   "blindspot_score": 0.0,
+   "blindspot_for": null,
+   "divergence": 0.823,
+   "category": "économie",
+   "terms_left": [
+    "robots",
+    "tueurs",
+    "robots tueurs"
+   ],
+   "terms_right": [
+    "france",
+    "pays",
+    "qu"
    ]
   },
   {
@@ -291,47 +321,17 @@
    },
    "blindspot_score": 0.375,
    "blindspot_for": null,
-   "divergence": 0.858,
+   "divergence": 0.851,
    "category": "politique",
    "terms_left": [
     "pesticides",
-    "génétiquement modifiés",
-    "génétiquement"
+    "génétiquement",
+    "génétiquement modifiés"
    ],
    "terms_right": [
     "jeanbrun",
     "tuer",
     "droite"
-   ]
-  },
-  {
-   "title": "Automobile : pourquoi le chinois BYD a préféré la France plutôt qu'un autre pays pour s'implanter en Europe",
-   "url": "https://www.challenges.fr/entreprise/green-economie/cetait-le-pire-choix-possible-la-france-copresidente-des-negociations-sur-les-finances-a-la-cop31-et-accusee-de-tout-bloquer_647065",
-   "n_members": 60,
-   "n_sources": 30,
-   "counts": {
-    "left": 8,
-    "centre": 14,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 18,
-    "mixte": 10,
-    "opinion": 2
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.815,
-   "category": "économie",
-   "terms_left": [
-    "cop",
-    "robots",
-    "tueurs"
-   ],
-   "terms_right": [
-    "france",
-    "byd",
-    "pays"
    ]
   },
   {
@@ -351,17 +351,17 @@
    },
    "blindspot_score": 0.25,
    "blindspot_for": null,
-   "divergence": 0.27,
+   "divergence": 0.275,
    "category": "politique",
    "terms_left": [
     "prête",
-    "parti",
-    "rallier"
+    "rallier",
+    "mélenchon"
    ],
    "terms_right": [
     "marine",
     "marine tondelier",
-    "écologistes"
+    "qu"
    ]
   },
   {
@@ -381,7 +381,7 @@
    },
    "blindspot_score": 0.111,
    "blindspot_for": null,
-   "divergence": 0.327,
+   "divergence": 0.328,
    "category": "société",
    "terms_left": [
     "encadrement loyers",
@@ -392,6 +392,36 @@
     "dpe",
     "jeanbrun",
     "députés"
+   ]
+  },
+  {
+   "title": "Législatives anticipées en Espagne : l’extrême droite va-t-elle arriver au pouvoir ?",
+   "url": "https://www.franceinfo.fr/monde/espagne/comment-le-premier-ministre-espagnol-pedro-sanchez-affaibli-sur-la-scene-interieure-a-su-faire-de-la-politique-etrangere-un-point-fort_8284973.html",
+   "n_members": 79,
+   "n_sources": 29,
+   "counts": {
+    "left": 10,
+    "centre": 13,
+    "right": 6
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 10,
+    "opinion": 4
+   },
+   "blindspot_score": -0.25,
+   "blindspot_for": null,
+   "divergence": 0.542,
+   "category": "international",
+   "terms_left": [
+    "droite",
+    "extrême",
+    "extrême droite"
+   ],
+   "terms_right": [
+    "espagnols",
+    "crise",
+    "logement"
    ]
   },
   {
@@ -441,17 +471,47 @@
    },
    "blindspot_score": -0.2,
    "blindspot_for": null,
-   "divergence": 0.65,
+   "divergence": 0.651,
    "category": "société",
    "terms_left": [
     "pfas",
-    "qu",
-    "vie"
+    "vie",
+    "politique"
    ],
    "terms_right": [
     "france",
     "mailfert",
     "hommes"
+   ]
+  },
+  {
+   "title": "SpaceX pourra lancer un million de satellites pour ses centres de données dans l'espace",
+   "url": "https://www.lefigaro.fr/international/la-russie-s-appreterait-a-placer-une-arme-nucleaire-dans-l-espace-20261123",
+   "n_members": 59,
+   "n_sources": 28,
+   "counts": {
+    "left": 4,
+    "centre": 15,
+    "right": 9
+   },
+   "style_counts": {
+    "factuel": 17,
+    "mixte": 9,
+    "opinion": 2
+   },
+   "blindspot_score": 0.385,
+   "blindspot_for": null,
+   "divergence": 0.603,
+   "category": "international",
+   "terms_left": [
+    "spatiaux",
+    "spacex déployer",
+    "orbite"
+   ],
+   "terms_right": [
+    "musk",
+    "elon musk",
+    "elon"
    ]
   },
   {
@@ -485,6 +545,36 @@
    ]
   },
   {
+   "title": "Affaire Bardella : de nouveaux écrits antisémites révélés par « Le Monde » et Mediapart",
+   "url": "https://www.lemonde.fr/politique/article/2026/11/26/messages-antisemites-de-jordan-bardella-les-19-preuves-que-le-president-du-rn-est-bien-l-auteur-des-propos-incrimines-sur-messenger_6815482_823448.html",
+   "n_members": 79,
+   "n_sources": 27,
+   "counts": {
+    "left": 8,
+    "centre": 12,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 14,
+    "mixte": 9,
+    "opinion": 4
+   },
+   "blindspot_score": -0.067,
+   "blindspot_for": null,
+   "divergence": 0.246,
+   "category": "politique",
+   "terms_left": [
+    "antisémites jordan",
+    "messages",
+    "messages antisémites"
+   ],
+   "terms_right": [
+    "antisémites attribués",
+    "nouveaux éléments",
+    "attribués"
+   ]
+  },
+  {
    "title": "2027 : un second tour le 2 mai reste la meilleure option, selon le porte-parole du gouvernement",
    "url": "https://www.sudouest.fr/economie/agriculture/presidentielle-2027-les-jeunes-agriculteurs-publient-un-manifeste-pour-peser-sur-la-campagne-et-insistent-sur-la-transmission-31576893.php",
    "n_members": 74,
@@ -501,7 +591,7 @@
    },
    "blindspot_score": 0.2,
    "blindspot_for": null,
-   "divergence": 0.609,
+   "divergence": 0.605,
    "category": "politique",
    "terms_left": [
     "créateurs",
@@ -575,99 +665,9 @@
    ]
   },
   {
-   "title": "Affaire Bardella : de nouveaux écrits antisémites révélés par « Le Monde » et Mediapart",
-   "url": "https://www.lemonde.fr/politique/article/2026/11/26/messages-antisemites-de-jordan-bardella-les-19-preuves-que-le-president-du-rn-est-bien-l-auteur-des-propos-incrimines-sur-messenger_6815482_823448.html",
-   "n_members": 75,
-   "n_sources": 26,
-   "counts": {
-    "left": 7,
-    "centre": 12,
-    "right": 7
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 8,
-    "opinion": 4
-   },
-   "blindspot_score": 0.0,
-   "blindspot_for": null,
-   "divergence": 0.242,
-   "category": "politique",
-   "terms_left": [
-    "antisémites jordan",
-    "messages",
-    "messages antisémites"
-   ],
-   "terms_right": [
-    "antisémites attribués",
-    "nouveaux éléments",
-    "attribués"
-   ]
-  },
-  {
-   "title": "Législatives anticipées en Espagne : l’extrême droite va-t-elle arriver au pouvoir ?",
-   "url": "https://www.franceinfo.fr/monde/espagne/comment-le-premier-ministre-espagnol-pedro-sanchez-affaibli-sur-la-scene-interieure-a-su-faire-de-la-politique-etrangere-un-point-fort_8284973.html",
-   "n_members": 68,
-   "n_sources": 26,
-   "counts": {
-    "left": 8,
-    "centre": 13,
-    "right": 5
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 9,
-    "opinion": 3
-   },
-   "blindspot_score": -0.231,
-   "blindspot_for": null,
-   "divergence": 0.627,
-   "category": "international",
-   "terms_left": [
-    "élections",
-    "droite",
-    "extrême"
-   ],
-   "terms_right": [
-    "sánchez",
-    "pedro sánchez",
-    "tête"
-   ]
-  },
-  {
-   "title": "SpaceX pourra lancer un million de satellites pour ses centres de données dans l'espace",
-   "url": "https://www.lefigaro.fr/international/la-russie-s-appreterait-a-placer-une-arme-nucleaire-dans-l-espace-20261123",
-   "n_members": 57,
-   "n_sources": 26,
-   "counts": {
-    "left": 2,
-    "centre": 15,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 17,
-    "mixte": 7,
-    "opinion": 2
-   },
-   "blindspot_score": 0.636,
-   "blindspot_for": "gauche",
-   "divergence": 0.652,
-   "category": "international",
-   "terms_left": [
-    "envoi",
-    "spatiaux",
-    "russe"
-   ],
-   "terms_right": [
-    "spacex",
-    "satellites",
-    "états-unis"
-   ]
-  },
-  {
    "title": "Présidentielle 2027: pour les candidats comme pour les maires, la galère des parrainages",
    "url": "https://www.humanite.fr/politique/election-presidentielle/teddy-riner-president-la-derniere-carte-de-macron-banger-%f0%9f%92%a5-yerim-sar",
-   "n_members": 95,
+   "n_members": 97,
    "n_sources": 25,
    "counts": {
     "left": 5,
@@ -695,9 +695,9 @@
    ]
   },
   {
-   "title": "Budget 2027 : Sébastien Lecornu tend la main aux parlementaires pour un compromis, sans toucher au déficit",
+   "title": "Budget de la « Sécu » pour 2027 : un compromis à ce stade introuvable",
    "url": "https://www.bfmtv.com/politique/video-dix-ans-au-pouvoir-d-emmanuel-macron-ca-a-ete-deux-quinquennats-d-echecs-estime-laurent-jacobelli-porte-parole-du-rn_VN-202611160975.html",
-   "n_members": 73,
+   "n_members": 74,
    "n_sources": 25,
    "counts": {
     "left": 3,
@@ -711,12 +711,12 @@
    },
    "blindspot_score": 0.571,
    "blindspot_for": null,
-   "divergence": 0.67,
+   "divergence": 0.672,
    "category": "politique",
    "terms_left": [
-    "appelle",
-    "appelle compromis",
-    "compromis"
+    "qu",
+    "compromis",
+    "appelle"
    ],
    "terms_right": [
     "rn",
@@ -741,17 +741,47 @@
    },
    "blindspot_score": 0.167,
    "blindspot_for": null,
-   "divergence": 0.754,
+   "divergence": 0.771,
    "category": "société",
    "terms_left": [
     "fois",
-    "gisèle",
-    "pelicot"
+    "justice",
+    "maison"
    ],
    "terms_right": [
-    "françois",
-    "pape",
-    "cancer"
+    "cancer",
+    "grand",
+    "françois"
+   ]
+  },
+  {
+   "title": "Jusqu'à trois milliards d'euros de fraude : la Cour des comptes dresse un bilan cinglant de l'apprentissage",
+   "url": "https://www.ladepeche.fr/2026/11/21/elle-nen-revenait-pas-etonnante-erreur-informatique-a-la-croix-rouge-lassociation-a-verse-par-erreur-deux-millions-deuros-a-ses-salaries-13664784.php",
+   "n_members": 60,
+   "n_sources": 25,
+   "counts": {
+    "left": 5,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 15,
+    "mixte": 9,
+    "opinion": 1
+   },
+   "blindspot_score": 0.167,
+   "blindspot_for": null,
+   "divergence": 0.764,
+   "category": "économie",
+   "terms_left": [
+    "chine",
+    "affaire nvidia",
+    "affaire"
+   ],
+   "terms_right": [
+    "euros",
+    "millions",
+    "milliards euros"
    ]
   },
   {
@@ -771,17 +801,17 @@
    },
    "blindspot_score": 0.231,
    "blindspot_for": null,
-   "divergence": 0.428,
+   "divergence": 0.457,
    "category": "société",
    "terms_left": [
     "nahel merzouk",
     "merzouk",
-    "tué"
+    "enquête"
    ],
    "terms_right": [
+    "nahel",
     "affaire",
-    "cour",
-    "europe"
+    "appel"
    ]
   },
   {
@@ -823,7 +853,7 @@
    },
    "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.675,
+   "divergence": 0.676,
    "category": "politique",
    "terms_left": [
     "macron",
@@ -869,7 +899,7 @@
   {
    "title": "Présidentielle 2027 : \"L'Ukraine n'est pas notre guerre\"... Teddy Riner critique l’envoi de militaires français sur le sol ukrainien au Salon des maires de France",
    "url": "https://www.nicematin.com/societe/politique/c-est-de-la-posture-david-lisnard-juge-etrange-l-idee-d-emmanuel-macron-a-propos-d-une-regle-d-or-budgetaire-10767491",
-   "n_members": 75,
+   "n_members": 77,
    "n_sources": 24,
    "counts": {
     "left": 3,
@@ -883,7 +913,7 @@
    },
    "blindspot_score": 0.538,
    "blindspot_for": null,
-   "divergence": 0.575,
+   "divergence": 0.549,
    "category": "politique",
    "terms_left": [
     "veut",
@@ -891,8 +921,8 @@
     "conflit"
    ],
    "terms_right": [
-    "riner",
     "propos",
+    "riner",
     "teddy riner"
    ]
   },
@@ -913,7 +943,7 @@
    },
    "blindspot_score": -0.167,
    "blindspot_for": null,
-   "divergence": 0.4,
+   "divergence": 0.398,
    "category": "société",
    "terms_left": [
     "mois",
@@ -924,6 +954,36 @@
     "pengo",
     "hommage pengo",
     "bossio"
+   ]
+  },
+  {
+   "title": "Un dernier Choose France low cost, symbole de l’échec de la politique d’attractivité d’Emmanuel Macron",
+   "url": "https://www.ouest-france.fr/economie/exclusif-choose-france-voici-les-communes-de-louest-qui-accueillent-des-investissements-evoques-lors-du-sommet-1e8a3e34-e403-11f1-9a72-32f9104dab1b",
+   "n_members": 60,
+   "n_sources": 24,
+   "counts": {
+    "left": 4,
+    "centre": 13,
+    "right": 7
+   },
+   "style_counts": {
+    "factuel": 16,
+    "mixte": 7,
+    "opinion": 1
+   },
+   "blindspot_score": 0.273,
+   "blindspot_for": null,
+   "divergence": 0.547,
+   "category": "économie",
+   "terms_left": [
+    "entreprises",
+    "macron",
+    "emmanuel"
+   ],
+   "terms_right": [
+    "france",
+    "euros",
+    "investissements"
    ]
   },
   {
@@ -957,33 +1017,33 @@
    ]
   },
   {
-   "title": "Décryptage. Pourquoi la France va constituer des stocks stratégiques de terres rares et de métaux critiques",
-   "url": "https://www.ouest-france.fr/economie/exclusif-choose-france-voici-les-communes-de-louest-qui-accueillent-des-investissements-evoques-lors-du-sommet-1e8a3e34-e403-11f1-9a72-32f9104dab1b",
-   "n_members": 59,
+   "title": "Recul du PIB : la France est en légère récession depuis le deuxième trimestre",
+   "url": "https://www.lemonde.fr/argent/article/2026/11/24/les-epargnants-ont-retire-pres-de-10-milliards-d-euros-de-leurs-livret-a-depuis-janvier-un-record-depuis-dix-ans_6814708_1657007.html",
+   "n_members": 52,
    "n_sources": 24,
    "counts": {
     "left": 4,
-    "centre": 13,
-    "right": 7
+    "centre": 11,
+    "right": 9
    },
    "style_counts": {
-    "factuel": 16,
-    "mixte": 7,
-    "opinion": 1
+    "factuel": 14,
+    "mixte": 6,
+    "opinion": 4
    },
-   "blindspot_score": 0.273,
+   "blindspot_score": 0.385,
    "blindspot_for": null,
-   "divergence": 0.547,
+   "divergence": 0.541,
    "category": "économie",
    "terms_left": [
-    "entreprises",
-    "macron",
-    "emmanuel"
+    "ans",
+    "france récession",
+    "pays"
    ],
    "terms_right": [
-    "france",
-    "euros",
-    "investissements"
+    "prix",
+    "deuxième trimestre",
+    "inflation"
    ]
   },
   {
@@ -1003,7 +1063,7 @@
    },
    "blindspot_score": -0.333,
    "blindspot_for": null,
-   "divergence": 0.233,
+   "divergence": 0.234,
    "category": "culture",
    "terms_left": [
     "plainte",
@@ -1017,39 +1077,9 @@
    ]
   },
   {
-   "title": "La France entre en récession, le PIB continue de reculer",
-   "url": "https://www.lemonde.fr/argent/article/2026/11/24/les-epargnants-ont-retire-pres-de-10-milliards-d-euros-de-leurs-livret-a-depuis-janvier-un-record-depuis-dix-ans_6814708_1657007.html",
-   "n_members": 48,
-   "n_sources": 24,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 9
-   },
-   "style_counts": {
-    "factuel": 14,
-    "mixte": 6,
-    "opinion": 4
-   },
-   "blindspot_score": 0.385,
-   "blindspot_for": null,
-   "divergence": 0.586,
-   "category": "économie",
-   "terms_left": [
-    "france récession",
-    "ans",
-    "économistes"
-   ],
-   "terms_right": [
-    "inflation",
-    "français",
-    "deuxième trimestre"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : David Lisnard répond à Édouard Philippe et conditionne tout débat à une primaire",
+   "title": "Présidentielle 2027 : Édouard Philippe chute à 8% et se fait doubler par David Lisnard, troisième",
    "url": "https://www.nicematin.com/societe/politique/les-electeurs-du-rn-vont-voter-pour-une-socialiste-eric-zemmour-sans-filtre-face-aux-lecteurs-de-var-matin-et-nice-matin-10765012",
-   "n_members": 111,
+   "n_members": 115,
    "n_sources": 23,
    "counts": {
     "left": 1,
@@ -1063,12 +1093,12 @@
    },
    "blindspot_score": 0.8,
    "blindspot_for": "gauche",
-   "divergence": 0.596,
+   "divergence": 0.638,
    "category": "politique",
    "terms_left": [
     "edouard",
     "edouard philippe",
-    "président"
+    "départage"
    ],
    "terms_right": [
     "lisnard",
@@ -1079,7 +1109,7 @@
   {
    "title": "Scènes de violences à Marseille : les images des affrontements entre supporters lors du match OM-Levski Sofia",
    "url": "https://www.franceinfo.fr/sports/foot/ligue-europa/l-om-se-relance-en-ligue-europa-grace-a-sa-victoire-sur-le-levski-sofia_8302011.html",
-   "n_members": 68,
+   "n_members": 73,
    "n_sources": 23,
    "counts": {
     "left": 4,
@@ -1164,36 +1194,6 @@
     "élection présidentielle",
     "gauche",
     "david"
-   ]
-  },
-  {
-   "title": "France : Emmanuel Macron critique la “drôle d’arrogance” de Marine Le Pen",
-   "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/23/presidentielle-2027-le-mouvement-generation-s-s-engage-dans-la-campagne-de-jean-luc-melenchon_6814385_6205049.html",
-   "n_members": 55,
-   "n_sources": 23,
-   "counts": {
-    "left": 4,
-    "centre": 11,
-    "right": 8
-   },
-   "style_counts": {
-    "factuel": 13,
-    "mixte": 5,
-    "opinion": 5
-   },
-   "blindspot_score": 0.333,
-   "blindspot_for": null,
-   "divergence": 0.61,
-   "category": "politique",
-   "terms_left": [
-    "national",
-    "rassemblement",
-    "européen"
-   ],
-   "terms_right": [
-    "françois",
-    "lfi",
-    "mélenchon"
    ]
   }
  ]
